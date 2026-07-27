@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Giang mai tim mạch",
+    "position": [39, 57],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.54",
+      "A52.00",
+      "A52.06"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [195, 202],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [204, 212],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [225, 228],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phình động mạch",
+    "position": [245, 260],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

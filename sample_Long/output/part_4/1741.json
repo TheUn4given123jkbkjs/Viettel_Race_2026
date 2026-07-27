@@ -1,0 +1,48 @@
+[
+  {
+    "text": "sỏi túi mật",
+    "position": [30, 41],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
+  },
+  {
+    "text": "đauâm ỉ",
+    "position": [77, 84],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạ sườn phải",
+    "position": [85, 97],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh đặc hiệu khác của túi mât",
+    "position": [227, 257],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Alverine",
+    "position": [274, 282],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17627"]
+  },
+  {
+    "text": "Scopolamine butylbromide",
+    "position": [286, 310],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1851"]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Trào ngược dạ dày thực quản",
+    "position": [20, 47],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K21",
+      "K21.0",
+      "K21.9"
+    ]
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [94, 108],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
+  },
+  {
+    "text": "khàn tiếng mạn tính",
+    "position": [165, 184],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thanh quảnn nề",
+    "position": [209, 223],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [244, 251],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [270, 273],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm thanh khí quản mạn",
+    "position": [325, 348],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J37", "J37.1"]
+  }
+]

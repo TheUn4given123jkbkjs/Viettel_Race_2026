@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Suy gan mãn có hôn mê",
+    "position": [1993, 2014],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K72.11"]
+  },
+  {
+    "text": "Lactulose",
+    "position": [2092, 2101],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6218"]
+  },
+  {
+    "text": "Albumin",
+    "position": [2204, 2211],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["433"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1067, 1075],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [1109, 1112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "ung thư gan",
+    "position": [507, 518],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "C22.0",
+      "C22.1",
+      "C22.3"
+    ]
+  },
+  {
+    "text": "xơ gan rượu",
+    "position": [158, 169],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K70.2", "K70.3"]
+  },
+  {
+    "text": "aspirin",
+    "position": [379, 386],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1191"]
+  }
+]

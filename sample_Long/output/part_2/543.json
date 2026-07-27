@@ -1,0 +1,44 @@
+[
+  {
+    "text": "mệt mỏi mạn t ính",
+    "position": [128, 145],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau khớp",
+    "position": [217, 225],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau khắp cơ thể",
+    "position": [379, 394],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau mô sợi- cơ",
+    "position": [964, 978],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M79.7"]
+  },
+  {
+    "text": "Amitr iptyline",
+    "position": [1111, 1125],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1217, 1226],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

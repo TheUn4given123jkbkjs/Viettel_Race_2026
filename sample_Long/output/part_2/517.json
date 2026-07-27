@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Rò khớp",
+    "position": [0, 7],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M25.1", "D48.0"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [348, 361],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [367, 376],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Glucosamine",
+    "position": [775, 786],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chondroitin",
+    "position": [790, 801],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

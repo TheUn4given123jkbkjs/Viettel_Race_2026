@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Viêm ổ răng xương hàm",
+    "position": [0, 21],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K10.3"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [225, 236],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [242, 255],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "đau hàm",
+    "position": [151, 158],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng",
+    "position": [160, 164],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

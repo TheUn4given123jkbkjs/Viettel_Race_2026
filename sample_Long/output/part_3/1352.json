@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đau răng",
+    "position": [25, 33],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nướu xung quanh răng bị sưng đỏ",
+    "position": [87, 118],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [254, 261],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "áp xe quanh chân răng không có ổ",
+    "position": [451, 483],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K04.7"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [846, 875],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [932, 945],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

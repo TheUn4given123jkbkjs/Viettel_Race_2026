@@ -1,0 +1,51 @@
+[
+  {
+    "text": "hụt hơi",
+    "position": [83, 90],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tim đập nhanh",
+    "position": [129, 142],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồi hộp",
+    "position": [144, 151],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [490, 497],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh van hai lá, không đặc hiệu",
+    "position": [552, 583],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I05.9"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [991, 1001],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [1234, 1241],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "sỏi mật khác",
+    "position": [68, 80],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K80.1", "K80.8"]
+  },
+  {
+    "text": "Ursodiol",
+    "position": [230, 238],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [244, 257],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

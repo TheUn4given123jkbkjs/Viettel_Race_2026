@@ -1,0 +1,41 @@
+[
+  {
+    "text": "chảy máu lợi",
+    "position": [92, 104],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "ê buốt",
+    "position": [147, 153],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lỗ sâu",
+    "position": [199, 205],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [243, 246],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sâu ngà",
+    "position": [306, 313],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "W66",
+      "W68",
+      "W70"
+    ]
+  }
+]

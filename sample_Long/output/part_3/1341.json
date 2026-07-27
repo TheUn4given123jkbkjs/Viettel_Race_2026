@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh khớp vảy nến có tổn thương khớp ngón xa (L40.5†), cổ, bàn chân",
+    "position": [174, 241],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M07.07*"]
+  },
+  {
+    "text": "sưng đau khớp",
+    "position": [913, 926],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biến dạng móng",
+    "position": [995, 1009],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng khớp buổi sáng",
+    "position": [1081, 1100],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm điểm bám gân",
+    "position": [1169, 1186],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm cột sống cổ",
+    "position": [753, 769],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

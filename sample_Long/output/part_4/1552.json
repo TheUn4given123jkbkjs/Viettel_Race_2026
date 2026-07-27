@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Iohexol",
+    "position": [66, 73],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["5956"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [119, 132],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [183, 196],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nitroglycerin",
+    "position": [239, 252],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4917"]
+  }
+]

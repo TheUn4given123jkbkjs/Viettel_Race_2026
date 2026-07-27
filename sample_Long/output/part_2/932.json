@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Lao bẩm sinh",
+    "position": [173, 185],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P37.0"]
+  },
+  {
+    "text": "suy hô hấp",
+    "position": [257, 267],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gan to",
+    "position": [271, 277],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gan lách lớn",
+    "position": [560, 572],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp thở",
+    "position": [1116, 1124],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang phổi",
+    "position": [1250, 1262],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "chẩnđoán",
+    "position": [1340, 1348],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm phổi bẩm sinh do E Coli",
+    "position": [75, 103],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P23.4"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [231, 242],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Azithromycin",
+    "position": [246, 258],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [32, 49],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [167, 169],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [171, 174],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [179, 186],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [124, 141],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh thận mạn tính",
+    "position": [217, 235],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I68.8*"]
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [400, 412],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nước tiểu có nhiều bọt",
+    "position": [476, 498],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "protein niệu",
+    "position": [579, 591],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồng cầu niệu",
+    "position": [625, 638],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng viêm thận tiến triển, bất thường nhỏ ở cầu thận",
+    "position": [759, 816],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N01.0"]
+  },
+  {
+    "text": "sinh thiết thận",
+    "position": [889, 904],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

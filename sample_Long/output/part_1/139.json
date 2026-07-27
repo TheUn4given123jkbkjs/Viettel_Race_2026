@@ -1,0 +1,62 @@
+[
+  {
+    "text": "viêm mũi dị ứng",
+    "position": [57, 72],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J30",
+      "J30.1",
+      "J30.2"
+    ]
+  },
+  {
+    "text": "Loratadine",
+    "position": [124, 134],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["28889"]
+  },
+  {
+    "text": "hắt hơi",
+    "position": [193, 200],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sổ mũi",
+    "position": [204, 210],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khô miệng",
+    "position": [317, 326],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hen phế quản",
+    "position": [443, 455],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Fexofenadine",
+    "position": [1094, 1106],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi mũi xoang",
+    "position": [1338, 1355],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

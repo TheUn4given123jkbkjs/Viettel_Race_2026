@@ -1,0 +1,58 @@
+[
+  {
+    "text": "sốt nhẹ",
+    "position": [165, 172],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau rát họng",
+    "position": [335, 347],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [433, 440],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử Hen phế quản",
+    "position": [655, 675],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phế quản cấp do virus coxsackie",
+    "position": [1333, 1369],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J20.3"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2240, 2249],
+    "type": "THUOC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Oseltamivir",
+    "position": [2695, 2706],
+    "type": "THUOC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [2972, 2979],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

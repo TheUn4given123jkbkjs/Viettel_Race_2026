@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Chuyển dạ đình trệ do ngôi vai",
+    "position": [206, 236],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O64.4"]
+  },
+  {
+    "text": "Oxytocin",
+    "position": [275, 283],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7824"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [353, 366],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [51, 64],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [68, 78],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

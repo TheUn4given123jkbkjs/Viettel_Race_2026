@@ -1,0 +1,37 @@
+[
+  {
+    "text": "cúm do virus đã được định danh",
+    "position": [276, 306],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J09"]
+  },
+  {
+    "text": "Oseltamivir",
+    "position": [333, 344],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["260101"]
+  },
+  {
+    "text": "acetaminophen",
+    "position": [348, 361],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "viêm phổi",
+    "position": [94, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dị ứng với penicillin",
+    "position": [116, 137],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

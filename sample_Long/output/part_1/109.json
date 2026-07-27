@@ -1,0 +1,51 @@
+[
+  {
+    "text": "sốt",
+    "position": [118, 121],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [137, 145],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau ngónchân",
+    "position": [169, 181],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hìnbúa",
+    "position": [258, 264],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Biến dạng ngón chân hình búa (mắc phải)",
+    "position": [299, 338],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M20.4"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [351, 360],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [362, 372],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  }
+]

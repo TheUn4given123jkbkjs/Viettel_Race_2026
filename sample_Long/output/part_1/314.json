@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Protein niệu [Tiểu đạm] dai dẳng, không đặc hiệu",
+    "position": [0, 48],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N39.1"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [112, 119],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng chân tay",
+    "position": [121, 134],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [136, 145],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

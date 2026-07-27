@@ -1,0 +1,23 @@
+[
+  {
+    "text": "xuất huyết nội sọ tại bán cầu, vùng dưới vỏ",
+    "position": [26, 69],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I61.0"]
+  },
+  {
+    "text": "THA",
+    "position": [84, 87],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "5 năm",
+    "position": [88, 93],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

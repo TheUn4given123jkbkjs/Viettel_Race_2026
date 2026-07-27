@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Đái tháo đường type 2",
+    "position": [18, 39],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [131, 138],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biến dạng vùng cẳng tay",
+    "position": [142, 165],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh khớp do thần kinh, cẳng tay",
+    "position": [276, 308],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M14.63*"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [332, 345],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [381, 390],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

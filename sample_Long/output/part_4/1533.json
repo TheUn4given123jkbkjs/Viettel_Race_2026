@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Hạ huyết áp, không đặc hiệu",
+    "position": [50, 77],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I95.9"]
+  },
+  {
+    "text": "hoa mắt",
+    "position": [519, 526],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [528, 537],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngất xỉu",
+    "position": [626, 634],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [696, 705],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận đau ngực",
+    "position": [709, 726],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [752, 759],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

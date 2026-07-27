@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Hội chứng truyền máu qua bánh rau",
+    "position": [90, 123],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O43.0"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [23, 40],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [42, 51],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [171, 188],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

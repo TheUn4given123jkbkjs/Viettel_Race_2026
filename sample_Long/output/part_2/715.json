@@ -1,0 +1,55 @@
+[
+  {
+    "text": "đau bụng",
+    "position": [95, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [220, 228],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [238, 241],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "vỡ ối",
+    "position": [319, 324],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường tuýp 2",
+    "position": [525, 542],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Đẻ thường một thai",
+    "position": [1295, 1313],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O80",
+      "O80.8",
+      "O80.9"
+    ]
+  },
+  {
+    "text": "Oxytocin",
+    "position": [1453, 1461],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7824"]
+  }
+]

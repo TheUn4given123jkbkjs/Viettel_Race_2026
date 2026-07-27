@@ -1,0 +1,44 @@
+[
+  {
+    "text": "sốt nhẹ",
+    "position": [749, 756],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạch sau tai",
+    "position": [1074, 1086],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau khớp",
+    "position": [1240, 1248],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "IgM Rubella dương tính",
+    "position": [1942, 1964],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm khớp trong bệnh Rubella (B06.8†), vị trí không xác định",
+    "position": [2331, 2391],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M01.49*"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2787, 2796],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

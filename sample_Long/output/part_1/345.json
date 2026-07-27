@@ -1,0 +1,51 @@
+[
+  {
+    "text": "THA",
+    "position": [97, 100],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [123, 133],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "đau khớp háng phải",
+    "position": [310, 328],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [638, 641],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [750, 763],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Các thoái hóa khớp háng nguyên phát khác",
+    "position": [1299, 1339],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M16.1"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [1360, 1369],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  }
+]

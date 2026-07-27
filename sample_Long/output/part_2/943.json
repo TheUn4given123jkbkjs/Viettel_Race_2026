@@ -1,0 +1,37 @@
+[
+  {
+    "text": "mẹ bị đái tháo đường type 2",
+    "position": [319, 346],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1335, 1344],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm tử cung phần phụ",
+    "position": [1355, 1379],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cấu trúc hồi âm hỗn hợp",
+    "position": [1407, 1430],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sót phần bánh rau và màng rau, không có chảy máu",
+    "position": [1981, 2029],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O73.1"]
+  }
+]

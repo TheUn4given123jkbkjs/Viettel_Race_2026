@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Amikacin",
+    "position": [38, 46],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["641"]
+  },
+  {
+    "text": "mất thính giác",
+    "position": [325, 339],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rung chân tay",
+    "position": [341, 354],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [356, 365],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không buồn nôn",
+    "position": [367, 381],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

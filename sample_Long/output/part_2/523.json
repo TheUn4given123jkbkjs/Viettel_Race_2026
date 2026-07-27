@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Hydrocortisone acetate",
+    "position": [38, 60],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["27197"]
+  },
+  {
+    "text": "không sốt",
+    "position": [469, 478],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không buồn nôn",
+    "position": [480, 494],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

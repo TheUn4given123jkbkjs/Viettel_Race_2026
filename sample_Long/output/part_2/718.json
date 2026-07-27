@@ -1,0 +1,44 @@
+[
+  {
+    "text": "ọc sữa",
+    "position": [70, 76],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chướng bụng",
+    "position": [80, 91],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trào ngược dạ dày thực quản",
+    "position": [450, 477],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Các rối loạn khác của hệ tiêu hóa trong giai đoạn chu sinh",
+    "position": [709, 767],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P78"]
+  },
+  {
+    "text": "Zinc sulfate",
+    "position": [1035, 1047],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["39954"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1180, 1193],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

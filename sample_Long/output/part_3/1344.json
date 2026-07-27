@@ -1,0 +1,58 @@
+[
+  {
+    "text": "mệt mỏi kéo dài",
+    "position": [776, 791],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng mắt nhẹ",
+    "position": [795, 807],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [460, 467],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "ấn đau vùng hạ sườn phải",
+    "position": [929, 953],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm HBsAg",
+    "position": [1029, 1045],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Định lượng virus HBV-DNA",
+    "position": [1047, 1071],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HBsAg dương tính",
+    "position": [1156, 1172],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT tăng cao gấp 3 lần bình thường",
+    "position": [1176, 1210],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

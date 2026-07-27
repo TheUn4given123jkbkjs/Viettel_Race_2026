@@ -1,0 +1,58 @@
+[
+  {
+    "text": "đau bụng",
+    "position": [433, 441],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [744, 756],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm đầu dò âm đạo",
+    "position": [1653, 1674],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kém hiệu lực cổ tử cung",
+    "position": [2261, 2284],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N88.3"]
+  },
+  {
+    "text": "Progesterone",
+    "position": [2981, 2993],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8727"]
+  },
+  {
+    "text": "Magnesium sulfate",
+    "position": [3177, 3194],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6585"]
+  },
+  {
+    "text": "Chiều dài kênh cổ tử cung",
+    "position": [1734, 1759],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18mm",
+    "position": [1793, 1797],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "vết trầy xước nhỏ",
+    "position": [46, 63],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng đỏ",
+    "position": [124, 131],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau rát",
+    "position": [237, 244],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [279, 286],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm bạch mạch huyết cấp ở thân",
+    "position": [536, 567],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L04.1"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [1015, 1044],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1135, 1148],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

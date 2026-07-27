@@ -1,0 +1,51 @@
+[
+  {
+    "text": "ung thư phổi",
+    "position": [247, 259],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D02.2"]
+  },
+  {
+    "text": "khó thở",
+    "position": [481, 488],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [622, 634],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [696, 713],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [1090, 1098],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "căng giãn phổi quá mức",
+    "position": [1187, 1209],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh phổi tắc nghẽn mãn tính đợt cấp, không phân loại",
+    "position": [1262, 1315],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J44.1"]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [125, 132],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [157, 165],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [175, 178],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Các bệnh khác của máu, cơ quan tạo máu và rối loại cơ chế miễn dịch gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
+    "position": [231, 350],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O99.1"]
+  },
+  {
+    "text": "Iron",
+    "position": [378, 382],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["90176", "105658"]
+  }
+]

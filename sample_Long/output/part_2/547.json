@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Biến chứng tim của gây mê trong chuyển dạ, trong đẻ",
+    "position": [72, 123],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O74.2"]
+  },
+  {
+    "text": "tụt huyết áp",
+    "position": [281, 293],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn nhịp",
+    "position": [297, 310],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực dữ dội",
+    "position": [335, 350],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Epinephrine",
+    "position": [388, 399],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3992", "107602"]
+  },
+  {
+    "text": "Digoxin",
+    "position": [405, 412],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  }
+]

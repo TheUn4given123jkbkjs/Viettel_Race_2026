@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Áp Xe Hàm Mặt Do Viêm Ổ Răng",
+    "position": [241, 269],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K10.4"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [415, 428],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [677, 685],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

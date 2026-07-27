@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Hội chứng thận hư, viêm cầu thận màng lan tỏa",
+    "position": [520, 565],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N04.2"]
+  },
+  {
+    "text": "Acarbose",
+    "position": [256, 264],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["16681"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [329, 336],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [946, 957],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1006, 1019],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acenocoumarol",
+    "position": [1092, 1105],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["154"]
+  }
+]

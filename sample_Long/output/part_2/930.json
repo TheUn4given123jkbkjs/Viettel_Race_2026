@@ -1,0 +1,44 @@
+[
+  {
+    "text": "tăng huyết á p",
+    "position": [110, 124],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "loãng xướng",
+    "position": [371, 382],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau vai phải cấp tính",
+    "position": [745, 766],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [1144, 1156],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1288, 1305],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Lắng đọng can xi ở túi thanh mạc",
+    "position": [2651, 2683],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M71.4"]
+  }
+]

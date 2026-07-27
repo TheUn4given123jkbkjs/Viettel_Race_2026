@@ -1,0 +1,23 @@
+[
+  {
+    "text": "chảy máu vào tuần hoàn người mẹ",
+    "position": [153, 184],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P50.4"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [294, 307],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [25, 42],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

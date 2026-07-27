@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Loạn nhịp tim xác định khác",
+    "position": [0, 27],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I49.8"]
+  },
+  {
+    "text": "đau ngực",
+    "position": [161, 169],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [171, 178],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [180, 189],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tâm đồ",
+    "position": [446, 457],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm tim",
+    "position": [461, 472],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

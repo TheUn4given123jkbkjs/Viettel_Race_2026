@@ -1,0 +1,37 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [13, 30],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh van ba lá không do thấp khác, không đặc hiệu",
+    "position": [42, 91],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I36.9"]
+  },
+  {
+    "text": "tiểuđường",
+    "position": [102, 111],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [113, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [189, 202],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

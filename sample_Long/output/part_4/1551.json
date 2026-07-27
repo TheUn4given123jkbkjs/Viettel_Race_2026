@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Bệnh bụi phổi không phân loại",
+    "position": [51, 80],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J64"]
+  },
+  {
+    "text": "xơ hóa",
+    "position": [482, 488],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [666, 673],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [702, 722],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [773, 781],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [883, 886],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chụp CT scan ngực cao phân giải (HRCT)",
+    "position": [1004, 1042],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Chuyển dạ và đẻ có nhịp tim thai bất thường và nước ối lẫn phân su",
+    "position": [259, 325],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O68.2"]
+  },
+  {
+    "text": "nước ối lẫn phân su",
+    "position": [306, 325],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim thai bất thường",
+    "position": [278, 302],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Monitor sản khoa",
+    "position": [1763, 1779],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp nhanh",
+    "position": [1852, 1862],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp chậm",
+    "position": [1905, 1914],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp chậm muộn",
+    "position": [1979, 1993],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

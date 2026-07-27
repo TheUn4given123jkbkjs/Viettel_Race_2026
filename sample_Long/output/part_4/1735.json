@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Tăng huyết áp động mạch phổi thứ phát",
+    "position": [58, 95],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I27.2"]
+  },
+  {
+    "text": "bệnh lý van tim",
+    "position": [162, 177],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I08"]
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [249, 269],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi kéo dài",
+    "position": [273, 288],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

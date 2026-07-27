@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Mủ lồng ngực không có lỗ rò",
+    "position": [1862, 1889],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J86.9"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2095, 2106],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Clindamycin",
+    "position": [2139, 2150],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2582"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [729, 737],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [486, 493],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "pH dịch màng phổi",
+    "position": [1744, 1761],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.9",
+    "position": [1765, 1768],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC",
+    "position": [1365, 1368],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

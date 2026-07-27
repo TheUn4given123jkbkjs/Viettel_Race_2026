@@ -1,0 +1,59 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [295, 308],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "ung thư cổ tử cung",
+    "position": [433, 451],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "D06",
+      "D06.7",
+      "D06.9"
+    ]
+  },
+  {
+    "text": "khối phồng",
+    "position": [927, 937],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1536, 1544],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sa tử cung âm đạo không hoàn toàn",
+    "position": [2148, 2181],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N81.2"]
+  },
+  {
+    "text": "Povidone-iodine",
+    "position": [2520, 2535],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8611"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2824, 2837],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [26, 43],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau vùng phía sau cơ thể",
+    "position": [57, 81],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M54.8"]
+  }
+]

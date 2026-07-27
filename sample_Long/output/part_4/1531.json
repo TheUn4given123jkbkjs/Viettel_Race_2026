@@ -1,0 +1,44 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [121, 140],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "mảng xơ cứng",
+    "position": [69, 81],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [641, 650],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sinh thiết da",
+    "position": [906, 919],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lắng đọng collagen dày đặc",
+    "position": [940, 966],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các bệnh tổ chức liên kết khu trú khác",
+    "position": [1245, 1283],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L94", "L94.8"]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "hen chủ yếu do dị ứng",
+    "position": [234, 255],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J45.0"]
+  },
+  {
+    "text": "THA",
+    "position": [311, 314],
+    "type": "BỆNH_NỀN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "cắt bỏ túi mật",
+    "position": [349, 363],
+    "type": "THỰC_HIỆN_PHẪU_THUẬT",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [435, 438],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [473, 480],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [484, 491],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

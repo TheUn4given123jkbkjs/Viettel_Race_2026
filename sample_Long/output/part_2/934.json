@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Sốt rét",
+    "position": [28, 35],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Z86.13",
+      "T37.2",
+      "Y41.2"
+    ]
+  },
+  {
+    "text": "sốt cao",
+    "position": [205, 212],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rét run",
+    "position": [214, 221],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [225, 234],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Artesunate / Amodiaquine",
+    "position": [297, 321],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["711398"]
+  }
+]

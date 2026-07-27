@@ -1,0 +1,55 @@
+[
+  {
+    "text": "loãng xương",
+    "position": [231, 242],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
+  },
+  {
+    "text": "đau nhức mạn tính vùng gối trái",
+    "position": [462, 493],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [746, 754],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "nôn mửa",
+    "position": [767, 774],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm khớp, xương sau chấn thương một bên, ở gối trái",
+    "position": [1093, 1145],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M17.32"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1169, 1179],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1248, 1261],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

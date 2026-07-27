@@ -1,0 +1,45 @@
+[
+  {
+    "text": "Haemophilus influenzae type b Vaccine",
+    "position": [111, 148],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "2388452",
+      "50937",
+      "2368450"
+    ]
+  },
+  {
+    "text": "Sốt cao",
+    "position": [213, 220],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khann",
+    "position": [241, 249],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm họng cấp",
+    "position": [272, 285],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J00",
+      "J02",
+      "J02.8"
+    ]
+  },
+  {
+    "text": "Paracetamoll",
+    "position": [319, 331],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Động kinh",
+    "position": [35, 44],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F19.10",
+      "F19.12",
+      "F19.14"
+    ]
+  },
+  {
+    "text": "co giật",
+    "position": [185, 192],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ý thức",
+    "position": [194, 204],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc kháng động kinh",
+    "position": [263, 284],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Carbamazepine",
+    "position": [321, 334],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2002"]
+  },
+  {
+    "text": "cơn co giật",
+    "position": [408, 419],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Rối loạn bàng quang trong các bệnh khác phân loại nơi khác",
+    "position": [374, 432],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N33.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [242, 255],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [259, 269],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "không sốt",
+    "position": [312, 321],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Allopurinol",
+    "position": [467, 478],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["519"]
+  }
+]

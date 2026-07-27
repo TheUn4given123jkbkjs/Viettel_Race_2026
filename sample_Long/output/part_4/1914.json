@@ -1,0 +1,62 @@
+[
+  {
+    "text": "viêm dạ dày mạn tính",
+    "position": [61, 81],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K29.3", "K29.4"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [150, 171],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau khớp gối",
+    "position": [303, 315],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng khớp",
+    "position": [532, 541],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [561, 564],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Nhuyễn sụn",
+    "position": [851, 861],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M22.40",
+      "M22.41",
+      "M22.42"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [986, 999],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [1035, 1044],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  }
+]

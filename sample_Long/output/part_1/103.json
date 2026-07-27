@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Cổ trướng máu",
+    "position": [483, 496],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K66.1"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [73, 80],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [82, 89],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng chân",
+    "position": [93, 102],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [141, 154],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [444, 452],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

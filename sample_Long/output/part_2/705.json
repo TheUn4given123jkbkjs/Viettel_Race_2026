@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Nôn ra máu sơ sinh -",
+    "position": [220, 240],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P54.0", "P78.2"]
+  },
+  {
+    "text": "tiểu đường",
+    "position": [96, 106],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp",
+    "position": [119, 127],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "nôn ra máu",
+    "position": [56, 66],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [186, 189],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [193, 202],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

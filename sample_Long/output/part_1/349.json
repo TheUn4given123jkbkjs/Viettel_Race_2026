@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Cơn đau thắt ngực ổn định",
+    "position": [47, 72],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I20.0"]
+  },
+  {
+    "text": "Bệnh mạch vành",
+    "position": [400, 414],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["A52.06", "I25.0"]
+  },
+  {
+    "text": "Nitroglycerin",
+    "position": [507, 520],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4917"]
+  },
+  {
+    "text": "đè nén",
+    "position": [754, 760],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [934, 942],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [952, 961],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1201, 1208],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "can thiệp mạch vành qua da",
+    "position": [1358, 1384],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

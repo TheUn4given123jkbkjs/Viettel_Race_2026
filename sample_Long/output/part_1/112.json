@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Ivermectin",
+    "position": [37, 47],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6069"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [123, 130],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [134, 143],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [393, 410],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

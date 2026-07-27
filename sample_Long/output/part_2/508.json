@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau nhức ở cổ tay",
+    "position": [34, 51],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "sưng nhẹ",
+    "position": [85, 93],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Hư điểm cốt hóa ở trẻ em ở tay",
+    "position": [410, 440],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["M92.0", "M92.2"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [699, 712],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [851, 860],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "viêm sưng",
+    "position": [791, 800],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "chụp X-quang",
+    "position": [1058, 1070],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

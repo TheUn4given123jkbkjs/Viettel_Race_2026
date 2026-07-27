@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Quinine",
+    "position": [470, 477],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9071"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [738, 751],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1517, 1525],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "ù tai",
+    "position": [1068, 1073],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thính lực đồ",
+    "position": [1725, 1737],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điếc tiếp nhận",
+    "position": [1770, 1784],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methylprednisolon",
+    "position": [2353, 2370],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  }
+]

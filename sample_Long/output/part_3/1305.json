@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Suy gan mãn không hôn mê",
+    "position": [0, 24],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K72.10"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [199, 206],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [227, 236],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [479, 492],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [496, 510],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "khó thở",
+    "position": [31, 38],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khàn đặc",
+    "position": [65, 73],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư phổi",
+    "position": [354, 366],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D02.2"]
+  },
+  {
+    "text": "thở rít thanh quản",
+    "position": [493, 511],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [550, 553],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [566, 574],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm thanh quản tắc nghẽn [tắc nghẽn thanh quản] và nắp thanh môn cấp",
+    "position": [834, 903],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J05"]
+  }
+]

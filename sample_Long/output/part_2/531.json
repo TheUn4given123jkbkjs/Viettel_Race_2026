@@ -1,0 +1,58 @@
+[
+  {
+    "text": "đau âm ỉ vùng thượng vị",
+    "position": [250, 273],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầy hơi",
+    "position": [394, 401],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụt cân không rõ nguyên nhân",
+    "position": [951, 979],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng vùng thượng vị",
+    "position": [807, 830],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm công thức máu toàn phần (CBC)",
+    "position": [2207, 2247],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi dạ dày tá tràng",
+    "position": [2338, 2361],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ấn đau nhẹ vùng thượng vị",
+    "position": [3038, 3063],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bụng mềm",
+    "position": [2998, 3006],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

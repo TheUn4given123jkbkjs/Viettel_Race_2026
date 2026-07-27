@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Bệnh van ba lá không do thấp",
+    "position": [0, 28],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I36",
+      "I36.8",
+      "I36.9"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [131, 138],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [191, 200],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [351, 364],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [370, 380],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  }
+]

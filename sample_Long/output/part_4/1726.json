@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Calcium gluconate",
+    "position": [147, 164],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1908"]
+  },
+  {
+    "text": "bệnh thận mãn tính",
+    "position": [42, 60],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh loãng xương",
+    "position": [64, 80],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
+  },
+  {
+    "text": "bệnh tiểu đường loại 2",
+    "position": [247, 269],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [273, 285],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

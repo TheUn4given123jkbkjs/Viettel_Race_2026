@@ -1,0 +1,55 @@
+[
+  {
+    "text": "đau bụng vùng hạ sườn phải",
+    "position": [58, 84],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [102, 105],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [113, 120],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Nang đường mật",
+    "position": [384, 398],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["K83.5"]
+  },
+  {
+    "text": "viêm đường mật",
+    "position": [514, 528],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.3"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [988, 1001],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Scopolamine butylbromide",
+    "position": [1079, 1103],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1851"]
+  }
+]

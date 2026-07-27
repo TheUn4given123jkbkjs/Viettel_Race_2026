@@ -333,13 +333,14 @@ def main():
     os.makedirs(input_dir, exist_ok=True)
     os.makedirs(output_dir, exist_ok=True)
     
-    # Đếm số lượng tệp hiện có để bắt đầu đánh số
+    # Đếm số lượng tệp hiện có để bắt đầu đánh số (quét cả subfolder part_1, part_2...)
     existing_indices = []
-    for f in os.listdir(input_dir):
-        if f.endswith(".txt"):
-            name = f[:-4]
-            if name.isdigit():
-                existing_indices.append(int(name))
+    for root, _, files in os.walk(input_dir):
+        for f in files:
+            if f.endswith(".txt"):
+                name = f[:-4]
+                if name.isdigit():
+                    existing_indices.append(int(name))
     start_idx = max(existing_indices) + 1 if existing_indices else 1
     already_done = len(existing_indices)
     remaining = max(0, args.num_samples - already_done)
@@ -422,9 +423,15 @@ def main():
             consecutive_fails += 1
             continue
             
-        # 5. Ghi tệp kết quả
-        txt_path = os.path.join(input_dir, f"{current_file_idx}.txt")
-        json_path = os.path.join(output_dir, f"{current_file_idx}.json")
+        # 5. Ghi tệp kết quả theo subfolder part_N (mỗi folder 500 file)
+        part_num = (current_file_idx - 1) // 500 + 1
+        part_input_dir = os.path.join(input_dir, f"part_{part_num}")
+        part_output_dir = os.path.join(output_dir, f"part_{part_num}")
+        os.makedirs(part_input_dir, exist_ok=True)
+        os.makedirs(part_output_dir, exist_ok=True)
+        
+        txt_path = os.path.join(part_input_dir, f"{current_file_idx}.txt")
+        json_path = os.path.join(part_output_dir, f"{current_file_idx}.json")
         
         with open(txt_path, "w", encoding="utf-8") as f:
             f.write(text_content)

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Biến chứng chỉ rõ khác của chuyển dạ và đẻ",
+    "position": [603, 645],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O75.8"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [117, 130],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tiểu đường type 2",
+    "position": [191, 213],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [858, 867],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [371, 378],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy thai",
+    "position": [405, 413],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

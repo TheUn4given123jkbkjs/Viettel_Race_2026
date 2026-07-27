@@ -1,0 +1,51 @@
+[
+  {
+    "text": "bệnh thận mạn tính",
+    "position": [653, 671],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I68.8*"]
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [675, 687],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp do nguyên nhân mạch thận",
+    "position": [1213, 1251],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I15.0"]
+  },
+  {
+    "text": "hẹp động mạch thận",
+    "position": [1473, 1491],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q27.1"]
+  },
+  {
+    "text": "Captopril",
+    "position": [2160, 2169],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1998"]
+  },
+  {
+    "text": "siêu âm Doppler động mạch thận",
+    "position": [2833, 2863],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp CT mạch máu",
+    "position": [2942, 2958],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

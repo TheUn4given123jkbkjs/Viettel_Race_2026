@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Đái tháo đường typ 2",
+    "position": [165, 185],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "bện lý",
+    "position": [345, 351],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù hai chân",
+    "position": [456, 468],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu thấy có nhiều bọt",
+    "position": [569, 591],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [704, 711],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [760, 763],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng viêm thận tiến triển, tổn thương cầu thận ổ và thùy",
+    "position": [910, 971],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N01.1"]
+  },
+  {
+    "text": "phẫuthuật",
+    "position": [1333, 1342],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

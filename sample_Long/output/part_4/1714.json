@@ -1,0 +1,55 @@
+[
+  {
+    "text": "thoái hóa khớp gối",
+    "position": [696, 714],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "M17",
+      "M17.0",
+      "M17.1"
+    ]
+  },
+  {
+    "text": "đau khớp gối phải",
+    "position": [1056, 1073],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1613, 1622],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không có hiện tượng kẹt khớp",
+    "position": [1734, 1762],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "MRI khớp gối",
+    "position": [2671, 2683],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối tăng tín hiệu dạng nang",
+    "position": [2750, 2778],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kén (nang) sụn chêm dây chằng không đặc hiệu hoặc sụn chêm không đặc hiệu",
+    "position": [3139, 3212],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M23.03", "M23.09"]
+  }
+]

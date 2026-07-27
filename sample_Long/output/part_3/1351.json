@@ -1,0 +1,59 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [79, 87],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I48",
+      "I48.0",
+      "I48.1"
+    ]
+  },
+  {
+    "text": "Amiodarone",
+    "position": [203, 213],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["703"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [282, 295],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [485, 492],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [625, 632],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ran nổ",
+    "position": [1086, 1092],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi kẽ",
+    "position": [1360, 1372],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B22.1"]
+  }
+]

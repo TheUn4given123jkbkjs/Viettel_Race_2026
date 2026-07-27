@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Dị vật nội khớp",
+    "position": [38, 53],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M23.4", "M24.0"]
+  },
+  {
+    "text": "kẹt khớp",
+    "position": [639, 647],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau khớp",
+    "position": [778, 786],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng khớp",
+    "position": [838, 847],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [1042, 1049],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI",
+    "position": [1055, 1058],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "text": "mệ mỏi",
+    "position": [153, 159],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nước tiểu có màu sẫm",
+    "position": [311, 331],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xơ gan",
+    "position": [440, 446],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "K71.7",
+      "K74",
+      "K74.0"
+    ]
+  },
+  {
+    "text": "Viêm gan mãn, không phân loại nơi khác",
+    "position": [568, 606],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K73",
+      "K73.0",
+      "K73.1"
+    ]
+  },
+  {
+    "text": "xétnghiệm",
+    "position": [1719, 1728],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm bụng",
+    "position": [2599, 2611],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "men gan",
+    "position": [1751, 1758],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

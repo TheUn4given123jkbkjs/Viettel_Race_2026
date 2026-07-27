@@ -1,0 +1,62 @@
+[
+  {
+    "text": "viêm mũi dị ứng",
+    "position": [66, 81],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J30",
+      "J30.1",
+      "J30.2"
+    ]
+  },
+  {
+    "text": "hen phế quản",
+    "position": [281, 293],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "sẩn phù",
+    "position": [448, 455],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngứa",
+    "position": [469, 473],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thử nghiệm áp đá",
+    "position": [892, 908],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính",
+    "position": [937, 947],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mày đay do lạnh và nóng",
+    "position": [1106, 1129],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L50.2"]
+  },
+  {
+    "text": "phù mạch",
+    "position": [1731, 1739],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

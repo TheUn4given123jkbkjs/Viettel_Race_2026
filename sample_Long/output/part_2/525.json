@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Viêm da cơ địa",
+    "position": [128, 142],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "L20",
+      "L20.8",
+      "L20.9"
+    ]
+  },
+  {
+    "text": "ngứa ngáy",
+    "position": [615, 624],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vết trầy xước",
+    "position": [1001, 1014],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [1127, 1134],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu ái toan tăng nhẹ",
+    "position": [1987, 2012],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ngứa khác",
+    "position": [2450, 2459],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L28.2", "L29.8"]
+  },
+  {
+    "text": "Loratadine",
+    "position": [2731, 2741],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["28889"]
+  },
+  {
+    "text": "Alimemazine",
+    "position": [2840, 2851],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10825"]
+  }
+]

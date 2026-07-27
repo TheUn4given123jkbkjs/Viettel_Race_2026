@@ -1,0 +1,58 @@
+[
+  {
+    "text": "huyết áp cao",
+    "position": [94, 106],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư biểu mô tế bào đáy",
+    "position": [267, 293],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau đớn",
+    "position": [484, 491],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [525, 528],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [539, 547],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm da",
+    "position": [1023, 1033],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cấu trúc nang biểu bì",
+    "position": [1078, 1099],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đa nang tóc",
+    "position": [1217, 1228],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L68.3"]
+  }
+]

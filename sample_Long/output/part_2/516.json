@@ -1,0 +1,51 @@
+[
+  {
+    "text": "tăng huyết áp mạn tính",
+    "position": [225, 247],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["O11"]
+  },
+  {
+    "text": "siêu âm Doppler",
+    "position": [534, 549],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhau cài răng lược",
+    "position": [610, 628],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mạch nhanh",
+    "position": [1718, 1728],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp tụt",
+    "position": [1732, 1744],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mổ lấy thai, tiếp theo cắt tử cung",
+    "position": [2020, 2054],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O82.2"]
+  },
+  {
+    "text": "công thức máu",
+    "position": [1024, 1037],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

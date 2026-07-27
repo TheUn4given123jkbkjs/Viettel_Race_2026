@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Rụng tóc có sẹo khác",
+    "position": [42, 62],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L66.8"]
+  },
+  {
+    "text": "ngứa ngáy",
+    "position": [1542, 1551],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau rát",
+    "position": [1555, 1562],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1827, 1836],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "anh trai cũng gặp tình trạng rụng tóc từng mảng lớn",
+    "position": [2045, 2096],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Doxycycline",
+    "position": [2708, 2719],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3640"]
+  },
+  {
+    "text": "Azathioprine",
+    "position": [2976, 2988],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1256"]
+  }
+]

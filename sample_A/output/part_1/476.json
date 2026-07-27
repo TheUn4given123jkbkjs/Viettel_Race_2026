@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Loạn trương lực cơ không có tính gia đình nguyên phát",
+    "position": [33, 86],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["G24.2"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [597, 610],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Albuterol",
+    "position": [616, 625],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "THA",
+    "position": [417, 420],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

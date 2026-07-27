@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Rối loạn nội tiết và chuyển hóa sau điều trị khác",
+    "position": [47, 96],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["E89.8", "E89"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [475, 483],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [487, 500],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [18, 27],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

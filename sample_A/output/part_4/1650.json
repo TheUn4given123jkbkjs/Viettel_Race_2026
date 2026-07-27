@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Scopolamine hydrobromide",
+    "position": [152, 176],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9603"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [52, 65],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường loại 2",
+    "position": [69, 86],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loét dạ dày",
+    "position": [196, 207],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [286, 294],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

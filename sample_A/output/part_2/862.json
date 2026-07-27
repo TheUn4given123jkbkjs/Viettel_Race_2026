@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Các bệnh khác của thần kinh thị (dây thần kinh II) và đường thị giác",
+    "position": [376, 444],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H47"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [215, 226],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [246, 253],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Bệnh tim mạch",
+    "position": [75, 88],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh tiểu đường",
+    "position": [93, 108],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh thần kinh thị (dây thần kinh II) và đường thị giác",
+    "position": [138, 193],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin",
+    "position": [296, 304],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol",
+    "position": [337, 348],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U ác của tuyến nước bọt dưới hàm dưới",
+    "position": [303, 340],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["C08.0"]
+  },
+  {
+    "text": "THA",
+    "position": [95, 98],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [365, 373],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [383, 386],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Vẹo cổ",
+    "position": [493, 499],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["G24.3", "M43.6"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [527, 540],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [544, 553],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

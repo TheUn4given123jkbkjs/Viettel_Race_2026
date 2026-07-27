@@ -1,0 +1,23 @@
+[
+  {
+    "text": "bệnh giun sán đặc hiệu khác",
+    "position": [55, 82],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B83.8"]
+  },
+  {
+    "text": "Albendazole",
+    "position": [529, 540],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["430"]
+  },
+  {
+    "text": "Ivermectin",
+    "position": [544, 554],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6069"]
+  }
+]

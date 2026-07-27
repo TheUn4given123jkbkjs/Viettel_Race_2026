@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Trào ngược dạ dày thực quản",
+    "position": [22, 49],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "K21",
+      "K21.0",
+      "K21.9"
+    ]
+  },
+  {
+    "text": "tự vang tiếng nói",
+    "position": [125, 142],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [163, 171],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [181, 184],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đầy tai",
+    "position": [195, 202],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vòi Eustache rộng",
+    "position": [331, 348],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H69.0"]
+  }
+]

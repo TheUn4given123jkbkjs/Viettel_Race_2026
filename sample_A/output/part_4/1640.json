@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Rối loạn dậy thì, không đặc hiệu",
+    "position": [764, 796],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E30.9"]
+  },
+  {
+    "text": "THA",
+    "position": [100, 103],
+    "type": "BỆNH_NỀN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [193, 206],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn lipid máu",
+    "position": [210, 228],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường loại 2",
+    "position": [127, 144],
+    "type": "BỆNH_NỀN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [477, 485],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [636, 643],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

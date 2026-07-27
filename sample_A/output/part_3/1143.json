@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Run vô căn",
+    "position": [323, 333],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G25.0"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [384, 397],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [401, 410],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Metformin",
+    "position": [832, 841],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Sitagliptin",
+    "position": [845, 856],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [21, 30],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

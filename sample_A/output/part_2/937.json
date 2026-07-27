@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Rối loạn lo âu chia ly ở trẻ em",
+    "position": [76, 107],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F93.0"]
+  },
+  {
+    "text": "tiền sử về các vấn đề tâm lý trước đây",
+    "position": [155, 193],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bố bị trầm cảm",
+    "position": [287, 301],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ có tiền sử về lo âu",
+    "position": [305, 327],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "lo lắng, sợ hãi",
+    "position": [392, 407],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Rối loạn trầm cảm tái diễn",
+    "position": [233, 259],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F33",
+      "F33.0",
+      "F33.1"
+    ]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [143, 160],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

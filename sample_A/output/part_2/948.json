@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Rối loạn nội tiết và chuyển hóa sau điều trị, chưa được phân loại ở phần khác",
+    "position": [467, 544],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E89"]
+  },
+  {
+    "text": "Acarbose",
+    "position": [573, 581],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["16681"]
+  },
+  {
+    "text": "Metformin",
+    "position": [585, 594],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "không sốt",
+    "position": [423, 432],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

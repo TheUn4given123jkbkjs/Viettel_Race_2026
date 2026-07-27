@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Acetazolamide",
+    "position": [204, 217],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [221, 228],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "sưng tấy",
+    "position": [70, 78],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [80, 87],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [91, 99],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

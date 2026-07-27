@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Kwashiorkor",
+    "position": [46, 57],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E40", "E42"]
+  },
+  {
+    "text": "suy dinh dưỡng",
+    "position": [25, 39],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu hóa",
+    "position": [140, 148],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu hụt dinh dưỡng",
+    "position": [73, 93],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [95, 102],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy kiệt",
+    "position": [104, 112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu sắc tố da",
+    "position": [114, 129],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn tiêu hóa",
+    "position": [131, 148],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [736, 745],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

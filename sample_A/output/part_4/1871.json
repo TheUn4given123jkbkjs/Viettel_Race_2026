@@ -1,0 +1,23 @@
+[
+  {
+    "text": "tiểu đường",
+    "position": [117, 127],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [241, 249],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [650, 661],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

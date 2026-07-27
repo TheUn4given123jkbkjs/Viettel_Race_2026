@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Viêm khớp do quai bị",
+    "position": [110, 130],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B26.85"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [582, 599],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [603, 612],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm khớp",
+    "position": [110, 119],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "quai bị",
+    "position": [123, 130],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

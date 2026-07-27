@@ -1,0 +1,40 @@
+Bệnh án lâm sàng của bệnh nhân nữ 45 tuổi được trình bày sau.
+
+Tiền sử bệnh: Bệnh nhân có tiền sử dùng thuốc dài hạn 'Vancomycin' để điều trị viêm màng não 2 năm trước.
+
+Bệnh sử: Bệnh nhân đến bệnh viện vì thấy sốt và đau đầu.
+
+Ghi nhận tiền sử dùng thuốc dài hạn 'Vancomycin' để điều trị viêm màng não.
+
+Tuy nhiên, bệnh nhân phủ nhận buồn nôn và không sốt.
+
+Điều trị tại bệnh viện: Bệnh nhân được điều trị bằng thuốc kháng sinh khác.
+
+Hồi phục sau 7 ngày.
+
+Kết quả xét nghiệm: Không có kết quả xét nghiệm nào được trình bày.
+
+entities: 
+[{
+  "text": "Vancomycin",
+  "type": "THUỐC",
+  "assertions": [
+    "isHistorical"
+  ]
+}, {
+  "text": "buồn nôn",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+    "isNegated"
+  ]
+}, {
+  "text": "không sốt",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+    "isNegated"
+  ]
+}, {
+  "text": "Viêm màng não",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+}]

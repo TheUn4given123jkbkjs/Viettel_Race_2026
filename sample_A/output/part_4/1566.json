@@ -1,0 +1,37 @@
+[
+  {
+    "text": "chèn ép rễ và đám rối thần kinh trong bệnh khác vùng lưng (M45-M46†, M48.-†, M53-M54†)",
+    "position": [48, 134],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G55.3*"]
+  },
+  {
+    "text": "tiền sử THA 10 năm",
+    "position": [166, 184],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "không có triệu chứng sốt",
+    "position": [188, 212],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [323, 333],
+    "type": "THỦ_THUẬT",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau lưng",
+    "position": [269, 277],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

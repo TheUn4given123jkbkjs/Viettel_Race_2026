@@ -1,0 +1,16 @@
+[
+  {
+    "text": "bệnh tai trong, không đặc hiệu",
+    "position": [138, 168],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["H83.9"]
+  },
+  {
+    "text": "sốt",
+    "position": [681, 684],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Vẩn đục dịch kính khác",
+    "position": [70, 92],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H43.3"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [353, 366],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Metformin",
+    "position": [391, 400],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  }
+]

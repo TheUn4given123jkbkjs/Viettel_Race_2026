@@ -1,0 +1,107 @@
+[
+  {
+    "text": "Nhiễm bệnh gan",
+    "position": [0, 14],
+    "type": "TÊN_BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tức trạng tiêu chảy",
+    "position": [279, 298],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tức trạng nôn",
+    "position": [302, 315],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tức trạng buồn nôn",
+    "position": [319, 337],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tức trạng đau bụng",
+    "position": [341, 359],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aminoacids",
+    "position": [799, 809],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Cha của tôi",
+    "position": [1337, 1348],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Mẹ của tôi",
+    "position": [1404, 1414],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Anh trai của tôi",
+    "position": [1470, 1486],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Chị gái của tôi",
+    "position": [1542, 1557],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Cô dâu của tôi",
+    "position": [1613, 1627],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Anh rể của tôi",
+    "position": [1683, 1697],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Anh họ của tôi",
+    "position": [1753, 1767],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Bạn bè của tôi",
+    "position": [1823, 1837],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Người thân của tôi",
+    "position": [1893, 1911],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

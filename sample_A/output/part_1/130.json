@@ -1,0 +1,51 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [50, 67],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường type 2",
+    "position": [160, 181],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử trầm cảm",
+    "position": [199, 215],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [271, 278],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn",
+    "position": [280, 287],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [289, 296],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Giai đoạn trầm cảm vừa",
+    "position": [500, 522],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F32.1", "F33.1"]
+  }
+]

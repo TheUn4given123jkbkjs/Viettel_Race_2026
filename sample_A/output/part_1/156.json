@@ -1,0 +1,44 @@
+[
+  {
+    "text": "viêm tụy do quai bị (K87.1*)",
+    "position": [139, 167],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B26.3†"]
+  },
+  {
+    "text": "acetaminophen",
+    "position": [316, 329],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "ranitidine",
+    "position": [624, 634],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9143"]
+  },
+  {
+    "text": "famotidine",
+    "position": [723, 733],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4278"]
+  },
+  {
+    "text": "ondansetron",
+    "position": [946, 957],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["26225"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [988, 996],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

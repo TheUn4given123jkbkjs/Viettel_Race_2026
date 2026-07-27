@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Bệnh bạch cầu xác định khác",
+    "position": [106, 133],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "C94",
+      "C94.7",
+      "C95.7"
+    ]
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [195, 207],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [211, 218],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gan to",
+    "position": [251, 257],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [278, 286],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [288, 302],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "số lượng bạch cầu tăng cao",
+    "position": [312, 338],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh bạch cầu xác định khác",
+    "position": [106, 133],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C94",
+      "C94.7",
+      "C95.7"
+    ]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Di chứng của bệnh nhiễm trùng và ký sinh trùng khác, không xác định",
+    "position": [439, 506],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B94"]
+  },
+  {
+    "text": "troponin cao",
+    "position": [252, 264],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [181, 189],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

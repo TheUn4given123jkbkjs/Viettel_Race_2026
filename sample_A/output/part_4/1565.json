@@ -1,0 +1,30 @@
+[
+  {
+    "text": "bệnh đái tháo đường không phụ thuộc insuline (Có hôn mê)",
+    "position": [42, 98],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E11.0"]
+  },
+  {
+    "text": "Metformin",
+    "position": [304, 313],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Acarbose",
+    "position": [317, 325],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["16681"]
+  },
+  {
+    "text": "Insulin",
+    "position": [508, 515],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["253182", "317235"]
+  }
+]

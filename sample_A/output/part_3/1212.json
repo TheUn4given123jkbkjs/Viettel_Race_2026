@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Rối loạn tâm thần và hành vi do sử dụng các chất an thần hoặc các thuốc ngủ",
+    "position": [766, 841],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "F13",
+      "F13.0",
+      "F13.1"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [651, 664],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [668, 676],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "rối loạn tâm thần và hành vi",
+    "position": [77, 105],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

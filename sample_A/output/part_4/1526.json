@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Di chứng của bệnh viêm hệ thần kinh trung ương",
+    "position": [68, 114],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G09"]
+  },
+  {
+    "text": "co giật",
+    "position": [535, 542],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "liệt nửa người",
+    "position": [544, 558],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu cơ tứ chi",
+    "position": [560, 573],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [666, 673],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [685, 694],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [698, 715],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "viêm não Nhật Bản",
+    "position": [791, 808],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["A83.0"]
+  }
+]

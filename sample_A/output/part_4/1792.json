@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Cường tuyến yên",
+    "position": [325, 340],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "E22",
+      "E22.8",
+      "E22.9"
+    ]
+  },
+  {
+    "text": "Aspirin",
+    "position": [382, 389],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [397, 408],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [113, 130],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [457, 474],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [478, 481],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm mống mắt do Zoster",
+    "position": [0, 23],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B02.32", "B02.33"]
+  },
+  {
+    "text": "Varicella-Zoster",
+    "position": [170, 186],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Herpes zoster",
+    "position": [228, 241],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B02"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1401, 1409],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [1424, 1427],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [822, 832],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [932, 949],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

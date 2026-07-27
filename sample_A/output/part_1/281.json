@@ -1,0 +1,23 @@
+[
+  {
+    "text": "bệnh giác mạc không đặc hiệu",
+    "position": [25, 53],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H18.9"]
+  },
+  {
+    "text": "nhức mắt",
+    "position": [75, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [471, 479],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

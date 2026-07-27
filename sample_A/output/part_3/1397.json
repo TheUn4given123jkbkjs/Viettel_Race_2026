@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Rối loạn chức năng đa tuyến",
+    "position": [47, 74],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated",
+      ""
+    ],
+    "candidates": [
+      "E31",
+      "E31.8",
+      "E31.9"
+    ]
+  },
+  {
+    "text": "Abacavir",
+    "position": [151, 159],
+    "type": "THUỐC",
+    "assertions": [
+      ""
+    ],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [180, 187],
+    "type": "THUỐC",
+    "assertions": [
+      ""
+    ],
+    "candidates": ["1191"]
+  }
+]

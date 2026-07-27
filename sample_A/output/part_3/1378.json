@@ -1,0 +1,34 @@
+[
+  {
+    "text": "u ác của môi phần ngoài môi trên",
+    "position": [39, 71],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["C00.0"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1284, 1297],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1321, 1333],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Rifampin",
+    "position": [1358, 1366],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
+  }
+]

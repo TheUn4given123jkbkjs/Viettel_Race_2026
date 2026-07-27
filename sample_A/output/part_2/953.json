@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm giáp cấp",
+    "position": [389, 402],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E06.0", "E06.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [434, 447],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [486, 495],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

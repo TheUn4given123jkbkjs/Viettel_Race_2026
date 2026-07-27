@@ -1,0 +1,23 @@
+[
+  {
+    "text": "ung thư biểu mô tại chỗ của cổ tử cung, không đặc hiệu",
+    "position": [50, 104],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D06.9"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [291, 299],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [303, 316],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

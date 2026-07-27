@@ -1,0 +1,23 @@
+[
+  {
+    "text": "U lành của phần khác và không xác định của ruột non",
+    "position": [183, 234],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["D13.3"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [248, 258],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [98, 106],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

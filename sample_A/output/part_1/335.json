@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Potassium iodide",
+    "position": [129, 145],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8597"]
+  },
+  {
+    "text": "bệnh sỏi mật",
+    "position": [190, 202],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Natri iodide",
+    "position": [99, 111],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc tiêu viêm",
+    "position": [364, 379],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc giảm đau",
+    "position": [381, 395],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc chống nôn",
+    "position": [399, 414],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [457, 466],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [343, 349],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

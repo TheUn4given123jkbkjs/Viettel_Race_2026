@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Acetaminophen",
+    "position": [389, 402],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [406, 414],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "u ác của thừng tinh",
+    "position": [71, 90],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C63.1"]
+  }
+]

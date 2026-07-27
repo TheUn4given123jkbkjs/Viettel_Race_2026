@@ -1,0 +1,41 @@
+[
+  {
+    "text": "đau đầu",
+    "position": [522, 529],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [751, 765],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm nước tiểu",
+    "position": [767, 787],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chẩn đoán",
+    "position": [943, 952],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I84.7",
+      "Y88.2",
+      "Z00"
+    ]
+  },
+  {
+    "text": "điều trị",
+    "position": [956, 964],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

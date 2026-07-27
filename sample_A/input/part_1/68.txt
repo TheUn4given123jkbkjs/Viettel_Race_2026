@@ -1,0 +1,30 @@
+BỆNH_VIÊN_ĐIỂM_ĐƠN được chẩn đoán với BỆNH DO LEPTOSPIRA (CHẨN_ĐOÁN) và được điều trị bằng ACETAMINOPHEN (THUỐC) và FLUCYTOSINE (THUỐC).
+
+BỆNH_VIÊN_ĐIỂM_ĐƠN được chẩn đoán vào ngày 20/02/2024 với tình trạng sốt và buồn nôn. Sau khi được điều trị bằng ACETAMINOPHEN (THUỐC), bệnh nhân đã có tín hiệu cải thiện.
+
+Tuy nhiên, vào ngày 22/02/2024, bệnh nhân đã tái phát với triệu chứng sốt và buồn nôn. Phủ nhận buồn nôn, bác sĩ đã thay đổi thuốc bằng FLUCYTOSINE (THUỐC) và bệnh nhân đã cải thiện.
+
+BỆNH_VIÊN_ĐIỂM_ĐƠN được điều trị trong 7 ngày tại BỆNH_VIỆN_A.
+
+Lời giải thích: BỆNH_VIÊN_ĐIỂM_ĐƠN được chẩn đoán với BỆNH DO LEPTOSPIRA (CHẨN_ĐOÁN) và được điều trị bằng ACETAMINOPHEN (THUỐC) và FLUCYTOSINE (THUỐC). BỆNH_VIÊN_ĐIỂM_ĐƠN được điều trị trong 7 ngày tại BỆNH_VIỆN_A.
+
+BỆNH_VIÊN_ĐIỂM_ĐƠN được chẩn đoán vào ngày 20/02/2024 với tình trạng sốt và buồn nôn. Sau khi được điều trị bằng ACETAMINOPHEN (THUỐC), bệnh nhân đã có tín hiệu cải thiện. Tuy nhiên, vào ngày 22/02/2024, bệnh nhân đã tái phát với triệu chứng sốt và buồn nôn. Phủ nhận buồn nôn, bác sĩ đã thay đổi thuốc bằng FLUCYTOSINE (THUỐC) và bệnh nhân đã cải thiện.
+
+BỆNH_VIÊN_ĐIỂM_ĐƠN được điều trị tại BỆNH_VIỆN_A trong 7 ngày.
+
+Các thực thể trích xuất:
+
+* BỆNH DO LEPTOSPIRA (CHẨN_ĐOÁN)
+* ACETAMINOPHEN (THUỐC)
+* FLUCYTOSINE (THUỐC)
+* BỆNH_VIÊN_ĐIỂM_ĐƠN (TRIỆU_CHỨNG)
+* BỆNH_VIỆN_A (TÊN_XÉT_NGHIỆM)
+* Ngày 20/02/2024 (KẾT_QUẢ_XÉT_NGHIỆM)
+* Ngày 22/02/2024 (KẾT_QUẢ_XÉT_NGHIỆM)
+
+Các lỗi gõ:
+
+* BỆNH_VIÊN_ĐIỂM_ĐƠN được điều trị tại BỆNH_VIỆN_A trong 7 ngày. (dính chữ)
+* BỆNH_VIÊN_ĐIỂM_ĐƠN được điều trị trong 7 ngày tại BỆNH_VIỆN_A. (dính chữ)
+
+Văn bản chứa ít nhất 1 thực thể bị phủ định (isNegated): phủ nhận buồn nôn

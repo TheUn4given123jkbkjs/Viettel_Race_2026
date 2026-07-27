@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Nhiễm độc giáp với bướu giáp đa nhân độc",
+    "position": [550, 590],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E05.2"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [414, 421],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [442, 453],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

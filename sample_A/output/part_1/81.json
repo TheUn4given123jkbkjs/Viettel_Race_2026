@@ -1,0 +1,16 @@
+[
+  {
+    "text": "nhiễm histoplasma capsulatum ở phổi cấp tính",
+    "position": [220, 264],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B39.0"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [298, 311],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

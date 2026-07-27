@@ -1,0 +1,37 @@
+[
+  {
+    "text": "bệnh rỗng tủy sống và rỗng hành não",
+    "position": [76, 111],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G95.0"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [170, 178],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [182, 195],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [432, 445],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Atenolol",
+    "position": [449, 457],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1202"]
+  }
+]

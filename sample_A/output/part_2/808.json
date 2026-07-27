@@ -1,0 +1,55 @@
+[
+  {
+    "text": "các triệu chứng như đau đầu, chóng mặt và mệt mỏi",
+    "position": [220, 269],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạ huyết áp",
+    "position": [130, 141],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "statin",
+    "position": [151, 157],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "83367",
+      "34482",
+      "7597"
+    ]
+  },
+  {
+    "text": "Tế bào máu trắng",
+    "position": [508, 524],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hb",
+    "position": [593, 595],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [640, 643],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [659, 662],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [200, 217],
+    "type": "TIỀN_SỬ_BỆNH",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Ung thư biểu mô tại chỗ của bàng quang",
+    "position": [970, 1008],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D09.0"]
+  },
+  {
+    "text": "tiền sử cao huyết áp",
+    "position": [237, 257],
+    "type": "TIỀN_SỬ_BỆNH",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "ung thư phổi",
+    "position": [424, 436],
+    "type": "TIỀN_SỬ_GIA_ĐÌNH",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu",
+    "position": [873, 900],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  }
+]

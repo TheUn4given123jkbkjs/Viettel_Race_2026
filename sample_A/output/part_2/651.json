@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Mesna",
+    "position": [364, 369],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["44"]
+  },
+  {
+    "text": "aspirin",
+    "position": [997, 1004],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [1008, 1019],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Tai nạn giao thông",
+    "position": [2425, 2443],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Y85.9",
+      "V49.0",
+      "V49.1"
+    ]
+  },
+  {
+    "text": "Sốt",
+    "position": [2514, 2517],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Buồn nôn",
+    "position": [2608, 2616],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Troponin",
+    "position": [1144, 1152],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatine kinase",
+    "position": [1166, 1181],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

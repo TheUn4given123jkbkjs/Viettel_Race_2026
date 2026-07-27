@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Medroxyprogesterone",
+    "position": [136, 155],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2647996", "6691"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [258, 275],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [328, 335],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [538, 545],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [411, 424],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [549, 560],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "troponin",
+    "position": [631, 639],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

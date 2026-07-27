@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Các rối loạn Tic khác",
+    "position": [0, 21],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F95.8"]
+  },
+  {
+    "text": "Clonidine",
+    "position": [656, 665],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aripiprazole",
+    "position": [831, 843],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Fluoxetine",
+    "position": [1027, 1037],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4493"]
+  }
+]

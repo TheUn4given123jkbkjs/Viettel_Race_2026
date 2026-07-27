@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Bệnh tim mạch",
+    "position": [54, 67],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh tiểu đường",
+    "position": [70, 85],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn và sốt",
+    "position": [184, 199],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm điện tâm đồ (ECG)",
+    "position": [361, 389],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm sinh hóa máu (CBC)",
+    "position": [426, 455],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm xét nghiệm vi khuẩn (Bac)",
+    "position": [491, 527],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm xét nghiệm vi sinh (Vi sinh)",
+    "position": [567, 606],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

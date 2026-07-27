@@ -1,0 +1,52 @@
+[
+  {
+    "text": "bệnh tim thiếu máu cục bộ",
+    "position": [294, 319],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I24",
+      "I24.8",
+      "I24.9"
+    ]
+  },
+  {
+    "text": "troponin",
+    "position": [652, 660],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [361, 372],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetate hemodialysis solution",
+    "position": [446, 475],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["226504"]
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [110, 123],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [151, 158],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

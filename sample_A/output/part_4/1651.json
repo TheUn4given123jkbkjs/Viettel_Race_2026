@@ -1,0 +1,48 @@
+[
+  {
+    "text": "viêm não, viêm tủy và viêm não-tủy trong bệnh phân loại ở mục khác",
+    "position": [80, 146],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G05.2*",
+      "G05",
+      "G05*"
+    ]
+  },
+  {
+    "text": "không sốt",
+    "position": [158, 167],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không buồn nôn",
+    "position": [169, 183],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [26, 43],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [260, 273],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [277, 286],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  }
+]

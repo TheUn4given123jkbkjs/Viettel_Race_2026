@@ -1,0 +1,74 @@
+Bệnh án lâm sàng của bệnh nhân nữ 45 tuổi, được trình bày như sau:
+
+**Tiền sử bệnh nội khoa**:
+Bệnh nhân có tiền sử dùng thuốc dài hạn 'Spironolactone' (*****) từ năm 2018 để điều trị bệnh tim mạch. Ngoài ra, bệnh nhân cũng có tiền sử huyết áp cao và mỡ máu cao.
+
+**Bệnh sử**:
+Vào ngày 10/01/2022, bệnh nhân được đưa đến bệnh viện vì biểu hiện sốt cao và đau đầu. Sau khi thăm khám và thực hiện các xét nghiệm, bác sĩ chẩn đoán bệnh nhân bị viêm màng não do nhiễm khuẩn. Bệnh nhân được điều trị bằng kháng sinh và thuốc chống viêm.
+
+**Y lệnh Điều trị**:
+Sau khi thăm khám và xét nghiệm, bác sĩ đã ra lệnh điều trị cho bệnh nhân như sau:
+* Kháng sinh để điều trị nhiễm khuẩn
+* Thuốc chống viêm để giảm đau và viêm
+* Thuốc điều trị tim mạch để điều trị bệnh tim mạch
+
+Sau khi điều trị, bệnh nhân đã được cải thiện rõ rệt và được xuất viện vào ngày 15/01/2022.
+
+**Ghi nhận**:
+Bên cạnh thuốc Spironolactone (*****), bệnh nhân còn được sử dụng thuốc khác là 'Valsartan' để điều trị bệnh tim mạch.
+
+**Khảo sát**:
+Bên cạnh đó, bệnh nhân cũng được thực hiện các xét nghiệm như:
+* Xét nghiệm máu để đánh giá mỡ máu
+* Xét nghiệm huyết áp để đánh giá huyết áp
+
+**Kết quả**:
+Kết quả xét nghiệm cho thấy bệnh nhân có mỡ máu cao và huyết áp cao. Tuy nhiên, sau khi điều trị, bệnh nhân đã được cải thiện rõ rệt và được xuất viện.
+
+**Trích xuất**:
+Dưới đây là một số thông tin trích xuất từ bệnh án lâm sàng của bệnh nhân:
+
+* Thuốc 'Spironolactone' (*****) đã được sử dụng để điều trị bệnh tim mạch
+* Bệnh nhân đã được sử dụng thuốc 'Valsartan' để điều trị bệnh tim mạch
+* Bệnh nhân có tiền sử huyết áp cao và mỡ máu cao
+* Bệnh nhân đã được điều trị bằng kháng sinh và thuốc chống viêm
+
+**Entities**:
+
+[ 
+  {
+    "text": "Spironolactone", 
+    "type": "THUỐC", 
+    "assertions": ["isHistorical"]
+  }, 
+  {
+    "text": "Valsartan", 
+    "type": "THUỐC", 
+    "assertions": []
+  }, 
+  {
+    "text": "Sốt", 
+    "type": "CHẨN_ĐOÁN", 
+    "assertions": ["isNegated"]
+  }, 
+  {
+    "text": "buồn nôn", 
+    "type": "CHẨN_ĐOÁN", 
+    "assertions": ["isNegated"]
+  }, 
+  {
+    "text": "huyết áp cao", 
+    "type": "CHẨN_ĐOÁN", 
+    "assertions": []
+  }, 
+  {
+    "text": "mỡ máu cao", 
+    "type": "CHẨN_ĐOÁN", 
+    "assertions": []
+  }, 
+  {
+    "text": "viêm màng não", 
+    "type": "CHẨN_ĐOÁN", 
+    "assertions": []
+  }
+]

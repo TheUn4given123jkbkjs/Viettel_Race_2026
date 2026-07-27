@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Diosmin",
+    "position": [133, 140],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3489"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [283, 291],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [314, 317],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bố bị nhồi máu cơ tim",
+    "position": [602, 623],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ bị suy tim",
+    "position": [627, 640],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [255, 267],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh thận mạn tính",
+    "position": [417, 435],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I68.8*"]
+  }
+]

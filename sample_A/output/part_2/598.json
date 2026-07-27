@@ -1,0 +1,44 @@
+[
+  {
+    "text": "U lành của não và các phần khác của hệ thần kinh trung ương",
+    "position": [79, 138],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D33"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1611, 1624],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1652, 1661],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1690, 1702],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Cyclophosphamide",
+    "position": [1731, 1747],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3002"]
+  },
+  {
+    "text": "Radiation",
+    "position": [1778, 1787],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Sử dụng chất tác động thần kinh khác, không đặc hiệu với sa sút tâm thần dai dẳng do chất tác động thần kinh khác",
+    "position": [0, 113],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F19.97"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [617, 625],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [642, 655],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [672, 690],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  }
+]

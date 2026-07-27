@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Viêm phổi do cytomegalovirus (J17.1*)",
+    "position": [78, 115],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B25.0†"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [405, 414],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  }
+]

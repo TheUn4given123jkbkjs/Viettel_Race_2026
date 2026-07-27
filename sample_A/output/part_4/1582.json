@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Mannitol",
+    "position": [90, 98],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6628"]
+  },
+  {
+    "text": "viêm màng não",
+    "position": [308, 321],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.13",
+      "A54.81",
+      "A50.41"
+    ]
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [45, 54],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng não",
+    "position": [112, 120],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kháng sinh",
+    "position": [382, 392],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

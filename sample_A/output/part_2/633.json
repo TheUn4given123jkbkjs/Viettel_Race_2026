@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Hội chứng động kinh và động kinh toàn thể nguyên phát",
+    "position": [174, 227],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["G40.3"]
+  },
+  {
+    "text": "Động kinh toàn thể nguyên phát",
+    "position": [624, 654],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Động kinh",
+    "position": [624, 633],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

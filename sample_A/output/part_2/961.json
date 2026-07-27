@@ -1,0 +1,37 @@
+[
+  {
+    "text": "U lành của hầu, không đặc hiệu",
+    "position": [352, 382],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D10.9"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [122, 139],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [270, 283],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [287, 301],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "không sốt",
+    "position": [143, 152],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "text": "sẹo và đục giác mạc",
+    "position": [208, 227],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "H17",
+      "H17.8",
+      "H17.9"
+    ]
+  },
+  {
+    "text": "không sốt",
+    "position": [975, 984],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đục thủy tinh thể",
+    "position": [1133, 1150],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "H28.1*",
+      "H28.2*",
+      "H25"
+    ]
+  },
+  {
+    "text": "là",
+    "position": [20, 22],
+    "type": "HÀM_LƠ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bị",
+    "position": [170, 172],
+    "type": "HÀM_LƠ",
+    "assertions": [],
+    "candidates": []
+  }
+]

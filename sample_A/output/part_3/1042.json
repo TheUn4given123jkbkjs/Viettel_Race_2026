@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Suy tuyến yên sau điều trị",
+    "position": [0, 26],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E89.3"]
+  },
+  {
+    "text": "phẫu thuật tuyến yên",
+    "position": [158, 178],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tia xạ",
+    "position": [180, 186],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L56",
+      "K52.0",
+      "K62.7"
+    ]
+  },
+  {
+    "text": "thuốc điều trị tuyến yên",
+    "position": [193, 217],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [351, 359],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [370, 373],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "THA",
+    "position": [436, 439],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

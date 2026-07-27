@@ -1,0 +1,46 @@
+Bệnh án lâm sàng
+
+1. Tiền sử bệnh nội khoa:
+Bệnh nhân nam, 35 tuổi, có tiền sử mắc bệnh lao khoảng 5 năm trước đó. Bệnh nhân đã được điều trị bằng các thuốc Ethambutol / Isoniazid trong thời gian dài. Tuy nhiên, bệnh nhân đã không hoàn toàn hồi phục và đã xuất hiện các triệu chứng như ho, mệt mỏi và giảm sức khỏe. Bệnh nhân đã đến khám và được chẩn đoán mắc bệnh lao tái phát.
+
+2. Bệnh sử hiện tại:
+Bệnh nhân đang có các triệu chứng như ho, mệt mỏi và giảm sức khỏe. Bệnh nhân cũng đã có biểu hiện sốt nhẹ trong thời gian gần đây, nhưng đã không được điều trị. Bệnh nhân đã được khám và được chẩn đoán mắc bệnh lao tái phát.
+
+3. Khám lúc vào viện:
+Bệnh nhân có biểu hiện sốt nhẹ, ho và mệt mỏi. Bệnh nhân cũng có dấu hiệu giảm sức khỏe và xuất hiện các triệu chứng như buồn nôn và khó chịu. Bệnh nhân đã được khám và được chẩn đoán mắc bệnh lao tái phát.
+
+Bệnh án này cho thấy rằng bệnh lao có thể tái phát sau thời gian dài kể từ khi bệnh nhân được điều trị. Điều này cho thấy rằng bệnh lao có thể tái phát sau thời gian dài và bệnh nhân cần được giám sát chặt chẽ để tránh tái phát.
+
+entities:
+[
+  {
+    "text": "Ethambutol / Isoniazid",
+    "type": "THUỐC",
+    "assertions": [{"isHistorical": true}]
+  },
+  {
+    "text": "bệnh lao",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "khó chịu",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [{"isNegated": true}]
+  },
+  {
+    "text": "sốt nhẹ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "bệnh nhân",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  }
+]

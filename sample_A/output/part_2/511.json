@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Bệnh do trichomonas",
+    "position": [283, 302],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "A59",
+      "A59.0",
+      "A59.8"
+    ]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [339, 350],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [422, 429],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [501, 514],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "THA",
+    "position": [169, 172],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

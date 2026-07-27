@@ -1,0 +1,37 @@
+[
+  {
+    "text": "các ảo giác thực tổn",
+    "position": [267, 287],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F06.0"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1025, 1033],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [1081, 1084],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [560, 566],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chất kích thích",
+    "position": [486, 501],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

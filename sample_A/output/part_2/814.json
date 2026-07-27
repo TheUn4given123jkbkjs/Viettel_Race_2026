@@ -1,0 +1,80 @@
+[
+  {
+    "text": "dậy thì muộn",
+    "position": [53, 65],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E30.0"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [698, 706],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [796, 809],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [905, 912],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Doxycycline",
+    "position": [1024, 1035],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3640"]
+  },
+  {
+    "text": "Methyldopa",
+    "position": [1127, 1137],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6876"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1220, 1232],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Ritonavir",
+    "position": [1333, 1342],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["284640", "85762"]
+  },
+  {
+    "text": "Salicylic acid",
+    "position": [1432, 1446],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "9525",
+      "91292",
+      "466470"
+    ]
+  },
+  {
+    "text": "Tenofovir",
+    "position": [1550, 1559],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2003201",
+      "2003222",
+      "117466"
+    ]
+  }
+]

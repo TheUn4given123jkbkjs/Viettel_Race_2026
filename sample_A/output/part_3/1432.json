@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm thể mi sau",
+    "position": [404, 419],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H30.2"]
+  },
+  {
+    "text": "nhìn mờ",
+    "position": [237, 244],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sợ ánh sáng",
+    "position": [255, 266],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức hốc mắt",
+    "position": [268, 284],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm màng bồ đào",
+    "position": [139, 155],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["B00.54"]
+  },
+  {
+    "text": "thể mi cương tụ",
+    "position": [347, 362],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật thể thủy tinh",
+    "position": [547, 571],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

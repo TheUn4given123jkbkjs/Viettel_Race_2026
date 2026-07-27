@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Bệnh hắc võng mạc trong các bệnh phân loại nơi khác",
+    "position": [818, 869],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "H32",
+      "H32*",
+      "H32.8*"
+    ]
+  },
+  {
+    "text": "THA",
+    "position": [141, 144],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [363, 371],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [375, 378],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [249, 255],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

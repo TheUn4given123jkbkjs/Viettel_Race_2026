@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh đơn dây thần kinh khác của chi trên",
+    "position": [142, 182],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G56.8"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [245, 252],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [284, 295],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

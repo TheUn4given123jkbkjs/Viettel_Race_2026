@@ -1,0 +1,23 @@
+[
+  {
+    "text": "U ác của dây thần kinh ngoại biên của chi trên, bao gồm vai",
+    "position": [741, 800],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C47.1"]
+  },
+  {
+    "text": "aspirin",
+    "position": [521, 528],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [548, 559],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

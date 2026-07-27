@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Kanamycin",
+    "position": [170, 179],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6099"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [302, 319],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [323, 332],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "suy giảm thính lực",
+    "position": [48, 66],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất thăng bằng",
+    "position": [70, 84],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng thận",
+    "position": [425, 450],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

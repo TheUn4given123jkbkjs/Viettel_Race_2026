@@ -1,0 +1,37 @@
+[
+  {
+    "text": "U lành thể mi",
+    "position": [587, 600],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D31.4"]
+  },
+  {
+    "text": "aspirin",
+    "position": [157, 164],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [400, 413],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Troponin",
+    "position": [699, 707],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.5 ng/mL",
+    "position": [709, 718],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

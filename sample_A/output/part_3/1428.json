@@ -1,0 +1,58 @@
+[
+  {
+    "text": "U ác vùng dưới thanh môn",
+    "position": [46, 70],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C32.2"]
+  },
+  {
+    "text": "Subglottic Malignancy",
+    "position": [72, 93],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cisplatin",
+    "position": [1069, 1078],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Carboplatin",
+    "position": [1216, 1227],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40048"]
+  },
+  {
+    "text": "khàn tiếng kéo dài",
+    "position": [638, 656],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [658, 678],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho ra máu",
+    "position": [741, 750],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi thanh quản sinh thiết",
+    "position": [1375, 1404],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

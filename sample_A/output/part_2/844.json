@@ -1,0 +1,51 @@
+[
+  {
+    "text": "rối loạn lo âu cách đây 2 năm",
+    "position": [47, 76],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "lơ mơ",
+    "position": [424, 429],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kích động nhẹ",
+    "position": [626, 639],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [657, 664],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lạm dụng chất hít, không biến chứng",
+    "position": [1022, 1057],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F18.10"]
+  },
+  {
+    "text": "Glucose",
+    "position": [1222, 1229],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4850"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [1329, 1337],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  }
+]

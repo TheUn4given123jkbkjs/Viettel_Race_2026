@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Động kinh triệu chứng có khu trú (cục bộ) (từng phần) và hội chứng động kinh có cơn cục bộ đơn giản",
+    "position": [528, 627],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G40.1"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [468, 475],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [490, 501],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

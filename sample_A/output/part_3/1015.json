@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Lạm dụng thuốc an thần hoặc thuốc ngủ",
+    "position": [261, 298],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F13.10",
+      "F13.12",
+      "F13.14"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [188, 195],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [109, 117],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [121, 128],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [57, 63],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc an thần",
+    "position": [270, 283],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "thuốc ngủ",
+    "position": [289, 298],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn không xác định",
+    "position": [304, 327],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F15.99",
+      "F16.19",
+      "F16.29"
+    ]
+  }
+]

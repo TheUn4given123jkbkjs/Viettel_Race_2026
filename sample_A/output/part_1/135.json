@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Rối loạn tâm thần và hành vi không biệt định)",
+    "position": [898, 1004],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Haloperidol",
+    "position": [1041, 1052],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5093"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [1074, 1082],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "không có bệnh lý tâm thần di truyền trong gia đình",
+    "position": [74, 124],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận từng điều trị tâm thần trước đây",
+    "position": [194, 235],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [446, 455],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không có triệu chứng tiêu hóa",
+    "position": [457, 486],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

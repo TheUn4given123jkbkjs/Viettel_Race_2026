@@ -1,0 +1,16 @@
+[
+  {
+    "text": "U mạch máu, vị trí bất kỳ",
+    "position": [361, 386],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["D18", "D18.0"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [442, 450],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  }
+]

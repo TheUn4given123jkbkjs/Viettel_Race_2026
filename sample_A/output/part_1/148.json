@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh tê phù ẩm",
+    "position": [0, 14],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E51.12"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [344, 354],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thay đổi lối sống",
+    "position": [360, 377],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

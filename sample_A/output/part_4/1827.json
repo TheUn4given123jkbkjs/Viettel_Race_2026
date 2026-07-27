@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Bệnh bại liệt cấp, thể liệt khác và không xác định",
+    "position": [89, 139],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["A80.3"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [244, 254],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạn",
+    "position": [5, 8],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "con tôi",
+    "position": [50, 57],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "vaccine",
+    "position": [550, 557],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "705030",
+      "834765",
+      "309949"
+    ]
+  }
+]

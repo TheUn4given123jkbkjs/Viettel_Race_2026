@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Nhiễm trùng do Streptococcus pneumoniae",
+    "position": [0, 39],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A40.3"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [411, 422],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [426, 437],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

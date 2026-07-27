@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Thoái hóa dạng bột",
+    "position": [97, 115],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E85.6",
+      "E85",
+      "E85.0"
+    ]
+  },
+  {
+    "text": "tiểu đường",
+    "position": [42, 52],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [56, 68],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [314, 328],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng gan",
+    "position": [330, 354],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng thận",
+    "position": [358, 383],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

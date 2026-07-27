@@ -1,0 +1,16 @@
+[
+  {
+    "text": "U ác của tủy tuyến thượng thận",
+    "position": [38, 68],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["C74.1"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [177, 187],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

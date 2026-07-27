@@ -1,0 +1,65 @@
+[
+  {
+    "text": "cảm thấy buồn nôn",
+    "position": [233, 250],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm thấy sốt",
+    "position": [1176, 1188],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhức đầu",
+    "position": [1192, 1200],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E89.41", "G44.1"]
+  },
+  {
+    "text": "aspirin",
+    "position": [898, 905],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1074, 1087],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [664, 675],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "troponin",
+    "position": [599, 607],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "D-dimer",
+    "position": [726, 733],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hemoglobin",
+    "position": [785, 795],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

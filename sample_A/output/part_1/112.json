@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Bệnh đa dây thần kinh do độc tố khác",
+    "position": [385, 421],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G62.2"]
+  },
+  {
+    "text": "aspirin************",
+    "position": [521, 540],
+    "type": "",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [542, 553],
+    "type": "",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm màng não",
+    "position": [102, 115],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

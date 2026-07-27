@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Haloperidol",
+    "position": [263, 274],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5093"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [351, 361],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "run khi nghỉ",
+    "position": [553, 565],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng đờ các cơ",
+    "position": [620, 634],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vận động chậm chạp",
+    "position": [1525, 1543],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng Parkinson thứ phát",
+    "position": [1059, 1087],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G21.1",
+      "G21.2",
+      "G21.8"
+    ]
+  },
+  {
+    "text": "Levodopa / Carbidopa",
+    "position": [1338, 1358],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["103990"]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Tropicamide",
+    "position": [385, 396],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10869"]
+  },
+  {
+    "text": "bệnh tăng nhãn áp",
+    "position": [248, 265],
+    "type": "TÊN_BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn mờ",
+    "position": [274, 281],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [283, 290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhức mắt",
+    "position": [295, 303],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

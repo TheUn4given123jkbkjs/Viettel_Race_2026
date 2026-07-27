@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm kết mạc gây dịch xuất huyết cấp (do virus đường ruột) (H13.1*)",
+    "position": [0, 67],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B30.3†"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [497, 510],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [577, 589],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  }
+]

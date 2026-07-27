@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Rối loạn hoang tưởng dai dẳng khác",
+    "position": [0, 34],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F22.8"]
+  },
+  {
+    "text": "Risperidone",
+    "position": [514, 525],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35636"]
+  },
+  {
+    "text": "Quetiapine",
+    "position": [539, 549],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Nhiễm độc thức ăn do độc tố của tụ cầu",
+    "position": [0, 38],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A05.0"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [997, 1005],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1009, 1022],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Sốt",
+    "position": [199, 202],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh phổi",
+    "position": [205, 214],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh da",
+    "position": [217, 224],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sưng lâm sàng",
+    "position": [227, 240],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [612, 622],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [628, 645],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

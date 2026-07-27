@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Bệnh khác của hốc mắt",
+    "position": [596, 617],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "H05.8",
+      "H06",
+      "H06*"
+    ]
+  },
+  {
+    "text": "không sốt",
+    "position": [758, 767],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [113, 125],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [129, 143],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  }
+]

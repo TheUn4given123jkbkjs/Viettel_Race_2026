@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Tăng huyêtáp",
+    "position": [438, 450],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy thận mạn giai đoạn 3",
+    "position": [454, 478],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N18.3"]
+  },
+  {
+    "text": "tiểu đường type 2",
+    "position": [519, 536],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "sốt kéo dài",
+    "position": [621, 632],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sulfamethoxazole / Trimethoprim",
+    "position": [763, 794],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10831"]
+  },
+  {
+    "text": "thiếu máu",
+    "position": [1031, 1040],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chân",
+    "position": [1108, 1116],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

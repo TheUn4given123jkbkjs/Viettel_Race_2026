@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Sảng không gối lên sa sút trí tuệ",
+    "position": [67, 100],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F05.0"]
+  },
+  {
+    "text": "liệu pháp hành vi",
+    "position": [734, 751],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "liệu pháp gia đình",
+    "position": [753, 771],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "liệu pháp tâm thần",
+    "position": [776, 794],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

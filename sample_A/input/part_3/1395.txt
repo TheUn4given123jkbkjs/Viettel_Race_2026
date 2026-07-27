@@ -1,0 +1,44 @@
+Bệnh án lâm sàng:
+
+Tiền sử bệnh nội khoa:
+- Bệnh nhân nữ, 32 tuổi, bị rối loạn kinh nguyệt từ 5 năm trước. Tuy nhiên, bệnh nhân phủ nhận buồn nôn và không sốt.
+
+Bệnh sử:
+- Bệnh nhân được chỉ định dùng Levonorgestrel 75 mcg mỗi ngày để điều trị rối loạn kinh nguyệt. Bệnh nhân đã dùng thuốc trong 3 năm.
+- Tuy nhiên, bệnh nhân đã ngừng dùng thuốc 2 tháng trước đó.
+
+Điều trị tại bệnh viện:
+- Bệnh nhân được chuyển đến khoa sản để điều trị. Bác sĩ đã kiểm tra bệnh nhân và phát hiện ra rằng bệnh nhân chưa có bất kỳ dấu hiệu nào của bệnh lý sản khoa.
+
+Trên thực tế, bệnh nhân đã được chỉ định dùng Levonorgestrel để điều trị rối loạn kinh nguyệt. Tuy nhiên, bệnh nhân đã ngừng dùng thuốc 2 tháng trước đó và chưa có bất kỳ dấu hiệu nào của bệnh lý sản khoa. Bác sĩ đã khuyến cáo bệnh nhân tiếp tục dùng thuốc để điều trị rối loạn kinh nguyệt.
+
+Tóm lại, bệnh án lâm sàng của bệnh nhân nữ 32 tuổi đã được điều trị tại bệnh viện và được bác sĩ khuyến cáo tiếp tục dùng thuốc Levonorgestrel để điều trị rối loạn kinh nguyệt.
+
+ Entities:
+[
+  {
+    "text": "Levonorgestrel",
+    "type": "THUỐC",
+    "assertions": ["isHistorical"]
+  },
+  {
+    "text": "rối loạn kinh nguyệt",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "không sốt",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "phủ nhận",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": []
+  }
+]

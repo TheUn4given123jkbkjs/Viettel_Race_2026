@@ -1,0 +1,30 @@
+[
+  {
+    "text": "nhiễm trùng da",
+    "position": [118, 132],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Fluocinolone acetonide",
+    "position": [497, 519],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4461"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [634, 642],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "suy giảm miễn dịch",
+    "position": [667, 685],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

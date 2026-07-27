@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Hội chứng sốc nhiễm độc",
+    "position": [0, 23],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A48.3"]
+  },
+  {
+    "text": "sốc",
+    "position": [10, 13],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hôn mê",
+    "position": [307, 313],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [95, 101],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "người thân",
+    "position": [1954, 1964],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

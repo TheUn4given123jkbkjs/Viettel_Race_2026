@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Rối loạn trầm cảm chủ yếu",
+    "position": [47, 72],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn trầm cảm chủ yếu",
+    "position": [47, 72],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [1588, 1595],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụt cân",
+    "position": [1771, 1778],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn",
+    "position": [1796, 1803],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy nghĩ tự sát",
+    "position": [1916, 1931],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Fluoxetine",
+    "position": [2274, 2284],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4493"]
+  }
+]

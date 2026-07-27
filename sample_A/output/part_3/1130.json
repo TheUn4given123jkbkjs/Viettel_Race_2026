@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U ác của thực quản phần cổ",
+    "position": [326, 352],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C15.0"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [205, 213],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [253, 261],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "c-reactive protein",
+    "position": [265, 283],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

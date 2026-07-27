@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Dextromethorphan",
+    "position": [317, 333],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3289"]
+  },
+  {
+    "text": "hội chứng chuyển hóa",
+    "position": [126, 146],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [440, 453],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [44, 56],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thủ thuật nội khoa",
+    "position": [250, 268],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Y88.1",
+      "Y88.3",
+      "Y84"
+    ]
+  }
+]

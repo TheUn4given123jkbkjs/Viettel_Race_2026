@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Haloperidol",
+    "position": [278, 289],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["5093"]
+  },
+  {
+    "text": "troponin",
+    "position": [549, 557],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatine",
+    "position": [1169, 1177],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspartate aminotransferase",
+    "position": [1232, 1258],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [684, 695],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "aspirin",
+    "position": [787, 794],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

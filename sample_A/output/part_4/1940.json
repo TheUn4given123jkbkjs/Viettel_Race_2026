@@ -1,0 +1,44 @@
+[
+  {
+    "text": "bệnh gan",
+    "position": [115, 123],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh thận",
+    "position": [127, 136],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt không đáng kể",
+    "position": [209, 226],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn không đáng kể",
+    "position": [230, 252],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tăng bạch cầu đơn nhân do virus Herpes gamma",
+    "position": [327, 376],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B27.0"]
+  },
+  {
+    "text": "bác sĩ",
+    "position": [169, 175],
+    "type": "THỂ_HỌC",
+    "assertions": [],
+    "candidates": []
+  }
+]

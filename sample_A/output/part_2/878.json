@@ -1,0 +1,55 @@
+[
+  {
+    "text": "bệnh lý tâm thần",
+    "position": [64, 80],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": [
+      "F06.8",
+      "F06.9",
+      "O99.3"
+    ]
+  },
+  {
+    "text": "khó khăn lớn trong việc đọc, viết và làm toán",
+    "position": [112, 157],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lo âu",
+    "position": [209, 214],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kém tập trung",
+    "position": [218, 231],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn phát triển của kỹ năng ở trường, không biệt định",
+    "position": [312, 369],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F81.9"]
+  },
+  {
+    "text": "Risperidone",
+    "position": [428, 439],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35636"]
+  },
+  {
+    "text": "Amitriptyline",
+    "position": [443, 456],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["704"]
+  }
+]

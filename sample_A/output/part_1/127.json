@@ -1,0 +1,58 @@
+[
+  {
+    "text": "chấn thương thực quản",
+    "position": [197, 218],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1005, 1012],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "U ác với tổn thương chồng lấn của thực quản",
+    "position": [938, 981],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C15.8"]
+  },
+  {
+    "text": "Troponin",
+    "position": [313, 321],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10 ng/mL",
+    "position": [323, 331],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mất nước",
+    "position": [652, 660],
+    "type": "DẤU_HIỆN_LÂM_SÀNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mệt mỏi",
+    "position": [663, 670],
+    "type": "DẤU_HIỆN_LÂM_SÀNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Buồn nôn",
+    "position": [673, 681],
+    "type": "DẤU_HIỆN_LÂM_SÀNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

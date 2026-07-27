@@ -1,0 +1,51 @@
+[
+  {
+    "text": "tăng năng tủy thượng thận",
+    "position": [99, 124],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["E27.5"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [292, 305],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Cefazolin",
+    "position": [330, 339],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2180"]
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [21, 30],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [243, 246],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [254, 262],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "trình bày",
+    "position": [40, 49],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

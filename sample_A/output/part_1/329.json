@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Nhiễm Echinococcus multilocularis ở gan",
+    "position": [468, 507],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B67.5"]
+  },
+  {
+    "text": "Albendazole",
+    "position": [534, 545],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["430"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [594, 602],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "THA 5 năm",
+    "position": [154, 163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

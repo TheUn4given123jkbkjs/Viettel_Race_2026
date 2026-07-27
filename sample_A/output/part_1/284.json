@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Viêm cổ tử cung do Chlamydia",
+    "position": [0, 28],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dịch âm đạo bất thường",
+    "position": [201, 223],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau khi quan hệ tình dục",
+    "position": [225, 249],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không buồn nôn",
+    "position": [325, 339],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm phân tích dịch tiết âm đạo",
+    "position": [430, 467],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Thương hàn",
+    "position": [229, 239],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Z22.0",
+      "Z27.0",
+      "Z27.2"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [264, 277],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Albendazole",
+    "position": [302, 313],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["430"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [70, 77],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [79, 87],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [147, 157],
+    "type": "BỆNH_ĐỀ_XÉT",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [159, 171],
+    "type": "BỆNH_ĐỀ_XÉT",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

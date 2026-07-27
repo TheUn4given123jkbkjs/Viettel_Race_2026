@@ -1,0 +1,64 @@
+Bệnh án lâm sàng
+
+[Date]: 2022-01-01
+[Tên bác sĩ]: Bác sĩ Nguyễn Văn A
+
+1. Bệnh nền
+- Bệnh nhân nam, 35 tuổi
+- Bệnh nhân có tiền sử bị bệnh tim mạn tính
+- Không có bệnh nền khác đáng kể
+
+2. Bệnh sử hiện tại
+- Bệnh nhân đến gặp bác sĩ vào ngày [Ngày] với cơn đau ngực trái
+- Bệnh nhân mô tả cơn đau ngực trái như đau âm ỉ, không đáp ứng với aspirin
+- Bệnh nhân phủ nhận buồn nôn và sốt
+- Bệnh nhân không có tiền sử bị bệnh hô hấp
+
+3. Điều trị tại bệnh viện
+- Không có điều trị tại bệnh viện
+
+KỊCH BẢN LÂM SÀNG
+
+Sơ khám:
+- Bệnh nhân có thân nhiệt 36,5 độ C
+- Bệnh nhân có huyết áp 120/80 mmHg
+- Bệnh nhân có nhịp tim 100 lần/phút
+
+Cận lâm sàng:
+- Điện tim: bình thường
+- Xét nghiệm máu: số lượng tế bào máu trắng 7.500/mµl, số lượng tế bào máu đỏ 4.500/mµl
+- Xét nghiệm nước tiểu: không có tế bào máu hoặc protein
+
+Bác sĩ chỉ định xét nghiệm cận lâm sàng:
+- Xét nghiệm điện tim
+- Xét nghiệm máu
+- Xét nghiệm nước tiểu
+
+CHƯA có chẩn đoán bệnh xác định
+
+Entities:
+- [TRIỆU_CHỨNG]: bệnh tim mạn tính
+- [TÊN_XÉT_NGHIỆM]: điện tim
+- [KẾT_QUẢ_XÉT_NGHIỆM]: bình thường
+- [TRIỆU_CHỨNG]: bệnh hô hấp
+- [TÊN_XÉT_NGHIỆM]: xét nghiệm nước tiểu
+- [KẾT_QUẢ_XÉT_NGHIỆM]: không có tế bào máu hoặc protein
+- [TRIỆU_CHỨNG]: bệnh hô hấp
+- [TÊN_XÉT_NGHIỆM]: xét nghiệm nước tiểu
+- [KẾT_QUẢ_XÉT_NGHIỆM]: không có tế bào máu hoặc protein
+
+[TRIỆU_CHỨNG]: bệnh tim mạn tính
+[TÊN_XÉT_NGHIỆM]: điện tim
+[KẾT_QUẢ_XÉT_NGHIỆM]: bình thường
+[TÊN_XÉT_NGHIỆM]: xét nghiệm nước tiểu
+[KẾT_QUẢ_XÉT_NGHIỆM]: không có tế bào máu hoặc protein
+[TÊN_XÉT_NGHIỆM]: xét nghiệm nước tiểu
+[KẾT_QUẢ_XÉT_NGHIỆM]: không có tế bào máu hoặc protein
+
+[TRIỆU_CHỨNG]: bệnh hô hấp
+[TÊN_XÉT_NGHIỆM]: xét nghiệm nước tiểu
+[KẾT_QUẢ_XÉT_NGHIỆM]: không có tế bào máu hoặc protein
+
+[TRIỆU_CHỨNG]: bệnh tim mạn tính
+[TÊN_XÉT_NGHIỆM]: điện tim
+[KẾT_QUẢ_XÉT_NGHIỆM]: bình thường

@@ -1,0 +1,55 @@
+[
+  {
+    "text": "aspirin",
+    "position": [150, 157],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "tiền sử bệnh tim mạch",
+    "position": [99, 120],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "statin",
+    "position": [161, 167],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "83367",
+      "34482",
+      "7597"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [236, 239],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phát ban nhẹ",
+    "position": [263, 275],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [691, 701],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "antibiotics",
+    "position": [527, 538],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

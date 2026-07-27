@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Carbazochrome",
+    "position": [580, 593],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2011"]
+  },
+  {
+    "text": "suy giảm miễn dịch mãn tính",
+    "position": [116, 143],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T",
+    "position": [413, 423],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatine Kinase",
+    "position": [427, 442],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [163, 170],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

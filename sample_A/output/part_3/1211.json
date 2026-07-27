@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Lao ở màng ngoài tim (I32.0*)",
+    "position": [218, 247],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["A18.84"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [137, 145],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [149, 162],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

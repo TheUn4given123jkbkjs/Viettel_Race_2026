@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Rối loạn trầm cảm tái diễn, hiện tại giai đoạn nhẹ",
+    "position": [534, 584],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F33.0"]
+  },
+  {
+    "text": "bình thường",
+    "position": [296, 307],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [226, 243],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [247, 256],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

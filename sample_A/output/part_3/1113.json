@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Giang mai bẩm sinh sớm",
+    "position": [0, 22],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "A50.01",
+      "A50.03",
+      "A50.04"
+    ]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [422, 431],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  },
+  {
+    "text": "Ganciclovir",
+    "position": [435, 446],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [125, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [105, 112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

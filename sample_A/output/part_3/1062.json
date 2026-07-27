@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Hydroxyurea",
+    "position": [86, 97],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["5552"]
+  },
+  {
+    "text": "troponin",
+    "position": [272, 280],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [337, 344],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [348, 359],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [408, 416],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["R11"]
+  },
+  {
+    "text": "sốt",
+    "position": [429, 432],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
+  }
+]

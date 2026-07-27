@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Procarbazine",
+    "position": [79, 91],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8702"]
+  },
+  {
+    "text": "ung thư hạch",
+    "position": [338, 350],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư não",
+    "position": [354, 365],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [441, 449],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [456, 465],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

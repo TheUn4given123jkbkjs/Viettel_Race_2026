@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Hội chứng quên thực tổn không do rượu và chất tác động tâm thần khác",
+    "position": [11, 79],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F04"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [358, 366],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [403, 416],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetate hemodialysis solution",
+    "position": [454, 483],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["226504"]
+  },
+  {
+    "text": "bệnh nhân nữ",
+    "position": [84, 96],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Viêm phổi do vi khuẩn",
+    "position": [26, 47],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày",
+    "position": [115, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm não do não mô cầu",
+    "position": [504, 526],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A39.85",
+      "A39.50",
+      "A39.51"
+    ]
+  }
+]

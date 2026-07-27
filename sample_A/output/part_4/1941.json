@@ -1,0 +1,23 @@
+[
+  {
+    "text": "bệnh ghẻ",
+    "position": [90, 98],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B86"]
+  },
+  {
+    "text": "aspirin",
+    "position": [163, 170],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Troponin",
+    "position": [708, 716],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

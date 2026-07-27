@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm não virus do muỗi truyền, không đặc hiệu",
+    "position": [56, 101],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["A83.9"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [478, 486],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [894, 897],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm não virus do muỗi truyền, không đặc hiệu",
+    "position": [56, 101],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A83.9"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [681, 691],
+    "type": "THUẬT",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [651, 668],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

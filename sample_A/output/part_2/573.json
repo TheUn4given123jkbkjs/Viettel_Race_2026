@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Nhiễm trùng huyết do lậu cầu",
+    "position": [448, 476],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A54.86"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [283, 291],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [293, 306],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Albendazole",
+    "position": [310, 321],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["430"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [373, 382],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [386, 397],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Nhiễm trùng huyết",
+    "position": [448, 465],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "A54.86",
+      "I89",
+      "I89.8"
+    ]
+  }
+]

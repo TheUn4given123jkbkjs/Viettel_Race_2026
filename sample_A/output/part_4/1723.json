@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Cystinosis",
+    "position": [0, 10],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mất nước và điện giải",
+    "position": [293, 314],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loại bỏ nước tiểu",
+    "position": [317, 334],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sildenafil",
+    "position": [648, 658],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mifepristone ************",
+    "position": [661, 686],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["6964"]
+  },
+  {
+    "text": "Misoprostol ************",
+    "position": [689, 713],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["6964", "42331"]
+  },
+  {
+    "text": "Phủ nhận buồn nôn",
+    "position": [715, 732],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Sử dụng chất kích thích khác, không xác định có rối loạn tính tình do chất kích thích",
+    "position": [97, 182],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F15.94"]
+  },
+  {
+    "text": "Fluoxetine",
+    "position": [1422, 1432],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4493"]
+  },
+  {
+    "text": "Sertraline",
+    "position": [1434, 1444],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paroxetine",
+    "position": [1448, 1458],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân nữ",
+    "position": [1547, 1559],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân nam",
+    "position": [1710, 1723],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân nữ",
+    "position": [1547, 1559],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

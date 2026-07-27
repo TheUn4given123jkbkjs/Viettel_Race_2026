@@ -1,0 +1,50 @@
+Bệnh án lâm sàng của bệnh nhân được thực hiện vào ngày [Date].
+
+Tiền sử bệnh nội khoa:
+- Bệnh nhân được điều trị tại bệnh viện [Tên bệnh viện] vào tháng [Ngày] với chẩn đoán [Tên bác sĩ] (chủ quan sốt). Sau đó, bệnh nhân được chuyển đến khoa [Tên khoa] để được điều trị tiếp tục.
+- Bệnh nhân có tiền sử THA 5 năm, nhưng không có bất kỳ tiền sử bệnh lý nào khác.
+
+Bệnh sử:
+- Bệnh nhân đến bệnh viện vào ngày [Ngày] với triệu chứng [Tên bác sĩ] (phủ nhận buồn nôn).
+- Bệnh nhân được khám lâm sàng và xét nghiệm máu, kết quả cho thấy [Tên bác sĩ].
+- Sau khi khám lâm sàng và xét nghiệm, bệnh nhân được chẩn đoán [CHẨN_ĐOÁN].
+
+Y lệnh Điều trị:
+- Bệnh nhân được chỉ định phẫu thuật [Tên bác sĩ] để điều trị [CHẨN_ĐOÁN].
+- Sau phẫu thuật, bệnh nhân cần được theo dõi lối sống để tránh tái phát [CHẨN_ĐOÁN].
+
+[Ngày], [Tên bác sĩ].
+
+ Entities:
+[
+    {
+      "text": "Ác mộng",
+      "type": "CHẨN_ĐOÁN",
+      "assertions": ["isNegated"]
+    },
+    {
+      "text": "thực phẩm",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": ["isHistorical"]
+    },
+    {
+      "text": "aspirin",
+      "type": "THUỐC",
+      "assertions": []
+    },
+    {
+      "text": "ceftriaxone",
+      "type": "THUỐC",
+      "assertions": []
+    },
+    {
+      "text": "troponin",
+      "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+      "assertions": []
+    },
+    {
+      "text": "tiền sử THA",
+      "type": "TÊN_XÉT_NGHIỆM",
+      "assertions": ["isHistorical"]
+    }
+]

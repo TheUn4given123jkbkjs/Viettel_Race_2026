@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Artesunate",
+    "position": [57, 67],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "18346",
+      "711398",
+      "1429947"
+    ]
+  },
+  {
+    "text": "sốt rét",
+    "position": [123, 130],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phụ nữ mang thai",
+    "position": [989, 1005],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "tác dụng phụ",
+    "position": [40, 52],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [425, 431],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phụ nữ",
+    "position": [989, 995],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phụ nữ mang thai",
+    "position": [989, 1005],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

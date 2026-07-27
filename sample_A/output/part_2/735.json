@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Diphtheria-Tetanus Vaccine",
+    "position": [45, 71],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "834765",
+      "309949",
+      "758475"
+    ]
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [119, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [151, 168],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt cao",
+    "position": [130, 143],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Mycobacterium tuberculosis",
+    "position": [15, 41],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Pyrazinamide",
+    "position": [632, 644],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["214662", "8987"]
+  },
+  {
+    "text": "Isoniazid",
+    "position": [646, 655],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
+  },
+  {
+    "text": "Rifampicin",
+    "position": [659, 669],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1497, 1505],
+    "type": "TÁC DỤNG PHỤ",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

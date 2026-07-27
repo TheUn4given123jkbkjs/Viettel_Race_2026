@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U lành tuyến nội tiết xác định khác",
+    "position": [0, 35],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D35.7"]
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [607, 624],
+    "type": "KIỂU_ĐIỀU_TRỊ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [450, 453],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó chịu",
+    "position": [459, 467],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

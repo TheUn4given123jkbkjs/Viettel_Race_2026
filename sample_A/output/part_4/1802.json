@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Di chứng của bệnh còi xương",
+    "position": [353, 380],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E64.3"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [182, 190],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

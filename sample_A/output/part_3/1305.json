@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Nhiễm salmonella khác",
+    "position": [0, 21],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "A02",
+      "A02.8",
+      "A02.9"
+    ]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [536, 547],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [551, 564],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1180, 1193],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Bố",
+    "position": [1428, 1430],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Không sốt, buồn nôn",
+    "position": [2834, 2853],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

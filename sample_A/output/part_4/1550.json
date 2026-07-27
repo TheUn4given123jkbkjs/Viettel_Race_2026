@@ -1,0 +1,27 @@
+[
+  {
+    "text": "bệnh não",
+    "position": [152, 160],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "E75.26",
+      "E88.31",
+      "G23"
+    ]
+  },
+  {
+    "text": "Abacavir",
+    "position": [555, 563],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [753, 766],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "nghiện rượu đang giảm bớt",
+    "position": [336, 361],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F10.21"]
+  },
+  {
+    "text": "aspirin",
+    "position": [408, 415],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [260, 268],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [134, 137],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "THA",
+    "position": [185, 188],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

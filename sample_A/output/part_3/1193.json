@@ -1,0 +1,48 @@
+[
+  {
+    "text": "HIV",
+    "position": [0, 3],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F02.4*",
+      "Z21",
+      "Z11.4"
+    ]
+  },
+  {
+    "text": "Ritonavir",
+    "position": [112, 121],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["284640", "85762"]
+  },
+  {
+    "text": "sốt",
+    "position": [213, 216],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng hạch",
+    "position": [218, 227],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [231, 238],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc kháng virus",
+    "position": [296, 313],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Rối loạn trầm cảm tái diễn, hiện tại giai đoạn nặng không có triệu chứng loạn thần",
+    "position": [45, 127],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F33.2"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [202, 210],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Tiền sử THA 5 năm",
+    "position": [158, 175],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Abacavir",
+    "position": [202, 210],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  }
+]

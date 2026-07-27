@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Giảm phosphat",
+    "position": [105, 118],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E83.32"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [167, 174],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [180, 191],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "aspirin ************",
+    "position": [478, 498],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "troponin",
+    "position": [675, 683],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tim đồ",
+    "position": [772, 783],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm tim",
+    "position": [864, 875],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

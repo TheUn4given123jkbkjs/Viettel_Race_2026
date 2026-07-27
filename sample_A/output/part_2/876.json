@@ -1,0 +1,37 @@
+[
+  {
+    "text": "cơn co giật dữ dội",
+    "position": [273, 291],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [143, 156],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh dại vùng rừng núi",
+    "position": [642, 664],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A82.0"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [728, 738],
+    "type": "KỊCH_BẢN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [794, 800],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

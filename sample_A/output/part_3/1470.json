@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tràn dịch não thông",
+    "position": [0, 19],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G91.0"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [376, 389],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Mannitol",
+    "position": [393, 401],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6628"]
+  },
+  {
+    "text": "áp lực nội sọ",
+    "position": [91, 104],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [139, 147],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [149, 152],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

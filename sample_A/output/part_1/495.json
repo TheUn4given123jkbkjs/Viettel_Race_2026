@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Viêm xương đá",
+    "position": [351, 364],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M90.1*", "H70.2"]
+  },
+  {
+    "text": "Viêm phổi mãn tính",
+    "position": [59, 77],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cao huyết áp",
+    "position": [128, 140],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Uống nhiều nước, ăn uống đủ chất",
+    "position": [300, 332],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp X-quang xương",
+    "position": [259, 277],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phổi mãn tính",
+    "position": [59, 77],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sốt cao 38 độ C",
+    "position": [209, 224],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh án bệnh nhân nam 30 tuổi",
+    "position": [0, 29],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "xốp xơ tai xâm lấn cửa sổ bầu dục làm bít tắc xốp xơ tai xâm lấn cửa sổ bầu dục bít lấp",
+    "position": [215, 302],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["H80.0", "H80.1"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [331, 339],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [360, 373],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [682, 695],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [716, 730],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  }
+]

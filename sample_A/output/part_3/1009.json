@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Di chứng của suy dinh dưỡng do thiếu protein - năng lượng",
+    "position": [112, 169],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["E64.0"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [191, 199],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [219, 232],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

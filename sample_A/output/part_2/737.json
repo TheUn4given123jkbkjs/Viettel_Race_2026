@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Rối loạn hoạt động xã hội ở trẻ em không biệt định",
+    "position": [144, 194],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["F94.9"]
+  },
+  {
+    "text": "Rối loạn hoạt động xã hội ở trẻ em không biệt định",
+    "position": [144, 194],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trẻ được sinh ra",
+    "position": [26, 42],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [578, 588],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

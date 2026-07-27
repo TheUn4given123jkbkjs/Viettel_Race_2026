@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Ethionamide",
+    "position": [92, 103],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4127"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [309, 326],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [426, 433],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [435, 446],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "troponin",
+    "position": [516, 524],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Methadone",
+    "position": [175, 184],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6813"]
+  },
+  {
+    "text": "viêm gan C mạn tính",
+    "position": [281, 300],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B18.2"]
+  },
+  {
+    "text": "đau bụng",
+    "position": [501, 509],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [613, 621],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [816, 823],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phản ứng thành bụng",
+    "position": [1163, 1182],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mayo-Robson",
+    "position": [1212, 1223],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

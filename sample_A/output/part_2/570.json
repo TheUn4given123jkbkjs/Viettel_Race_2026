@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Aminocaproic acid",
+    "position": [79, 96],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["99"]
+  },
+  {
+    "text": "troponin",
+    "position": [339, 347],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [161, 169],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [191, 194],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chẩn đoán có [troponin] cao",
+    "position": [325, 352],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [385, 392],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftiaxone",
+    "position": [398, 408],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

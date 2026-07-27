@@ -1,0 +1,23 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [23, 40],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "giai đoạn hưng cảm không đặc hiệu",
+    "position": [73, 106],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F30.9"]
+  },
+  {
+    "text": "thay đổi tâm trạng thất thường",
+    "position": [135, 165],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

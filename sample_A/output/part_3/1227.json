@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Nhiễm virus khác của hệ thần kinh trung ương, chưa phân loại",
+    "position": [0, 60],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A88"]
+  },
+  {
+    "text": "THA",
+    "position": [441, 444],
+    "type": "BỆNH_LÝ",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

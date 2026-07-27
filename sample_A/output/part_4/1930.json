@@ -1,0 +1,37 @@
+[
+  {
+    "text": "U ác của tụy nội tiết",
+    "position": [188, 209],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C25.4"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [222, 233],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [267, 274],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Troponin",
+    "position": [319, 327],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "THA",
+    "position": [124, 127],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

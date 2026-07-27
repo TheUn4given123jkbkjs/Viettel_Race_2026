@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm quầng (nhiễm streptococcus ở da)",
+    "position": [59, 96],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A46"]
+  },
+  {
+    "text": "đỏ rực",
+    "position": [607, 613],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng tấy",
+    "position": [703, 711],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [858, 865],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rét run",
+    "position": [867, 874],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Penicillin V",
+    "position": [1067, 1079],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7984"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [1165, 1176],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  }
+]

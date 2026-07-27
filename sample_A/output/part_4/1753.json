@@ -1,0 +1,16 @@
+[
+  {
+    "text": "tiền sử THA",
+    "position": [38, 49],
+    "type": "isHistorical",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [222, 229],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "text": "viêm gan virus B",
+    "position": [316, 332],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "B16.0",
+      "B16.1",
+      "B16.9"
+    ]
+  },
+  {
+    "text": "xơ gan",
+    "position": [430, 436],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K71.7",
+      "K74",
+      "K74.0"
+    ]
+  },
+  {
+    "text": "vàng da",
+    "position": [557, 564],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [696, 703],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methionine",
+    "position": [972, 982],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6837"]
+  },
+  {
+    "text": "AST",
+    "position": [1203, 1206],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [1210, 1213],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

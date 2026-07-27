@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Bệnh tăng sinh miễn dịch ác tính không đặc hiệu",
+    "position": [217, 264],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C88.9"]
+  },
+  {
+    "text": "tiểu đường loại 2",
+    "position": [111, 128],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [56, 59],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [61, 68],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sút cân",
+    "position": [70, 77],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

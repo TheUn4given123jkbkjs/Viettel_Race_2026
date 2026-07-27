@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Bệnh tularaemia thể phổi",
+    "position": [590, 614],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["A21.2"]
+  },
+  {
+    "text": "Bác sĩ [Tên bác sĩ]",
+    "position": [779, 798],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "THA",
+    "position": [144, 147],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [277, 286],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Tên bác sĩ]",
+    "position": [27, 39],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

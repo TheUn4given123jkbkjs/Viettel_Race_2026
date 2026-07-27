@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Magnesium sulfate",
+    "position": [111, 128],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6585"]
+  },
+  {
+    "text": "đau ngực",
+    "position": [216, 224],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [323, 331],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [374, 381],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "nitroglycerin",
+    "position": [388, 401],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4917"]
+  },
+  {
+    "text": "Bệnhnhân",
+    "position": [83, 91],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

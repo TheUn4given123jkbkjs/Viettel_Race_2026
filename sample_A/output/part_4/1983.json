@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Đái huyết sắc tố kịch phát ban đêm",
+    "position": [1098, 1132],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D59.5"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [938, 945],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [976, 987],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

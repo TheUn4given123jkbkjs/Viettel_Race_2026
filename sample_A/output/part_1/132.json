@@ -1,0 +1,51 @@
+[
+  {
+    "text": "ù tai trái",
+    "position": [63, 73],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nghe kém",
+    "position": [78, 86],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử viêm tai giữa tái phát nhiều lần từ nhỏ",
+    "position": [95, 142],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bố tôi cũng bị điếc đột ngột năm 60 tuổi",
+    "position": [146, 186],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Những bất thường mắc phải khác của chuỗi xương con dị dạng xương con mắc phải khác",
+    "position": [212, 294],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H74.3"]
+  },
+  {
+    "text": "phẫu thuật chỉnh hình xương con",
+    "position": [619, 650],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạn chế tiếp xúc với tiếng ồn lớn",
+    "position": [682, 715],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

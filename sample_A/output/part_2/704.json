@@ -1,0 +1,93 @@
+[
+  {
+    "text": "đái tháo đường loại 2",
+    "position": [120, 141],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tắc tĩnh mạch màng não",
+    "position": [171, 193],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [234, 241],
+    "type": "CHỈ",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [288, 295],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [400, 408],
+    "type": "CHỈ",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "38,5",
+    "position": [436, 440],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "140/90",
+    "position": [480, 486],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "100",
+    "position": [514, 517],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin cao",
+    "position": [545, 557],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [579, 590],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "200mg/dl",
+    "position": [592, 600],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "albumin",
+    "position": [627, 634],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "100mg/dl",
+    "position": [636, 644],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

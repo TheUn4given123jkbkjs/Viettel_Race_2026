@@ -1,0 +1,44 @@
+[
+  {
+    "text": "táo bón",
+    "position": [5, 12],
+    "type": "TÊN_BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Docusate sodium",
+    "position": [665, 680],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["71722"]
+  },
+  {
+    "text": "đi phân cứng",
+    "position": [38, 50],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó đi tiêu",
+    "position": [447, 458],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầy hơi",
+    "position": [1075, 1082],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chướng bụng",
+    "position": [510, 521],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

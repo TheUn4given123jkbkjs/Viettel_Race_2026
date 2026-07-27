@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Bệnh mi mắt không đặc hiệu",
+    "position": [0, 26],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["H02.9", "H21.9"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [828, 838],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [828, 838],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [828, 838],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử gia đình",
+    "position": [1056, 1072],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

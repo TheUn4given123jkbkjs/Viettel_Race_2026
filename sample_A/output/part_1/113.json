@@ -1,0 +1,16 @@
+[
+  {
+    "text": "gôm và loét của ghẻ cóc",
+    "position": [227, 250],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A66.4"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [370, 378],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

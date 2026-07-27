@@ -1,0 +1,30 @@
+[
+  {
+    "text": "hút thuốc lá",
+    "position": [349, 361],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "THA",
+    "position": [372, 375],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Chụp X quang phổi",
+    "position": [474, 491],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scanning",
+    "position": [493, 504],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

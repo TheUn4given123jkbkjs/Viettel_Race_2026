@@ -1,0 +1,27 @@
+[
+  {
+    "text": "rối loạn cảm xúc lưỡng cực không biệt định",
+    "position": [92, 134],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F31.9"]
+  },
+  {
+    "text": "Acenocoumarol",
+    "position": [718, 731],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["154"]
+  },
+  {
+    "text": "Lamivudine",
+    "position": [735, 745],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "68244",
+      "2003201",
+      "2003222"
+    ]
+  }
+]

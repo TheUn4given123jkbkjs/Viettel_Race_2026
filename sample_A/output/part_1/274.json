@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Bệnh bạch cầu dạng tiền tủy bào (PML)",
+    "position": [0, 37],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C92.4"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [139, 156],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [184, 191],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [193, 202],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [220, 237],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

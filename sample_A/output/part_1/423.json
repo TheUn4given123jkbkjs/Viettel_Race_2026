@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh sán diphyllobothrium và sparganum",
+    "position": [189, 227],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B70"]
+  },
+  {
+    "text": "Albendazole",
+    "position": [759, 770],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["430"]
+  },
+  {
+    "text": "Praziquantel",
+    "position": [776, 788],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8628"]
+  }
+]

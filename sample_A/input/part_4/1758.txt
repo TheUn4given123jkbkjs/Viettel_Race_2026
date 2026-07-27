@@ -1,0 +1,42 @@
+Bệnh án lâm sàng của bệnh nhân [Tên bác sĩ] ngày [Ngày] 
+
+Tiền sử bệnh nội khoa: 
+- Bệnh nhân đã từng bị sốt rét vào năm 2015 và đã được điều trị bằng 
+ Artemisinin. 
+- Bệnh nhân cũng đã từng bị viêm màng não vào năm 2010 và đã được 
+ điều trị bằng 
+************
+. 
+
+Diễn biến bệnh: 
+- Bệnh nhân đã đến bệnh viện vào ngày [Date] với triệu chứng sốt và 
+ buồn nôn. 
+- Sau khi kiểm tra, bác sĩ đã phát hiện ra rằng bệnh nhân có 
+ dấu hiệu tăng troponin và đã được chuyển đến phòng mổ. 
+- Bệnh nhân đã được tiêm ceftriaxone và aspirin để điều trị. 
+
+Điều trị tại bệnh viện: 
+- Bệnh nhân đã được ở lại bệnh viện trong 5 ngày và đã được theo dõi 
+ chặt chẽ. 
+- Bệnh nhân đã có dấu hiệu cải thiện trong 2 ngày đầu tiên, nhưng sau đó 
+ lại trở nên nặng hơn. 
+- Bác sĩ đã quyết định tăng liều aspirin và thêm vào một loại thuốc 
+ khác là ************
+. 
+
+Kết luận: 
+- Bệnh nhân đã được chẩn đoán là có tình trạng tăng troponin và đã được 
+ điều trị thích hợp. 
+- Bác sĩ đã chỉ định cho bệnh nhân phải trở lại bệnh viện sau 2 tuần để 
+ theo dõi tình trạng sức khỏe.
+
+ Entities: 
+- BCG Vaccine (THUỐC, isHistorical)
+- Artemisinin (THUỐC)
+- ************
+ (THUỐC)
+- ************
+ (THUỐC)
+- Troponin (TÊN_XÉT_NGHIỆM)
+- Ceftriaxone (THUỐC)
+- Aspirin (THUỐC)

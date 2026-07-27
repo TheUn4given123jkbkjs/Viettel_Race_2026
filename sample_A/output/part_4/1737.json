@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Zidovudine",
+    "position": [187, 197],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "214671",
+      "687428",
+      "11413"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [105, 113],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["R11"]
+  },
+  {
+    "text": "HIV",
+    "position": [219, 222],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chị",
+    "position": [87, 90],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

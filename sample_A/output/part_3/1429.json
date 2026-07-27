@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Viêm gan B cấp",
+    "position": [42, 56],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "B16",
+      "B16.0",
+      "B16.1"
+    ]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [80, 90],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [161, 169],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [148, 151],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "kê đơn thuốc",
+    "position": [220, 232],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

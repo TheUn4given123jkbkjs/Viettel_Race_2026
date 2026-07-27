@@ -1,0 +1,44 @@
+[
+  {
+    "text": "U ác tuyến mang tai",
+    "position": [518, 537],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C07"]
+  },
+  {
+    "text": "aspirin",
+    "position": [327, 334],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [228, 235],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm huyết áp",
+    "position": [452, 465],
+    "type": "THIỆT_HUYẾT ÁP",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [490, 503],
+    "type": "THIỆT_HUYẾT ÁP",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [303, 306],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

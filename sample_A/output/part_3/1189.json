@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm tủy xương do lậu",
+    "position": [207, 228],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A54.41"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [273, 281],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [410, 421],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [990, 997],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "sốt",
+    "position": [577, 580],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [582, 590],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [594, 601],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "dị vật đâm xuyên hậu nhãn cầu",
+    "position": [53, 82],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["H05.5"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [444, 454],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [444, 454],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [213, 219],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh viện",
+    "position": [165, 174],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

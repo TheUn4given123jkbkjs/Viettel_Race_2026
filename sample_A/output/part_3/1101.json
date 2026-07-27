@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Nitrofurantoin",
+    "position": [454, 468],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7454"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [595, 603],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["R11"]
+  },
+  {
+    "text": "thiếu hụt vitamin B12",
+    "position": [999, 1020],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [607, 616],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K90.1",
+      "K90.3",
+      "K92.2"
+    ]
+  }
+]

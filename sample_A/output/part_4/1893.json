@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Nhiễm nấm paracoccidioides lan tỏa",
+    "position": [0, 34],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["B41.7"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [606, 616],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [622, 639],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp X-quang",
+    "position": [198, 210],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [212, 226],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sinh thiết",
+    "position": [230, 240],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "phổi",
+    "position": [348, 352],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

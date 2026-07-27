@@ -1,0 +1,79 @@
+[
+  {
+    "text": "thiếu máu do rối loạn các men phân giải glucose",
+    "position": [569, 616],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D55.2"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [1012, 1020],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acarbose",
+    "position": [1024, 1032],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["16681"]
+  },
+  {
+    "text": "Metformin",
+    "position": [1377, 1386],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [1507, 1517],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Losartan",
+    "position": [1779, 1787],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Valsartan",
+    "position": [2049, 2058],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lisinopril",
+    "position": [2321, 2331],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nateglinide",
+    "position": [2461, 2472],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trandolapril",
+    "position": [2593, 2605],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rosiglitazone",
+    "position": [2735, 2748],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

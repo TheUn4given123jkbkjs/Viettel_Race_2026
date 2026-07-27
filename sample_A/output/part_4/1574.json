@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Lao niệu quản",
+    "position": [73, 86],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["A18.14"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [196, 209],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [240, 249],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Vi khuẩn gây hại",
+    "position": [875, 891],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân",
+    "position": [103, 112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

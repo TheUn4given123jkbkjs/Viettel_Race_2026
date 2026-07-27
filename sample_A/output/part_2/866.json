@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Amoxicillin",
+    "position": [651, 662],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Metformin",
+    "position": [228, 237],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "tiểu đường tuýp 2",
+    "position": [184, 201],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực không ổn định",
+    "position": [80, 102],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [62, 75],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Bệnh sán máng [bilharziasis]",
+    "position": [56, 84],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B65"]
+  },
+  {
+    "text": "Praziquantel",
+    "position": [146, 158],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8628"]
+  },
+  {
+    "text": "Albendazole",
+    "position": [192, 203],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["430"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [13, 30],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

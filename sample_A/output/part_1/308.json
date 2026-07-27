@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Hội chứng thiếu iod bẩm sinh, không đặc hiệu",
+    "position": [34, 78],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E00.9"]
+  },
+  {
+    "text": "thyroxine (T4)",
+    "position": [744, 758],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "triiodothyronine (T3)",
+    "position": [767, 788],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

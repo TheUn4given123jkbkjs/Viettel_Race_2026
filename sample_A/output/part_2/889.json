@@ -1,0 +1,20 @@
+[
+  {
+    "text": "nhiễm nấm paracoccidioides",
+    "position": [25, 51],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "B41",
+      "B41.0",
+      "B41.7"
+    ]
+  },
+  {
+    "text": "Amphotericin B",
+    "position": [173, 187],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["732"]
+  }
+]

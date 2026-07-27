@@ -1,0 +1,44 @@
+[
+  {
+    "text": "thận mãn tính",
+    "position": [46, 59],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường type 2",
+    "position": [63, 80],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Antivenom",
+    "position": [138, 147],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2101271"]
+  },
+  {
+    "text": "bố bệnh nhân",
+    "position": [254, 266],
+    "type": "TÊN_BỆNH_NHÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Metformin",
+    "position": [542, 551],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Enalapril",
+    "position": [578, 587],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3827"]
+  }
+]

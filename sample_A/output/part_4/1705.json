@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Erythromycin",
+    "position": [25, 37],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4053"]
+  },
+  {
+    "text": "nhiễm trùng đường hô hấp",
+    "position": [50, 74],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

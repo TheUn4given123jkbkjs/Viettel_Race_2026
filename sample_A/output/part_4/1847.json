@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Rối loạn loạn thần cấp đa dạng không có các triệu chứng của bệnh tâm thần phân liệt",
+    "position": [76, 159],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["F23.0"]
+  },
+  {
+    "text": "lo lắng",
+    "position": [235, 242],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sợ hãi",
+    "position": [367, 373],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm giác không an toàn",
+    "position": [375, 397],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "được theo dõi",
+    "position": [1228, 1241],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

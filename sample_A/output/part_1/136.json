@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U lympho tế bào T giống viêm mô mỡ dưới da",
+    "position": [0, 44],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [2021, 2031],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điều trị hóa chất",
+    "position": [2037, 2054],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tia xạ",
+    "position": [766, 772],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

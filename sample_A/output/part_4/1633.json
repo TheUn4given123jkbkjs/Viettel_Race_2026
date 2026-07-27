@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Fludrocortisone",
+    "position": [274, 289],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4452"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [54, 67],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [69, 76],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [80, 89],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh thận",
+    "position": [127, 136],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [229, 242],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  }
+]

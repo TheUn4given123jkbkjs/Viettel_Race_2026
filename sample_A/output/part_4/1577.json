@@ -1,0 +1,37 @@
+[
+  {
+    "text": "sởi biến chứng viêm tai giữa H67.1",
+    "position": [189, 223],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B05.3†"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [319, 332],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [348, 355],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [235, 252],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [73, 76],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

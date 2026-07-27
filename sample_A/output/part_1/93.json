@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Tăng gammaglobulin máu đa dòng",
+    "position": [0, 30],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["D89.0"]
+  },
+  {
+    "text": "Suy giảm chức năng của hệ miễn dịch",
+    "position": [206, 241],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng nguy cơ mắc các bệnh nhiễm trùng",
+    "position": [244, 281],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy giảm chức năng của các cơ quan khác nhau trong cơ thể",
+    "position": [284, 341],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chuyên gia y tế có kinh nghiệm",
+    "position": [576, 606],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Bệnh do Brucella canis",
+    "position": [127, 149],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A23.3"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [167, 175],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [209, 222],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "THA",
+    "position": [103, 106],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

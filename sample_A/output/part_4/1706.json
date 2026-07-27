@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Loạn trương lực cơ gia đình tự phát",
+    "position": [90, 125],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G24.1"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [616, 626],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loạn trương lực cơ gia đình tự phát",
+    "position": [90, 125],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G24.1"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [299, 307],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [288, 295],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

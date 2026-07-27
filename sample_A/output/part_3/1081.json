@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh bò điên (Creutzfeidt-Jakob)",
+    "position": [0, 32],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A81.0"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [855, 868],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [907, 921],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  }
+]

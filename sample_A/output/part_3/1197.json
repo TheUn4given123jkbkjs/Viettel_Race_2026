@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Miconazole",
+    "position": [57, 67],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6932"]
+  },
+  {
+    "text": "viêm da",
+    "position": [138, 145],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nấm da",
+    "position": [130, 136],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thai nhi",
+    "position": [594, 602],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "P52",
+      "P52.0",
+      "P52.1"
+    ]
+  },
+  {
+    "text": "trẻ em",
+    "position": [608, 614],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "F98.21",
+      "F98.29",
+      "F64.2"
+    ]
+  },
+  {
+    "text": "NSAID",
+    "position": [921, 926],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc chống co giật",
+    "position": [929, 948],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc chống trầm cảm",
+    "position": [953, 973],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

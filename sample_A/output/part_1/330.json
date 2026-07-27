@@ -1,0 +1,30 @@
+[
+  {
+    "text": "doxycycline",
+    "position": [477, 488],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3640"]
+  },
+  {
+    "text": "acetaminophen",
+    "position": [200, 213],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [76, 84],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [71, 74],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

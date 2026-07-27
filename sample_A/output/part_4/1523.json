@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Sa sút trí tuệ do nguyên nhân mạch",
+    "position": [56, 90],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F01",
+      "F01.0",
+      "F01.2"
+    ]
+  },
+  {
+    "text": "suy giảm khả năng thực hiện",
+    "position": [1359, 1386],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn dáng đi",
+    "position": [1652, 1668],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử tăng huyết áp 10 năm",
+    "position": [2485, 2513],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "MRI não",
+    "position": [2559, 2566],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương chất trắng",
+    "position": [2613, 2634],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [2846, 2853],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [2952, 2964],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  }
+]

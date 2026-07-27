@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Ribavirin",
+    "position": [152, 161],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9344"]
+  },
+  {
+    "text": "viêm gan C",
+    "position": [202, 212],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B17.1", "B18.2"]
+  },
+  {
+    "text": "sốt",
+    "position": [86, 89],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [93, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [21, 30],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh viện",
+    "position": [60, 69],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử",
+    "position": [1320, 1327],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận",
+    "position": [235, 243],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tiền sử THA 10 năm",
+    "position": [22, 40],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng năng lượng",
+    "position": [100, 115],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm nhu cầu ngủ",
+    "position": [119, 135],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [156, 164],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [181, 184],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Giai đoạn hưng cảm không có các triệu chứng loạn thần, nặng",
+    "position": [228, 287],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F30.13"]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Nhiễm nấm coccidioides ở phổi cấp tính",
+    "position": [0, 38],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B38.0"]
+  },
+  {
+    "text": "Fluconazole",
+    "position": [1235, 1246],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4450"]
+  },
+  {
+    "text": "Itraconazole",
+    "position": [1332, 1344],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [360, 374],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm hình ảnh",
+    "position": [1574, 1593],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử THA 5 năm",
+    "position": [1712, 1729],
+    "type": "TỔNG_ĐOẠN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đau ngực",
+    "position": [1814, 1822],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sốt",
+    "position": [1825, 1828],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ho",
+    "position": [1831, 1833],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

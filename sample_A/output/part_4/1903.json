@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Nhiễm Echinococcus multilocularis ở gan",
+    "position": [0, 39],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B67.5"]
+  },
+  {
+    "text": "Echinococcus multilocularis",
+    "position": [6, 33],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [617, 634],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [484, 494],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [548, 565],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI",
+    "position": [779, 782],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan",
+    "position": [788, 795],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

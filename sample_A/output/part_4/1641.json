@@ -1,0 +1,37 @@
+[
+  {
+    "text": "aspirin",
+    "position": [602, 609],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [219, 232],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tiểu đường",
+    "position": [317, 332],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [681, 692],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "bệnh gan",
+    "position": [376, 384],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Viêm tai giữa trong bệnh nhiễm trùng phân loại nơi khác",
+    "position": [59, 114],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["H67.0*"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [647, 660],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [663, 672],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Trước đây",
+    "position": [842, 851],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Co thắt và giật nửa mặt",
+    "position": [0, 23],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G51.3"]
+  },
+  {
+    "text": "thuốc",
+    "position": [772, 777],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp cắt lớp vi tính",
+    "position": [579, 599],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp cộng hưởng từ",
+    "position": [621, 639],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [489, 495],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

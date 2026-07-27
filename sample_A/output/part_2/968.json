@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Sốt vàng thành thị",
+    "position": [75, 93],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A95.1"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [352, 360],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [474, 487],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

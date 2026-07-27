@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Bệnh than không xác định",
+    "position": [0, 24],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A22.9"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [256, 263],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [265, 272],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "các vấn đề về tiêu hóa",
+    "position": [277, 299],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

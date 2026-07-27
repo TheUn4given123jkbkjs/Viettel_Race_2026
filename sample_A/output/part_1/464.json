@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Vitamin A",
+    "position": [32, 41],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11246", "97016"]
+  },
+  {
+    "text": "mụn",
+    "position": [54, 57],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khô da",
+    "position": [272, 278],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bong tróc da",
+    "position": [280, 292],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

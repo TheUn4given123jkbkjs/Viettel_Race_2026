@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm nội tâm mạc do lậu cầu",
+    "position": [181, 208],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["A54.83"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [276, 286],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "chọc giác mạc",
+    "position": [623, 636],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

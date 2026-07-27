@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Loạn chức năng tình dục khác, không do bệnh lý hoặc rối loạn thực tổn",
+    "position": [77, 146],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F52.8", "F52.9"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [173, 181],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Cimetidine",
+    "position": [185, 195],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2541"]
+  }
+]

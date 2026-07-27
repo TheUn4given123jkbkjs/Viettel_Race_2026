@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Potassium permanganate",
+    "position": [649, 671],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8604"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [852, 859],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Metoprolol",
+    "position": [888, 898],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [459, 467],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [489, 498],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

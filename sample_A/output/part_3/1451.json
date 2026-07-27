@@ -1,0 +1,23 @@
+[
+  {
+    "text": "U lành có vị trí khác và không xác định",
+    "position": [0, 39],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D36"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [340, 353],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [357, 366],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

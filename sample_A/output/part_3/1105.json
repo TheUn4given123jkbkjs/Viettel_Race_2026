@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Dextran 40",
+    "position": [186, 196],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3272"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [209, 226],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [95, 98],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [147, 160],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [360, 373],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "position": [106, 120],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [218, 226],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["R11"]
+  },
+  {
+    "text": "Dextran 40",
+    "position": [186, 196],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3272"]
+  }
+]

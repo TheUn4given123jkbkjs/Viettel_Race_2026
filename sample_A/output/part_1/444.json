@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Sốt và sốt cao",
+    "position": [175, 189],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm xoang",
+    "position": [426, 436],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J01.00",
+      "J01.01",
+      "J01.11"
+    ]
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [578, 592],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước bọt",
+    "position": [596, 615],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước mũi",
+    "position": [619, 638],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tai",
+    "position": [642, 661],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm hình ảnh",
+    "position": [665, 684],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm mũi",
+    "position": [440, 448],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.05",
+      "J00",
+      "J30"
+    ]
+  }
+]

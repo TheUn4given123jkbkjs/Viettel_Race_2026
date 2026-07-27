@@ -1,0 +1,23 @@
+[
+  {
+    "text": "BỆNH FABRY(-ANDERSON)",
+    "position": [23, 44],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E75.21"]
+  },
+  {
+    "text": "THA",
+    "position": [93, 96],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [270, 280],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

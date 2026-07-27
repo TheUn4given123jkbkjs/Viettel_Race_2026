@@ -1,0 +1,27 @@
+[
+  {
+    "text": "mụn cóc do virus",
+    "position": [5, 21],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B07"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [325, 334],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  },
+  {
+    "text": "Zidovudine",
+    "position": [338, 348],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "214671",
+      "687428",
+      "11413"
+    ]
+  }
+]

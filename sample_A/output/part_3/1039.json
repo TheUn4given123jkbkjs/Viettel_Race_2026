@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh lậu khác",
+    "position": [211, 224],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A54.8"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [272, 283],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Azithromycin",
+    "position": [287, 299],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  }
+]

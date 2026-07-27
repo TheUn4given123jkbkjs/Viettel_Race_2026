@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Valproic acid",
+    "position": [150, 163],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11118"]
+  },
+  {
+    "text": "aspirin",
+    "position": [548, 555],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [785, 802],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tình trạng viêm nhiễm tim mạch",
+    "position": [1026, 1056],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

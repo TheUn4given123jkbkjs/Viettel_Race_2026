@@ -1,0 +1,37 @@
+[
+  {
+    "text": "sốt ban xuất huyết Brasil",
+    "position": [81, 106],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["A48.4"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [263, 276],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [280, 289],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [430, 443],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [489, 507],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  }
+]

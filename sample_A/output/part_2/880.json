@@ -1,0 +1,51 @@
+[
+  {
+    "text": "U lành da chi dưới bao gồm háng",
+    "position": [53, 84],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D23.7"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1433, 1442],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1512, 1522],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "khối u hoặc nốt sần",
+    "position": [546, 565],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối u vùng háng phải",
+    "position": [1163, 1184],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không cảm thấy đau",
+    "position": [663, 681],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau nhiều",
+    "position": [1558, 1567],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

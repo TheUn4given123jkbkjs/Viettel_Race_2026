@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Bệnh do Erysipelothrix ở da",
+    "position": [446, 473],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A26.0"]
+  },
+  {
+    "text": "Không sốt",
+    "position": [287, 296],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

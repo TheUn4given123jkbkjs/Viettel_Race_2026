@@ -1,0 +1,42 @@
+[
+  {
+    "text": "sử dụng cocain",
+    "position": [97, 111],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "F14.90",
+      "F14.92",
+      "F14.94"
+    ]
+  },
+  {
+    "text": "rối loạn không xác định do cocain",
+    "position": [115, 148],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "F14.19",
+      "F14.29",
+      "F14.94"
+    ]
+  },
+  {
+    "text": "Abacavir",
+    "position": [414, 422],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Isoniazid",
+    "position": [476, 485],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
+  }
+]

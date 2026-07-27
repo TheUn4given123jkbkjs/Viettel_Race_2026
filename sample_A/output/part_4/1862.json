@@ -1,0 +1,37 @@
+[
+  {
+    "text": "suy thận",
+    "position": [5, 13],
+    "type": "TÊN_BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [191, 198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Iopromide",
+    "position": [479, 488],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["27781"]
+  },
+  {
+    "text": "chụp CT",
+    "position": [592, 599],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp cao",
+    "position": [1002, 1014],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

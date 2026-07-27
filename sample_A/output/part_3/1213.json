@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Bệnh [Entity_1]",
+    "position": [76, 91],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh [Entity_2]",
+    "position": [149, 164],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Entity_3]",
+    "position": [287, 297],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Entity_4]",
+    "position": [304, 314],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Entity_5]",
+    "position": [362, 372],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Entity_6]",
+    "position": [420, 430],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Entity_7]",
+    "position": [434, 444],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Entity_8]",
+    "position": [743, 753],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Entity_9]",
+    "position": [780, 790],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Entity_10]",
+    "position": [814, 825],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tồn tại di truyền huyết sắc tố bào thai",
+    "position": [468, 507],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D56.4"]
+  }
+]

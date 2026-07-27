@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Đái tháo đường típ 2",
+    "position": [108, 128],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [481, 488],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dịch mủ",
+    "position": [542, 549],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức",
+    "position": [605, 613],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm allesscheria",
+    "position": [851, 869],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B48.2"]
+  },
+  {
+    "text": "Amphotericin B",
+    "position": [1161, 1175],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["732"]
+  },
+  {
+    "text": "Fluconazole",
+    "position": [1295, 1306],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4450"]
+  }
+]

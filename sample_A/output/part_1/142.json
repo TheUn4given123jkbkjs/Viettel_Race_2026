@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Bệnh thoái hóa khác của nhãn cầu",
+    "position": [0, 32],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H44.3"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [370, 378],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [397, 410],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "xét nghiệm sàng lọc",
+    "position": [300, 319],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "màng bồ đào",
+    "position": [642, 653],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh lý gia đình",
+    "position": [455, 471],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mức đường huyết",
+    "position": [536, 551],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

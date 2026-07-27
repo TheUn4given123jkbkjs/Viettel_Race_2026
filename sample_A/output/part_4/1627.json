@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Viêm mô tế bào tai ngoài",
+    "position": [357, 381],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H60.1"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [409, 417],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

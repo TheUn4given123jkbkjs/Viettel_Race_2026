@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Hội chứng thiếu iod bẩm sinh",
+    "position": [0, 28],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "E00",
+      "E00.0",
+      "E00.1"
+    ]
+  },
+  {
+    "text": "Iodine",
+    "position": [504, 510],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "466470",
+      "5933",
+      "8611"
+    ]
+  },
+  {
+    "text": "Levothyroxine",
+    "position": [524, 537],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10582"]
+  },
+  {
+    "text": "Tăng trưởng chậm",
+    "position": [166, 182],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Mất trí nhớ",
+    "position": [187, 198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Suy giảm trí tuệ",
+    "position": [203, 219],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

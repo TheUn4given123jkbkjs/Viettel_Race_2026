@@ -1,0 +1,26 @@
+Bệnh nhân nam, 52 tuổi, đến bệnh viện vì cảm thấy đau ngực và khó thở. 
+
+Tiền sử bệnh:
+1. Không có tiền sử bệnh tim mạch hoặc đột quỵ.
+2. Không có tiền sử bệnh đường hô hấp.
+
+Tiền sử bệnh hiện tại:
+1. Đau ngực và khó thở trong 3 ngày qua.
+
+Điều trị tại bệnh viện:
+Ghép nối đoạn Hỏi & Đáp với ghi chú bệnh án cấu trúc.
+
+Ghi chú bệnh án:
+- Bác sĩ đã kê đơn thuốc Atenolol (isHistorical) trước đó nhưng bệnh nhân không sử dụng.
+- Bệnh nhân có tiền sử dùng thuốc Atenolol trong 5 năm qua nhưng không có tác dụng phụ.
+
+Hỏi & Đáp:
+- Bác sĩ hỏi bệnh nhân về tiền sử bệnh tim mạch và đột quỵ. Bác sĩ nhấn mạnh rằng bệnh nhân không có tiền sử bệnh tim mạch hoặc đột quỵ.
+- Bác sĩ hỏi bệnh nhân về triệu chứng đau ngực và khó thở. Bác sĩ hỏi bệnh nhân có không sốt (isNegated) và không có buồn nôn (isNegated).
+
+Ghi chú bệnh án:
+- Bác sĩ đã thực hiện xét nghiệm máu và kết quả cho thấy không có sự thay đổi bất thường.
+- Bác sĩ đã đề nghị bệnh nhân thực hiện thêm xét nghiệm để xác định nguyên nhân của triệu chứng.
+
+Đoạn dán nhầm:
+- Bệnh nhân có tiền sử dùng thuốc Atenolol nhưng không có tác dụng phụ.

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Amitriptyline",
+    "position": [310, 323],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["704"]
+  },
+  {
+    "text": "bồn chồn",
+    "position": [748, 756],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn hành vi tăng động",
+    "position": [934, 960],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F90.1"]
+  },
+  {
+    "text": "Risperidone",
+    "position": [1117, 1128],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35636"]
+  },
+  {
+    "text": "Vitamin A",
+    "position": [1229, 1238],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11246", "97016"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [769, 777],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [782, 789],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

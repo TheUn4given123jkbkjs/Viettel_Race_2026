@@ -1,0 +1,41 @@
+[
+  {
+    "text": "rối loạn hoang tưởng thực tổn",
+    "position": [50, 79],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F06.2"]
+  },
+  {
+    "text": "tâm thần phân liệt",
+    "position": [84, 102],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F20.81",
+      "F20.89",
+      "F06.2"
+    ]
+  },
+  {
+    "text": "bác sĩ chuyên khoa tâm thần",
+    "position": [999, 1026],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc",
+    "position": [1222, 1227],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chuyên gia tâm thần",
+    "position": [1336, 1355],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

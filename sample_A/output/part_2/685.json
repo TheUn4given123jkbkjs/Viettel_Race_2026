@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Viêm kết mạc trong bệnh khác, phân loại nơi khác",
+    "position": [177, 225],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "H13.1*",
+      "H13.2*",
+      "H19.2*"
+    ]
+  },
+  {
+    "text": "bệnh tiểu đường",
+    "position": [290, 305],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [309, 321],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim",
+    "position": [367, 375],
+    "type": "BỆNH_SỬ",
+    "assertions": [],
+    "candidates": []
+  }
+]

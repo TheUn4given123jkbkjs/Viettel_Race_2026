@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bleomycin",
+    "position": [42, 51],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1622"]
+  },
+  {
+    "text": "ung thư testicular",
+    "position": [261, 279],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư phổi",
+    "position": [281, 293],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [351, 359],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [356, 359],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [398, 407],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

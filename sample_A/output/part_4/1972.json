@@ -1,0 +1,45 @@
+[
+  {
+    "text": "Potassium permanganate",
+    "position": [722, 744],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8604"]
+  },
+  {
+    "text": "nhồi máu cơ tim",
+    "position": [154, 169],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [224, 231],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "statin",
+    "position": [235, 241],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "83367",
+      "34482",
+      "7597"
+    ]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [461, 472],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

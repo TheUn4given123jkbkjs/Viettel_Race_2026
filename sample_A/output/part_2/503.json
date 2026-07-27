@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Nhiễm Echinococcus granulosus ở phổi",
+    "position": [0, 36],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B67.1"]
+  },
+  {
+    "text": "Albendazole",
+    "position": [408, 419],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["430"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [429, 442],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

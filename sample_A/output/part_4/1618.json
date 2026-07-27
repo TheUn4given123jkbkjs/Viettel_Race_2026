@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Hội chứng ống cổ chân",
+    "position": [311, 332],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G57.5"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [160, 173],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [209, 218],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Tiền sử",
+    "position": [80, 87],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "THA",
+    "position": [88, 91],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5 năm",
+    "position": [92, 97],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10 năm",
+    "position": [109, 115],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

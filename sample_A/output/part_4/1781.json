@@ -1,0 +1,16 @@
+[
+  {
+    "text": "dấu hiệu lâm sàng",
+    "position": [239, 256],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [203, 216],
+    "type": "CHỈ",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

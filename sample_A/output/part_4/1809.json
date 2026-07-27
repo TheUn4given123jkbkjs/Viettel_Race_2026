@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Lactulose",
+    "position": [117, 126],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6218"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [453, 461],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [405, 408],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Xơ gan Child-Pugh B",
+    "position": [554, 573],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phosphalugel",
+    "position": [1045, 1057],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi dạ dày thực quản",
+    "position": [1123, 1147],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giãn tĩnh mạch thực quản",
+    "position": [1175, 1199],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I98.2*"]
+  },
+  {
+    "text": "đau bụng",
+    "position": [177, 185],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

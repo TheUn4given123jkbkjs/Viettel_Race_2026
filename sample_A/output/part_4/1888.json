@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Hội chứng Cushing do thuốc",
+    "position": [1543, 1569],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E24.2"]
+  },
+  {
+    "text": "THA",
+    "position": [212, 215],
+    "type": "TIỂU_ĐIỂM_LÀM_SÀNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Troponin",
+    "position": [760, 768],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [780, 790],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10 ng/mL",
+    "position": [770, 778],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.2 mg/dL",
+    "position": [792, 801],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

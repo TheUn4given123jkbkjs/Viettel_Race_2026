@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Bệnh bạch hầu thể mũi - họng",
+    "position": [0, 28],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A36.1"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [395, 412],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [269, 272],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau họng",
+    "position": [274, 282],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kháng sinh",
+    "position": [633, 643],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [752, 762],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
+  }
+]

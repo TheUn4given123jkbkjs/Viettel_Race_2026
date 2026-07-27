@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Diphtheria-Tetanus Vaccine",
+    "position": [497, 523],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "834765",
+      "309949",
+      "758475"
+    ]
+  },
+  {
+    "text": "Troponin",
+    "position": [281, 289],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "C-reactive protein",
+    "position": [304, 322],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [410, 417],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [435, 446],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

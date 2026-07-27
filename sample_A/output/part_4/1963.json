@@ -1,0 +1,23 @@
+[
+  {
+    "text": "u lành của niệu đạo",
+    "position": [110, 129],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D30.4"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [188, 201],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [205, 212],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

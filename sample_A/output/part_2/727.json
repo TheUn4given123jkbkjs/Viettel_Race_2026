@@ -1,0 +1,27 @@
+[
+  {
+    "text": "rối loạn tâm thần và hành vi do sử dụng cocain",
+    "position": [120, 166],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F14.5",
+      "F14.6",
+      "F14.7"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [567, 574],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [844, 855],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

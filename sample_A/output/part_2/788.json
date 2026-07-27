@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Các rối loạn vận nhãn hai mắt xác định khác",
+    "position": [0, 43],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["H51.8"]
+  },
+  {
+    "text": "THA",
+    "position": [545, 548],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

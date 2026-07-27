@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Bệnh khác của hốc mắt trong các bệnh phân loại nơi khác",
+    "position": [0, 55],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "H06",
+      "H06*",
+      "H06.1*"
+    ]
+  },
+  {
+    "text": "acetaminophen",
+    "position": [511, 524],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "hydrocortisone",
+    "position": [526, 540],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5492", "27197"]
+  }
+]

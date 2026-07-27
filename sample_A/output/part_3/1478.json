@@ -1,0 +1,62 @@
+[
+  {
+    "text": "đái tháo đường típ 2",
+    "position": [176, 196],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [461, 468],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương da màu đỏ tím",
+    "position": [502, 526],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [666, 668],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "cấy máu",
+    "position": [942, 949],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm trùng huyết do Erysipelothrix",
+    "position": [1061, 1096],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A26.7"]
+  },
+  {
+    "text": "Penicillin G",
+    "position": [1187, 1199],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7982",
+      "7980",
+      "7983"
+    ]
+  },
+  {
+    "text": "Vancomycin",
+    "position": [1310, 1320],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11124"]
+  }
+]

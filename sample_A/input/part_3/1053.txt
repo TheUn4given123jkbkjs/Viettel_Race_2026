@@ -1,0 +1,54 @@
+Bệnh án lâm sàng
+
+Tiền sử bệnh nội khoa:
+- 35 tuổi, nữ, có tiền sử THA 5 năm trước và tiền sử tim mạch nhẹ.
+
+Bệnh sử:
+- Ngày 10/01/2023, bệnh nhân đến viện vì có biểu hiện đau đầu và chóng mặt. Bác sĩ khám lâm sàng và cận lâm sàng, bác sĩ chỉ định xét nghiệm cận lâm sàng.
+
+Sơ khám:
+- Bệnh nhân có đau đầu, chóng mặt, buồn nôn, nôn mửa, sốt.
+
+Cận lâm sàng:
+- Bác sĩ chỉ định xét nghiệm máu, xét nghiệm nước tiểu, xét nghiệm điện não đồ.
+
+Kết quả xét nghiệm:
+- Xét nghiệm máu: Hb 12g/dl, Hct 35%, WBC 12.000/μl.
+- Xét nghiệm nước tiểu: Protein 1+, máu 2+.
+- Xét nghiệm điện não đồ: Không có thay đổi.
+
+Bác sĩ chẩn đoán:
+- Bệnh nhân có thể bị đau đầu do biến chứng THA hoặc do các bệnh lý khác.
+
+Bác sĩ điều trị:
+- Bệnh nhân được chỉ định nghỉ ngơi, tránh gắng sức.
+- Bác sĩ sẽ theo dõi bệnh nhân và chỉ định xét nghiệm cận lâm sàng khác khi cần thiết.
+
+Entities:
+[
+  {
+    "text": "THA",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"]
+  },
+  {
+    "text": "xét nghiệm máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "Hb 12g/dl",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "biến chứng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

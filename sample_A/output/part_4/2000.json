@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Etoposide",
+    "position": [187, 196],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4179"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [235, 242],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [259, 270],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Troponin",
+    "position": [309, 317],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư",
+    "position": [145, 152],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M36.1*",
+      "M36.10*",
+      "M36.11*"
+    ]
+  }
+]

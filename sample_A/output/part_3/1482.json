@@ -1,0 +1,30 @@
+[
+  {
+    "text": "bệnh tim mạch",
+    "position": [56, 69],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rifabutin",
+    "position": [260, 269],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["55672"]
+  },
+  {
+    "text": "lopinavir/ritonavir",
+    "position": [283, 302],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["284640"]
+  },
+  {
+    "text": "bệnh tim mạch nghiêm trọng",
+    "position": [378, 404],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

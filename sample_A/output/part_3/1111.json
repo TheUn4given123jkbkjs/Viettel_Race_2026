@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Bệnh đa dây thần kinh trong u",
+    "position": [0, 29],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["G63.1*"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [488, 501],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [508, 520],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "THA",
+    "position": [237, 240],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "*aspirin*",
+    "position": [446, 455],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "*ceftriaxone*",
+    "position": [476, 489],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Xét nghiệm Troponin",
+    "position": [379, 398],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10 mg/dL",
+    "position": [510, 518],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5 ng/mL",
+    "position": [544, 551],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

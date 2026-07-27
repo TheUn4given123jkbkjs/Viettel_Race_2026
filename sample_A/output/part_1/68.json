@@ -1,0 +1,51 @@
+[
+  {
+    "text": "BỆNH DO LEPTOSPIRA",
+    "position": [38, 56],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A27", "A27.0"]
+  },
+  {
+    "text": "ACETAMINOPHEN",
+    "position": [91, 104],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "FLUCYTOSINE",
+    "position": [116, 127],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4451"]
+  },
+  {
+    "text": "BỆNH_VIÊN_ĐIỂM_ĐƠN",
+    "position": [0, 18],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "BỆNH_VIỆN_A",
+    "position": [545, 556],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "20/02/2024",
+    "position": [181, 191],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "22/02/2024",
+    "position": [331, 341],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

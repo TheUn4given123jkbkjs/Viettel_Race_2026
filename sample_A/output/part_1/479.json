@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm màng não do lao (G01*)",
+    "position": [0, 27],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A17.0†"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [629, 637],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [559, 569],
+    "type": "CHỈ ĐỊNH",
+    "assertions": [],
+    "candidates": []
+  }
+]

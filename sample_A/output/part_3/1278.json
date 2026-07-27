@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Chlorhexidine",
+    "position": [55, 68],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2358"]
+  },
+  {
+    "text": "da",
+    "position": [182, 184],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vết thương",
+    "position": [186, 196],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đa",
+    "position": [28, 30],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [429, 438],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

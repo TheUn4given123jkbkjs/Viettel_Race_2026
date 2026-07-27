@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Bệnh cơ trong bệnh khác, phân loại nơi khác",
+    "position": [28, 71],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G73",
+      "G73*",
+      "G73.3*"
+    ]
+  },
+  {
+    "text": "THA",
+    "position": [135, 138],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "viêm khớp dạng thấp",
+    "position": [161, 180],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ Hoàng Văn Hiếu",
+    "position": [603, 624],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,49 @@
+Bệnh án lâm sàng.
+
+Ngày: [Ngày] 
+
+Tên bác sĩ: [Tên bác sĩ]
+
+1. Tiền sử bệnh: Cháu có tiền sử bệnh U ác của lưỡi gà. 
+
+2. Tiền sử bệnh hiện tại: Cháu đang điều trị với Aspirin 100mg mỗi ngày.
+
+Đánh giá tại bệnh viện: Cháu được nhập viện vào ngày [Ngày] vì các triệu chứng như đau dạ dày, buồn nôn. Cháu được bác sĩ đánh giá có thể bị U ác của lưỡi gà.
+
+Chẩn đoán bệnh: U ác của lưỡi gà
+
+Đơn thuốc điều trị: Aspirin 100mg mỗi ngày.
+
+Chú ý: Cháu được bác sĩ kê đơn Aspirin 100mg mỗi ngày để điều trị U ác của lưỡi gà. Tuy nhiên, cháu đã phủ nhận buồn nôn và sốt.
+
+Kết luận: Cháu có thể bị U ác của lưỡi gà và cần được điều trị đúng cách để tránh biến chứng.
+
+Chú ý: Cháu cần được theo dõi chặt chẽ để tránh biến chứng.
+
+Lưu ý: Cháu được bác sĩ hướng dẫn uống Aspirin 100mg mỗi ngày.
+
+Đơn thuốc điều trị nội khoa: 
+
+- Aspirin 100mg mỗi ngày
+- Ceftriaxone 1g mỗi ngày
+
+Chú ý: Cháu cần được theo dõi chặt chẽ để tránh biến chứng.
+
+Kết thúc.
+
+Entities:
+[
+  {
+    'text': 'U ác của lưỡi gà',
+    'type': 'CHẨN_ĐOÁN',
+    'assertions': ['isNegated']
+  },
+  {
+    'text': 'Aspirin',
+    'type': 'THUỐC'
+  },
+  {
+    'text': 'Ceftriaxone',
+    'type': 'THUỐC'
+  }
+]

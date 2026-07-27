@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Loạn dưỡng biến sắc chất trắng não do tích tụ sphingolipid hay bệnh Arylsulfatase A",
+    "position": [68, 151],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E75.26"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [307, 318],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [322, 329],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Ung thư biểu mô tại chỗ của nội mạc",
+    "position": [185, 220],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D06.0", "D07.0"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [285, 293],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [297, 310],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "BỆNH_VIÊN_NGHIỆN bị suy tim",
+    "position": [70, 97],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "BỆNH_VIÊN_NGHIỆN bị viêm phổi",
+    "position": [121, 150],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

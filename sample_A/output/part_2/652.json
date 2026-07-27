@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Isosorbide dinitrate",
+    "position": [869, 889],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6058"]
+  },
+  {
+    "text": "Creatine kinase",
+    "position": [349, 364],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [407, 414],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "metoprolol",
+    "position": [433, 443],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhồi máu cơ tim",
+    "position": [249, 264],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "position": [205, 213],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [222, 229],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

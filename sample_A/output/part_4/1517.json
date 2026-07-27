@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Loạn dục nhìn trộm",
+    "position": [483, 501],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F65.3"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [515, 528],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [538, 545],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm tai ngoài, không đặc hiệu",
+    "position": [294, 324],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H60.9"]
+  },
+  {
+    "text": "bên trái",
+    "position": [83, 91],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [102, 110],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

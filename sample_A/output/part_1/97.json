@@ -1,0 +1,55 @@
+[
+  {
+    "text": "U lành của cơ quan sinh dục khác và không xác định",
+    "position": [0, 50],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D28"]
+  },
+  {
+    "text": "chẩn đoán tự động",
+    "position": [893, 910],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [1071, 1081],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [620, 626],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm hình ảnh",
+    "position": [787, 806],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối u lành tính",
+    "position": [87, 103],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cơ quan sinh dục",
+    "position": [11, 27],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A60.02",
+      "A18.13",
+      "A18.15"
+    ]
+  }
+]

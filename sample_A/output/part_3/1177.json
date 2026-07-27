@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U ác của tủy sống, dây thần kinh sọ và các phần khác của hệ thần kinh trung ương",
+    "position": [457, 537],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C72"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [598, 611],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "************",
+    "position": [613, 625],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "************",
+    "position": [613, 625],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

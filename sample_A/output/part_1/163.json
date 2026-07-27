@@ -1,0 +1,30 @@
+[
+  {
+    "text": "ngừng thở khi ngủ",
+    "position": [39, 56],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G47.3", "P28.3"]
+  },
+  {
+    "text": "giảm cân",
+    "position": [153, 161],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tập thể dục",
+    "position": [163, 174],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "uống rượu",
+    "position": [197, 206],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

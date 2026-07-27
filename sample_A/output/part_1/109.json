@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Bệnh khác của tủy sống",
+    "position": [0, 22],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "G95",
+      "M51.0†",
+      "M51.1†"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [522, 535],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [541, 550],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "MRI",
+    "position": [341, 344],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan",
+    "position": [350, 357],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [1284, 1297],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1301, 1314],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  }
+]

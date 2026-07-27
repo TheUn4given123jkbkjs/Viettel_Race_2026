@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Bệnh khác của tai trong bệnh phân loại nơi khác",
+    "position": [451, 498],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "H94",
+      "H94*",
+      "H75"
+    ]
+  },
+  {
+    "text": "viêm tai giữa",
+    "position": [97, 110],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kháng sinh",
+    "position": [145, 155],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [216, 219],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [230, 238],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau tai trái",
+    "position": [242, 254],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

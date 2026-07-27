@@ -1,0 +1,50 @@
+Bệnh án lâm sàng của bệnh nhân tên là Nguyễn Văn A, sinh ngày 15/02/1990, giới tính nam, dân tộc Kinh, quốc tịch Việt Nam, có hộ khẩu thường trú tại Hà Nội. Bệnh nhân đã được điều trị tại Trung tâm Y tế quận 1 từ ngày 10/02/2023 đến ngày 15/02/2023.
+
+Bệnh sử hiện tại: Bệnh nhân được chẩn đoán mắc bệnh tim mạch và bệnh thận mãn tính từ năm 2015. Trong năm 2022, bệnh nhân đã được chẩn đoán mắc bệnh tiểu đường loại 2.
+
+Bệnh sử mãn tính:
+
+- Bệnh tim mạch: Bệnh nhân được chẩn đoán mắc bệnh tim mạch vào năm 2015, khi đó bệnh nhân đã được điều trị bằng thuốc statin và thuốc beta-blocker.
+- Bệnh thận mãn tính: Bệnh nhân được chẩn đoán mắc bệnh thận mãn tính vào năm 2010, khi đó bệnh nhân đã được điều trị bằng thuốc lợi tiểu và thuốc chống viêm.
+
+Bệnh sử hiện tại:
+- Năm 2022, bệnh nhân được chẩn đoán mắc bệnh tiểu đường loại 2 và được điều trị bằng thuốc metformin và insulin.
+- Năm 2020, bệnh nhân được chẩn đoán mắc bệnh cao huyết áp và được điều trị bằng thuốc calcium channel blocker và thuốc alpha-blocker.
+
+Khám lúc vào viện: Bệnh nhân được khám lần đầu vào ngày 10/02/2023, khi đó bệnh nhân đã được khám về các triệu chứng như đau ngực, khó thở và mệt mỏi. Bệnh nhân đã được khám tổng quát và khám bằng máy siêu âm tim và máy siêu âm thận.
+
+Sơ khám & cận lâm sàng: Bệnh nhân được khám tổng quát và khám bằng máy siêu âm tim và máy siêu âm thận. Bác sĩ đã chỉ định xét nghiệm cận lâm sàng như xét nghiệm máu, xét nghiệm nước tiểu và xét nghiệm điện tâm đồ.
+
+Xét nghiệm cận lâm sàng:
+
+- Xét nghiệm máu: Bệnh nhân được xét nghiệm máu để chẩn đoán bệnh tim mạch và bệnh thận mãn tính.
+- Xét nghiệm nước tiểu: Bệnh nhân được xét nghiệm nước tiểu để chẩn đoán bệnh tiểu đường loại 2.
+- Xét nghiệm điện tâm đồ: Bệnh nhân được xét nghiệm điện tâm đồ để chẩn đoán bệnh tim mạch.
+
+Kết quả xét nghiệm cận lâm sàng:
+
+- Xét nghiệm máu: Kết quả xét nghiệm máu cho thấy bệnh nhân có mức creatinine cao, mức ure cao và mức glucose cao.
+- Xét nghiệm nước tiểu: Kết quả xét nghiệm nước tiểu cho thấy bệnh nhân có mức glucose cao.
+- Xét nghiệm điện tâm đồ: Kết quả xét nghiệm điện tâm đồ cho thấy bệnh nhân có các bất thường về nhịp tim và điện thế tim.
+
+Bác sĩ đã không chẩn đoán bệnh xác định và chưa kê đơn thuốc.
+
+Entities:
+- Bệnh tim mạch (TRIỆU_CHỨNG)
+- Bệnh thận mãn tính (TRIỆU_CHỨNG)
+- Bệnh tiểu đường loại 2 (TRIỆU_CHỨNG)
+- Thuốc statin (THUỐC)
+- Thuốc beta-blocker (THUỐC)
+- Thuốc metformin (THUỐC)
+- Thuốc insulin (THUỐC)
+- Máy siêu âm tim (TÊN_XÉT_NGHIỆM)
+- Máy siêu âm thận (TÊN_XÉT_NGHIỆM)
+- Xét nghiệm máu (TÊN_XÉT_NGHIỆM)
+- Xét nghiệm nước tiểu (TÊN_XÉT_NGHIỆM)
+- Xét nghiệm điện tâm đồ (TÊN_XÉT_NGHIỆM)
+- Các bất thường về nhịp tim và điện thế tim (KẾT_QUẢ_XÉT_NGHIỆM)
+- Mức creatinine cao (KẾT_QUẢ_XÉT_NGHIỆM)
+- Mức ure cao (KẾT_QUẢ_XÉT_NGHIỆM)
+- Mức glucose cao (KẾT_QUẢ_XÉT_NGHIỆM)
+- Bác sĩ (CHỈ)
+- Bệnh nhân (CHỈ)

@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Glaucoma",
+    "position": [5, 13],
+    "type": "TÊN_BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Pilocarpine",
+    "position": [738, 749],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8328"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [535, 542],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [546, 554],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [816, 826],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
+  }
+]

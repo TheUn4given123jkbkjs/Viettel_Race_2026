@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Bệnh khác của hệ thần kinh trong bệnh phân loại nơi khác",
+    "position": [57, 113],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "G32",
+      "G32*",
+      "G99"
+    ]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [189, 199],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lối sống",
+    "position": [214, 222],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [17, 23],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nghi ngờ",
+    "position": [367, 375],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

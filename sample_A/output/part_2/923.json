@@ -1,0 +1,51 @@
+[
+  {
+    "text": "lạm dụng bồ đà không biến chứng",
+    "position": [111, 142],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F12.10"]
+  },
+  {
+    "text": "Acarbose",
+    "position": [217, 225],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["16681"]
+  },
+  {
+    "text": "Acenocoumarol",
+    "position": [437, 450],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["154"]
+  },
+  {
+    "text": "bệnh đái tháo đường loại 2",
+    "position": [80, 106],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [310, 318],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [322, 330],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [364, 370],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

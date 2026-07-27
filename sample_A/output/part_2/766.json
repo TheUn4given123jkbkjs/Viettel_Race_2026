@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Spectinomycin",
+    "position": [342, 355],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["270"]
+  },
+  {
+    "text": "tăng đường huyết",
+    "position": [97, 113],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn lipid máu",
+    "position": [117, 135],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [172, 185],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "insulin",
+    "position": [761, 768],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["253182", "317235"]
+  },
+  {
+    "text": "thuốc hạ lipid",
+    "position": [772, 786],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

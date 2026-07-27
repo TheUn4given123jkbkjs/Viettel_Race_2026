@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Ung thư biểu mô tại chỗ của âm đạo",
+    "position": [57, 91],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D07.2"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [23, 40],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [129, 142],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Doxycycline",
+    "position": [171, 182],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3640"]
+  }
+]

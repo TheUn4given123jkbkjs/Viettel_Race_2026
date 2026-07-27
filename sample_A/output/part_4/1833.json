@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Penicillamine",
+    "position": [641, 654],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7975"]
+  },
+  {
+    "text": "vi khuẩn",
+    "position": [534, 542],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": " enzyme gan",
+    "position": [473, 484],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": " Penicillamine",
+    "position": [640, 654],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7975"]
+  }
+]

@@ -1,0 +1,128 @@
+Bệnh án lâm sàng
+
+Ngày 12/02/2024
+Tên bác sĩ: [Tên bác sĩ]
+
+1. Bệnh nền:
+- Bệnh nhân nam, 45 tuổi, có tiền sử bệnh tim mạch.
+
+2. Bệnh sử hiện tại:
+- Bệnh nhân đến khám vì cảm lạnh, khởi phát 2 ngày trước.
+- Bệnh nhân có triệu chứng:
+  * Mệt mỏi
+  * Đau đầu
+  * Sốt nhẹ
+  * Buồn nôn
+- Bệnh nhân phủ nhận buồn nôn.
+
+3. Khám lúc vào viện:
+- Tình trạng chung: Bệnh nhân mệt mỏi, đau đầu, sốt nhẹ.
+- Chuyển động cơ tim: 80 nhịp/phút, nhịp đều.
+- Chuyển động cơ phổi: 20 lần/phút, nhịp đều.
+- Đánh giá tình trạng phổi: không có dấu hiệu bất thường.
+- Đánh giá tình trạng tim mạch: không có dấu hiệu bất thường.
+
+Đoàn thể lâm sàng:
+- Bệnh nhân có tiền sử dùng thuốc Metoclopramide dài hạn.
+- Bệnh nhân không có tiền sử sử dụng thuốc bất hợp pháp.
+
+Đánh giá chung:
+- Bệnh nhân cần được theo dõi chặt chẽ tình trạng tim mạch và sức khỏe tổng thể.
+- Bệnh nhân cần được tư vấn về lối sống và chế độ ăn uống để phòng ngừa bệnh tim mạch trong tương lai.
+
+Kết luận:
+- Bệnh nhân cần được điều trị bằng aspirin và ceftriaxone để điều trị tình trạng sốt nhẹ và viêm phổi.
+- Bệnh nhân cần được theo dõi chặt chẽ tình trạng tim mạch và sức khỏe tổng thể trong thời gian tới.
+
+Lưu ý:
+- Bệnh nhân cần được tư vấn về lối sống và chế độ ăn uống để phòng ngừa bệnh tim mạch trong tương lai.
+
+Kết quả xét nghiệm:
+- Troponin: 0,05 ng/mL
+- C-reactive protein: 10 mg/L
+
+Đoạn 2
+
+Ngày 12/02/2024
+Tên bác sĩ: [Tên bác sĩ]
+
+1. Bệnh nền:
+- Bệnh nhân nữ, 30 tuổi, có tiền sử bệnh tim mạch.
+
+2. Bệnh sử hiện tại:
+- Bệnh nhân đến khám vì cảm lạnh, khởi phát 2 ngày trước.
+- Bệnh nhân có triệu chứng:
+  * Mệt mỏi
+  * Đau đầu
+  * Sốt nhẹ
+  * Buồn nôn
+- Bệnh nhân phủ nhận buồn nôn.
+
+3. Khám lúc vào viện:
+- Tình trạng chung: Bệnh nhân mệt mỏi, đau đầu, sốt nhẹ.
+- Chuyển động cơ tim: 80 nhịp/phút, nhịp đều.
+- Chuyển động cơ phổi: 20 lần/phút, nhịp đều.
+- Đánh giá tình trạng phổi: không có dấu hiệu bất thường.
+- Đánh giá tình trạng tim mạch: không có dấu hiệu bất thường.
+
+Đoàn thể lâm sàng:
+- Bệnh nhân có tiền sử dùng thuốc Metoclopramide dài hạn.
+- Bệnh nhân không có tiền sử sử dụng thuốc bất hợp pháp.
+
+Đánh giá chung:
+- Bệnh nhân cần được theo dõi chặt chẽ tình trạng tim mạch và sức khỏe tổng thể.
+- Bệnh nhân cần được tư vấn về lối sống và chế độ ăn uống để phòng ngừa bệnh tim mạch trong tương lai.
+
+Kết luận:
+- Bệnh nhân cần được điều trị bằng aspirin và ceftriaxone để điều trị tình trạng sốt nhẹ và viêm phổi.
+- Bệnh nhân cần được theo dõi chặt chẽ tình trạng tim mạch và sức khỏe tổng thể trong thời gian tới.
+
+Lưu ý:
+- Bệnh nhân cần được tư vấn về lối sống và chế độ ăn uống để phòng ngừa bệnh tim mạch trong tương lai.
+
+Kết quả xét nghiệm:
+- Troponin: 0,05 ng/mL
+- C-reactive protein: 10 mg/L
+
+[entities]
+{
+  "text": "Metoclopramide",
+  "type": "THUỐC",
+  "assertions": ["isHistorical"]
+},
+{
+  "text": "aspirin",
+  "type": "THUỐC",
+  "assertions": []
+},
+{
+  "text": "ceftriaxone",
+  "type": "THUỐC",
+  "assertions": []
+},
+{
+  "text": "buồn nôn",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": ["isNegated"]
+},
+{
+  "text": "sốt nhẹ",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+},
+{
+  "text": "Metoclopramide",
+  "type": "THUỐC",
+  "assertions": ["isHistorical"]
+},
+{
+  "text": "Troponin",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+},
+{
+  "text": "C-reactive protein",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+}
+]

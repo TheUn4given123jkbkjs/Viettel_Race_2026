@@ -1,0 +1,34 @@
+[
+  {
+    "text": "rối loạn tâm thần và hành vi do sử dụng chất kích thích khác, bao gồm cả caffein",
+    "position": [939, 1019],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "F15",
+      "F15.0",
+      "F15.1"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1066, 1079],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Caffeine citrate",
+    "position": [1083, 1099],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["20033"]
+  },
+  {
+    "text": "caffeine",
+    "position": [55, 63],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "text": "bệnh tim mạch",
+    "position": [114, 127],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
+  },
+  {
+    "text": "Hydralazine",
+    "position": [533, 544],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["5470"]
+  },
+  {
+    "text": "aspirin",
+    "position": [363, 370],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "troponin",
+    "position": [435, 443],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0,5 ng/mL",
+    "position": [839, 848],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

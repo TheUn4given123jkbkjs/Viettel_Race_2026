@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Activated charcoal",
+    "position": [347, 365],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["272"]
+  },
+  {
+    "text": "bố",
+    "position": [649, 651],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["Z65.4"]
+  },
+  {
+    "text": "mẹ",
+    "position": [672, 674],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "B00.89",
+      "K72.00",
+      "K72.01"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [422, 429],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceft",
+    "position": [475, 479],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm nhiễm",
+    "position": [499, 509],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiệt độ cơ thể cao",
+    "position": [258, 277],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

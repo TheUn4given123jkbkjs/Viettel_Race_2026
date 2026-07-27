@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Rối loạn tâm thần và hành vi do sử dụng cocain (Nhiễm độc cấp)",
+    "position": [0, 63],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F14.0"]
+  },
+  {
+    "text": "hỗ trợ từ gia đình và bạn bè",
+    "position": [2116, 2144],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

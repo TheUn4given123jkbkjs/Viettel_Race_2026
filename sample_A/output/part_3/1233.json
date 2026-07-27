@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Pancreatin",
+    "position": [863, 873],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7880"]
+  },
+  {
+    "text": "Helicobacter pylori",
+    "position": [15, 34],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "E. coli",
+    "position": [505, 512],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vi khuẩn",
+    "position": [6, 14],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dạ dày",
+    "position": [96, 102],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ruột thừa",
+    "position": [1094, 1103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm tụy",
+    "position": [1107, 1115],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu hóa",
+    "position": [925, 933],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

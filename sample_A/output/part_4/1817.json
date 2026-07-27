@@ -1,0 +1,70 @@
+[
+  {
+    "text": "Lao phổi",
+    "position": [188, 196],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
+  },
+  {
+    "text": "Streptomycin",
+    "position": [270, 282],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10109"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [339, 352],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Chóng mặt",
+    "position": [507, 516],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine huyết thanh",
+    "position": [752, 774],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy thận mạn",
+    "position": [802, 814],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N18",
+      "N18.1",
+      "N18.2"
+    ]
+  },
+  {
+    "text": "Đo thính lực đồ",
+    "position": [909, 924],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Betahistine",
+    "position": [1293, 1304],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

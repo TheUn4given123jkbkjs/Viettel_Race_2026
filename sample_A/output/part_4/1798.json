@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Tăng lipid máu hỗn hợp",
+    "position": [376, 398],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E78.2"]
+  },
+  {
+    "text": "có tiền sử",
+    "position": [80, 90],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau thắt ngực và khó thở",
+    "position": [233, 257],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [305, 315],
+    "type": "Y_LỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thay đổi lối sống",
+    "position": [319, 336],
+    "type": "Y_LỆNH",
+    "assertions": [],
+    "candidates": []
+  }
+]

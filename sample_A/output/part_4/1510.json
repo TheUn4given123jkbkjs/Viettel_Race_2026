@@ -1,0 +1,55 @@
+[
+  {
+    "text": "đau đầu",
+    "position": [132, 139],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng cổ",
+    "position": [182, 189],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [271, 279],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [294, 301],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "viêm màng não",
+    "position": [536, 549],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "A52.13",
+      "A54.81",
+      "A50.41"
+    ]
+  },
+  {
+    "text": "Nhiễm virus không xác định của hệ thần kinh trung ương",
+    "position": [891, 945],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A89"]
+  },
+  {
+    "text": "co giật",
+    "position": [1181, 1188],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

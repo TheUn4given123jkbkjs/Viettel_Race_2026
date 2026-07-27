@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Bệnh giun chỉ khác",
+    "position": [0, 18],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B74.8"]
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [397, 406],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [408, 416],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn mửa",
+    "position": [420, 427],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [549, 559],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
+  }
+]

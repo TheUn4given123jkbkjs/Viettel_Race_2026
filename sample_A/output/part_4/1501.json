@@ -1,0 +1,16 @@
+[
+  {
+    "text": "[Tên bác sĩ]",
+    "position": [14, 26],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "[Tên bệnh nhân]",
+    "position": [77, 92],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Máy cơ mặt",
+    "position": [44, 54],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G51.4"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [614, 627],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Loratadine",
+    "position": [656, 666],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["28889"]
+  }
+]

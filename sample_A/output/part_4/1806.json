@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Di chứng của bệnh viêm hệ thần kinh trung ương",
+    "position": [142, 188],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["G09"]
+  },
+  {
+    "text": "aspirin",
+    "position": [212, 219],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [223, 234],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

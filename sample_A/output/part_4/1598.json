@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Rối loạn tăng động, không biệt định",
+    "position": [74, 109],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F90.9"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [321, 329],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [333, 346],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

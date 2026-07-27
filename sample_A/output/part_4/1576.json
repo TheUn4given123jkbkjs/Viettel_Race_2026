@@ -1,0 +1,23 @@
+[
+  {
+    "text": "U hắc tố tại chỗ của phần khác và phần không xác định của mặt",
+    "position": [780, 841],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D03.3"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [528, 541],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [565, 572],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

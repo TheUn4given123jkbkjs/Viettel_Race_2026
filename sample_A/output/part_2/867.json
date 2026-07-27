@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Rối loạn tâm thần và hành vi do sử dụng rượu (Nhiễm độc cấp)",
+    "position": [1806, 1867],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F10.0"]
+  },
+  {
+    "text": "xơ gan",
+    "position": [526, 532],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "K71.7",
+      "K74",
+      "K74.0"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1271, 1279],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "lú lẫn",
+    "position": [939, 945],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "máu tụ dưới màng cứng",
+    "position": [2080, 2101],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp CT não",
+    "position": [1976, 1987],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất phương hướng",
+    "position": [1132, 1148],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

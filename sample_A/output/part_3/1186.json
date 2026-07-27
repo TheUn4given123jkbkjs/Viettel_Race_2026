@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm tủy hoại tử bán cấp",
+    "position": [306, 330],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["G37.4"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [243, 251],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [266, 279],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

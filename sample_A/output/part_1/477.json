@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Nhiễm candida không xác định",
+    "position": [311, 339],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B37.9"]
+  },
+  {
+    "text": "aspirin",
+    "position": [203, 210],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [218, 229],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

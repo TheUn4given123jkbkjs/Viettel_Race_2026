@@ -1,0 +1,40 @@
+Bệnh án lâm sàng 
+
+Tiền sử bệnh:
+- [Tên bác sĩ] đã kiểm tra và xác định rằng bệnh nhân không có tiền sử bệnh gì nghiêm trọng.
+
+Tiền sử bệnh hiện tại:
+- Bệnh nhân hiện tại đang bị [CHẨN_ĐOÁN: U lympho tế bào T/NK trưởng thành khác].
+
+Đã xử trí thuốc và thủ thuật:
+- Bệnh nhân đã được kê đơn [aspirin] để giảm đau và [ceftazidime] để điều trị nhiễm trùng.
+- Bệnh nhân cũng đã được thực hiện một số thủ thuật để chẩn đoán và điều trị.
+
+[Ngày], [Tên bác sĩ] đã kiểm tra bệnh nhân và xác định rằng họ đang trong tình trạng ổn định.
+
+Kết luận:
+- Bệnh nhân đã được kê đơn [aspirin] và [ceftazidime] để điều trị.
+- Bệnh nhân sẽ được theo dõi chặt chẽ để đảm bảo tình trạng ổn định.
+
+[Ngày], [Tên bác sĩ] đã kết thúc bệnh án.
+
+[Date]
+
+Kết quả xét nghiệm:
+- Kết quả xét nghiệm [troponin] là [KẾT_QUẢ_XÉT_NGHIỆM: 10.5] ng/mL.
+- Kết quả xét nghiệm [creatinine] là [KẾT_QUẢ_XÉT_NGHIỆM: 1.2] mg/dL.
+
+Lưu ý:
+- Bệnh nhân đã phủ nhận buồn nôn.
+- Bệnh nhân đã chủ quan sốt.
+
+entities:
+- [CHẨN_ĐOÁN: U lympho tế bào T/NK trưởng thành khác] (CHẨN_ĐOÁN)
+- [aspirin] (THUỐC)
+- [ceftazidime] (THUỐC)
+- [troponin] (TÊN_XÉT_NGHIỆM)
+- [creatinine] (TÊN_XÉT_NGHIỆM)
+- [KẾT_QUẢ_XÉT_NGHIỆM: 10.5] (KẾT_QUẢ_XÉT_NGHIỆM)
+- [KẾT_QUẢ_XÉT_NGHIỆM: 1.2] (KẾT_QUẢ_XÉT_NGHIỆM)
+- [isNegated buồn nôn] (TRIỆU_CHỨNG)
+- [isNegated sốt] (TRIỆU_CHỨNG)

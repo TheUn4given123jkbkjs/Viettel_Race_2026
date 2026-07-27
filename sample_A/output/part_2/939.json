@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Spironolactone",
+    "position": [136, 150],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "Valsartan",
+    "position": [954, 963],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [344, 347],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1971, 1979],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["R11"]
+  },
+  {
+    "text": "huyết áp cao",
+    "position": [235, 247],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mỡ máu cao",
+    "position": [251, 261],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm màng não",
+    "position": [441, 454],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.13",
+      "A54.81",
+      "A50.41"
+    ]
+  }
+]

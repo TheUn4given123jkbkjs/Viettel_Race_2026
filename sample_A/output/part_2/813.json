@@ -1,0 +1,44 @@
+[
+  {
+    "text": "BỆNH DO VIRUS HERPES Ở ĐƯỜNG SINH DỤC VÀ NIỄU - SINH DỤC",
+    "position": [0, 56],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "acyclovir",
+    "position": [346, 355],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  },
+  {
+    "text": "valacyclovir",
+    "position": [416, 428],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "famciclovir",
+    "position": [444, 455],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ibuprofen",
+    "position": [523, 532],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "acetaminophen",
+    "position": [546, 559],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

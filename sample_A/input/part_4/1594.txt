@@ -1,0 +1,24 @@
+Nội dung đoạn văn bản y khoa thô sinh ra (giữ nguyên toàn bộ các dấu xuống dòng 
+)
+
+[TRUNG TÂM TIM] LÀ GÌ?
+1. Khái niệm
+
+Trung tâm tim là khu vực quan trọng trong cơ thể, chịu trách nhiệm điều khiển và kiểm soát các hoạt động của tim. Trung tâm tim bao gồm các bộ phận như tâm nhĩ, tâm thất, và các đường dẫn máu.
+
+2. Triệu chứng và cách điều trị
+
+Triệu chứng của bệnh lý liên quan đến trung tâm tim bao gồm nhịp tim không đều, đau ngực, và khó thở. Để điều trị, cần phải xác định nguyên nhân gây bệnh và áp dụng phương pháp điều trị phù hợp, có thể bao gồm thuốc, thủ thuật y tế, hoặc phẫu thuật.
+
+KỊCH BẢN LÂM SÀNG: Ghi nhận tiền sử dùng thuốc dài hạn 'Ethinylestradiol'.
+
+Entities:
+[
+  {
+    "text": "Ethinylestradiol",
+    "type": "THUỐC",
+    "assertions": ["isHistorical"]
+  }
+]
+
+--- YÊU CẦU ĐẦU RA ---

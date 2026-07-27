@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Dacarbazine",
+    "position": [297, 308],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3098"]
+  },
+  {
+    "text": "Breast Carcinoma",
+    "position": [67, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chị V",
+    "position": [98, 103],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "ung thư vú",
+    "position": [127, 137],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh án số 2023-001",
+    "position": [0, 19],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dán nhầm",
+    "position": [709, 717],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dacarbazin",
+    "position": [297, 307],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3098"]
+  },
+  {
+    "text": "các triệu chứng",
+    "position": [526, 541],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

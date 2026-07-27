@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Flucytosine",
+    "position": [10, 21],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4451"]
+  },
+  {
+    "text": "phổ biến",
+    "position": [370, 378],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tác dụng phụ",
+    "position": [276, 288],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Y88.2",
+      "T88.6",
+      "T88.7"
+    ]
+  },
+  {
+    "text": "bệnh nhiễm nấm",
+    "position": [79, 93],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

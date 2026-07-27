@@ -1,0 +1,48 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [30, 43],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đau thắt lưng",
+    "position": [73, 86],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đại tiểu tiện không tự chủ",
+    "position": [120, 146],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [167, 175],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "U ác của chùm đuôi ngựa",
+    "position": [258, 281],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C72.1"]
+  },
+  {
+    "text": "Morphine",
+    "position": [293, 301],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7052"]
+  }
+]

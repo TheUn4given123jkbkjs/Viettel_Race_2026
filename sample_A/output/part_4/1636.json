@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Sterile water for injection",
+    "position": [662, 689],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2467748"]
+  },
+  {
+    "text": "Prednisone",
+    "position": [548, 558],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phenytoin",
+    "position": [587, 596],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8183"]
+  },
+  {
+    "text": "bệnh động kinh",
+    "position": [417, 431],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G99.0*",
+      "G99.1*",
+      "G12.2"
+    ]
+  },
+  {
+    "text": "co giật",
+    "position": [126, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ý thức",
+    "position": [135, 145],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rung cơ",
+    "position": [149, 156],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "U lành của não trên lều",
+    "position": [196, 219],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D33.0"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [262, 275],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [279, 293],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [406, 419],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Mannitol",
+    "position": [423, 431],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6628"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [751, 762],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [766, 779],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  }
+]

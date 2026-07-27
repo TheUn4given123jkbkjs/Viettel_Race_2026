@@ -1,0 +1,34 @@
+[
+  {
+    "text": "rối loạn khí sắc dai dẳng",
+    "position": [117, 142],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F34",
+      "F34.8",
+      "F34.9"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [173, 180],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceft",
+    "position": [401, 405],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Rối loạn khí sắc",
+    "position": [443, 459],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

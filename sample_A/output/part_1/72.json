@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh 'Mất cân đối trong thành phần thức ăn'",
+    "position": [122, 165],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [766, 779],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Metoclopramide",
+    "position": [785, 799],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6915"]
+  }
+]

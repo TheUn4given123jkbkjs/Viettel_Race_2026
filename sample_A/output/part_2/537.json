@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Chèn ép tủy, không đặc hiệu",
+    "position": [49, 76],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G95.2"]
+  },
+  {
+    "text": "tiền sử thoái hóa cột sống",
+    "position": [178, 204],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "yếu chi",
+    "position": [270, 277],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn cảm giác",
+    "position": [281, 298],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [305, 314],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [354, 372],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [397, 410],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

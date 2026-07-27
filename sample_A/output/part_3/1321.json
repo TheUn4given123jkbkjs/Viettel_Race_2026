@@ -1,0 +1,37 @@
+[
+  {
+    "text": "phẫu thuật u não hố sau",
+    "position": [47, 70],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tê bì vùng mặt",
+    "position": [110, 124],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu nhẹ nửa người trái",
+    "position": [128, 150],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh của hệ thần kinh sau thủ thuật, không đặc hiệu",
+    "position": [291, 342],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G97.9"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [371, 384],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

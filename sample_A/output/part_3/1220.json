@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Viêm giác mạc do Zoster",
+    "position": [46, 69],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["B02.34", "B02.35"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [571, 580],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  }
+]

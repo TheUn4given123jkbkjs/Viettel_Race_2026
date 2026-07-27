@@ -1,0 +1,41 @@
+[
+  {
+    "text": "liệt nửa người",
+    "position": [69, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các loại liệt khác",
+    "position": [318, 336],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H49.8"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [361, 368],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [472, 482],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [440, 457],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Phình động mạch chủ do giang mai",
+    "position": [161, 193],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A52.01"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [329, 342],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Lopinavir/Ritonavir",
+    "position": [346, 365],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["284640"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [698, 710],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Rifampin",
+    "position": [714, 722],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
+  },
+  {
+    "text": "Methadone",
+    "position": [1051, 1060],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6813"]
+  },
+  {
+    "text": "Terbinafine",
+    "position": [1064, 1075],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["37801"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [1403, 1413],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Risperidone",
+    "position": [1417, 1428],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35636"]
+  }
+]

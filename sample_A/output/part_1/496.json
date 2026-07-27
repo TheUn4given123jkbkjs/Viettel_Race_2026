@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh thần kinh thị, không phân loại nơi khác",
+    "position": [367, 411],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H47.0"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [423, 436],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Gabapentin",
+    "position": [461, 471],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

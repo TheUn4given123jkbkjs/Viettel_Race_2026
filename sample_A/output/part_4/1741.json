@@ -1,0 +1,44 @@
+[
+  {
+    "text": "viêm phế quản mạn tính",
+    "position": [457, 479],
+    "type": "BỆNH",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "corticosteroid",
+    "position": [502, 516],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi do virus",
+    "position": [559, 577],
+    "type": "BỆNH",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "creatini",
+    "position": [759, 767],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng thận",
+    "position": [904, 929],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [429, 438],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

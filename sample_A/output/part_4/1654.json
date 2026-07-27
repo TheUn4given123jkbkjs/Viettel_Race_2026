@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Ciprofloxacin",
+    "position": [229, 242],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "nhiễm khuẩn",
+    "position": [255, 266],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "P36.10",
+      "P36.30",
+      "P36.39"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [629, 642],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "thuốc kháng sinh",
+    "position": [483, 499],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [146, 159],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [163, 173],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "gout",
+    "position": [38, 42],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "paracetamol",
+    "position": [117, 128],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ibuprofen",
+    "position": [132, 141],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "carbamazepine",
+    "position": [208, 221],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2002"]
+  },
+  {
+    "text": "urat máu",
+    "position": [405, 413],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "urat nước tiểu",
+    "position": [454, 468],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp X-quang",
+    "position": [510, 522],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp cộng hưởng từ (MRI)",
+    "position": [578, 602],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tình trạng bệnh",
+    "position": [727, 742],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

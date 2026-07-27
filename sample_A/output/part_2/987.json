@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm đơn dây thần kinh nhiều ổ",
+    "position": [0, 30],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G58.7"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [355, 368],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [372, 384],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "text": "bệnh khác của tủy sống",
+    "position": [10, 32],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "G95",
+      "M51.0†",
+      "M51.1†"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [53, 56],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [60, 68],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [104, 117],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [263, 271],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  }
+]

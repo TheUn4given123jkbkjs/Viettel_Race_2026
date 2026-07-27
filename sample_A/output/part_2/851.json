@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Scopolamine hydrobromide",
+    "position": [119, 143],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9603"]
+  },
+  {
+    "text": "aspirin",
+    "position": [418, 425],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [427, 438],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "troponin",
+    "position": [494, 502],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[phủ nhận buồn nôn]",
+    "position": [210, 229],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dị ứng",
+    "position": [747, 753],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

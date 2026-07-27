@@ -1,0 +1,23 @@
+[
+  {
+    "text": "U ác của túi thừa Meckel",
+    "position": [36, 60],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["C17.3"]
+  },
+  {
+    "text": "aspirin",
+    "position": [295, 302],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [357, 368],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

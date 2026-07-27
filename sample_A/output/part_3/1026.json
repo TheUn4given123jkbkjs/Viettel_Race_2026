@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Các rối loạn khác của phát triển tâm lý",
+    "position": [77, 116],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F88"]
+  },
+  {
+    "text": "Aspirin 81mg",
+    "position": [659, 671],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone 2g",
+    "position": [688, 702],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng troponin",
+    "position": [347, 360],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Hội chứng celiac",
+    "position": [358, 374],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiểu đường loại 2",
+    "position": [379, 396],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tim mạch",
+    "position": [401, 409],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HIV/AIDS",
+    "position": [295, 303],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

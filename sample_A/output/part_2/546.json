@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Primaquine",
+    "position": [309, 319],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8687"]
+  },
+  {
+    "text": "hypertension",
+    "position": [560, 572],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [705, 712],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1439, 1447],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [1796, 1807],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "vàng da",
+    "position": [2102, 2109],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hemoglobin",
+    "position": [2257, 2267],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [2467, 2475],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

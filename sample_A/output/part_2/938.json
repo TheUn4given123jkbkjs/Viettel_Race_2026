@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Một số các biến thể khác của suy giảm miễn dịch",
+    "position": [101, 148],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D83"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [264, 271],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [273, 282],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm đo lường chức năng miễn dịch",
+    "position": [478, 517],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chức năng miễn dịch bị suy giảm",
+    "position": [536, 567],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

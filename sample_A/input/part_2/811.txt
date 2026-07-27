@@ -1,0 +1,39 @@
+Rối loạn lưỡng cực, thuyên giảm một phần, tình trạng mới đây là hưng cảm là một trạng thái tâm thần đặc trưng bởi sự thay đổi thất thường của tâm trạng và hành vi. Các triệu chứng có thể bao gồm chu kỳ hưng cảm-dep thì và những cơn trầm cảm nghiêm trọng. 
+
+Triệu chứng của rối loạn lưỡng cực có thể bao gồm:
+
+- Chu kỳ hưng cảm-dep thì: Người bệnh có thể trải qua những cơn hưng cảm và trầm cảm nghiêm trọng, đôi khi cùng một lúc.
+- Tăng động: Người bệnh có thể trở nên quá kích động và có những hành vi tự sát.
+- Tăng hoạt động: Người bệnh có thể trở nên quá hoạt động và có những hành vi bất thường.
+- Tăng suy nghĩ: Người bệnh có thể trải qua những suy nghĩ bất thường và có thể trở nên quá tin tưởng vào những ý tưởng hoặc sự việc.
+- Suy nhược: Người bệnh có thể trở nên quá suy nhược và có những hành vi tự sát.
+
+Để chẩn đoán rối loạn lưỡng cực, bác sĩ có thể dựa vào các yếu tố sau:
+
+- Triệu chứng lâm sàng: Bác sĩ sẽ hỏi về các triệu chứng mà người bệnh đang trải qua và sẽ kiểm tra các dấu hiệu lâm sàng.
+- Lịch sử bệnh án: Bác sĩ sẽ hỏi về lịch sử bệnh án của người bệnh, bao gồm các bệnh lý trước đây và các thuốc đã sử dụng.
+- Kiểm tra xét nghiệm: Bác sĩ có thể yêu cầu kiểm tra xét nghiệm để xác định tình trạng rối loạn lưỡng cực.
+
+Để điều trị rối loạn lưỡng cực, bác sĩ có thể kê đơn các thuốc sau:
+
+- Lítium: Thuốc này được sử dụng để điều trị rối loạn lưỡng cực.
+- Haloperidol: Thuốc này được sử dụng để điều trị rối loạn lưỡng cực và các triệu chứng khác.
+- Fluoxetine: Thuốc này được sử dụng để điều trị rối loạn lưỡng cực và các triệu chứng khác.
+
+Lưu ý: Rối loạn lưỡng cực là một trạng thái tâm thần nghiêm trọng và cần được chẩn đoán và điều trị bởi bác sĩ chuyên khoa.
+
+Entities:
+- Rối loạn lưỡng cực: CHẨN_ĐOÁN
+- Lítium: THUỐC
+- Haloperidol: THUỐC
+- Fluoxetine: THUỐC
+- Triệu chứng lâm sàng: TRIỆU_CHỨNG
+- Lịch sử bệnh án: TRIỆU_CHỨNG
+- Kiểm tra xét nghiệm: TRIỆU_CHỨNG
+- Rối loạn lưỡng cực: TRIỆU_CHỨNG
+- Tăng động: TRIỆU_CHỨNG
+- Tăng hoạt động: TRIỆU_CHỨNG
+- Tăng suy nghĩ: TRIỆU_CHỨNG
+- Suy nhược: TRIỆU_CHỨNG
+
+Tiền sử: Người bệnh có tiền sử THA 5 năm.

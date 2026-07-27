@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm xương chũm và tình trạng liên quan",
+    "position": [0, 39],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H70", "H70.8"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [700, 711],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [714, 723],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

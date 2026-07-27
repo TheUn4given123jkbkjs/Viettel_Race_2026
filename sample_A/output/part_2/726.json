@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Bệnh bạch cầu dạng lympho",
+    "position": [10, 35],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C91",
+      "C91.0",
+      "C91.1"
+    ]
+  },
+  {
+    "text": "Rituximab",
+    "position": [555, 564],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bendamustin",
+    "position": [654, 665],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [755, 768],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [843, 852],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  },
+  {
+    "text": "Fluconazole",
+    "position": [935, 946],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4450"]
+  }
+]

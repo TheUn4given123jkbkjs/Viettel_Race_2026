@@ -1,0 +1,51 @@
+[
+  {
+    "text": "chóng mặt",
+    "position": [131, 140],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất thăng bằng",
+    "position": [219, 233],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ù tai",
+    "position": [311, 316],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chứng ù tai",
+    "position": [412, 423],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn chức năng mê nhĩ",
+    "position": [531, 556],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H83.2"]
+  },
+  {
+    "text": "rò mê nhĩ",
+    "position": [1454, 1463],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H83.1"]
+  },
+  {
+    "text": "đo chức năng tiền đình",
+    "position": [1568, 1590],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

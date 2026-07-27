@@ -1,0 +1,41 @@
+Bệnh án lâm sàng của bệnh nhân nữ, 45 tuổi, được cấp cứu đến Khoa Tim mạch vì tình trạng suy tim. Khi khám lâm sàng, bác sĩ ghi nhận bệnh nhân có tiền sử sử dụng thuốc Dopamine trong 5 năm gần đây cho bệnh tim mạch. Bệnh nhân phủ nhận buồn nôn và không sốt. Trong quá trình khám, bác sĩ nhận thấy bệnh nhân có dấu hiệu suy hô hấp. Bệnh nhân được chuyển đến khoa hồi sức để điều trị và theo dõi. Tại khoa hồi sức, bệnh nhân được đặt ống thở và bắt đầu sử dụng máy thở. Sau 2 ngày điều trị, bệnh nhân bắt đầu cải thiện và được chuyển trở lại khoa Tim mạch. Tại đây, bác sĩ tiếp tục theo dõi và điều trị bệnh nhân. Trong quá trình điều trị, bác sĩ ghi nhận bệnh nhân có dấu hiệu suy thận. Bệnh nhân được chuyển đến khoa Nhiệt và được điều trị bằng thuốc Dopamine để cải thiện tình trạng suy tim và suy thận. Sau 5 ngày điều trị, bệnh nhân bắt đầu cải thiện và được chuyển trở lại khoa Tim mạch. Tại đây, bác sĩ tiếp tục theo dõi và điều trị bệnh nhân. Bệnh nhân được theo dõi và điều trị trong 2 tuần sau đó mới được xuất viện.
+
+Entities:
+[
+  {
+    "text": "Dopamine",
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "không sốt",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "suy tim",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "suy hô hấp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "suy thận",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "bệnh Parkinson",
+    "position": [135, 149],
+    "type": "TÊN_BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Procaine",
+    "position": [357, 365],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7983", "8701"]
+  },
+  {
+    "text": "Levodopa",
+    "position": [334, 342],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["103990"]
+  },
+  {
+    "text": "Carbidopa",
+    "position": [344, 353],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["103990"]
+  },
+  {
+    "text": "tổn thương gan",
+    "position": [537, 551],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thận",
+    "position": [555, 559],
+    "type": "CƠ QUAN",
+    "assertions": [],
+    "candidates": []
+  }
+]

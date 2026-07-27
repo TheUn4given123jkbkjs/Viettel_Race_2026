@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Đau đầu do căng thẳng",
+    "position": [342, 363],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G44.2"]
+  },
+  {
+    "text": "căng thẳng",
+    "position": [67, 77],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [184, 191],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh căng thẳng",
+    "position": [62, 77],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "thay đổi lối sống",
+    "position": [430, 447],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

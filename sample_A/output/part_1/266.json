@@ -1,0 +1,44 @@
+[
+  {
+    "text": "BỆNH HUNGTINGTON",
+    "position": [762, 778],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G10"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [980, 987],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1026, 1037],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [1123, 1137],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [1213, 1233],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm chức năng thận",
+    "position": [1322, 1347],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

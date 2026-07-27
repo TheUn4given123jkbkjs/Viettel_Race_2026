@@ -1,0 +1,27 @@
+[
+  {
+    "text": "THA",
+    "position": [78, 81],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Sợ bị bệnh (Lo lắng về sức khỏe) khác",
+    "position": [195, 232],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F45.29"]
+  },
+  {
+    "text": "tim",
+    "position": [108, 111],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "A54.80",
+      "A54.87",
+      "A18.82"
+    ]
+  }
+]

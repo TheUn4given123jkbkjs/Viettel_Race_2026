@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bại não thất điều",
+    "position": [259, 276],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G80.4"]
+  },
+  {
+    "text": "************",
+    "position": [323, 335],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [339, 352],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  }
+]

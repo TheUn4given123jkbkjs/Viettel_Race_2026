@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Acetazolamide",
+    "position": [197, 210],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Fluconazole",
+    "position": [243, 254],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4450"]
+  },
+  {
+    "text": "Bác sĩ",
+    "position": [164, 170],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [496, 514],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân",
+    "position": [0, 9],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

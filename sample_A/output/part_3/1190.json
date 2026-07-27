@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tình trạng tăng bạch cầu ưa acid",
+    "position": [1129, 1161],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D72.1"]
+  },
+  {
+    "text": "Albendazole",
+    "position": [1225, 1236],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["430"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1272, 1284],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "đau cơ",
+    "position": [397, 403],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [431, 443],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [512, 520],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [249, 270],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu ưa acid (Eosinophils): 4.2 G/L",
+    "position": [1062, 1101],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

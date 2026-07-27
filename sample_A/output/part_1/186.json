@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Viêm giáp cấp",
+    "position": [109, 122],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["E06.0", "E06.1"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [415, 425],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc",
+    "position": [369, 374],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [39, 48],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân",
+    "position": [52, 61],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

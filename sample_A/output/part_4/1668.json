@@ -1,0 +1,27 @@
+[
+  {
+    "text": "ám ảnh sợ khoảng trống",
+    "position": [51, 73],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "F40.00",
+      "F40.01",
+      "F40.02"
+    ]
+  },
+  {
+    "text": "liệu pháp tâm thần",
+    "position": [416, 434],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "liệu pháp hành vi",
+    "position": [440, 457],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,40 @@
+Bệnh án lâm sàng:
+Tiền sử bệnh nội khoa: Bệnh nhân nữ, 32 tuổi, có tiền sử bệnh tim mạch, tiểu đường và cao huyết áp. Trong tháng trước, bệnh nhân có triệu chứng mệt mỏi, buồn nôn và sốt nhẹ, nhưng sau đó đã cải thiện.
+Tiền sử bệnh hiện tại: Bệnh nhân đang điều trị bằng thuốc tim mạch và tiểu đường, bao gồm Acetaminophen và Metformin. Ngoài ra, bệnh nhân cũng đang sử dụng thuốc chống viêm không steroid (NSAIDs) để điều trị đau cơ.
+Đánh giá tại bệnh viện: Khi được nhập viện, bệnh nhân có biểu hiện mệt mỏi, buồn nôn và sốt nhẹ, nhưng không có triệu chứng nghiêm trọng. Bác sĩ đã thực hiện thăm khám và khám nghiệm, sau đó chẩn đoán bệnh Rối loạn thói quen và xung động khác. Bệnh nhân được kê đơn thuốc Atazanavir và Acetazolamide để điều trị.
+Chẩn đoán bệnh: Rối loạn thói quen và xung động khác.
+Kết luận bệnh án: Bệnh nhân được chẩn đoán bệnh Rối loạn thói quen và xung động khác và được kê đơn thuốc Atazanavir và Acetazolamide để điều trị. Bệnh nhân cần theo dõi chặt chẽ và điều trị đúng đơn thuốc để tránh các biến chứng.
+Đề xuất: Bệnh nhân cần thực hiện biện pháp phòng ngừa và điều trị để tránh các biến chứng.
+Đánh giá tình trạng bệnh nhân: Bệnh nhân được đánh giá tình trạng bệnh án và được kê đơn thuốc Atazanavir và Acetazolamide để điều trị. Bệnh nhân cần theo dõi chặt chẽ và điều trị đúng đơn thuốc để tránh các biến chứng.
+Lời khuyên cho bệnh nhân: Bệnh nhân cần thực hiện biện pháp phòng ngừa và điều trị để tránh các biến chứng.
+Kết luận bệnh án: Bệnh nhân được chẩn đoán bệnh Rối loạn thói quen và xung động khác và được kê đơn thuốc Atazanavir và Acetazolamide để điều trị. Bệnh nhân cần theo dõi chặt chẽ và điều trị đúng đơn thuốc để tránh các biến chứng.
+Đề xuất: Bệnh nhân cần thực hiện biện pháp phòng ngừa và điều trị để tránh các biến chứng.
+Đánh giá tình trạng bệnh nhân: Bệnh nhân được đánh giá tình trạng bệnh án và được kê đơn thuốc Atazanavir và Acetazolamide để điều trị. Bệnh nhân cần theo dõi chặt chẽ và điều trị đúng đơn thuốc để tránh các biến chứng.
+Lời khuyên cho bệnh nhân: Bệnh nhân cần thực hiện biện pháp phòng ngừa và điều trị để tránh các biến chứng.
+
+Entities:
+[
+   {
+      "text": "Rối loạn thói quen và xung động khác",
+      "type": "CHẨN_ĐOÁN",
+      "assertions": []
+   },
+   {
+      "text": "Atazanavir",
+      "type": "THUỐC",
+      "assertions": []
+   },
+   {
+      "text": "Acetazolamide",
+      "type": "THUỐC",
+      "assertions": []
+   },
+   {
+      "text": "buồn nôn",
+      "type": "TÊN_XÉT_NGHIỆM",
+      "assertions": ["isNegated"]},
+   {
+      "text": "sốt",
+      "type": "TÊN_XÉT_NGHIỆM",
+      "assertions": ["isNegated"]}
+]

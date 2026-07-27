@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm phổi do giang mai bẩm sinh sớm",
+    "position": [615, 650],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A50.04"]
+  },
+  {
+    "text": "aspirin 100mg mỗi ngày",
+    "position": [398, 420],
+    "type": "",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [468, 476],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0,5 ng/mL",
+    "position": [489, 498],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Tên bác sĩ]",
+    "position": [21, 33],
+    "type": "",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Ngày]",
+    "position": [43, 49],
+    "type": "",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Date]",
+    "position": [86, 92],
+    "type": "",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [52, 59],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu não cục bộ",
+    "position": [128, 148],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G45", "P91.6"]
+  },
+  {
+    "text": "Phytonadione",
+    "position": [178, 190],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8308"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [254, 271],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bố bệnh nhân",
+    "position": [419, 431],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

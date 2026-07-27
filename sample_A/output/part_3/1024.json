@@ -1,0 +1,44 @@
+[
+  {
+    "text": "sa sút trí tuệ trong bệnh Parkinson (G20†)",
+    "position": [233, 275],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F02.3*"]
+  },
+  {
+    "text": "bệnh Parkinson",
+    "position": [93, 107],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [125, 128],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [149, 157],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [524, 534],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chăm sóc",
+    "position": [576, 584],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

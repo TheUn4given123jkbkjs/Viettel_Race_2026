@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Sulfamethoxazole / Trimethoprim",
+    "position": [41, 72],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10831"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [138, 151],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường loại 2",
+    "position": [155, 176],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [215, 224],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hen suyễn",
+    "position": [228, 237],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  }
+]

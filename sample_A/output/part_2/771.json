@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Nghiện cocain với rối loạn khác do cocain",
+    "position": [730, 771],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F14.28"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [787, 795],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Amitriptyline",
+    "position": [855, 868],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["704"]
+  },
+  {
+    "text": "nghiện rượu",
+    "position": [329, 340],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "F10.20",
+      "F10.21",
+      "F10.22"
+    ]
+  },
+  {
+    "text": "kích thích",
+    "position": [398, 408],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lo âu",
+    "position": [410, 415],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [440, 448],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

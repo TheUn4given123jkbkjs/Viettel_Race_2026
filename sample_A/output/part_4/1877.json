@@ -1,0 +1,23 @@
+[
+  {
+    "text": "bệnh Alzheimer không đặc hiệu",
+    "position": [481, 510],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G30.9"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [596, 603],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [613, 624],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

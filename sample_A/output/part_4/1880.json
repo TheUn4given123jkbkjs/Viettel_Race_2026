@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Viêm kết mạc, mi mắt",
+    "position": [82, 102],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H10.5"]
+  },
+  {
+    "text": "Tiền sử THA 5 năm trước",
+    "position": [206, 229],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh viện Đại học Y Hà Nội",
+    "position": [420, 446],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nguyễn Thị Ngọc Bích",
+    "position": [460, 480],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

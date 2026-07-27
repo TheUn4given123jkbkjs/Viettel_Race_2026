@@ -1,0 +1,23 @@
+[
+  {
+    "text": "U do amíp đường ruột",
+    "position": [712, 732],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A06.3"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [416, 424],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [212, 215],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

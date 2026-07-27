@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Bệnh HIV dẫn đến đa u ác tính",
+    "position": [285, 314],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B21.7"]
+  },
+  {
+    "text": "tiểu đường",
+    "position": [124, 134],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [138, 150],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng đường tiết niệu",
+    "position": [195, 222],
+    "type": "BỆNH_SỬ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [226, 235],
+    "type": "BỆNH_SỬ",
+    "assertions": [],
+    "candidates": []
+  }
+]

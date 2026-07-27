@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Rối loạn lưỡng cực, thuyên giảm hoàn toàn, tình trạng mới đây là hỗn hợp",
+    "position": [21, 93],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F31.78"]
+  },
+  {
+    "text": "Lithium",
+    "position": [177, 184],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Valproic acid",
+    "position": [188, 201],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11118"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [256, 269],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  }
+]

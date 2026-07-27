@@ -1,0 +1,44 @@
+[
+  {
+    "text": "ung thư dạ dày",
+    "position": [280, 294],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D00"]
+  },
+  {
+    "text": "Insulin",
+    "position": [206, 213],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["253182", "317235"]
+  },
+  {
+    "text": "đau âm ỉ vùng thượng vị",
+    "position": [401, 424],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da niêm mạc",
+    "position": [570, 586],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "U ác phần khác của tụy",
+    "position": [1218, 1240],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C25.7", "C72"]
+  },
+  {
+    "text": "Pancreatin",
+    "position": [1310, 1320],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7880"]
+  }
+]

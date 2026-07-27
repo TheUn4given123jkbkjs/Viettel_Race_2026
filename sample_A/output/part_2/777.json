@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Acetaminophen",
+    "position": [31, 44],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["161"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [113, 121],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [125, 132],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thoái hóa khớp gối",
+    "position": [68, 86],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M17",
+      "M17.0",
+      "M17.1"
+    ]
+  },
+  {
+    "text": "xét nghiệm men gan",
+    "position": [341, 359],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [361, 364],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [366, 369],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm ổ bụng",
+    "position": [374, 388],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

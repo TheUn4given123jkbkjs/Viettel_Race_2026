@@ -1,0 +1,39 @@
+BỆNH ÁN LÂM SÀNG
+
+[Ngày] [Tên bác sĩ]
+
+Tiền sử bệnh
+
+Bệnh nhân nam, 45 tuổi, đến bệnh viện với triệu chứng đau đầu dữ dội. Bệnh nhân cho biết đã bị đau đầu trong vòng 2 ngày qua, và triệu chứng đã trở nặng trong ngày hôm nay. Bệnh nhân cũng cho biết đã có tiền sử sử dụng thuốc Haloperidol trong vòng 1 tháng qua để điều trị động kinh.
+
+Bệnh sử
+
+Bệnh nhân đã được kiểm tra và xét nghiệm các chỉ số sau:
+
+* Troponin: 150 ng/mL
+* Creatinine: 1.2 mg/dL
+* Aspartate aminotransferase (AST): 40 U/L
+
+Kết quả xét nghiệm cho thấy bệnh nhân có dấu hiệu tăng troponin, và creatinine trong phạm vi an toàn. Tuy nhiên, AST tăng nhẹ.
+
+Đã xử trí thuốc và thủ thuật
+
+Bệnh nhân đã được điều trị bằng ceftriaxone 2 g IV/lần 2 lần/ngày để điều trị nhiễm trùng. Ngoài ra, bệnh nhân cũng được điều trị bằng aspirin 100 mg IV/lần 2 lần/ngày để ngăn ngừa hình thành cục máu đông.
+
+Giám sát và theo dõi
+
+Bệnh nhân sẽ được giám sát và theo dõi chặt chẽ trong vòng 24 giờ tới để đánh giá tình trạng sức khỏe và hiệu quả của điều trị.
+
+entities:
+
+* Trích xuất 'Haloperidol' nhãn THUỐC với assertions=['isHistorical']
+
+* Trích xuất 'troponin' nhãn TÊN_XÉT_NGHIỆM với assertions=[]
+
+* Trích xuất 'creatine' nhãn TÊN_XÉT_NGHIỆM với assertions=[]
+
+* Trích xuất 'aspartate aminotransferase' nhãn TÊN_XÉT_NGHIỆM với assertions=[]
+
+* Trích xuất 'ceftriaxone' nhãn THUỐC với assertions=[]
+
+* Trích xuất 'aspirin' nhãn THUỐC với assertions=[]

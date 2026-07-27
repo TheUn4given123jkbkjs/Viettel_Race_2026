@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tiền sử Tăng huyết áp 10 năm",
+    "position": [238, 266],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "loạn dưỡng cơ",
+    "position": [679, 692],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily", "isNegated"],
+    "candidates": ["E88.09", "G71.0"]
+  },
+  {
+    "text": "yếu cơ",
+    "position": [955, 961],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì",
+    "position": [1312, 1317],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1521, 1538],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin I",
+    "position": [1911, 1921],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện cơ đồ",
+    "position": [2100, 2110],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh thần kinh - cơ do nhiễm độc",
+    "position": [2442, 2474],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G70.1"]
+  }
+]

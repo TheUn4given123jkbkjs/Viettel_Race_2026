@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Amlodipine",
+    "position": [132, 142],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "lạm dụng chất gây nghiện",
+    "position": [261, 285],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["F55"]
+  },
+  {
+    "text": "kích động",
+    "position": [539, 548],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [796, 813],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan bồn chồn",
+    "position": [775, 792],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận ảo giác thị giác",
+    "position": [844, 869],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sử dụng chất tác động thần kinh khác, không đặc hiệu, không biến chứng",
+    "position": [1456, 1526],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F19.90"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [1611, 1619],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Haloperidol",
+    "position": [1681, 1692],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5093"]
+  }
+]

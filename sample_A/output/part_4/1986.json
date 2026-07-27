@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Bệnh đái tháo đường không phụ thuộc insulin",
+    "position": [868, 911],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E11",
+      "E11.0",
+      "E11.1"
+    ]
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [245, 259],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc",
+    "position": [951, 956],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [1004, 1014],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lối sống",
+    "position": [985, 993],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mẹ bệnh nhân",
+    "position": [270, 282],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

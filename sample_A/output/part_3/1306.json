@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Ung thư biểu mô tại chỗ của trực tràng",
+    "position": [0, 38],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D01.2"]
+  },
+  {
+    "text": "táo bón",
+    "position": [119, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [128, 131],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [291, 301],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [307, 324],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

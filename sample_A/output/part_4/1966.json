@@ -1,0 +1,23 @@
+[
+  {
+    "text": "động kinh cơn lớn, không đặc hiệu (kèm hay không có cơn nhỏ)",
+    "position": [111, 171],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G40.6"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [357, 370],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Amitriptyline",
+    "position": [391, 404],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["704"]
+  }
+]

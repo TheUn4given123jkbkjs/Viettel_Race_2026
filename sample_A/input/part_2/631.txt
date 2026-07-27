@@ -1,0 +1,27 @@
+Bệnh án lâm sàng của bệnh nhân nữ, 35 tuổi, được chuyển đến bệnh viện với triệu chứng sốt và buồn nôn trong 3 ngày qua. Tiền sử bệnh nhân đã dùng thuốc Ribavirin trong 6 tháng trước đó để điều trị bệnh viêm gan C. Tuy nhiên, bệnh nhân phủ nhận sử dụng thuốc này trong thời gian gần đây. Đánh giá tại bệnh viện, bệnh nhân có dấu hiệu sốt nhẹ và buồn nôn. Tuy nhiên, không có dấu hiệu nặng nào được ghi nhận.
+
+Bệnh sử: Bệnh nhân đã được chẩn đoán mắc bệnh viêm gan C vào 2 năm trước đó. Bệnh nhân đã được điều trị bằng thuốc Ribavirin trong 6 tháng. Sau đó, bệnh nhân được theo dõi định kỳ và không có dấu hiệu bất thường nào được ghi nhận.
+
+Đánh giá tại bệnh viện: Bệnh nhân được chuyển đến bệnh viện với triệu chứng sốt và buồn nôn. Đánh giá lâm sàng, bệnh nhân có dấu hiệu sốt nhẹ và buồn nôn. Tuy nhiên, không có dấu hiệu nặng nào được ghi nhận.
+
+Lời khuyên: Bệnh nhân cần được theo dõi chặt chẽ và có thể được điều trị bổ sung nếu cần thiết.
+
+ Entities:
+
+- Trích xuất "Ribavirin" là loại thuốc được sử dụng để điều trị bệnh viêm gan C.
+
+- Trích xuất "viêm gan C" là bệnh lý được chẩn đoán ở bệnh nhân.
+
+- Trích xuất "sốt" và "buồn nôn" là triệu chứng được bệnh nhân trình bày.
+
+- Trích xuất "bệnh nhân" là người được trình bày trong bệnh án.
+
+- Trích xuất "bệnh viện" là nơi bệnh nhân được chuyển đến.
+
+- Trích xuất "tiền sử" là thông tin về lịch sử bệnh án của bệnh nhân.
+
+- Trích xuất "đánh giá tại bệnh viện" là thông tin về đánh giá lâm sàng của bệnh nhân.
+
+- Trích xuất "phủ nhận" là trạng thái được sử dụng để biểu thị sự phủ nhận của bệnh nhân.
+
+- Trích xuất "không sốt" và "không buồn nôn" là trạng thái được sử dụng để biểu thị sự phủ nhận của bệnh nhân.

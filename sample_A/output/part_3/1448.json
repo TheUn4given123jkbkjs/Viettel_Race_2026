@@ -1,0 +1,37 @@
+[
+  {
+    "text": "suy giáp sau điều trị",
+    "position": [455, 476],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E89.0", "E89.2"]
+  },
+  {
+    "text": "levothyroxine",
+    "position": [488, 501],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10582"]
+  },
+  {
+    "text": "atenolol",
+    "position": [530, 538],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1202"]
+  },
+  {
+    "text": "metformin",
+    "position": [296, 305],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "buồn nôn và sốt",
+    "position": [588, 603],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

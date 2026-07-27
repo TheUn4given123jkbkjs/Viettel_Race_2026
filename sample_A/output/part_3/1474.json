@@ -1,0 +1,16 @@
+[
+  {
+    "text": "các thể loại đái tháo đường không xác định (Có biến chứng mắt)",
+    "position": [50, 112],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E14.3†"]
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [25, 34],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

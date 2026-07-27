@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Rối loạn hành vi ở những người kém thích ứng xã hội",
+    "position": [181, 232],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F91.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [303, 316],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ondansetron",
+    "position": [720, 731],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["26225"]
+  }
+]

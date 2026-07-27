@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Xơ cứng đồng tâm [Baló]",
+    "position": [99, 122],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G37.5"]
+  },
+  {
+    "text": "Methotrexate",
+    "position": [139, 151],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6851"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [155, 167],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  }
+]

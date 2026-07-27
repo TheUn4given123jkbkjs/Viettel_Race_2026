@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U ác với tổn thương chồng lấn của bàng quang",
+    "position": [0, 44],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["C67.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [592, 605],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [609, 618],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Sốt",
+    "position": [219, 222],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

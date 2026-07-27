@@ -1,0 +1,44 @@
+[
+  {
+    "text": "tiền sử bệnh tim mạch",
+    "position": [959, 980],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Factor IX Complex",
+    "position": [822, 839],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1670383"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [243, 251],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "Metformin",
+    "position": [354, 363],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Salmeterol",
+    "position": [444, 454],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Fluticasone",
+    "position": [458, 469],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

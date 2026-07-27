@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Nhiễm virus khác, có biểu hiện tổn thương tại da và niêm mạc, chưa phân loại",
+    "position": [338, 414],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B08"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [612, 625],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ketoconazole",
+    "position": [1018, 1030],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6135"]
+  }
+]

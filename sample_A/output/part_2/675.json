@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Rối loạn nhân cách phụ thuộc",
+    "position": [387, 415],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F60.7"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [437, 445],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [464, 477],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Troponin",
+    "position": [622, 630],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Tên bác sĩ]",
+    "position": [1051, 1063],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

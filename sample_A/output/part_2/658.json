@@ -1,0 +1,38 @@
+[
+  {
+    "text": "rối loạn cảm xúc lưỡng cực",
+    "position": [147, 173],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "F31.64",
+      "F31.3",
+      "F31.4"
+    ]
+  },
+  {
+    "text": "Atenolol",
+    "position": [484, 492],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1202"]
+  },
+  {
+    "text": "trầm cảm nhẹ",
+    "position": [67, 79],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "F31.30",
+      "F31.31",
+      "F31.3"
+    ]
+  },
+  {
+    "text": "5 năm trước",
+    "position": [174, 185],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

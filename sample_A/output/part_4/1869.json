@@ -1,0 +1,49 @@
+[
+  {
+    "text": "Fludrocortisone",
+    "position": [10, 25],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4452"]
+  },
+  {
+    "text": "tăng cân",
+    "position": [222, 230],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M35.4",
+      "O26.0",
+      "O26.1"
+    ]
+  },
+  {
+    "text": "loãng xương",
+    "position": [232, 243],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [247, 260],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "bác sĩ",
+    "position": [364, 370],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

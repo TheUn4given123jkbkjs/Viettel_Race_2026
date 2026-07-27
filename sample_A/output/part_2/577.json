@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U ác của phần ba dưới thực quản",
+    "position": [514, 545],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["C15.5"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [815, 823],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Metformin",
+    "position": [849, 858],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "sốt",
+    "position": [92, 95],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

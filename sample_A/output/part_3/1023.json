@@ -1,0 +1,23 @@
+[
+  {
+    "text": "buồn nôn",
+    "position": [190, 198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [179, 186],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cao 160cm",
+    "position": [339, 348],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Thiếu hụt immunoglobulin M [IgM] chọn lọc",
+    "position": [198, 239],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D80.4"]
+  },
+  {
+    "text": "Immune Globulin",
+    "position": [261, 276],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1426680"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [304, 333],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Viêm phổi tái diễn từ nhỏ",
+    "position": [42, 67],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

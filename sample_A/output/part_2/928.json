@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Nhiễm nấm blastomyces ở phổi mãn tính",
+    "position": [330, 367],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B40.1"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [483, 490],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Erythromycin",
+    "position": [511, 523],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4053"]
+  },
+  {
+    "text": "X-quang phổi",
+    "position": [257, 269],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chảy máu mũi",
+    "position": [114, 126],
+    "type": "BỆNH_SỬ",
+    "assertions": [],
+    "candidates": []
+  }
+]

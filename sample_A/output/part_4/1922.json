@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Thiếu máu thiếu sắt không đặc hiệu",
+    "position": [88, 122],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D50.9"]
+  },
+  {
+    "text": "Iron",
+    "position": [514, 518],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["90176", "105658"]
+  },
+  {
+    "text": "Ferrous sulfate",
+    "position": [559, 574],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Rối loạn khí sắc [cảm xúc] khác",
+    "position": [537, 568],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F38.8",
+      "F34.8",
+      "F38"
+    ]
+  },
+  {
+    "text": "Fluoxetine",
+    "position": [418, 428],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4493"]
+  },
+  {
+    "text": "Tiền sử THA",
+    "position": [175, 186],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

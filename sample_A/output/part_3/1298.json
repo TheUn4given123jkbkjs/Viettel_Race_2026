@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh Chagas (mãn tính) ảnh hưởng đến cơ quan khác",
+    "position": [44, 93],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B57.5"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [562, 575],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Albendazole",
+    "position": [583, 594],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["430"]
+  }
+]

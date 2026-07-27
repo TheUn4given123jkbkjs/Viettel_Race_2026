@@ -1,0 +1,23 @@
+[
+  {
+    "text": "U ác của tủy tuyến thượng thận",
+    "position": [0, 30],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C74.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [868, 881],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Hydrocortisone",
+    "position": [884, 898],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5492", "27197"]
+  }
+]

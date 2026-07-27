@@ -1,0 +1,34 @@
+[
+  {
+    "text": "lạm dụng chất hít",
+    "position": [24, 41],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F18.10",
+      "F18.12",
+      "F18.14"
+    ]
+  },
+  {
+    "text": "sa sút tâm thần do chất hít",
+    "position": [57, 84],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F18.17", "F18.27"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [482, 495],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [501, 515],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  }
+]

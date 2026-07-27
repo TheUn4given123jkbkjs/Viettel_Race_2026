@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Papaverine",
+    "position": [186, 196],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7895"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [97, 105],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["R11"]
+  },
+  {
+    "text": "co thắt dạ dày",
+    "position": [207, 221],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Papaverine",
+    "position": [186, 196],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7895"]
+  }
+]

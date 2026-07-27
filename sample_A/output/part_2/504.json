@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Thiếu yếu tố XI di truyền",
+    "position": [37, 62],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D68.1"]
+  },
+  {
+    "text": "Acenocoumarol",
+    "position": [798, 811],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["154"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [815, 823],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11289"]
+  }
+]

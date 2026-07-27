@@ -1,0 +1,23 @@
+[
+  {
+    "text": "u ác của nướu hàm trên",
+    "position": [124, 146],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C03.0"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [470, 478],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "THA năm 2015",
+    "position": [552, 564],
+    "type": "isHistorical",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

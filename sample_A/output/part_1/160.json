@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Aminocaproic acid",
+    "position": [125, 142],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["99"]
+  },
+  {
+    "text": "aspirin",
+    "position": [274, 281],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [285, 296],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

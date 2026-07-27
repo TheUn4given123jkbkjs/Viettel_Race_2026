@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Bệnh u mỡ, chưa được phân loại ở phần khác",
+    "position": [10, 52],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E88.2"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [224, 234],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lối sống",
+    "position": [247, 255],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [224, 234],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thay đổi lối sống",
+    "position": [360, 377],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

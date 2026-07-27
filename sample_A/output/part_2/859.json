@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Suy thận mạn giai đoạn cuối",
+    "position": [57, 84],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [161, 169],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [179, 182],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn chuyển hóa chất khóang",
+    "position": [292, 323],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E83.8",
+      "E83.9",
+      "E83"
+    ]
+  },
+  {
+    "text": "Calcium gluconate",
+    "position": [345, 362],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1908"]
+  },
+  {
+    "text": "Vitamin A / Vitamin D",
+    "position": [384, 405],
+    "type": "THUOC",
+    "assertions": [],
+    "candidates": []
+  }
+]

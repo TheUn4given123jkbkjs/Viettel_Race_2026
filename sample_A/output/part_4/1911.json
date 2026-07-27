@@ -1,0 +1,41 @@
+[
+  {
+    "text": "ECG",
+    "position": [194, 197],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI",
+    "position": [310, 313],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "paracetamol",
+    "position": [733, 744],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [387, 396],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh ung thư",
+    "position": [620, 632],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M36.1*",
+      "M36.10*",
+      "M36.11*"
+    ]
+  }
+]

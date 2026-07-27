@@ -1,0 +1,48 @@
+[
+  {
+    "text": "U ác của màng não",
+    "position": [105, 122],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "C70",
+      "C70.0",
+      "C70.9"
+    ]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [244, 257],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Chlorpromazine",
+    "position": [296, 310],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2403"]
+  },
+  {
+    "text": "Protein trong nước não",
+    "position": [350, 372],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose trong nước não",
+    "position": [385, 407],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nguyễn Văn A",
+    "position": [40, 52],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

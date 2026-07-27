@@ -1,0 +1,48 @@
+[
+  {
+    "text": "U ác không xác định vị trí",
+    "position": [487, 513],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "C26.0",
+      "C79",
+      "C79.4"
+    ]
+  },
+  {
+    "text": "THA",
+    "position": [188, 191],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Troponin",
+    "position": [297, 305],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0,5 ng/mL",
+    "position": [307, 316],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "C-reactive protein",
+    "position": [350, 368],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10 mg/L",
+    "position": [370, 377],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

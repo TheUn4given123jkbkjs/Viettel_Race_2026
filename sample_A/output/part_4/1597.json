@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U ác của bàng quang không đặc hiệu",
+    "position": [25, 59],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C67.9"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [88, 101],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Allopurinol",
+    "position": [105, 116],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["519"]
+  },
+  {
+    "text": "không sốt",
+    "position": [122, 131],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

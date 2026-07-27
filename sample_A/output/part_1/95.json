@@ -1,0 +1,41 @@
+[
+  {
+    "text": "bệnh khác của mắt và phần phụ trong các bệnh phân loại nơi khác",
+    "position": [489, 552],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "H58",
+      "H58*",
+      "H58.8*"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [291, 298],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "troponin",
+    "position": [438, 446],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [109, 116],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [120, 127],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

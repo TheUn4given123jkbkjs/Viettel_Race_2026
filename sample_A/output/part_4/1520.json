@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Ethinylestradiol / Levonorgestrel",
+    "position": [131, 164],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["214558"]
+  },
+  {
+    "text": "Đau bụng hạ vị",
+    "position": [191, 205],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rong kinh",
+    "position": [215, 224],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bụng mềm",
+    "position": [255, 263],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ấn đau vùng hạ vị",
+    "position": [265, 282],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "u nang buồng trứng",
+    "position": [349, 367],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N83.2"]
+  }
+]

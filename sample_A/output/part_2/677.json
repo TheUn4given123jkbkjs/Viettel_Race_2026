@@ -1,0 +1,37 @@
+[
+  {
+    "text": "sốt",
+    "position": [68, 71],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [342, 352],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 g/L",
+    "position": [354, 361],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "captopril",
+    "position": [679, 688],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1998"]
+  },
+  {
+    "text": "enalapril",
+    "position": [900, 909],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3827"]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Amphotericin B",
+    "position": [325, 339],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["732"]
+  },
+  {
+    "text": "nấm da",
+    "position": [143, 149],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [264, 267],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [269, 276],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau cơ",
+    "position": [280, 286],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

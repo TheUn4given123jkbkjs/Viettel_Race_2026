@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Bệnh dây thần kinh mặt",
+    "position": [0, 22],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "G51",
+      "G51.8",
+      "G51.9"
+    ]
+  },
+  {
+    "text": "Acetaminophen (Tylenol)",
+    "position": [536, 559],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen (Advil, Motrin)",
+    "position": [563, 588],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "text": "thiểu năng hay gia tăng quy tụ",
+    "position": [478, 508],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      ""
+    ],
+    "candidates": ["H51.1"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [166, 174],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [111, 123],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiểu năng",
+    "position": [478, 488],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tập thể dục",
+    "position": [615, 626],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

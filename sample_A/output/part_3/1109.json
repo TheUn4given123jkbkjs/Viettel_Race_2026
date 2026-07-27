@@ -1,0 +1,52 @@
+[
+  {
+    "text": "bệnh nhân",
+    "position": [39, 48],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.15",
+      "A51.46",
+      "Z86.11"
+    ]
+  },
+  {
+    "text": "Cytarabine",
+    "position": [413, 423],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3041"]
+  },
+  {
+    "text": "bệnh ung thư máu non",
+    "position": [353, 373],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [39, 48],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.15",
+      "A51.46",
+      "Z86.11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [151, 159],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt không đáng kể",
+    "position": [129, 146],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

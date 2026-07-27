@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Loại khác của u lympho dạng nang",
+    "position": [60, 92],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["C82.7"]
+  },
+  {
+    "text": "aspirin",
+    "position": [340, 347],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [353, 364],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [399, 413],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "text": "nhiễm HIV",
+    "position": [55, 64],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "F02.4*",
+      "Z21",
+      "Z20.6"
+    ]
+  },
+  {
+    "text": "Lopinavir / Ritonavir",
+    "position": [151, 172],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["284640"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [229, 242],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [270, 280],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "vàng mắt",
+    "position": [567, 575],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [579, 586],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [607, 616],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "gan dưới bờ sườn 2cm",
+    "position": [979, 999],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

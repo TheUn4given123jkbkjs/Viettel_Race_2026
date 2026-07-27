@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Nhiễm amíp ở da",
+    "position": [365, 380],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["A06.7"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [393, 400],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [423, 434],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Typhoid Vaccine",
+    "position": [420, 435],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10953"]
+  },
+  {
+    "text": "Viêm loét dạ dày tá tràng",
+    "position": [284, 309],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường tuýp 2",
+    "position": [574, 595],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [662, 669],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [731, 738],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "paracetamol",
+    "position": [772, 783],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sốt xuất huyết Dengue",
+    "position": [1126, 1147],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A91", "A97"]
+  }
+]

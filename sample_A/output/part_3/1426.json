@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Rối loạn được xác định khác của tuyến giáp",
+    "position": [1018, 1060],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E07.1", "E07.8"]
+  },
+  {
+    "text": "Methimazole",
+    "position": [1120, 1131],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Propranolol",
+    "position": [1160, 1171],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8787"]
+  },
+  {
+    "text": "mệt mỏi tiến triển",
+    "position": [356, 374],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [421, 438],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

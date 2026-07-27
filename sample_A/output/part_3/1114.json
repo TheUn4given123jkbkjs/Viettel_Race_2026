@@ -1,0 +1,37 @@
+[
+  {
+    "text": "suy tim giai đoạn 3",
+    "position": [98, 117],
+    "type": "BỆNH_TỰ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ringer's lactate",
+    "position": [167, 183],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["35629"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [249, 256],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G93.3", "R53"]
+  },
+  {
+    "text": "khó thở",
+    "position": [258, 265],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R06.0", "R06.2"]
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "position": [270, 284],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P29.11", "R00.0"]
+  }
+]

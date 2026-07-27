@@ -1,0 +1,20 @@
+[
+  {
+    "text": "tim mạch",
+    "position": [100, 108],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.54",
+      "A52.00",
+      "A52.06"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [167, 174],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

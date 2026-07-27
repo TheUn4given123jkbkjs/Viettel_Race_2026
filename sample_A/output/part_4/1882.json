@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Dextran 70",
+    "position": [40, 50],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3274"]
+  },
+  {
+    "text": "huyết áp cao",
+    "position": [65, 77],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dị ứng",
+    "position": [107, 113],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

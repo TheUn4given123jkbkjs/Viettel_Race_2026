@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Thiếu máu trong các bệnh mãn tính đã được phân loại ở phần khác",
+    "position": [443, 506],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D63.8",
+      "D63",
+      "D63*"
+    ]
+  },
+  {
+    "text": "bệnh thận mạn tính",
+    "position": [104, 122],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [213, 225],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường loại 2",
+    "position": [229, 250],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [312, 319],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [321, 330],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [334, 354],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

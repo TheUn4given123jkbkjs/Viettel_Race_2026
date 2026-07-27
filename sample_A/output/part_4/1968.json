@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Potassium chloride",
+    "position": [138, 156],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8591"]
+  },
+  {
+    "text": "hạ kali máu",
+    "position": [280, 291],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E87.6"]
+  },
+  {
+    "text": "cortisol",
+    "position": [745, 753],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

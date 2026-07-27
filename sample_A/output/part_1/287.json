@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Bệnh sốt rét",
+    "position": [652, 664],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isMãn_tính"],
+    "candidates": []
+  },
+  {
+    "text": "Mefloquine",
+    "position": [108, 118],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1429947", "6694"]
+  },
+  {
+    "text": "Artesunate",
+    "position": [541, 551],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "18346",
+      "711398",
+      "1429947"
+    ]
+  },
+  {
+    "text": "BVĐK TPHCM",
+    "position": [44, 54],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân",
+    "position": [76, 85],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

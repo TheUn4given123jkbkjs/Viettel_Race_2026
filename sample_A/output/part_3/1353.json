@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bordetella khác",
+    "position": [74, 89],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A37.8"]
+  },
+  {
+    "text": "ho gà",
+    "position": [65, 70],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [400, 410],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [367, 384],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hút thuốc lá",
+    "position": [477, 489],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc kháng sinh",
+    "position": [640, 656],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

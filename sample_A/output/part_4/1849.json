@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Loạn dục gây đau chủ động và bị động, không xác định",
+    "position": [430, 482],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F65.50"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [199, 216],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [62, 75],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

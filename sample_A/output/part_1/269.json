@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm mống mắt thể mi trong các bệnh khác, phân loại nơi khác",
+    "position": [457, 517],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H22.0*", "H22.1*"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [561, 568],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [649, 660],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

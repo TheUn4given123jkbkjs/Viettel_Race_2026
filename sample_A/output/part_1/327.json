@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm màng não không sinh mủ",
+    "position": [346, 373],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G03.0"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [239, 252],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Fluoxetine",
+    "position": [302, 312],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4493"]
+  }
+]

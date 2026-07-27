@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bisacodyl",
+    "position": [130, 139],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1596"]
+  },
+  {
+    "text": "aspirin",
+    "position": [492, 499],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceft",
+    "position": [518, 522],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [299, 307],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hen suyễn",
+    "position": [412, 421],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường tuýp 2",
+    "position": [425, 442],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

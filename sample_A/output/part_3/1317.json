@@ -1,0 +1,101 @@
+[
+  {
+    "text": "Nhiễm trùng huyết do lậu cầu",
+    "position": [0, 28],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A54.86"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [525, 538],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Vancomycin",
+    "position": [541, 551],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11124"]
+  },
+  {
+    "text": "Bác sĩ",
+    "position": [1529, 1535],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vi khuẩn Lactobacillus",
+    "position": [1555, 1577],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kháng sinh",
+    "position": [1601, 1611],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu và phân",
+    "position": [1631, 1653],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc",
+    "position": [635, 640],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vi khuẩn",
+    "position": [1555, 1563],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm trùng",
+    "position": [0, 11],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.86",
+      "E76.29",
+      "J95.02"
+    ]
+  },
+  {
+    "text": "Huyết",
+    "position": [1760, 1765],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lậu cầu",
+    "position": [1782, 1789],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.21",
+      "A54.24",
+      "A54.31"
+    ]
+  },
+  {
+    "text": "Cầu",
+    "position": [1804, 1807],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

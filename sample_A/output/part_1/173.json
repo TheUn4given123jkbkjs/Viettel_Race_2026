@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh sốt phát ban do Rickettsia",
+    "position": [224, 255],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A75"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [159, 166],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [186, 197],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

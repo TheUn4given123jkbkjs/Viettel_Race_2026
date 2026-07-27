@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Bệnh tai ngoài trong bệnh phân loại nơi khác",
+    "position": [0, 44],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "H62.3*",
+      "H62.4*",
+      "H62.8*"
+    ]
+  },
+  {
+    "text": "Abacavir",
+    "position": [431, 439],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [506, 519],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

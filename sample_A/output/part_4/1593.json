@@ -1,0 +1,83 @@
+[
+  {
+    "text": "Plasmodium falciparum",
+    "position": [174, 195],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "B50",
+      "B50.0",
+      "B50.8"
+    ]
+  },
+  {
+    "text": "Sốt rét Plasmodium falciparum thể nặng và biến chứng khác",
+    "position": [166, 223],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B50.8"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [890, 900],
+    "type": "THIẾT_KẾ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chăm sóc sức khỏe",
+    "position": [1169, 1186],
+    "type": "THIẾT_KẾ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phòng ngừa bệnh",
+    "position": [1429, 1444],
+    "type": "THIẾT_KẾ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chương trình chăm sóc sức khỏe",
+    "position": [1483, 1513],
+    "type": "THIẾT_KẾ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thăm khám định kỳ",
+    "position": [1272, 1289],
+    "type": "THIẾT_KẾ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm định kỳ",
+    "position": [1340, 1358],
+    "type": "THIẾT_KẾ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hướng dẫn",
+    "position": [1151, 1160],
+    "type": "THIẾT_KẾ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh viện Chợ Rẫy",
+    "position": [68, 85],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh viện Đại học Y Dược",
+    "position": [280, 304],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh do HIV dẫn đến viêm phổi mô kẽ lympho bào",
+    "position": [0, 46],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B22.1"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [322, 330],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Fluconazole",
+    "position": [378, 389],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4450"]
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [472, 486],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm phổi",
+    "position": [520, 535],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm chức năng gan và thận",
+    "position": [586, 618],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

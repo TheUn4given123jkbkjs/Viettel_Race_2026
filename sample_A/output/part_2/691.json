@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Sa sút trí tuệ do nguyên nhân mạch",
+    "position": [467, 501],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F01",
+      "F01.0",
+      "F01.2"
+    ]
+  },
+  {
+    "text": "Abacavir",
+    "position": [525, 533],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [553, 566],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Rối loạn chuyển hóa xác định khác",
+    "position": [98, 131],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E71.28",
+      "E72.8",
+      "E88.8"
+    ]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [21, 38],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [10, 19],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

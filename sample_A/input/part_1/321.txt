@@ -1,0 +1,97 @@
+BỆNH SỬ:
+
+Bệnh nhân nữ, 35 tuổi, có tiền sử mắc các bệnh lý về da như viêm da tiếp xúc và viêm da eczema.
+
+Tình trạng bệnh hiện tại:
+
+- Bệnh nhân có biểu hiện mệt mỏi, buồn nôn và sốt nhẹ.
+
+- Bệnh nhân đã được điều trị bằng các thuốc kháng sinh và thuốc giảm đau nhưng không có hiệu quả.
+
+CHẨN_ĐOÁN:
+
+Bệnh nhân bị Thừa vitamin A.
+
+Y LỆNH ĐIỀU TRỊ:
+
+- Bệnh nhân sẽ được điều trị bằng thuốc Vitamin A 10.000 IU, 2 lần mỗi ngày trong 5 ngày.
+
+- Bệnh nhân sẽ được theo dõi chặt chẽ về tình trạng sức khỏe và sẽ được điều chỉnh thuốc nếu cần thiết.
+
+GHI CHÚ:
+
+- Bệnh nhân đã được tư vấn về tầm quan trọng của việc theo dõi và điều chỉnh lượng vitamin A trong cơ thể.
+
+- Bệnh nhân đã được hướng dẫn về cách sử dụng thuốc và cách theo dõi tình trạng sức khỏe.
+
+- Bệnh nhân đã được thông báo về các tác dụng phụ tiềm ẩn của thuốc và sẽ được theo dõi chặt chẽ về tình trạng sức khỏe trong quá trình điều trị.
+
+- Bệnh nhân sẽ được tái khám sau 5 ngày để đánh giá hiệu quả của điều trị và điều chỉnh thuốc nếu cần thiết.
+
+Lưu ý: Bệnh nhân có thể gặp các tác dụng phụ như buồn nôn, ốm nghén, hoặc sốt nhẹ sau khi uống thuốc. Nếu tình trạng bệnh không cải thiện hoặc có các triệu chứng nghiêm trọng, bệnh nhân nên liên hệ với bác sĩ ngay lập tức.
+
+BỆNH NHÂN NÊN LÀM GÌ:
+
+- Bệnh nhân nên uống thuốc Vitamin A theo hướng dẫn của bác sĩ.
+
+- Bệnh nhân nên theo dõi chặt chẽ về tình trạng sức khỏe và báo cáo ngay lập tức cho bác sĩ nếu có bất kỳ triệu chứng nào.
+
+- Bệnh nhân nên tránh sử dụng các chất kích thích và hạn chế ăn uống trong quá trình điều trị.
+
+- Bệnh nhân nên tái khám sau 5 ngày để đánh giá hiệu quả của điều trị và điều chỉnh thuốc nếu cần thiết.
+
+BỆNH NHÂN NÊN TRÁNH:
+
+- Bệnh nhân nên tránh sử dụng các thuốc có chứa vitamin A.
+
+- Bệnh nhân nên hạn chế ăn uống trong quá trình điều trị.
+
+- Bệnh nhân nên tránh sử dụng các chất kích thích.
+
+- Bệnh nhân nên theo dõi chặt chẽ về tình trạng sức khỏe và báo cáo ngay lập tức cho bác sĩ nếu có bất kỳ triệu chứng nào.
+
+TÁC DỤNG PHỦ:
+
+- Bệnh nhân có thể gặp các tác dụng phụ như buồn nôn, ốm nghén, hoặc sốt nhẹ sau khi uống thuốc.
+
+- Bệnh nhân nên báo cáo ngay lập tức cho bác sĩ nếu có bất kỳ triệu chứng nào.
+
+- Bệnh nhân nên theo dõi chặt chẽ về tình trạng sức khỏe và sẽ được điều chỉnh thuốc nếu cần thiết.
+
+THUỐC:
+
+- Bệnh nhân sẽ được điều trị bằng thuốc Vitamin A 10.000 IU, 2 lần mỗi ngày trong 5 ngày.
+
+- Bệnh nhân sẽ được theo dõi chặt chẽ về tình trạng sức khỏe và sẽ được điều chỉnh thuốc nếu cần thiết.
+
+KẾT QUẢ XÉT NGHIỆM:
+
+- Bệnh nhân sẽ được đánh giá hiệu quả của điều trị sau 5 ngày.
+
+- Bệnh nhân sẽ được điều chỉnh thuốc nếu cần thiết.
+
+ entities:
+
+[
+  {
+    "text": "Thừa vitamin A",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated": false
+    ]
+  },
+  {
+    "text": "Vitamin A",
+    "type": "THUỐC",
+    "assertions": [
+      "isFamily": false
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated": true
+    ]
+  }
+]

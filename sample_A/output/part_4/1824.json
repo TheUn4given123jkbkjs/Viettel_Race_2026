@@ -1,0 +1,55 @@
+[
+  {
+    "text": "đái tháo đường",
+    "position": [160, 174],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [320, 323],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau hông lưng",
+    "position": [478, 491],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì",
+    "position": [619, 624],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI khung chậu",
+    "position": [857, 871],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thâm nhiễm và phù nề",
+    "position": [890, 910],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh đám rối thắt lưng - cùng",
+    "position": [1017, 1046],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G54.1"]
+  }
+]

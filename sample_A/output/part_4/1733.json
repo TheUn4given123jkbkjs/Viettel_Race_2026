@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Rối loạn thích ứng không xác định",
+    "position": [0, 33],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F43.20"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [290, 307],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [383, 396],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [400, 410],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  }
+]

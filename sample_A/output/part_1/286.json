@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U hắc tố ác lan rông của da",
+    "position": [384, 411],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C43.8"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [433, 441],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [472, 485],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "THA",
+    "position": [204, 207],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

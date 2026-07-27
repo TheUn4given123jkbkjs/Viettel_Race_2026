@@ -1,0 +1,41 @@
+[
+  {
+    "text": "THA",
+    "position": [146, 149],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sốc",
+    "position": [1398, 1401],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "T88.2",
+      "T88.6",
+      "Y63.4"
+    ]
+  },
+  {
+    "text": "QRS",
+    "position": [873, 876],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "EKG",
+    "position": [1423, 1426],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Echocardiogram",
+    "position": [1497, 1511],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

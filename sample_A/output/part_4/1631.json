@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Rối loạn tâm thần",
+    "position": [62, 83],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["F11.5", "F12.8"]
+  },
+  {
+    "text": "THA 5 năm",
+    "position": [1064, 1073],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn tâm thần và hành vi",
+    "position": [198, 230],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

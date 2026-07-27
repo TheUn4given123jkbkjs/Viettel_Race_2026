@@ -1,0 +1,16 @@
+[
+  {
+    "text": "U ác của tụỵ, không đặc hiệu",
+    "position": [284, 312],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C25.9"]
+  },
+  {
+    "text": "THA",
+    "position": [113, 116],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

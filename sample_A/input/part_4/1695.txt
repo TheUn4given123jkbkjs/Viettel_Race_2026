@@ -1,0 +1,53 @@
+Bệnh án lâm sàng:
+
+Tiền sử bệnh:
+- Bệnh nhân nữ, 35 tuổi, có tiền sử THA 5 năm trước
+
+Bệnh sử hiện tại:
+- Bệnh nhân đến khám vì triệu chứng đau đầu, sốt cao và nhức mày trong 3 ngày qua
+- Bệnh nhân phủ nhận buồn nôn và nôn
+
+Đánh giá tại bệnh viện:
+- Bệnh nhân được khám lâm sàng và thực hiện xét nghiệm máu
+- Kết quả xét nghiệm cho thấy bệnh nhân bị viêm tai giữa nung mủ không đặc hiệu
+- Bác sĩ kê đơn thuốc acetaminophen 500mg 3 lần/ngày và ibuprofen 400mg 2 lần/ngày
+
+Đoạn văn trên chứa ít nhất 1 thực thể bị phủ định (isNegated) và 1 thực thể tiền sử (isHistorical)
+
+Thực thể bị phủ định:
+- 'phủ nhận buồn nôn'
+
+Thực thể tiền sử:
+- 'tiền sử THA 5 năm'
+
+Thực thể bị phủ định là 'phủ nhận buồn nôn' vì bệnh nhân phủ nhận triệu chứng buồn nôn và nôn
+Thực thể tiền sử là 'tiền sử THA 5 năm' vì bệnh nhân có tiền sử THA 5 năm trước
+
+entities:
+[
+  {
+    "text": "viêm tai giữa nung mủ không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "acetaminophen",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "ibuprofen",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"]
+  }
+]

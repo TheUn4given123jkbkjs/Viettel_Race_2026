@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Herpes Simplex",
+    "position": [51, 65],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "A60.04",
+      "B00",
+      "A60"
+    ]
+  },
+  {
+    "text": "đau nhức",
+    "position": [111, 119],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn mờ",
+    "position": [124, 131],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [169, 172],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm mống mắt thể mi trong các bệnh nhiễm trùng và ký sinh trùng phân loại nơi khác",
+    "position": [287, 370],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H22.0*"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [397, 406],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [410, 422],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  }
+]

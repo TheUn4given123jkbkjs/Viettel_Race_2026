@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Suy giảm miễn dịch hỗn hợp nặng [SCID] với giảm số lượng lympho T và B",
+    "position": [65, 135],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["D81.1"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [169, 178],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [182, 190],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  }
+]

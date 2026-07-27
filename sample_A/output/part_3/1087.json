@@ -1,0 +1,30 @@
+[
+  {
+    "text": "sốt rét",
+    "position": [107, 114],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [151, 159],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [107, 110],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Thể khác của bệnh phong",
+    "position": [363, 386],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A30.8"]
+  }
+]

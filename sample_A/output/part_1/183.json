@@ -1,0 +1,58 @@
+[
+  {
+    "text": "bệnh trầm cảm",
+    "position": [267, 280],
+    "type": "KỆT_QUẢ_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Risperidone",
+    "position": [1007, 1018],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["35636"]
+  },
+  {
+    "text": "bệnh trầm cảm",
+    "position": [267, 280],
+    "type": "KỆT_QUẢ_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [826, 832],
+    "type": "CHUYÊN_GIA",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "liệu pháp tâm lý",
+    "position": [649, 665],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh trầm cảm",
+    "position": [267, 280],
+    "type": "KỆT_QUẢ_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Risperidone",
+    "position": [1007, 1018],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["35636"]
+  },
+  {
+    "text": "bác sĩ",
+    "position": [826, 832],
+    "type": "CHUYÊN_GIA",
+    "assertions": [],
+    "candidates": []
+  }
+]

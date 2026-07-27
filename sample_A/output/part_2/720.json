@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Lõm mắt",
+    "position": [67, 74],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H05.4"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [528, 545],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "uống đủ nước",
+    "position": [431, 443],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ăn nhiều trái cây và rau xanh",
+    "position": [445, 474],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn màn hình quá lâu",
+    "position": [486, 507],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Xét nghiệm máu toàn diện",
+    "position": [635, 659],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [347, 350],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu toàn diện",
+    "position": [685, 715],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "chức năng gan",
+    "position": [730, 743],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm chức năng gan và mật toàn diện",
+    "position": [752, 793],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "chức năng mật",
+    "position": [2479, 2492],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
+  }
+]

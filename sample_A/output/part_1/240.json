@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U lành mô liên kết và mô mềm khác của chi trên bao gồm vai",
+    "position": [308, 366],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["D21.1"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [253, 260],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [274, 285],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Troponin",
+    "position": [394, 402],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

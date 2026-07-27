@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Hội chứng nhược cơ trong bệnh nội tiết",
+    "position": [0, 38],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G73.0*"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [1237, 1245],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1333, 1346],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["161"]
+  },
+  {
+    "text": "tiểu đường",
+    "position": [203, 213],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

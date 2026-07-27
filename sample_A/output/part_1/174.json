@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Bordetella pertussis",
+    "position": [70, 90],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": ["A37.0"]
+  },
+  {
+    "text": "ho gà",
+    "position": [61, 66],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "THA",
+    "position": [330, 333],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "5",
+    "position": [334, 335],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

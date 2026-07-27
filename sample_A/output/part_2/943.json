@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Ethambutol / Isoniazid",
+    "position": [157, 179],
+    "type": "THUỐC",
+    "assertions": [
+      {
+        "isHistorical": true
+      }
+    ],
+    "candidates": ["821005", "814321"]
+  },
+  {
+    "text": "bệnh lao",
+    "position": [83, 91],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó chịu",
+    "position": [783, 791],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [771, 779],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [
+      {
+        "isNegated": true
+      }
+    ],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [500, 507],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [212, 221],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

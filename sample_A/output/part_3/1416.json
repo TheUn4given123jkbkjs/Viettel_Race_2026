@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Thiếu máu nguyên hồng cầu sắt thứ phát do bệnh lý",
+    "position": [415, 464],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["D64.1"]
+  },
+  {
+    "text": "aspirin",
+    "position": [315, 322],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

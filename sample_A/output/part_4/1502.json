@@ -1,0 +1,62 @@
+[
+  {
+    "text": "sốt cao",
+    "position": [346, 353],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [560, 562],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [572, 580],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "nhuộm Gram",
+    "position": [928, 938],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trực khuẩn hình kim ghim âm tính",
+    "position": [944, 976],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dịch hạch",
+    "position": [1000, 1009],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A20.81",
+      "A20.82",
+      "A20.83"
+    ]
+  },
+  {
+    "text": "Gentamicin",
+    "position": [1087, 1097],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1596450"]
+  },
+  {
+    "text": "Doxycycline",
+    "position": [1126, 1137],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3640"]
+  }
+]

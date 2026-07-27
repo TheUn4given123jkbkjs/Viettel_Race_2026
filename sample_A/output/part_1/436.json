@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Bệnh mi mắt trong các bệnh phân loại nơi khác",
+    "position": [5, 50],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "H03",
+      "H03*",
+      "H03.0*"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [528, 541],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [550, 562],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  }
+]

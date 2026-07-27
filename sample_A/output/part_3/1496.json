@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Rối loạn về sự trưởng thành tình dục",
+    "position": [0, 36],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F66.0"]
+  },
+  {
+    "text": "chậm trưởng thành",
+    "position": [388, 405],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không có kinh nguyệt",
+    "position": [407, 427],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [577, 587],
+    "type": "ĐIỀU_TRỊ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [678, 687],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử mắc bệnh tiểu đường loại 2 trong 10 năm qua",
+    "position": [852, 903],
+    "type": "TİEN_SU_BENH",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

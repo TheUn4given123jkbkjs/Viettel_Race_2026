@@ -1,0 +1,58 @@
+[
+  {
+    "text": "thoái hóa mống mắt và thể mi",
+    "position": [688, 716],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["H21.2"]
+  },
+  {
+    "text": "acetaminophen",
+    "position": [487, 500],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "metoclopramide",
+    "position": [509, 523],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6915"]
+  },
+  {
+    "text": "cimetidine",
+    "position": [532, 542],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2541"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [404, 412],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [378, 381],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [419, 426],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [430, 437],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

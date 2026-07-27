@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Rối loạn tâm thần và hành vi do sử dụng dung môi dễ bay hơi (Trạng thái cai với mê sảng)",
+    "position": [290, 379],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F18.4"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [414, 427],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Atropine",
+    "position": [431, 439],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1223"]
+  }
+]

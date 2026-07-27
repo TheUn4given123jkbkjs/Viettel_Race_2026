@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Rối loạn ám ảnh nghi thức, không biệt định",
+    "position": [0, 42],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F42.9"]
+  },
+  {
+    "text": "ám ảnh",
+    "position": [9, 15],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lo lắng",
+    "position": [198, 205],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kiểm soát",
+    "position": [493, 502],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phương pháp điều trị",
+    "position": [894, 914],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "liệu pháp tâm lý",
+    "position": [919, 935],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "liệu pháp hành vi",
+    "position": [937, 954],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "liệu pháp nhóm",
+    "position": [961, 975],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Viêm động mạch chủ do giang mai",
+    "position": [195, 226],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A52.02"]
+  },
+  {
+    "text": "đau ngực",
+    "position": [137, 145],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [154, 161],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [72, 85],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
+  },
+  {
+    "text": "chẩn đoán hình ảnh",
+    "position": [167, 185],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

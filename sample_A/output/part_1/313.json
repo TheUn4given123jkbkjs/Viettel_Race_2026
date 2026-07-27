@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Dextran 40",
+    "position": [642, 652],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3272"]
+  },
+  {
+    "text": "metformin",
+    "position": [352, 361],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "hội chứng tiểu đường",
+    "position": [286, 306],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [427, 440],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
+  },
+  {
+    "text": "insulin",
+    "position": [788, 795],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["253182", "317235"]
+  }
+]

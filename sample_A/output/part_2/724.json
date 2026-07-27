@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Di chứng của bệnh viêm hệ thần kinh trung ương",
+    "position": [858, 904],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["G09"]
+  },
+  {
+    "text": "Bệnh tim mạch",
+    "position": [156, 169],
+    "type": "BỆNH_MÃN_TỨC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh tiểu đường",
+    "position": [173, 188],
+    "type": "BỆNH_MÃN_TỨC",
+    "assertions": [],
+    "candidates": []
+  }
+]

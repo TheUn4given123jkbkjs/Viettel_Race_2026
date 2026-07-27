@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Ung thư biểu mô tại chỗ của khoang miệng, thực quản và dạ dày",
+    "position": [517, 578],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D00"]
+  },
+  {
+    "text": "THA",
+    "position": [314, 317],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

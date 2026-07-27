@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Primaquine",
+    "position": [132, 142],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8687"]
+  },
+  {
+    "text": "sốt rét",
+    "position": [163, 170],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [264, 275],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "aspirin",
+    "position": [279, 286],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "troponin",
+    "position": [420, 428],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

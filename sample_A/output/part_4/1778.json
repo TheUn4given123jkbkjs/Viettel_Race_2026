@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Nhiễm trùng đường ruột do virus và tác nhân xác định khác",
+    "position": [373, 430],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A08"]
+  },
+  {
+    "text": "THA",
+    "position": [104, 107],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sốt reumatoit",
+    "position": [144, 157],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [144, 147],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [285, 293],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

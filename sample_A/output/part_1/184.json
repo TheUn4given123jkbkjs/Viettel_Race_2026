@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh do acanthamoeba",
+    "position": [51, 71],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B60.1"]
+  },
+  {
+    "text": "vi khuẩn Acanthamoeba",
+    "position": [139, 160],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh do acanthamoeba",
+    "position": [51, 71],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B60.1"]
+  }
+]

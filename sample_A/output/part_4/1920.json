@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Isoniazid / Pyrazinamide / Rifampin",
+    "position": [565, 600],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["214662"]
+  },
+  {
+    "text": "Mycobacterium tuberculosis",
+    "position": [152, 178],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh lao phổi",
+    "position": [317, 330],
+    "type": "TÊN_BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho kéo dài",
+    "position": [339, 349],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [351, 354],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

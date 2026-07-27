@@ -1,0 +1,44 @@
+[
+  {
+    "text": "U mềm lây",
+    "position": [0, 9],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B08.1", "B08.1†"]
+  },
+  {
+    "text": "mụn",
+    "position": [234, 237],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bao cao su",
+    "position": [810, 820],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương vật",
+    "position": [269, 278],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm đạo",
+    "position": [280, 286],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vùng hậu môn",
+    "position": [292, 304],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

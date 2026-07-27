@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh lý cơ tim do bạch hầu, Viêm cơ tim do bạch hầu",
+    "position": [347, 398],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A36.81"]
+  },
+  {
+    "text": "khó thở",
+    "position": [49, 56],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [58, 65],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [69, 77],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [411, 428],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [430, 439],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

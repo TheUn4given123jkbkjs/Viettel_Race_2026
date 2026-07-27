@@ -1,0 +1,31 @@
+[
+  {
+    "text": "Tetanus vaccine",
+    "position": [82, 97],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "834765",
+      "309949",
+      "758475"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [392, 400],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["R11"]
+  },
+  {
+    "text": "sốt",
+    "position": [402, 405],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
+  }
+]

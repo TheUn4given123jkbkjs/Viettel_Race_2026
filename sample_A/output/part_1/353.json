@@ -1,0 +1,34 @@
+[
+  {
+    "text": "U tân sinh",
+    "position": [269, 279],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "D47",
+      "D47.7",
+      "D47.9"
+    ]
+  },
+  {
+    "text": "Tuyến giáp",
+    "position": [326, 336],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [187, 194],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [220, 231],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

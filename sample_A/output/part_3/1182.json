@@ -1,0 +1,37 @@
+[
+  {
+    "text": "giun đũa",
+    "position": [108, 116],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ivermectin",
+    "position": [48, 58],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6069"]
+  },
+  {
+    "text": "giun đũa",
+    "position": [108, 116],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sán lá rễ",
+    "position": [532, 541],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh",
+    "position": [488, 492],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

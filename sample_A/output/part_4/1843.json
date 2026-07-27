@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm xương chũm và tình trạng liên quan",
+    "position": [289, 328],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H70", "H70.8"]
+  },
+  {
+    "text": "Aspirin ************",
+    "position": [349, 369],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone ************",
+    "position": [385, 409],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [425, 435],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [451, 460],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Tiền sử THA 5 năm",
+    "position": [194, 211],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Troponin tăng cao",
+    "position": [259, 276],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

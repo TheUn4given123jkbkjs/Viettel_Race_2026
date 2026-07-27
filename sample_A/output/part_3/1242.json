@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Sốt phát ban dạng đốm do Rickettsia conoril",
+    "position": [0, 43],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A77.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [437, 450],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Doxycycline",
+    "position": [456, 467],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3640"]
+  }
+]

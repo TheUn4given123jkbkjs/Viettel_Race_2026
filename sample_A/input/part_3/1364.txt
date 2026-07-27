@@ -1,0 +1,19 @@
+Bệnh án lâm sàng 
+[Ngày], [Tên bác sĩ] 
+[Date] 
+[Ngày] 
+Lâm sàng: 
+ - Bệnh nền: 
+  * HIV 
+ - Bệnh sử hiện tại: 
+  * Phủ nhận buồn nôn 
+  * Không sốt 
+ - Đánh giá tại bệnh viện: 
+  * Chẩn đoán bệnh: CHẨN_ĐOÁN 
+  * Đơn thuốc điều trị nội khoa: THUỐC 
+ [Tên thuốc] (1000mg, 2 lần/ngày) 
+ [Tên thuốc 2] (500mg, 3 lần/ngày) 
+Yêu cầu: 
+ - Truyền [Tên thuốc] (1000mg, 2 lần/ngày) 
+ - Truyền [Tên thuốc 2] (500mg, 3 lần/ngày) 
+ - Theo dõi huyết áp, nhiệt độ cơ thể, và tình trạng hạch toàn thể

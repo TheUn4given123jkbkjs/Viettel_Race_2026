@@ -1,0 +1,45 @@
+[
+  {
+    "text": "Poliovirus Vaccine",
+    "position": [184, 202],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "834765",
+      "8471",
+      "2368450"
+    ]
+  },
+  {
+    "text": "Đái tháo đường tuýp 2",
+    "position": [117, 138],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh tim mạch",
+    "position": [141, 154],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
+  },
+  {
+    "text": "Insulin",
+    "position": [439, 446],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["253182", "317235"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [534, 541],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

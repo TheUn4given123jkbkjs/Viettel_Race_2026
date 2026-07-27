@@ -1,0 +1,48 @@
+[
+  {
+    "text": "bệnh Malleomyces pseudomallei",
+    "position": [27, 56],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "A24",
+      "A24.1",
+      "A24.2"
+    ]
+  },
+  {
+    "text": "bệnh Malleomyces mallei",
+    "position": [552, 575],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A24", "A24.0"]
+  },
+  {
+    "text": "sốt cao",
+    "position": [354, 361],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu dữ dội",
+    "position": [363, 377],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn và nôn mửa",
+    "position": [379, 398],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "position": [277, 291],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

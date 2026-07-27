@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Viêm não virus không xác định",
+    "position": [78, 107],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A86"]
+  },
+  {
+    "text": "THA",
+    "position": [168, 171],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

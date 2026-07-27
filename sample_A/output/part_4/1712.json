@@ -1,0 +1,58 @@
+[
+  {
+    "text": "sốt vùng West Nile không viêm não",
+    "position": [470, 503],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A92.30"]
+  },
+  {
+    "text": "sốt vùng West Nile NOS",
+    "position": [805, 827],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A92.30"]
+  },
+  {
+    "text": "troponin",
+    "position": [548, 556],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatine kinase",
+    "position": [605, 620],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspartate aminotransferase",
+    "position": [669, 695],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "alanine aminotransferase",
+    "position": [744, 768],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [859, 870],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "aspirin",
+    "position": [902, 909],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

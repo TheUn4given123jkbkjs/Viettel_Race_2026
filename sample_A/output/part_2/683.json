@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Viêm não",
+    "position": [634, 642],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.13",
+      "A52.14",
+      "A54.81"
+    ]
+  },
+  {
+    "text": "Abacavir",
+    "position": [694, 702],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [734, 747],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

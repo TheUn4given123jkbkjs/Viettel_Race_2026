@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Lạm dụng chất gây ảo giác có ngộ độc",
+    "position": [757, 793],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F16.12"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [516, 523],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [527, 538],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

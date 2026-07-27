@@ -1,0 +1,30 @@
+[
+  {
+    "text": "BỆNH DO Erysipelothrix rhusiopathiae (viêm quầng)",
+    "position": [327, 376],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["A26"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [426, 439],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [512, 523],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [300, 308],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["R11"]
+  }
+]

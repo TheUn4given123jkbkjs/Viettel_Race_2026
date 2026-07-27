@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U lành mô liên kết và mô mềm khác của đầu, mặt và cổ",
+    "position": [0, 52],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D21.0"]
+  },
+  {
+    "text": "Tetracycline",
+    "position": [517, 529],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10395"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [615, 628],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [698, 710],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  }
+]

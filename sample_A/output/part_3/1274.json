@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Iohexol",
+    "position": [902, 909],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["5956"]
+  },
+  {
+    "text": "Thuốc ức chế bơm proton",
+    "position": [715, 738],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

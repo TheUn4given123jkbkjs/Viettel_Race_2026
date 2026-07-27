@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Suy đa tuyến tự miễn",
+    "position": [10, 30],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E31.0"]
+  },
+  {
+    "text": "Hydrocortisone",
+    "position": [1152, 1166],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5492", "27197"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1184, 1196],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Azathioprine",
+    "position": [1215, 1227],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1256"]
+  },
+  {
+    "text": "Cyclophosphamide",
+    "position": [1242, 1258],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3002"]
+  },
+  {
+    "text": "Prednisone",
+    "position": [1199, 1209],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Imuran",
+    "position": [1230, 1236],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cytoxan",
+    "position": [1261, 1268],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "né tránh giao tiếp xã hội",
+    "position": [99, 124],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sợ hãi",
+    "position": [126, 132],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn khác ở trẻ em về hoạt động xã hội",
+    "position": [238, 280],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F94.8"]
+  },
+  {
+    "text": "Risperidone",
+    "position": [304, 315],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35636"]
+  },
+  {
+    "text": "Fluoxetine",
+    "position": [334, 344],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4493"]
+  }
+]

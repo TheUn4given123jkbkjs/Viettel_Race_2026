@@ -1,0 +1,52 @@
+BỆNH ÁN LÂM SÀNG
+
+Ngày: [Ngày]
+Tên bác sĩ: [Tên bác sĩ]
+
+BỆNH NÊN
+
+Bệnh nhân nam, 32 tuổi, đến khám tại bệnh viện vào ngày [Date] với triệu chứng đau ngực, khó thở và nhịp tim nhanh. Bệnh nhân có tiền sử sử dụng thuốc Rabies Vaccine trong 2 tháng trước đó.
+
+ĐIỂN BIẾN BỆNH
+
+Sau khi khám, bác sĩ phát hiện bệnh nhân có dấu hiệu tăng troponin trong máu và suy tim. Bệnh nhân được chuyển đến khoa tim mạch để tiếp tục điều trị.
+
+Y LỆNH ĐIỀU TRỊ
+
+Bác sĩ chỉ định bệnh nhân dùng thuốc aspirin 100mg mỗi ngày và ceftriaxone 1 gram mỗi ngày để điều trị tình trạng suy tim và nhiễm trùng. Bệnh nhân cũng được chỉ định làm xét nghiệm để kiểm tra tình trạng tim mạch.
+
+Tuy nhiên, bệnh nhân phủ nhận buồn nôn và chủ quan sốt. Bác sĩ sẽ tiếp tục theo dõi tình trạng sức khỏe của bệnh nhân và điều chỉnh y lệnh điều trị khi cần thiết.
+
+Kết quả xét nghiệm troponin tăng cao, chứng tỏ bệnh nhân có dấu hiệu suy tim nặng. Bác sĩ sẽ tiếp tục điều trị và theo dõi tình trạng sức khỏe của bệnh nhân.
+
+entities:
+[{
+  "text": "Rabies Vaccine",
+  "type": "THUỐC",
+  "assertions": ["isHistorical"]
+},
+{
+  "text": "aspirin",
+  "type": "THUỐC",
+  "assertions": []
+},
+{
+  "text": "ceftriaxone",
+  "type": "THUỐC",
+  "assertions": []
+},
+{
+  "text": "troponin",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+},
+{
+  "text": "suy tim",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+},
+{
+  "text": "bệnh nhân",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+}]

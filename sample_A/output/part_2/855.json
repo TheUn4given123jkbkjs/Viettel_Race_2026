@@ -1,0 +1,59 @@
+[
+  {
+    "text": "viêm kết mạc",
+    "position": [269, 281],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "A54.31",
+      "A39.85",
+      "A18.59"
+    ]
+  },
+  {
+    "text": "mắt đỏ",
+    "position": [453, 459],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cộm xốn",
+    "position": [470, 477],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy nước mắt",
+    "position": [528, 541],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh mắt hột",
+    "position": [902, 914],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A71",
+      "A71.0",
+      "A71.9"
+    ]
+  },
+  {
+    "text": "Azithromycin",
+    "position": [1105, 1117],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "Tetracycline",
+    "position": [1204, 1216],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10395"]
+  }
+]

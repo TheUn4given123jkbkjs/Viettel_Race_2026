@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Vinblastine",
+    "position": [64, 75],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11198"]
+  },
+  {
+    "text": "ung thư",
+    "position": [136, 143],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M36.1*",
+      "M36.10*",
+      "M36.11*"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [207, 215],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [349, 355],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "người có tiền sử bệnh tiêu hóa",
+    "position": [292, 322],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

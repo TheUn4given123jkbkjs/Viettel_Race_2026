@@ -1,0 +1,41 @@
+[
+  {
+    "text": "suy nhược cơ thể",
+    "position": [71, 87],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [89, 96],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn",
+    "position": [98, 105],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng cân không kiểm soát",
+    "position": [109, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phổi tắc nghẽn mãn tính",
+    "position": [298, 321],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J44",
+      "J44.0",
+      "J44.1"
+    ]
+  }
+]

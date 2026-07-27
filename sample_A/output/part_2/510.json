@@ -1,0 +1,23 @@
+[
+  {
+    "text": "teo tuyến giáp (mắc phải)",
+    "position": [165, 190],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E03.4"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [323, 336],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [340, 352],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "giảm gammaglobulin máu di truyền",
+    "position": [160, 192],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D80.0"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [231, 244],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [269, 277],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  }
+]

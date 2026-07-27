@@ -1,0 +1,45 @@
+[
+  {
+    "text": "Vinblastine",
+    "position": [790, 801],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11198"]
+  },
+  {
+    "text": "ung thư vú",
+    "position": [120, 130],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
+  },
+  {
+    "text": "ho ra máu",
+    "position": [412, 421],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy dinh dưỡng",
+    "position": [439, 453],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E12.9",
+      "E41",
+      "E43"
+    ]
+  },
+  {
+    "text": "ung thư phổi",
+    "position": [556, 568],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D02.2"]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Ethambutol / Isoniazid / Rifampin",
+    "position": [111, 144],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["814321"]
+  },
+  {
+    "text": "lao phổi",
+    "position": [48, 56],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [828, 840],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm huyết học",
+    "position": [842, 862],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng gan",
+    "position": [866, 890],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

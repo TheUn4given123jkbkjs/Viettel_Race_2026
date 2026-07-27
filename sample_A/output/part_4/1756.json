@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm mí mắtViêm kết giác mạc, viêm củng mạc do Zoster",
+    "position": [0, 53],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["B02.35"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [885, 894],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [992, 1004],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Tiền sử THA 5 năm",
+    "position": [1204, 1221],
+    "type": "IS_HISTORICAL",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử bệnh tim mạch",
+    "position": [1225, 1246],
+    "type": "IS_HISTORICAL",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử bệnh thần kinh",
+    "position": [1250, 1272],
+    "type": "IS_HISTORICAL",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

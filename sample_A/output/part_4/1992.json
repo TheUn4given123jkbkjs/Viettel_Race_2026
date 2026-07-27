@@ -1,0 +1,23 @@
+[
+  {
+    "text": "U lympho dạng nang độ II",
+    "position": [187, 211],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C82.1"]
+  },
+  {
+    "text": "Acenocoumarol",
+    "position": [351, 364],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["154"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [368, 375],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

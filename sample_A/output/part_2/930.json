@@ -1,0 +1,37 @@
+[
+  {
+    "text": "u tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của thần kinh ngoại biên và hệ thần kinh tự động",
+    "position": [69, 189],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["D48.2"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [292, 300],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [318, 321],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [218, 228],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [234, 251],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

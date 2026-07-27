@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Tranexamic acid",
+    "position": [129, 144],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10691"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [165, 182],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [235, 242],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

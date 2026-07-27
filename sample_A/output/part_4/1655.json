@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Rối loạn tâm thần và hành vi do sử dụng thuốc lá (Rối loạn tâm thần và hành vi không biệt định)",
+    "position": [0, 98],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F17.9"]
+  },
+  {
+    "text": "lo âu",
+    "position": [190, 195],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trầm cảm",
+    "position": [197, 205],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hành vi bất thường",
+    "position": [212, 230],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó ngủ",
+    "position": [820, 827],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

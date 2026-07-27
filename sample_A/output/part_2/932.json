@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm mũi do giang mai bẩm sinh sớm",
+    "position": [11, 45],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": ["A50.05"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [592, 605],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [609, 622],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [700, 711],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [715, 726],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Cough syrup",
+    "position": [850, 861],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Decongestant",
+    "position": [865, 877],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

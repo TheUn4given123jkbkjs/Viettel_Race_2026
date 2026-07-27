@@ -1,0 +1,23 @@
+[
+  {
+    "text": "U ác của dây thần kinh ngoại biên của chi dưới, bao gồm háng",
+    "position": [63, 123],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C47.2"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [736, 749],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Gabapentin",
+    "position": [753, 763],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

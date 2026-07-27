@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Argyrol",
+    "position": [44, 51],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2711625"]
+  },
+  {
+    "text": "viêm mũi",
+    "position": [91, 99],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [101, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [105, 108],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêm kháng sinh",
+    "position": [127, 142],
+    "type": "ĐIỀU_TRỊ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "uống thuốc giảm đau",
+    "position": [144, 163],
+    "type": "ĐIỀU_TRỊ",
+    "assertions": [],
+    "candidates": []
+  }
+]

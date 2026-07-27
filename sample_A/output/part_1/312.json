@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Dactinomycin",
+    "position": [81, 93],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3100"]
+  },
+  {
+    "text": "ung thư",
+    "position": [131, 138],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [166, 178],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [182, 196],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng máu",
+    "position": [415, 430],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [491, 502],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "aspirin",
+    "position": [506, 513],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "troponin",
+    "position": [576, 584],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

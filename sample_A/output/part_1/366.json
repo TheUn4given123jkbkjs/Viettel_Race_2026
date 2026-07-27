@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Ethambutol",
+    "position": [154, 164],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "821005",
+      "814321",
+      "4110"
+    ]
+  },
+  {
+    "text": "bệnh lao",
+    "position": [120, 128],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh lao",
+    "position": [120, 128],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A18.16",
+      "Z86.11",
+      "A17.84"
+    ]
+  },
+  {
+    "text": "leukocyte",
+    "position": [320, 329],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc Ethambutol",
+    "position": [148, 164],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [594, 604],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh lao",
+    "position": [120, 128],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

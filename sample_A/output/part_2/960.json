@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Các thiếu máu khác",
+    "position": [297, 315],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D63.8",
+      "Z82.4",
+      "P61.4"
+    ]
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [205, 217],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [219, 236],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh do amíp, không xác định",
+    "position": [688, 716],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["A06.9"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [435, 442],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [745, 756],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

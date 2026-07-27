@@ -1,0 +1,39 @@
+Bệnh nhân nữ, 32 tuổi, đến khám. 
+Tiền sử bệnh nội khoa: 
+1. Không có tiền sử bệnh tim mạch.
+2. Không có tiền sử bệnh đường tiêu hóa.
+3. Không có tiền sử bệnh hô hấp.
+
+Hỏi: Tôi có bị viêm phổi không?
+Đáp: Tôi không biết.
+
+Ghi chú bệnh án:
+1. Tiền sử bệnh nội khoa: Không có bệnh tim mạch, không có bệnh đường tiêu hóa, không có bệnh hô hấp.
+2. Tiền sử bệnh hiện tại: Không có bệnh nào.
+3. Đánh giá tại bệnh viện: Bác sĩ sẽ kiểm tra sức khỏe và yêu cầu xét nghiệm.
+
+Sơ khám: 
+- Tình trạng chung: Bệnh nhân có biểu hiện sốt nhẹ.
+- Tình trạng tim mạch: Không có dấu hiệu bất thường.
+- Tình trạng đường tiêu hóa: Không có dấu hiệu bất thường.
+- Tình trạng hô hấp: Bệnh nhân có biểu hiện ho nhẹ.
+
+Cận lâm sàng: 
+- Xét nghiệm máu: 
+  - Xét nghiệm Hb: 120 g/L (tham chiếu: 130-160 g/L).
+  - Xét nghiệm WBC: 8.000 cells/μL (tham chiếu: 4.500-11.000 cells/μL).
+- Xét nghiệm nước tiểu: 
+  - Xét nghiệm Protein: 1 g/L (tham chiếu: 0-150 mg/L).
+  - Xét nghiệm Blood: 0 g/L (tham chiếu: 0-5 g/L).
+
+Lỗi gõ: Cháu có bị viêm phổi không?
+
+Trích xuất: 
+- 'Không có bệnh tim mạch' (TRIỆU_CHỨNG).
+- 'Viêm phổi' (TRIỆU_CHỨNG).
+- 'Xét nghiệm Hb' (TÊN_XÉT_NGHIỆM).
+- 'Kết quả xét nghiệm Hb' (KẾT_QUẢ_XÉT_NGHIỆM).
+- 'Sốt nhẹ' (TRIỆU_CHỨNG).
+- 'Ho nhẹ' (TRIỆU_CHỨNG).
+- 'Không có bệnh đường tiêu hóa' (TRIỆU_CHỨNG).
+- 'Không có bệnh hô hấp' (TRIỆU_CHỨNG).

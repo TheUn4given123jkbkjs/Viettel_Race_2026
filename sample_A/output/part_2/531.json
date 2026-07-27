@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Liệt một chi, không đặc hiệu",
+    "position": [302, 330],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["G83.3"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [192, 209],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [213, 216],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "bệnh lý về đường hô hấp trên",
+    "position": [732, 760],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [794, 801],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [821, 831],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Losartan",
+    "position": [849, 857],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "E",
+    "position": [277, 278],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

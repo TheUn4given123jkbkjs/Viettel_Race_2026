@@ -1,0 +1,23 @@
+[
+  {
+    "text": "biến dạng của hốc mắt",
+    "position": [61, 82],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H05.3"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [149, 166],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [224, 234],
+    "type": "ĐIỀU_TRỊ",
+    "assertions": [],
+    "candidates": []
+  }
+]

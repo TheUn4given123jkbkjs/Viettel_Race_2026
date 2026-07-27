@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Nhiễm xoắn khuẩn xác định khác",
+    "position": [566, 596],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A69.8"]
+  },
+  {
+    "text": "Acetaminophen (thuốc ************, liều ************)",
+    "position": [623, 676],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atorvastatin (thuốc ************, liều ************)",
+    "position": [680, 732],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

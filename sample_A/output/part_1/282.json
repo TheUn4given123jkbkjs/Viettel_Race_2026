@@ -1,0 +1,34 @@
+[
+  {
+    "text": "suy thận",
+    "position": [69, 77],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E89.6",
+      "I12.0",
+      "I12.9"
+    ]
+  },
+  {
+    "text": "Acetate hemodialysis solution",
+    "position": [99, 128],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["226504"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [183, 191],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [202, 211],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

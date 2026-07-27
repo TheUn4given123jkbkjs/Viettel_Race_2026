@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U tương bào ngoài tủy",
+    "position": [61, 82],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C90.2"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [227, 237],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [297, 300],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [305, 313],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

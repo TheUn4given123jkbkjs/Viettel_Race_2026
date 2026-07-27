@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Thủng rìa màng nhĩ khác thủng màng nhĩ sát xương khác",
+    "position": [693, 746],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H72.2"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [383, 400],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [811, 818],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [404, 416],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "viêm tai giữa",
+    "position": [173, 186],
+    "type": "BỆNH",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

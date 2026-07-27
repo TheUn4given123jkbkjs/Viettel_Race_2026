@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Parkinson",
+    "position": [127, 136],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "A52.19",
+      "G21.1",
+      "G21.2"
+    ]
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [176, 183],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [203, 211],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "run tay",
+    "position": [236, 243],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng cơ khu trú",
+    "position": [247, 262],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh thoái hóa xác định khác của hệ thần kinh trong bệnh phân loại nơi khác",
+    "position": [284, 359],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G32.8*"]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "bệnh mi mắt không đặc hiệu",
+    "position": [240, 266],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["H02.9", "H21.9"]
+  },
+  {
+    "text": "aspirin",
+    "position": [140, 147],
+    "type": "",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [348, 356],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [360, 371],
+    "type": "",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [388, 405],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [105, 118],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

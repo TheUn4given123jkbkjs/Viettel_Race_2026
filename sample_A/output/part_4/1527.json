@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Atazanavir",
+    "position": [817, 827],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["343047"]
+  },
+  {
+    "text": "aspirin",
+    "position": [617, 624],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [643, 654],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "táo bón",
+    "position": [282, 289],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K59.0"]
+  },
+  {
+    "text": "cấp tính",
+    "position": [423, 431],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F43.11",
+      "H04.3",
+      "G36"
+    ]
+  },
+  {
+    "text": "xơ vữa động mạch",
+    "position": [435, 451],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.2",
+      "I70",
+      "I70.0"
+    ]
+  },
+  {
+    "text": "bệnh đại trực tràng",
+    "position": [533, 552],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

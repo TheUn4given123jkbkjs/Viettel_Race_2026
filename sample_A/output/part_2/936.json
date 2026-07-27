@@ -1,0 +1,16 @@
+[
+  {
+    "text": "U ác của hầu thanh quản",
+    "position": [0, 23],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["C14.2"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [411, 424],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

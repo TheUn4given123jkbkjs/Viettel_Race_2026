@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm dây thần kinh do quai bị",
+    "position": [302, 331],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B26.83"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [393, 406],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [416, 423],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "[Tên bệnh nhân]",
+    "position": [12, 27],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "[Tên bác sĩ]",
+    "position": [260, 272],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "[Tên bệnh viện]",
+    "position": [43, 58],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

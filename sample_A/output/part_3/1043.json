@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Tiền sử THA 5 năm",
+    "position": [34, 51],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Các thể loại đái tháo đường không xác định (Chưa có biến chứng)",
+    "position": [905, 968],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E14.9"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [746, 754],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Metformin",
+    "position": [836, 845],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  }
+]

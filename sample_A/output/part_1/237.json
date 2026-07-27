@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Suy buồng trứng sau phẩu thuật có triệu chứng, với các triệu chứng như nóng mặt, mất ngũ, nhức đầu, thiếu tập trung",
+    "position": [2516, 2631],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E89.41"]
+  },
+  {
+    "text": "Ethinylestradiol",
+    "position": [2667, 2683],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4124", "214558"]
+  },
+  {
+    "text": "Medroxyprogesterone",
+    "position": [2726, 2745],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2647996", "6691"]
+  },
+  {
+    "text": "ung thư vú",
+    "position": [1506, 1516],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
+  },
+  {
+    "text": "nóng mặt",
+    "position": [355, 363],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngũ",
+    "position": [431, 438],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhức đầu",
+    "position": [524, 532],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu tập trung",
+    "position": [1924, 1939],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

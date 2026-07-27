@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U ác của cơ quan sinh dục nữ không đặc hiệu",
+    "position": [174, 217],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C57.9"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [243, 260],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Troponin",
+    "position": [588, 596],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [366, 369],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

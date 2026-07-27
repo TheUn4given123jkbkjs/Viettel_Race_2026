@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Ketoconazole",
+    "position": [802, 814],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6135"]
+  },
+  {
+    "text": "aspirin",
+    "position": [666, 673],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceft",
+    "position": [675, 679],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [577, 585],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [320, 328],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["R11"]
+  },
+  {
+    "text": "đau ngực",
+    "position": [267, 275],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I20",
+      "I20.0",
+      "I20.1"
+    ]
+  },
+  {
+    "text": "phổi",
+    "position": [1214, 1218],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [1187, 1197],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

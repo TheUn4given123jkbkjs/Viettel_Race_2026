@@ -1,0 +1,56 @@
+Bệnh án lâm sàng của [Tên bệnh nhân] được ghi nhận vào [Ngày].
+
+BỆNH NÊN:
+* Bệnh nhân được chẩn đoán mắc bệnh tim mạch và đang điều trị với aspirin.
+
+BỆNH SỬ:
+* Bệnh nhân được chuyển đến bệnh viện vào ngày [Date] sau khi được chẩn đoán mắc bệnh mi mắt không đặc hiệu.
+* Bệnh nhân đã trải qua các xét nghiệm và kiểm tra lâm sàng, bao gồm xét nghiệm troponin và ceftriaxone.
+* Bệnh nhân đã phủ nhận buồn nôn và không sốt.
+
+ĐÁNH GIÁ TẠI BỆNH VIỆN:
+* Bệnh nhân được chẩn đoán mắc bệnh mi mắt không đặc hiệu nhưng không cần kê đơn thuốc.
+* Bác sĩ [Tên bác sĩ] đã chỉ định phẫu thuật và theo dõi lối sống cho bệnh nhân.
+* Bệnh nhân sẽ được theo dõi chặt chẽ và kiểm tra lâm sàng định kỳ để ngăn ngừa các biến chứng.
+
+CÁC XÉT NGHIỆM:
+* Xét nghiệm troponin: 1,23 ng/ml
+* Xét nghiệm ceftriaxone: âm tính
+
+KẾT LUẬN:
+* Bệnh nhân được chẩn đoán mắc bệnh mi mắt không đặc hiệu và không cần kê đơn thuốc.
+* Bác sĩ [Tên bác sĩ] đã chỉ định phẫu thuật và theo dõi lối sống cho bệnh nhân.
+
+ENTITY:
+[
+  {
+    "text": "bệnh mi mắt không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "aspirin",
+    "type": "THUỐC",
+    "assertions": [""] # Khong trich xuât thuoc
+  },
+  {
+    "text": "troponin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "ceftriaxone",
+    "type": "THUỐC",
+    "assertions": [""] # Khong trich xuât thuoc
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "bệnh tim mạch",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  }
+]

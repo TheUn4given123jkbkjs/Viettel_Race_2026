@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Promethazine",
+    "position": [271, 283],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8745"]
+  },
+  {
+    "text": "hen suyễn",
+    "position": [156, 165],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "corticosteroid",
+    "position": [194, 208],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [79, 88],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhầm lẫn",
+    "position": [90, 98],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Bệnh virus Herpes lan tỏa",
+    "position": [0, 25],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B00.7"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [384, 393],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  }
+]

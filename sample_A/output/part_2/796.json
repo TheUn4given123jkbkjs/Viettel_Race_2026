@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tiểu đường tuýp 2",
+    "position": [66, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cough",
+    "position": [134, 139],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cyclophosphamide",
+    "position": [485, 501],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3002"]
+  },
+  {
+    "text": "aspirin",
+    "position": [417, 424],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [432, 443],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Troponin",
+    "position": [281, 289],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinin",
+    "position": [303, 312],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "PCR COVID-19",
+    "position": [331, 343],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

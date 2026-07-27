@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Doxycycline",
+    "position": [241, 252],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3640"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [256, 267],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "không sốt",
+    "position": [149, 158],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Dexamethasone",
+    "position": [213, 226],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [53, 60],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [62, 71],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [75, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [117, 129],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường loại 2",
+    "position": [131, 152],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  }
+]

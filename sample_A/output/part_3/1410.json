@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Bệnh nhiễm trùng do động vật truyền sang người, không xác định",
+    "position": [0, 62],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["A28.9"]
+  },
+  {
+    "text": "sốt cao",
+    "position": [365, 372],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [383, 390],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phòng ngừa",
+    "position": [846, 856],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạn chế tiếp xúc với động vật",
+    "position": [928, 957],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giữ gìn vệ sinh cá nhân tốt",
+    "position": [959, 986],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đảm bảo sức khỏe cho bản thân và gia đình",
+    "position": [1120, 1161],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

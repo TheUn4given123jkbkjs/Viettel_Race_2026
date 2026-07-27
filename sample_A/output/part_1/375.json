@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Riboflavin",
+    "position": [32, 42],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9346"]
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [109, 122],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [126, 140],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh thận mạn tính",
+    "position": [175, 193],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc chống viêm",
+    "position": [251, 267],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng thận",
+    "position": [295, 320],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [109, 122],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

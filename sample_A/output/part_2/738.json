@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Diphtheria-Tetanus Vaccine",
+    "position": [144, 170],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "834765",
+      "309949",
+      "758475"
+    ]
+  },
+  {
+    "text": "tiểu đường loại 2",
+    "position": [269, 286],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu",
+    "position": [684, 711],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "P39.3",
+      "O86.3",
+      "O23"
+    ]
+  },
+  {
+    "text": "xét nghiệm đường huyết",
+    "position": [382, 404],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm công thức máu",
+    "position": [406, 430],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "insulin",
+    "position": [763, 770],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["253182", "317235"]
+  }
+]

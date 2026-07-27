@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Suy giảm miễn dịch có tăng immunoglobulin M [IgM]",
+    "position": [725, 774],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["D80.5"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [450, 459],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["281"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [480, 492],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["8638"]
+  }
+]

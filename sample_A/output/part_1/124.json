@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Sốt xuất huyết Omsk",
+    "position": [50, 69],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A98.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [246, 259],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Doxycycline",
+    "position": [263, 274],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3640"]
+  },
+  {
+    "text": "Chloroquine",
+    "position": [385, 396],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2393"]
+  },
+  {
+    "text": "Artesunate",
+    "position": [400, 410],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "18346",
+      "711398",
+      "1429947"
+    ]
+  }
+]

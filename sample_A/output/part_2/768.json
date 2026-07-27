@@ -1,0 +1,41 @@
+[
+  {
+    "text": "bệnh động mạch vành",
+    "position": [420, 439],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [87, 100],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I20",
+      "I20.0",
+      "I20.1"
+    ]
+  },
+  {
+    "text": "bệnh cao huyết áp",
+    "position": [181, 198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tiểu đường",
+    "position": [493, 508],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [717, 734],
+    "type": "isNegated",
+    "assertions": [],
+    "candidates": []
+  }
+]

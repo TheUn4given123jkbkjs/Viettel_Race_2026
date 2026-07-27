@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Lao niệu quản",
+    "position": [0, 13],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A18.14"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [939, 952],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Sốt",
+    "position": [340, 343],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đi tiểu khó khăn",
+    "position": [374, 390],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [532, 552],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm hình ảnh",
+    "position": [596, 615],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

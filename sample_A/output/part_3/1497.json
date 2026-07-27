@@ -1,0 +1,51 @@
+[
+  {
+    "text": "gout mạn tính",
+    "position": [47, 60],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Allopurinol",
+    "position": [75, 86],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["519"]
+  },
+  {
+    "text": "đau khớp ngón chân cái trái",
+    "position": [160, 187],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [208, 216],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [229, 232],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Colchicine",
+    "position": [284, 294],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2683"]
+  },
+  {
+    "text": "uric acid",
+    "position": [311, 320],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

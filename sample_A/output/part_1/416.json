@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh bạch cầu dạng tủy khác",
+    "position": [74, 101],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["C92.7"]
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [2139, 2153],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm da",
+    "position": [2235, 2248],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chăm sóc tổng hợp",
+    "position": [948, 965],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chăm sóc chuyên khoa",
+    "position": [1081, 1101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Theo dõi bệnh nhân",
+    "position": [1222, 1240],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

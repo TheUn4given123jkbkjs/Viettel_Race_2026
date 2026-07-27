@@ -1,0 +1,23 @@
+[
+  {
+    "text": "U ác của dương vật không đặc hiệu",
+    "position": [485, 518],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C60.9"]
+  },
+  {
+    "text": "aspirin",
+    "position": [570, 577],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [586, 597],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Chlorhexidine",
+    "position": [144, 157],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2358"]
+  },
+  {
+    "text": "đau bụng",
+    "position": [50, 58],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [62, 71],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [327, 336],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [495, 512],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ enzym gan tăng cao",
+    "position": [457, 483],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Lạm dụng chất gây ảo giác có rối loạn không xác định do chất gây ảo giác",
+    "position": [199, 271],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["F16.19"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [363, 370],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [443, 454],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

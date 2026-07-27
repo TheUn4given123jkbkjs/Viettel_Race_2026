@@ -1,0 +1,41 @@
+[
+  {
+    "text": "viêm phổi",
+    "position": [324, 333],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
+  },
+  {
+    "text": "Poractant alpha",
+    "position": [142, 157],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Bà A",
+    "position": [45, 49],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "thở",
+    "position": [268, 271],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thắt ngực",
+    "position": [251, 260],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

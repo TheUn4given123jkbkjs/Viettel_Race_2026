@@ -1,0 +1,27 @@
+[
+  {
+    "text": "viêm cơ tim",
+    "position": [788, 799],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "A54.80",
+      "A54.87",
+      "A52.06"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [249, 256],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "troponin",
+    "position": [552, 560],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

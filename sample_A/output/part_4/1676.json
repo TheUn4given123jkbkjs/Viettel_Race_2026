@@ -1,0 +1,48 @@
+[
+  {
+    "text": "viêm phổi",
+    "position": [82, 91],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
+  },
+  {
+    "text": "ampicillin",
+    "position": [543, 553],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["733"]
+  },
+  {
+    "text": "aspirin",
+    "position": [381, 388],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [408, 419],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [240, 248],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [252, 255],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Rối loạn ám ảnh nghi thức khác",
+    "position": [47, 77],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F42.8"]
+  },
+  {
+    "text": "Fluoxetine",
+    "position": [1010, 1020],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4493"]
+  },
+  {
+    "text": "Sertraline",
+    "position": [1106, 1116],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "U ác với tổn thương chồng lấn của phế quản và phổi",
+    "position": [0, 50],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["C34.8"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [1073, 1086],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1090, 1102],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "phế quản",
+    "position": [34, 42],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phổi",
+    "position": [46, 50],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

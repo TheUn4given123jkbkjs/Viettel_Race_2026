@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Viêm mống thể mi do lao",
+    "position": [49, 72],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A18.54"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [147, 154],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [175, 186],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "THA",
+    "position": [95, 98],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [121, 124],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

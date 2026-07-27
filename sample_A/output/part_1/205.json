@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Dacarbazine",
+    "position": [55, 66],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3098"]
+  },
+  {
+    "text": "u hắc tố ác tính",
+    "position": [79, 95],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [105, 118],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau bụng hạ sườn phải",
+    "position": [200, 221],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [232, 240],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [258, 265],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I",
+    "position": [337, 347],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

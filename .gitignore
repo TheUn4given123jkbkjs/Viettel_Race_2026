@@ -25,6 +25,8 @@ __pycache__/
 
 # 5. Logs & IDE Artifacts
 *.log
+!logs/
+!logs/*
 .system_generated/
 .idea/
 .vscode/

@@ -209,6 +209,19 @@ def process_and_align(generated_data):
         
     return aligned_entities
 
+def compact_json_format(data):
+    """Định dạng JSON thụt lề nhưng giữ các mảng ngắn trên cùng một dòng (như position, assertions, candidates)"""
+    json_str = json.dumps(data, ensure_ascii=False, indent=2)
+    # Gộp mảng số (ví dụ: [79, 113])
+    json_str = re.sub(r'\[\s*\n\s*(\d+),\s*\n\s*(\d+)\s*\n\s*\]', r'[\1, \2]', json_str)
+    # Gộp mảng rỗng []
+    json_str = re.sub(r'\[\s*\n\s*\]', r'[]', json_str)
+    # Gộp mảng chuỗi 1 phần tử (ví dụ: ["isHistorical"] hoặc ["1191"])
+    json_str = re.sub(r'\[\s*\n\s*"([^"]+)"\s*\n\s*\]', r'["\1"]', json_str)
+    # Gộp mảng chuỗi 2 phần tử (ví dụ: ["K21.0", "K21.9"])
+    json_str = re.sub(r'\[\s*\n\s*"([^"]+)",\s*\n\s*"([^"]+)"\s*\n\s*\]', r'["\1", "\2"]', json_str)
+    return json_str
+
 def main():
     api_key = load_api_key()
     if not api_key:
@@ -237,14 +250,15 @@ def main():
         
     # 2. Ghi tệp .json chứa danh sách phẳng (flat list) của annotations y hệt định dạng Question.md
     json_file = os.path.join(output_dir, "sample_output.json")
+    formatted_json = compact_json_format(final_entities)
     with open(json_file, "w", encoding="utf-8") as f:
-        json.dump(final_entities, f, ensure_ascii=False, indent=2)
+        f.write(formatted_json)
         
     print(f"\n=== ĐÃ TẠO THÀNH CÔNG MẪU THỬ NGHIỆM ===")
     print(f"1. Văn bản bệnh án thô (LF) lưu tại: {txt_file}")
     print(f"2. Thực thể phẳng mẫu lưu tại: {json_file}")
     print("\nChi tiết danh sách thực thể JSON phẳng:")
-    print(json.dumps(final_entities, ensure_ascii=False, indent=2))
+    print(formatted_json)
 
 if __name__ == "__main__":
     main()

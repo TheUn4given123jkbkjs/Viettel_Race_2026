@@ -1,0 +1,54 @@
+================================================================================
+VIETTEL AI RACE 2026 - LOG CHUYỂN ĐỔI CẤU TRÚC PROMPT (PROMPT STRUCTURAL TRANSITION LOG)
+================================================================================
+Thời gian cập nhật: 2026-07-28 06:43:00 (UTC+7)
+Nguồn gốc phân tích: Jupyter Notebook diagnose_comparison.ipynb
+File mã nguồn đã điều chỉnh: scratch/generate_train_data.py & Long_folder/custom_scripts/generate_train_data_v3.py
+
+--------------------------------------------------------------------------------
+1. NGUYÊN NHÂN CHUYỂN ĐỔI (DIAGNOSTIC FINDINGS FROM DIAGNOSE_COMPARISON.IPYNB)
+--------------------------------------------------------------------------------
+- Văn bản AI quá ngắn: Dữ liệu thật input_turn2_vong1 có độ dài trung bình 436.7 từ/file.
+  Dữ liệu AI sinh ra trước đó (sample_A: 240.8 từ, sample_Long: 250.2 từ) thiếu ~44% độ dài.
+- Tỷ lệ đa dạng từ vựng TTR quá thấp: Dữ liệu thật TTR = 5.82%, dữ liệu AI chỉ đạt 1.01% - 1.15% (bị lặp mẫu câu).
+- Tỷ lệ nhãn cận lâm sàng mỏng: Nhãn TÊN_XÉT_NGHIỆM và KẾT_QUẢ_XÉT_NGHIỆM chỉ chiếm ~6.0% - 6.7%.
+
+--------------------------------------------------------------------------------
+2. CHI TIẾT CẤU TRÚC CHUYỂN ĐỔI (PROMPT STRUCTURAL TRANSITION DETAILS)
+--------------------------------------------------------------------------------
+
+[A] ĐIỀU CHỈNH CẤU TRÚC ĐỘ DÀI (TEXT LENGTH STRUCTURE)
+--- CẤU TRÚC CŨ (V3) ---
+length_hint = "ĐỘ DÀI: TRUNG BÌNH (300-500 từ)" if rand_len < 0.40 else "ĐỘ DÀI: DÀI (500-800 từ)"
+-> Hạn chế: Chỉ thị chung chung khiến LLM khi sinh dạng JSON bị tóm tắt ngắn (~240 từ).
+
+--- CẤU TRÚC MỚI (V4) ---
+length_hint = """🛑 BẮT BUỘC VỀ ĐỘ DÀI VĂN BẢN (STRICT LENGTH REQUIREMENT):
+- Trường 'text' BẮT BUỘC ĐẠT ĐỘ DÀI TỪ 450 ĐẾN 750 TỪ. 
+- PHẢI viết rất chi tiết: mô tả quá trình diễn biến bệnh lý từ 3-5 ngày trước, liệt kê tiền sử, kết quả khám từng cơ quan (tuần hoàn, hô hấp, tiêu hóa, thần kinh), và đầy đủ các chỉ số xét nghiệm cận lâm sàng kèm đơn thuốc/y lệnh."""
+
+[B] ĐIỀU CHỈNH CẤU TRÚC BỐI CẢNH & ĐA DẠNG TỪ VỰNG (CONTEXT & DIVERSITY STRUCTURE)
+--- CẤU TRÚC CŨ (V3) ---
+Chỉ có 5 style_id cố định. Tham số generationConfig temperature = 0.7.
+
+--- CẤU TRÚC MỚI (V4) ---
+Bổ sung mảng bối cảnh lâm sàng ngẫu nhiên (clinical_context):
+- BỐI CẢNH 1: Hồ sơ bệnh án điều trị nội trú chi tiết tại Bệnh viện Đa khoa.
+- BỐI CẢNH 2: Phiếu khám bệnh ngoại trú và tư vấn y khoa chuyên sâu.
+- BỐI CẢNH 3: Tóm tắt hồ sơ bệnh án chuyển viện / Biên bản hội chẩn lâm sàng.
+- BỐI CẢNH 4: Tờ điều trị hàng ngày và ghi chú diễn tiến bệnh lý của bác sĩ.
+- BỐI CẢNH 5: Báo cáo ca bệnh lâm sàng phức tạp (Complex Case Report).
+Tăng tham số temperature từ 0.7 lên 0.8 cho tất cả các API providers (Gemini, Groq, SambaNova, 9router).
+
+[C] ĐIỀU CHỈNH CẤU TRÚC THỰC THỂ CẬN LÂM SÀNG (LAB TEST ENTITIES STRUCTURE)
+--- CẤU TRÚC CŨ (V3) ---
+Chỉ dặn trích xuất TÊN_XÉT_NGHIỆM và KẾT_QUẢ_XÉT_NGHIỆM sơ bộ ở scenario_id = 1.
+Số thực thể tối đa trích xuất: 5-8 nhãn.
+
+--- CẤU TRÚC MỚI (V4) ---
+Bắt buộc bổ sung thông tin cận lâm sàng chi tiết (Công thức máu WBC/RBC, Sinh hóa Glucose/Urea/Creatinine/GOT/GPT, X-quang, Siêu âm, ECG, CT-Scan) vào các kịch bản 1, 2 và 3.
+Số thực thể tối đa trích xuất tăng lên: 6-10 nhãn/file.
+
+================================================================================
+XÁC NHẬN: Mã nguồn scratch/generate_train_data.py đã được kiểm thử biên dịch và push lên Git.
+================================================================================

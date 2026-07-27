@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Methionine",
+    "position": [149, 159],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6837"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [633, 650],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [295, 302],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn",
+    "position": [304, 311],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

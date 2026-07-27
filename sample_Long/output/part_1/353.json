@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Sẩy thai tự nhiên (Không hoàn toàn, gây biến chứng tắc mạch)",
+    "position": [0, 62],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["O03.2"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [276, 284],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Tiền sử THA 5 năm",
+    "position": [454, 471],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Đau bụng dữ dội",
+    "position": [606, 621],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Chảy máu âm đạo",
+    "position": [624, 639],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng sản cơ tử",
+    "position": [642, 656],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Biến chứng tắc mạch",
+    "position": [659, 678],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

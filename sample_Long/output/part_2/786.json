@@ -1,0 +1,16 @@
+[
+  {
+    "text": "tăng sản tuyến nội mạc",
+    "position": [388, 410],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": ["N85.0", "N85.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [460, 473],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

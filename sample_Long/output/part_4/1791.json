@@ -1,0 +1,45 @@
+[
+  {
+    "text": "viêm khớp dạng thấp",
+    "position": [55, 74],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thay khớp gối trái",
+    "position": [465, 483],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [454, 464],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
+  },
+  {
+    "text": "viêm khớp",
+    "position": [55, 64],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A18.03",
+      "B26.85",
+      "B06.82"
+    ]
+  },
+  {
+    "text": "đau nhức",
+    "position": [132, 140],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

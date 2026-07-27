@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Các thoái hóa khớp háng sau chấn thương khác",
+    "position": [406, 450],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["M16.5"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [344, 352],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "háng",
+    "position": [55, 59],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thoái hóa",
+    "position": [410, 419],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

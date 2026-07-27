@@ -1,0 +1,37 @@
+[
+  {
+    "text": "CÃ¡c bá»nh quÃ¡ sáº£n cá»§a da khÃ´ng Äiá»n hÃ¬nh",
+    "position": [576, 628],
+    "type": "CHáº¨N_ÄOÃN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acyclovir",
+    "position": [384, 393],
+    "type": "THUá»C",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [426, 439],
+    "type": "THUá»C",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tÄng lipid mÃ¡u",
+    "position": [202, 218],
+    "type": "CHáº¨N_ÄOÃN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "váº£y náº¿n",
+    "position": [530, 541],
+    "type": "CHáº¨N_ÄOÃN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

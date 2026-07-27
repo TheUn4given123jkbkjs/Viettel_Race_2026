@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bệnh mãn tính khác của amydan và VA",
+    "position": [0, 35],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J35.8"]
+  },
+  {
+    "text": "sốt",
+    "position": [165, 168],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [170, 177],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng đau ở các khớp",
+    "position": [179, 198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [387, 401],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm nước tiểu",
+    "position": [403, 423],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [500, 510],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [516, 533],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

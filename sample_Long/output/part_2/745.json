@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Meglumine iotroxate",
+    "position": [300, 319],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["52527"]
+  },
+  {
+    "text": "Meglumine iotraxate",
+    "position": [383, 402],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

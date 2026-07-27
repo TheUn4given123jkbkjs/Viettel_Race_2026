@@ -1,0 +1,34 @@
+[
+  {
+    "text": "ImmuneGlobulin",
+    "position": [40, 54],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [153, 156],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [158, 165],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tự miễn",
+    "position": [275, 287],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "M36.0*",
+      "M36.00*",
+      "M36.01*"
+    ]
+  }
+]

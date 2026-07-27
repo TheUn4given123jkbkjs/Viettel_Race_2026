@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Nhiễm nấm da",
+    "position": [0, 12],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Benzoyl peroxide",
+    "position": [754, 770],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1418"]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Xơ cứng bì do dùng thuốc và hóa chất",
+    "position": [0, 36],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M34.2"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [539, 552],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [556, 568],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  }
+]

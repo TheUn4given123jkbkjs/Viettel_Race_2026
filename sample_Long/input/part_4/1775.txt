@@ -1,0 +1,55 @@
+Mãnh trăng là một bệnh lý phổ biến, thường gặp ở người lớn tuổi. Tuy nhiên, không phải ai cũng biết rõ về bệnh này.
+
+1. Khái niệm
+
+Mãnh trăng là một bệnh lý do sự mất cân bằng của hormone trong cơ thể. Nó thường xảy ra khi người bệnh có tiền sử về bệnh lý về tuyến giáp.
+
+2. Triệu chứng và cách điều trị
+
+Triệu chứng của mãnh trăng bao gồm:
+- Phủ nhận buồn nôn
+- Không sốt
+- Cảm giác mệt mỏi
+- Khó ngủ
+
+Để điều trị mãnh trăng, bác sĩ sẽ chỉ định các xét nghiệm để xác định nguyên nhân gây bệnh. Các xét nghiệm có thể bao gồm:
+- Xét nghiệm máu để kiểm tra hormone tuyến giáp
+- Xét nghiệm nước tiểu để kiểm tra sự mất nước
+
+Sau khi xác định nguyên nhân, bác sĩ sẽ chỉ định các phương pháp điều trị phù hợp. Các phương pháp điều trị có thể bao gồm:
+- Sử dụng thuốc để điều chỉnh hormone tuyến giáp
+- Sử dụng thuốc để giảm cảm giác mệt mỏi
+
+Chú ý: Đây là một bệnh lý phổ biến, nên không nên hoảng sợ khi mắc phải. Hãy đến bệnh viện để được bác sĩ tư vấn và điều trị.
+
+Sơ khám:
+- Bác sĩ sẽ hỏi về tiền sử bệnh lý của người bệnh
+- Bác sĩ sẽ kiểm tra các xét nghiệm để xác định nguyên nhân gây bệnh
+
+Xét nghiệm cận lâm sàng:
+- Xét nghiệm máu để kiểm tra hormone tuyến giáp
+- Xét nghiệm nước tiểu để kiểm tra sự mất nước
+
+Lưu ý: Bài viết này không nhằm mục đích chẩn đoán bệnh, mà chỉ nhằm mục đích giáo dục và cung cấp thông tin. Nếu bạn nghi ngờ mình đang mắc bệnh mãnh trăng, hãy đến bệnh viện để được bác sĩ tư vấn và điều trị.
+
+entities:
+- 
+  "text": "phủ nhận buồn nôn",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+- 
+  "text": "không sốt",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+- 
+  "text": "sự mất nước",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+- 
+  "text": "xét nghiệm máu",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+- 
+  "text": "xét nghiệm nước tiểu",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []

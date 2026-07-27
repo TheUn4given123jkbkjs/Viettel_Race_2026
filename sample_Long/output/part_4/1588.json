@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Chấn thương sản khoa khác",
+    "position": [489, 514],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O71", "O71.8"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [701, 708],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [519, 530],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

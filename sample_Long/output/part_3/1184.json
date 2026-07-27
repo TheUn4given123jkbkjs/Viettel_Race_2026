@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Albumin",
+    "position": [274, 281],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["433"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [342, 350],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["R11"]
+  },
+  {
+    "text": "sốt",
+    "position": [358, 361],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [422, 429],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "troponin",
+    "position": [455, 463],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

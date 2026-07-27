@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Loét dạ dày-tá tràng, vị trí không xác định",
+    "position": [192, 235],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K27",
+      "K27.0",
+      "K27.1"
+    ]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [356, 366],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [386, 397],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [103, 120],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "viêm dạ dày",
+    "position": [141, 152],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "text": "tim mạch",
+    "position": [39, 47],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.54",
+      "A52.00",
+      "A52.06"
+    ]
+  },
+  {
+    "text": "tiểu đường",
+    "position": [58, 68],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
+  },
+  {
+    "text": "statin",
+    "position": [332, 338],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "83367",
+      "34482",
+      "7597"
+    ]
+  },
+  {
+    "text": "hội chứng chuyển hóa",
+    "position": [268, 288],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E88.81"]
+  }
+]

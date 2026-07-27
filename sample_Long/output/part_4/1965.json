@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Biến đổi không do viêm khác của âm đạo",
+    "position": [407, 445],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N89", "N89.8"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [469, 479],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau âm đạo",
+    "position": [93, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy máu âm đạo",
+    "position": [107, 122],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sảy thai",
+    "position": [317, 325],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

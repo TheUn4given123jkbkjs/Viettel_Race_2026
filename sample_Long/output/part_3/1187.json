@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Viêm dạ dày tá tràng mãn tính",
+    "position": [78, 107],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm đại tràng mãn tính",
+    "position": [141, 164],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [198, 211],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm tử cung cấp",
+    "position": [601, 617],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N71.0"]
+  },
+  {
+    "text": "Viêm tử cung",
+    "position": [601, 613],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.03",
+      "A56.00",
+      "A18.16"
+    ]
+  }
+]

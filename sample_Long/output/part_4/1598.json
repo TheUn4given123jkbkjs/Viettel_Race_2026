@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Aspirin",
+    "position": [492, 499],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [164, 172],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [159, 162],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily", "isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin tăng cao",
+    "position": [434, 451],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [410, 424],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [515, 526],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

@@ -1,0 +1,20 @@
+1. Tiền sử bệnh
+
+Bệnh nhân nam, 42 tuổi, có tiền sử bệnh tim mạch. 2 giờ trước khi nhập viện, bệnh nhân có cảm giác đau ngực dữ dội và bất thường, không gây ra khó thở. 1 giờ trước khi nhập viện, bệnh nhân có cảm giác đau ngực tăng nặng, kèm theo khó thở. 30 phút trước khi nhập viện, bệnh nhân có cảm giác đau ngực và khó thở. Bệnh nhân được đưa đến viện và được nhập viện ngay lập tức.
+
+Hỏi: Bệnh nhân bị bệnh gì? Điều trị như thế nào?
+
+Đáp: Bệnh nhân bị cơn đau thắt ngực không ổn định. Điều trị bằng cách cho bệnh nhân thuốc aspirin 300mg, thuốc nitroglycerin 0,4mg, thuốc atenolol 50mg, thuốc metoprolol 25mg, thuốc clopidogrel 75mg. Bệnh nhân được theo dõi chặt chẽ và được điều trị bằng thuốc tiêm để giảm đau và khó thở.
+
+Ghi chú: Bệnh nhân được chẩn đoán và điều trị kịp thời. Bệnh nhân được theo dõi chặt chẽ và được điều trị bằng thuốc tiêm để giảm đau và khó thở. Bệnh nhân được cho thuốc aspirin 300mg, thuốc nitroglycerin 0,4mg, thuốc atenolol 50mg, thuốc metoprolol 25mg, thuốc clopidogrel 75mg.
+
+Đoạn dán nhầm: Bệnh nhân được cho thuốc aspirin 300mg, thuốc nitroglycerin 0,4mg, thuốc atenolol 50mg, thuốc metoprolol 25mg, thuốc clopidogrel 75mg. Bệnh nhân được theo dõi chặt chẽ và được điều trị bằng thuốc tiêm để giảm đau và khó thở.
+
+Bệnh nhân được chẩn đoán và điều trị kịp thời. Bệnh nhân được theo dõi chặt chẽ và được điều trị bằng thuốc tiêm để giảm đau và khó thở.
+
+Kết luận: Bệnh nhân bị cơn đau thắt ngực không ổn định. Bệnh nhân được điều trị bằng thuốc aspirin 300mg, thuốc nitroglycerin 0,4mg, thuốc atenolol 50mg, thuốc metoprolol 25mg, thuốc clopidogrel 75mg. Bệnh nhân được theo dõi chặt chẽ và được điều trị bằng thuốc tiêm để giảm đau và khó thở.
+
+
+Chẩn đoán: CHẨN_ĐOÁN = 'Cơn đau thắt ngực không ổn định'
+
+Thuốc: THUỐC = ['Aspirin', 'Nitroglycerin', 'Atenolol', 'Metoprolol', 'Clopidogrel']

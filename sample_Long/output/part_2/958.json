@@ -1,0 +1,34 @@
+[
+  {
+    "text": "ViÃªm phá»i báº©m sinh do cÃ¡c vi khuáº©n khÃ¡c",
+    "position": [190, 238],
+    "type": "CHáº¨N_ÄOÃN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khÃ´ng sá»t",
+    "position": [74, 86],
+    "type": "TRIá»U_CHá»¨NG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "khÃ´ng buá»n nÃ´n",
+    "position": [549, 567],
+    "type": "TRIá»U_CHá»¨NG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Gia ÄÃ¬nh phá»§ nháº­n tiá»n sá»­ dá» á»©ng",
+    "position": [476, 522],
+    "type": "TRIá»U_CHá»¨NG",
+    "assertions": [
+      "isNegated",
+      "isHistorical",
+      "isFamily"
+    ],
+    "candidates": []
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Viêm khớp trong bệnh Rubella (B06.8†), vùng bả vai",
+    "position": [290, 340],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M01.41*"]
+  },
+  {
+    "text": "Rubella",
+    "position": [91, 98],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "705030",
+      "705031",
+      "9486"
+    ]
+  },
+  {
+    "text": "B06.8†",
+    "position": [187, 193],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vùng bả vai",
+    "position": [197, 208],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [21, 30],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

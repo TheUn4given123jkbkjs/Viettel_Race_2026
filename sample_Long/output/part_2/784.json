@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Teo âm hộ",
+    "position": [644, 653],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["N90.5"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [573, 584],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

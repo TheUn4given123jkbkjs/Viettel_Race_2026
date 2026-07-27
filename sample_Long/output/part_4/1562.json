@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Viêm tiểu phế quản cấp",
+    "position": [97, 119],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": [
+      "J21",
+      "J21.0",
+      "J21.1"
+    ]
+  },
+  {
+    "text": "Abacavir",
+    "position": [196, 204],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [343, 356],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Viêm tiểu phế quản cấp",
+    "position": [97, 119],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "THA",
+    "position": [658, 661],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

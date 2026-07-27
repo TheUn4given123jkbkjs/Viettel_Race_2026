@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm bàng quang, không đặc hiệu",
+    "position": [36, 67],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["N30.9"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [268, 281],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [310, 319],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  }
+]

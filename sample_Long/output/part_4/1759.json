@@ -1,0 +1,41 @@
+[
+  {
+    "text": "viêm da cơ",
+    "position": [41, 51],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M33.3",
+      "L20",
+      "L20.8"
+    ]
+  },
+  {
+    "text": "Aspirin",
+    "position": [200, 207],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [211, 224],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [129, 146],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [150, 153],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

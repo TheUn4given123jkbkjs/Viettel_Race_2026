@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Bệnh tuyến nước bọt",
+    "position": [10, 29],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K11",
+      "K11.5",
+      "K11.8"
+    ]
+  },
+  {
+    "text": "Abacavir",
+    "position": [649, 657],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [660, 673],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

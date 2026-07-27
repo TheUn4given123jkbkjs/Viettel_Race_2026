@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Artesunate / Mefloquine",
+    "position": [41, 64],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1429947"]
+  },
+  {
+    "text": "sốt rét",
+    "position": [82, 89],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [379, 386],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [388, 397],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [399, 407],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

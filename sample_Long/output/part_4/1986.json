@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bệnh khớp do vi tinh thể sau các rối loạn chuyển hóa được xếp loại ở mục khác, bàn tay",
+    "position": [0, 86],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M14.14*"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [623, 636],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [640, 649],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "đau khớp",
+    "position": [194, 202],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng khớp",
+    "position": [204, 213],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó di chuyển",
+    "position": [217, 230],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [292, 306],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hình ảnh học",
+    "position": [310, 322],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

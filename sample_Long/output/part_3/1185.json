@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Fenofibrate",
+    "position": [120, 131],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8703"]
+  },
+  {
+    "text": "bố",
+    "position": [236, 238],
+    "type": "QUAN_HỆ_GIAĐÌNH",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [35, 48],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường type 2",
+    "position": [52, 69],
+    "type": "BỆNH_LÝ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu cơ tim",
+    "position": [350, 366],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I25.5",
+      "I25.6",
+      "Z82.4"
+    ]
+  }
+]

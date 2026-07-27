@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Famotidine",
+    "position": [64, 74],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4278"]
+  },
+  {
+    "text": "viên dạ dày",
+    "position": [1211, 1222],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nhân",
+    "position": [412, 421],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.15",
+      "A51.46",
+      "Z86.11"
+    ]
+  },
+  {
+    "text": "bố bệnh nhân",
+    "position": [1271, 1283],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "anh trai bệnh nhân",
+    "position": [1321, 1339],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "cơn đau",
+    "position": [238, 245],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "24 giờ",
+    "position": [302, 308],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [510, 516],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

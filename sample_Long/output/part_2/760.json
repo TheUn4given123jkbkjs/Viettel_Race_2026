@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Biến đổi cầu thận trong các bệnh đã được phân loại ở phần khác",
+    "position": [44, 106],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["N08*", "N08"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [358, 371],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Hydrochlorothiazide",
+    "position": [621, 640],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5487"]
+  }
+]

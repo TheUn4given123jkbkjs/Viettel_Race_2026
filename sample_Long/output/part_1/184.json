@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh xơ phổi do sắt",
+    "position": [1096, 1115],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J63.4"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [522, 529],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [533, 544],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

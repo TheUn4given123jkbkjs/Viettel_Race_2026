@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Biến chứng, của gây mê trong thời kỳ sau đẻ",
+    "position": [788, 831],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O89",
+      "O89.0",
+      "O89.1"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [466, 479],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Oxytocin",
+    "position": [506, 514],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7824"]
+  }
+]

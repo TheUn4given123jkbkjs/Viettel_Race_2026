@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Xét nghiệm máu",
+    "position": [540, 554],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [559, 579],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước bọt",
+    "position": [584, 603],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm màng bụng",
+    "position": [608, 628],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm dương tính (có nhiễm trùng)",
+    "position": [1434, 1480],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử THA 5 năm",
+    "position": [1014, 1031],
+    "type": "isHistorical",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

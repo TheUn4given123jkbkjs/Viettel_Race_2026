@@ -1,0 +1,16 @@
+Bệnh án lâm sàng của bệnh nhân được tiến hành trong bệnh viện 
+
+Tiền sử bệnh nội khoa: bệnh nhân có tiền sử THA 5 năm, tiền sử cao huyết áp 3 năm, tiền sử tiểu đường 2 năm.
+
+Bệnh sử hiện tại: bệnh nhân đến khám vì bệnh nhân đang có triệu chứng buồn nôn, sốt và có cảm giác đau bụng.
+
+Kết quả xét nghiệm: xét nghiệm máu bệnh nhân cho thấy nồng độ troponin tăng cao.
+
+Y lệnh Điều trị: bệnh nhân được chỉ định phẫu thuật để loại bỏ nhiễm khuẩn đường sinh dục và tiểu khung sau sẩy thai, chửa ngoài tử cung và chửa trứng.
+
+[Ngày] [Tên bác sĩ]
+
+ Entities:
+- Trích xuất 'Nhiễm khuẩn đường sinh dục và tiểu khung sau sẩy thai, chửa ngoài tử cung và chửa trứng' nhãn CHẨN_ĐOÁN.
+- Không trích xuất THUỐC.
+- Bệnh nhân có tiền sử THA 5 năm, tiền sử cao huyết áp 3 năm, tiền sử tiểu đường 2 năm.

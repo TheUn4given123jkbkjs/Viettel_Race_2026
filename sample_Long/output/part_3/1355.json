@@ -1,0 +1,37 @@
+[
+  {
+    "text": "dÃ­nh Äá»t sá»ng khÃ¡c",
+    "position": [572, 597],
+    "type": "CHáº¨N_ÄOÃN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Äau vÃ¹ng tháº¯t lÆ°ng bÃªn trÃ¡i",
+    "position": [44, 78],
+    "type": "TRIá»U_CHá»¨NG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phá»§ nháº­n buá»n nÃ´n",
+    "position": [185, 209],
+    "type": "TRIá»U_CHá»¨NG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chá»§ quan sá»t",
+    "position": [211, 227],
+    "type": "TRIá»U_CHá»¨NG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Äau lan xuá»ng mÃ´ng",
+    "position": [308, 330],
+    "type": "TRIá»U_CHá»¨NG",
+    "assertions": [],
+    "candidates": []
+  }
+]

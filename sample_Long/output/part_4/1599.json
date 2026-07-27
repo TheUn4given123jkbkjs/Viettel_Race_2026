@@ -1,0 +1,58 @@
+[
+  {
+    "text": "ngập máu tăng urê máu trong bệnh thận mãn tính",
+    "position": [608, 654],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["I68.8*"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [745, 755],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thay đổi lối sống",
+    "position": [933, 950],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh thận mãn tính",
+    "position": [94, 112],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I68.8*"]
+  },
+  {
+    "text": "tình trạng bệnh",
+    "position": [203, 218],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy nhược",
+    "position": [343, 352],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [354, 361],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm khả năng lọc máu",
+    "position": [365, 386],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

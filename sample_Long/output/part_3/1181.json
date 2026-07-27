@@ -1,0 +1,44 @@
+[
+  {
+    "text": "bệnh tim do tăng huyết áp, không suy tim (sung huyết)",
+    "position": [246, 299],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I11.9"]
+  },
+  {
+    "text": "aspirin",
+    "position": [140, 147],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [151, 162],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "đau ngực",
+    "position": [81, 89],
+    "type": "TIỀN_SỮ_BỆNH_NỘI_KHOA",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [93, 106],
+    "type": "TIỀN_SỮ_BỆNH_NỘI_KHOA",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [392, 402],
+    "type": "TIỀU_CHỨNH",
+    "assertions": [],
+    "candidates": []
+  }
+]

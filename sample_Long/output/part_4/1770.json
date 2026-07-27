@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Pancuronium",
+    "position": [162, 173],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7883"]
+  },
+  {
+    "text": "aspirin",
+    "position": [372, 379],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [383, 394],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [230, 243],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [247, 261],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [289, 298],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm gan",
+    "position": [302, 310],
+    "type": "BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [415, 423],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

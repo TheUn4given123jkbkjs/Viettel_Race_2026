@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Viêm nội tâm mạc cấp và bán cấp",
+    "position": [577, 608],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["I33", "I33.0"]
+  },
+  {
+    "text": "Viêm màng bồ đào",
+    "position": [610, 626],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B00.54"]
+  },
+  {
+    "text": "Viêm giác mạc",
+    "position": [633, 646],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.31",
+      "B00.52",
+      "B02.34"
+    ]
+  },
+  {
+    "text": "tình trạng nhìn đôi và đau nhức tai",
+    "position": [52, 87],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm nội tâm mạc cấp và bán cấp",
+    "position": [577, 608],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["I33", "I33.0"]
+  }
+]

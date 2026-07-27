@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Potassium permanganate",
+    "position": [58, 80],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8604"]
+  },
+  {
+    "text": "thuốc",
+    "position": [146, 151],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sĩ",
+    "position": [390, 396],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

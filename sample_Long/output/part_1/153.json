@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Bệnh lao gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+    "position": [61, 117],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O98.0"]
+  },
+  {
+    "text": "Isoniazid",
+    "position": [155, 164],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [23, 40],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

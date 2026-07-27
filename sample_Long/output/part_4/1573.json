@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh Crohn của ruột non",
+    "position": [372, 395],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K50.0"]
+  },
+  {
+    "text": "aspirin",
+    "position": [266, 273],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Lipase",
+    "position": [530, 536],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

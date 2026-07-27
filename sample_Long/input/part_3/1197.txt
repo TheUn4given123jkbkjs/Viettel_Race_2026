@@ -1,0 +1,37 @@
+Bệnh nhân 35 tuổi, nữ, trình bày triệu chứng múa giật do thấp trong 3 tháng qua. Tiền sử THA 5 năm, đã điều trị bằng Acetazolamide và Prednisolone.
+
+Đoạn 1: Hỏi bệnh nhân về triệu chứng múa giật do thấp. Bệnh nhân cho biết triệu chứng xuất hiện trong 3 tháng qua, ban đầu nhẹ và dần nặng lên. Bệnh nhân cũng cho biết đã có tiền sử THA 5 năm.
+
+Đoạn 2: Đi kèm theo triệu chứng múa giật do thấp là sốt nhẹ, nhịp tim nhanh và khó thở. Bệnh nhân đã được điều trị bằng Acetazolamide và Prednisolone.
+
+Ghi chú bệnh án:
+
+1. Tiền sử bệnh: Bệnh nhân có tiền sử THA 5 năm.
+2. Diễn biến bệnh: Triệu chứng múa giật do thấp xuất hiện trong 3 tháng qua, ban đầu nhẹ và dần nặng lên.
+3. Điều trị tại bệnh viện: Bệnh nhân được điều trị bằng Acetazolamide và Prednisolone.
+
+Đoạn 3: Bệnh nhân được chẩn đoán mắc múa giật do thấp và được điều trị bằng Acetazolamide và Prednisolone. Bệnh nhân cũng được tư vấn về việc cần phải theo dõi chặt chẽ.
+
+ Entities:
+[
+  {
+    "text": "múa giật do thấp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "Acetazolamide",
+    "type": "THUỐC",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "Prednisolone",
+    "type": "THUỐC",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "THA",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Scopolamine butylbromide",
+    "position": [647, 671],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1851"]
+  },
+  {
+    "text": "nhiễm trùng da",
+    "position": [130, 144],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vi khuẩn",
+    "position": [78, 86],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G00",
+      "G00.8",
+      "G00.9"
+    ]
+  },
+  {
+    "text": "nấm",
+    "position": [88, 91],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G02.1*",
+      "J17.2*",
+      "J67.5"
+    ]
+  },
+  {
+    "text": "virus",
+    "position": [97, 102],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A60.00",
+      "A60.04",
+      "A60.09"
+    ]
+  },
+  {
+    "text": "tình trạng bệnh lý",
+    "position": [22, 40],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P00.9", "P02.6"]
+  },
+  {
+    "text": "vi khuẩn",
+    "position": [78, 86],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G00",
+      "G00.8",
+      "G00.9"
+    ]
+  },
+  {
+    "text": "nhiễm trùng nghiêm trọng",
+    "position": [477, 501],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

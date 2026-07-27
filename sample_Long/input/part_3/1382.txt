@@ -1,0 +1,49 @@
+Bệnh khớp do thần kinh, ở gối là một tình trạng bệnh lý ảnh hưởng đến khớp gối.
+
+**Hỏi & Đáp**
+
+Qúy độc giả hỏi: Tôi bị bệnh khớp do thần kinh, ở gối. Tôi nên làm gì?
+
+**Đáp**
+
+Nếu bạn bị bệnh khớp do thần kinh, ở gối, bạn nên đến gặp bác sĩ để được chẩn đoán và điều trị. Bác sĩ có thể sẽ kê đơn thuốc như acetaminophen hoặc ibuprofen để giảm đau và viêm.
+
+**Ghi chú bệnh án**
+
+1. Bệnh nền: Bệnh khớp do thần kinh, ở gối
+2. Tiền sử bệnh hiện tại: Bạn đã bị bệnh khớp do thần kinh, ở gối trong một thời gian.
+3. Y lệnh Điều trị: Bác sĩ có thể sẽ kê đơn thuốc như acetaminophen hoặc ibuprofen để giảm đau và viêm.
+
+**Dán nhầm**
+
+Tôi không biết nói gì thêm về chủ đề này.
+
+ Entities:
+
+[
+    {
+        "text": "Bệnh khớp do thần kinh, ở gối",
+        "type": "CHẨN_ĐOÁN",
+        "assertions": ["isNegated", "isFamily"]
+    },
+    {
+        "text": "acetaminophen",
+        "type": "THUỐC",
+        "assertions": []
+    },
+    {
+        "text": "ibuprofen",
+        "type": "THUỐC",
+        "assertions": []
+    },
+    {
+        "text": "đau",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": []
+    },
+    {
+        "text": "viêm",
+        "type": "TRIỆU_CHỨNG",
+        "assertions": []
+    }
+]

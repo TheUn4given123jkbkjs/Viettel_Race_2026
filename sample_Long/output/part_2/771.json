@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Phá thai khác",
+    "position": [107, 120],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "O04.3",
+      "O04.8",
+      "O05"
+    ]
+  },
+  {
+    "text": "Mefloquine",
+    "position": [1038, 1048],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1429947", "6694"]
+  },
+  {
+    "text": "Miconazole",
+    "position": [1153, 1163],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6932"]
+  }
+]

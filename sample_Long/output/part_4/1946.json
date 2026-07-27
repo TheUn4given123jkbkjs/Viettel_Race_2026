@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm gan mãn trường diễn, không phân loại nơi khác",
+    "position": [0, 50],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K73.0"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [213, 221],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [225, 238],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

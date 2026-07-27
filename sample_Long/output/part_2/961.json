@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Đặt forcep trung bình",
+    "position": [0, 21],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O81.1", "O81.2"]
+  },
+  {
+    "text": "sản khoa",
+    "position": [59, 67],
+    "type": "TÊN_KHÓA_HỌC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "forcep",
+    "position": [4, 10],
+    "type": "THIẾT_BỊ_Y_TẾ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "quá trình sinh nở",
+    "position": [95, 112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầu bé đã vào ống sinh sản",
+    "position": [316, 342],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tình trạng kéo dài của quá trình sinh nở",
+    "position": [590, 630],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sự mệt mỏi của người mẹ",
+    "position": [632, 655],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tình trạng sức khỏe của bé không ổn định",
+    "position": [661, 701],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

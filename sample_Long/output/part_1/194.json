@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Các bệnh da bọng nước đặc hiệu khác",
+    "position": [682, 717],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["L13.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [745, 758],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Hydrocortisone",
+    "position": [761, 775],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5492", "27197"]
+  }
+]

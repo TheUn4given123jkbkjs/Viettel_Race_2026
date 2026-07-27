@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm khớp sau nhiễm não mô cầu (A39.8†), cánh tay",
+    "position": [344, 393],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M03.02*"]
+  },
+  {
+    "text": "aspirin",
+    "position": [304, 311],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [315, 326],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

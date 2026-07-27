@@ -1,0 +1,44 @@
+[
+  {
+    "text": "rụng tóc có sẹo khác",
+    "position": [199, 219],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["L66.8"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [471, 481],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch nhẹ",
+    "position": [39, 56],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tháng 6 năm 2022",
+    "position": [232, 248],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tháng 9 năm 2022",
+    "position": [281, 297],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tháng 12 năm 2022",
+    "position": [404, 421],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

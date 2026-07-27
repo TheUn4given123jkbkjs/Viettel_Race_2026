@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Blốc nhánh phải khác và không xác định",
+    "position": [635, 673],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I45.1"]
+  },
+  {
+    "text": "Acenocoumarol",
+    "position": [722, 735],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["154"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [739, 746],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "bệnh mạch vành",
+    "position": [91, 105],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [187, 190],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau thắt ngực không ổn định",
+    "position": [38, 65],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

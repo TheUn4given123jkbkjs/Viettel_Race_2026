@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Bệnh khớp do đái tháo đường đường (E10-E14 với ký tự thứ tư chung .6†), bàn tay",
+    "position": [181, 260],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["M14.24*"]
+  },
+  {
+    "text": "Aspirin 500mg 3 lần mỗi ngày",
+    "position": [283, 311],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

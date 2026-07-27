@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Tổn thương phổi trong các bệnh lý thấp khớp (J99.0)",
+    "position": [0, 51],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M05.1†"]
+  },
+  {
+    "text": "Clarithromycin",
+    "position": [267, 281],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["21212"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [303, 316],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "THA",
+    "position": [350, 353],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [459, 467],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

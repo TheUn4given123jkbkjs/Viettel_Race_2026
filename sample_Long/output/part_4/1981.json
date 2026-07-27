@@ -1,0 +1,23 @@
+[
+  {
+    "text": "tiền sử THA",
+    "position": [107, 118],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [404, 418],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm chức năng gan",
+    "position": [436, 460],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm bàng quang, không đặc hiệu",
+    "position": [0, 31],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N30.9"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [326, 339],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [343, 352],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

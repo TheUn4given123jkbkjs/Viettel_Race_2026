@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm mô kẽ ống thận mạn khác",
+    "position": [15, 43],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["N11.8"]
+  },
+  {
+    "text": "acetaminophen",
+    "position": [982, 995],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "furosemide",
+    "position": [999, 1009],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  }
+]

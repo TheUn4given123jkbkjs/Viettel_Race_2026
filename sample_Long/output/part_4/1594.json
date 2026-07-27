@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Thai tư",
+    "position": [207, 214],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Z30.0",
+      "Z70",
+      "Z70.0"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "position": [88, 96],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy máu âm đạo",
+    "position": [100, 115],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "có tiền sử",
+    "position": [138, 148],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh cao huyết áp",
+    "position": [161, 178],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [182, 192],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Diphtheria-Tetanus-Pertussis-Hepatitis B-Haemophilus influenzae type b Vaccine",
+    "position": [482, 560],
+    "type": "THUá»C",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "khÃ´ng sá»t",
+    "position": [389, 401],
+    "type": "TRIá»U_CHá»¨NG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phá»§ nháº­n cáº£m giÃ¡c chÃ¡n Än",
+    "position": [406, 440],
+    "type": "TRIá»U_CHá»¨NG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "viÃªm gan B",
+    "position": [652, 663],
+    "type": "CHáº¨N_ÄOÃN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "má»t má»i",
+    "position": [272, 283],
+    "type": "TRIá»U_CHá»¨NG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vÃ ng da",
+    "position": [285, 293],
+    "type": "TRIá»U_CHá»¨NG",
+    "assertions": [],
+    "candidates": []
+  }
+]

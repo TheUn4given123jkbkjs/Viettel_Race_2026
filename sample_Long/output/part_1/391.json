@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Bệnh khớp trong các bệnh ung thư đã được xếp ở mục khác (C00-D48†), Nhiều vị trí",
+    "position": [0, 80],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M36.10*"]
+  },
+  {
+    "text": "**Dexamethasone**",
+    "position": [475, 492],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "**Methotrexate**",
+    "position": [513, 529],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6851"]
+  }
+]

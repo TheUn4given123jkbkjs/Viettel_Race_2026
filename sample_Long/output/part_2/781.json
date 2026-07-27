@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Chăm sóc bà mẹ vì các vấn đề của thai chưa xác định rõ",
+    "position": [257, 311],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["O36.9"]
+  },
+  {
+    "text": "Tiền sử THA 5 năm",
+    "position": [467, 484],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

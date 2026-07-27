@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Bệnh khớp do thần kinh, ở gối",
+    "position": [0, 29],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["M14.66"]
+  },
+  {
+    "text": "acetaminophen",
+    "position": [307, 320],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "ibuprofen",
+    "position": [326, 335],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "đau",
+    "position": [344, 347],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm",
+    "position": [351, 355],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

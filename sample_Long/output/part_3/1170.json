@@ -1,0 +1,58 @@
+[
+  {
+    "text": "papaverine",
+    "position": [218, 228],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7895"]
+  },
+  {
+    "text": "aspirin",
+    "position": [355, 362],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "atenolol",
+    "position": [364, 372],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1202"]
+  },
+  {
+    "text": "simvastatin",
+    "position": [376, 387],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36567"]
+  },
+  {
+    "text": "bố",
+    "position": [1123, 1125],
+    "type": "NGƯỜI_THÂN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "cholesterol",
+    "position": [284, 295],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp",
+    "position": [303, 311],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [737, 740],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,68 @@
+Malaria là một bệnh lây truyền qua vector gây ra bởi ký sinh trùng Plasmodium. Các triệu chứng của bệnh malaria bao gồm sốt cao, mề đay, đau đầu và vần vớ.
+
+Artemether / Lumefantrine là một loại thuốc chống ký sinh trùng được sử dụng để điều trị bệnh malaria. Thuốc hoạt động bằng cách ức chế sự phát triển của ký sinh trùng Plasmodium.
+
+Để điều trị bệnh malaria, bệnh nhân thường được chỉ định uống thuốc Artemether / Lumefantrine trong 3 ngày liên tiếp. Trong trường hợp bệnh nặng, bệnh nhân có thể cần được điều trị bằng thuốc khác.
+
+Dưới đây là một số thông tin về thuốc Artemether / Lumefantrine:
+
+- Tên thuốc: Artemether / Lumefantrine
+- Công dụng: Điều trị bệnh malaria
+- Hướng dẫn sử dụng: Uống 2 viên mỗi ngày trong 3 ngày liên tiếp
+- Phụ lục: Không có
+
+Nếu bạn đang điều trị bằng thuốc Artemether / Lumefantrine, bạn nên theo dõi các chỉ số sau:
+
+- Sốt
+- Mề đay
+- Đau đầu
+- Vần vớ
+
+Nếu bạn có bất kỳ triệu chứng nào trong số này, bạn nên liên hệ với bác sĩ để được tư vấn.
+
+Ngoài ra, bạn nên tránh uống thuốc Artemether / Lumefantrine cùng với các loại thuốc khác không có chỉ định.
+
+Bệnh nhân có thể bị tác dụng phụ sau khi uống thuốc Artemether / Lumefantrine:
+
+- Sốt
+- Mề đay
+- Đau đầu
+- Vần vớ
+
+Nếu bạn gặp bất kỳ tác dụng phụ nào, bạn nên liên hệ với bác sĩ để được tư vấn.
+
+Lưu ý: Thuốc Artemether / Lumefantrine chỉ được sử dụng để điều trị bệnh malaria. Không được tự ý uống thuốc này mà không có chỉ định từ bác sĩ.
+
+entities:
+[
+{
+  "text": "malaria",
+  "type": "TÊN_BỆNH",
+  "assertions": []
+},
+{
+  "text": "Artemether / Lumefantrine",
+  "type": "THUỐC",
+  "assertions": ["isHistorical"]
+},
+{
+  "text": "mề đay",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+},
+{
+  "text": "đau đầu",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+},
+{
+  "text": "vần vớ",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+},
+{
+  "text": "Plasmodium",
+  "type": "KHUẨN_ĐOÁN",
+  "assertions": []
+}
+]

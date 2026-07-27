@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Các bệnh mô mềm khác liên quan đến vận động, vận động quá mức và bị chèn ép",
+    "position": [64, 139],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["M70.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [462, 475],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [477, 490],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  }
+]

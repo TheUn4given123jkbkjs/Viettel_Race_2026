@@ -1,0 +1,37 @@
+[
+  {
+    "text": "ViÃªm da dáº¡ng herpes",
+    "position": [0, 22],
+    "type": "CHáº¨N_ÄOÃN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "acyclovir",
+    "position": [993, 1002],
+    "type": "THUá»C",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "paracetamol",
+    "position": [1590, 1601],
+    "type": "THUá»C",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiá»n sá»­ herpes sinh dá»¥c 3 láº§n trong nÄm qua",
+    "position": [2159, 2211],
+    "type": "CHáº¨N_ÄOÃN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "chlorhexidine",
+    "position": [1718, 1731],
+    "type": "THUá»C",
+    "assertions": [],
+    "candidates": []
+  }
+]

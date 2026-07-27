@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Suy thận sau can thiệp",
+    "position": [382, 404],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["N99.0"]
+  },
+  {
+    "text": "aspirin",
+    "position": [542, 549],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

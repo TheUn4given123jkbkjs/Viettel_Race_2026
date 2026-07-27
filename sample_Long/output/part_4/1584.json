@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Acetaminophen",
+    "position": [49, 62],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["161"]
+  },
+  {
+    "text": "đau dạ dày",
+    "position": [138, 148],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh sốt rét",
+    "position": [267, 279],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z86.13", "B52.0"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [49, 62],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["161"]
+  }
+]

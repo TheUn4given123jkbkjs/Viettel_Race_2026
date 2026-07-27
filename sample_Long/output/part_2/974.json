@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Rách, vỡ và chảy máu nội sọ do chấn thương khi sinh chưa xác định",
+    "position": [770, 835],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["P10.9"]
+  },
+  {
+    "text": "aspirin",
+    "position": [617, 624],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [707, 718],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

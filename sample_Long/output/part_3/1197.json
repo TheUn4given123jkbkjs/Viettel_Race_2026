@@ -1,0 +1,34 @@
+[
+  {
+    "text": "múa giật do thấp",
+    "position": [45, 61],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "I02",
+      "I02.0",
+      "I02.9"
+    ]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [117, 130],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [134, 146],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "THA",
+    "position": [89, 92],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

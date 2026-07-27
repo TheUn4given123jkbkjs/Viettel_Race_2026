@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm khớp do não mô cầu, nhiều vị trí (A39.8†)",
+    "position": [296, 342],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M01.00*"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [241, 248],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [254, 265],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

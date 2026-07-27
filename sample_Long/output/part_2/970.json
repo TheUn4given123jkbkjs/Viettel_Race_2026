@@ -1,0 +1,30 @@
+[
+  {
+    "text": "thai suy dinh dưỡng mà không đề cập đến nhỏ hay nhẹ cân so với tuổi thai",
+    "position": [61, 133],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P05.2"]
+  },
+  {
+    "text": "Acarbose",
+    "position": [315, 323],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["16681"]
+  },
+  {
+    "text": "Insulin",
+    "position": [327, 334],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["253182", "317235"]
+  },
+  {
+    "text": "folic acid",
+    "position": [418, 428],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  }
+]

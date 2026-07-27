@@ -1,0 +1,37 @@
+[
+  {
+    "text": "chuyển dạ đình trệ do đầu thai quay không hoàn toàn",
+    "position": [205, 256],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["O64.0"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [282, 289],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [93, 106],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [164, 172],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [619, 627],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

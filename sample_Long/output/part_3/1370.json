@@ -1,0 +1,23 @@
+[
+  {
+    "text": "tiểu đường",
+    "position": [43, 53],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [57, 69],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh loãng xương",
+    "position": [182, 198],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "tiểu đường type 2",
+    "position": [40, 57],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Insulin",
+    "position": [141, 148],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["253182", "317235"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [274, 281],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [283, 292],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không có dấu hiệu sốt",
+    "position": [296, 317],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [548, 565],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đường huyết",
+    "position": [162, 173],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

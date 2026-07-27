@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Viêm mạch hoại tử không đặc hiệu",
+    "position": [270, 302],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M31.9"]
+  },
+  {
+    "text": "sốt rét",
+    "position": [103, 110],
+    "type": "BỆNH",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [202, 209],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [103, 106],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [372, 382],
+    "type": "ĐIỀU_TRỊ",
+    "assertions": [],
+    "candidates": []
+  }
+]

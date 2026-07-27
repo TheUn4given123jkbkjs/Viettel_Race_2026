@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Bệnh khớp trong các bệnh về máu khác (D50-D76†), vùng chậu và đùi",
+    "position": [862, 927],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M36.35*"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [939, 946],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [357, 374],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [387, 390],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

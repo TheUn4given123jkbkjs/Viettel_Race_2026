@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm ruột thừa cấp tính kèm viêm phúc mạc toàn bộ",
+    "position": [151, 200],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K35.2"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [561, 574],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [605, 616],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

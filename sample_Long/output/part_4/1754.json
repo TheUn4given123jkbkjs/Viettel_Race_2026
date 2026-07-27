@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Nang lan toả vú nữ, không xác định vị trí",
+    "position": [81, 122],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N60.10"]
+  },
+  {
+    "text": "viêm vú",
+    "position": [168, 175],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau vú",
+    "position": [284, 290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thay đổi kích thước vú",
+    "position": [294, 316],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối u lớn",
+    "position": [383, 393],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

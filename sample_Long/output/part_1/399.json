@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Bệnh Moyamoya",
+    "position": [174, 187],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I67.5"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [126, 143],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [147, 156],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [87, 100],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [104, 114],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  }
+]

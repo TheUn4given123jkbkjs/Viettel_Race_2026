@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Bất thường về động lực chuyển dạ",
+    "position": [375, 407],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O62"]
+  },
+  {
+    "text": "sốt",
+    "position": [223, 226],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [244, 261],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [65, 77],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường loại 2",
+    "position": [81, 98],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Suy thận mạn, không đặc hiệu",
+    "position": [32, 60],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["N18.9"]
+  },
+  {
+    "text": "Sulfamethoxazole / Trimethoprim",
+    "position": [150, 181],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10831"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [206, 213],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Suy thận mạn",
+    "position": [32, 44],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chị gái",
+    "position": [90, 97],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

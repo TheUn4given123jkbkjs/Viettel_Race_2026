@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Amlodipine",
+    "position": [144, 154],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "ngứa",
+    "position": [608, 612],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [672, 675],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sụt cân",
+    "position": [723, 730],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mảng hồng ban",
+    "position": [1011, 1024],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Á vảy nến thể mảng lớn",
+    "position": [1374, 1396],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L41.4"]
+  },
+  {
+    "text": "Betamethasone",
+    "position": [1436, 1449],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1514"]
+  },
+  {
+    "text": "Salicylic acid",
+    "position": [1474, 1488],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "9525",
+      "91292",
+      "466470"
+    ]
+  }
+]

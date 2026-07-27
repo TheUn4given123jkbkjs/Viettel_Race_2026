@@ -1,0 +1,77 @@
+Bệnh án lâm sàng của [Tên bác sĩ] ngày [Ngày].
+
+1. Tiền sử bệnh nội khoa:
+- [Tên bệnh nhân] không có tiền sử bệnh nội khoa nào đáng kể.
+
+2. Bệnh sử hiện tại:
+- [Tên bệnh nhân] được nhập viện ngày [Date] vì các triệu chứng [tiêu chuẩn triệu chứng].
+- Trong quá trình điều trị, [Tên bệnh nhân] phủ nhận buồn nôn và không sốt.
+
+3. Y lệnh Điều trị:
+- [Tên bác sĩ] đã chẩn đoán bệnh Polyp cổ tử cung cho [Tên bệnh nhân] và chỉ định phẫu thuật.
+- [Tên bệnh nhân] được yêu cầu theo dõi lối sống để kiểm soát tình trạng bệnh.
+
+Kết luận: [Tên bác sĩ] đã thực hiện các bước điều trị cần thiết cho bệnh [Tên bệnh nhân] và khuyến cáo [Tên bệnh nhân] tiếp tục theo dõi để đảm bảo sức khỏe.
+
+Đánh giá: [Tên bác sĩ] đánh giá rằng bệnh [Tên bệnh nhân] đã được điều trị đúng đắn và cần tiếp tục theo dõi để kiểm soát tình trạng bệnh.
+
+Lưu ý: [Tên bác sĩ] lưu ý rằng bệnh [Tên bệnh nhân] cần được theo dõi chặt chẽ để tránh các biến chứng.
+
+Báo cáo: [Tên bác sĩ] báo cáo rằng bệnh [Tên bệnh nhân] đã được điều trị thành công và cần tiếp tục theo dõi để đảm bảo sức khỏe.
+
+Xét nghiệm: [Tên bác sĩ] đã tiến hành xét nghiệm để kiểm tra tình trạng bệnh [Tên bệnh nhân].
+
+Kết quả xét nghiệm: [Tên bác sĩ] đã nhận được kết quả xét nghiệm cho bệnh [Tên bệnh nhân].
+
+Chẩn đoán: [Tên bác sĩ] đã chẩn đoán bệnh Polyp cổ tử cung cho [Tên bệnh nhân].
+
+Thời gian điều trị: [Tên bác sĩ] đã chỉ định thời gian điều trị cho bệnh [Tên bệnh nhân].
+
+Độ dài điều trị: [Tên bác sĩ] đã chỉ định độ dài điều trị cho bệnh [Tên bệnh nhân].
+
+Số lượng điều trị: [Tên bác sĩ] đã chỉ định số lượng điều trị cho bệnh [Tên bệnh nhân].
+
+Y lệnh Điều trị: [Tên bác sĩ] đã chỉ định y lệnh điều trị cho bệnh [Tên bệnh nhân].
+
+Dự định điều trị: [Tên bác sĩ] đã dự định điều trị cho bệnh [Tên bệnh nhân].
+
+Sách lược điều trị: [Tên bác sĩ] đã chỉ định sách lược điều trị cho bệnh [Tên bệnh nhân].
+
+Hồ sơ bệnh án: [Tên bác sĩ] đã tạo hồ sơ bệnh án cho bệnh [Tên bệnh nhân].
+
+Trích xuất thực thể:
+{
+  "text": "Polyp cổ tử cung",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+},
+{
+  "text": "phủ nhận buồn nôn",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+},
+{
+  "text": "không sốt",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+},
+{
+  "text": "Polyp cổ tử cung",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+},
+{
+  "text": "phẫu thuật",
+  "type": "Y_LENH_DỊU_TRI",
+  "assertions": []
+},
+{
+  "text": "theo dõi lối sống",
+  "type": "Y_LENH_DỊU_TRI",
+  "assertions": []
+},
+{
+  "text": "Polyp cổ tử cung",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+}

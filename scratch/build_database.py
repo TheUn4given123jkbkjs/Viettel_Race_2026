@@ -197,7 +197,7 @@ def verify_database(db_path):
     print("Xác minh cơ sở dữ liệu hoàn tất.")
 
 if __name__ == "__main__":
-    db_path = "medical_codes.db"
+    db_path = os.path.join("db", "medical_codes.db")
     
     # Xử lý ICD-10
     icd_success = build_icd10(db_path)

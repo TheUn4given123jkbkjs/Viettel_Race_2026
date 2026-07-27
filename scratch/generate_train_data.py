@@ -28,7 +28,7 @@ def load_api_key():
                     return parts[1].strip()
     return None
 
-def query_local_db(entity_text, entity_type, db_path="medical_codes.db"):
+def query_local_db(entity_text, entity_type, db_path=os.path.join("db", "medical_codes.db")):
     """Truy vấn mã ICD-10 hoặc RxNorm từ SQLite"""
     if not os.path.exists(db_path):
         return []
@@ -97,7 +97,7 @@ def load_drugs_list():
         print("Lỗi tải danh mục thuốc:", e)
         return []
 
-def load_icd10_partition(member_flag, db_path="medical_codes.db"):
+def load_icd10_partition(member_flag, db_path=os.path.join("db", "medical_codes.db")):
     """Tải và phân vùng mã ICD-10 dựa trên ký tự bắt đầu của mã bệnh"""
     if not os.path.exists(db_path):
         print(f"Lỗi: Không tìm thấy CSDL '{db_path}'")

@@ -25,7 +25,7 @@ def load_api_key():
                     return parts[1].strip()
     return None
 
-def query_local_db(entity_text, entity_type, db_path="medical_codes.db"):
+def query_local_db(entity_text, entity_type, db_path=os.path.join("db", "medical_codes.db")):
     """
     Truy vấn mã ICD-10 hoặc RxNorm từ CSDL SQLite offline bằng FTS5
     và có phương án fallback bằng LIKE nếu FTS5 không khớp.

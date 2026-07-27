@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.db-journal
+*.db-wal
+*.db-shm
+inspect_excel.txt
+~$*
+*~$*

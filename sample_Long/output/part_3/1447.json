@@ -1,89 +1,51 @@
 [
   {
     "text": "loãng xương",
-    "position": [
-      226,
-      237
-    ],
+    "position": [226, 237],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "M80",
-      "M80.0",
-      "M80.1"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      601,
-      613
-    ],
+    "position": [601, 613],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      673,
-      690
-    ],
+    "position": [673, 690],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Các viêm xương tủy khác",
-    "position": [
-      975,
-      998
-    ],
+    "position": [975, 998],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M86.1",
-      "M86.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
-    "position": [
-      1204,
-      1217
-    ],
+    "position": [1204, 1217],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2551"
-    ]
+    "candidates": []
   },
   {
     "text": "Clindamycin",
-    "position": [
-      1263,
-      1274
-    ],
+    "position": [1263, 1274],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2582"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      1374,
-      1387
-    ],
+    "position": [1374, 1387],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

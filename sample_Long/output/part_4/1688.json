@@ -1,66 +1,42 @@
 [
   {
     "text": "Trĩ, không đặc hiệu",
-    "position": [
-      0,
-      19
-    ],
+    "position": [0, 19],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F19.96",
-      "E89.9",
-      "M14.89*"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      851,
-      868
-    ],
+    "position": [851, 868],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "trĩ nội",
-    "position": [
-      237,
-      244
-    ],
+    "position": [237, 244],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "trĩ ngoại",
-    "position": [
-      248,
-      257
-    ],
+    "position": [248, 257],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cảm giác đau và khó chịu khi đi cầu",
-    "position": [
-      465,
-      500
-    ],
+    "position": [465, 500],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chảy máu khi đi cầu",
-    "position": [
-      502,
-      521
-    ],
+    "position": [502, 521],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

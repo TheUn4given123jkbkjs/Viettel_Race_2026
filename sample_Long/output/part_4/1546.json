@@ -1,84 +1,56 @@
 [
   {
     "text": "đau thắt ngực",
-    "position": [
-      251,
-      264
-    ],
+    "position": [251, 264],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      457,
-      465
-    ],
+    "position": [457, 465],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt nhẹ",
-    "position": [
-      745,
-      752
-    ],
+    "position": [745, 752],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      819,
-      827
-    ],
+    "position": [819, 827],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      908,
-      915
-    ],
+    "position": [908, 915],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (EKG)",
-    "position": [
-      1391,
-      1408
-    ],
+    "position": [1391, 1408],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST chênh xuống ở các chuyển đạo V4, V5 và V6",
-    "position": [
-      1441,
-      1485
-    ],
+    "position": [1441, 1485],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.15 ng/mL",
-    "position": [
-      1555,
-      1565
-    ],
+    "position": [1555, 1565],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

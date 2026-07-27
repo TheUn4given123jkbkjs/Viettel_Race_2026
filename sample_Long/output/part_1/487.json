@@ -1,42 +1,28 @@
 [
   {
     "text": "mệt mỏi",
-    "position": [
-      31,
-      38
-    ],
+    "position": [31, 38],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận sốt",
-    "position": [
-      41,
-      53
-    ],
+    "position": [41, 53],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "huyết học",
-    "position": [
-      104,
-      113
-    ],
+    "position": [104, 113],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hemoglobin 12 g/dl",
-    "position": [
-      161,
-      179
-    ],
+    "position": [161, 179],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,40 +1,23 @@
 [
   {
     "text": "Viêm bàng quang, không đặc hiệu",
-    "position": [
-      36,
-      67
-    ],
+    "position": [36, 67],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "N30.9"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [
-      268,
-      281
-    ],
+    "position": [268, 281],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "167"
-    ]
+    "candidates": []
   },
   {
     "text": "Acyclovir",
-    "position": [
-      310,
-      319
-    ],
+    "position": [310, 319],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "281"
-    ]
+    "candidates": []
   }
 ]

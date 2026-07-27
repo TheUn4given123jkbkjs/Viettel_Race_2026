@@ -1,62 +1,42 @@
 [
   {
     "text": "Viêm da tiếp xúc không đặc hiệu do thuốc nhuộm",
-    "position": [
-      0,
-      46
-    ],
+    "position": [0, 46],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L25.2"
-    ]
+    "candidates": []
   },
   {
     "text": "đỏ da",
-    "position": [
-      415,
-      420
-    ],
+    "position": [415, 420],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ngứa",
-    "position": [
-      422,
-      426
-    ],
+    "position": [422, 426],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "blister",
-    "position": [
-      431,
-      438
-    ],
+    "position": [431, 438],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "corticosteroid",
-    "position": [
-      715,
-      729
-    ],
+    "position": [715, 729],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thuốc chống histamine",
-    "position": [
-      664,
-      685
-    ],
+    "position": [664, 685],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

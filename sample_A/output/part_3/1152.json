@@ -4,18 +4,14 @@
     "position": [50, 79],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["F06.2"]
+    "candidates": []
   },
   {
     "text": "tâm thần phân liệt",
     "position": [84, 102],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F20.81",
-      "F20.89",
-      "F06.2"
-    ]
+    "candidates": []
   },
   {
     "text": "bác sĩ chuyên khoa tâm thần",

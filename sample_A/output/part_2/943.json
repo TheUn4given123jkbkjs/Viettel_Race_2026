@@ -3,12 +3,8 @@
     "text": "Ethambutol / Isoniazid",
     "position": [157, 179],
     "type": "THUỐC",
-    "assertions": [
-      {
-        "isHistorical": true
-      }
-    ],
-    "candidates": ["821005", "814321"]
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "bệnh lao",
@@ -28,11 +24,7 @@
     "text": "buồn nôn",
     "position": [771, 779],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "assertions": [
-      {
-        "isNegated": true
-      }
-    ],
+    "assertions": [],
     "candidates": []
   },
   {

@@ -1,80 +1,49 @@
 [
   {
     "text": "khối u ở phổi",
-    "position": [
-      91,
-      104
-    ],
+    "position": [91, 104],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau nhức các khớp xương",
-    "position": [
-      177,
-      200
-    ],
+    "position": [177, 200],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "sưng nóng đỏ",
-    "position": [
-      323,
-      335
-    ],
+    "position": [323, 335],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Bệnh khớp trong các bệnh ung thư đã được xếp ở mục khác (C00-D48†), vị trí không xác định",
-    "position": [
-      667,
-      756
-    ],
+    "position": [667, 756],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M36.19*"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      996,
-      1009
-    ],
+    "position": [996, 1009],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      1404,
-      1411
-    ],
+    "position": [1404, 1411],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      1416,
-      1423
-    ],
+    "position": [1416, 1423],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

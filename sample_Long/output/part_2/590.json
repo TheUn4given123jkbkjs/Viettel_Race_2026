@@ -1,158 +1,105 @@
 [
   {
     "text": "Viêm và sưng ở các bộ phận khác nhau của cơ thể",
-    "position": [
-      515,
-      562
-    ],
+    "position": [515, 562],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh tự miễn",
-    "position": [
-      0,
-      12
-    ],
+    "position": [0, 12],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M36.0*",
-      "M36.00*",
-      "M36.01*"
-    ]
+    "candidates": []
   },
   {
     "text": "Prednisone",
-    "position": [
-      2215,
-      2225
-    ],
+    "position": [2215, 2225],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Methotrexate",
-    "position": [
-      2228,
-      2240
-    ],
+    "position": [2228, 2240],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6851"
-    ]
+    "candidates": []
   },
   {
     "text": "Hydroxychloroquine",
-    "position": [
-      2243,
-      2261
-    ],
+    "position": [2243, 2261],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sulfasalazine",
-    "position": [
-      2264,
-      2277
-    ],
+    "position": [2264, 2277],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Azathioprine",
-    "position": [
-      2280,
-      2292
-    ],
+    "position": [2280, 2292],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1256"
-    ]
+    "candidates": []
   },
   {
     "text": "**********",
-    "position": [
-      2345,
-      2355
-    ],
+    "position": [2345, 2355],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "**********",
-    "position": [
-      2345,
-      2355
-    ],
+    "position": [2345, 2355],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm máu",
-    "position": [
-      1287,
-      1301
-    ],
+    "position": [1287, 1301],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm nước tiểu",
-    "position": [
-      1336,
-      1356
-    ],
+    "position": [1336, 1356],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm hình ảnh",
-    "position": [
-      1401,
-      1420
-    ],
+    "position": [1401, 1420],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm sinh thiết",
-    "position": [
-      1502,
-      1523
-    ],
+    "position": [1502, 1523],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Kết quả xét nghiệm",
-    "position": [
-      2819,
-      2837
-    ],
+    "position": [2819, 2837],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tình trạng viêm và tổn thương",
-    "position": [
-      2861,
-      2890
-    ],
+    "position": [2861, 2890],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

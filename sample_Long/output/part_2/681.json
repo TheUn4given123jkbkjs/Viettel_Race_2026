@@ -1,78 +1,51 @@
 [
   {
     "text": "tiểu buốt",
-    "position": [
-      89,
-      98
-    ],
+    "position": [89, 98],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu rắt",
-    "position": [
-      100,
-      108
-    ],
+    "position": [100, 108],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau âm ỉ vùng hạ vị",
-    "position": [
-      112,
-      131
-    ],
+    "position": [112, 131],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sốt nhẹ",
-    "position": [
-      144,
-      151
-    ],
+    "position": [144, 151],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nhiễm khuẩn hệ tiết niệu, vị trí không xác định",
-    "position": [
-      298,
-      345
-    ],
+    "position": [298, 345],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N39.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
-    "position": [
-      357,
-      370
-    ],
+    "position": [357, 370],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2551"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      374,
-      387
-    ],
+    "position": [374, 387],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

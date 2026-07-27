@@ -1,64 +1,42 @@
 [
   {
     "text": "Sụn chêm dạng đĩa (bẩm sinh) sụn chêm ngoài không đặc hiệu và các loại khác",
-    "position": [
-      171,
-      246
-    ],
+    "position": [171, 246],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M23.16"
-    ]
+    "candidates": []
   },
   {
     "text": "đau khớp gối",
-    "position": [
-      668,
-      680
-    ],
+    "position": [668, 680],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiếng kêu lục khục",
-    "position": [
-      708,
-      726
-    ],
+    "position": [708, 726],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "kẹt khớp gối",
-    "position": [
-      830,
-      842
-    ],
+    "position": [830, 842],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử chấn thương gối nhẹ cách đây 2 năm",
-    "position": [
-      988,
-      1030
-    ],
+    "position": [988, 1030],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "MRI khớp gối",
-    "position": [
-      1228,
-      1240
-    ],
+    "position": [1228, 1240],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

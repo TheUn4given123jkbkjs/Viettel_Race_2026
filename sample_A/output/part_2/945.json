@@ -4,27 +4,27 @@
     "position": [0, 42],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["C47.4"]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
     "position": [363, 372],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": []
   },
   {
     "text": "Amitriptyline",
     "position": [408, 421],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["704"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
     "position": [452, 464],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": []
   }
 ]

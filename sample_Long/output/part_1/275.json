@@ -1,98 +1,56 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [
-      153,
-      166
-    ],
+    "position": [153, 166],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Dextran 70",
-    "position": [
-      318,
-      328
-    ],
+    "position": [318, 328],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "3274"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "nhồi máu cơ tim cấp",
-    "position": [
-      631,
-      650
-    ],
+    "position": [631, 650],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "I21",
-      "I21.0",
-      "I21.1"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "dữ dộii",
-    "position": [
-      795,
-      802
-    ],
+    "position": [795, 802],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      1506,
-      1515
-    ],
+    "position": [1506, 1515],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "tắc mạch chi dưới cấp tính",
-    "position": [
-      1839,
-      1865
-    ],
+    "position": [1839, 1865],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Heparin",
-    "position": [
-      1918,
-      1925
-    ],
+    "position": [1918, 1925],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "235473"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnhlí",
-    "position": [
-      2529,
-      2535
-    ],
+    "position": [2529, 2535],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

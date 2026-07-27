@@ -4,7 +4,7 @@
     "position": [339, 354],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["71722"]
+    "candidates": []
   },
   {
     "text": "tiểu đường tuýp 2",
@@ -25,11 +25,7 @@
     "position": [685, 695],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K91",
-      "K91.0",
-      "K91.1"
-    ]
+    "candidates": []
   },
   {
     "text": "xóa bỏ các khối u ác tính",

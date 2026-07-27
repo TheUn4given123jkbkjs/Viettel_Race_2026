@@ -1,40 +1,23 @@
 [
   {
     "text": "Viêm mô kẽ ống thận mạn",
-    "position": [
-      66,
-      89
-    ],
+    "position": [66, 89],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N11",
-      "N11.8",
-      "N11.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      778,
-      791
-    ],
+    "position": [778, 791],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Allopurinol",
-    "position": [
-      795,
-      806
-    ],
+    "position": [795, 806],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "519"
-    ]
+    "candidates": []
   }
 ]

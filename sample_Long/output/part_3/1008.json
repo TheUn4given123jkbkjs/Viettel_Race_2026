@@ -1,72 +1,49 @@
 [
   {
     "text": "đau hố chậu phải",
-    "position": [
-      318,
-      334
-    ],
+    "position": [318, 334],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      397,
-      406
-    ],
+    "position": [397, 406],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "bạch cầu 26.7",
-    "position": [
-      679,
-      692
-    ],
+    "position": [679, 692],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 227.0 mg/L",
-    "position": [
-      703,
-      718
-    ],
+    "position": [703, 718],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm ổ bụng",
-    "position": [
-      764,
-      778
-    ],
+    "position": [764, 778],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm đông máu",
-    "position": [
-      924,
-      943
-    ],
+    "position": [924, 943],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp CT sọ",
-    "position": [
-      947,
-      957
-    ],
+    "position": [947, 957],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

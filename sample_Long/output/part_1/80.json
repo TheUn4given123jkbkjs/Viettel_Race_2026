@@ -1,38 +1,23 @@
 [
   {
     "text": "Bệnh lý xương trong các bệnh khác đã xếp loại ở mục khác",
-    "position": [
-      49,
-      105
-    ],
+    "position": [49, 105],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M90.8*"
-    ]
+    "candidates": []
   },
   {
     "text": "Acarbose",
-    "position": [
-      259,
-      267
-    ],
+    "position": [259, 267],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "16681"
-    ]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [
-      271,
-      281
-    ],
+    "position": [271, 281],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "17767"
-    ]
+    "candidates": []
   }
 ]

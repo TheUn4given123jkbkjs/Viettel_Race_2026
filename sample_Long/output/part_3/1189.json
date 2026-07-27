@@ -1,38 +1,23 @@
 [
   {
     "text": "Phản ứng quá mẫn với ánh sáng do thuốc",
-    "position": [
-      746,
-      784
-    ],
+    "position": [746, 784],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L56.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Abacavir",
-    "position": [
-      219,
-      227
-    ],
+    "position": [219, 227],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "190521"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      864,
-      877
-    ],
+    "position": [864, 877],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

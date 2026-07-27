@@ -4,13 +4,13 @@
     "position": [118, 128],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["7880"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [246, 253],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   }
 ]

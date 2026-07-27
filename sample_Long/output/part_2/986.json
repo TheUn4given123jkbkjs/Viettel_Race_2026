@@ -1,72 +1,44 @@
 [
   {
     "text": "Sodium thiosulfate",
-    "position": [
-      192,
-      210
-    ],
+    "position": [192, 210],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "36726"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      100,
-      113
-    ],
+    "position": [100, 113],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường loại 2",
-    "position": [
-      117,
-      134
-    ],
+    "position": [117, 134],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bố đã qua đời vì nhồi máu cơ tim",
-    "position": [
-      337,
-      369
-    ],
+    "position": [337, 369],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      405,
-      414
-    ],
+    "position": [405, 414],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      949,
-      966
-    ],
+    "position": [949, 966],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

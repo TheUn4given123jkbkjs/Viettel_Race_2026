@@ -1,74 +1,42 @@
 [
   {
     "text": "Metronidazole",
-    "position": [
-      150,
-      163
-    ],
+    "position": [150, 163],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "6922"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      232,
-      249
-    ],
+    "position": [232, 249],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      638,
-      645
-    ],
+    "position": [638, 645],
     "type": "THUỐC",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "1191"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "viêm dạ dày",
-    "position": [
-      340,
-      351
-    ],
+    "position": [340, 351],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K29",
-      "K29.0",
-      "K29.1"
-    ]
+    "candidates": []
   },
   {
     "text": "nội soi dạ dày",
-    "position": [
-      471,
-      485
-    ],
+    "position": [471, 485],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đường huyết",
-    "position": [
-      728,
-      739
-    ],
+    "position": [728, 739],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

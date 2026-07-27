@@ -4,7 +4,7 @@
     "position": [89, 100],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["7402"]
+    "candidates": []
   },
   {
     "text": "giun sán",
@@ -18,32 +18,20 @@
     "position": [35, 44],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.15",
-      "A51.46",
-      "Z86.11"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh nhân",
     "position": [35, 44],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.15",
-      "A51.46",
-      "Z86.11"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh nhân",
     "position": [35, 44],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.15",
-      "A51.46",
-      "Z86.11"
-    ]
+    "candidates": []
   }
 ]

@@ -4,21 +4,21 @@
     "position": [0, 28],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A54.86"]
+    "candidates": []
   },
   {
     "text": "Metronidazole",
     "position": [525, 538],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6922"]
+    "candidates": []
   },
   {
     "text": "Vancomycin",
     "position": [541, 551],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["11124"]
+    "candidates": []
   },
   {
     "text": "Bác sĩ",
@@ -67,11 +67,7 @@
     "position": [0, 11],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A54.86",
-      "E76.29",
-      "J95.02"
-    ]
+    "candidates": []
   },
   {
     "text": "Huyết",
@@ -85,11 +81,7 @@
     "position": [1782, 1789],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A54.21",
-      "A54.24",
-      "A54.31"
-    ]
+    "candidates": []
   },
   {
     "text": "Cầu",

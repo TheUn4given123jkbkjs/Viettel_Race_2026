@@ -1,46 +1,28 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      142,
-      159
-    ],
+    "position": [142, 159],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      188,
-      205
-    ],
+    "position": [188, 205],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      209,
-      218
-    ],
+    "position": [209, 218],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [
-      163,
-      175
-    ],
+    "position": [163, 175],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,65 +1,43 @@
 [
   {
     "text": "Hepatitis A",
-    "position": [
-      17,
-      28
-    ],
-    "type": "TÊN_BỆNH",
+    "position": [17, 28],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hepatitis A Vaccine",
-    "position": [
-      846,
-      865
-    ],
+    "position": [846, 865],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "253174"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      394,
-      397
-    ],
+    "position": [394, 397],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      399,
-      406
-    ],
+    "position": [399, 406],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng da",
-    "position": [
-      448,
-      455
-    ],
+    "position": [448, 455],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy gan",
-    "position": [
-      533,
-      540
-    ],
-    "type": "BIẾN_CHỨNG",
+    "position": [533, 540],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

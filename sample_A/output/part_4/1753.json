@@ -2,7 +2,7 @@
   {
     "text": "tiền sử THA",
     "position": [38, 49],
-    "type": "isHistorical",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isHistorical"],
     "candidates": []
   },
@@ -11,6 +11,6 @@
     "position": [222, 229],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   }
 ]

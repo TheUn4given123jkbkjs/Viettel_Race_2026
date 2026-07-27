@@ -1,81 +1,51 @@
 [
   {
     "text": "không sốt",
-    "position": [
-      487,
-      496
-    ],
+    "position": [487, 496],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "nhịp thở nhanh",
-    "position": [
-      427,
-      441
-    ],
+    "position": [427, 441],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khí máu động mạch",
-    "position": [
-      679,
-      696
-    ],
+    "position": [679, 696],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "pH 7,21",
-    "position": [
-      737,
-      744
-    ],
+    "position": [737, 744],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Toan chuyển hóa muộn của trẻ sơ sinh",
-    "position": [
-      913,
-      949
-    ],
+    "position": [913, 949],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P74.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Sodium bicarbonate",
-    "position": [
-      1179,
-      1197
-    ],
+    "position": [1179, 1197],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "36676"
-    ]
+    "candidates": []
   },
   {
     "text": "Vitamin A",
-    "position": [
-      1302,
-      1311
-    ],
+    "position": [1302, 1311],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "11246",
-      "97016"
-    ]
+    "candidates": []
   }
 ]

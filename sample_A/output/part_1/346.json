@@ -4,31 +4,27 @@
     "position": [102, 106],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "D15.098",
-      "Z01.5",
-      "R76.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [169, 182],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Acetylcysteine",
     "position": [186, 200],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["197"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [255, 262],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   }
 ]

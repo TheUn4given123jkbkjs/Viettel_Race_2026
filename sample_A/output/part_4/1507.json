@@ -4,47 +4,47 @@
     "position": [459, 472],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["H80.2"]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
     "position": [271, 281],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [339, 352],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Furosemide",
     "position": [412, 422],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4603"]
+    "candidates": []
   },
   {
     "text": "Tiền sử THA 5 năm",
     "position": [46, 63],
-    "type": "isHistorical",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Tiền sử tiểu đường 3 năm",
     "position": [68, 92],
-    "type": "isHistorical",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Người bệnh",
     "position": [108, 118],
-    "type": "isFamily",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isFamily"],
     "candidates": []
   }

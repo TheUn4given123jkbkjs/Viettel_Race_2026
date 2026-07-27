@@ -4,21 +4,21 @@
     "position": [172, 190],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G24.5"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [306, 319],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Omeprazole",
     "position": [341, 351],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7646"]
+    "candidates": []
   },
   {
     "text": "Bệnh nhân nữ",
@@ -32,6 +32,6 @@
     "position": [172, 190],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["G24.5"]
+    "candidates": []
   }
 ]

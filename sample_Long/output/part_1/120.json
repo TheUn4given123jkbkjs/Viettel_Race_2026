@@ -1,56 +1,35 @@
 [
   {
     "text": "Hội chứng viêm thận mạn, bất thường nhỏ ở cầu thận",
-    "position": [
-      399,
-      449
-    ],
+    "position": [399, 449],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N03.0"
-    ]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      462,
-      479
-    ],
+    "position": [462, 479],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      483,
-      492
-    ],
+    "position": [483, 492],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      63,
-      76
-    ],
+    "position": [63, 76],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu ra máu",
-    "position": [
-      48,
-      59
-    ],
+    "position": [48, 59],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

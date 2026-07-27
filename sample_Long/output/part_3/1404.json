@@ -1,72 +1,49 @@
 [
   {
     "text": "đau đầu",
-    "position": [
-      40,
-      47
-    ],
+    "position": [40, 47],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      75,
-      83
-    ],
+    "position": [75, 83],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt đêm",
-    "position": [
-      318,
-      325
-    ],
+    "position": [318, 325],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đaubụng",
-    "position": [
-      395,
-      402
-    ],
+    "position": [395, 402],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt nhẹ",
-    "position": [
-      430,
-      437
-    ],
+    "position": [430, 437],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu",
-    "position": [
-      552,
-      560
-    ],
+    "position": [552, 560],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "227.0 mg/L",
-    "position": [
-      602,
-      612
-    ],
+    "position": [602, 612],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

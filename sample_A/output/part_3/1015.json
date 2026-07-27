@@ -4,18 +4,14 @@
     "position": [261, 298],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F13.10",
-      "F13.12",
-      "F13.14"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [188, 195],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
@@ -57,10 +53,6 @@
     "position": [304, 327],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F15.99",
-      "F16.19",
-      "F16.29"
-    ]
+    "candidates": []
   }
 ]

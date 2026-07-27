@@ -1,41 +1,29 @@
 [
   {
     "text": "đau bụng",
-    "position": [
-      314,
-      322
-    ],
+    "position": [314, 322],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chảy máu âm đạo",
-    "position": [
-      324,
-      339
-    ],
+    "position": [324, 339],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      341,
-      344
-    ],
+    "position": [341, 344],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      235,
-      245
-    ],
-    "type": "ĐIỀU_TRỊ",
+    "position": [235, 245],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

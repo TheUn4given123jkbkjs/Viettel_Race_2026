@@ -1,62 +1,42 @@
 [
   {
     "text": "buồn nôn",
-    "position": [
-      92,
-      100
-    ],
+    "position": [92, 100],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn ra dịch vàng",
-    "position": [
-      104,
-      120
-    ],
+    "position": [104, 120],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      133,
-      140
-    ],
+    "position": [133, 140],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nôn mửa sau phẫu thuật dạ dày - ruột",
-    "position": [
-      426,
-      462
-    ],
+    "position": [426, 462],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K91.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Ondansetron 4mg",
-    "position": [
-      784,
-      799
-    ],
+    "position": [784, 799],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Metoclopramide 10mg iv",
-    "position": [
-      822,
-      844
-    ],
+    "position": [822, 844],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,94 +1,58 @@
 [
   {
     "text": "Propylthiouracil",
-    "position": [
-      178,
-      194
-    ],
+    "position": [178, 194],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "8794"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "hypertension",
-    "position": [
-      369,
-      381
-    ],
+    "position": [369, 381],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "sụt cân",
-    "position": [
-      736,
-      743
-    ],
+    "position": [736, 743],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      1175,
-      1183
-    ],
+    "position": [1175, 1183],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      1323,
-      1330
-    ],
+    "position": [1323, 1330],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "sinus tachycardia",
-    "position": [
-      1718,
-      1735
-    ],
+    "position": [1718, 1735],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin I",
-    "position": [
-      2553,
-      2563
-    ],
+    "position": [2553, 2563],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "propranolol",
-    "position": [
-      2685,
-      2696
-    ],
+    "position": [2685, 2696],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8787"
-    ]
+    "candidates": []
   }
 ]

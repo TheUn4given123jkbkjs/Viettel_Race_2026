@@ -1,48 +1,28 @@
 [
   {
     "text": "Viêm khớp có hủy khớp (L40.5†), vùng chậu và đùi",
-    "position": [
-      32,
-      80
-    ],
+    "position": [32, 80],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "M07.15*"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Atenolol",
-    "position": [
-      596,
-      604
-    ],
+    "position": [596, 604],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1202"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      633,
-      646
-    ],
+    "position": [633, 646],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "************",
-    "position": [
-      716,
-      728
-    ],
+    "position": [716, 728],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

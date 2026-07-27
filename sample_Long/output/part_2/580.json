@@ -1,52 +1,35 @@
 [
   {
     "text": "Chảy máu phổi nặng chu sinh",
-    "position": [
-      158,
-      185
-    ],
+    "position": [158, 185],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P26.1"
-    ]
+    "candidates": []
   },
   {
     "text": "theo dõi lối sống",
-    "position": [
-      494,
-      511
-    ],
+    "position": [494, 511],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đi khám thường xuyên",
-    "position": [
-      515,
-      535
-    ],
+    "position": [515, 535],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sự chăm sóc y tế đúng đắn",
-    "position": [
-      362,
-      387
-    ],
+    "position": [362, 387],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tình trạng sức khỏe của mình",
-    "position": [
-      44,
-      72
-    ],
+    "position": [44, 72],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

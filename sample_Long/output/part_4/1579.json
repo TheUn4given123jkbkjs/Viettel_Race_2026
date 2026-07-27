@@ -1,58 +1,37 @@
 [
   {
     "text": "Kén (nang) sụn chêm nhiều vị trí",
-    "position": [
-      290,
-      322
-    ],
+    "position": [290, 322],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M23.00"
-    ]
+    "candidates": []
   },
   {
     "text": "Đái tháo đường type 2",
-    "position": [
-      79,
-      100
-    ],
+    "position": [79, 100],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Huyết áp cao",
-    "position": [
-      103,
-      115
-    ],
+    "position": [103, 115],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chấn thương đầu não",
-    "position": [
-      145,
-      164
-    ],
+    "position": [145, 164],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Viêm phổi nặng",
-    "position": [
-      176,
-      190
-    ],
+    "position": [176, 190],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

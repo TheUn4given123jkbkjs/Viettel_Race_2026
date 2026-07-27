@@ -1,38 +1,23 @@
 [
   {
     "text": "cảm cúm với biểu hiện khác, virus cúm được định danh khác",
-    "position": [
-      127,
-      184
-    ],
+    "position": [127, 184],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J10.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      417,
-      430
-    ],
+    "position": [417, 430],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Dextromethorphan",
-    "position": [
-      472,
-      488
-    ],
+    "position": [472, 488],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3289"
-    ]
+    "candidates": []
   }
 ]

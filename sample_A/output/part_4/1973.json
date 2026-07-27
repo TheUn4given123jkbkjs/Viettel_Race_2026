@@ -4,11 +4,7 @@
     "position": [324, 333],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": []
   },
   {
     "text": "Poractant alpha",
@@ -20,7 +16,7 @@
   {
     "text": "Bà A",
     "position": [45, 49],
-    "type": "NGƯỜI_THÂN",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isFamily"],
     "candidates": []
   },

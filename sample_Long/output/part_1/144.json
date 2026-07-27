@@ -1,44 +1,30 @@
 [
   {
     "text": "Bệnh khớp vảy nến có tổn thương khớp ngón xa (L40.5†)",
-    "position": [
-      731,
-      784
-    ],
+    "position": [731, 784],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "methotrexate",
-    "position": [
-      857,
-      869
-    ],
+    "position": [857, 869],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ibuprofen",
-    "position": [
-      894,
-      903
-    ],
+    "position": [894, 903],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      139,
-      148
-    ],
+    "position": [139, 148],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

@@ -4,20 +4,20 @@
     "position": [476, 483],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
     "position": [487, 498],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "THA 5 năm",
     "position": [279, 288],
-    "type": "isHistorical",
-    "assertions": ["isFamily"],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily", "isHistorical"],
     "candidates": []
   }
 ]

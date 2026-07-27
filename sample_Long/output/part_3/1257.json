@@ -1,84 +1,56 @@
 [
   {
     "text": "đau thắt ngực",
-    "position": [
-      298,
-      311
-    ],
+    "position": [298, 311],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      426,
-      434
-    ],
+    "position": [426, 434],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      516,
-      533
-    ],
+    "position": [516, 533],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      576,
-      588
-    ],
+    "position": [576, 588],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở khi gắng sức",
-    "position": [
-      656,
-      676
-    ],
+    "position": [656, 676],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin I",
-    "position": [
-      984,
-      994
-    ],
+    "position": [984, 994],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.05 ng/mL",
-    "position": [
-      1015,
-      1025
-    ],
+    "position": [1015, 1025],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST chênh xuống nhẹ",
-    "position": [
-      1123,
-      1141
-    ],
+    "position": [1123, 1141],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

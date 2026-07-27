@@ -4,21 +4,21 @@
     "position": [97, 124],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isHistorical"],
-    "candidates": ["C18.5"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [150, 163],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Metformin",
     "position": [167, 176],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6809"]
+    "candidates": []
   },
   {
     "text": "THA",
@@ -32,10 +32,6 @@
     "position": [218, 228],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": []
   }
 ]

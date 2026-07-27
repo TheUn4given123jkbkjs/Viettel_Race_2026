@@ -4,28 +4,28 @@
     "position": [688, 716],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["H21.2"]
+    "candidates": []
   },
   {
     "text": "acetaminophen",
     "position": [487, 500],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "metoclopramide",
     "position": [509, 523],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6915"]
+    "candidates": []
   },
   {
     "text": "cimetidine",
     "position": [532, 542],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2541"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",

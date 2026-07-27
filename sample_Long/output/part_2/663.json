@@ -1,40 +1,23 @@
 [
   {
     "text": "Đau lưng",
-    "position": [
-      92,
-      100
-    ],
+    "position": [92, 100],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M54",
-      "M54.4",
-      "M54.5"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      231,
-      238
-    ],
+    "position": [231, 238],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "acetaminophen",
-    "position": [
-      389,
-      402
-    ],
+    "position": [389, 402],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

@@ -1,67 +1,37 @@
 [
   {
     "text": "Rối loạn khác của hệ tuần hoàn trong bệnh phân loại nơi khác",
-    "position": [
-      430,
-      490
-    ],
+    "position": [430, 490],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I98",
-      "I98*"
-    ]
+    "candidates": []
   },
   {
     "text": "Abacavir",
-    "position": [
-      387,
-      395
-    ],
+    "position": [387, 395],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "190521"
-    ]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
-    "position": [
-      399,
-      411
-    ],
+    "position": [399, 411],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8638"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      55,
-      58
-    ],
+    "position": [55, 58],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      {
-        "type": "isHistorical"
-      }
-    ],
+    "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường type 2",
-    "position": [
-      74,
-      91
-    ],
+    "position": [74, 91],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      {
-        "type": "isNegated"
-      }
-    ],
+    "assertions": [],
     "candidates": []
   }
 ]

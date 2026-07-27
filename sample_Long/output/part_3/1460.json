@@ -1,78 +1,49 @@
 [
   {
     "text": "Hội chứng viêm thận tiến triển, viêm cầu thận gian mạch mao mạch lan tỏa",
-    "position": [
-      66,
-      138
-    ],
+    "position": [66, 138],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N01.5"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      36,
-      39
-    ],
+    "position": [36, 39],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Acetylcysteine",
-    "position": [
-      617,
-      631
-    ],
+    "position": [617, 631],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "197"
-    ]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [
-      635,
-      645
-    ],
+    "position": [635, 645],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "17767"
-    ]
+    "candidates": []
   },
   {
     "text": "suy thận mức độ 3",
-    "position": [
-      522,
-      539
-    ],
+    "position": [522, 539],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      173,
-      186
-    ],
+    "position": [173, 186],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "protein trong nước tiểu",
-    "position": [
-      190,
-      213
-    ],
+    "position": [190, 213],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

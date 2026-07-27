@@ -1,54 +1,35 @@
 [
   {
     "text": "dính đốt sống khác",
-    "position": [
-      435,
-      453
-    ],
+    "position": [435, 453],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau vùng thắt lưng bên trái",
-    "position": [
-      35,
-      62
-    ],
+    "position": [35, 62],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      145,
-      162
-    ],
+    "position": [145, 162],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      164,
-      176
-    ],
+    "position": [164, 176],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau lan xuống mông",
-    "position": [
-      235,
-      253
-    ],
+    "position": [235, 253],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

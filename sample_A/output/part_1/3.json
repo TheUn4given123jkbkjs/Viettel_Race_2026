@@ -4,7 +4,7 @@
     "position": [115, 128],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["1151"]
+    "candidates": []
   },
   {
     "text": "Đau bụng vùng thượng vị",
@@ -18,11 +18,7 @@
     "position": [48, 61],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "ĐTĐ type 2",
@@ -36,14 +32,14 @@
     "position": [1367, 1382],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K29.0", "K29.1"]
+    "candidates": []
   },
   {
     "text": "Omeprazole",
     "position": [1409, 1419],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7646"]
+    "candidates": []
   },
   {
     "text": "WBC",

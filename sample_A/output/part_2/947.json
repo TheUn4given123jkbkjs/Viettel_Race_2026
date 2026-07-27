@@ -4,18 +4,14 @@
     "position": [64, 75],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["11198"]
+    "candidates": []
   },
   {
     "text": "ung thư",
     "position": [136, 143],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M36.1*",
-      "M36.10*",
-      "M36.11*"
-    ]
+    "candidates": []
   },
   {
     "text": "buồn nôn",

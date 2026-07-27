@@ -1,38 +1,23 @@
 [
   {
     "text": "Bệnh Coeliac",
-    "position": [
-      138,
-      150
-    ],
+    "position": [138, 150],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K90.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [
-      397,
-      410
-    ],
+    "position": [397, 410],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "167"
-    ]
+    "candidates": []
   },
   {
     "text": "Budesonide",
-    "position": [
-      422,
-      432
-    ],
+    "position": [422, 432],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "19831"
-    ]
+    "candidates": []
   }
 ]

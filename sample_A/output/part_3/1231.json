@@ -4,11 +4,7 @@
     "position": [318, 331],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh đường tiêu hóa",
@@ -22,7 +18,7 @@
     "position": [60, 66],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["168"]
+    "candidates": []
   },
   {
     "text": "bệnh nhân",
@@ -50,6 +46,6 @@
     "position": [113, 129],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A06.1"]
+    "candidates": []
   }
 ]

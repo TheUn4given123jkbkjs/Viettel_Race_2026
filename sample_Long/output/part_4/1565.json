@@ -1,40 +1,23 @@
 [
   {
     "text": "Sụn chêm dạng đĩa (bẩm sinh)",
-    "position": [
-      10,
-      38
-    ],
+    "position": [10, 38],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M23.16",
-      "M23.17",
-      "M23.19"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [
-      260,
-      273
-    ],
+    "position": [260, 273],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "167"
-    ]
+    "candidates": []
   },
   {
     "text": "Albuterol",
-    "position": [
-      402,
-      411
-    ],
+    "position": [402, 411],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "435"
-    ]
+    "candidates": []
   }
 ]

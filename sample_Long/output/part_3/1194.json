@@ -1,48 +1,30 @@
 [
   {
     "text": "Hở van hai lá do thấp",
-    "position": [
-      130,
-      151
-    ],
+    "position": [130, 151],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I05.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      1227,
-      1234
-    ],
+    "position": [1227, 1234],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Bisoprolol",
-    "position": [
-      1236,
-      1246
-    ],
+    "position": [1236, 1246],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Enalapril",
-    "position": [
-      1251,
-      1260
-    ],
+    "position": [1251, 1260],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3827"
-    ]
+    "candidates": []
   }
 ]

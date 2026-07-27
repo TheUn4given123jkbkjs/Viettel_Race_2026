@@ -1,66 +1,42 @@
 [
   {
     "text": "đauđầu",
-    "position": [
-      48,
-      54
-    ],
+    "position": [48, 54],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "co giật",
-    "position": [
-      65,
-      72
-    ],
+    "position": [65, 72],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hen suyễn",
-    "position": [
-      104,
-      113
-    ],
+    "position": [104, 113],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "J45"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Biến chứng hệ thống thần kinh trung ương của gây mê trong chuyển dạ, trong đẻ",
-    "position": [
-      158,
-      235
-    ],
+    "position": [158, 235],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O74.3"
-    ]
+    "candidates": []
   },
   {
     "text": "Caffeine citrate 20mg/ml",
-    "position": [
-      250,
-      274
-    ],
+    "position": [250, 274],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen500mg",
-    "position": [
-      278,
-      296
-    ],
+    "position": [278, 296],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

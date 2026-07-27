@@ -4,18 +4,14 @@
     "position": [500, 531],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G57",
-      "G57.8",
-      "G57.9"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [160, 167],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -29,14 +25,14 @@
     "position": [376, 387],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "acetaminophen",
     "position": [391, 404],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",

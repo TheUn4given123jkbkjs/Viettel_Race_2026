@@ -3,64 +3,35 @@
     "text": "lao phổi",
     "position": [49, 57],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      {
-        "name": "isNegated",
-        "value": false
-      }
-    ],
-    "candidates": [
-      "J65",
-      "Z11.1",
-      "A15.0"
-    ]
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [591, 604],
     "type": "THUỐC",
-    "assertions": [
-      {
-        "name": "isNegated",
-        "value": false
-      }
-    ],
-    "candidates": ["161"]
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "Dexamethasone",
     "position": [608, 621],
     "type": "THUỐC",
-    "assertions": [
-      {
-        "name": "isNegated",
-        "value": false
-      }
-    ],
-    "candidates": ["3264"]
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
     "position": [415, 423],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      {
-        "name": "isNegated",
-        "value": true
-      }
-    ],
+    "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
     "position": [330, 333],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      {
-        "name": "isNegated",
-        "value": true
-      }
-    ],
+    "assertions": [],
     "candidates": []
   }
 ]

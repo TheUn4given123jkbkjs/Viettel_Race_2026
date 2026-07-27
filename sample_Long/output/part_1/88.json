@@ -1,33 +1,21 @@
 [
   {
     "text": "loãng xương sau cắt buồng trứng",
-    "position": [
-      195,
-      226
-    ],
+    "position": [195, 226],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M80.1",
-      "M81.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Alendronate",
-    "position": [
-      348,
-      359
-    ],
+    "position": [348, 359],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Risedronate",
-    "position": [
-      365,
-      376
-    ],
+    "position": [365, 376],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

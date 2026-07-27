@@ -1,75 +1,44 @@
 [
   {
     "text": "bệnh lý mạn tính",
-    "position": [
-      50,
-      66
-    ],
+    "position": [50, 66],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "A06.1"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "bệnh lý phụ khoa",
-    "position": [
-      276,
-      292
-    ],
+    "position": [276, 292],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Kinh nguyệt thưa",
-    "position": [
-      338,
-      354
-    ],
+    "position": [338, 354],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thiểu kinh nguyên phát",
-    "position": [
-      1822,
-      1844
-    ],
+    "position": [1822, 1844],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N91.3"
-    ]
+    "candidates": []
   },
   {
     "text": "Ethinylestradiol / Levonorgestrel",
-    "position": [
-      1961,
-      1994
-    ],
+    "position": [1961, 1994],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "214558"
-    ]
+    "candidates": []
   },
   {
     "text": "Medroxyprogesterone",
-    "position": [
-      2071,
-      2090
-    ],
+    "position": [2071, 2090],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2647996",
-      "6691"
-    ]
+    "candidates": []
   }
 ]

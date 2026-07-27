@@ -1,102 +1,58 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [
-      152,
-      165
-    ],
+    "position": [152, 165],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đột quỵ não",
-    "position": [
-      507,
-      518
-    ],
+    "position": [507, 518],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "E88.31",
-      "G46.3*",
-      "G46.4*"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "yếu chi dưới bên trái",
-    "position": [
-      781,
-      802
-    ],
+    "position": [781, 802],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu không tự chủ",
-    "position": [
-      949,
-      966
-    ],
+    "position": [949, 966],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "MRI mạch máu",
-    "position": [
-      1948,
-      1960
-    ],
+    "position": [1948, 1960],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nghẽn tắc và hẹp động mạch não trước",
-    "position": [
-      1987,
-      2023
-    ],
+    "position": [1987, 2023],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I65",
-      "I65.3",
-      "I65.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      2649,
-      2656
-    ],
+    "position": [2649, 2656],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Atorvastatin",
-    "position": [
-      2725,
-      2737
-    ],
+    "position": [2725, 2737],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "83367"
-    ]
+    "candidates": []
   }
 ]

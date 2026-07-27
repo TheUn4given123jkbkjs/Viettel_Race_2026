@@ -3,8 +3,8 @@
     "text": "Papillomavirus gây các bệnh đã được phân loại ở chương khác",
     "position": [0, 59],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNotNegated"],
-    "candidates": ["B97.7"]
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "Vitamin C",
@@ -39,13 +39,13 @@
     "position": [945, 958],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
     "position": [962, 971],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": []
   }
 ]

@@ -1,50 +1,35 @@
 [
   {
     "text": "sốt cao",
-    "position": [
-      63,
-      70
-    ],
+    "position": [63, 70],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      74,
-      81
-    ],
+    "position": [74, 81],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      301,
-      309
-    ],
+    "position": [301, 309],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      311,
-      322
-    ],
+    "position": [311, 322],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "> 0,1 ng/mL",
-    "position": [
-      385,
-      396
-    ],
+    "position": [385, 396],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

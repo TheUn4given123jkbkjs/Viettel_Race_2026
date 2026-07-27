@@ -1,72 +1,44 @@
 [
   {
     "text": "rubella",
-    "position": [
-      21,
-      28
-    ],
+    "position": [21, 28],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "B06.02",
-      "B06.81",
-      "B06.82"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "sưng đau khớp cổ tay",
-    "position": [
-      109,
-      129
-    ],
+    "position": [109, 129],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      162,
-      165
-    ],
+    "position": [162, 165],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      180,
-      188
-    ],
+    "position": [180, 188],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sưng nóng các khớp nhỏ",
-    "position": [
-      230,
-      252
-    ],
+    "position": [230, 252],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp trong bệnh Rubella (B06.8†), vị trí không xác định",
-    "position": [
-      374,
-      434
-    ],
+    "position": [374, 434],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M01.49*"
-    ]
+    "candidates": []
   }
 ]

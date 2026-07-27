@@ -4,7 +4,7 @@
     "position": [274, 289],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["4452"]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
@@ -30,14 +30,14 @@
   {
     "text": "bệnh thận",
     "position": [127, 136],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
     "position": [229, 242],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

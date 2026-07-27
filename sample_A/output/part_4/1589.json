@@ -4,7 +4,7 @@
     "position": [252, 263],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["10825"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
@@ -18,22 +18,14 @@
     "position": [116, 129],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": []
   },
   {
     "text": "tiểu đường",
     "position": [133, 143],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh nhân",

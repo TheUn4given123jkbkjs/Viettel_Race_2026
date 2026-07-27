@@ -1,62 +1,42 @@
 [
   {
     "text": "Vàng da sơ sinh do đa hồng cầu",
-    "position": [
-      0,
-      30
-    ],
+    "position": [0, 30],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P58.3"
-    ]
+    "candidates": []
   },
   {
     "text": "vàng da",
-    "position": [
-      45,
-      52
-    ],
+    "position": [45, 52],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng mắt",
-    "position": [
-      274,
-      282
-    ],
+    "position": [274, 282],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      328,
-      335
-    ],
+    "position": [328, 335],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chán ăn",
-    "position": [
-      337,
-      344
-    ],
+    "position": [337, 344],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy giảm chức năng gan",
-    "position": [
-      349,
-      371
-    ],
+    "position": [349, 371],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

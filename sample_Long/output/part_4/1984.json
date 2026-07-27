@@ -1,53 +1,36 @@
 [
   {
     "text": "Polyp cổ tử cung",
-    "position": [
-      378,
-      394
-    ],
+    "position": [378, 394],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N84.1"
-    ]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      292,
-      309
-    ],
+    "position": [292, 309],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      313,
-      322
-    ],
+    "position": [313, 322],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      427,
-      437
-    ],
-    "type": "Y_LENH_DỊU_TRI",
+    "position": [427, 437],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "theo dõi lối sống",
-    "position": [
-      470,
-      487
-    ],
-    "type": "Y_LENH_DỊU_TRI",
+    "position": [470, 487],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

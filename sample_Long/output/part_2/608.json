@@ -1,92 +1,58 @@
 [
   {
     "text": "đau khớp gối",
-    "position": [
-      349,
-      361
-    ],
+    "position": [349, 361],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      559,
-      562
-    ],
+    "position": [559, 562],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      573,
-      581
-    ],
+    "position": [573, 581],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ban đỏ",
-    "position": [
-      604,
-      610
-    ],
+    "position": [604, 610],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Đái tháo đường týp 2",
-    "position": [
-      273,
-      293
-    ],
+    "position": [273, 293],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "X-ray",
-    "position": [
-      631,
-      636
-    ],
+    "position": [631, 636],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hẹp khe khớp không đối xứng",
-    "position": [
-      653,
-      680
-    ],
+    "position": [653, 680],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thoái hóa khớp gối nguyên phát cả 2 bên",
-    "position": [
-      742,
-      781
-    ],
+    "position": [742, 781],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M17.0"
-    ]
+    "candidates": []
   }
 ]

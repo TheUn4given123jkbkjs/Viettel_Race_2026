@@ -4,24 +4,20 @@
     "position": [410, 433],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "F16.20",
-      "F16.21",
-      "F16.22"
-    ]
+    "candidates": []
   },
   {
     "text": "Abacavir",
     "position": [2209, 2217],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [2221, 2234],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   }
 ]

@@ -1,62 +1,42 @@
 [
   {
     "text": "Đái tháo đường týp 2",
-    "position": [
-      39,
-      59
-    ],
+    "position": [39, 59],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đau hạ sườn phải",
-    "position": [
-      89,
-      105
-    ],
+    "position": [89, 105],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt cao rét run",
-    "position": [
-      107,
-      122
-    ],
+    "position": [107, 122],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "áp xe ở gan",
-    "position": [
-      1289,
-      1300
-    ],
+    "position": [1289, 1300],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K75.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone 1g: 2 lọ/ngày, truyền tĩnh mạch",
-    "position": [
-      1340,
-      1383
-    ],
+    "position": [1340, 1383],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Metronidazole 500mg",
-    "position": [
-      1388,
-      1407
-    ],
+    "position": [1388, 1407],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,72 +1,44 @@
 [
   {
     "text": "cảm cúm với viêm phổi, virus cúm được định danh khác",
-    "position": [
-      68,
-      120
-    ],
+    "position": [68, 120],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J10.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Oseltamivir",
-    "position": [
-      325,
-      336
-    ],
+    "position": [325, 336],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "260101"
-    ]
+    "candidates": []
   },
   {
     "text": "Paracetamol",
-    "position": [
-      340,
-      351
-    ],
+    "position": [340, 351],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      34,
-      43
-    ],
+    "position": [34, 43],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      13,
-      30
-    ],
+    "position": [13, 30],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      218,
-      235
-    ],
+    "position": [218, 235],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

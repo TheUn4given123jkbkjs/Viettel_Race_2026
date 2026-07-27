@@ -4,35 +4,35 @@
     "position": [295, 342],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["B52.8"]
+    "candidates": []
   },
   {
     "text": "Artemether / Lumefantrine",
     "position": [384, 409],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["282448"]
+    "candidates": []
   },
   {
     "text": "Doxycycline",
     "position": [413, 424],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3640"]
+    "candidates": []
   },
   {
     "text": "Quinine",
     "position": [478, 485],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["9071"]
+    "candidates": []
   },
   {
     "text": "Primaquine",
     "position": [489, 499],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["8687"]
+    "candidates": []
   },
   {
     "text": "Sốt",

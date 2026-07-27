@@ -4,7 +4,7 @@
     "position": [10, 21],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["4451"]
+    "candidates": []
   },
   {
     "text": "phổ biến",
@@ -18,11 +18,7 @@
     "position": [276, 288],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "Y88.2",
-      "T88.6",
-      "T88.7"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh nhiễm nấm",

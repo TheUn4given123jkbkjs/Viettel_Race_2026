@@ -4,7 +4,7 @@
     "position": [47, 50],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "candidates": []
   },
   {
     "text": "đau đầu",
@@ -25,20 +25,20 @@
     "position": [233, 252],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G43.3"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [281, 294],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Propranolol",
     "position": [298, 309],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8787"]
+    "candidates": []
   }
 ]

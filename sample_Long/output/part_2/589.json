@@ -1,53 +1,30 @@
 [
   {
     "text": "Loạn sản âm đạo nhẹ",
-    "position": [
-      141,
-      160
-    ],
+    "position": [141, 160],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated",
-      "isHistorical"
-    ],
-    "candidates": [
-      "N89.0"
-    ]
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      814,
-      827
-    ],
+    "position": [814, 827],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Estradiol cypionate / Medroxyprogesterone acetate",
-    "position": [
-      867,
-      916
-    ],
+    "position": [867, 916],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2647996"
-    ]
+    "candidates": []
   },
   {
     "text": "Fluoxetine",
-    "position": [
-      990,
-      1000
-    ],
+    "position": [990, 1000],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4493"
-    ]
+    "candidates": []
   }
 ]

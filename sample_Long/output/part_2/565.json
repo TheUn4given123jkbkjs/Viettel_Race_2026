@@ -1,46 +1,30 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [
-      126,
-      139
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [126, 139],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường type 2",
-    "position": [
-      143,
-      160
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [143, 160],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      327,
-      344
-    ],
+    "position": [327, 344],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      348,
-      357
-    ],
+    "position": [348, 357],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

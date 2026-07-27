@@ -1,62 +1,35 @@
 [
   {
     "text": "Tranexamic acid",
-    "position": [
-      149,
-      164
-    ],
+    "position": [149, 164],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "10691"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "bệnh máu khó đông",
-    "position": [
-      178,
-      195
-    ],
+    "position": [178, 195],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh gan",
-    "position": [
-      234,
-      242
-    ],
+    "position": [234, 242],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K70.9",
-      "K71",
-      "K71.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Tranexamic acid",
-    "position": [
-      149,
-      164
-    ],
+    "position": [149, 164],
     "type": "THUỐC",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "10691"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "chảy máu cam",
-    "position": [
-      63,
-      75
-    ],
+    "position": [63, 75],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -4,32 +4,28 @@
     "position": [283, 302],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "A59",
-      "A59.0",
-      "A59.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
     "position": [339, 350],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [422, 429],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [501, 514],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "THA",

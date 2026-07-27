@@ -4,7 +4,7 @@
     "position": [741, 771],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["D52", "D52.0"]
+    "candidates": []
   },
   {
     "text": "bệnh nhân",
@@ -46,6 +46,6 @@
     "position": [110, 140],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["D52", "D52.0"]
+    "candidates": []
   }
 ]

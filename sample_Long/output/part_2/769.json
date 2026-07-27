@@ -1,40 +1,23 @@
 [
   {
     "text": "Bệnh Crohn",
-    "position": [
-      475,
-      485
-    ],
+    "position": [475, 485],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K50",
-      "K50.0",
-      "K50.8"
-    ]
+    "candidates": []
   },
   {
     "text": "tiêu chảy",
-    "position": [
-      220,
-      229
-    ],
+    "position": [220, 229],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ruột non",
-    "position": [
-      535,
-      543
-    ],
+    "position": [535, 543],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "D13.39",
-      "D13.30",
-      "E74.3"
-    ]
+    "candidates": []
   }
 ]

@@ -1,38 +1,23 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      26,
-      43
-    ],
+    "position": [26, 43],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Nôn trong khi có thai, chưa xác định rõ",
-    "position": [
-      244,
-      283
-    ],
+    "position": [244, 283],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O21.9"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      173,
-      182
-    ],
+    "position": [173, 182],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

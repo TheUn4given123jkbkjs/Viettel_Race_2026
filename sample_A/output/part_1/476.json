@@ -4,21 +4,21 @@
     "position": [33, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": ["G24.2"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [597, 610],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Albuterol",
     "position": [616, 625],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["435"]
+    "candidates": []
   },
   {
     "text": "THA",

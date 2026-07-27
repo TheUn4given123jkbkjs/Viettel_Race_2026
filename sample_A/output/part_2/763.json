@@ -4,21 +4,21 @@
     "position": [48, 70],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isHistorical"],
-    "candidates": ["E78.2"]
+    "candidates": []
   },
   {
     "text": "Atorvastatin",
     "position": [497, 509],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["83367"]
+    "candidates": []
   },
   {
     "text": "Fenofibrate",
     "position": [513, 524],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8703"]
+    "candidates": []
   },
   {
     "text": "THA",

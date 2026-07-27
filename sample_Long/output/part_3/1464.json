@@ -1,34 +1,21 @@
 [
   {
     "text": "vẹo cột sống",
-    "position": [
-      34,
-      46
-    ],
+    "position": [34, 46],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I27.1",
-      "M41",
-      "M41.0"
-    ]
+    "candidates": []
   },
   {
     "text": "vẹo cột sống bẩm sinh",
-    "position": [
-      34,
-      55
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [34, 55],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau lưng",
-    "position": [
-      105,
-      113
-    ],
+    "position": [105, 113],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

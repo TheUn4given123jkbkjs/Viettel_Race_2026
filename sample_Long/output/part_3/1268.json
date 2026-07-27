@@ -1,50 +1,35 @@
 [
   {
     "text": "đau đầu",
-    "position": [
-      25,
-      32
-    ],
+    "position": [25, 32],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [
-      38,
-      45
-    ],
+    "position": [38, 45],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm đường huyết",
-    "position": [
-      134,
-      156
-    ],
+    "position": [134, 156],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "12mmol/L",
-    "position": [
-      160,
-      168
-    ],
+    "position": [160, 168],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghieem",
-    "position": [
-      199,
-      210
-    ],
+    "position": [199, 210],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

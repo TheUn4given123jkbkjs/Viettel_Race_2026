@@ -1,76 +1,44 @@
 [
   {
     "text": "ung thư vú",
-    "position": [
-      352,
-      362
-    ],
+    "position": [352, 362],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "D05",
-      "D05.1",
-      "D05.7"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "khối u",
-    "position": [
-      598,
-      604
-    ],
+    "position": [598, 604],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không đau",
-    "position": [
-      764,
-      773
-    ],
+    "position": [764, 773],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      797,
-      806
-    ],
+    "position": [797, 806],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Nang đơn vú của vú nữ, không xác định vị trí",
-    "position": [
-      997,
-      1041
-    ],
+    "position": [997, 1041],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N60.00"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      1400,
-      1413
-    ],
+    "position": [1400, 1413],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

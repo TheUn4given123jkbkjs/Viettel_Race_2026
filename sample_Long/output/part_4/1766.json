@@ -1,53 +1,30 @@
 [
   {
     "text": "Cuồng thất",
-    "position": [
-      0,
-      10
-    ],
+    "position": [0, 10],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "I49.02",
-      "I49.0"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Acenocoumarol",
-    "position": [
-      490,
-      503
-    ],
+    "position": [490, 503],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "154"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      505,
-      518
-    ],
+    "position": [505, 518],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      614,
-      617
-    ],
+    "position": [614, 617],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

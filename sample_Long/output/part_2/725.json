@@ -1,45 +1,28 @@
 [
   {
     "text": "Nhịp nhanh kịch phát",
-    "position": [
-      127,
-      147
-    ],
+    "position": [127, 147],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I47",
-      "I47.9"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      734,
-      751
-    ],
+    "position": [734, 751],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "huyết áp",
-    "position": [
-      647,
-      655
-    ],
+    "position": [647, 655],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "lipid máu",
-    "position": [
-      659,
-      668
-    ],
+    "position": [659, 668],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

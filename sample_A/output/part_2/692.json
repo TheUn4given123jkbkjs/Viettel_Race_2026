@@ -4,14 +4,14 @@
     "position": [518, 537],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C07"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [327, 334],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "đau đầu",
@@ -23,14 +23,14 @@
   {
     "text": "giảm huyết áp",
     "position": [452, 465],
-    "type": "THIỆT_HUYẾT ÁP",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
     "position": [490, 503],
-    "type": "THIỆT_HUYẾT ÁP",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },

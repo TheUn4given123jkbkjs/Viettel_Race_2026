@@ -4,20 +4,20 @@
     "position": [725, 774],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["D80.5"]
+    "candidates": []
   },
   {
     "text": "Acyclovir",
     "position": [450, 459],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": ["281"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
     "position": [480, 492],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": ["8638"]
+    "candidates": []
   }
 ]

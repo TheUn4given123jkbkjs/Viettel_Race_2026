@@ -1,92 +1,56 @@
 [
   {
     "text": "Viêm dạ dày cấp tính",
-    "position": [
-      55,
-      75
-    ],
+    "position": [55, 75],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K29.0"
-    ]
+    "candidates": []
   },
   {
     "text": "H. pylori",
-    "position": [
-      217,
-      226
-    ],
+    "position": [217, 226],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "B98.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Scopolamine butylbromide",
-    "position": [
-      489,
-      513
-    ],
+    "position": [489, 513],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "1851"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Đau vùng thượng vị",
-    "position": [
-      746,
-      764
-    ],
+    "position": [746, 764],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn ra máu",
-    "position": [
-      1080,
-      1090
-    ],
+    "position": [1080, 1090],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xuất huyết tiêu hóa",
-    "position": [
-      1011,
-      1030
-    ],
+    "position": [1011, 1030],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K32",
-      "K32.0",
-      "K32.1"
-    ]
+    "candidates": []
   },
   {
     "text": "nội soi",
-    "position": [
-      1155,
-      1162
-    ],
+    "position": [1155, 1162],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "niêm mạc xung huyết",
-    "position": [
-      1173,
-      1192
-    ],
+    "position": [1173, 1192],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

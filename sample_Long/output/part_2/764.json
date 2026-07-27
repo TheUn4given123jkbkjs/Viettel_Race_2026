@@ -1,68 +1,44 @@
 [
   {
     "text": "Metronidazole",
-    "position": [
-      112,
-      125
-    ],
+    "position": [112, 125],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "6922"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "viêm dạ dày mãn tính",
-    "position": [
-      51,
-      71
-    ],
+    "position": [51, 71],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      259,
-      267
-    ],
+    "position": [259, 267],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn",
-    "position": [
-      264,
-      267
-    ],
+    "position": [264, 267],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [
-      277,
-      285
-    ],
+    "position": [277, 285],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Omeprazole",
-    "position": [
-      414,
-      424
-    ],
+    "position": [414, 424],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "7646"
-    ]
+    "candidates": []
   }
 ]

@@ -4,21 +4,21 @@
     "position": [58, 72],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["9997"]
+    "candidates": []
   },
   {
     "text": "Furosemide",
     "position": [348, 358],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4603"]
+    "candidates": []
   },
   {
     "text": "amlodipine",
     "position": [719, 729],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": []
   },
   {
     "text": "phù nề tay chân",
@@ -32,10 +32,6 @@
     "position": [206, 219],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   }
 ]

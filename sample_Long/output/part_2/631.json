@@ -1,102 +1,70 @@
 [
   {
     "text": "đau thắt ngực",
-    "position": [
-      57,
-      70
-    ],
+    "position": [57, 70],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Đau ngực trái",
-    "position": [
-      142,
-      155
-    ],
+    "position": [142, 155],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [
-      189,
-      198
-    ],
+    "position": [189, 198],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      200,
-      207
-    ],
+    "position": [200, 207],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Huyết áp: 145/85 mmHg",
-    "position": [
-      325,
-      346
-    ],
+    "position": [325, 346],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin T",
-    "position": [
-      360,
-      370
-    ],
+    "position": [360, 370],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.12",
-    "position": [
-      371,
-      375
-    ],
+    "position": [371, 375],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 11.4",
-    "position": [
-      377,
-      390
-    ],
+    "position": [377, 390],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 15.2 mg/L",
-    "position": [
-      392,
-      406
-    ],
+    "position": [392, 406],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm tim",
-    "position": [
-      425,
-      436
-    ],
+    "position": [425, 436],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,88 +1,51 @@
 [
   {
     "text": "rụng tóc",
-    "position": [
-      71,
-      79
-    ],
+    "position": [71, 79],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tóc thưa",
-    "position": [
-      182,
-      190
-    ],
+    "position": [182, 190],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Rụng tóc từng mảng, không điển hình",
-    "position": [
-      499,
-      534
-    ],
+    "position": [499, 534],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L63.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Betamethasone",
-    "position": [
-      882,
-      895
-    ],
+    "position": [882, 895],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1514"
-    ]
+    "candidates": []
   },
   {
     "text": "Zinc sulfate",
-    "position": [
-      1082,
-      1094
-    ],
+    "position": [1082, 1094],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "39954"
-    ]
+    "candidates": []
   },
   {
     "text": "nấm da đầu",
-    "position": [
-      1312,
-      1322
-    ],
+    "position": [1312, 1322],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "B35.0"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Lupus ban đỏ",
-    "position": [
-      1328,
-      1340
-    ],
+    "position": [1328, 1340],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "L93",
-      "L93.0",
-      "L93.1"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   }
 ]

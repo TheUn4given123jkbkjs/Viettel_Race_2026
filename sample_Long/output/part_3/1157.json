@@ -1,40 +1,23 @@
 [
   {
     "text": "Thai nhi và trẻ sơ sinh bị ảnh hưởng do độc tố truyền qua bánh rau hoặc qua sữa mẹ",
-    "position": [
-      276,
-      358
-    ],
+    "position": [276, 358],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "P04"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      486,
-      493
-    ],
+    "position": [486, 493],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      495,
-      506
-    ],
+    "position": [495, 506],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

@@ -1,82 +1,56 @@
 [
   {
     "text": "đau ngựcc",
-    "position": [
-      25,
-      34
-    ],
+    "position": [25, 34],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thỏ",
-    "position": [
-      139,
-      146
-    ],
+    "position": [139, 146],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [
-      233,
-      245
-    ],
+    "position": [233, 245],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau thắt ngực trái",
-    "position": [
-      383,
-      401
-    ],
+    "position": [383, 401],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hs-TnT",
-    "position": [
-      811,
-      817
-    ],
+    "position": [811, 817],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ECG",
-    "position": [
-      857,
-      860
-    ],
+    "position": [857, 860],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "14.5 ng/L",
-    "position": [
-      915,
-      924
-    ],
+    "position": [915, 924],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nhịp xoang",
-    "position": [
-      933,
-      943
-    ],
+    "position": [933, 943],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

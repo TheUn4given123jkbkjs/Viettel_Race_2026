@@ -4,21 +4,21 @@
     "position": [0, 42],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isHistorical"],
-    "candidates": ["D71"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [456, 469],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Cefazolin",
     "position": [473, 482],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2180"]
+    "candidates": []
   },
   {
     "text": "THA",

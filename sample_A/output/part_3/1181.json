@@ -4,7 +4,7 @@
     "position": [236, 253],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["A83.0"]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
@@ -32,21 +32,21 @@
     "position": [1644, 1690],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G09"]
+    "candidates": []
   },
   {
     "text": "Carbamazepine",
     "position": [1891, 1904],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2002"]
+    "candidates": []
   },
   {
     "text": "Diazepam",
     "position": [2062, 2070],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3322"]
+    "candidates": []
   },
   {
     "text": "MRI",

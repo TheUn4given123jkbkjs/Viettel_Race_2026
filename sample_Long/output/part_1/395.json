@@ -1,38 +1,23 @@
 [
   {
     "text": "Bệnh khác của ruột thừa",
-    "position": [
-      489,
-      512
-    ],
+    "position": [489, 512],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K38"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      598,
-      611
-    ],
+    "position": [598, 611],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Cimetidine",
-    "position": [
-      653,
-      663
-    ],
+    "position": [653, 663],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2541"
-    ]
+    "candidates": []
   }
 ]

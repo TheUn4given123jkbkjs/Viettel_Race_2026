@@ -4,25 +4,21 @@
     "position": [114, 127],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Hydralazine",
     "position": [533, 544],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["5470"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [363, 370],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "troponin",

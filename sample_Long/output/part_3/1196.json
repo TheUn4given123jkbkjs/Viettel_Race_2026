@@ -1,110 +1,70 @@
 [
   {
     "text": "Các bệnh phổi mãn tính không được định rõ xuất phát trong giai đoạn chu sinh",
-    "position": [
-      1487,
-      1563
-    ],
+    "position": [1487, 1563],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P27.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Atorvastatin",
-    "position": [
-      928,
-      940
-    ],
+    "position": [928, 940],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "83367"
-    ]
+    "candidates": []
   },
   {
     "text": "Ivermectin",
-    "position": [
-      1006,
-      1016
-    ],
+    "position": [1006, 1016],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6069"
-    ]
+    "candidates": []
   },
   {
     "text": "Virus SARS-CoV-2",
-    "position": [
-      1619,
-      1635
-    ],
+    "position": [1619, 1635],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Protein C-reaktive protein (CRP)",
-    "position": [
-      1654,
-      1686
-    ],
+    "position": [1654, 1686],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh phổi tắc nghẽn mãn tính không được định rõ xuất phát trong giai đoạn chu sinh",
-    "position": [
-      1709,
-      1791
-    ],
+    "position": [1709, 1791],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Phổi tắc nghẽn mãn tính",
-    "position": [
-      1805,
-      1828
-    ],
+    "position": [1805, 1828],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J44",
-      "J44.0",
-      "J44.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Thuốc có chứa các chất gây kích ứng đường thở",
-    "position": [
-      1842,
-      1887
-    ],
+    "position": [1842, 1887],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh tim mạch",
-    "position": [
-      1897,
-      1910
-    ],
+    "position": [1897, 1910],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh thận",
-    "position": [
-      1929,
-      1938
-    ],
+    "position": [1929, 1938],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

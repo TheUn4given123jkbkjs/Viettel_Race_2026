@@ -1,74 +1,42 @@
 [
   {
     "text": "Diatrizoate",
-    "position": [
-      460,
-      471
-    ],
+    "position": [460, 471],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "3319"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      572,
-      580
-    ],
+    "position": [572, 580],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      610,
-      621
-    ],
+    "position": [610, 621],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      594,
-      601
-    ],
+    "position": [594, 601],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh nhân",
-    "position": [
-      21,
-      30
-    ],
+    "position": [21, 30],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "A52.15",
-      "A51.46",
-      "Z86.11"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "Echocardiogram",
-    "position": [
-      497,
-      511
-    ],
+    "position": [497, 511],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,74 +1,44 @@
 [
   {
     "text": "Viêm gân cơ mác",
-    "position": [
-      62,
-      77
-    ],
+    "position": [62, 77],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M76.7"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      313,
-      326
-    ],
+    "position": [313, 326],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      330,
-      339
-    ],
+    "position": [330, 339],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      90,
-      99
-    ],
+    "position": [90, 99],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không buồn nôn",
-    "position": [
-      101,
-      115
-    ],
+    "position": [101, 115],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      27,
-      44
-    ],
+    "position": [27, 44],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

@@ -1,35 +1,35 @@
 [
   {
     "text": "Daunorubicin",
-    "position": [887, 899],
+    "position": [886, 898],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3109"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [82, 90],
+    "position": [81, 89],
     "type": "TRIỆU_CHỨNG",
     "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [383, 386],
+    "position": [382, 385],
     "type": "TRIỆU_CHỨNG",
     "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "tiêu chảy",
-    "position": [94, 103],
+    "position": [93, 102],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [72, 80],
+    "position": [71, 79],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

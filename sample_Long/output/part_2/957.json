@@ -1,62 +1,42 @@
 [
   {
     "text": "mệt mỏi kéo dài 2 tuần",
-    "position": [
-      41,
-      63
-    ],
+    "position": [41, 63],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sụt cân 3 kg",
-    "position": [
-      78,
-      90
-    ],
+    "position": [78, 90],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      105,
-      108
-    ],
+    "position": [105, 108],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "công thức máu",
-    "position": [
-      162,
-      175
-    ],
+    "position": [162, 175],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hb 11.2 g/dL",
-    "position": [
-      231,
-      243
-    ],
+    "position": [231, 243],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cholesterol toàn phần 6.1 mmol/L",
-    "position": [
-      379,
-      411
-    ],
+    "position": [379, 411],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -4,12 +4,12 @@
     "position": [0, 60],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A88"]
+    "candidates": []
   },
   {
     "text": "THA",
     "position": [441, 444],
-    "type": "BỆNH_LÝ",
+    "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
     "candidates": []
   }

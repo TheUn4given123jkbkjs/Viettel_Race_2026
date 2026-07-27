@@ -1,40 +1,23 @@
 [
   {
     "text": "vỡ động mạch",
-    "position": [
-      373,
-      385
-    ],
+    "position": [373, 385],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.05",
-      "I67.0",
-      "I67.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      448,
-      455
-    ],
+    "position": [448, 455],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      578,
-      589
-    ],
+    "position": [578, 589],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

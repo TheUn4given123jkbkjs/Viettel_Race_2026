@@ -32,25 +32,21 @@
     "position": [329, 418],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["2368450"]
+    "candidates": []
   },
   {
     "text": "viêm họng cấp",
     "position": [632, 645],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J00",
-      "J02",
-      "J02.8"
-    ]
+    "candidates": []
   },
   {
     "text": "viêm đường hô hấp trên",
     "position": [651, 673],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J68.2"]
+    "candidates": []
   },
   {
     "text": "nước muối sinh lý",

@@ -4,25 +4,21 @@
     "position": [37, 61],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "F19.90",
-      "F19.92",
-      "F19.93"
-    ]
+    "candidates": []
   },
   {
     "text": "Carbamazepine",
     "position": [449, 462],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2002"]
+    "candidates": []
   },
   {
     "text": "Valproic acid",
     "position": [474, 487],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["11118"]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",

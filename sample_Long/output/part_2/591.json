@@ -1,78 +1,49 @@
 [
   {
     "text": "Viêm khớp, xương nguyên phát một bên, ở gối không xác định",
-    "position": [
-      0,
-      58
-    ],
+    "position": [0, 58],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "M17.10"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      355,
-      368
-    ],
+    "position": [355, 368],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      412,
-      421
-    ],
+    "position": [412, 421],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   },
   {
     "text": "Xét nghiệm máu",
-    "position": [
-      559,
-      573
-    ],
+    "position": [559, 573],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm chức năng khớp",
-    "position": [
-      648,
-      673
-    ],
+    "position": [648, 673],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Kết quả xét nghiệm máu",
-    "position": [
-      1896,
-      1918
-    ],
+    "position": [1896, 1918],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Kết quả xét nghiệm chức năng khớp",
-    "position": [
-      1944,
-      1977
-    ],
+    "position": [1944, 1977],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

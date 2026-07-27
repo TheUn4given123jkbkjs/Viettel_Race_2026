@@ -4,14 +4,14 @@
     "position": [263, 274],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5093"]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
     "position": [351, 361],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": []
   },
   {
     "text": "run khi nghỉ",
@@ -39,17 +39,13 @@
     "position": [1059, 1087],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G21.1",
-      "G21.2",
-      "G21.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Levodopa / Carbidopa",
     "position": [1338, 1358],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["103990"]
+    "candidates": []
   }
 ]

@@ -4,29 +4,21 @@
     "position": [0, 28],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "E00",
-      "E00.0",
-      "E00.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Iodine",
     "position": [504, 510],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "466470",
-      "5933",
-      "8611"
-    ]
+    "candidates": []
   },
   {
     "text": "Levothyroxine",
     "position": [524, 537],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["10582"]
+    "candidates": []
   },
   {
     "text": "Tăng trưởng chậm",

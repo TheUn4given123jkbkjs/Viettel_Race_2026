@@ -1,40 +1,23 @@
 [
   {
     "text": "Rối loạn hô hấp sau phẫu thuật, không đặc hiệu",
-    "position": [
-      106,
-      152
-    ],
+    "position": [106, 152],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "J95.9"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      332,
-      340
-    ],
+    "position": [332, 340],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      344,
-      347
-    ],
+    "position": [344, 347],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

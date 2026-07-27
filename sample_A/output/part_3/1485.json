@@ -4,18 +4,14 @@
     "position": [152, 162],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["1429947", "6694"]
+    "candidates": []
   },
   {
     "text": "Sốt rét",
     "position": [275, 282],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "Z86.13",
-      "T37.2",
-      "Y41.2"
-    ]
+    "candidates": []
   },
   {
     "text": "chóng mặt",
@@ -43,20 +39,20 @@
     "position": [2615, 2622],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
     "position": [2790, 2801],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "bệnh mạch vành",
     "position": [597, 611],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["A52.06", "I25.0"]
+    "candidates": []
   }
 ]

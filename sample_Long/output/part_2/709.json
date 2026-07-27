@@ -1,51 +1,30 @@
 [
   {
     "text": "Bệnh điểm bám gân - dây chằng không đặc hiệu",
-    "position": [
-      583,
-      627
-    ],
+    "position": [583, 627],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M76.9",
-      "M77.9"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      672,
-      679
-    ],
+    "position": [672, 679],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "acetaminophen",
-    "position": [
-      180,
-      193
-    ],
+    "position": [180, 193],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "ibuprofen",
-    "position": [
-      415,
-      424
-    ],
+    "position": [415, 424],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

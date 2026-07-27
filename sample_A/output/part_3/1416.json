@@ -4,13 +4,13 @@
     "position": [415, 464],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["D64.1"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [315, 322],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   }
 ]

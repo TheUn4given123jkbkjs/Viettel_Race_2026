@@ -1,66 +1,37 @@
 [
   {
     "text": "Loạn sản lành tính vú khác",
-    "position": [
-      30,
-      56
-    ],
+    "position": [30, 56],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "N60.80",
-      "N60.81",
-      "N60.83"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Abacavir",
-    "position": [
-      663,
-      671
-    ],
+    "position": [663, 671],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "190521"
-    ]
+    "candidates": []
   },
   {
     "text": "Acarbose",
-    "position": [
-      675,
-      683
-    ],
+    "position": [675, 683],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "16681"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      874,
-      887
-    ],
+    "position": [874, 887],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Activated charcoal",
-    "position": [
-      891,
-      909
-    ],
+    "position": [891, 909],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "272"
-    ]
+    "candidates": []
   }
 ]

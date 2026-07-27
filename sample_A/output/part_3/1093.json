@@ -4,21 +4,21 @@
     "position": [766, 801],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["D12.6"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [830, 843],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Metoclopramide",
     "position": [1007, 1021],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6915"]
+    "candidates": []
   },
   {
     "text": "Paracetamol",

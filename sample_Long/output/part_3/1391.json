@@ -1,14 +1,9 @@
 [
   {
     "text": "Bệnh dạ dày viêm loét",
-    "position": [
-      280,
-      301
-    ],
+    "position": [280, 301],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

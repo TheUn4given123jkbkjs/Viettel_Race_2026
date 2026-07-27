@@ -4,14 +4,14 @@
     "position": [74, 103],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": ["F14.23"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [237, 250],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "THA",

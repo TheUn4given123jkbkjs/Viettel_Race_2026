@@ -1,67 +1,42 @@
 [
   {
     "text": "Biến đổi của tử cung không do viêm, không đặc hiệu",
-    "position": [
-      358,
-      408
-    ],
+    "position": [358, 408],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N85.9",
-      "N88.9"
-    ]
+    "candidates": []
   },
   {
     "text": "tiểu đường type 2",
-    "position": [
-      121,
-      138
-    ],
+    "position": [121, 138],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [
-      199,
-      211
-    ],
+    "position": [199, 211],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      651,
-      658
-    ],
+    "position": [651, 658],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "metoclopramide",
-    "position": [
-      754,
-      768
-    ],
+    "position": [754, 768],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6915"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      846,
-      854
-    ],
+    "position": [846, 854],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

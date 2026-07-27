@@ -4,7 +4,7 @@
     "position": [44, 55],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["7405"]
+    "candidates": []
   },
   {
     "text": "vitamin B3",
@@ -53,10 +53,6 @@
     "position": [1503, 1513],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "C46.0",
-      "D04",
-      "D04.0"
-    ]
+    "candidates": []
   }
 ]

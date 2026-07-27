@@ -1,68 +1,42 @@
 [
   {
     "text": "Viêm khớp dạng thấp",
-    "position": [
-      40,
-      59
-    ],
+    "position": [40, 59],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M05",
-      "M05.3†",
-      "M05.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Methotrexate",
-    "position": [
-      146,
-      158
-    ],
+    "position": [146, 158],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "6851"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "cứng khớp buổi sáng",
-    "position": [
-      273,
-      292
-    ],
+    "position": [273, 292],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng đau khớp đối xứng",
-    "position": [
-      296,
-      318
-    ],
+    "position": [296, 318],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thuốc giảm đau",
-    "position": [
-      351,
-      365
-    ],
+    "position": [351, 365],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thuốc chống thấp khớp tác dụng chậm",
-    "position": [
-      378,
-      413
-    ],
+    "position": [378, 413],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,34 +1,21 @@
 [
   {
     "text": "Carbimazole",
-    "position": [
-      29,
-      40
-    ],
+    "position": [29, 40],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "2020"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "tuyến giáp",
-    "position": [
-      58,
-      68
-    ],
+    "position": [58, 68],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mất ngủ",
-    "position": [
-      159,
-      166
-    ],
+    "position": [159, 166],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

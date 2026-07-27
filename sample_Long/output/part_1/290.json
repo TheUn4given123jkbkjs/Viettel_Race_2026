@@ -1,50 +1,30 @@
 [
   {
     "text": "Polyp của dây thanh âm và thanh quản",
-    "position": [
-      48,
-      84
-    ],
+    "position": [48, 84],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J38.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      201,
-      214
-    ],
+    "position": [201, 214],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      112,
-      129
-    ],
+    "position": [112, 129],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Gliclazide",
-    "position": [
-      224,
-      234
-    ],
+    "position": [224, 234],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4816"
-    ]
+    "candidates": []
   }
 ]

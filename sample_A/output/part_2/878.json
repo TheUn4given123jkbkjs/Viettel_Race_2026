@@ -4,11 +4,7 @@
     "position": [64, 80],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": [
-      "F06.8",
-      "F06.9",
-      "O99.3"
-    ]
+    "candidates": []
   },
   {
     "text": "khó khăn lớn trong việc đọc, viết và làm toán",
@@ -36,20 +32,20 @@
     "position": [312, 369],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["F81.9"]
+    "candidates": []
   },
   {
     "text": "Risperidone",
     "position": [428, 439],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["35636"]
+    "candidates": []
   },
   {
     "text": "Amitriptyline",
     "position": [443, 456],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["704"]
+    "candidates": []
   }
 ]

@@ -4,18 +4,14 @@
     "position": [1806, 1867],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["F10.0"]
+    "candidates": []
   },
   {
     "text": "xơ gan",
     "position": [526, 532],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "K71.7",
-      "K74",
-      "K74.0"
-    ]
+    "candidates": []
   },
   {
     "text": "buồn nôn",

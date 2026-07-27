@@ -4,7 +4,7 @@
     "position": [25, 73],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["C72.5"]
+    "candidates": []
   },
   {
     "text": "đau đầu",
@@ -23,7 +23,7 @@
   {
     "text": "thuốc ************",
     "position": [1040, 1058],
-    "type": "",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },

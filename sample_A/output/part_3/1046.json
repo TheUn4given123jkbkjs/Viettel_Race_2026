@@ -4,7 +4,7 @@
     "position": [56, 101],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["A83.9"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
@@ -25,12 +25,12 @@
     "position": [56, 101],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A83.9"]
+    "candidates": []
   },
   {
     "text": "phẫu thuật",
     "position": [681, 691],
-    "type": "THUẬT",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },

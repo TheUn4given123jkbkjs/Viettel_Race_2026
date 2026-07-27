@@ -11,18 +11,14 @@
     "position": [0, 30],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "C04.9",
-      "C06.9",
-      "C10.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [1179, 1192],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "************",
@@ -34,8 +30,8 @@
   {
     "text": "tiền sử THA 5 năm",
     "position": [641, 658],
-    "type": "isHistorical",
-    "assertions": [],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

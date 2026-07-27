@@ -1,44 +1,28 @@
 [
   {
     "text": "Acetaminophen",
-    "position": [
-      118,
-      131
-    ],
+    "position": [118, 131],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      135,
-      142
-    ],
+    "position": [135, 142],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      169,
-      172
-    ],
+    "position": [169, 172],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      176,
-      183
-    ],
+    "position": [176, 183],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

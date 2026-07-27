@@ -4,11 +4,7 @@
     "position": [0, 22],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "H58.1*",
-      "H53.3",
-      "H53.8"
-    ]
+    "candidates": []
   },
   {
     "text": "thị lực",
@@ -22,36 +18,28 @@
     "position": [172, 189],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "H28.1*",
-      "H28.2*",
-      "H25"
-    ]
+    "candidates": []
   },
   {
     "text": "cận thị",
     "position": [191, 198],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["H44.2", "H52.1"]
+    "candidates": []
   },
   {
     "text": "viễn thị",
     "position": [200, 208],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["H52.0"]
+    "candidates": []
   },
   {
     "text": "loạn thị",
     "position": [4, 12],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E30.8",
-      "E30.9",
-      "E30"
-    ]
+    "candidates": []
   },
   {
     "text": "mù tối",

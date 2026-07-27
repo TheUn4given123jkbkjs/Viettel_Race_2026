@@ -1,104 +1,65 @@
 [
   {
     "text": "đái tháo đường type 2",
-    "position": [
-      172,
-      193
-    ],
+    "position": [172, 193],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau bụng chuyển dạ",
-    "position": [
-      367,
-      385
-    ],
+    "position": [367, 385],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      493,
-      501
-    ],
+    "position": [493, 501],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "giảm cử động thai",
-    "position": [
-      578,
-      595
-    ],
+    "position": [578, 595],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Monitor sản khoa",
-    "position": [
-      782,
-      798
-    ],
+    "position": [782, 798],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chuyển dạ và đẻ có các dấu hiệu sinh hóa của suy thai",
-    "position": [
-      977,
-      1030
-    ],
+    "position": [977, 1030],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O68.3"
-    ]
+    "candidates": []
   },
   {
     "text": "Ringer's lactate",
-    "position": [
-      1092,
-      1108
-    ],
+    "position": [1092, 1108],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "35629"
-    ]
+    "candidates": []
   },
   {
     "text": "Oxytocin",
-    "position": [
-      1132,
-      1140
-    ],
+    "position": [1132, 1140],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "7824"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      1221,
-      1232
-    ],
+    "position": [1221, 1232],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

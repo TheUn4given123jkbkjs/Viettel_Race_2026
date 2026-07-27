@@ -1,38 +1,23 @@
 [
   {
     "text": "Táo bón",
-    "position": [
-      129,
-      136
-    ],
+    "position": [129, 136],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K59.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      307,
-      314
-    ],
+    "position": [307, 314],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      774,
-      785
-    ],
+    "position": [774, 785],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

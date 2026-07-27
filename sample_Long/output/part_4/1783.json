@@ -1,60 +1,35 @@
 [
   {
     "text": "Amino acids",
-    "position": [
-      68,
-      79
-    ],
+    "position": [68, 79],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "1873122"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      92,
-      109
-    ],
+    "position": [92, 109],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      154,
-      161
-    ],
+    "position": [154, 161],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      165,
-      176
-    ],
+    "position": [165, 176],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      222,
-      230
-    ],
+    "position": [222, 230],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

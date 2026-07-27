@@ -1,62 +1,37 @@
 [
   {
     "text": "Viêm bạch mạch huyết cấp ở chi trên",
-    "position": [
-      21,
-      56
-    ],
+    "position": [21, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L04.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Metronidazole",
-    "position": [
-      897,
-      910
-    ],
+    "position": [897, 910],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6922"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      923,
-      934
-    ],
+    "position": [923, 934],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Tiền sử THA 5 năm",
-    "position": [
-      74,
-      91
-    ],
-    "type": "isHistorical",
-    "assertions": [
-      "isHistorical"
-    ],
+    "position": [74, 91],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "ung thư vú 3 năm",
-    "position": [
-      102,
-      118
-    ],
-    "type": "isHistorical",
-    "assertions": [
-      "isHistorical"
-    ],
+    "position": [102, 118],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

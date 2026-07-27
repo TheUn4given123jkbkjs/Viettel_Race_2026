@@ -4,11 +4,7 @@
     "position": [120, 133],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "đau bụng âm ỉ",
@@ -36,21 +32,21 @@
     "position": [703, 749],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C26.0"]
+    "candidates": []
   },
   {
     "text": "Fluorouracil",
     "position": [919, 931],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4492"]
+    "candidates": []
   },
   {
     "text": "Metoclopramide",
     "position": [1077, 1091],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6915"]
+    "candidates": []
   },
   {
     "text": "điềutrị",

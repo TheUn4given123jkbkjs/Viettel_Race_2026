@@ -1,63 +1,37 @@
 [
   {
     "text": "Loạn nhịp tim khác",
-    "position": [
-      87,
-      105
-    ],
+    "position": [87, 105],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I49.8",
-      "I49"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      56,
-      63
-    ],
+    "position": [56, 63],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "atenolol",
-    "position": [
-      67,
-      75
-    ],
+    "position": [67, 75],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1202"
-    ]
+    "candidates": []
   },
   {
     "text": "amiodarone",
-    "position": [
-      201,
-      211
-    ],
+    "position": [201, 211],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "703"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      13,
-      30
-    ],
+    "position": [13, 30],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

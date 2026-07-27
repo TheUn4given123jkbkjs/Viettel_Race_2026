@@ -4,12 +4,12 @@
     "position": [53, 65],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3109"]
+    "candidates": []
   },
   {
     "text": "ung thư máu",
     "position": [74, 85],
-    "type": "BỆNH_NỘI_KHOA",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
@@ -18,38 +18,34 @@
     "position": [53, 65],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["3109"]
+    "candidates": []
   },
   {
     "text": "Daunorubicin",
     "position": [53, 65],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3109"]
+    "candidates": []
   },
   {
     "text": "đau đầu",
     "position": [150, 157],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G44",
-      "G44.0",
-      "G44.2"
-    ]
+    "candidates": []
   },
   {
     "text": "nhịp tim nhanh",
     "position": [161, 175],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P29.11", "R00.0"]
+    "candidates": []
   },
   {
     "text": "Daunorubicin",
     "position": [53, 65],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3109"]
+    "candidates": []
   }
 ]

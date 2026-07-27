@@ -4,21 +4,21 @@
     "position": [242, 271],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["A66.1"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [335, 348],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
     "position": [414, 425],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "bệnh ung thư vú",

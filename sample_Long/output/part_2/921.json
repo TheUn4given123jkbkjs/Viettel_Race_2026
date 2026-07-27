@@ -1,56 +1,35 @@
 [
   {
     "text": "Bệnh lao gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
-    "position": [
-      340,
-      396
-    ],
+    "position": [340, 396],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O98.0"
-    ]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      176,
-      193
-    ],
+    "position": [176, 193],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      197,
-      206
-    ],
+    "position": [197, 206],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [
-      243,
-      245
-    ],
+    "position": [243, 245],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      249,
-      256
-    ],
+    "position": [249, 256],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

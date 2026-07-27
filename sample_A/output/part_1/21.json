@@ -4,18 +4,14 @@
     "position": [49, 62],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Rối loạn lipid máu",
     "position": [111, 129],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["E78"]
+    "candidates": []
   },
   {
     "text": "Nghe kém",
@@ -43,20 +39,20 @@
     "position": [1128, 1168],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["H93.0"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
     "position": [1256, 1268],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [1317, 1324],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   }
 ]

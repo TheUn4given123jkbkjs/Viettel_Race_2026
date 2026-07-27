@@ -1,92 +1,56 @@
 [
   {
     "text": "Biến đổi khác của cơ quan sinh dục nam",
-    "position": [
-      1235,
-      1273
-    ],
+    "position": [1235, 1273],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N50",
-      "N50.8",
-      "N51.8*"
-    ]
+    "candidates": []
   },
   {
     "text": "Testosterone 250mg IM",
-    "position": [
-      1429,
-      1450
-    ],
+    "position": [1429, 1450],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ibuprofen 400mg",
-    "position": [
-      1479,
-      1494
-    ],
+    "position": [1479, 1494],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ung thư tuyến tiền liệt",
-    "position": [
-      297,
-      320
-    ],
+    "position": [297, 320],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "D07.5"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "biến đổi khác của cơ quan sinh dụcna m",
-    "position": [
-      628,
-      666
-    ],
+    "position": [628, 666],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      925,
-      933
-    ],
+    "position": [925, 933],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ban đỏ",
-    "position": [
-      887,
-      893
-    ],
+    "position": [887, 893],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "teo nhẹ nhu mô tinh hoàn",
-    "position": [
-      827,
-      851
-    ],
+    "position": [827, 851],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,24 +1,14 @@
 [
   {
     "text": "Amiodarone",
-    "position": [
-      29,
-      39
-    ],
+    "position": [29, 39],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "703"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "loạn nhịp tim",
-    "position": [
-      64,
-      77
-    ],
+    "position": [64, 77],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

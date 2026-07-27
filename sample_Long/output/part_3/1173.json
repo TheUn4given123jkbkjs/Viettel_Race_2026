@@ -1,82 +1,49 @@
 [
   {
     "text": "Đau đầu do gây tê tủy sống và ngoài màng cứng trong thời kỳ sau đẻ",
-    "position": [
-      0,
-      66
-    ],
+    "position": [0, 66],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O89.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      452,
-      465
-    ],
+    "position": [452, 465],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      469,
-      478
-    ],
+    "position": [469, 478],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   },
   {
     "text": "Ondansetron",
-    "position": [
-      543,
-      554
-    ],
+    "position": [543, 554],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "26225"
-    ]
+    "candidates": []
   },
   {
     "text": "Metoclopramide",
-    "position": [
-      558,
-      572
-    ],
+    "position": [558, 572],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6915"
-    ]
+    "candidates": []
   },
   {
     "text": "Amitriptyline",
-    "position": [
-      642,
-      655
-    ],
+    "position": [642, 655],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "704"
-    ]
+    "candidates": []
   },
   {
     "text": "Nortriptyline",
-    "position": [
-      659,
-      672
-    ],
+    "position": [659, 672],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

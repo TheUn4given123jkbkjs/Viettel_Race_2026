@@ -1,88 +1,51 @@
 [
   {
     "text": "suy giáp",
-    "position": [
-      26,
-      34
-    ],
+    "position": [26, 34],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "E20",
-      "E89.0",
-      "E89.2"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Potassium iodide",
-    "position": [
-      52,
-      68
-    ],
+    "position": [52, 68],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "8597"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đau cẳng chân P",
-    "position": [
-      151,
-      166
-    ],
+    "position": [151, 166],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      182,
-      190
-    ],
+    "position": [182, 190],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ban đỏ cẳng chân P",
-    "position": [
-      223,
-      241
-    ],
+    "position": [223, 241],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [
-      243,
-      247
-    ],
+    "position": [243, 247],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm mô tế bào",
-    "position": [
-      288,
-      302
-    ],
+    "position": [288, 302],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K12.2",
-      "N73.0",
-      "N73.1"
-    ]
+    "candidates": []
   }
 ]

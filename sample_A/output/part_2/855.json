@@ -4,11 +4,7 @@
     "position": [269, 281],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "A54.31",
-      "A39.85",
-      "A18.59"
-    ]
+    "candidates": []
   },
   {
     "text": "mắt đỏ",
@@ -36,24 +32,20 @@
     "position": [902, 914],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A71",
-      "A71.0",
-      "A71.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Azithromycin",
     "position": [1105, 1117],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["18631"]
+    "candidates": []
   },
   {
     "text": "Tetracycline",
     "position": [1204, 1216],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["10395"]
+    "candidates": []
   }
 ]

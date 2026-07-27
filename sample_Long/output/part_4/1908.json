@@ -1,50 +1,30 @@
 [
   {
     "text": "biến dạng ngón chân cái mắc phải khác",
-    "position": [
-      48,
-      85
-    ],
+    "position": [48, 85],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M20.3"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      263,
-      272
-    ],
+    "position": [263, 272],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      278,
-      291
-    ],
+    "position": [278, 291],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Allopurinol",
-    "position": [
-      357,
-      368
-    ],
+    "position": [357, 368],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "519"
-    ]
+    "candidates": []
   }
 ]

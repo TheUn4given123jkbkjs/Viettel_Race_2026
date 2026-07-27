@@ -1,92 +1,58 @@
 [
   {
     "text": "ngất xỉu",
-    "position": [
-      124,
-      132
-    ],
+    "position": [124, 132],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đột tử do tim (được mô tả)",
-    "position": [
-      468,
-      494
-    ],
+    "position": [468, 494],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "I46.1"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      693,
-      701
-    ],
+    "position": [693, 701],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      706,
-      714
-    ],
+    "position": [706, 714],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đánh trống ngực",
-    "position": [
-      758,
-      773
-    ],
+    "position": [758, 773],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp nhanh thất không bền bỉ",
-    "position": [
-      977,
-      1005
-    ],
+    "position": [977, 1005],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      1018,
-      1026
-    ],
+    "position": [1018, 1026],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đột tử do tim (được mô tả)",
-    "position": [
-      468,
-      494
-    ],
+    "position": [468, 494],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I46.1"
-    ]
+    "candidates": []
   }
 ]

@@ -1,88 +1,58 @@
 [
   {
     "text": "Crohn's disease",
-    "position": [
-      80,
-      95
-    ],
+    "position": [80, 95],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "rheumatoid arthritis",
-    "position": [
-      248,
-      268
-    ],
+    "position": [248, 268],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau cổ",
-    "position": [
-      352,
-      358
-    ],
+    "position": [352, 358],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau vùng bàn chân",
-    "position": [
-      362,
-      379
-    ],
+    "position": [362, 379],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP",
-    "position": [
-      925,
-      928
-    ],
+    "position": [925, 928],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng cao",
-    "position": [
-      929,
-      937
-    ],
+    "position": [929, 937],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      956,
-      964
-    ],
+    "position": [956, 964],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh khớp trong bệnh đường ruột khác, cổ, bàn chân",
-    "position": [
-      1087,
-      1137
-    ],
+    "position": [1087, 1137],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M07.67*"
-    ]
+    "candidates": []
   }
 ]

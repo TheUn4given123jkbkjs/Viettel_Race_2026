@@ -4,7 +4,7 @@
     "position": [57, 67],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["6932"]
+    "candidates": []
   },
   {
     "text": "viêm da",
@@ -25,22 +25,14 @@
     "position": [594, 602],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "P52",
-      "P52.0",
-      "P52.1"
-    ]
+    "candidates": []
   },
   {
     "text": "trẻ em",
     "position": [608, 614],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "F98.21",
-      "F98.29",
-      "F64.2"
-    ]
+    "candidates": []
   },
   {
     "text": "NSAID",

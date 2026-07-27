@@ -1,72 +1,49 @@
 [
   {
     "text": "đau mỏi lưng",
-    "position": [
-      128,
-      140
-    ],
+    "position": [128, 140],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vai phải cao hơn vai trái",
-    "position": [
-      894,
-      919
-    ],
+    "position": [894, 919],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nghiệm pháp Adam dương tính",
-    "position": [
-      938,
-      965
-    ],
+    "position": [938, 965],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Góc Cobb đo được là 25 độ",
-    "position": [
-      1065,
-      1090
-    ],
+    "position": [1065, 1090],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Vẹo cột sống tự phát thiếu niên",
-    "position": [
-      1172,
-      1203
-    ],
+    "position": [1172, 1203],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M41.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen 400mg",
-    "position": [
-      1380,
-      1395
-    ],
+    "position": [1380, 1395],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen 500mg",
-    "position": [
-      1428,
-      1447
-    ],
+    "position": [1428, 1447],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

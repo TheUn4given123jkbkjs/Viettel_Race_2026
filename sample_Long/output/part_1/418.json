@@ -1,75 +1,44 @@
 [
   {
     "text": "THA",
-    "position": [
-      26,
-      29
-    ],
+    "position": [26, 29],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "Y06"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "ĐTĐ",
-    "position": [
-      31,
-      34
-    ],
+    "position": [31, 34],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau",
-    "position": [
-      130,
-      133
-    ],
+    "position": [130, 133],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt chủ quan",
-    "position": [
-      144,
-      156
-    ],
+    "position": [144, 156],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "lệch tư thế đầu",
-    "position": [
-      182,
-      197
-    ],
+    "position": [182, 197],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Biến dạng mắc phải của cổ",
-    "position": [
-      209,
-      234
-    ],
+    "position": [209, 234],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M21.6",
-      "M95.3"
-    ]
+    "candidates": []
   }
 ]

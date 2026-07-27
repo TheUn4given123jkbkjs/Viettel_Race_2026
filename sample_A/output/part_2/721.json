@@ -4,28 +4,28 @@
     "position": [303, 316],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Dexamethasone",
     "position": [325, 338],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": []
   },
   {
     "text": "Amitriptyline",
     "position": [407, 420],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["704"]
+    "candidates": []
   },
   {
     "text": "Risperidone",
     "position": [458, 469],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["35636"]
+    "candidates": []
   },
   {
     "text": "Gabapentin",
@@ -46,13 +46,13 @@
     "position": [657, 667],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["1429947", "6694"]
+    "candidates": []
   },
   {
     "text": "Haloperidol",
     "position": [716, 727],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5093"]
+    "candidates": []
   }
 ]

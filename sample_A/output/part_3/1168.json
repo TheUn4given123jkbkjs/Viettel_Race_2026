@@ -4,24 +4,20 @@
     "position": [88, 117],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F22.8",
-      "F22.9",
-      "F22"
-    ]
+    "candidates": []
   },
   {
     "text": "Amitriptyline",
     "position": [345, 358],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["704"]
+    "candidates": []
   },
   {
     "text": "Haloperidol",
     "position": [377, 388],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5093"]
+    "candidates": []
   }
 ]

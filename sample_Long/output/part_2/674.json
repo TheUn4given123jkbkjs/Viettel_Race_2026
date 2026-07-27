@@ -1,68 +1,44 @@
 [
   {
     "text": "tiểu đường thai kỳ",
-    "position": [
-      196,
-      214
-    ],
+    "position": [196, 214],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "tiểu đường type 2",
-    "position": [
-      518,
-      535
-    ],
+    "position": [518, 535],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "chủ quan giảm cử động thai",
-    "position": [
-      825,
-      851
-    ],
+    "position": [825, 851],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp giảm biến đổi",
-    "position": [
-      1469,
-      1487
-    ],
+    "position": [1469, 1487],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêuâm",
-    "position": [
-      1712,
-      1718
-    ],
+    "position": [1712, 1718],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thai nhi và trẻ sơ sinh bị ảnh hưởng do các chèn ép khác của dây rốn",
-    "position": [
-      2042,
-      2110
-    ],
+    "position": [2042, 2110],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P02.5"
-    ]
+    "candidates": []
   }
 ]

@@ -1,72 +1,44 @@
 [
   {
     "text": "mẹ bị hội chứng khớp thái dương hàm",
-    "position": [
-      1447,
-      1482
-    ],
+    "position": [1447, 1482],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      2120,
-      2129
-    ],
+    "position": [2120, 2129],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "bất đối xứng xương hàm dưới",
-    "position": [
-      1960,
-      1987
-    ],
+    "position": [1960, 1987],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các bất thường hàm mặt khác",
-    "position": [
-      2587,
-      2614
-    ],
+    "position": [2587, 2614],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K07.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      2823,
-      2836
-    ],
+    "position": [2823, 2836],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      2922,
-      2931
-    ],
+    "position": [2922, 2931],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

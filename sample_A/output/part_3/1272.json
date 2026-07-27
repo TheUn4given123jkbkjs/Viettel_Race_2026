@@ -4,21 +4,21 @@
     "position": [408, 438],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["G36.0"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [471, 478],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
     "position": [482, 493],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",

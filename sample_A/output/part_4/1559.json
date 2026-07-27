@@ -4,12 +4,12 @@
     "position": [111, 130],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["253174"]
+    "candidates": []
   },
   {
     "text": "bệnh gan",
     "position": [75, 83],
-    "type": "BỆNH_LÝ",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },

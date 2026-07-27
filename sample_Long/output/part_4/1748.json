@@ -1,52 +1,35 @@
 [
   {
     "text": "Viêm da dạng herpes",
-    "position": [
-      0,
-      19
-    ],
+    "position": [0, 19],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "acyclovir",
-    "position": [
-      743,
-      752
-    ],
+    "position": [743, 752],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "paracetamol",
-    "position": [
-      1208,
-      1219
-    ],
+    "position": [1208, 1219],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử herpes sinh dục 3 lần trong năm qua",
-    "position": [
-      1647,
-      1690
-    ],
+    "position": [1647, 1690],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "chlorhexidine",
-    "position": [
-      1314,
-      1327
-    ],
+    "position": [1314, 1327],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

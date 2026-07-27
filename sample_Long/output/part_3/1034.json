@@ -1,68 +1,44 @@
 [
   {
     "text": "Chấn thương khớp gối cũ",
-    "position": [
-      19,
-      42
-    ],
+    "position": [19, 42],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "kẹt khớp gối",
-    "position": [
-      137,
-      149
-    ],
+    "position": [137, 149],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nghiệm pháp McMurray dương tính",
-    "position": [
-      800,
-      831
-    ],
+    "position": [800, 831],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "MRI khớp gối trái",
-    "position": [
-      969,
-      986
-    ],
+    "position": [969, 986],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rách phức tạp sụn chêm trong",
-    "position": [
-      997,
-      1025
-    ],
+    "position": [997, 1025],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sụn chêm di lệch do tổn thương rách hay chấn thương cũ",
-    "position": [
-      1132,
-      1186
-    ],
+    "position": [1132, 1186],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M23.2",
-      "M23.20",
-      "M23.21"
-    ]
+    "candidates": []
   }
 ]

@@ -1,39 +1,23 @@
 [
   {
     "text": "Các bệnh khác ở da và tổ chức dưới da liên quan đến bức xạ",
-    "position": [
-      208,
-      266
-    ],
+    "position": [208, 266],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L59",
-      "L59.8"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      273,
-      282
-    ],
+    "position": [273, 282],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không có biểu hiện buồn nôn",
-    "position": [
-      284,
-      311
-    ],
+    "position": [284, 311],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

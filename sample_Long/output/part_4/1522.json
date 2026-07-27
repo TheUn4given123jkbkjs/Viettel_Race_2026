@@ -1,70 +1,42 @@
 [
   {
     "text": "Bàng quang thần kinh mất trương lực, không phân loại nơi khác",
-    "position": [
-      230,
-      291
-    ],
+    "position": [230, 291],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N31.2"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử THA",
-    "position": [
-      32,
-      43
-    ],
+    "position": [32, 43],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      187,
-      196
-    ],
+    "position": [187, 196],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không buồn nôn",
-    "position": [
-      198,
-      212
-    ],
+    "position": [198, 212],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [
-      330,
-      343
-    ],
+    "position": [330, 343],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "167"
-    ]
+    "candidates": []
   },
   {
     "text": "Oxybutynin",
-    "position": [
-      347,
-      357
-    ],
+    "position": [347, 357],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

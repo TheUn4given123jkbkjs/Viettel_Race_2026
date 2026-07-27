@@ -1,71 +1,44 @@
 [
   {
     "text": "Đái tháo đường thai kỳ",
-    "position": [
-      34,
-      56
-    ],
+    "position": [34, 56],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "bú kém",
-    "position": [
-      287,
-      293
-    ],
+    "position": [287, 293],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hạ thân nhiệt",
-    "position": [
-      295,
-      308
-    ],
+    "position": [295, 308],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Glucose",
-    "position": [
-      845,
-      852
-    ],
+    "position": [845, 852],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4850"
-    ]
+    "candidates": []
   },
   {
     "text": "Các rối loạn tạm thời khác của chuyển hóa hydrat cacbon ở thai và trẻ sơ sinh",
-    "position": [
-      1661,
-      1738
-    ],
+    "position": [1661, 1738],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P70.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Hydrocortisone",
-    "position": [
-      1872,
-      1886
-    ],
+    "position": [1872, 1886],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5492",
-      "27197"
-    ]
+    "candidates": []
   }
 ]

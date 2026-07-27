@@ -1,52 +1,30 @@
 [
   {
     "text": "Nhiễm khuẩn sơ sinh do E. Coli",
-    "position": [
-      502,
-      532
-    ],
+    "position": [502, 532],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "P36.4"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      476,
-      484
-    ],
+    "position": [476, 484],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Nhiễm khuẩn sơ sinh do E. Coli",
-    "position": [
-      502,
-      532
-    ],
+    "position": [502, 532],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P36.4"
-    ]
+    "candidates": []
   },
   {
     "text": "mẹ",
-    "position": [
-      256,
-      258
-    ],
+    "position": [256, 258],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   }
 ]

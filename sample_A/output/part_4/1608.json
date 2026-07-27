@@ -4,7 +4,7 @@
     "position": [114, 123],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["11246", "97016"]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -18,7 +18,7 @@
     "position": [235, 246],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "không sốt",
@@ -32,23 +32,19 @@
     "position": [304, 311],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "bệnh tim mạch",
     "position": [452, 465],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": []
   },
   {
     "text": "bố của bệnh nhân",
     "position": [467, 483],
-    "type": "NGƯỜI_THÂN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
     "candidates": []
   }

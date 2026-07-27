@@ -1,60 +1,37 @@
 [
   {
     "text": "vảy nến da đầu",
-    "position": [
-      34,
-      48
-    ],
+    "position": [34, 48],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "sưng đau khớp gối và ngón tay",
-    "position": [
-      76,
-      105
-    ],
+    "position": [76, 105],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh khớp ở thiếu niên do vảy nến",
-    "position": [
-      216,
-      249
-    ],
+    "position": [216, 249],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L40.54"
-    ]
+    "candidates": []
   },
   {
     "text": "Methotrexate",
-    "position": [
-      302,
-      314
-    ],
+    "position": [302, 314],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6851"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      339,
-      348
-    ],
+    "position": [339, 348],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

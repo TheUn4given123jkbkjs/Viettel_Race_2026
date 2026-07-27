@@ -4,18 +4,14 @@
     "position": [109, 122],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K92",
-      "K92.8",
-      "K92.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Methyldopa",
     "position": [226, 236],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["6876"]
+    "candidates": []
   },
   {
     "text": "BỆNH NHÂN",

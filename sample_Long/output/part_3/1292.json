@@ -1,106 +1,65 @@
 [
   {
     "text": "Fluphenazine",
-    "position": [
-      250,
-      262
-    ],
+    "position": [250, 262],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "4496"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "tâm thần phân liệt",
-    "position": [
-      134,
-      152
-    ],
+    "position": [134, 152],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F20.81",
-      "F20.89",
-      "F06.2"
-    ]
+    "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      810,
-      818
-    ],
+    "position": [810, 818],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      941,
-      949
-    ],
+    "position": [941, 949],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      1288,
-      1295
-    ],
+    "position": [1288, 1295],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "loạn vận động muộn",
-    "position": [
-      1990,
-      2008
-    ],
+    "position": [1990, 2008],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin I",
-    "position": [
-      2257,
-      2267
-    ],
+    "position": [2257, 2267],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "âm tính",
-    "position": [
-      2271,
-      2278
-    ],
+    "position": [2271, 2278],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      2609,
-      2620
-    ],
+    "position": [2609, 2620],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

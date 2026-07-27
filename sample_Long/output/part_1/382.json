@@ -1,26 +1,16 @@
 [
   {
     "text": "Hội chứng mọc răng",
-    "position": [
-      441,
-      459
-    ],
+    "position": [441, 459],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K00.7"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      491,
-      498
-    ],
+    "position": [491, 498],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   }
 ]

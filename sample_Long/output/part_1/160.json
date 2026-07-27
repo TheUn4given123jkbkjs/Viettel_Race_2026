@@ -1,83 +1,51 @@
 [
   {
     "text": "Ngộ độc vitamin",
-    "position": [
-      51,
-      66
-    ],
+    "position": [51, 66],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "T45.2",
-      "T45.7"
-    ]
+    "candidates": []
   },
   {
     "text": "Vitamin A / Vitamin D",
-    "position": [
-      299,
-      320
-    ],
+    "position": [299, 320],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "97016"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      670,
-      677
-    ],
+    "position": [670, 677],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng canxi máu",
-    "position": [
-      753,
-      767
-    ],
+    "position": [753, 767],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      821,
-      829
-    ],
+    "position": [821, 829],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy nhược cơ thể",
-    "position": [
-      842,
-      858
-    ],
+    "position": [842, 858],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sỏi thận",
-    "position": [
-      911,
-      919
-    ],
+    "position": [911, 919],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N13.2",
-      "N20",
-      "N20.0"
-    ]
+    "candidates": []
   }
 ]

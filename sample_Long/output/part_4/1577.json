@@ -1,40 +1,23 @@
 [
   {
     "text": "Mảng trắng và rối loạn khác của thượng bì miệng, bao gồm lưới",
-    "position": [
-      492,
-      553
-    ],
+    "position": [492, 553],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "K13.2"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Metformin",
-    "position": [
-      756,
-      765
-    ],
+    "position": [756, 765],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6809"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      798,
-      807
-    ],
+    "position": [798, 807],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

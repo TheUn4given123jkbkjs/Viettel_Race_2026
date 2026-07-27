@@ -4,27 +4,27 @@
     "position": [551, 570],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["D81.3"]
+    "candidates": []
   },
   {
     "text": "Abacavir",
     "position": [845, 853],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [612, 625],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Acetate hemodialysis solution",
     "position": [629, 658],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["226504"]
+    "candidates": []
   }
 ]

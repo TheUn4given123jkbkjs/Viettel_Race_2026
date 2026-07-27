@@ -4,7 +4,7 @@
     "position": [96, 99],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "candidates": []
   },
   {
     "text": "ung thư biểu mô tế bào đáy",
@@ -32,20 +32,20 @@
     "position": [819, 853],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C43.9"]
+    "candidates": []
   },
   {
     "text": "Dacarbazine",
     "position": [995, 1006],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3098"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [1099, 1112],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   }
 ]

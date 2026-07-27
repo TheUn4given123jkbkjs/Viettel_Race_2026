@@ -1,34 +1,23 @@
 [
   {
     "text": "tiểu đường",
-    "position": [
-      43,
-      53
-    ],
-    "type": "BỆNH_MÃN_TÍNH",
+    "position": [43, 53],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [
-      57,
-      69
-    ],
-    "type": "BỆNH_MÃN_TÍNH",
+    "position": [57, 69],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh loãng xương",
-    "position": [
-      182,
-      198
-    ],
-    "type": "BỆNH_MÃN_TÍNH",
-    "assertions": [
-      "isFamily"
-    ],
+    "position": [182, 198],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
     "candidates": []
   }
 ]

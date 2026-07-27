@@ -1,62 +1,42 @@
 [
   {
     "text": "Máu tụ dưới cốt mạc do chấn thương khi sinh",
-    "position": [
-      693,
-      736
-    ],
+    "position": [693, 736],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P12.0"
-    ]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      194,
-      207
-    ],
-    "type": "BỆNH_MÃN_TÍNH",
+    "position": [194, 207],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [
-      211,
-      221
-    ],
-    "type": "BỆNH_MÃN_TÍNH",
+    "position": [211, 221],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      77,
-      80
-    ],
+    "position": [77, 80],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [
-      84,
-      92
-    ],
+    "position": [84, 92],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      540,
-      548
-    ],
+    "position": [540, 548],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

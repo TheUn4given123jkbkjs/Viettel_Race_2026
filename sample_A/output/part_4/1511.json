@@ -4,33 +4,33 @@
     "position": [199, 221],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["1727875"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [366, 373],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
     "position": [377, 388],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
     "position": [123, 136],
-    "type": "BỆNH_MÃN_TÍNH",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
     "position": [138, 151],
-    "type": "BỆNH_MÃN_TÍNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },

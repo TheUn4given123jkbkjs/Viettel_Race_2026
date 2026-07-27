@@ -1,80 +1,44 @@
 [
   {
     "text": "đau hạ sườn phải",
-    "position": [
-      1636,
-      1652
-    ],
+    "position": [1636, 1652],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "CT ổ bụng",
-    "position": [
-      374,
-      383
-    ],
+    "position": [374, 383],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "nhồi máu gan",
-    "position": [
-      446,
-      458
-    ],
+    "position": [446, 458],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "K76.3"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "men gan tăng",
-    "position": [
-      2076,
-      2088
-    ],
+    "position": [2076, 2088],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Heparin",
-    "position": [
-      702,
-      709
-    ],
+    "position": [702, 709],
     "type": "THUỐC",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "235473"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "Warfarin",
-    "position": [
-      714,
-      722
-    ],
+    "position": [714, 722],
     "type": "THUỐC",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "11289"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   }
 ]

@@ -4,35 +4,35 @@
     "position": [2259, 2311],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": ["D17.0"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [527, 534],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "Metformin",
     "position": [627, 636],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["6809"]
+    "candidates": []
   },
   {
     "text": "Atorvastatin",
     "position": [727, 739],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["83367"]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
     "position": [829, 839],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["17767"]
+    "candidates": []
   },
   {
     "text": "Lisinopril",
@@ -46,42 +46,42 @@
     "position": [1002, 1021],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["5487"]
+    "candidates": []
   },
   {
     "text": "Furosemide",
     "position": [1098, 1108],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["4603"]
+    "candidates": []
   },
   {
     "text": "Potassium chloride",
     "position": [1200, 1218],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["8591"]
+    "candidates": []
   },
   {
     "text": "Magnesium sulfate",
     "position": [1311, 1328],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["6585"]
+    "candidates": []
   },
   {
     "text": "Calcium gluconate",
     "position": [1422, 1439],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["1908"]
+    "candidates": []
   },
   {
     "text": "Vitamin D",
     "position": [1530, 1539],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["97016"]
+    "candidates": []
   },
   {
     "text": "Multivitamin",

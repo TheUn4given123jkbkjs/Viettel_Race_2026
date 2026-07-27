@@ -1,54 +1,35 @@
 [
   {
     "text": "Viêm ổ răng xương hàm",
-    "position": [
-      601,
-      622
-    ],
+    "position": [601, 622],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K10.3"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      281,
-      288
-    ],
+    "position": [281, 288],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "đau răng",
-    "position": [
-      78,
-      86
-    ],
+    "position": [78, 86],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng hàm",
-    "position": [
-      90,
-      98
-    ],
+    "position": [90, 98],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp X-quang răng",
-    "position": [
-      362,
-      379
-    ],
+    "position": [362, 379],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

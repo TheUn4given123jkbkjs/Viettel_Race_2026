@@ -4,14 +4,14 @@
     "position": [107, 151],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": ["G21.9"]
+    "candidates": []
   },
   {
     "text": "Levodopa",
     "position": [735, 743],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["103990"]
+    "candidates": []
   },
   {
     "text": "Bromocriptine",

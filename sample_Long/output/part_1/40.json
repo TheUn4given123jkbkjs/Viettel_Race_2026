@@ -1,62 +1,37 @@
 [
   {
     "text": "liệt dây thanh âm và thanh quản, không xác định",
-    "position": [
-      193,
-      240
-    ],
+    "position": [193, 240],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J38.00"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      396,
-      409
-    ],
+    "position": [396, 409],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      437,
-      444
-    ],
+    "position": [437, 444],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      600,
-      617
-    ],
+    "position": [600, 617],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      538,
-      549
-    ],
+    "position": [538, 549],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

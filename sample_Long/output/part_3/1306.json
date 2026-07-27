@@ -1,78 +1,49 @@
 [
   {
     "text": "Bisacodyl",
-    "position": [
-      52,
-      61
-    ],
+    "position": [52, 61],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "1596"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đau bụng cấp",
-    "position": [
-      115,
-      127
-    ],
+    "position": [115, 127],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      148,
-      156
-    ],
+    "position": [148, 156],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "nôn",
-    "position": [
-      153,
-      156
-    ],
+    "position": [153, 156],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      184,
-      187
-    ],
+    "position": [184, 187],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      277,
-      285
-    ],
+    "position": [277, 285],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bình thường",
-    "position": [
-      301,
-      312
-    ],
+    "position": [301, 312],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

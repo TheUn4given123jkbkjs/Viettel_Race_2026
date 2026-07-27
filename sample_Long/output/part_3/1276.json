@@ -1,88 +1,49 @@
 [
   {
     "text": "Nhiễm trùng tụ cầu",
-    "position": [
-      40,
-      58
-    ],
+    "position": [40, 58],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A41.0",
-      "A41.1",
-      "A41.2"
-    ]
+    "candidates": []
   },
   {
     "text": "nhiễm khuẩn huyết",
-    "position": [
-      335,
-      352
-    ],
+    "position": [335, 352],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O88.3",
-      "A39.2",
-      "A39.3"
-    ]
+    "candidates": []
   },
   {
     "text": "Cloxacillin",
-    "position": [
-      749,
-      760
-    ],
+    "position": [749, 760],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "2625"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "viêm da mủ",
-    "position": [
-      790,
-      800
-    ],
+    "position": [790, 800],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L08.0",
-      "L13.1",
-      "L88"
-    ]
+    "candidates": []
   },
   {
     "text": "tấy đỏ",
-    "position": [
-      869,
-      875
-    ],
+    "position": [869, 875],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      927,
-      936
-    ],
+    "position": [927, 936],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "kháng sinh",
-    "position": [
-      1016,
-      1026
-    ],
+    "position": [1016, 1026],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

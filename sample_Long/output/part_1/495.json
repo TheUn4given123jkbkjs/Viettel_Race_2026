@@ -1,52 +1,30 @@
 [
   {
     "text": "Bệnh khớp trong viêm loét đại tràng (K51.-†)",
-    "position": [
-      0,
-      44
-    ],
+    "position": [0, 44],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M09.2*",
-      "M09.20*",
-      "M09.21*"
-    ]
+    "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [
-      528,
-      538
-    ],
+    "position": [528, 538],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3355"
-    ]
+    "candidates": []
   },
   {
     "text": "Omeprazole",
-    "position": [
-      573,
-      583
-    ],
+    "position": [573, 583],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "7646"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      659,
-      672
-    ],
+    "position": [659, 672],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

@@ -4,20 +4,20 @@
     "position": [731, 757],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["F18.21"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [259, 272],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Activated charcoal",
     "position": [276, 294],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["272"]
+    "candidates": []
   }
 ]

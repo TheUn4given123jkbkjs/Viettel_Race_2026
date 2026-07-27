@@ -1,62 +1,37 @@
 [
   {
     "text": "Protein niệu đơn độc với tổn thương hình thái đặc hiệu, Tổn thương cầu thận ổ và thùy",
-    "position": [
-      25,
-      110
-    ],
+    "position": [25, 110],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N06.1"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      123,
-      132
-    ],
+    "position": [123, 132],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không buồn nôn",
-    "position": [
-      134,
-      148
-    ],
+    "position": [134, 148],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [
-      167,
-      180
-    ],
+    "position": [167, 180],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "167"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      184,
-      197
-    ],
+    "position": [184, 197],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

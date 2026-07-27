@@ -1,26 +1,16 @@
 [
   {
     "text": "Viêm túi mật mạn",
-    "position": [
-      352,
-      368
-    ],
+    "position": [352, 368],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K81.1"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      103,
-      106
-    ],
+    "position": [103, 106],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

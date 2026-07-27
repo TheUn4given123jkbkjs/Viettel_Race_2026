@@ -1,45 +1,28 @@
 [
   {
     "text": "Sỏi mật khác",
-    "position": [
-      106,
-      118
-    ],
+    "position": [106, 118],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K80.1",
-      "K80.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Ursodiol",
-    "position": [
-      160,
-      168
-    ],
+    "position": [160, 168],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      22,
-      39
-    ],
+    "position": [22, 39],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "viêm gan",
-    "position": [
-      306,
-      314
-    ],
+    "position": [306, 314],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

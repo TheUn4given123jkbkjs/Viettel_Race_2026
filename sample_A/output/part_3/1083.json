@@ -1,35 +1,35 @@
 [
   {
     "text": "U ác của dây chằng rộng",
-    "position": [294, 317],
+    "position": [293, 316],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["C57.1"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [326, 333],
+    "position": [325, 332],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [342, 353],
+    "position": [341, 352],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "Xét nghiệm huyết áp",
-    "position": [371, 390],
+    "position": [370, 389],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "120/80 mmHg",
-    "position": [412, 423],
+    "position": [411, 422],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

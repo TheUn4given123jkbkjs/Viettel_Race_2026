@@ -1,36 +1,21 @@
 [
   {
     "text": "Sỏi đường tiết niệu",
-    "position": [
-      461,
-      480
-    ],
+    "position": [461, 480],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N21.8",
-      "N21.9",
-      "N22"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      364,
-      377
-    ],
+    "position": [364, 377],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "************",
-    "position": [
-      600,
-      612
-    ],
+    "position": [600, 612],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

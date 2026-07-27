@@ -1,85 +1,56 @@
 [
   {
     "text": "ho mạn tính",
-    "position": [
-      35,
-      46
-    ],
+    "position": [35, 46],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ],
+    "assertions": ["isFamily", "isHistorical"],
     "candidates": []
   },
   {
     "text": "đau ngựctrái",
-    "position": [
-      141,
-      153
-    ],
+    "position": [141, 153],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      174,
-      182
-    ],
+    "position": [174, 182],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt nhẹ",
-    "position": [
-      193,
-      200
-    ],
+    "position": [193, 200],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      291,
-      299
-    ],
+    "position": [291, 299],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.15 ng/ml",
-    "position": [
-      336,
-      346
-    ],
+    "position": [336, 346],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng",
-    "position": [
-      348,
-      352
-    ],
+    "position": [348, 352],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đoạn ST chênh",
-    "position": [
-      376,
-      389
-    ],
+    "position": [376, 389],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

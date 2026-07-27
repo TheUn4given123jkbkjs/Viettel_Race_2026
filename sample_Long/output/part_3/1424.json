@@ -1,54 +1,35 @@
 [
   {
     "text": "Bệnh khớp do vi tinh thể sau các rối loạn chuyển hóa được xếp loại ở mục khác, bàn tay",
-    "position": [
-      188,
-      274
-    ],
+    "position": [188, 274],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M14.14*"
-    ]
+    "candidates": []
   },
   {
     "text": "Colchicine",
-    "position": [
-      283,
-      293
-    ],
+    "position": [283, 293],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2683"
-    ]
+    "candidates": []
   },
   {
     "text": "ban đỏ",
-    "position": [
-      105,
-      111
-    ],
+    "position": [105, 111],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bàn tayphải",
-    "position": [
-      121,
-      132
-    ],
+    "position": [121, 132],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      153,
-      165
-    ],
+    "position": [153, 165],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

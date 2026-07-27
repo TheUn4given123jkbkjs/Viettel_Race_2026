@@ -4,31 +4,27 @@
     "position": [185, 193],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["1202"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
     "position": [305, 313],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "candidates": []
   },
   {
     "text": "sốt",
     "position": [285, 288],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "A92.30",
-      "R50.0",
-      "R50.1"
-    ]
+    "candidates": []
   },
   {
     "text": "khó thở",
     "position": [121, 128],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["R06.0", "R06.2"]
+    "candidates": []
   }
 ]

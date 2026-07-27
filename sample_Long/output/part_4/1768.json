@@ -1,50 +1,30 @@
 [
   {
     "text": "Nhiễm khuẩn đường sinh dục và tiểu khung sau sẩy thai, chửa ngoài tử cung và chửa trứng",
-    "position": [
-      565,
-      652
-    ],
+    "position": [565, 652],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O08.0"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      108,
-      111
-    ],
+    "position": [108, 111],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [
-      127,
-      139
-    ],
+    "position": [127, 139],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [
-      155,
-      165
-    ],
+    "position": [155, 165],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

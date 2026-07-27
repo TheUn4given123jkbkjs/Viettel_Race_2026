@@ -1,84 +1,51 @@
 [
   {
     "text": "Lidocaine / Epinephrine",
-    "position": [
-      94,
-      117
-    ],
+    "position": [94, 117],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "107602"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "răng",
-    "position": [
-      42,
-      46
-    ],
+    "position": [42, 46],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sức khỏe",
-    "position": [
-      194,
-      202
-    ],
+    "position": [194, 202],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F45.21",
-      "F45.29",
-      "F45.20"
-    ]
+    "candidates": []
   },
   {
     "text": "thuốc giảm đau",
-    "position": [
-      60,
-      74
-    ],
+    "position": [60, 74],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chống viêm",
-    "position": [
-      398,
-      408
-    ],
+    "position": [398, 408],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy giảm hệ miễn dịch",
-    "position": [
-      562,
-      583
-    ],
+    "position": [562, 583],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      585,
-      598
-    ],
+    "position": [585, 598],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   }
 ]

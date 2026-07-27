@@ -1,110 +1,72 @@
 [
   {
     "text": "cảm thấy buồn nôn",
-    "position": [
-      282,
-      299
-    ],
+    "position": [282, 299],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      291,
-      299
-    ],
+    "position": [291, 299],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      313,
-      316
-    ],
+    "position": [313, 316],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "FBS",
-    "position": [
-      447,
-      450
-    ],
+    "position": [447, 450],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Creatinine",
-    "position": [
-      462,
-      472
-    ],
+    "position": [462, 472],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Potassium",
-    "position": [
-      510,
-      519
-    ],
+    "position": [510, 519],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sodium",
-    "position": [
-      531,
-      537
-    ],
+    "position": [531, 537],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      700,
-      708
-    ],
+    "position": [700, 708],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ceft",
-    "position": [
-      723,
-      727
-    ],
+    "position": [723, 727],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      749,
-      756
-    ],
+    "position": [749, 756],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   }
 ]

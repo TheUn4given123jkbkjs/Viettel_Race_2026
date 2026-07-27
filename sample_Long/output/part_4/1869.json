@@ -1,84 +1,51 @@
 [
   {
     "text": "sưng nề",
-    "position": [
-      92,
-      99
-    ],
+    "position": [92, 99],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhức âm ỉ",
-    "position": [
-      101,
-      114
-    ],
+    "position": [101, 114],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hạn chế vận động khớp",
-    "position": [
-      138,
-      159
-    ],
+    "position": [138, 159],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "lao phổi",
-    "position": [
-      197,
-      205
-    ],
+    "position": [197, 205],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "J65",
-      "Z11.1",
-      "A15.0"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Viêm khớp do lao (A18.0†), cánh tay",
-    "position": [
-      526,
-      561
-    ],
+    "position": [526, 561],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M01.12*"
-    ]
+    "candidates": []
   },
   {
     "text": "hủy hoại khớp",
-    "position": [
-      1017,
-      1030
-    ],
+    "position": [1017, 1030],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "cứng khớp",
-    "position": [
-      1184,
-      1193
-    ],
+    "position": [1184, 1193],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

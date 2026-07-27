@@ -11,27 +11,27 @@
     "position": [406, 413],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
     "position": [425, 436],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "Sodium chloride",
     "position": [548, 563],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["9863"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
     "position": [503, 511],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "candidates": []
   }
 ]

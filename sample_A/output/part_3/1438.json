@@ -4,11 +4,7 @@
     "position": [111, 121],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E13.1",
-      "E14.1",
-      "E87.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Tiền sử THA 5 năm",
@@ -22,14 +18,14 @@
     "position": [174, 181],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
     "position": [185, 196],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "Troponin",
@@ -57,6 +53,6 @@
     "position": [261, 269],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   }
 ]

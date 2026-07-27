@@ -1,38 +1,23 @@
 [
   {
     "text": "Các thoái hóa cột sống khác",
-    "position": [
-      192,
-      219
-    ],
+    "position": [192, 219],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M47.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      295,
-      302
-    ],
+    "position": [295, 302],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      308,
-      321
-    ],
+    "position": [308, 321],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

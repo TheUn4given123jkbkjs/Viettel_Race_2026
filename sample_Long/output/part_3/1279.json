@@ -1,52 +1,35 @@
 [
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      125,
-      142
-    ],
+    "position": [125, 142],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      184,
-      191
-    ],
+    "position": [184, 191],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết học",
-    "position": [
-      265,
-      274
-    ],
+    "position": [265, 274],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm viêm màng não",
-    "position": [
-      276,
-      300
-    ],
+    "position": [276, 300],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      304,
-      312
-    ],
+    "position": [304, 312],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

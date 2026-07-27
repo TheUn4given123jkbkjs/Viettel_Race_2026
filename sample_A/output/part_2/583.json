@@ -9,7 +9,7 @@
   {
     "text": "Bệnh tiệt hóa",
     "position": [28, 41],
-    "type": "TÊN_BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
@@ -46,11 +46,7 @@
     "position": [1180, 1187],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M36.1*",
-      "M36.10*",
-      "M36.11*"
-    ]
+    "candidates": []
   },
   {
     "text": "Tồi thượng thận",

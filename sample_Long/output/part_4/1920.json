@@ -1,62 +1,37 @@
 [
   {
     "text": "blốc nhánh trước trái",
-    "position": [
-      261,
-      282
-    ],
+    "position": [261, 282],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I44.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Acenocoumarol",
-    "position": [
-      314,
-      327
-    ],
+    "position": [314, 327],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "154"
-    ]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [
-      331,
-      341
-    ],
+    "position": [331, 341],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "17767"
-    ]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      374,
-      382
-    ],
+    "position": [374, 382],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      386,
-      389
-    ],
+    "position": [386, 389],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

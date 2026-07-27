@@ -2,7 +2,7 @@
   {
     "text": "Glaucoma",
     "position": [5, 13],
-    "type": "TÊN_BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
@@ -11,7 +11,7 @@
     "position": [738, 749],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["8328"]
+    "candidates": []
   },
   {
     "text": "đau đầu",
@@ -32,10 +32,6 @@
     "position": [816, 826],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K91",
-      "K91.0",
-      "K91.1"
-    ]
+    "candidates": []
   }
 ]

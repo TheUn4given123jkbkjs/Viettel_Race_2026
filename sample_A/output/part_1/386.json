@@ -18,36 +18,28 @@
     "position": [176, 184],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K70.9",
-      "K71",
-      "K71.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Bệnh phổi",
     "position": [187, 196],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J94",
-      "J94.8",
-      "J94.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [230, 237],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
     "position": [259, 270],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "Troponin",

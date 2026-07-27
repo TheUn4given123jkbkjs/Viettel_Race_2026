@@ -1,34 +1,21 @@
 [
   {
     "text": "Amitriptyline",
-    "position": [
-      33,
-      46
-    ],
+    "position": [33, 46],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "704"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      120,
-      133
-    ],
+    "position": [120, 133],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [
-      137,
-      147
-    ],
+    "position": [137, 147],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

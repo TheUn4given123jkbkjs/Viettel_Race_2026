@@ -1,82 +1,51 @@
 [
   {
     "text": "THA",
-    "position": [
-      84,
-      87
-    ],
+    "position": [84, 87],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "Y06"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      385,
-      397
-    ],
+    "position": [385, 397],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng khớp",
-    "position": [
-      461,
-      470
-    ],
+    "position": [461, 470],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhuộm Gram cho thấy song cầu khuẩn Gram dương",
-    "position": [
-      839,
-      884
-    ],
+    "position": [839, 884],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp do phế cầu ở vai",
-    "position": [
-      985,
-      1011
-    ],
+    "position": [985, 1011],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M00.11"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      1100,
-      1111
-    ],
+    "position": [1100, 1111],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      1154,
-      1167
-    ],
+    "position": [1154, 1167],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

@@ -1,66 +1,44 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [
-      118,
-      131
-    ],
+    "position": [118, 131],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tiểu đường loại 2",
-    "position": [
-      135,
-      157
-    ],
+    "position": [135, 157],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      169,
-      186
-    ],
+    "position": [169, 186],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [
-      266,
-      286
-    ],
+    "position": [266, 286],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nồng độ troponin tăng cao",
-    "position": [
-      366,
-      391
-    ],
+    "position": [366, 391],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      190,
-      199
-    ],
+    "position": [190, 199],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

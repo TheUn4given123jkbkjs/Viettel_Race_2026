@@ -4,7 +4,7 @@
     "position": [41, 49],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["B86"]
+    "candidates": []
   },
   {
     "text": "ngứa dữ dội",
@@ -46,13 +46,13 @@
     "position": [930, 940],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["33199"]
+    "candidates": []
   },
   {
     "text": "Ivermectin",
     "position": [1259, 1269],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6069"]
+    "candidates": []
   }
 ]

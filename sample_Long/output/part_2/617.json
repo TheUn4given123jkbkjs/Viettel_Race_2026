@@ -1,86 +1,51 @@
 [
   {
     "text": "Oxytocin",
-    "position": [
-      225,
-      233
-    ],
+    "position": [225, 233],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "7824"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Đái tháo đường týp 2",
-    "position": [
-      1195,
-      1215
-    ],
+    "position": [1195, 1215],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      1439,
-      1447
-    ],
+    "position": [1439, 1447],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      1455,
-      1458
-    ],
+    "position": [1455, 1458],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "WBC",
-    "position": [
-      1728,
-      1731
-    ],
+    "position": [1728, 1731],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "14.5 G/L",
-    "position": [
-      1732,
-      1740
-    ],
+    "position": [1732, 1740],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm ruột thừa cấp",
-    "position": [
-      1884,
-      1902
-    ],
+    "position": [1884, 1902],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K35",
-      "K35.1",
-      "K35.2"
-    ]
+    "candidates": []
   }
 ]

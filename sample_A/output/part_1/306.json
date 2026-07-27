@@ -4,7 +4,7 @@
     "position": [120, 195],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["D51.1"]
+    "candidates": []
   },
   {
     "text": "troponin",
@@ -18,6 +18,6 @@
     "position": [341, 348],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   }
 ]

@@ -4,11 +4,7 @@
     "position": [0, 18],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F31.71",
-      "F31.72",
-      "F31.73"
-    ]
+    "candidates": []
   },
   {
     "text": "Lítium",
@@ -22,14 +18,14 @@
     "position": [1380, 1391],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5093"]
+    "candidates": []
   },
   {
     "text": "Fluoxetine",
     "position": [1474, 1484],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4493"]
+    "candidates": []
   },
   {
     "text": "Triệu chứng lâm sàng",
@@ -90,7 +86,7 @@
   {
     "text": "Người bệnh có tiền sử THA 5 năm.",
     "position": [2045, 2077],
-    "type": "IS_HISTORICAL",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

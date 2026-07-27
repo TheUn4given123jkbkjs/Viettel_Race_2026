@@ -1,64 +1,37 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [
-      43,
-      56
-    ],
+    "position": [43, 56],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim và thận",
-    "position": [
-      319,
-      335
-    ],
+    "position": [319, 335],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I13",
-      "I13.0",
-      "I13.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [
-      703,
-      713
-    ],
+    "position": [703, 713],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "17767"
-    ]
+    "candidates": []
   },
   {
     "text": "Enalapril",
-    "position": [
-      719,
-      728
-    ],
+    "position": [719, 728],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3827"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [
-      612,
-      625
-    ],
+    "position": [612, 625],
     "type": "THUỐC",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "167"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   }
 ]

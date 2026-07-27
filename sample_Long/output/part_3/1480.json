@@ -1,94 +1,58 @@
 [
   {
     "text": "THA",
-    "position": [
-      69,
-      72
-    ],
+    "position": [69, 72],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      639,
-      647
-    ],
+    "position": [639, 647],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      660,
-      663
-    ],
+    "position": [660, 663],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "CT scanner sọ não",
-    "position": [
-      831,
-      848
-    ],
+    "position": [831, 848],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khối máu tụ kích thước 3cm",
-    "position": [
-      862,
-      888
-    ],
+    "position": [862, 888],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xuất huyết nội sọ tại tiểu não",
-    "position": [
-      1102,
-      1132
-    ],
+    "position": [1102, 1132],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I61.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Mannitol",
-    "position": [
-      1286,
-      1294
-    ],
+    "position": [1286, 1294],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6628"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      1391,
-      1404
-    ],
+    "position": [1391, 1404],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

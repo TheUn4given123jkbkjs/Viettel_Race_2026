@@ -4,32 +4,28 @@
     "position": [981, 1010],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["F17.21"]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
     "position": [142, 155],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
     "position": [161, 171],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": []
   },
   {
     "text": "ung thư phổi",
     "position": [222, 234],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["D02.2"]
+    "candidates": []
   },
   {
     "text": "ho khạc đờm",
@@ -50,13 +46,13 @@
     "position": [1131, 1141],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1753"]
+    "candidates": []
   },
   {
     "text": "Diazepam",
     "position": [1193, 1201],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3322"]
+    "candidates": []
   }
 ]

@@ -4,20 +4,20 @@
     "position": [480, 499],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A15.7", "A16.7"]
+    "candidates": []
   },
   {
     "text": "Abacavir",
     "position": [275, 283],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [304, 317],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["161"]
+    "candidates": []
   }
 ]

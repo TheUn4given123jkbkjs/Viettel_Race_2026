@@ -1,87 +1,57 @@
 [
   {
     "text": "Metoclopramide",
-    "position": [
-      861,
-      875
-    ],
+    "position": [861, 875],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "6915"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "bệnh Parkinson",
-    "position": [
-      85,
-      99
-    ],
-    "type": "TÊN_BỆNH",
+    "position": [85, 99],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "dopamine",
-    "position": [
-      171,
-      179
-    ],
-    "type": "CHẤT_DẪN_TRUYỀN_THẦN_KINH",
+    "position": [171, 179],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "levodopa",
-    "position": [
-      690,
-      698
-    ],
+    "position": [690, 698],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "103990"
-    ]
+    "candidates": []
   },
   {
     "text": "run",
-    "position": [
-      293,
-      296
-    ],
+    "position": [293, 296],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cứng nhắc",
-    "position": [
-      298,
-      307
-    ],
+    "position": [298, 307],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chậm chạp",
-    "position": [
-      309,
-      318
-    ],
+    "position": [309, 318],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      786,
-      796
-    ],
-    "type": "PHƯƠNG_PHÁP_ĐIỀU_TRỊ",
+    "position": [786, 796],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

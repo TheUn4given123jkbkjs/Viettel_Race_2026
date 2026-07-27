@@ -1,53 +1,35 @@
 [
   {
     "text": "bệnh của lưỡi",
-    "position": [
-      175,
-      188
-    ],
+    "position": [175, 188],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K14",
-      "K14.8"
-    ]
+    "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      260,
-      268
-    ],
+    "position": [260, 268],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      270,
-      277
-    ],
+    "position": [270, 277],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      281,
-      288
-    ],
+    "position": [281, 288],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [
-      92,
-      105
-    ],
+    "position": [92, 105],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

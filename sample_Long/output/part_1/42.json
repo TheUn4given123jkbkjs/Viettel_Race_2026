@@ -1,96 +1,58 @@
 [
   {
     "text": "Bệnh phổi tắc nghẽn mãn tính",
-    "position": [
-      484,
-      512
-    ],
+    "position": [484, 512],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "J44",
-      "J44.0",
-      "J44.1"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Hen phế quản",
-    "position": [
-      610,
-      622
-    ],
+    "position": [610, 622],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "ho khạc đờm mủ",
-    "position": [
-      700,
-      714
-    ],
+    "position": [700, 714],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      97,
-      100
-    ],
+    "position": [97, 100],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rale nổ",
-    "position": [
-      896,
-      903
-    ],
+    "position": [896, 903],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm phổi do vi khuẩn Haemophilus influenzae",
-    "position": [
-      1170,
-      1214
-    ],
+    "position": [1170, 1214],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J14"
-    ]
+    "candidates": []
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
-    "position": [
-      1401,
-      1430
-    ],
+    "position": [1401, 1430],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "19711"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      1537,
-      1550
-    ],
+    "position": [1537, 1550],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

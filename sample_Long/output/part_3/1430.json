@@ -1,73 +1,44 @@
 [
   {
     "text": "bệnh thận đa nang",
-    "position": [
-      146,
-      163
-    ],
+    "position": [146, 163],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "Q61.1",
-      "Q61.2"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      493,
-      501
-    ],
+    "position": [493, 501],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      514,
-      522
-    ],
+    "position": [514, 522],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Creatinine",
-    "position": [
-      1022,
-      1032
-    ],
+    "position": [1022, 1032],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "2.2 mg/dL",
-    "position": [
-      1033,
-      1042
-    ],
+    "position": [1033, 1042],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tăng huyết áp thứ phát do bệnh thận khác",
-    "position": [
-      1157,
-      1197
-    ],
+    "position": [1157, 1197],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I15.1"
-    ]
+    "candidates": []
   }
 ]

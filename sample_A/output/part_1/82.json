@@ -4,11 +4,7 @@
     "position": [0, 8],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "L70.2",
-      "B01",
-      "B01.0†"
-    ]
+    "candidates": []
   },
   {
     "text": "Sưng đỏ và đau trên da",
@@ -27,14 +23,14 @@
   {
     "text": "Viêm màng não",
     "position": [909, 922],
-    "type": "BIỆN_CHẤNG",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm da",
     "position": [976, 983],
-    "type": "BIỆN_CHẤNG",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

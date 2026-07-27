@@ -1,72 +1,49 @@
 [
   {
     "text": "đau ngực trái đột ngột",
-    "position": [
-      404,
-      426
-    ],
+    "position": [404, 426],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      550,
-      557
-    ],
+    "position": [550, 557],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      630,
-      638
-    ],
+    "position": [630, 638],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "CRP: 227.0 mg/L",
-    "position": [
-      1281,
-      1296
-    ],
+    "position": [1281, 1296],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin 0.01",
-    "position": [
-      1364,
-      1377
-    ],
+    "position": [1364, 1377],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ngực thẳng",
-    "position": [
-      1514,
-      1532
-    ],
+    "position": [1514, 1532],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT sọ",
-    "position": [
-      1615,
-      1620
-    ],
+    "position": [1615, 1620],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

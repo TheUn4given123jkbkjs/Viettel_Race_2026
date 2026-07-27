@@ -4,28 +4,20 @@
     "position": [0, 29],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["B90.2"]
+    "candidates": []
   },
   {
     "text": "Isoniazid",
     "position": [751, 760],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "821005",
-      "814321",
-      "6038"
-    ]
+    "candidates": []
   },
   {
     "text": "Rifampin",
     "position": [765, 773],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "814321",
-      "214662",
-      "9384"
-    ]
+    "candidates": []
   }
 ]

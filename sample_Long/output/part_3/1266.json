@@ -1,43 +1,28 @@
 [
   {
     "text": "Viêm phổi do Pseudomonas",
-    "position": [
-      46,
-      70
-    ],
+    "position": [46, 70],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J15.1",
-      "P23.5"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      341,
-      344
-    ],
+    "position": [341, 344],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [
-      346,
-      348
-    ],
+    "position": [346, 348],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      350,
-      357
-    ],
+    "position": [350, 357],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

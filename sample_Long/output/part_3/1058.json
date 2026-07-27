@@ -1,84 +1,51 @@
 [
   {
     "text": "đau nhức dữ dội",
-    "position": [
-      186,
-      201
-    ],
+    "position": [186, 201],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thuyên tắc và huyết khối động mạch chi dưới",
-    "position": [
-      805,
-      848
-    ],
+    "position": [805, 848],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I74.3"
-    ]
+    "candidates": []
   },
   {
     "text": "Thuyên tắc và huyết khối động mạch chi dưới",
-    "position": [
-      805,
-      848
-    ],
+    "position": [805, 848],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "I74.3"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "Thuyên tắcc và huyết khối động mạc chi dưới",
-    "position": [
-      2419,
-      2462
-    ],
+    "position": [2419, 2462],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      2793,
-      2800
-    ],
+    "position": [2793, 2800],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Acenocoumarol",
-    "position": [
-      2885,
-      2898
-    ],
+    "position": [2885, 2898],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "154"
-    ]
+    "candidates": []
   },
   {
     "text": "Heparin",
-    "position": [
-      2674,
-      2681
-    ],
+    "position": [2674, 2681],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "235473"
-    ]
+    "candidates": []
   }
 ]

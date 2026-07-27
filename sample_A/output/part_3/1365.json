@@ -4,25 +4,21 @@
     "position": [229, 239],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "Z22.0",
-      "Z27.0",
-      "Z27.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [264, 277],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Albendazole",
     "position": [302, 313],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["430"]
+    "candidates": []
   },
   {
     "text": "mệt mỏi",
@@ -41,14 +37,14 @@
   {
     "text": "tiểu đường",
     "position": [147, 157],
-    "type": "BỆNH_ĐỀ_XÉT",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
     "position": [159, 171],
-    "type": "BỆNH_ĐỀ_XÉT",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isFamily"],
     "candidates": []
   }

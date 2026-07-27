@@ -4,14 +4,14 @@
     "position": [280, 294],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["D00"]
+    "candidates": []
   },
   {
     "text": "Insulin",
     "position": [206, 213],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["253182", "317235"]
+    "candidates": []
   },
   {
     "text": "đau âm ỉ vùng thượng vị",
@@ -32,13 +32,13 @@
     "position": [1218, 1240],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C25.7", "C72"]
+    "candidates": []
   },
   {
     "text": "Pancreatin",
     "position": [1310, 1320],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7880"]
+    "candidates": []
   }
 ]

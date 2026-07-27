@@ -1,32 +1,21 @@
 [
   {
     "text": "Bệnh khớp do vi tinh thể không đặc hiệu",
-    "position": [
-      0,
-      39
-    ],
+    "position": [0, 39],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M11.9"
-    ]
+    "candidates": []
   },
   {
     "text": "đau và sưng ở khớp",
-    "position": [
-      117,
-      135
-    ],
+    "position": [117, 135],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      280,
-      290
-    ],
+    "position": [280, 290],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

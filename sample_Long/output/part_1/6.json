@@ -1,64 +1,42 @@
 [
   {
     "text": "sốt",
-    "position": [
-      70,
-      73
-    ],
+    "position": [70, 73],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nổi mẩn ngứa",
-    "position": [
-      83,
-      95
-    ],
+    "position": [83, 95],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhức sưng nóng tấy đỏ",
-    "position": [
-      249,
-      274
-    ],
+    "position": [249, 274],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp trong một số bệnh nhiễm khuẩn và ký sinh vật được xếp loại ở mục khác",
-    "position": [
-      1309,
-      1388
-    ],
+    "position": [1309, 1388],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M01.8*",
-      "M01.80*",
-      "M01.81*"
-    ]
+    "candidates": []
   },
   {
     "text": "Doxycycline 100mg: 2 viên/ngày, uống sau ăn",
-    "position": [
-      2000,
-      2043
-    ],
+    "position": [2000, 2043],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Diclofenac 50mg: 2 viên/ngày, uống sau bữa ăn chính",
-    "position": [
-      2257,
-      2308
-    ],
+    "position": [2257, 2308],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

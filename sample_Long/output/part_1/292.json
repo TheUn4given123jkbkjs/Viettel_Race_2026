@@ -1,36 +1,23 @@
 [
   {
     "text": "vàng da sơ sinh do đa hồng cầu",
-    "position": [
-      154,
-      184
-    ],
+    "position": [154, 184],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P58.3"
-    ]
+    "candidates": []
   },
   {
     "text": "Phototherapy",
-    "position": [
-      228,
-      240
-    ],
+    "position": [228, 240],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      297,
-      306
-    ],
+    "position": [297, 306],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

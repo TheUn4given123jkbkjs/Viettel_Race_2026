@@ -1,71 +1,42 @@
 [
   {
     "text": "viêm họng mạn",
-    "position": [
-      13,
-      26
-    ],
+    "position": [13, 26],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "J31",
-      "J31.1",
-      "J31.2"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Amoxicillin",
-    "position": [
-      38,
-      49
-    ],
+    "position": [38, 49],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "723",
-      "19711"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đau cổ chân",
-    "position": [
-      92,
-      103
-    ],
+    "position": [92, 103],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bầm tím",
-    "position": [
-      107,
-      114
-    ],
+    "position": [107, 114],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang",
-    "position": [
-      279,
-      286
-    ],
+    "position": [279, 286],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "trật khớp cổ chân",
-    "position": [
-      299,
-      316
-    ],
+    "position": [299, 316],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

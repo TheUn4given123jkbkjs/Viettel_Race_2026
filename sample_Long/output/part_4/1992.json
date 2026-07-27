@@ -1,58 +1,37 @@
 [
   {
     "text": "bệnh tăng nhãn áp",
-    "position": [
-      383,
-      400
-    ],
-    "type": "TÊN_BỆNH",
+    "position": [383, 400],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [
-      672,
-      685
-    ],
+    "position": [672, 685],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "167"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "giảm thị lực",
-    "position": [
-      532,
-      544
-    ],
+    "position": [532, 544],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      556,
-      563
-    ],
+    "position": [556, 563],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      602,
-      611
-    ],
+    "position": [602, 611],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

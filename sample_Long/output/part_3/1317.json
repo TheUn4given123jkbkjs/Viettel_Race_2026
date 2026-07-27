@@ -1,84 +1,51 @@
 [
   {
     "text": "đau bụng thượng vị dữ dội",
-    "position": [
-      785,
-      810
-    ],
+    "position": [785, 810],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      374,
-      383
-    ],
+    "position": [374, 383],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      387,
-      404
-    ],
+    "position": [387, 404],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ung thư dạ dày",
-    "position": [
-      661,
-      675
-    ],
+    "position": [661, 675],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "D00"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "bụng gồng cứng như gỗ",
-    "position": [
-      843,
-      864
-    ],
+    "position": [843, 864],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "liềm hơi dưới hoành",
-    "position": [
-      1043,
-      1062
-    ],
+    "position": [1043, 1062],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Loét tá tràng (Cấp có thủng)",
-    "position": [
-      1124,
-      1152
-    ],
+    "position": [1124, 1152],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K26.1",
-      "K26.3",
-      "K27.1"
-    ]
+    "candidates": []
   }
 ]

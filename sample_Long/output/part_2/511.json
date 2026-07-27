@@ -1,40 +1,23 @@
 [
   {
     "text": "Loét tá tràng",
-    "position": [
-      0,
-      13
-    ],
+    "position": [0, 13],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K26",
-      "K26.0",
-      "K26.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Ranitidine",
-    "position": [
-      785,
-      795
-    ],
+    "position": [785, 795],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "9143"
-    ]
+    "candidates": []
   },
   {
     "text": "Omeprazole",
-    "position": [
-      799,
-      809
-    ],
+    "position": [799, 809],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "7646"
-    ]
+    "candidates": []
   }
 ]

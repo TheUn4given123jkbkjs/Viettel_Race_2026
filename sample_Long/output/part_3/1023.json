@@ -1,100 +1,58 @@
 [
   {
     "text": "Ethambutol",
-    "position": [
-      418,
-      428
-    ],
+    "position": [418, 428],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "821005",
-      "814321",
-      "4110"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "ĐTĐ type 2",
-    "position": [
-      198,
-      208
-    ],
+    "position": [198, 208],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhồi máu cơ tim",
-    "position": [
-      645,
-      660
-    ],
+    "position": [645, 660],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "I21",
-      "I21.0",
-      "I21.1"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau ngực trái (",
-    "position": [
-      856,
-      871
-    ],
+    "position": [856, 871],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      1067,
-      1075
-    ],
+    "position": [1067, 1075],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      1244,
-      1251
-    ],
+    "position": [1244, 1251],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      2019,
-      2027
-    ],
+    "position": [2019, 2027],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST chênh lên",
-    "position": [
-      1945,
-      1957
-    ],
+    "position": [1945, 1957],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

@@ -1,35 +1,35 @@
 [
   {
     "text": "Rối loạn khí sắc [cảm xúc] dai dẳng không đặc hiệu",
-    "position": [50, 100],
+    "position": [49, 99],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["F34.9"]
+    "candidates": []
   },
   {
     "text": "Acamprosate",
-    "position": [548, 559],
+    "position": [547, 558],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amitriptyline",
-    "position": [432, 445],
+    "position": [431, 444],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["704"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [333, 346],
+    "position": [332, 345],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Bác sĩ",
-    "position": [509, 515],
+    "position": [508, 514],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

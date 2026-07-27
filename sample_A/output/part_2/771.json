@@ -4,32 +4,28 @@
     "position": [730, 771],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["F14.28"]
+    "candidates": []
   },
   {
     "text": "Diazepam",
     "position": [787, 795],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3322"]
+    "candidates": []
   },
   {
     "text": "Amitriptyline",
     "position": [855, 868],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["704"]
+    "candidates": []
   },
   {
     "text": "nghiện rượu",
     "position": [329, 340],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "F10.20",
-      "F10.21",
-      "F10.22"
-    ]
+    "candidates": []
   },
   {
     "text": "kích thích",

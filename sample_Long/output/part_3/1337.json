@@ -1,100 +1,58 @@
 [
   {
     "text": "Kén (nang) sụn chêm",
-    "position": [
-      75,
-      94
-    ],
+    "position": [75, 94],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M23.0",
-      "M23.00",
-      "M23.01"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      1028,
-      1037
-    ],
+    "position": [1028, 1037],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "thoái hóa khớp",
-    "position": [
-      845,
-      859
-    ],
+    "position": [845, 859],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "M15",
-      "M15.0",
-      "M15.3"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau khu trú",
-    "position": [
-      1191,
-      1202
-    ],
+    "position": [1191, 1202],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "kẹt khớp",
-    "position": [
-      1641,
-      1649
-    ],
+    "position": [1641, 1649],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      2151,
-      2164
-    ],
+    "position": [2151, 2164],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [
-      2225,
-      2235
-    ],
+    "position": [2225, 2235],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3355"
-    ]
+    "candidates": []
   },
   {
     "text": "vết rách sụn chêm",
-    "position": [
-      270,
-      287
-    ],
+    "position": [270, 287],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "S83.2"
-    ]
+    "candidates": []
   }
 ]

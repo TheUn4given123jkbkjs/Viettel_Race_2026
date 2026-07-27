@@ -1,72 +1,42 @@
 [
   {
     "text": "Streptomycin",
-    "position": [
-      172,
-      184
-    ],
+    "position": [172, 184],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "10109"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "bệnh tim",
-    "position": [
-      536,
-      544
-    ],
+    "position": [536, 544],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      456,
-      463
-    ],
+    "position": [456, 463],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      467,
-      478
-    ],
+    "position": [467, 478],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      284,
-      287
-    ],
+    "position": [284, 287],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A92.30",
-      "R50.0",
-      "R50.1"
-    ]
+    "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [
-      291,
-      299
-    ],
+    "position": [291, 299],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -4,7 +4,7 @@
     "position": [329, 339],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["9346"]
+    "candidates": []
   },
   {
     "text": "các triệu chứng",
@@ -32,10 +32,6 @@
     "position": [1230, 1243],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": []
   }
 ]

@@ -4,19 +4,19 @@
     "position": [385, 421],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G62.2"]
+    "candidates": []
   },
   {
     "text": "aspirin************",
     "position": [521, 540],
-    "type": "",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
     "position": [542, 553],
-    "type": "",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },

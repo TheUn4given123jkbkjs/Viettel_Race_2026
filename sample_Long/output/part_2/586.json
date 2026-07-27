@@ -1,38 +1,23 @@
 [
   {
     "text": "Bệnh cơ trong những bệnh được xếp loại ở mục khác",
-    "position": [
-      0,
-      49
-    ],
+    "position": [0, 49],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M63",
-      "M63*",
-      "M63.8*"
-    ]
+    "candidates": []
   },
   {
     "text": "Paracetamol",
-    "position": [
-      370,
-      381
-    ],
+    "position": [370, 381],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      387,
-      396
-    ],
+    "position": [387, 396],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

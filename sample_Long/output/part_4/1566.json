@@ -1,72 +1,49 @@
 [
   {
     "text": "bệnh tim mạch",
-    "position": [
-      297,
-      310
-    ],
+    "position": [297, 310],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phổi",
-    "position": [
-      500,
-      504
-    ],
+    "position": [500, 504],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      596,
-      603
-    ],
+    "position": [596, 603],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "metoprolol",
-    "position": [
-      619,
-      629
-    ],
+    "position": [619, 629],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ECG",
-    "position": [
-      228,
-      231
-    ],
+    "position": [228, 231],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "máu",
-    "position": [
-      329,
-      332
-    ],
+    "position": [329, 332],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang",
-    "position": [
-      423,
-      430
-    ],
+    "position": [423, 430],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

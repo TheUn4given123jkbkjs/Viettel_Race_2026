@@ -1,58 +1,37 @@
 [
   {
     "text": "khối u",
-    "position": [
-      12,
-      18
-    ],
+    "position": [12, 18],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Kén nang lômg",
-    "position": [
-      67,
-      80
-    ],
+    "position": [67, 80],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khômg đau",
-    "position": [
-      167,
-      176
-    ],
+    "position": [167, 176],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không viêm tấy",
-    "position": [
-      215,
-      229
-    ],
+    "position": [215, 229],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Erythromycin",
-    "position": [
-      269,
-      281
-    ],
+    "position": [269, 281],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4053"
-    ]
+    "candidates": []
   }
 ]

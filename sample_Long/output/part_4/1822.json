@@ -1,100 +1,56 @@
 [
   {
     "text": "Pyrantel",
-    "position": [
-      32,
-      40
-    ],
+    "position": [32, 40],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "8984"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Tăng huyết áp",
-    "position": [
-      225,
-      238
-    ],
+    "position": [225, 238],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Đau bụng dữ dội vùng thượng vị",
-    "position": [
-      585,
-      615
-    ],
+    "position": [585, 615],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amylase máu",
-    "position": [
-      1863,
-      1874
-    ],
+    "position": [1863, 1874],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm tụy cấp",
-    "position": [
-      2119,
-      2131
-    ],
+    "position": [2119, 2131],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G37.3",
-      "G37.4",
-      "K85.2"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh lý mạch vành",
-    "position": [
-      523,
-      540
-    ],
+    "position": [523, 540],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [
-      287,
-      297
-    ],
+    "position": [287, 297],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "17767"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "NaCl 0.9%",
-    "position": [
-      2561,
-      2570
-    ],
+    "position": [2561, 2570],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

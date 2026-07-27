@@ -4,25 +4,21 @@
     "position": [200, 210],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "68244",
-      "2003201",
-      "2003222"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
     "position": [778, 789],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [743, 750],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "vi-rút",

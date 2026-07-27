@@ -1,96 +1,63 @@
 [
   {
     "text": "chướng bụng",
-    "position": [
-      66,
-      77
-    ],
+    "position": [66, 77],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      187,
-      196
-    ],
+    "position": [187, 196],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ho kéo dài",
-    "position": [
-      266,
-      276
-    ],
+    "position": [266, 276],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau âm ỉvùng thượng vị",
-    "position": [
-      422,
-      444
-    ],
+    "position": [422, 444],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      214,
-      222
-    ],
+    "position": [214, 222],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Tổng phân tích tế bào máu",
-    "position": [
-      883,
-      908
-    ],
+    "position": [883, 908],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "8.2 G/L",
-    "position": [
-      929,
-      936
-    ],
+    "position": [929, 936],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Test Hp qua hơi thở",
-    "position": [
-      1046,
-      1065
-    ],
+    "position": [1046, 1065],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dương tính (+)",
-    "position": [
-      1075,
-      1089
-    ],
+    "position": [1075, 1089],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

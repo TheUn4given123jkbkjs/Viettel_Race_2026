@@ -4,33 +4,33 @@
     "position": [81, 93],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3100"]
+    "candidates": []
   },
   {
     "text": "ung thư",
     "position": [131, 138],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
     "position": [166, 178],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường",
     "position": [182, 196],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhiễm trùng máu",
     "position": [415, 430],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
@@ -39,14 +39,14 @@
     "position": [491, 502],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [506, 513],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "troponin",

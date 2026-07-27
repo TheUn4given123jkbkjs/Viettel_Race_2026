@@ -1,74 +1,49 @@
 [
   {
     "text": "ngứa",
-    "position": [
-      122,
-      126
-    ],
+    "position": [122, 126],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sẩn phù",
-    "position": [
-      207,
-      214
-    ],
+    "position": [207, 214],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hen phế quản",
-    "position": [
-      1276,
-      1288
-    ],
+    "position": [1276, 1288],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "IgE toàn phần",
-    "position": [
-      2438,
-      2451
-    ],
+    "position": [2438, 2451],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng nhẹ",
-    "position": [
-      2470,
-      2478
-    ],
+    "position": [2470, 2478],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Mày đay, không đặc hiệu",
-    "position": [
-      2653,
-      2676
-    ],
+    "position": [2653, 2676],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L50.9"
-    ]
+    "candidates": []
   },
   {
     "text": "sinh thiết da",
-    "position": [
-      2872,
-      2885
-    ],
+    "position": [2872, 2885],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

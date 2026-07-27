@@ -1,84 +1,51 @@
 [
   {
     "text": "đạm trong nước tiểu",
-    "position": [
-      112,
-      131
-    ],
+    "position": [112, 131],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phù",
-    "position": [
-      160,
-      163
-    ],
+    "position": [160, 163],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "máu trong nước tiểu",
-    "position": [
-      204,
-      223
-    ],
+    "position": [204, 223],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      232,
-      249
-    ],
+    "position": [232, 249],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Protein niệu đơn độc với tổn thương hình thái đặc hiệu, Không xác định",
-    "position": [
-      629,
-      699
-    ],
+    "position": [629, 699],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N06.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Captopril",
-    "position": [
-      1213,
-      1222
-    ],
+    "position": [1213, 1222],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1998"
-    ]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
-    "position": [
-      1441,
-      1453
-    ],
+    "position": [1441, 1453],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8638"
-    ]
+    "candidates": []
   }
 ]

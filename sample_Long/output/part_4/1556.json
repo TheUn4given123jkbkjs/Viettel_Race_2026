@@ -1,68 +1,44 @@
 [
   {
     "text": "Thoái hóa khớp cổ bàn ngón cái sau chấn thương cả 2 bên",
-    "position": [
-      567,
-      622
-    ],
+    "position": [567, 622],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M18.2"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      796,
-      803
-    ],
-    "type": "************",
+    "position": [796, 803],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      805,
-      816
-    ],
-    "type": "************",
+    "position": [805, 816],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      821,
-      829
-    ],
-    "type": "************",
+    "position": [821, 829],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      526,
-      534
-    ],
+    "position": [526, 534],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      544,
-      547
-    ],
+    "position": [544, 547],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

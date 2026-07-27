@@ -4,33 +4,33 @@
     "position": [285, 314],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["B21.7"]
+    "candidates": []
   },
   {
     "text": "tiểu đường",
     "position": [124, 134],
-    "type": "BỆNH_MÃN_TÍNH",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
     "position": [138, 150],
-    "type": "BỆNH_MÃN_TÍNH",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhiễm trùng đường tiết niệu",
     "position": [195, 222],
-    "type": "BỆNH_SỬ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm phổi",
     "position": [226, 235],
-    "type": "BỆNH_SỬ",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

@@ -1,98 +1,58 @@
 [
   {
     "text": "Lupus ban đỏ hệ thống",
-    "position": [
-      64,
-      85
-    ],
+    "position": [64, 85],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "M32",
-      "M32.0",
-      "M32.1†"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Cyclophosphamide",
-    "position": [
-      105,
-      121
-    ],
+    "position": [105, 121],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "3002"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "ho khan",
-    "position": [
-      178,
-      185
-    ],
+    "position": [178, 185],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      214,
-      217
-    ],
+    "position": [214, 217],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      230,
-      238
-    ],
+    "position": [230, 238],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "rale nổ",
-    "position": [
-      334,
-      341
-    ],
+    "position": [334, 341],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      359,
-      367
-    ],
+    "position": [359, 367],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      404,
-      415
-    ],
+    "position": [404, 415],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

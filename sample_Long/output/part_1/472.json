@@ -1,33 +1,22 @@
 [
   {
     "text": "Bệnh tủy và mô quanh chân răng khác và không xác định",
-    "position": [
-      469,
-      522
-    ],
+    "position": [469, 522],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K04.9"
-    ]
+    "candidates": []
   },
   {
     "text": "sâu răng",
-    "position": [
-      104,
-      112
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [104, 112],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm tủy răng",
-    "position": [
-      116,
-      129
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [116, 129],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

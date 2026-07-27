@@ -1,84 +1,51 @@
 [
   {
     "text": "sa tử cung",
-    "position": [
-      606,
-      616
-    ],
+    "position": [606, 616],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "N99.3",
-      "N81.2",
-      "N81.3"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "táo bón mãn tính",
-    "position": [
-      415,
-      431
-    ],
+    "position": [415, 431],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khối sa ở vùng âm hộ",
-    "position": [
-      1030,
-      1050
-    ],
+    "position": [1030, 1050],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm tiểu khung",
-    "position": [
-      2094,
-      2112
-    ],
+    "position": [2094, 2112],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sa sinh dục nữ, không đặc hiệu",
-    "position": [
-      2340,
-      2370
-    ],
+    "position": [2340, 2370],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N81.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      2669,
-      2682
-    ],
+    "position": [2669, 2682],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Bisacodyl",
-    "position": [
-      2788,
-      2797
-    ],
+    "position": [2788, 2797],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1596"
-    ]
+    "candidates": []
   }
 ]

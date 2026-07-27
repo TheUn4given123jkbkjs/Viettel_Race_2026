@@ -2,7 +2,7 @@
   {
     "text": "bệnh tiểu đường loại 2",
     "position": [209, 231],
-    "type": "BỆNH_NỀN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
@@ -11,7 +11,7 @@
     "position": [254, 263],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6809"]
+    "candidates": []
   },
   {
     "text": "đau đầu",

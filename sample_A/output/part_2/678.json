@@ -4,24 +4,20 @@
     "position": [0, 9],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M01.2*",
-      "M01.20*",
-      "M01.21*"
-    ]
+    "candidates": []
   },
   {
     "text": "doxycycline",
     "position": [408, 419],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3640"]
+    "candidates": []
   },
   {
     "text": "amoxicillin",
     "position": [425, 436],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["723", "19711"]
+    "candidates": []
   }
 ]

@@ -1,92 +1,58 @@
 [
   {
     "text": "sốt nhẹ",
-    "position": [
-      364,
-      371
-    ],
+    "position": [364, 371],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhức vùng đùi phải",
-    "position": [
-      390,
-      412
-    ],
+    "position": [390, 412],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      672,
-      680
-    ],
+    "position": [672, 680],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sưng nề",
-    "position": [
-      886,
-      893
-    ],
+    "position": [886, 893],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm",
-    "position": [
-      1108,
-      1115
-    ],
+    "position": [1108, 1115],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm cơ nhiễm khuẩn",
-    "position": [
-      1178,
-      1197
-    ],
+    "position": [1178, 1197],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M63.0*",
-      "M63.2*",
-      "M60.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Cloxacillin",
-    "position": [
-      1289,
-      1300
-    ],
+    "position": [1289, 1300],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2625"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      1337,
-      1350
-    ],
+    "position": [1337, 1350],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

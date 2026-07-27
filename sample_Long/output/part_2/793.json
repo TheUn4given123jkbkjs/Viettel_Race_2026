@@ -1,58 +1,35 @@
 [
   {
     "text": "Cefuroxime",
-    "position": [
-      134,
-      144
-    ],
+    "position": [134, 144],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "2194"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      191,
-      198
-    ],
+    "position": [191, 198],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      287,
-      298
-    ],
+    "position": [287, 298],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      399,
-      407
-    ],
+    "position": [399, 407],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm phổi cộng đồng",
-    "position": [
-      243,
-      262
-    ],
+    "position": [243, 262],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

@@ -4,11 +4,7 @@
     "position": [48, 61],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Đau bụng",
@@ -57,20 +53,20 @@
     "position": [2034, 2062],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C45.1"]
+    "candidates": []
   },
   {
     "text": "Cisplatin",
     "position": [2137, 2146],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2555"]
+    "candidates": []
   },
   {
     "text": "Doxorubicin",
     "position": [2155, 2166],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3639"]
+    "candidates": []
   }
 ]

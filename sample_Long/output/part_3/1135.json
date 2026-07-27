@@ -1,86 +1,56 @@
 [
   {
     "text": "khó thở",
-    "position": [
-      357,
-      364
-    ],
+    "position": [357, 364],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau tức ngực âm ỉ",
-    "position": [
-      468,
-      485
-    ],
+    "position": [468, 485],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [
-      913,
-      922
-    ],
+    "position": [913, 922],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      951,
-      959
-    ],
+    "position": [951, 959],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      980,
-      983
-    ],
+    "position": [980, 983],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (ECG)",
-    "position": [
-      1609,
-      1626
-    ],
+    "position": [1609, 1626],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hs-Troponin T",
-    "position": [
-      1663,
-      1676
-    ],
+    "position": [1663, 1676],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST chênh xuống",
-    "position": [
-      1785,
-      1799
-    ],
+    "position": [1785, 1799],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

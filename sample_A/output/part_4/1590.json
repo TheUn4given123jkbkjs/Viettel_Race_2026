@@ -4,7 +4,7 @@
     "position": [0, 18],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["B74.8"]
+    "candidates": []
   },
   {
     "text": "tiêu chảy",
@@ -32,10 +32,6 @@
     "position": [549, 559],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K91",
-      "K91.0",
-      "K91.1"
-    ]
+    "candidates": []
   }
 ]

@@ -1,86 +1,51 @@
 [
   {
     "text": "Bệnh gan khác",
-    "position": [
-      35,
-      48
-    ],
+    "position": [35, 48],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K71.6",
-      "K71.8",
-      "M67"
-    ]
+    "candidates": []
   },
   {
     "text": "nhiễm mỡõ",
-    "position": [
-      262,
-      271
-    ],
+    "position": [262, 271],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh gan khác",
-    "position": [
-      35,
-      48
-    ],
+    "position": [35, 48],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "K71.6",
-      "K71.8",
-      "M67"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      711,
-      718
-    ],
+    "position": [711, 718],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chánăn",
-    "position": [
-      720,
-      726
-    ],
+    "position": [720, 726],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetylcysteine",
-    "position": [
-      1036,
-      1050
-    ],
+    "position": [1036, 1050],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "197"
-    ]
+    "candidates": []
   },
   {
     "text": "Methionine",
-    "position": [
-      1131,
-      1141
-    ],
+    "position": [1131, 1141],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6837"
-    ]
+    "candidates": []
   }
 ]

@@ -1,82 +1,56 @@
 [
   {
     "text": "thoái hóa khớp kiểu bào mòn",
-    "position": [
-      312,
-      339
-    ],
+    "position": [312, 339],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M15.4"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử bệnh tim mạch",
-    "position": [
-      49,
-      70
-    ],
+    "position": [49, 70],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [
-      57,
-      70
-    ],
+    "position": [57, 70],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cảm giác đau nhức",
-    "position": [
-      214,
-      231
-    ],
+    "position": [214, 231],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [
-      512,
-      526
-    ],
+    "position": [512, 526],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp X-quang",
-    "position": [
-      530,
-      542
-    ],
+    "position": [530, 542],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiêu hóa",
-    "position": [
-      842,
-      850
-    ],
+    "position": [842, 850],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "da liễu",
-    "position": [
-      865,
-      872
-    ],
+    "position": [865, 872],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

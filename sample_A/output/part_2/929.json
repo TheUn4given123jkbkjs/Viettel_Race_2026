@@ -1,20 +1,16 @@
 [
   {
     "text": "tim mạch",
-    "position": [100, 108],
+    "position": [98, 106],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.54",
-      "A52.00",
-      "A52.06"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [167, 174],
+    "position": [165, 172],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   }
 ]

@@ -18,11 +18,7 @@
     "position": [488, 503],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I21",
-      "I21.0",
-      "I21.1"
-    ]
+    "candidates": []
   },
   {
     "text": "đường huyết tĩnh mạch lúc đói",
@@ -43,20 +39,20 @@
     "position": [1105, 1114],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6809"]
+    "candidates": []
   },
   {
     "text": "Gliclazide",
     "position": [1221, 1231],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4816"]
+    "candidates": []
   },
   {
     "text": "Rối loạn chuyển hóa carbohydrat, không đặc hiệu",
     "position": [1273, 1320],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E74.9"]
+    "candidates": []
   }
 ]

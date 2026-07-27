@@ -1,68 +1,44 @@
 [
   {
     "text": "đau đầu dữ dội",
-    "position": [
-      108,
-      122
-    ],
+    "position": [108, 122],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "co giật toàn thân",
-    "position": [
-      887,
-      904
-    ],
+    "position": [887, 904],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Protein niệu",
-    "position": [
-      1266,
-      1278
-    ],
+    "position": [1266, 1278],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sản giật khi có thai",
-    "position": [
-      1672,
-      1692
-    ],
+    "position": [1672, 1692],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O15.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Magnesium sulfate",
-    "position": [
-      1762,
-      1779
-    ],
+    "position": [1762, 1779],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6585"
-    ]
+    "candidates": []
   },
   {
     "text": "Hydralazine",
-    "position": [
-      1894,
-      1905
-    ],
+    "position": [1894, 1905],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5470"
-    ]
+    "candidates": []
   }
 ]

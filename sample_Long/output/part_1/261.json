@@ -1,53 +1,36 @@
 [
   {
     "text": "Nhồi máu xuyên thành cấp ở vị trí khác",
-    "position": [
-      0,
-      38
-    ],
+    "position": [0, 38],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I21.2"
-    ]
+    "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      290,
-      298
-    ],
+    "position": [290, 298],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      300,
-      307
-    ],
+    "position": [300, 307],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      309,
-      316
-    ],
+    "position": [309, 316],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      444,
-      454
-    ],
-    "type": "ĐIỀU_TRỊ",
+    "position": [444, 454],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

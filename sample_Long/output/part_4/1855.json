@@ -1,52 +1,35 @@
 [
   {
     "text": "MeningococcalVaccine",
-    "position": [
-      104,
-      124
-    ],
+    "position": [104, 124],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [
-      52,
-      59
-    ],
+    "position": [52, 59],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      63,
-      70
-    ],
+    "position": [63, 70],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thuốc giảm đau",
-    "position": [
-      229,
-      243
-    ],
+    "position": [229, 243],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [
-      322,
-      336
-    ],
+    "position": [322, 336],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

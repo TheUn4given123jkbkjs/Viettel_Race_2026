@@ -1,70 +1,44 @@
 [
   {
     "text": "Thai giấy",
-    "position": [
-      31,
-      40
-    ],
+    "position": [31, 40],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O31.0"
-    ]
+    "candidates": []
   },
   {
     "text": "xuất huyết âm đạo",
-    "position": [
-      692,
-      709
-    ],
+    "position": [692, 709],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [
-      715,
-      723
-    ],
+    "position": [715, 723],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm",
-    "position": [
-      841,
-      848
-    ],
+    "position": [841, 848],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Misoprostol",
-    "position": [
-      1223,
-      1234
-    ],
+    "position": [1223, 1234],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6964",
-      "42331"
-    ]
+    "candidates": []
   },
   {
     "text": "Amoxicillin",
-    "position": [
-      1398,
-      1409
-    ],
+    "position": [1398, 1409],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "723",
-      "19711"
-    ]
+    "candidates": []
   }
 ]

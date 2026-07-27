@@ -1,88 +1,58 @@
 [
   {
     "text": "Viêm đa xoang cấp tính khác",
-    "position": [
-      49,
-      76
-    ],
+    "position": [49, 76],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J01.8"
-    ]
+    "candidates": []
   },
   {
     "text": "đau nhức vùng mặt",
-    "position": [
-      741,
-      758
-    ],
+    "position": [741, 758],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nghẹt mũi",
-    "position": [
-      833,
-      842
-    ],
+    "position": [833, 842],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chảy dịch mũi đặc",
-    "position": [
-      852,
-      869
-    ],
+    "position": [852, 869],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [
-      951,
-      958
-    ],
+    "position": [951, 958],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi toàn thân",
-    "position": [
-      962,
-      979
-    ],
+    "position": [962, 979],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
-    "position": [
-      1245,
-      1274
-    ],
+    "position": [1245, 1274],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "19711"
-    ]
+    "candidates": []
   },
   {
     "text": "Xylometazoline",
-    "position": [
-      1404,
-      1418
-    ],
+    "position": [1404, 1418],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "39841"
-    ]
+    "candidates": []
   }
 ]

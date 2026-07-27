@@ -1,62 +1,42 @@
 [
   {
     "text": "Bệnh hệ tiêu hóa đặc hiệu khác",
-    "position": [
-      63,
-      93
-    ],
+    "position": [63, 93],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K92.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Đau bụng kéo dài",
-    "position": [
-      1059,
-      1075
-    ],
+    "position": [1059, 1075],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đầy hơi khó tiêu",
-    "position": [
-      1157,
-      1173
-    ],
+    "position": [1157, 1173],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tiêu chảy mạn tính",
-    "position": [
-      1290,
-      1308
-    ],
+    "position": [1290, 1308],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Omeprazole 20mg",
-    "position": [
-      1819,
-      1834
-    ],
+    "position": [1819, 1834],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Pancreatin 170mg: 3 viên/ngày, uống",
-    "position": [
-      1964,
-      1999
-    ],
+    "position": [1964, 1999],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

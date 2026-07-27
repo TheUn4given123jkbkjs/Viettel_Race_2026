@@ -1,40 +1,23 @@
 [
   {
     "text": "Ban đỏ nổi cục rắn",
-    "position": [
-      346,
-      364
-    ],
+    "position": [346, 364],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "L95.1"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      405,
-      412
-    ],
+    "position": [405, 412],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      417,
-      428
-    ],
+    "position": [417, 428],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

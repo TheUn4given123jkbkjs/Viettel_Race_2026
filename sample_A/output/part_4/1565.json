@@ -4,27 +4,27 @@
     "position": [42, 98],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E11.0"]
+    "candidates": []
   },
   {
     "text": "Metformin",
     "position": [304, 313],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6809"]
+    "candidates": []
   },
   {
     "text": "Acarbose",
     "position": [317, 325],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["16681"]
+    "candidates": []
   },
   {
     "text": "Insulin",
     "position": [508, 515],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["253182", "317235"]
+    "candidates": []
   }
 ]

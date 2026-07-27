@@ -4,21 +4,21 @@
     "position": [0, 16],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isHistorical"],
-    "candidates": ["E53.0"]
+    "candidates": []
   },
   {
     "text": "Riboflavin",
     "position": [609, 619],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["9346"]
+    "candidates": []
   },
   {
     "text": "Pyridoxine",
     "position": [623, 633],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["684879"]
+    "candidates": []
   },
   {
     "text": "Cyanocobalamin",

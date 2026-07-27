@@ -1,60 +1,37 @@
 [
   {
     "text": "Bất thường khác trong thụ thai, chưa xác định",
-    "position": [
-      72,
-      117
-    ],
+    "position": [72, 117],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O02.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Clomiphene",
-    "position": [
-      344,
-      354
-    ],
+    "position": [344, 354],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2596"
-    ]
+    "candidates": []
   },
   {
     "text": "Letrozole",
-    "position": [
-      360,
-      369
-    ],
+    "position": [360, 369],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      453,
-      460
-    ],
+    "position": [453, 460],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      466,
-      475
-    ],
+    "position": [466, 475],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

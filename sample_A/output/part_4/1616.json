@@ -4,14 +4,14 @@
     "position": [0, 38],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["B38.0"]
+    "candidates": []
   },
   {
     "text": "Fluconazole",
     "position": [1235, 1246],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4450"]
+    "candidates": []
   },
   {
     "text": "Itraconazole",
@@ -37,7 +37,7 @@
   {
     "text": "Tiền sử THA 5 năm",
     "position": [1712, 1729],
-    "type": "TỔNG_ĐOẠN",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isHistorical"],
     "candidates": []
   },

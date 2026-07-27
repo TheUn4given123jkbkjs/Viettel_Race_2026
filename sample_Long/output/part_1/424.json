@@ -1,94 +1,63 @@
 [
   {
     "text": "khó thở",
-    "position": [
-      637,
-      644
-    ],
+    "position": [637, 644],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau tức ngực trái",
-    "position": [
-      694,
-      711
-    ],
+    "position": [694, 711],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      559,
-      567
-    ],
+    "position": [559, 567],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Huyết áp: 145/85 mmHg",
-    "position": [
-      875,
-      896
-    ],
+    "position": [875, 896],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 11.5",
-    "position": [
-      1063,
-      1076
-    ],
+    "position": [1063, 1076],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Creatinin : 88 µmol/L",
-    "position": [
-      1078,
-      1099
-    ],
+    "position": [1078, 1099],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP 3.2 mg/L và Glucose 5.8 mmol/L",
-    "position": [
-      1155,
-      1189
-    ],
+    "position": [1155, 1189],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin T",
-    "position": [
-      1349,
-      1359
-    ],
+    "position": [1349, 1359],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp CT sọ",
-    "position": [
-      1371,
-      1381
-    ],
+    "position": [1371, 1381],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

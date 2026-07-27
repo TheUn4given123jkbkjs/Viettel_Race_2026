@@ -1,93 +1,58 @@
 [
   {
     "text": "Viêm phổi vi khuẩn",
-    "position": [
-      40,
-      58
-    ],
+    "position": [40, 58],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J14",
-      "J15",
-      "J15.6"
-    ]
+    "candidates": []
   },
   {
     "text": "Levofloxacin",
-    "position": [
-      531,
-      543
-    ],
+    "position": [531, 543],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "82122"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [
-      786,
-      793
-    ],
+    "position": [786, 793],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho có đờm",
-    "position": [
-      795,
-      804
-    ],
+    "position": [795, 804],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      833,
-      840
-    ],
+    "position": [833, 840],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chụp X-quang ngực",
-    "position": [
-      961,
-      978
-    ],
+    "position": [961, 978],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đám mờ thâm nhiễm",
-    "position": [
-      1000,
-      1017
-    ],
+    "position": [1000, 1017],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amoxicillin",
-    "position": [
-      1278,
-      1289
-    ],
+    "position": [1278, 1289],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "723",
-      "19711"
-    ]
+    "candidates": []
   }
 ]

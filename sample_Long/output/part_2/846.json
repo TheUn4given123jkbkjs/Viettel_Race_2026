@@ -1,42 +1,28 @@
 [
   {
     "text": "sốt",
-    "position": [
-      94,
-      97
-    ],
+    "position": [94, 97],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      100,
-      117
-    ],
+    "position": [100, 117],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      320,
-      328
-    ],
+    "position": [320, 328],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      332,
-      343
-    ],
+    "position": [332, 343],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

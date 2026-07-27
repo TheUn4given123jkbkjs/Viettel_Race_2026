@@ -11,26 +11,26 @@
     "position": [567, 585],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C69.3"]
+    "candidates": []
   },
   {
     "text": "đau tức ngực",
     "position": [201, 213],
-    "type": "DẤU_ĐIỂM",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp tim nhanh",
     "position": [215, 229],
-    "type": "DẤU_ĐIỂM",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
     "position": [233, 240],
-    "type": "DẤU_ĐIỂM",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },

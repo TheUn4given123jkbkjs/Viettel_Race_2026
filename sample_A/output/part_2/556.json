@@ -4,12 +4,12 @@
     "position": [132, 145],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["7975"]
+    "candidates": []
   },
   {
     "text": "bệnh Wilson",
     "position": [159, 170],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },

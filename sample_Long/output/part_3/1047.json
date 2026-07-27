@@ -1,80 +1,49 @@
 [
   {
     "text": "Nhồi máu cơ tim cấp",
-    "position": [
-      559,
-      578
-    ],
+    "position": [559, 578],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I21",
-      "I21.0",
-      "I21.1"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử tăng huyết áp 10 năm",
-    "position": [
-      128,
-      156
-    ],
+    "position": [128, 156],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "đau thắt ngực dữ dội",
-    "position": [
-      258,
-      278
-    ],
+    "position": [258, 278],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [
-      402,
-      411
-    ],
+    "position": [402, 411],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      669,
-      678
-    ],
+    "position": [669, 678],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không nôn mửa",
-    "position": [
-      682,
-      695
-    ],
+    "position": [682, 695],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "điện tâm đồ",
-    "position": [
-      506,
-      517
-    ],
+    "position": [506, 517],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

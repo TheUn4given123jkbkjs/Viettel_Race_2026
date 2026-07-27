@@ -1,84 +1,49 @@
 [
   {
     "text": "đẻ thường một thai",
-    "position": [
-      36,
-      54
-    ],
+    "position": [36, 54],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O80",
-      "O80.8",
-      "O80.9"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [
-      149,
-      156
-    ],
+    "position": [149, 156],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "bí tiểu",
-    "position": [
-      186,
-      193
-    ],
+    "position": [186, 193],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau nhẹ vùng tầng sinh môn",
-    "position": [
-      235,
-      261
-    ],
+    "position": [235, 261],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      368,
-      381
-    ],
+    "position": [368, 381],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Đẻ thường một thai",
-    "position": [
-      582,
-      600
-    ],
+    "position": [582, 600],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O80",
-      "O80.8",
-      "O80.9"
-    ]
+    "candidates": []
   },
   {
     "text": "băng huyết sau sinh",
-    "position": [
-      1214,
-      1233
-    ],
+    "position": [1214, 1233],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

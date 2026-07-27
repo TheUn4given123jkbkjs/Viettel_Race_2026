@@ -1,94 +1,58 @@
 [
   {
     "text": "tiền sử THA 3 năm",
-    "position": [
-      107,
-      124
-    ],
+    "position": [107, 124],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "mẹ bệnh nhân có tiền sử đái tháo đường",
-    "position": [
-      343,
-      381
-    ],
+    "position": [343, 381],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "tình trạnh",
-    "position": [
-      745,
-      755
-    ],
+    "position": [745, 755],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      903,
-      920
-    ],
+    "position": [903, 920],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "vỡ màngrau",
-    "position": [
-      1243,
-      1253
-    ],
+    "position": [1243, 1253],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thai nhi và trẻ sơ sinh bị ảnh hưởng do các bất thường của màng rau, chưa xác định",
-    "position": [
-      2211,
-      2293
-    ],
+    "position": [2211, 2293],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P02.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Ampicillin",
-    "position": [
-      2525,
-      2535
-    ],
+    "position": [2525, 2535],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "733"
-    ]
+    "candidates": []
   },
   {
     "text": "Gentamicin",
-    "position": [
-      2577,
-      2587
-    ],
+    "position": [2577, 2587],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1596450"
-    ]
+    "candidates": []
   }
 ]

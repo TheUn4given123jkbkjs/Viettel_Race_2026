@@ -1,47 +1,28 @@
 [
   {
     "text": "Viêm da tiếp xúc kích ứng, nguyên nhân không đặc hiệu",
-    "position": [
-      54,
-      107
-    ],
+    "position": [54, 107],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L24.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      246,
-      259
-    ],
+    "position": [246, 259],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Hydrocortisone",
-    "position": [
-      263,
-      277
-    ],
+    "position": [263, 277],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5492",
-      "27197"
-    ]
+    "candidates": []
   },
   {
     "text": "Clobetasol",
-    "position": [
-      600,
-      610
-    ],
+    "position": [600, 610],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

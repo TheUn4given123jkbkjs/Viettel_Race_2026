@@ -4,25 +4,21 @@
     "position": [0, 22],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "G95",
-      "M51.0†",
-      "M51.1†"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [522, 535],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
     "position": [541, 550],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": []
   },
   {
     "text": "MRI",
@@ -43,13 +39,13 @@
     "position": [1284, 1297],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Dexamethasone",
     "position": [1301, 1314],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": []
   }
 ]

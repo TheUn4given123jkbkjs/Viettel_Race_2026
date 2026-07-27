@@ -1,40 +1,23 @@
 [
   {
     "text": "bệnh viêm tuyến tiền liệt",
-    "position": [
-      354,
-      379
-    ],
+    "position": [354, 379],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N41",
-      "N41.8",
-      "N41.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      232,
-      245
-    ],
+    "position": [232, 245],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Allopurinol",
-    "position": [
-      276,
-      287
-    ],
+    "position": [276, 287],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "519"
-    ]
+    "candidates": []
   }
 ]

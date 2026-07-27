@@ -1,38 +1,23 @@
 [
   {
     "text": "Viêm xoang cấp tái phát không xác định",
-    "position": [
-      439,
-      477
-    ],
+    "position": [439, 477],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J01.91"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      147,
-      160
-    ],
+    "position": [147, 160],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Acenocoumarol",
-    "position": [
-      376,
-      389
-    ],
+    "position": [376, 389],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "154"
-    ]
+    "candidates": []
   }
 ]

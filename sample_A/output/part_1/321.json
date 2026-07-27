@@ -3,21 +3,21 @@
     "text": "Thừa vitamin A",
     "position": [314, 328],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated", ": false"],
-    "candidates": ["E67.0"]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Vitamin A",
     "position": [389, 398],
     "type": "THUỐC",
-    "assertions": ["isFamily", ": false"],
-    "candidates": ["11246", "97016"]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
     "position": [168, 176],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated", ": true"],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

@@ -1,82 +1,56 @@
 [
   {
     "text": "đau tức ngực trái",
-    "position": [
-      31,
-      48
-    ],
+    "position": [31, 48],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      53,
-      60
-    ],
+    "position": [53, 60],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hụt hơi",
-    "position": [
-      93,
-      100
-    ],
+    "position": [93, 100],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Mệt mỏi",
-    "position": [
-      124,
-      131
-    ],
+    "position": [124, 131],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm tim",
-    "position": [
-      214,
-      225
-    ],
+    "position": [214, 225],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "EF 60%",
-    "position": [
-      227,
-      233
-    ],
+    "position": [227, 233],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Glucose",
-    "position": [
-      251,
-      258
-    ],
+    "position": [251, 258],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "5.8 mmol/L",
-    "position": [
-      260,
-      270
-    ],
+    "position": [260, 270],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

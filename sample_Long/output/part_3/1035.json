@@ -1,64 +1,42 @@
 [
   {
     "text": "Đặt giác hút",
-    "position": [
-      60,
-      72
-    ],
+    "position": [60, 72],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O66.5",
-      "O81.4",
-      "O81.5"
-    ]
+    "candidates": []
   },
   {
     "text": "suy thai cấp",
-    "position": [
-      441,
-      453
-    ],
+    "position": [441, 453],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Lidocaine 2%",
-    "position": [
-      898,
-      910
-    ],
+    "position": [898, 910],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Oxytocin 10 đơn vị",
-    "position": [
-      1056,
-      1074
-    ],
+    "position": [1056, 1074],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "băng huyết sau sinh",
-    "position": [
-      1194,
-      1213
-    ],
+    "position": [1194, 1213],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bướu huyết thanh",
-    "position": [
-      1298,
-      1314
-    ],
+    "position": [1298, 1314],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

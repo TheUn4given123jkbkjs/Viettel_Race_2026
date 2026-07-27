@@ -1,94 +1,58 @@
 [
   {
     "text": "ung thư vú",
-    "position": [
-      185,
-      195
-    ],
+    "position": [185, 195],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "D05",
-      "D05.1",
-      "D05.7"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "tiết sữa tự nhiên từ hai bên vú",
-    "position": [
-      356,
-      387
-    ],
+    "position": [356, 387],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau vú",
-    "position": [
-      418,
-      424
-    ],
+    "position": [418, 424],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      486,
-      494
-    ],
+    "position": [486, 494],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "prolactin",
-    "position": [
-      524,
-      533
-    ],
+    "position": [524, 533],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng cao ở mức 85 ng/mL",
-    "position": [
-      555,
-      578
-    ],
+    "position": [555, 578],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "MRI",
-    "position": [
-      585,
-      588
-    ],
+    "position": [585, 588],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tiết sữa không liên quan đến sinh đẻ",
-    "position": [
-      688,
-      724
-    ],
+    "position": [688, 724],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N64.3"
-    ]
+    "candidates": []
   }
 ]

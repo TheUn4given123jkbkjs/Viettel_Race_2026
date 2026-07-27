@@ -1,94 +1,63 @@
 [
   {
     "text": "đau ngực",
-    "position": [
-      684,
-      692
-    ],
+    "position": [684, 692],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      684,
-      692
-    ],
+    "position": [684, 692],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi lạnh",
-    "position": [
-      1338,
-      1352
-    ],
+    "position": [1338, 1352],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      1403,
-      1411
-    ],
+    "position": [1403, 1411],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      1508,
-      1515
-    ],
+    "position": [1508, 1515],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "155/95 mmHg",
-    "position": [
-      1930,
-      1941
-    ],
+    "position": [1930, 1941],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "37.8 độ C",
-    "position": [
-      2069,
-      2078
-    ],
+    "position": [2069, 2078],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin T siêu nhạy",
-    "position": [
-      2682,
-      2702
-    ],
+    "position": [2682, 2702],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (ECG)",
-    "position": [
-      2613,
-      2630
-    ],
+    "position": [2613, 2630],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

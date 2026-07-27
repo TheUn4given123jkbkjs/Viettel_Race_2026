@@ -1,46 +1,28 @@
 [
   {
     "text": "các rối loạn chuyển hóa tạm thời không được định rõ của trẻ sơ sinh",
-    "position": [
-      323,
-      390
-    ],
+    "position": [323, 390],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P74.9"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      421,
-      428
-    ],
+    "position": [421, 428],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "acetaminophen",
-    "position": [
-      432,
-      445
-    ],
+    "position": [432, 445],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      541,
-      549
-    ],
+    "position": [541, 549],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

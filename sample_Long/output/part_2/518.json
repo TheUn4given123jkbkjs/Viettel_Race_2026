@@ -1,98 +1,56 @@
 [
   {
     "text": "Động kinh",
-    "position": [
-      59,
-      68
-    ],
+    "position": [59, 68],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F19.10",
-      "F19.12",
-      "F19.14"
-    ]
+    "candidates": []
   },
   {
     "text": "Phenytoin",
-    "position": [
-      108,
-      117
-    ],
+    "position": [108, 117],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "8183"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "sưng lợi",
-    "position": [
-      188,
-      196
-    ],
+    "position": [188, 196],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      246,
-      255
-    ],
+    "position": [246, 255],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      264,
-      281
-    ],
+    "position": [264, 281],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Viêm nha chu",
-    "position": [
-      386,
-      398
-    ],
+    "position": [386, 398],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "K04.4",
-      "K04.5",
-      "K05"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "quá sản lợi",
-    "position": [
-      596,
-      607
-    ],
+    "position": [596, 607],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thuốc chống co giật",
-    "position": [
-      647,
-      666
-    ],
+    "position": [647, 666],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

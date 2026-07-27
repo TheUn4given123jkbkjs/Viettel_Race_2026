@@ -1,34 +1,21 @@
 [
   {
     "text": "sỏi niệu quản",
-    "position": [
-      158,
-      171
-    ],
+    "position": [158, 171],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N13.2",
-      "N20",
-      "N20.1"
-    ]
+    "candidates": []
   },
   {
     "text": "đau nhức",
-    "position": [
-      52,
-      60
-    ],
+    "position": [52, 60],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đi tiểu",
-    "position": [
-      94,
-      101
-    ],
+    "position": [94, 101],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

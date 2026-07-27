@@ -1,54 +1,35 @@
 [
   {
     "text": "Pyridoxine",
-    "position": [
-      30,
-      40
-    ],
+    "position": [30, 40],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "684879"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "ho khan",
-    "position": [
-      76,
-      83
-    ],
+    "position": [76, 83],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rát họng",
-    "position": [
-      87,
-      95
-    ],
+    "position": [87, 95],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm họng cấpp",
-    "position": [
-      162,
-      176
-    ],
+    "position": [162, 176],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siro ho",
-    "position": [
-      257,
-      264
-    ],
+    "position": [257, 264],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -4,24 +4,20 @@
     "position": [485, 520],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E02"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [212, 225],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Iodine",
     "position": [229, 235],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "466470",
-      "5933",
-      "8611"
-    ]
+    "candidates": []
   }
 ]

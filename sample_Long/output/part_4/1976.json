@@ -1,56 +1,37 @@
 [
   {
     "text": "Viêm phổi trong bệnh ký sinh trùng",
-    "position": [
-      152,
-      186
-    ],
+    "position": [152, 186],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J17.3*"
-    ]
+    "candidates": []
   },
   {
     "text": "ho",
-    "position": [
-      40,
-      42
-    ],
+    "position": [40, 42],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      67,
-      74
-    ],
+    "position": [67, 74],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt nhẹ",
-    "position": [
-      78,
-      85
-    ],
+    "position": [78, 85],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt cao",
-    "position": [
-      252,
-      265
-    ],
+    "position": [252, 265],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

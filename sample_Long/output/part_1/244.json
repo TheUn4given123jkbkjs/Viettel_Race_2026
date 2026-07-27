@@ -1,103 +1,58 @@
 [
   {
     "text": "Rách tầng sinh môn trong đẻ",
-    "position": [
-      50,
-      77
-    ],
+    "position": [50, 77],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O70",
-      "O70.0",
-      "O70.1"
-    ]
+    "candidates": []
   },
   {
     "text": "rách tầng sinh môn",
-    "position": [
-      443,
-      461
-    ],
+    "position": [443, 461],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "O70",
-      "O70.0",
-      "O70.1"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "chảy máu âm đạo",
-    "position": [
-      1207,
-      1222
-    ],
+    "position": [1207, 1222],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      1833,
-      1836
-    ],
+    "position": [1833, 1836],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "tiểu buốt",
-    "position": [
-      1860,
-      1869
-    ],
+    "position": [1860, 1869],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Amoxicillin",
-    "position": [
-      2165,
-      2176
-    ],
+    "position": [2165, 2176],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "723",
-      "19711"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      2254,
-      2263
-    ],
+    "position": [2254, 2263],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   },
   {
     "text": "Povidone-iodine",
-    "position": [
-      2362,
-      2377
-    ],
+    "position": [2362, 2377],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8611"
-    ]
+    "candidates": []
   }
 ]

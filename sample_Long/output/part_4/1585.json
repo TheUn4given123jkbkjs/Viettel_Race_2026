@@ -1,40 +1,23 @@
 [
   {
     "text": "Viêm mô kẽ ống thận mạn khác",
-    "position": [
-      15,
-      43
-    ],
+    "position": [15, 43],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "N11.8"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "acetaminophen",
-    "position": [
-      982,
-      995
-    ],
+    "position": [982, 995],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "furosemide",
-    "position": [
-      999,
-      1009
-    ],
+    "position": [999, 1009],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4603"
-    ]
+    "candidates": []
   }
 ]

@@ -1,93 +1,56 @@
 [
   {
     "text": "Ciprofloxacin",
-    "position": [
-      113,
-      126
-    ],
+    "position": [113, 126],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "2551"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      213,
-      216
-    ],
+    "position": [213, 216],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "Y06"
-    ]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      487,
-      504
-    ],
+    "position": [487, 504],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau thượngvị",
-    "position": [
-      592,
-      604
-    ],
+    "position": [592, 604],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "WBC",
-    "position": [
-      1208,
-      1211
-    ],
+    "position": [1208, 1211],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm dạ dày cấp",
-    "position": [
-      1328,
-      1343
-    ],
+    "position": [1328, 1343],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K29.0",
-      "K29.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Pantoprazole",
-    "position": [
-      1403,
-      1415
-    ],
+    "position": [1403, 1415],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "40790"
-    ]
+    "candidates": []
   },
   {
     "text": "đỡ đau (có thể ngủ",
-    "position": [
-      1497,
-      1515
-    ],
+    "position": [1497, 1515],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

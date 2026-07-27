@@ -1,72 +1,44 @@
 [
   {
     "text": "thoái hóa cột sống không đặc hiệu",
-    "position": [
-      1078,
-      1111
-    ],
+    "position": [1078, 1111],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M47.9"
-    ]
+    "candidates": []
   },
   {
     "text": "đau thắt lưng mãn tính 3 năm nay",
-    "position": [
-      720,
-      752
-    ],
+    "position": [720, 752],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "cứng khớp vào buổi sáng",
-    "position": [
-      788,
-      811
-    ],
+    "position": [788, 811],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      842,
-      845
-    ],
+    "position": [842, 845],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      1272,
-      1285
-    ],
+    "position": [1272, 1285],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [
-      1307,
-      1317
-    ],
+    "position": [1307, 1317],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3355"
-    ]
+    "candidates": []
   }
 ]

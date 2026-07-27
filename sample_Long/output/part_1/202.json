@@ -1,82 +1,56 @@
 [
   {
     "text": "đau đầu chóng mặt",
-    "position": [
-      55,
-      72
-    ],
+    "position": [55, 72],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      77,
-      85
-    ],
+    "position": [77, 85],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau thượng vịlan",
-    "position": [
-      500,
-      516
-    ],
+    "position": [500, 516],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      536,
-      539
-    ],
+    "position": [536, 539],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Huyết áp: 130/70 mmHg",
-    "position": [
-      579,
-      600
-    ],
+    "position": [579, 600],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 26.7",
-    "position": [
-      783,
-      796
-    ],
+    "position": [783, 796],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 227.0 mg/L",
-    "position": [
-      819,
-      834
-    ],
+    "position": [819, 834],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT sọ",
-    "position": [
-      940,
-      945
-    ],
+    "position": [940, 945],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

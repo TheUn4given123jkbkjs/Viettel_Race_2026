@@ -1,77 +1,50 @@
 [
   {
     "text": "Diphtheria",
-    "position": [
-      0,
-      10
-    ],
-    "type": "TÊN_BỆNH",
+    "position": [0, 10],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Diphtheria-Tetanus-Pertussis Vaccine",
-    "position": [
-      699,
-      735
-    ],
+    "position": [699, 735],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "834765",
-      "309949",
-      "2388452"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      181,
-      184
-    ],
+    "position": [181, 184],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau họng",
-    "position": [
-      186,
-      194
-    ],
+    "position": [186, 194],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      199,
-      206
-    ],
+    "position": [199, 206],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm tim",
-    "position": [
-      384,
-      392
-    ],
-    "type": "BIẾN_CHỨNG",
+    "position": [384, 392],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm phổi",
-    "position": [
-      394,
-      403
-    ],
-    "type": "BIẾN_CHỨNG",
+    "position": [394, 403],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

@@ -1,62 +1,37 @@
 [
   {
     "text": "nhiễm khuẩn vết thương",
-    "position": [
-      185,
-      207
-    ],
+    "position": [185, 207],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O86.0"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      219,
-      228
-    ],
+    "position": [219, 228],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      447,
-      458
-    ],
+    "position": [447, 458],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      464,
-      477
-    ],
+    "position": [464, 477],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Metformin",
-    "position": [
-      370,
-      379
-    ],
+    "position": [370, 379],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6809"
-    ]
+    "candidates": []
   }
 ]

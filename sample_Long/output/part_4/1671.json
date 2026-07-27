@@ -1,74 +1,49 @@
 [
   {
     "text": "đau thắt ngực",
-    "position": [
-      184,
-      197
-    ],
+    "position": [184, 197],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      226,
-      233
-    ],
+    "position": [226, 233],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      371,
-      379
-    ],
+    "position": [371, 379],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      381,
-      392
-    ],
+    "position": [381, 392],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "nhịp tim nhanh",
-    "position": [
-      450,
-      464
-    ],
+    "position": [450, 464],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết áp cao",
-    "position": [
-      466,
-      478
-    ],
+    "position": [466, 478],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt 38 độ",
-    "position": [
-      480,
-      489
-    ],
+    "position": [480, 489],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

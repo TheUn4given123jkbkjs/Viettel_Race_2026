@@ -1,64 +1,42 @@
 [
   {
     "text": "Không sốt",
-    "position": [
-      258,
-      267
-    ],
+    "position": [258, 267],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "chán ăn",
-    "position": [
-      551,
-      558
-    ],
+    "position": [551, 558],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "SGOT",
-    "position": [
-      1009,
-      1013
-    ],
+    "position": [1009, 1013],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "450 U/L",
-    "position": [
-      1023,
-      1030
-    ],
+    "position": [1023, 1030],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh gan nhiễm độc, không đặc hiệu",
-    "position": [
-      1118,
-      1152
-    ],
+    "position": [1118, 1152],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K71.9"
-    ]
+    "candidates": []
   },
   {
     "text": "vàngda",
-    "position": [
-      1847,
-      1853
-    ],
+    "position": [1847, 1853],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

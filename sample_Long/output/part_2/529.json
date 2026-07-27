@@ -1,88 +1,51 @@
 [
   {
     "text": "u xơ tuyến vú",
-    "position": [
-      74,
-      87
-    ],
+    "position": [74, 87],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "N60.20",
-      "N60.21",
-      "N60.22"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đau vú trái",
-    "position": [
-      143,
-      154
-    ],
+    "position": [143, 154],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      176,
-      179
-    ],
+    "position": [176, 179],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "tiết dịch núm vú",
-    "position": [
-      185,
-      201
-    ],
+    "position": [185, 201],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Dấu hiệu và triệu chứng khác ở vú",
-    "position": [
-      314,
-      347
-    ],
+    "position": [314, 347],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N64.5"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      375,
-      384
-    ],
+    "position": [375, 384],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
-    "position": [
-      388,
-      417
-    ],
+    "position": [388, 417],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "19711"
-    ]
+    "candidates": []
   }
 ]

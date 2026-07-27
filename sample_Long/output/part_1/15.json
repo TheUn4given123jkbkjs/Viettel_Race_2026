@@ -1,52 +1,35 @@
 [
   {
     "text": "điện tâm đồ",
-    "position": [
-      42,
-      53
-    ],
+    "position": [42, 53],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Blốc hai nhánh",
-    "position": [
-      65,
-      79
-    ],
+    "position": [65, 79],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I45.2"
-    ]
+    "candidates": []
   },
   {
     "text": "hồi hộp",
-    "position": [
-      94,
-      101
-    ],
+    "position": [94, 101],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      105,
-      112
-    ],
+    "position": [105, 112],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ngất xỉu",
-    "position": [
-      387,
-      395
-    ],
+    "position": [387, 395],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

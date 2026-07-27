@@ -1,93 +1,58 @@
 [
   {
     "text": "bệnh mạch vành",
-    "position": [
-      93,
-      107
-    ],
+    "position": [93, 107],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "A52.06",
-      "I25.0"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đánh trống ngực",
-    "position": [
-      285,
-      300
-    ],
+    "position": [285, 300],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [
-      304,
-      313
-    ],
+    "position": [304, 313],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      334,
-      342
-    ],
+    "position": [334, 342],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      375,
-      383
-    ],
+    "position": [375, 383],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [
-      428,
-      432
-    ],
+    "position": [428, 432],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      541,
-      549
-    ],
+    "position": [541, 549],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nhịp nhanh kịch phát, không đặc hiệu",
-    "position": [
-      1224,
-      1260
-    ],
+    "position": [1224, 1260],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I47.9"
-    ]
+    "candidates": []
   }
 ]

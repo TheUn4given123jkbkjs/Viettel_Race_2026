@@ -4,7 +4,7 @@
     "position": [68, 114],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G09"]
+    "candidates": []
   },
   {
     "text": "co giật",
@@ -53,6 +53,6 @@
     "position": [791, 808],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["A83.0"]
+    "candidates": []
   }
 ]

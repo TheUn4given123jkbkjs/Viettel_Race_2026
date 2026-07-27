@@ -1,51 +1,30 @@
 [
   {
     "text": "Bệnh cơ tim trong bệnh nhiễm trùng và ký sinh trùng",
-    "position": [
-      25,
-      76
-    ],
+    "position": [25, 76],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I41.2*",
-      "I43.0*"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      142,
-      155
-    ],
+    "position": [142, 155],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ampicillin",
-    "position": [
-      159,
-      169
-    ],
+    "position": [159, 169],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "733"
-    ]
+    "candidates": []
   },
   {
     "text": "Không sốt",
-    "position": [
-      78,
-      87
-    ],
+    "position": [78, 87],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

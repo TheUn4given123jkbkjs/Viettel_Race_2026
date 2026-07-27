@@ -4,21 +4,21 @@
     "position": [0, 33],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["B20.1", "B20.8"]
+    "candidates": []
   },
   {
     "text": "Abacavir",
     "position": [436, 444],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   },
   {
     "text": "Acyclovir",
     "position": [481, 490],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["281"]
+    "candidates": []
   },
   {
     "text": "Ngừơi",
@@ -37,7 +37,7 @@
   {
     "text": "Tôi chưa bao giờ xem xét đến việc sử dụng thuốc chống nhiễm trùng.",
     "position": [302, 368],
-    "type": "ĐOẠN_DÁN_NHẦM",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
@@ -46,10 +46,6 @@
     "position": [0, 8],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F02.4*",
-      "Z83.0",
-      "O98.7"
-    ]
+    "candidates": []
   }
 ]

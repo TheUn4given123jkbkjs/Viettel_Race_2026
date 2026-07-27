@@ -1,58 +1,35 @@
 [
   {
     "text": "Các bất thường về màu tóc và sợi tóc, không điển hình",
-    "position": [
-      118,
-      171
-    ],
+    "position": [118, 171],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L67.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      246,
-      259
-    ],
+    "position": [246, 259],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [
-      263,
-      273
-    ],
+    "position": [263, 273],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3355"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      25,
-      42
-    ],
+    "position": [25, 42],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "dị ứng với các loại thuốc nhuộm tóc",
-    "position": [
-      54,
-      89
-    ],
+    "position": [54, 89],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

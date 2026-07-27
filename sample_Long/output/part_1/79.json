@@ -1,38 +1,23 @@
 [
   {
     "text": "Móng rãnh Beau",
-    "position": [
-      307,
-      321
-    ],
+    "position": [307, 321],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L60.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      214,
-      221
-    ],
+    "position": [214, 221],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      375,
-      388
-    ],
+    "position": [375, 388],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

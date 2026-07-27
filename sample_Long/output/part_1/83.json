@@ -1,74 +1,49 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [
-      109,
-      122
-    ],
+    "position": [109, 122],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường type 2",
-    "position": [
-      126,
-      147
-    ],
+    "position": [126, 147],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      160,
-      177
-    ],
+    "position": [160, 177],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      181,
-      190
-    ],
+    "position": [181, 190],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [
-      277,
-      297
-    ],
+    "position": [277, 297],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "1,2 mg/dL",
-    "position": [
-      405,
-      414
-    ],
+    "position": [405, 414],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      425,
-      433
-    ],
+    "position": [425, 433],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

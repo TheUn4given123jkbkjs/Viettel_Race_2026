@@ -1,89 +1,51 @@
 [
   {
     "text": "không bị sốt",
-    "position": [
-      649,
-      661
-    ],
+    "position": [649, 661],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "viêm khớp dạng thấp",
-    "position": [
-      740,
-      759
-    ],
+    "position": [740, 759],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "M05",
-      "M05.3†",
-      "M05.8"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau và sưng đối xứng các khớp nhỏ ở bàn tay",
-    "position": [
-      1234,
-      1277
-    ],
+    "position": [1234, 1277],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp dạng thấp huyết thanh âm tính",
-    "position": [
-      2345,
-      2384
-    ],
+    "position": [2345, 2384],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M06.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Methotrexate",
-    "position": [
-      2430,
-      2442
-    ],
+    "position": [2430, 2442],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6851"
-    ]
+    "candidates": []
   },
   {
     "text": "Methylprednisolone",
-    "position": [
-      2519,
-      2537
-    ],
+    "position": [2519, 2537],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6902"
-    ]
+    "candidates": []
   },
   {
     "text": "Folic acid",
-    "position": [
-      2591,
-      2601
-    ],
+    "position": [2591, 2601],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4511",
-      "105658"
-    ]
+    "candidates": []
   }
 ]

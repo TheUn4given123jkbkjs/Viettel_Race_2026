@@ -1,66 +1,42 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [
-      21,
-      34
-    ],
+    "position": [21, 34],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Sốt kéo dài",
-    "position": [
-      135,
-      146
-    ],
+    "position": [135, 146],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhức vùng cổ lan ra cánh tay",
-    "position": [
-      148,
-      180
-    ],
+    "position": [148, 180],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm đốt sống do Brucella (A23.-†), cánh tay",
-    "position": [
-      250,
-      294
-    ],
+    "position": [250, 294],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M49.12*"
-    ]
+    "candidates": []
   },
   {
     "text": "Doxycycline 100mg",
-    "position": [
-      333,
-      350
-    ],
+    "position": [333, 350],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Rifampin 300mg: 2 viên/ngày, uống",
-    "position": [
-      356,
-      389
-    ],
+    "position": [356, 389],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

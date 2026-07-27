@@ -4,7 +4,7 @@
     "position": [44, 51],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["2711625"]
+    "candidates": []
   },
   {
     "text": "viêm mũi",
@@ -30,14 +30,14 @@
   {
     "text": "tiêm kháng sinh",
     "position": [127, 142],
-    "type": "ĐIỀU_TRỊ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "uống thuốc giảm đau",
     "position": [144, 163],
-    "type": "ĐIỀU_TRỊ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

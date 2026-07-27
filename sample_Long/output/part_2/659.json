@@ -1,86 +1,49 @@
 [
   {
     "text": "đau nhức các khớp ngón tay",
-    "position": [
-      38,
-      64
-    ],
+    "position": [38, 64],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      296,
-      305
-    ],
+    "position": [296, 305],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "loét dạ dày",
-    "position": [
-      390,
-      401
-    ],
+    "position": [390, 401],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "K28.5",
-      "K28.6",
-      "K28.7"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "thoái hóa đa khớp",
-    "position": [
-      731,
-      748
-    ],
+    "position": [731, 748],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M15",
-      "M15.8",
-      "M15.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [
-      866,
-      876
-    ],
+    "position": [866, 876],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3355"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      903,
-      916
-    ],
+    "position": [903, 916],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "cứng khớp",
-    "position": [
-      335,
-      344
-    ],
+    "position": [335, 344],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

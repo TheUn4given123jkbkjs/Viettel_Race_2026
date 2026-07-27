@@ -1,76 +1,44 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [
-      26,
-      39
-    ],
+    "position": [26, 39],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh thận mạn tính",
-    "position": [
-      96,
-      114
-    ],
+    "position": [96, 114],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "I68.8*"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "Đau âm ỉ vùng thắt lưng phải",
-    "position": [
-      147,
-      175
-    ],
+    "position": [147, 175],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thận teo nhỏ, một bên",
-    "position": [
-      1833,
-      1854
-    ],
+    "position": [1833, 1854],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N27.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Enalapril",
-    "position": [
-      2116,
-      2125
-    ],
+    "position": [2116, 2125],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3827"
-    ]
+    "candidates": []
   },
   {
     "text": "Furosemide",
-    "position": [
-      2171,
-      2181
-    ],
+    "position": [2171, 2181],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4603"
-    ]
+    "candidates": []
   }
 ]

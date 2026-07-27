@@ -1,66 +1,44 @@
 [
   {
     "text": "đau tức vùng hạ vị",
-    "position": [
-      125,
-      143
-    ],
+    "position": [125, 143],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cảmgiác mót rặn",
-    "position": [
-      145,
-      160
-    ],
+    "position": [145, 160],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      164,
-      171
-    ],
+    "position": [164, 171],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Máu tụ tiểu khung dosản khoa",
-    "position": [
-      281,
-      309
-    ],
+    "position": [281, 309],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Carbazochrome",
-    "position": [
-      341,
-      354
-    ],
+    "position": [341, 354],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2011"
-    ]
+    "candidates": []
   },
   {
     "text": "Tranexamic acid",
-    "position": [
-      358,
-      373
-    ],
+    "position": [358, 373],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "10691"
-    ]
+    "candidates": []
   }
 ]

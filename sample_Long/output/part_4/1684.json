@@ -1,39 +1,23 @@
 [
   {
     "text": "Viêm da dị ứng tiếp xúc do thực phẩm",
-    "position": [
-      488,
-      524
-    ],
+    "position": [488, 524],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L23.6",
-      "L23.7"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      342,
-      349
-    ],
+    "position": [342, 349],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      325,
-      338
-    ],
+    "position": [325, 338],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

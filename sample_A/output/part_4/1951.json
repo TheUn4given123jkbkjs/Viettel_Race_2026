@@ -11,35 +11,27 @@
     "position": [286, 294],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "814321",
-      "214662",
-      "9384"
-    ]
+    "candidates": []
   },
   {
     "text": "Isoniazid",
     "position": [298, 307],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "821005",
-      "814321",
-      "6038"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [707, 720],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Pyrazinamide",
     "position": [724, 736],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["214662", "8987"]
+    "candidates": []
   }
 ]

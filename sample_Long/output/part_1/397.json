@@ -1,76 +1,44 @@
 [
   {
     "text": "troponin",
-    "position": [
-      398,
-      406
-    ],
+    "position": [398, 406],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      177,
-      184
-    ],
+    "position": [177, 184],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      484,
-      495
-    ],
+    "position": [484, 495],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      101,
-      108
-    ],
+    "position": [101, 108],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G44",
-      "G44.0",
-      "G44.2"
-    ]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      112,
-      120
-    ],
+    "position": [112, 120],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "R11"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      288,
-      291
-    ],
+    "position": [288, 291],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A92.30",
-      "R50.0",
-      "R50.1"
-    ]
+    "candidates": []
   }
 ]

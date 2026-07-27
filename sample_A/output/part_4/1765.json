@@ -4,13 +4,13 @@
     "position": [26, 67],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["D35.9", "D44.9"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [347, 360],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   }
 ]

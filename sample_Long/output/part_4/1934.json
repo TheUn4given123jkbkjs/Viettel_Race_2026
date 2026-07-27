@@ -1,74 +1,44 @@
 [
   {
     "text": "đái tháo đường",
-    "position": [
-      75,
-      89
-    ],
+    "position": [75, 89],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "E12.9",
-      "E13",
-      "E13.0"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "đau bụng dữ dội",
-    "position": [
-      156,
-      171
-    ],
+    "position": [156, 171],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xuất huyết âm đạo lớn",
-    "position": [
-      175,
-      196
-    ],
+    "position": [175, 196],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      217,
-      225
-    ],
+    "position": [217, 225],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      247,
-      250
-    ],
+    "position": [247, 250],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Chuyển dạ và đẻ có biến chứng tổn thương mạch",
-    "position": [
-      309,
-      354
-    ],
+    "position": [309, 354],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O69.5"
-    ]
+    "candidates": []
   }
 ]

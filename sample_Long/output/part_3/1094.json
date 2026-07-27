@@ -1,16 +1,9 @@
 [
   {
     "text": "Dopamine",
-    "position": [
-      44,
-      52
-    ],
+    "position": [44, 52],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "3628"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   }
 ]

@@ -4,14 +4,14 @@
     "position": [691, 713],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["H60.2"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [733, 746],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Bệnh",
@@ -25,10 +25,6 @@
     "position": [154, 168],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "H62.3*",
-      "H62.4*",
-      "H60"
-    ]
+    "candidates": []
   }
 ]

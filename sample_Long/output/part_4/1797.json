@@ -1,44 +1,28 @@
 [
   {
     "text": "sốt",
-    "position": [
-      209,
-      212
-    ],
+    "position": [209, 212],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [
-      214,
-      216
-    ],
+    "position": [214, 216],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Hemoglobin",
-    "position": [
-      731,
-      741
-    ],
+    "position": [731, 741],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "12 g/dL",
-    "position": [
-      743,
-      750
-    ],
+    "position": [743, 750],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

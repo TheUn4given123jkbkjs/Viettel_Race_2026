@@ -4,21 +4,21 @@
     "position": [123, 137],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["E72.22"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [214, 227],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Efavirenz",
     "position": [248, 257],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["195085", "2003222"]
+    "candidates": []
   },
   {
     "text": "THA",

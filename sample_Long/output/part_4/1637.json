@@ -1,82 +1,56 @@
 [
   {
     "text": "nhồi máu cơ tim",
-    "position": [
-      522,
-      537
-    ],
+    "position": [522, 537],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Đau thắt ngực",
-    "position": [
-      251,
-      264
-    ],
+    "position": [251, 264],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ran ẩm",
-    "position": [
-      724,
-      730
-    ],
+    "position": [724, 730],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Huyết áp: 155/95 mmHg",
-    "position": [
-      597,
-      618
-    ],
+    "position": [597, 618],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 14.5",
-    "position": [
-      854,
-      867
-    ],
+    "position": [854, 867],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin I: 0.045 ng/mL",
-    "position": [
-      900,
-      923
-    ],
+    "position": [900, 923],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (ECG)",
-    "position": [
-      953,
-      970
-    ],
+    "position": [953, 970],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm tim",
-    "position": [
-      1103,
-      1114
-    ],
+    "position": [1103, 1114],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,74 +1,49 @@
 [
   {
     "text": "Attapulgite",
-    "position": [
-      43,
-      54
-    ],
+    "position": [43, 54],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "18516"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "tiêu chảy mạn tính",
-    "position": [
-      87,
-      105
-    ],
+    "position": [87, 105],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      150,
-      157
-    ],
+    "position": [150, 157],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thiếu năng lượng",
-    "position": [
-      161,
-      177
-    ],
+    "position": [161, 177],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "táo bón",
-    "position": [
-      538,
-      545
-    ],
+    "position": [538, 545],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      547,
-      555
-    ],
+    "position": [547, 555],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn mửa",
-    "position": [
-      559,
-      566
-    ],
+    "position": [559, 566],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

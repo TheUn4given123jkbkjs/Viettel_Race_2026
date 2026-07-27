@@ -1,28 +1,16 @@
 [
   {
     "text": "chửa ngoài tử cung",
-    "position": [
-      48,
-      66
-    ],
+    "position": [48, 66],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O08.5",
-      "O08.6",
-      "O08.7"
-    ]
+    "candidates": []
   },
   {
     "text": "Methotrexate",
-    "position": [
-      462,
-      474
-    ],
+    "position": [462, 474],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6851"
-    ]
+    "candidates": []
   }
 ]

@@ -1,44 +1,28 @@
 [
   {
     "text": "Thoái hóa khớp háng sau chấn thương cả 2 bên",
-    "position": [
-      94,
-      138
-    ],
+    "position": [94, 138],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M16.4"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      13,
-      30
-    ],
+    "position": [13, 30],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "đau nhức ở vùng khớp háng",
-    "position": [
-      44,
-      69
-    ],
+    "position": [44, 69],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiênsử",
-    "position": [
-      343,
-      349
-    ],
+    "position": [343, 349],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

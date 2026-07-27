@@ -4,25 +4,21 @@
     "position": [198, 211],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["11118"]
+    "candidates": []
   },
   {
     "text": "phenytoin",
     "position": [548, 557],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8183"]
+    "candidates": []
   },
   {
     "text": "co giật",
     "position": [308, 315],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G25.3",
-      "G51.3",
-      "F44.5"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh nhân",
@@ -36,10 +32,6 @@
     "position": [115, 129],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G99.0*",
-      "G99.1*",
-      "G12.2"
-    ]
+    "candidates": []
   }
 ]

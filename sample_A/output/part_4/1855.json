@@ -32,7 +32,7 @@
     "position": [524, 531],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
@@ -58,14 +58,14 @@
   {
     "text": "phủ nhận buồn nôn",
     "position": [919, 936],
-    "type": "",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không sốt",
     "position": [940, 949],
-    "type": "",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isNegated"],
     "candidates": []
   }

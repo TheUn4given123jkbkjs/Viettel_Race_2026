@@ -4,7 +4,7 @@
     "position": [264, 275],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["7994"]
+    "candidates": []
   },
   {
     "text": "Pneumocystis jirovecii",
@@ -32,10 +32,6 @@
     "position": [701, 704],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3640",
-      "2647996",
-      "5552"
-    ]
+    "candidates": []
   }
 ]

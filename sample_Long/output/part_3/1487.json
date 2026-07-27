@@ -1,53 +1,35 @@
 [
   {
     "text": "Thuyên tắc và huyết khối động mạch, không xác định",
-    "position": [
-      0,
-      50
-    ],
+    "position": [0, 50],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I74.1",
-      "I74.9"
-    ]
+    "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      241,
-      249
-    ],
+    "position": [241, 249],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      251,
-      258
-    ],
+    "position": [251, 258],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm Doppler",
-    "position": [
-      496,
-      511
-    ],
+    "position": [496, 511],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp CT",
-    "position": [
-      517,
-      524
-    ],
+    "position": [517, 524],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,50 +1,30 @@
 [
   {
     "text": "Các biến đổi không do viêm khác của buồng trứng, vòi trứng và dây chằng rộng",
-    "position": [
-      76,
-      152
-    ],
+    "position": [76, 152],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N83.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      190,
-      203
-    ],
+    "position": [190, 203],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      207,
-      214
-    ],
+    "position": [207, 214],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      29,
-      46
-    ],
+    "position": [29, 46],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

@@ -1,69 +1,42 @@
 [
   {
     "text": "chướngbụng",
-    "position": [
-      115,
-      125
-    ],
+    "position": [115, 125],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Iohexol",
-    "position": [
-      280,
-      287
-    ],
+    "position": [280, 287],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "5956"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đái tháo đường týp 2",
-    "position": [
-      462,
-      482
-    ],
+    "position": [462, 482],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "viêm dạ dày cấp",
-    "position": [
-      933,
-      948
-    ],
+    "position": [933, 948],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K29.0",
-      "K29.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Nội soi dạ dày thực quản",
-    "position": [
-      1696,
-      1720
-    ],
+    "position": [1696, 1720],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm HP dạ dày",
-    "position": [
-      1760,
-      1780
-    ],
+    "position": [1760, 1780],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

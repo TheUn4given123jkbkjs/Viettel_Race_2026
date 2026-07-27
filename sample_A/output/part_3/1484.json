@@ -4,14 +4,14 @@
     "position": [802, 814],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["6135"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [666, 673],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceft",
@@ -32,18 +32,14 @@
     "position": [320, 328],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "candidates": []
   },
   {
     "text": "đau ngực",
     "position": [267, 275],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I20",
-      "I20.0",
-      "I20.1"
-    ]
+    "candidates": []
   },
   {
     "text": "phổi",

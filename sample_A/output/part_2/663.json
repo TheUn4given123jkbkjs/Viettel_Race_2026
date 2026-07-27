@@ -4,7 +4,7 @@
     "position": [213, 222],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["435"]
+    "candidates": []
   },
   {
     "text": "Bricanyl",
@@ -18,18 +18,14 @@
     "position": [59, 68],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J45"]
+    "candidates": []
   },
   {
     "text": "suy hô hấp",
     "position": [361, 371],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P28.11",
-      "J80",
-      "P22"
-    ]
+    "candidates": []
   },
   {
     "text": "corticosteroid",

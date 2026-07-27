@@ -1,96 +1,56 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [
-      637,
-      650
-    ],
+    "position": [637, 650],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau rát khi đi tiểu",
-    "position": [
-      1050,
-      1069
-    ],
+    "position": [1050, 1069],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      1185,
-      1193
-    ],
+    "position": [1185, 1193],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Nhiễm khuẩn bàng quang trong khi có thai",
-    "position": [
-      2027,
-      2067
-    ],
+    "position": [2027, 2067],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O23.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Nitrofurantoin",
-    "position": [
-      2332,
-      2346
-    ],
+    "position": [2332, 2346],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "7454"
-    ]
+    "candidates": []
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
-    "position": [
-      2709,
-      2738
-    ],
+    "position": [2709, 2738],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "19711"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      2787,
-      2800
-    ],
+    "position": [2787, 2800],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Nitrite dương tính",
-    "position": [
-      1732,
-      1750
-    ],
+    "position": [1732, 1750],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

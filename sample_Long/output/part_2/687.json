@@ -1,50 +1,30 @@
 [
   {
     "text": "bệnh teo da Schweninger-Buzzi",
-    "position": [
-      37,
-      66
-    ],
+    "position": [37, 66],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L90.1"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      78,
-      81
-    ],
+    "position": [78, 81],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      94,
-      102
-    ],
+    "position": [94, 102],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      132,
-      145
-    ],
+    "position": [132, 145],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

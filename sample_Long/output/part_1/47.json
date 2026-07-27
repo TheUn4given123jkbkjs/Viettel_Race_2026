@@ -1,58 +1,37 @@
 [
   {
     "text": "Bệnh lạc nội mạc tử cung ở vòi trứng",
-    "position": [
-      0,
-      36
-    ],
+    "position": [0, 36],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N80.2"
-    ]
+    "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [
-      165,
-      173
-    ],
+    "position": [165, 173],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chảy máu bất thường",
-    "position": [
-      175,
-      194
-    ],
+    "position": [175, 194],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      219,
-      227
-    ],
+    "position": [219, 227],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      276,
-      285
-    ],
+    "position": [276, 285],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

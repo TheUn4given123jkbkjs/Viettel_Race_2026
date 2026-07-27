@@ -11,18 +11,14 @@
     "position": [632, 644],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["214662", "8987"]
+    "candidates": []
   },
   {
     "text": "Isoniazid",
     "position": [646, 655],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "821005",
-      "814321",
-      "6038"
-    ]
+    "candidates": []
   },
   {
     "text": "Rifampicin",
@@ -34,7 +30,7 @@
   {
     "text": "buồn nôn",
     "position": [1497, 1505],
-    "type": "TÁC DỤNG PHỤ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isNegated"],
     "candidates": []
   }

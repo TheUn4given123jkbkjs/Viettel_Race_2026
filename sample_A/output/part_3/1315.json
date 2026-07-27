@@ -2,7 +2,7 @@
   {
     "text": "táo bón",
     "position": [5, 12],
-    "type": "TÊN_BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
@@ -11,7 +11,7 @@
     "position": [665, 680],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["71722"]
+    "candidates": []
   },
   {
     "text": "đi phân cứng",

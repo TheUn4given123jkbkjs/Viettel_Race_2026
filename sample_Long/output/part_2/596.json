@@ -1,90 +1,56 @@
 [
   {
     "text": "đau đầu",
-    "position": [
-      228,
-      235
-    ],
+    "position": [228, 235],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      237,
-      244
-    ],
+    "position": [237, 244],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      258,
-      261
-    ],
+    "position": [258, 261],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [
-      482,
-      496
-    ],
+    "position": [482, 496],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm nước tiểu",
-    "position": [
-      498,
-      518
-    ],
+    "position": [498, 518],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chẩn đoán",
-    "position": [
-      406,
-      415
-    ],
+    "position": [406, 415],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I84.7",
-      "Y88.2",
-      "Z00"
-    ]
+    "candidates": []
   },
   {
     "text": "điều trị",
-    "position": [
-      281,
-      289
-    ],
+    "position": [281, 289],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bác sĩ",
-    "position": [
-      17,
-      23
-    ],
+    "position": [17, 23],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

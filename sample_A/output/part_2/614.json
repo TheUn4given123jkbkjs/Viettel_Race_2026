@@ -4,27 +4,27 @@
     "position": [77, 89],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": ["E87.7"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [178, 191],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Cisplatin",
     "position": [1052, 1061],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2555"]
+    "candidates": []
   },
   {
     "text": "Omeprazole",
     "position": [1091, 1101],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7646"]
+    "candidates": []
   }
 ]

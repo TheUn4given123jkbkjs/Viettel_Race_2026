@@ -1,44 +1,28 @@
 [
   {
     "text": "Viêm phổi bẩm sinh do các vi khuẩn khác",
-    "position": [
-      150,
-      189
-    ],
+    "position": [150, 189],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      58,
-      67
-    ],
+    "position": [58, 67],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không buồn nôn",
-    "position": [
-      429,
-      443
-    ],
+    "position": [429, 443],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Gia đình phủ nhận tiền sử dị ứng",
-    "position": [
-      373,
-      405
-    ],
+    "position": [373, 405],
     "type": "TRIỆU_CHỨNG",
     "assertions": [
       "isNegated",

@@ -1,72 +1,49 @@
 [
   {
     "text": "aspirin",
-    "position": [
-      271,
-      278
-    ],
+    "position": [271, 278],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      593,
-      601
-    ],
+    "position": [593, 601],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "10,5 ng/mL",
-    "position": [
-      603,
-      613
-    ],
+    "position": [603, 613],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      618,
-      629
-    ],
+    "position": [618, 629],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "20,7 mcg/mL",
-    "position": [
-      631,
-      642
-    ],
+    "position": [631, 642],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử bệnh tim mạch",
-    "position": [
-      209,
-      230
-    ],
+    "position": [209, 230],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực trái",
-    "position": [
-      140,
-      153
-    ],
+    "position": [140, 153],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

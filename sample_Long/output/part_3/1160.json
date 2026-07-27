@@ -1,54 +1,35 @@
 [
   {
     "text": "Abacavir",
-    "position": [
-      146,
-      154
-    ],
+    "position": [146, 154],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "190521"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "HIV",
-    "position": [
-      108,
-      111
-    ],
-    "type": "BỆNH",
+    "position": [108, 111],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      58,
-      61
-    ],
+    "position": [58, 61],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [
-      63,
-      65
-    ],
+    "position": [63, 65],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      67,
-      74
-    ],
+    "position": [67, 74],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

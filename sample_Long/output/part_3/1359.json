@@ -1,50 +1,30 @@
 [
   {
     "text": "Bệnh khớp trong các bệnh ung thư đã được xếp ở mục khác (C00-D48†), vùng bả vai",
-    "position": [
-      189,
-      268
-    ],
+    "position": [189, 268],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M36.11*"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      32,
-      35
-    ],
+    "position": [32, 35],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      644,
-      657
-    ],
+    "position": [644, 657],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      661,
-      670
-    ],
+    "position": [661, 670],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

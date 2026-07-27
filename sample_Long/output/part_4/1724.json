@@ -1,80 +1,51 @@
 [
   {
     "text": "Đái tháo đường típ 2",
-    "position": [
-      32,
-      52
-    ],
+    "position": [32, 52],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "đau lưngdữ",
-    "position": [
-      67,
-      77
-    ],
+    "position": [67, 77],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [
-      86,
-      93
-    ],
+    "position": [86, 93],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm đốt sống do vi khuẩn đường ruột (A01-A04†), Nhiều vị trí",
-    "position": [
-      156,
-      217
-    ],
+    "position": [156, 217],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M49.20*"
-    ]
+    "candidates": []
   },
   {
     "text": "hạ sôt",
-    "position": [
-      234,
-      240
-    ],
+    "position": [234, 240],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ciprofloxacin",
-    "position": [
-      258,
-      271
-    ],
+    "position": [258, 271],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2551"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      302,
-      313
-    ],
+    "position": [302, 313],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

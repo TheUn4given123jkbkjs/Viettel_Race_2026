@@ -16,7 +16,7 @@
   {
     "text": "sốt cao",
     "position": [234, 241],
-    "type": "CHỈ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isHistorical"],
     "candidates": []
   },
@@ -25,12 +25,12 @@
     "position": [288, 295],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
     "position": [400, 408],
-    "type": "CHỈ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isNegated"],
     "candidates": []
   },

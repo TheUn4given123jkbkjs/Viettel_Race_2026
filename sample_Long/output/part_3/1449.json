@@ -1,38 +1,23 @@
 [
   {
     "text": "Các viêm khớp trẻ em không đặc hiệu",
-    "position": [
-      203,
-      238
-    ],
+    "position": [203, 238],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M08.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      279,
-      286
-    ],
+    "position": [279, 286],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      288,
-      301
-    ],
+    "position": [288, 301],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

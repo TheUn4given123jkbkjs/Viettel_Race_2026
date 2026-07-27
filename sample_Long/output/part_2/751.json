@@ -1,52 +1,30 @@
 [
   {
     "text": "Thai nhi và trẻ sơ sinh bị ảnh hưởng do các biến chứng khác được xác định của chuyển dạ và cuộc đẻ",
-    "position": [
-      564,
-      662
-    ],
+    "position": [564, 662],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "P03.8"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      228,
-      231
-    ],
+    "position": [228, 231],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "sốt rét",
-    "position": [
-      262,
-      269
-    ],
+    "position": [262, 269],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Thai kỳ",
-    "position": [
-      298,
-      305
-    ],
+    "position": [298, 305],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   }
 ]

@@ -4,14 +4,14 @@
     "position": [262, 310],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G60.8"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [340, 353],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Gabapentin",
@@ -25,7 +25,7 @@
     "position": [486, 504],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6902"]
+    "candidates": []
   },
   {
     "text": "Bệnh nhân",
@@ -37,15 +37,15 @@
   {
     "text": "buồn nôn",
     "position": [121, 129],
-    "type": "isNegated",
-    "assertions": [],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "nhức đầu",
     "position": [109, 117],
-    "type": "isNegated",
-    "assertions": [],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

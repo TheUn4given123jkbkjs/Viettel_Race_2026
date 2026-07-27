@@ -4,18 +4,14 @@
     "position": [175, 187],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["8702"]
+    "candidates": []
   },
   {
     "text": "Hodgkin không Hodgkin",
     "position": [53, 74],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "B21.2",
-      "C81.9",
-      "C83.0"
-    ]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
@@ -27,21 +23,21 @@
   {
     "text": "đái tháo đường loại 2",
     "position": [124, 145],
-    "type": "BỆNH_NỀN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hóa trị",
     "position": [299, 306],
-    "type": "ĐIỀU_TRỊ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xạ trị",
     "position": [310, 316],
-    "type": "ĐIỀU_TRỊ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

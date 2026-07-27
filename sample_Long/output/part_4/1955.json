@@ -1,64 +1,37 @@
 [
   {
     "text": "Viêm thực quản do lao",
-    "position": [
-      57,
-      78
-    ],
+    "position": [57, 78],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "K23.0*"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
-    "position": [
-      843,
-      856
-    ],
+    "position": [843, 856],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2551"
-    ]
+    "candidates": []
   },
   {
     "text": "Levofloxacin",
-    "position": [
-      860,
-      872
-    ],
+    "position": [860, 872],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "82122"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      895,
-      904
-    ],
+    "position": [895, 904],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [
-      908,
-      918
-    ],
+    "position": [908, 918],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3355"
-    ]
+    "candidates": []
   }
 ]

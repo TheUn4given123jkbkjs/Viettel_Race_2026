@@ -1,70 +1,44 @@
 [
   {
     "text": "đau",
-    "position": [
-      62,
-      65
-    ],
+    "position": [62, 65],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng",
-    "position": [
-      69,
-      73
-    ],
+    "position": [69, 73],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      168,
-      177
-    ],
+    "position": [168, 177],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không buồn nôn",
-    "position": [
-      179,
-      193
-    ],
+    "position": [179, 193],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Heparin",
-    "position": [
-      268,
-      275
-    ],
+    "position": [268, 275],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "235473"
-    ]
+    "candidates": []
   },
   {
     "text": "Warfarin",
-    "position": [
-      279,
-      287
-    ],
+    "position": [279, 287],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "11289"
-    ]
+    "candidates": []
   }
 ]

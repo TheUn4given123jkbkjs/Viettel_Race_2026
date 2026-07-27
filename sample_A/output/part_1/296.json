@@ -4,22 +4,14 @@
     "position": [492, 509],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "C17.8",
-      "C17.9",
-      "C78.4"
-    ]
+    "candidates": []
   },
   {
     "text": "ruột non",
     "position": [501, 509],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "D13.39",
-      "D13.30",
-      "E74.3"
-    ]
+    "candidates": []
   },
   {
     "text": "phẫu thuật",

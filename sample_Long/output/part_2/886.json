@@ -1,70 +1,44 @@
 [
   {
     "text": "Sỏi đường tiết niệu trong các bệnh đã được phân loại ở phần khác",
-    "position": [
-      0,
-      64
-    ],
+    "position": [0, 64],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N22"
-    ]
+    "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [
-      118,
-      126
-    ],
+    "position": [118, 126],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      128,
-      131
-    ],
+    "position": [128, 131],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      135,
-      143
-    ],
+    "position": [135, 143],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      241,
-      254
-    ],
+    "position": [241, 254],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      279,
-      288
-    ],
+    "position": [279, 288],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

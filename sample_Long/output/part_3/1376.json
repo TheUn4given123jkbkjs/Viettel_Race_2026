@@ -1,36 +1,21 @@
 [
   {
     "text": "Loạn sản vừa cổ tử cung",
-    "position": [
-      0,
-      23
-    ],
+    "position": [0, 23],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N87.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Cổ tử cung",
-    "position": [
-      204,
-      214
-    ],
+    "position": [204, 214],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A54.03",
-      "A56.00",
-      "A18.11"
-    ]
+    "candidates": []
   },
   {
     "text": "Phẫu thuật",
-    "position": [
-      598,
-      608
-    ],
+    "position": [598, 608],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

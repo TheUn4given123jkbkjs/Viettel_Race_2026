@@ -1,76 +1,49 @@
 [
   {
     "text": "Đái tháo đường thai kỳ",
-    "position": [
-      155,
-      177
-    ],
+    "position": [155, 177],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "vàngda",
-    "position": [
-      240,
-      246
-    ],
+    "position": [240, 246],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "lừ đừ",
-    "position": [
-      322,
-      327
-    ],
+    "position": [322, 327],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bilirubin gián tiếp",
-    "position": [
-      668,
-      687
-    ],
+    "position": [668, 687],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Vàng da sơ sinh do huyết tán quá mức",
-    "position": [
-      842,
-      878
-    ],
+    "position": [842, 878],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P58",
-      "P58.8",
-      "P58.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Albumin 20% liều 1g/kg iv",
-    "position": [
-      1013,
-      1038
-    ],
+    "position": [1013, 1038],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Glucose 10% 500ml",
-    "position": [
-      1112,
-      1129
-    ],
+    "position": [1112, 1129],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,68 +1,42 @@
 [
   {
     "text": "Viêm khớp dạng thấp",
-    "position": [
-      61,
-      80
-    ],
+    "position": [61, 80],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "M05",
-      "M05.3†",
-      "M05.8"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "Đau nhức vùng cổ tay và bàn ngón tay",
-    "position": [
-      187,
-      223
-    ],
+    "position": [187, 223],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Cứng khớp buổi sáng",
-    "position": [
-      226,
-      245
-    ],
+    "position": [226, 245],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm màng hoạt dịch khô mãn tính ở bàn tay và cổ tay",
-    "position": [
-      693,
-      745
-    ],
+    "position": [693, 745],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M70.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Meloxicam 15mg",
-    "position": [
-      773,
-      787
-    ],
+    "position": [773, 787],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Methotrexate 2.5mg",
-    "position": [
-      818,
-      836
-    ],
+    "position": [818, 836],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

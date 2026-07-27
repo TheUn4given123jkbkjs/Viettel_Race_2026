@@ -1,96 +1,58 @@
 [
   {
     "text": "vảy nến",
-    "position": [
-      442,
-      449
-    ],
+    "position": [442, 449],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "L40.50",
-      "L40.51",
-      "L40.52"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "ngứa",
-    "position": [
-      1058,
-      1062
-    ],
+    "position": [1058, 1062],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      1144,
-      1147
-    ],
+    "position": [1144, 1147],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      1160,
-      1168
-    ],
+    "position": [1160, 1168],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sụt cân",
-    "position": [
-      1230,
-      1237
-    ],
+    "position": [1230, 1237],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      1321,
-      1328
-    ],
+    "position": [1321, 1328],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sinh thiết da",
-    "position": [
-      2186,
-      2199
-    ],
+    "position": [2186, 2199],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Á vảy nến thể mảng lớn",
-    "position": [
-      2568,
-      2590
-    ],
+    "position": [2568, 2590],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L41.4"
-    ]
+    "candidates": []
   }
 ]

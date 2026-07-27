@@ -1,40 +1,23 @@
 [
   {
     "text": "rò thực quản-khí quản sau mở khí quản",
-    "position": [
-      306,
-      343
-    ],
+    "position": [306, 343],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "J95.04"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      527,
-      535
-    ],
+    "position": [527, 535],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      984,
-      987
-    ],
+    "position": [984, 987],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

@@ -1,92 +1,56 @@
 [
   {
     "text": "Xuuất huyết nội sọ không do chấn thương, không đặc hiệu",
-    "position": [
-      303,
-      358
-    ],
+    "position": [303, 358],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đột quỵ não",
-    "position": [
-      762,
-      773
-    ],
+    "position": [762, 773],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "E88.31",
-      "G46.3*",
-      "G46.4*"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "Tăng huyết áp",
-    "position": [
-      628,
-      641
-    ],
+    "position": [628, 641],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Mannitoll",
-    "position": [
-      1821,
-      1830
-    ],
+    "position": [1821, 1830],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tranexamic acid",
-    "position": [
-      1936,
-      1951
-    ],
+    "position": [1936, 1951],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "10691"
-    ]
+    "candidates": []
   },
   {
     "text": "liệt nửa người trái",
-    "position": [
-      1123,
-      1142
-    ],
+    "position": [1123, 1142],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      67,
-      74
-    ],
+    "position": [67, 74],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn vọt",
-    "position": [
-      939,
-      946
-    ],
+    "position": [939, 946],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

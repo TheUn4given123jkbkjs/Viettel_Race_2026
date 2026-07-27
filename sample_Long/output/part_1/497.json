@@ -1,60 +1,37 @@
 [
   {
     "text": "Rabies immunoglobulin",
-    "position": [
-      101,
-      122
-    ],
+    "position": [101, 122],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "89886"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "bệnh gan mãn tính",
-    "position": [
-      51,
-      68
-    ],
+    "position": [51, 68],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      214,
-      217
-    ],
+    "position": [214, 217],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      219,
-      226
-    ],
+    "position": [219, 226],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm màng não",
-    "position": [
-      292,
-      305
-    ],
+    "position": [292, 305],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.13",
-      "A54.81",
-      "A50.41"
-    ]
+    "candidates": []
   }
 ]

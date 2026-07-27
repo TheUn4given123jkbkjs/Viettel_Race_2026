@@ -11,11 +11,7 @@
     "position": [236, 244],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "J65",
-      "Z11.1",
-      "A15.0"
-    ]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
@@ -57,6 +53,6 @@
     "position": [1156, 1178],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G03.1"]
+    "candidates": []
   }
 ]

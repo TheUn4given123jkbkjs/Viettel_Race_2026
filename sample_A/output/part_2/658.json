@@ -4,29 +4,21 @@
     "position": [147, 173],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "F31.64",
-      "F31.3",
-      "F31.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Atenolol",
     "position": [484, 492],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1202"]
+    "candidates": []
   },
   {
     "text": "trầm cảm nhẹ",
     "position": [67, 79],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "F31.30",
-      "F31.31",
-      "F31.3"
-    ]
+    "candidates": []
   },
   {
     "text": "5 năm trước",

@@ -1,56 +1,37 @@
 [
   {
     "text": "Viêm gan C",
-    "position": [
-      0,
-      10
-    ],
-    "type": "TÊN_BỆNH",
+    "position": [0, 10],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      109,
-      116
-    ],
+    "position": [109, 116],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng da",
-    "position": [
-      118,
-      125
-    ],
+    "position": [118, 125],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [
-      130,
-      138
-    ],
+    "position": [130, 138],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ribavirin",
-    "position": [
-      360,
-      369
-    ],
+    "position": [360, 369],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "9344"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   }
 ]

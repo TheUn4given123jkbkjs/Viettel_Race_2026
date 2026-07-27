@@ -4,25 +4,21 @@
     "position": [939, 1019],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "F15",
-      "F15.0",
-      "F15.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [1066, 1079],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Caffeine citrate",
     "position": [1083, 1099],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["20033"]
+    "candidates": []
   },
   {
     "text": "caffeine",

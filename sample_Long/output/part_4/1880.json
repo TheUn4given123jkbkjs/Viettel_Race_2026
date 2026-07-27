@@ -1,92 +1,58 @@
 [
   {
     "text": "ung thư bàng quang",
-    "position": [
-      316,
-      334
-    ],
+    "position": [316, 334],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "D09.0"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau vùng hạ vị",
-    "position": [
-      653,
-      667
-    ],
+    "position": [653, 667],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu máu đại thể",
-    "position": [
-      671,
-      687
-    ],
+    "position": [671, 687],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hồng cầu",
-    "position": [
-      1957,
-      1965
-    ],
+    "position": [1957, 1965],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm vùng bụng",
-    "position": [
-      2095,
-      2112
-    ],
+    "position": [2095, 2112],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sỏi bàng quang",
-    "position": [
-      2389,
-      2403
-    ],
+    "position": [2389, 2403],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N21.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
-    "position": [
-      2588,
-      2601
-    ],
+    "position": [2588, 2601],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2551"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      2698,
-      2707
-    ],
+    "position": [2698, 2707],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

@@ -1,26 +1,16 @@
 [
   {
     "text": "Tiền sử THA 5 năm",
-    "position": [
-      115,
-      132
-    ],
+    "position": [115, 132],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Bệnh của cơ hoành",
-    "position": [
-      590,
-      607
-    ],
+    "position": [590, 607],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J98.6"
-    ]
+    "candidates": []
   }
 ]

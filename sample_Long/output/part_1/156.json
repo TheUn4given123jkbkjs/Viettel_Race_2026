@@ -1,68 +1,44 @@
 [
   {
     "text": "Benzoyl peroxide",
-    "position": [
-      55,
-      71
-    ],
+    "position": [55, 71],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "1418"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "bệnh thận mạn tính",
-    "position": [
-      314,
-      332
-    ],
+    "position": [314, 332],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tiểu đường",
-    "position": [
-      135,
-      150
-    ],
+    "position": [135, 150],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Losartan",
-    "position": [
-      401,
-      409
-    ],
+    "position": [401, 409],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [
-      667,
-      680
-    ],
+    "position": [667, 680],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Metformin",
-    "position": [
-      440,
-      449
-    ],
+    "position": [440, 449],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6809"
-    ]
+    "candidates": []
   }
 ]

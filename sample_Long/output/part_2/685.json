@@ -1,84 +1,56 @@
 [
   {
     "text": "đau tức vùng thượng vị",
-    "position": [
-      120,
-      142
-    ],
+    "position": [120, 142],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ợ chua",
-    "position": [
-      211,
-      217
-    ],
+    "position": [211, 217],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sụt cân",
-    "position": [
-      397,
-      404
-    ],
+    "position": [397, 404],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau dạ dày",
-    "position": [
-      1061,
-      1071
-    ],
+    "position": [1061, 1071],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Nội soi thực quản - dạ dày - tá tràng",
-    "position": [
-      2270,
-      2307
-    ],
+    "position": [2270, 2307],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "niêm mạc hang vị phù nề, xung huyết rải rác",
-    "position": [
-      2548,
-      2591
-    ],
+    "position": [2548, 2591],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Test hơi thở tìm vi khuẩn H.pylori (C13)",
-    "position": [
-      2328,
-      2368
-    ],
+    "position": [2328, 2368],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dương tính (++)",
-    "position": [
-      2721,
-      2736
-    ],
+    "position": [2721, 2736],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,38 +1,23 @@
 [
   {
     "text": "Thiếu máu cơ tim thoáng qua của trẻ sơ sinh",
-    "position": [
-      9,
-      52
-    ],
+    "position": [9, 52],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P29.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Acenocoumarol",
-    "position": [
-      828,
-      841
-    ],
+    "position": [828, 841],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "154"
-    ]
+    "candidates": []
   },
   {
     "text": "Amiodarone",
-    "position": [
-      937,
-      947
-    ],
+    "position": [937, 947],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "703"
-    ]
+    "candidates": []
   }
 ]

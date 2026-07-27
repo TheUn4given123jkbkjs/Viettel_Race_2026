@@ -1,88 +1,51 @@
 [
   {
     "text": "Acyclovir",
-    "position": [
-      173,
-      182
-    ],
+    "position": [173, 182],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "281"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "ung thư vú",
-    "position": [
-      223,
-      233
-    ],
+    "position": [223, 233],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "D05",
-      "D05.1",
-      "D05.7"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      419,
-      427
-    ],
+    "position": [419, 427],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      438,
-      446
-    ],
+    "position": [438, 446],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ran ẩm",
-    "position": [
-      534,
-      540
-    ],
+    "position": [534, 540],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm phổi cộng đồng",
-    "position": [
-      674,
-      693
-    ],
+    "position": [674, 693],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      765,
-      776
-    ],
+    "position": [765, 776],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

@@ -1,68 +1,42 @@
 [
   {
     "text": "Mitomycin",
-    "position": [
-      525,
-      534
-    ],
+    "position": [525, 534],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "632"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "ung thư bàng quuang",
-    "position": [
-      250,
-      269
-    ],
+    "position": [250, 269],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      826,
-      839
-    ],
+    "position": [826, 839],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "đái máu đại thể",
-    "position": [
-      1197,
-      1212
-    ],
+    "position": [1197, 1212],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT scan",
-    "position": [
-      2179,
-      2186
-    ],
+    "position": [2179, 2186],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Paracetamol",
-    "position": [
-      2537,
-      2548
-    ],
+    "position": [2537, 2548],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

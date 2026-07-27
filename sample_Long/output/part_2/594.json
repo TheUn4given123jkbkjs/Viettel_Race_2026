@@ -1,66 +1,37 @@
 [
   {
     "text": "Hẹp van ba lá",
-    "position": [
-      73,
-      86
-    ],
+    "position": [73, 86],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "I07.0",
-      "I07.2",
-      "I36.0"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      317,
-      324
-    ],
+    "position": [317, 324],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      336,
-      347
-    ],
+    "position": [336, 347],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      124,
-      132
-    ],
+    "position": [124, 132],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      156,
-      159
-    ],
+    "position": [156, 159],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

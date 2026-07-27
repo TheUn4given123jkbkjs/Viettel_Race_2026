@@ -1,55 +1,30 @@
 [
   {
     "text": "viêm cầu thận hình liềm lan tỏa",
-    "position": [
-      166,
-      197
-    ],
+    "position": [166, 197],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N02.7",
-      "N03.7",
-      "N04.7"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh thận di truyền, chưa được phân loại nơi khác",
-    "position": [
-      115,
-      164
-    ],
+    "position": [115, 164],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N07.0",
-      "N07.1",
-      "N07.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [
-      355,
-      368
-    ],
+    "position": [355, 368],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "167"
-    ]
+    "candidates": []
   },
   {
     "text": "Mefloquine",
-    "position": [
-      424,
-      434
-    ],
+    "position": [424, 434],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1429947",
-      "6694"
-    ]
+    "candidates": []
   }
 ]

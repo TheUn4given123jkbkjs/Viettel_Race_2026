@@ -1,26 +1,16 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      22,
-      39
-    ],
+    "position": [22, 39],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "bố của bệnh nhân bị nhồi máu cơ tim khi 50 tuổi",
-    "position": [
-      268,
-      315
-    ],
+    "position": [268, 315],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   }
 ]

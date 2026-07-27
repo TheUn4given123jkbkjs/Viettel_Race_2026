@@ -1,56 +1,35 @@
 [
   {
     "text": "vô kinh, thiểu kinh, hiếm kinh",
-    "position": [
-      38,
-      68
-    ],
+    "position": [38, 68],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N91"
-    ]
+    "candidates": []
   },
   {
     "text": "tiểu đường loại 2",
-    "position": [
-      190,
-      207
-    ],
+    "position": [190, 207],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      103,
-      111
-    ],
+    "position": [103, 111],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      115,
-      118
-    ],
+    "position": [115, 118],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "phẫu thuật cắt tử cung",
-    "position": [
-      277,
-      299
-    ],
+    "position": [277, 299],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

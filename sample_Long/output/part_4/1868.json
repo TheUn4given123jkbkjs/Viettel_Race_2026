@@ -1,63 +1,37 @@
 [
   {
     "text": "Loãng xương trong các bệnh đã xếp loại ở mục khác",
-    "position": [
-      57,
-      106
-    ],
+    "position": [57, 106],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M82",
-      "M82*"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      30,
-      33
-    ],
+    "position": [30, 33],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Alendronate",
-    "position": [
-      219,
-      230
-    ],
+    "position": [219, 230],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Calcium",
-    "position": [
-      291,
-      298
-    ],
+    "position": [291, 298],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1901",
-      "225852",
-      "1908"
-    ]
+    "candidates": []
   },
   {
     "text": "Vitamin D",
-    "position": [
-      302,
-      311
-    ],
+    "position": [302, 311],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "97016"
-    ]
+    "candidates": []
   }
 ]

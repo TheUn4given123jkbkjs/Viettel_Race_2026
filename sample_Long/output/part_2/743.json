@@ -1,102 +1,65 @@
 [
   {
     "text": "đau ngực trái",
-    "position": [
-      115,
-      128
-    ],
+    "position": [115, 128],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "nhịp tim nhanh",
-    "position": [
-      130,
-      144
-    ],
+    "position": [130, 144],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      242,
-      249
-    ],
+    "position": [242, 249],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      253,
-      264
-    ],
+    "position": [253, 264],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      366,
-      374
-    ],
+    "position": [366, 374],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sinh hóa",
-    "position": [
-      392,
-      400
-    ],
+    "position": [392, 400],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết học",
-    "position": [
-      414,
-      423
-    ],
+    "position": [414, 423],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      334,
-      342
-    ],
+    "position": [334, 342],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      320,
-      323
-    ],
+    "position": [320, 323],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

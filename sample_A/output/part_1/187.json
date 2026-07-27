@@ -4,52 +4,48 @@
     "position": [0, 40],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C16.8"]
+    "candidates": []
   },
   {
     "text": "Abacavir",
     "position": [384, 392],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
     "position": [459, 470],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "Metformin",
     "position": [556, 565],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6809"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
     "position": [611, 623],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": []
   },
   {
     "text": "Vancomycin",
     "position": [731, 741],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["11124"]
+    "candidates": []
   },
   {
     "text": "Zidovudine",
     "position": [827, 837],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "214671",
-      "687428",
-      "11413"
-    ]
+    "candidates": []
   }
 ]

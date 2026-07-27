@@ -4,7 +4,7 @@
     "position": [88, 98],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["28889"]
+    "candidates": []
   },
   {
     "text": "dị ứng",
@@ -18,18 +18,14 @@
     "position": [192, 205],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
     "position": [217, 227],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": []
   },
   {
     "text": "đau ngực",

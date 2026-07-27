@@ -1,46 +1,28 @@
 [
   {
     "text": "Hội chứng thận hư",
-    "position": [
-      50,
-      67
-    ],
+    "position": [50, 67],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N04",
-      "N04.0",
-      "N04.1"
-    ]
+    "candidates": []
   },
   {
     "text": "phù nặng",
-    "position": [
-      1274,
-      1282
-    ],
+    "position": [1274, 1282],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "protein niệu",
-    "position": [
-      1909,
-      1921
-    ],
+    "position": [1909, 1921],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sinh thiết thận",
-    "position": [
-      2873,
-      2888
-    ],
+    "position": [2873, 2888],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

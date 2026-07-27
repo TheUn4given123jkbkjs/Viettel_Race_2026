@@ -1,60 +1,35 @@
 [
   {
     "text": "Phá thai nội khoa",
-    "position": [
-      75,
-      92
-    ],
+    "position": [75, 92],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O04",
-      "O04.0",
-      "O04.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [
-      772,
-      785
-    ],
+    "position": [772, 785],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "167"
-    ]
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
-    "position": [
-      834,
-      847
-    ],
+    "position": [834, 847],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2551"
-    ]
+    "candidates": []
   },
   {
     "text": "Metronidazole",
-    "position": [
-      882,
-      895
-    ],
+    "position": [882, 895],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6922"
-    ]
+    "candidates": []
   },
   {
     "text": "Biến chứng nhiễm khuẩn đường sinh dục và tiểu khung",
-    "position": [
-      461,
-      512
-    ],
+    "position": [461, 512],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

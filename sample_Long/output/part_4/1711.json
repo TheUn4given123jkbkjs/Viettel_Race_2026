@@ -1,54 +1,35 @@
 [
   {
     "text": "bệnh tiết niệu trào ngược và tắc nghẽn, không đặc hiệu",
-    "position": [
-      83,
-      137
-    ],
+    "position": [83, 137],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N13.9"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      386,
-      397
-    ],
+    "position": [386, 397],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "viêm đường tiết niệu",
-    "position": [
-      274,
-      294
-    ],
+    "position": [274, 294],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm bụng",
-    "position": [
-      481,
-      493
-    ],
+    "position": [481, 493],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm nước tiểu",
-    "position": [
-      457,
-      477
-    ],
+    "position": [457, 477],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

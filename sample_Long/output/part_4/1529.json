@@ -1,86 +1,51 @@
 [
   {
     "text": "thiếu máu di truyền",
-    "position": [
-      176,
-      195
-    ],
+    "position": [176, 195],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "D68.2",
-      "D58",
-      "D58.8"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau dữ dội vùng xương đùi trái",
-    "position": [
-      377,
-      407
-    ],
+    "position": [377, 407],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      525,
-      528
-    ],
+    "position": [525, 528],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      599,
-      607
-    ],
+    "position": [599, 607],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Viêm xương tủy do bệnh máu mãn tínhkhác",
-    "position": [
-      948,
-      987
-    ],
+    "position": [948, 987],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M86.5"
-    ]
+    "candidates": []
   },
   {
     "text": "Clindamycin",
-    "position": [
-      1199,
-      1210
-    ],
+    "position": [1199, 1210],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2582"
-    ]
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
-    "position": [
-      1314,
-      1327
-    ],
+    "position": [1314, 1327],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2551"
-    ]
+    "candidates": []
   }
 ]

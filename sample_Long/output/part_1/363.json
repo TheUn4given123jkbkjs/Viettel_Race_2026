@@ -1,64 +1,37 @@
 [
   {
     "text": "biến chứng liên quan đến thụ thai nhân tạo không đặc hiệu",
-    "position": [
-      451,
-      508
-    ],
+    "position": [451, 508],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "N98.9"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      339,
-      352
-    ],
+    "position": [339, 352],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Metformin",
-    "position": [
-      356,
-      365
-    ],
+    "position": [356, 365],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6809"
-    ]
+    "candidates": []
   },
   {
     "text": "Atorvastatin",
-    "position": [
-      531,
-      543
-    ],
+    "position": [531, 543],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "83367"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      547,
-      556
-    ],
+    "position": [547, 556],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

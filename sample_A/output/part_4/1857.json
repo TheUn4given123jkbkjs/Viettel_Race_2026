@@ -4,13 +4,13 @@
     "position": [102, 112],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["7895"]
+    "candidates": []
   },
   {
     "text": "Papaverine",
     "position": [102, 112],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": ["7895"]
+    "candidates": []
   }
 ]

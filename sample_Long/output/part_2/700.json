@@ -1,84 +1,49 @@
 [
   {
     "text": "Fluoxetine",
-    "position": [
-      428,
-      438
-    ],
+    "position": [428, 438],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "4493"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      767,
-      775
-    ],
+    "position": [767, 775],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      800,
-      803
-    ],
+    "position": [800, 803],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Tăng huyết áp",
-    "position": [
-      546,
-      559
-    ],
+    "position": [546, 559],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "Trầm cảm chủ yếu",
-    "position": [
-      360,
-      376
-    ],
+    "position": [360, 376],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      644,
-      651
-    ],
+    "position": [644, 651],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mất ngủ",
-    "position": [
-      59,
-      66
-    ],
+    "position": [59, 66],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

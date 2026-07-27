@@ -4,28 +4,28 @@
     "position": [323, 333],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G25.0"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [384, 397],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
     "position": [401, 410],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": []
   },
   {
     "text": "Metformin",
     "position": [832, 841],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6809"]
+    "candidates": []
   },
   {
     "text": "Sitagliptin",
@@ -37,7 +37,7 @@
   {
     "text": "bệnh nhân",
     "position": [21, 30],
-    "type": "NGƯỜI_THÂN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
     "candidates": []
   }

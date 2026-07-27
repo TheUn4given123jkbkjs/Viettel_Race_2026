@@ -11,19 +11,19 @@
     "position": [972, 1005],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["214558"]
+    "candidates": []
   },
   {
     "text": "Phụ nữ",
     "position": [1070, 1076],
-    "type": "NGƯỜI_THÂN",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Bác sĩ",
     "position": [1142, 1148],
-    "type": "NGƯỜI_THÂN",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },

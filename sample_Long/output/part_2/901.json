@@ -1,56 +1,35 @@
 [
   {
     "text": "Tổn thương khớp trong bệnh ưa chảy máu (D66-D68†), Nhiều vị trí",
-    "position": [
-      44,
-      107
-    ],
+    "position": [44, 107],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M36.20*"
-    ]
+    "candidates": []
   },
   {
     "text": "Acenocoumarol",
-    "position": [
-      589,
-      602
-    ],
+    "position": [589, 602],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "154"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      606,
-      619
-    ],
+    "position": [606, 619],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "chảy máu cam",
-    "position": [
-      169,
-      181
-    ],
+    "position": [169, 181],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chảy máu chân răng",
-    "position": [
-      183,
-      201
-    ],
+    "position": [183, 201],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -4,7 +4,7 @@
     "position": [136, 155],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["2647996", "6691"]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -25,12 +25,12 @@
     "position": [538, 545],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "bệnh tim mạch",
     "position": [411, 424],
-    "type": "BỆNH_MÃN_TÍNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
     "candidates": []
   },
@@ -39,7 +39,7 @@
     "position": [549, 560],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "troponin",

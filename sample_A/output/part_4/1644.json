@@ -4,11 +4,7 @@
     "position": [240, 258],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E89.8",
-      "E89.9",
-      "E89"
-    ]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
@@ -34,14 +30,14 @@
   {
     "text": "bố",
     "position": [478, 480],
-    "type": "TÊN_THÂN_NHÂN",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "mẹ",
     "position": [484, 486],
-    "type": "TÊN_THÂN_NHÂN",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isFamily"],
     "candidates": []
   }

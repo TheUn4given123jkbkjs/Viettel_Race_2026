@@ -1,54 +1,35 @@
 [
   {
     "text": "Clomipramine",
-    "position": [
-      32,
-      44
-    ],
+    "position": [32, 44],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "2597"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "trầm cảm",
-    "position": [
-      77,
-      85
-    ],
+    "position": [77, 85],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mất ngủ",
-    "position": [
-      232,
-      239
-    ],
+    "position": [232, 239],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chán ăn",
-    "position": [
-      241,
-      248
-    ],
+    "position": [241, 248],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thuốc chống trầm cảm",
-    "position": [
-      307,
-      327
-    ],
+    "position": [307, 327],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

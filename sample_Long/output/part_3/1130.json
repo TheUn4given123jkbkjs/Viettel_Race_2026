@@ -1,54 +1,35 @@
 [
   {
     "text": "đau lưng",
-    "position": [
-      26,
-      34
-    ],
+    "position": [26, 34],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      59,
-      68
-    ],
+    "position": [59, 68],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Lao cột sống (A18.0†), vùng chậu và đùi",
-    "position": [
-      151,
-      190
-    ],
+    "position": [151, 190],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M49.05*"
-    ]
+    "candidates": []
   },
   {
     "text": "Ethambutol / Isoniazid / Pyrazinamide / Rifampin",
-    "position": [
-      216,
-      264
-    ],
+    "position": [216, 264],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Vitaman A",
-    "position": [
-      303,
-      312
-    ],
+    "position": [303, 312],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

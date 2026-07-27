@@ -1,68 +1,37 @@
 [
   {
     "text": "Rò ruột",
-    "position": [
-      270,
-      277
-    ],
+    "position": [270, 277],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "K63.2",
-      "N32.1",
-      "P76.8"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      294,
-      307
-    ],
+    "position": [294, 307],
     "type": "THUỐC",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "161"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Metronidazole",
-    "position": [
-      311,
-      324
-    ],
+    "position": [311, 324],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6922"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      34,
-      37
-    ],
+    "position": [34, 37],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [
-      471,
-      481
-    ],
+    "position": [471, 481],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   }
 ]

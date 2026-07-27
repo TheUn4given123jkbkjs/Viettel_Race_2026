@@ -1,56 +1,35 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      121,
-      138
-    ],
+    "position": [121, 138],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "bệnh khớp phản ứng sau một số bệnh được xếp loại ở mục khác, bàn tay",
-    "position": [
-      562,
-      630
-    ],
+    "position": [562, 630],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M03.64*"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh về đường tiêu hóa",
-    "position": [
-      240,
-      262
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [240, 262],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [
-      289,
-      302
-    ],
-    "type": "BỆNH_NỀN",
-    "assertions": [
-      "isFamily"
-    ],
+    "position": [289, 302],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "sưng, đau và cứng",
-    "position": [
-      369,
-      386
-    ],
+    "position": [369, 386],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

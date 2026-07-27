@@ -1,36 +1,23 @@
 [
   {
     "text": "Xơ gan khác và không đặc hiệu",
-    "position": [
-      201,
-      230
-    ],
+    "position": [201, 230],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K74.6"
-    ]
+    "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      50,
-      62
-    ],
+    "position": [50, 62],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      66,
-      83
-    ],
+    "position": [66, 83],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

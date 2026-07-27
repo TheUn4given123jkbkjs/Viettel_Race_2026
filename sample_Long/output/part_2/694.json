@@ -1,33 +1,22 @@
 [
   {
     "text": "Hội chứng viêm thận mạn, tổn thương cầu thận ổ và thùy",
-    "position": [
-      159,
-      213
-    ],
+    "position": [159, 213],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N03.1"
-    ]
+    "candidates": []
   },
   {
     "text": "suy thận mạn",
-    "position": [
-      46,
-      58
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [46, 58],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      113,
-      126
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [113, 126],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

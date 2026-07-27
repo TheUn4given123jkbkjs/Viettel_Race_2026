@@ -4,11 +4,7 @@
     "position": [127, 136],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "A52.19",
-      "G21.1",
-      "G21.2"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt nhẹ",
@@ -43,6 +39,6 @@
     "position": [284, 359],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G32.8*"]
+    "candidates": []
   }
 ]

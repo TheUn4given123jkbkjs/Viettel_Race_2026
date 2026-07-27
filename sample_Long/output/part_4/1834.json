@@ -1,72 +1,49 @@
 [
   {
     "text": "Đái máu",
-    "position": [
-      107,
-      114
-    ],
+    "position": [107, 114],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đái buốt",
-    "position": [
-      170,
-      178
-    ],
+    "position": [170, 178],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm vùng bụng",
-    "position": [
-      1104,
-      1121
-    ],
+    "position": [1104, 1121],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hồng cầu (+++)",
-    "position": [
-      1330,
-      1344
-    ],
+    "position": [1330, 1344],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sung huyết và chảy máu tuyến tiền liệt",
-    "position": [
-      1381,
-      1419
-    ],
+    "position": [1381, 1419],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N42.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Tranexamic acid 500mg",
-    "position": [
-      1452,
-      1473
-    ],
+    "position": [1452, 1473],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Diosmin 600mg",
-    "position": [
-      1518,
-      1531
-    ],
+    "position": [1518, 1531],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

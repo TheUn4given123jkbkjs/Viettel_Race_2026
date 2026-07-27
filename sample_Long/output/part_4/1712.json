@@ -1,58 +1,37 @@
 [
   {
     "text": "sốt cao",
-    "position": [
-      90,
-      97
-    ],
+    "position": [90, 97],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau dữ dội vùng cột sống ngực",
-    "position": [
-      99,
-      128
-    ],
+    "position": [99, 128],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm đốt sống do vi khuẩn đường ruột (A01-A04†), cánh tay",
-    "position": [
-      226,
-      283
-    ],
+    "position": [226, 283],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M49.22*"
-    ]
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
-    "position": [
-      328,
-      341
-    ],
+    "position": [328, 341],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2551"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      351,
-      362
-    ],
+    "position": [351, 362],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

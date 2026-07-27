@@ -4,18 +4,14 @@
     "position": [27, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "A24",
-      "A24.1",
-      "A24.2"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh Malleomyces mallei",
     "position": [552, 575],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A24", "A24.0"]
+    "candidates": []
   },
   {
     "text": "sốt cao",

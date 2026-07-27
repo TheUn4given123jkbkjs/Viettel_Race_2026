@@ -1,68 +1,37 @@
 [
   {
     "text": "Mebendazole",
-    "position": [
-      241,
-      252
-    ],
+    "position": [241, 252],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "6672"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      108,
-      116
-    ],
+    "position": [108, 116],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "R11"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [
-      499,
-      506
-    ],
+    "position": [499, 506],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "T88.3"
-    ]
+    "candidates": []
   },
   {
     "text": "suy giảm miễn dịch",
-    "position": [
-      369,
-      387
-    ],
+    "position": [369, 387],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F02.4*",
-      "Z21",
-      "Z11.4"
-    ]
+    "candidates": []
   },
   {
     "text": "ngộ độc giun sán",
-    "position": [
-      295,
-      311
-    ],
+    "position": [295, 311],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "T37.4"
-    ]
+    "candidates": []
   }
 ]

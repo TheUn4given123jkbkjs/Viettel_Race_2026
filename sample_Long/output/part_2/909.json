@@ -1,86 +1,56 @@
 [
   {
     "text": "đau hạ sườn phải",
-    "position": [
-      203,
-      219
-    ],
+    "position": [203, 219],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau âm ỉ vùng thượng vị",
-    "position": [
-      367,
-      390
-    ],
+    "position": [367, 390],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      575,
-      583
-    ],
+    "position": [575, 583],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      603,
-      606
-    ],
+    "position": [603, 606],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Số lượng bạch cầu (WBC)",
-    "position": [
-      1258,
-      1281
-    ],
+    "position": [1258, 1281],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "12.5 G/L",
-    "position": [
-      1283,
-      1291
-    ],
+    "position": [1283, 1291],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm ổ bụng tổng quát",
-    "position": [
-      1420,
-      1444
-    ],
+    "position": [1420, 1444],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thành dày 5mm",
-    "position": [
-      1487,
-      1500
-    ],
+    "position": [1487, 1500],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

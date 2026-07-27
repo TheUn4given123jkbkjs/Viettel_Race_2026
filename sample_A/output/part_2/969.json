@@ -11,12 +11,12 @@
     "position": [491, 500],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["632"]
+    "candidates": []
   },
   {
     "text": "Ung thư vú",
     "position": [946, 956],
-    "type": "Dịch bệnh",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
@@ -25,7 +25,7 @@
     "position": [674, 686],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6851"]
+    "candidates": []
   },
   {
     "text": "5-Fluorouracil",

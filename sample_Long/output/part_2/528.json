@@ -1,38 +1,23 @@
 [
   {
     "text": "Nhồi máu cơ tim dưới nội tâm mạc cấp",
-    "position": [
-      0,
-      36
-    ],
+    "position": [0, 36],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I21.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      250,
-      257
-    ],
+    "position": [250, 257],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [
-      261,
-      271
-    ],
+    "position": [261, 271],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "17767"
-    ]
+    "candidates": []
   }
 ]

@@ -1,79 +1,49 @@
 [
   {
     "text": "HỘI CHỨNG CUSHING",
-    "position": [
-      0,
-      17
-    ],
+    "position": [0, 17],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E24",
-      "E24.2",
-      "E24.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Hydrocortisone",
-    "position": [
-      121,
-      135
-    ],
+    "position": [121, 135],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "5492",
-      "27197"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "triệuchứng",
-    "position": [
-      239,
-      249
-    ],
+    "position": [239, 249],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mặt tròn",
-    "position": [
-      268,
-      276
-    ],
+    "position": [268, 276],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng cân",
-    "position": [
-      278,
-      286
-    ],
+    "position": [278, 286],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "da mỏng",
-    "position": [
-      300,
-      307
-    ],
+    "position": [300, 307],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hội chứng này",
-    "position": [
-      188,
-      201
-    ],
+    "position": [188, 201],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

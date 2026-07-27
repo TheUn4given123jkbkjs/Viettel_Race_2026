@@ -4,28 +4,28 @@
     "position": [663, 703],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["F60.3"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [336, 343],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
     "position": [368, 379],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "acetaminophen",
     "position": [760, 773],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",

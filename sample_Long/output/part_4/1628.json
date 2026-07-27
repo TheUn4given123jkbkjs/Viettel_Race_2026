@@ -1,66 +1,44 @@
 [
   {
     "text": "Ra nước âm đạo liên tục",
-    "position": [
-      100,
-      123
-    ],
+    "position": [100, 123],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Rò rỉ nước tiểu qua âm đạo",
-    "position": [
-      157,
-      183
-    ],
+    "position": [157, 183],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nghiệm pháp xanh Methylen",
-    "position": [
-      282,
-      307
-    ],
+    "position": [282, 307],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "(+)",
-    "position": [
-      308,
-      311
-    ],
+    "position": [308, 311],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "lỗ rò thành trước âm đạo",
-    "position": [
-      372,
-      396
-    ],
+    "position": [372, 396],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các rò đường sinh dục nữ khác",
-    "position": [
-      409,
-      438
-    ],
+    "position": [409, 438],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N82.1",
-      "N82.4",
-      "N82.8"
-    ]
+    "candidates": []
   }
 ]

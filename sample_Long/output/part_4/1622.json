@@ -1,94 +1,58 @@
 [
   {
     "text": "Acetic acid",
-    "position": [
-      561,
-      572
-    ],
+    "position": [561, 572],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "168"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      1295,
-      1298
-    ],
+    "position": [1295, 1298],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ban đỏ",
-    "position": [
-      1453,
-      1459
-    ],
+    "position": [1453, 1459],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      1665,
-      1673
-    ],
+    "position": [1665, 1673],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "WBC",
-    "position": [
-      1869,
-      1872
-    ],
+    "position": [1869, 1872],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "14.8 K/uL",
-    "position": [
-      1874,
-      1883
-    ],
+    "position": [1874, 1883],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      2303,
-      2314
-    ],
+    "position": [2303, 2314],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Viêm mô tế bào",
-    "position": [
-      2611,
-      2625
-    ],
+    "position": [2611, 2625],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K12.2",
-      "N73.0",
-      "N73.1"
-    ]
+    "candidates": []
   }
 ]

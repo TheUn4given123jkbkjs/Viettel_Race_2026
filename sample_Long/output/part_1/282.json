@@ -1,51 +1,30 @@
 [
   {
     "text": "Viêm da dị ứng tiếp xúc do kim loại",
-    "position": [
-      0,
-      35
-    ],
+    "position": [0, 35],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L23.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Hydrocortisone",
-    "position": [
-      329,
-      343
-    ],
+    "position": [329, 343],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5492",
-      "27197"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      363,
-      376
-    ],
+    "position": [363, 376],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      382,
-      391
-    ],
+    "position": [382, 391],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

@@ -1,54 +1,35 @@
 [
   {
     "text": "suy tim mãn tính",
-    "position": [
-      221,
-      237
-    ],
+    "position": [221, 237],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh thận mãn tính",
-    "position": [
-      241,
-      259
-    ],
+    "position": [241, 259],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      302,
-      309
-    ],
+    "position": [302, 309],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      313,
-      324
-    ],
+    "position": [313, 324],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      486,
-      494
-    ],
+    "position": [486, 494],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

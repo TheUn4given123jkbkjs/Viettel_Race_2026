@@ -1,60 +1,35 @@
 [
   {
     "text": "Beclomethasoned",
-    "position": [
-      150,
-      165
-    ],
+    "position": [150, 165],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      269,
-      286
-    ],
+    "position": [269, 286],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      241,
-      250
-    ],
+    "position": [241, 250],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "viêm phổi",
-    "position": [
-      230,
-      239
-    ],
+    "position": [230, 239],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": []
   },
   {
     "text": "hen phế quản",
-    "position": [
-      122,
-      134
-    ],
+    "position": [122, 134],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

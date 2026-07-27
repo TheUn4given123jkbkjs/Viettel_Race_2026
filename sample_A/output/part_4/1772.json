@@ -4,18 +4,14 @@
     "position": [322, 355],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["814321"]
+    "candidates": []
   },
   {
     "text": "bệnh lao",
     "position": [136, 144],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A18.16",
-      "Z86.11",
-      "A17.84"
-    ]
+    "candidates": []
   },
   {
     "text": "dùng thuốc",
@@ -29,11 +25,7 @@
     "position": [141, 144],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A17.81",
-      "A17.82",
-      "A17.83"
-    ]
+    "candidates": []
   },
   {
     "text": "tuân thủ",

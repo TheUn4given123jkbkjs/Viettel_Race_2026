@@ -1,52 +1,35 @@
 [
   {
     "text": "mệt mỏi",
-    "position": [
-      47,
-      54
-    ],
+    "position": [47, 54],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      97,
-      104
-    ],
+    "position": [97, 104],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      108,
-      125
-    ],
+    "position": [108, 125],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "xét nghiệm công thức máu",
-    "position": [
-      163,
-      187
-    ],
+    "position": [163, 187],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "công thức máu bình thường",
-    "position": [
-      269,
-      294
-    ],
+    "position": [269, 294],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,39 +1,23 @@
 [
   {
     "text": "hội chứng trẻ sơ sinh của bà mẹ bị đái tháo đường thai nghén",
-    "position": [
-      162,
-      222
-    ],
+    "position": [162, 222],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P70.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Metformin",
-    "position": [
-      671,
-      680
-    ],
+    "position": [671, 680],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6809"
-    ]
+    "candidates": []
   },
   {
     "text": "Insulin",
-    "position": [
-      686,
-      693
-    ],
+    "position": [686, 693],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "253182",
-      "317235"
-    ]
+    "candidates": []
   }
 ]

@@ -1,38 +1,23 @@
 [
   {
     "text": "Tổn thương cùng cụt, chưa xếp loại mục khác",
-    "position": [
-      106,
-      149
-    ],
+    "position": [106, 149],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M53.3"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      187,
-      200
-    ],
+    "position": [187, 200],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      204,
-      213
-    ],
+    "position": [204, 213],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

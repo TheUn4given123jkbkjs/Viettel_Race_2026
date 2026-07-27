@@ -1,97 +1,56 @@
 [
   {
     "text": "Ethambutol",
-    "position": [
-      167,
-      177
-    ],
+    "position": [167, 177],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "821005",
-      "814321",
-      "4110"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "ĐTĐ tuýp 2",
-    "position": [
-      274,
-      284
-    ],
+    "position": [274, 284],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      568,
-      576
-    ],
+    "position": [568, 576],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      584,
-      587
-    ],
+    "position": [584, 587],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [
-      658,
-      662
-    ],
+    "position": [658, 662],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm dạ dày cấp",
-    "position": [
-      831,
-      846
-    ],
+    "position": [831, 846],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K29.0",
-      "K29.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Omeprazole",
-    "position": [
-      871,
-      881
-    ],
+    "position": [871, 881],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "7646"
-    ]
+    "candidates": []
   },
   {
     "text": "Paracetamol",
-    "position": [
-      896,
-      907
-    ],
+    "position": [896, 907],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

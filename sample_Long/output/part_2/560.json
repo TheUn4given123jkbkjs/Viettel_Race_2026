@@ -1,56 +1,37 @@
 [
   {
     "text": "Rò trực tràng",
-    "position": [
-      672,
-      685
-    ],
+    "position": [672, 685],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ciprofloxacin",
-    "position": [
-      929,
-      942
-    ],
+    "position": [929, 942],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "metronidazole",
-    "position": [
-      989,
-      1002
-    ],
+    "position": [989, 1002],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không có triệu chứng buồn nôn",
-    "position": [
-      825,
-      854
-    ],
+    "position": [825, 854],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "viêm đại tràng co thắt",
-    "position": [
-      143,
-      165
-    ],
+    "position": [143, 165],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

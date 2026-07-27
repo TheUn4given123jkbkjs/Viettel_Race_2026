@@ -1,38 +1,23 @@
 [
   {
     "text": "Bệnh khớp do vi tinh thể sau các rối loạn chuyển hóa được xếp loại ở mục khác, vùng chậu và đùi",
-    "position": [
-      238,
-      333
-    ],
+    "position": [238, 333],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M14.15*"
-    ]
+    "candidates": []
   },
   {
     "text": "Colchicine",
-    "position": [
-      394,
-      404
-    ],
+    "position": [394, 404],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2683"
-    ]
+    "candidates": []
   },
   {
     "text": "Allopurinol",
-    "position": [
-      408,
-      419
-    ],
+    "position": [408, 419],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "519"
-    ]
+    "candidates": []
   }
 ]

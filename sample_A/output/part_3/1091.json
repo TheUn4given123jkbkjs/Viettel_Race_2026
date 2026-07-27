@@ -2,7 +2,7 @@
   {
     "text": "Nhiễm trùng huyết",
     "position": [0, 17],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
@@ -11,6 +11,6 @@
     "position": [1219, 1229],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["9143"]
+    "candidates": []
   }
 ]

@@ -18,18 +18,14 @@
     "position": [646, 654],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "814321",
-      "214662",
-      "9384"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
     "position": [760, 763],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["Y06"]
+    "candidates": []
   },
   {
     "text": "đau họng",
@@ -57,10 +53,6 @@
     "position": [1161, 1174],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J00",
-      "J02",
-      "J02.8"
-    ]
+    "candidates": []
   }
 ]

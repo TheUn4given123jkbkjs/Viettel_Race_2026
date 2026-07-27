@@ -1,64 +1,37 @@
 [
   {
     "text": "phá thai",
-    "position": [
-      34,
-      42
-    ],
+    "position": [34, 42],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O04",
-      "O04.0",
-      "O04.1"
-    ]
+    "candidates": []
   },
   {
     "text": "phá thai chưa xác định rõ (Không hoàn toàn, không có biến chứng)",
-    "position": [
-      193,
-      259
-    ],
+    "position": [193, 259],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O06.4"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      118,
-      127
-    ],
+    "position": [118, 127],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Mifepristone / Misoprostol",
-    "position": [
-      296,
-      322
-    ],
+    "position": [296, 322],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6964"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      326,
-      339
-    ],
+    "position": [326, 339],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

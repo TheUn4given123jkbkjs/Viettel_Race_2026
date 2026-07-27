@@ -1,60 +1,37 @@
 [
   {
     "text": "Bệnh hô hấp trong các bệnh mô liên kết lan toả khác",
-    "position": [
-      0,
-      51
-    ],
+    "position": [0, 51],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J99.1*"
-    ]
+    "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      163,
-      170
-    ],
+    "position": [163, 170],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      204,
-      213
-    ],
+    "position": [204, 213],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      284,
-      297
-    ],
+    "position": [284, 297],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Azithromycin",
-    "position": [
-      303,
-      315
-    ],
+    "position": [303, 315],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "18631"
-    ]
+    "candidates": []
   }
 ]

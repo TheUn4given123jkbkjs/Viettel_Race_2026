@@ -1,62 +1,37 @@
 [
   {
     "text": "Hồng ban đa dạng, không điển hình",
-    "position": [
-      72,
-      105
-    ],
+    "position": [72, 105],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L51.9"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      118,
-      127
-    ],
+    "position": [118, 127],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      145,
-      162
-    ],
+    "position": [145, 162],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      238,
-      251
-    ],
+    "position": [238, 251],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Acyclovir",
-    "position": [
-      255,
-      264
-    ],
+    "position": [255, 264],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "281"
-    ]
+    "candidates": []
   }
 ]

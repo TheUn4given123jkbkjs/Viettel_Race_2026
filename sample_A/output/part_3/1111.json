@@ -4,21 +4,21 @@
     "position": [0, 29],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["G63.1*"]
+    "candidates": []
   },
   {
     "text": "Dexamethasone",
     "position": [488, 501],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
     "position": [508, 520],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": []
   },
   {
     "text": "THA",

@@ -1,58 +1,35 @@
 [
   {
     "text": "Bệnh khớp nhiễm bột (E85.-†), Nhiều vị trí",
-    "position": [
-      161,
-      203
-    ],
+    "position": [161, 203],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "M14.40*"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      238,
-      245
-    ],
+    "position": [238, 245],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      249,
-      260
-    ],
+    "position": [249, 260],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      400,
-      408
-    ],
+    "position": [400, 408],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "5.6 ng/mL",
-    "position": [
-      474,
-      483
-    ],
+    "position": [474, 483],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

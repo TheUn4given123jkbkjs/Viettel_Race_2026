@@ -4,40 +4,40 @@
     "position": [77, 86],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["6099"]
+    "candidates": []
   },
   {
     "text": "vi khuẩn",
     "position": [194, 202],
-    "type": "TRÍỆU_CHỨNG",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hệ thần kinh",
     "position": [406, 418],
-    "type": "TRÍỆU_CHỨNG",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tác dụng phụ",
     "position": [308, 320],
-    "type": "TRÍỆU_CHỨNG",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chức năng thận",
     "position": [763, 777],
-    "type": "TRÍỆU_CHỨNG",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bác sĩ",
     "position": [641, 647],
-    "type": "TRÍỆU_CHỨNG",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

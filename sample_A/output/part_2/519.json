@@ -4,18 +4,14 @@
     "position": [94, 106],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "E50.2",
-      "E50.3",
-      "E50.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [303, 316],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "vitamin A",

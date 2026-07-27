@@ -4,14 +4,14 @@
     "position": [186, 196],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["7895"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
     "position": [97, 105],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "candidates": []
   },
   {
     "text": "co thắt dạ dày",
@@ -25,6 +25,6 @@
     "position": [186, 196],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["7895"]
+    "candidates": []
   }
 ]

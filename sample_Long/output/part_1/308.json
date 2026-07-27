@@ -1,72 +1,44 @@
 [
   {
     "text": "Nhịp nhanh thất",
-    "position": [
-      36,
-      51
-    ],
+    "position": [36, 51],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I47.1",
-      "I47.2"
-    ]
+    "candidates": []
   },
   {
     "text": "đánh trống ngực",
-    "position": [
-      254,
-      269
-    ],
+    "position": [254, 269],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      273,
-      280
-    ],
+    "position": [273, 280],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      294,
-      302
-    ],
+    "position": [294, 302],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Amiodarone",
-    "position": [
-      349,
-      359
-    ],
+    "position": [349, 359],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "703"
-    ]
+    "candidates": []
   },
   {
     "text": "Lidocaine",
-    "position": [
-      365,
-      374
-    ],
+    "position": [365, 374],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6387",
-      "107602"
-    ]
+    "candidates": []
   }
 ]

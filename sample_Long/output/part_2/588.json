@@ -1,51 +1,36 @@
 [
   {
     "text": "viêm loét dạ dày tá tràng mãn tính",
-    "position": [
-      66,
-      100
-    ],
+    "position": [66, 100],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thuốc chống viêm không steroid",
-    "position": [
-      207,
-      237
-    ],
+    "position": [207, 237],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viết phân tích máu",
-    "position": [
-      601,
-      619
-    ],
+    "position": [601, 619],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sắt thấp",
-    "position": [
-      642,
-      650
-    ],
+    "position": [642, 650],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      396,
-      403
-    ],
-    "type": "",
+    "position": [396, 403],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

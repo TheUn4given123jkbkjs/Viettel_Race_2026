@@ -32,18 +32,14 @@
     "position": [536, 549],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "A52.13",
-      "A54.81",
-      "A50.41"
-    ]
+    "candidates": []
   },
   {
     "text": "Nhiễm virus không xác định của hệ thần kinh trung ương",
     "position": [891, 945],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A89"]
+    "candidates": []
   },
   {
     "text": "co giật",

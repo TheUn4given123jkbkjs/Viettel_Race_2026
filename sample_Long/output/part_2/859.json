@@ -1,58 +1,35 @@
 [
   {
     "text": "Rụng tóc do nội tiết tố nam tính",
-    "position": [
-      679,
-      711
-    ],
+    "position": [679, 711],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L64"
-    ]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      266,
-      283
-    ],
+    "position": [266, 283],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      232,
-      239
-    ],
+    "position": [232, 239],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      243,
-      254
-    ],
+    "position": [243, 254],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      355,
-      363
-    ],
+    "position": [355, 363],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

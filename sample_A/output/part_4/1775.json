@@ -4,11 +4,7 @@
     "position": [75, 88],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Đái tháo đường típ 2",
@@ -43,20 +39,20 @@
     "position": [897, 940],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C18.8", "C21.8"]
+    "candidates": []
   },
   {
     "text": "Fluorouracil",
     "position": [1075, 1087],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4492"]
+    "candidates": []
   },
   {
     "text": "Calcium folinate",
     "position": [1101, 1117],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["225852"]
+    "candidates": []
   }
 ]

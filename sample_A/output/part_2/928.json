@@ -4,21 +4,21 @@
     "position": [330, 367],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["B40.1"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [483, 490],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "Erythromycin",
     "position": [511, 523],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4053"]
+    "candidates": []
   },
   {
     "text": "X-quang phổi",
@@ -30,7 +30,7 @@
   {
     "text": "Chảy máu mũi",
     "position": [114, 126],
-    "type": "BỆNH_SỬ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

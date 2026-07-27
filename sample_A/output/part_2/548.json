@@ -4,7 +4,7 @@
     "position": [310, 323],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": ["704"]
+    "candidates": []
   },
   {
     "text": "bồn chồn",
@@ -18,21 +18,21 @@
     "position": [934, 960],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["F90.1"]
+    "candidates": []
   },
   {
     "text": "Risperidone",
     "position": [1117, 1128],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["35636"]
+    "candidates": []
   },
   {
     "text": "Vitamin A",
     "position": [1229, 1238],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["11246", "97016"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",

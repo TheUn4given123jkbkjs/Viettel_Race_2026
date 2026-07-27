@@ -1,76 +1,49 @@
 [
   {
     "text": "aspirin",
-    "position": [
-      172,
-      179
-    ],
+    "position": [172, 179],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      272,
-      275
-    ],
+    "position": [272, 275],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      286,
-      294
-    ],
+    "position": [286, 294],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      315,
-      322
-    ],
+    "position": [315, 322],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      447,
-      455
-    ],
+    "position": [447, 455],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      459,
-      470
-    ],
+    "position": [459, 470],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "nhiễm trùng máu",
-    "position": [
-      621,
-      636
-    ],
+    "position": [621, 636],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

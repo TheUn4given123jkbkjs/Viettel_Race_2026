@@ -1,70 +1,42 @@
 [
   {
     "text": "Bỏng nắng",
-    "position": [
-      500,
-      509
-    ],
+    "position": [500, 509],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "L55",
-      "L55.0",
-      "L55.1"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      260,
-      267
-    ],
+    "position": [260, 267],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceft",
-    "position": [
-      269,
-      273
-    ],
+    "position": [269, 273],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "ECG",
-    "position": [
-      421,
-      424
-    ],
+    "position": [421, 424],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      438,
-      446
-    ],
+    "position": [438, 446],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP",
-    "position": [
-      461,
-      464
-    ],
+    "position": [461, 464],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

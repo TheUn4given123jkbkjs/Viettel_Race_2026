@@ -1,66 +1,44 @@
 [
   {
     "text": "sốt",
-    "position": [
-      194,
-      197
-    ],
+    "position": [194, 197],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [
-      312,
-      326
-    ],
+    "position": [312, 326],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm nước tiểu",
-    "position": [
-      328,
-      348
-    ],
+    "position": [328, 348],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp X-quang ngực",
-    "position": [
-      352,
-      369
-    ],
+    "position": [352, 369],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường",
-    "position": [
-      119,
-      133
-    ],
+    "position": [119, 133],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [
-      103,
-      115
-    ],
+    "position": [103, 115],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

@@ -4,7 +4,7 @@
     "position": [297, 308],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3098"]
+    "candidates": []
   },
   {
     "text": "Breast Carcinoma",
@@ -16,7 +16,7 @@
   {
     "text": "Chị V",
     "position": [98, 103],
-    "type": "NGƯỜI_THÂN",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isFamily"],
     "candidates": []
   },
@@ -46,7 +46,7 @@
     "position": [297, 307],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3098"]
+    "candidates": []
   },
   {
     "text": "các triệu chứng",

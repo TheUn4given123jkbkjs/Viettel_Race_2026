@@ -4,20 +4,20 @@
     "position": [352, 413],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["F11.98", "F11.99"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [466, 479],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Loratadine",
     "position": [513, 523],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["28889"]
+    "candidates": []
   }
 ]

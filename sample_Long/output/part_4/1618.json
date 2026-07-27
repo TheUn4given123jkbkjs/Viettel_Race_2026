@@ -1,60 +1,37 @@
 [
   {
     "text": "sốt",
-    "position": [
-      49,
-      52
-    ],
+    "position": [49, 52],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sưng nhức",
-    "position": [
-      64,
-      73
-    ],
+    "position": [64, 73],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dị vật tồn tại trong mô mềm",
-    "position": [
-      141,
-      168
-    ],
+    "position": [141, 168],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M79.5"
-    ]
+    "candidates": []
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
-    "position": [
-      179,
-      208
-    ],
+    "position": [179, 208],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "19711"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      226,
-      235
-    ],
+    "position": [226, 235],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

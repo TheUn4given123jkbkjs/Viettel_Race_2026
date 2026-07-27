@@ -11,38 +11,34 @@
     "position": [403, 411],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "F31.75",
-      "F31.76",
-      "F33.40"
-    ]
+    "candidates": []
   },
   {
     "text": "Enalapril",
     "position": [493, 502],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3827"]
+    "candidates": []
   },
   {
     "text": "Rối loạn hỗn hợp lo âu và trầm cảm",
     "position": [1043, 1077],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["F41.2"]
+    "candidates": []
   },
   {
     "text": "Amitriptyline",
     "position": [1099, 1112],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["704"]
+    "candidates": []
   },
   {
     "text": "Diazepam",
     "position": [1190, 1198],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3322"]
+    "candidates": []
   }
 ]

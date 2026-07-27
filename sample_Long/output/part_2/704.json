@@ -1,78 +1,51 @@
 [
   {
     "text": "nổi bọng nước",
-    "position": [
-      25,
-      38
-    ],
+    "position": [25, 38],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ung thư phổi",
-    "position": [
-      429,
-      441
-    ],
+    "position": [429, 441],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "D02.2"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "loét ở miệng",
-    "position": [
-      568,
-      580
-    ],
+    "position": [568, 580],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó nuốt",
-    "position": [
-      585,
-      593
-    ],
+    "position": [585, 593],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bọng nước nông",
-    "position": [
-      607,
-      621
-    ],
+    "position": [607, 621],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dấu hiệu Nikolsky dương tính",
-    "position": [
-      861,
-      889
-    ],
+    "position": [861, 889],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Pemphigus do thuốc",
-    "position": [
-      1046,
-      1064
-    ],
+    "position": [1046, 1064],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L10.5"
-    ]
+    "candidates": []
   }
 ]

@@ -1,84 +1,56 @@
 [
   {
     "text": "đau ngực",
-    "position": [
-      240,
-      248
-    ],
+    "position": [240, 248],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau ngực đè nặng",
-    "position": [
-      360,
-      376
-    ],
+    "position": [360, 376],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      476,
-      484
-    ],
+    "position": [476, 484],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ran ẩm",
-    "position": [
-      641,
-      647
-    ],
+    "position": [641, 647],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Huyết áp: 130/70 mmHg",
-    "position": [
-      545,
-      566
-    ],
+    "position": [545, 566],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      713,
-      721
-    ],
+    "position": [713, 721],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chụp X-quang ngực thẳng",
-    "position": [
-      754,
-      777
-    ],
+    "position": [754, 777],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 227.0 mg/L",
-    "position": [
-      978,
-      993
-    ],
+    "position": [978, 993],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

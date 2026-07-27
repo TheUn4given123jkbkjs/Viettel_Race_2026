@@ -1,78 +1,51 @@
 [
   {
     "text": "đau đầu rất dữ dội",
-    "position": [
-      280,
-      298
-    ],
+    "position": [280, 298],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      620,
-      628
-    ],
+    "position": [620, 628],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [
-      643,
-      652
-    ],
+    "position": [643, 652],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ù tai",
-    "position": [
-      654,
-      659
-    ],
+    "position": [654, 659],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đau đầu do gây tê tủy sống và ngoài màng cứng trong thời kỳ sau đẻ",
-    "position": [
-      1243,
-      1309
-    ],
+    "position": [1243, 1309],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O89.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Sodium chloride",
-    "position": [
-      2018,
-      2033
-    ],
+    "position": [2018, 2033],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "9863"
-    ]
+    "candidates": []
   },
   {
     "text": "Caffeine citrate",
-    "position": [
-      2102,
-      2118
-    ],
+    "position": [2102, 2118],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "20033"
-    ]
+    "candidates": []
   }
 ]

@@ -23,7 +23,7 @@
   {
     "text": "viêm dạ dày",
     "position": [159, 170],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
     "candidates": []
   },
@@ -32,12 +32,12 @@
     "position": [706, 743],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C88.7"]
+    "candidates": []
   },
   {
     "text": "ung thư đại trực tràng",
     "position": [264, 286],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
     "candidates": []
   }

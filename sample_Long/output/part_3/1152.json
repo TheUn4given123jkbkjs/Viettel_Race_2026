@@ -1,52 +1,30 @@
 [
   {
     "text": "Vú phì đại",
-    "position": [
-      175,
-      185
-    ],
+    "position": [175, 185],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "N62"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      290,
-      297
-    ],
+    "position": [290, 297],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      321,
-      332
-    ],
+    "position": [321, 332],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Abacavir",
-    "position": [
-      356,
-      364
-    ],
+    "position": [356, 364],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "190521"
-    ]
+    "candidates": []
   }
 ]

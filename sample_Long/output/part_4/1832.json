@@ -1,82 +1,51 @@
 [
   {
     "text": "Xylometazoline",
-    "position": [
-      70,
-      84
-    ],
+    "position": [70, 84],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "39841"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      193,
-      201
-    ],
+    "position": [193, 201],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [
-      248,
-      252
-    ],
+    "position": [248, 252],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      270,
-      278
-    ],
+    "position": [270, 278],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      295,
-      307
-    ],
+    "position": [295, 307],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ACS",
-    "position": [
-      329,
-      332
-    ],
+    "position": [329, 332],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      334,
-      341
-    ],
+    "position": [334, 341],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   }
 ]

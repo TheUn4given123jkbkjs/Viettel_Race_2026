@@ -1,56 +1,37 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [
-      109,
-      122
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [109, 122],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường",
-    "position": [
-      126,
-      140
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [126, 140],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      188,
-      200
-    ],
+    "position": [188, 200],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      204,
-      221
-    ],
+    "position": [204, 221],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "chảy máu sau tiếp xúc và giao hợp",
-    "position": [
-      249,
-      282
-    ],
+    "position": [249, 282],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N93.0"
-    ]
+    "candidates": []
   }
 ]

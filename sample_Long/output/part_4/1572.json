@@ -1,68 +1,42 @@
 [
   {
     "text": "Cycloserine",
-    "position": [
-      129,
-      140
-    ],
+    "position": [129, 140],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "3007"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      1001,
-      1012
-    ],
+    "position": [1001, 1012],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      1028,
-      1035
-    ],
+    "position": [1028, 1035],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      697,
-      705
-    ],
+    "position": [697, 705],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ESR",
-    "position": [
-      612,
-      615
-    ],
+    "position": [612, 615],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CK",
-    "position": [
-      679,
-      681
-    ],
+    "position": [679, 681],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

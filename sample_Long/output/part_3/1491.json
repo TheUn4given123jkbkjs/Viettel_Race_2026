@@ -1,38 +1,23 @@
 [
   {
     "text": "U xơ tuyến vú nữ, bên phải",
-    "position": [
-      113,
-      139
-    ],
+    "position": [113, 139],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N60.21"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      166,
-      179
-    ],
+    "position": [166, 179],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      183,
-      192
-    ],
+    "position": [183, 192],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

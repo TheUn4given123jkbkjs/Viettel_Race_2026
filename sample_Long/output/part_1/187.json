@@ -1,68 +1,37 @@
 [
   {
     "text": "Viêm nội tâm mạc cấp và bán cấp",
-    "position": [
-      577,
-      608
-    ],
+    "position": [577, 608],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "I33",
-      "I33.0"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Viêm màng bồ đào",
-    "position": [
-      610,
-      626
-    ],
+    "position": [610, 626],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "B00.54"
-    ]
+    "candidates": []
   },
   {
     "text": "Viêm giác mạc",
-    "position": [
-      633,
-      646
-    ],
+    "position": [633, 646],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.31",
-      "B00.52",
-      "B02.34"
-    ]
+    "candidates": []
   },
   {
     "text": "tình trạng nhìn đôi và đau nhức tai",
-    "position": [
-      52,
-      87
-    ],
+    "position": [52, 87],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm nội tâm mạc cấp và bán cấp",
-    "position": [
-      577,
-      608
-    ],
+    "position": [577, 608],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "I33",
-      "I33.0"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   }
 ]

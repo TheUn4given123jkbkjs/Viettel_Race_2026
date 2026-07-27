@@ -1,90 +1,58 @@
 [
   {
     "text": "tiểubuốt",
-    "position": [
-      129,
-      137
-    ],
+    "position": [129, 137],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "dịch niệu đạo",
-    "position": [
-      202,
-      215
-    ],
+    "position": [202, 215],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm lậu cầu",
-    "position": [
-      270,
-      288
-    ],
+    "position": [270, 288],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "âm tính",
-    "position": [
-      354,
-      361
-    ],
+    "position": [354, 361],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      375,
-      384
-    ],
+    "position": [375, 384],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Viêm niệu đạo không đặc hiệu",
-    "position": [
-      924,
-      952
-    ],
+    "position": [924, 952],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N34.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Azithromycin",
-    "position": [
-      1788,
-      1800
-    ],
+    "position": [1788, 1800],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "18631"
-    ]
+    "candidates": []
   },
   {
     "text": "Doxycycline",
-    "position": [
-      1918,
-      1929
-    ],
+    "position": [1918, 1929],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3640"
-    ]
+    "candidates": []
   }
 ]

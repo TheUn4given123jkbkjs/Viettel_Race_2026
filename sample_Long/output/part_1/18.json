@@ -1,62 +1,42 @@
 [
   {
     "text": "đau quặn vùng bụng dưới",
-    "position": [
-      64,
-      87
-    ],
+    "position": [64, 87],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khí hư",
-    "position": [
-      162,
-      168
-    ],
+    "position": [162, 168],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      254,
-      257
-    ],
+    "position": [254, 257],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "WBC tăng cao",
-    "position": [
-      698,
-      710
-    ],
+    "position": [698, 710],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm phúc mạc vùng chậu nữ, không đặc hiệu",
-    "position": [
-      738,
-      780
-    ],
+    "position": [738, 780],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N73.5"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone 1g: 2 lọ/ngày, truyền tĩnh mạch",
-    "position": [
-      994,
-      1037
-    ],
+    "position": [994, 1037],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,27 +1,16 @@
 [
   {
     "text": "Viêm phổi do tác nhân nhiễm khuẩn khác",
-    "position": [
-      99,
-      137
-    ],
+    "position": [99, 137],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J16",
-      "J16.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      227,
-      234
-    ],
+    "position": [227, 234],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   }
 ]

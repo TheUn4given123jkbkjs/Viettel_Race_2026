@@ -4,7 +4,7 @@
     "position": [323, 332],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["J45"]
+    "candidates": []
   },
   {
     "text": "yếu cánh tay phải",
@@ -39,20 +39,20 @@
     "position": [2372, 2403],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G54.0"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
     "position": [2596, 2608],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": []
   },
   {
     "text": "Amitriptyline",
     "position": [2770, 2783],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["704"]
+    "candidates": []
   }
 ]

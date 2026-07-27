@@ -1,74 +1,49 @@
 [
   {
     "text": "Đau đầu",
-    "position": [
-      110,
-      117
-    ],
+    "position": [110, 117],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [
-      131,
-      140
-    ],
+    "position": [131, 140],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      225,
-      228
-    ],
+    "position": [225, 228],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      239,
-      247
-    ],
+    "position": [239, 247],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "bạch cầu 26.7",
-    "position": [
-      538,
-      551
-    ],
+    "position": [538, 551],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 227.0 mg/L",
-    "position": [
-      553,
-      568
-    ],
+    "position": [553, 568],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT sọ",
-    "position": [
-      709,
-      714
-    ],
+    "position": [709, 714],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

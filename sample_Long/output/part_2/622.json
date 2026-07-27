@@ -1,82 +1,49 @@
 [
   {
     "text": "khó thở",
-    "position": [
-      333,
-      340
-    ],
+    "position": [333, 340],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nhồi máu cơ tim",
-    "position": [
-      855,
-      870
-    ],
+    "position": [855, 870],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "I21",
-      "I21.0",
-      "I21.1"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau ngực dữ dội",
-    "position": [
-      1093,
-      1108
-    ],
+    "position": [1093, 1108],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Bệnh cơ tim",
-    "position": [
-      1612,
-      1623
-    ],
+    "position": [1612, 1623],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "A36.81",
-      "I11.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Albendazole 400mg",
-    "position": [
-      1896,
-      1913
-    ],
+    "position": [1896, 1913],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Enalapril 5mg",
-    "position": [
-      2100,
-      2113
-    ],
+    "position": [2100, 2113],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Spironolactone 25mg",
-    "position": [
-      2157,
-      2176
-    ],
+    "position": [2157, 2176],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,38 +1,23 @@
 [
   {
     "text": "Hội chứng viêm thận tiến triển, không xác định",
-    "position": [
-      53,
-      99
-    ],
+    "position": [53, 99],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N01.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [
-      319,
-      332
-    ],
+    "position": [319, 332],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "167"
-    ]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [
-      335,
-      345
-    ],
+    "position": [335, 345],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "17767"
-    ]
+    "candidates": []
   }
 ]

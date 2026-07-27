@@ -1,68 +1,42 @@
 [
   {
     "text": "Cơn đau thắt ngực không ổn định",
-    "position": [
-      1708,
-      1739
-    ],
+    "position": [1708, 1739],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I20.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      1759,
-      1766
-    ],
+    "position": [1759, 1766],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Nitroglycerin",
-    "position": [
-      1770,
-      1783
-    ],
+    "position": [1770, 1783],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4917"
-    ]
+    "candidates": []
   },
   {
     "text": "Atenolol",
-    "position": [
-      1787,
-      1795
-    ],
+    "position": [1787, 1795],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1202"
-    ]
+    "candidates": []
   },
   {
     "text": "Metoprolol",
-    "position": [
-      1799,
-      1809
-    ],
+    "position": [1799, 1809],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Clopidogrel",
-    "position": [
-      1813,
-      1824
-    ],
+    "position": [1813, 1824],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

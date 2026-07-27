@@ -1,44 +1,28 @@
 [
   {
     "text": "Tropicamide",
-    "position": [
-      125,
-      136
-    ],
+    "position": [125, 136],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "10869"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "glaucome",
-    "position": [
-      175,
-      183
-    ],
+    "position": [175, 183],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "teo dây thần kinh thị giác",
-    "position": [
-      544,
-      570
-    ],
+    "position": [544, 570],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "giảm thị lực",
-    "position": [
-      574,
-      586
-    ],
+    "position": [574, 586],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

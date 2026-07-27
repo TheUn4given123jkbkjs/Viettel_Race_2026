@@ -1,94 +1,63 @@
 [
   {
     "text": "đau đầu vùng thái dương trái",
-    "position": [
-      78,
-      106
-    ],
+    "position": [78, 106],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      154,
-      162
-    ],
+    "position": [154, 162],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đột quỵ não",
-    "position": [
-      274,
-      285
-    ],
+    "position": [274, 285],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau dạ dày",
-    "position": [
-      838,
-      848
-    ],
+    "position": [838, 848],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "đau tức ngực trái lan ra sau lưng",
-    "position": [
-      1045,
-      1078
-    ],
+    "position": [1045, 1078],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Huyết áp: 150/90 mmHg",
-    "position": [
-      1296,
-      1317
-    ],
+    "position": [1296, 1317],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 12.5",
-    "position": [
-      1602,
-      1615
-    ],
+    "position": [1602, 1615],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 15.2 mg/L",
-    "position": [
-      1680,
-      1694
-    ],
+    "position": [1680, 1694],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT Scanner động mạch chủ ngực",
-    "position": [
-      2440,
-      2469
-    ],
+    "position": [2440, 2469],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

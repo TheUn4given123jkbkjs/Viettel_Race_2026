@@ -4,12 +4,12 @@
     "position": [40, 50],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3274"]
+    "candidates": []
   },
   {
     "text": "huyết áp cao",
     "position": [65, 77],
-    "type": "BỆNH_NỀN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },

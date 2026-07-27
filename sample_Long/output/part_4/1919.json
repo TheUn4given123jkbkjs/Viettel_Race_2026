@@ -1,62 +1,37 @@
 [
   {
     "text": "Đông máu rải rác trong lòng mạch của thai và trẻ sơ sinh",
-    "position": [
-      154,
-      210
-    ],
+    "position": [154, 210],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P60"
-    ]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      73,
-      86
-    ],
+    "position": [73, 86],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      267,
-      276
-    ],
+    "position": [267, 276],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không buồn nôn",
-    "position": [
-      288,
-      302
-    ],
+    "position": [288, 302],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      112,
-      115
-    ],
-    "type": "BỆNH",
-    "assertions": [
-      "isHistorical"
-    ],
+    "position": [112, 115],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

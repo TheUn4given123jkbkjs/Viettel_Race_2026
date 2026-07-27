@@ -2,7 +2,7 @@
   {
     "text": "viêm phế quản mạn tính",
     "position": [457, 479],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
     "candidates": []
   },
@@ -16,7 +16,7 @@
   {
     "text": "viêm phổi do virus",
     "position": [559, 577],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
     "candidates": []
   },

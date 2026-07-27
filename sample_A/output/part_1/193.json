@@ -4,11 +4,7 @@
     "position": [30, 43],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Đau thắt lưng",
@@ -36,13 +32,13 @@
     "position": [258, 281],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C72.1"]
+    "candidates": []
   },
   {
     "text": "Morphine",
     "position": [293, 301],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7052"]
+    "candidates": []
   }
 ]

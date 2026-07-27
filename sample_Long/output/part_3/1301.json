@@ -1,94 +1,58 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [
-      89,
-      102
-    ],
+    "position": [89, 102],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh phổi tắc nghẽn mãn tính",
-    "position": [
-      201,
-      229
-    ],
+    "position": [201, 229],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "J44",
-      "J44.0",
-      "J44.1"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau đầu gối",
-    "position": [
-      447,
-      458
-    ],
+    "position": [447, 458],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      524,
-      536
-    ],
+    "position": [524, 536],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khóp gối",
-    "position": [
-      709,
-      717
-    ],
+    "position": [709, 717],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "MRI khớp gối",
-    "position": [
-      881,
-      893
-    ],
+    "position": [881, 893],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rách dây chằng chéo trước",
-    "position": [
-      917,
-      942
-    ],
+    "position": [917, 942],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh khớp do chấn thương",
-    "position": [
-      1044,
-      1068
-    ],
+    "position": [1044, 1068],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M12.5"
-    ]
+    "candidates": []
   }
 ]

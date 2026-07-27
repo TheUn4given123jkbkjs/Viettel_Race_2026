@@ -1,90 +1,51 @@
 [
   {
     "text": "lao phổi",
-    "position": [
-      21,
-      29
-    ],
+    "position": [21, 29],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "J65",
-      "Z11.1",
-      "A15.0"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Đau cột sống thắt lưng",
-    "position": [
-      66,
-      88
-    ],
+    "position": [66, 88],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt nhẹ",
-    "position": [
-      115,
-      122
-    ],
+    "position": [115, 122],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "MRI",
-    "position": [
-      169,
-      172
-    ],
+    "position": [169, 172],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh cột sống trong các bệnh nhiễm khuẩn và ký sinh vật, đã xếp loại ở mục khác",
-    "position": [
-      219,
-      298
-    ],
+    "position": [219, 298],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M49.3*",
-      "M49.30*",
-      "M49.31*"
-    ]
+    "candidates": []
   },
   {
     "text": "Ethambutol",
-    "position": [
-      338,
-      348
-    ],
+    "position": [338, 348],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "821005",
-      "814321",
-      "4110"
-    ]
+    "candidates": []
   },
   {
     "text": "Rifampin",
-    "position": [
-      352,
-      360
-    ],
+    "position": [352, 360],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "814321",
-      "214662",
-      "9384"
-    ]
+    "candidates": []
   }
 ]

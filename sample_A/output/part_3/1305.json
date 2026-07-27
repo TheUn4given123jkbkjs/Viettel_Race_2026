@@ -4,32 +4,28 @@
     "position": [0, 21],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "A02",
-      "A02.8",
-      "A02.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Amoxicillin",
     "position": [536, 547],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["723", "19711"]
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
     "position": [551, 564],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2551"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [1180, 1193],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Bố",

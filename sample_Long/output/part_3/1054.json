@@ -1,38 +1,23 @@
 [
   {
     "text": "Viêm bao hoạt dịch do thấp",
-    "position": [
-      194,
-      220
-    ],
+    "position": [194, 220],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M06.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [
-      294,
-      304
-    ],
+    "position": [294, 304],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3355"
-    ]
+    "candidates": []
   },
   {
     "text": "Allopurinol",
-    "position": [
-      336,
-      347
-    ],
+    "position": [336, 347],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "519"
-    ]
+    "candidates": []
   }
 ]

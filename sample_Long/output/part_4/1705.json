@@ -1,44 +1,28 @@
 [
   {
     "text": "Viêm màng ngoài tim do thấp cấp",
-    "position": [
-      87,
-      118
-    ],
+    "position": [87, 118],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I01.0"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      469,
-      486
-    ],
+    "position": [469, 486],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      30,
-      38
-    ],
+    "position": [30, 38],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      42,
-      49
-    ],
+    "position": [42, 49],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

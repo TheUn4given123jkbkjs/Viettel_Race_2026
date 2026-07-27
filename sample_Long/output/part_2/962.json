@@ -1,41 +1,29 @@
 [
   {
     "text": "tiền sử bệnh nội khoa",
-    "position": [
-      25,
-      46
-    ],
+    "position": [25, 46],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tai nạn giao thông",
-    "position": [
-      83,
-      101
-    ],
+    "position": [83, 101],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau lưng",
-    "position": [
-      135,
-      143
-    ],
+    "position": [135, 143],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "theo dõi lối sống",
-    "position": [
-      180,
-      197
-    ],
-    "type": "Y_LỄNH",
+    "position": [180, 197],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

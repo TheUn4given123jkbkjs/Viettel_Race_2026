@@ -9,7 +9,7 @@
   {
     "text": "tháng 3 năm ngoái",
     "position": [118, 135],
-    "type": "LỊCH_SỬ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isHistorical"],
     "candidates": []
   },
@@ -39,13 +39,13 @@
     "position": [767, 774],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
     "position": [797, 808],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   }
 ]

@@ -4,18 +4,14 @@
     "position": [187, 197],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "214671",
-      "687428",
-      "11413"
-    ]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
     "position": [105, 113],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "candidates": []
   },
   {
     "text": "HIV",

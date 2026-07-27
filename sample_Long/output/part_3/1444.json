@@ -1,84 +1,56 @@
 [
   {
     "text": "đau ngực khi gắng sức",
-    "position": [
-      197,
-      218
-    ],
+    "position": [197, 218],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau ngực vùng sau xương ức",
-    "position": [
-      320,
-      346
-    ],
+    "position": [320, 346],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      466,
-      473
-    ],
+    "position": [466, 473],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      515,
-      523
-    ],
+    "position": [515, 523],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (EKG)",
-    "position": [
-      702,
-      719
-    ],
+    "position": [702, 719],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đoạn ST chênh lên",
-    "position": [
-      742,
-      759
-    ],
+    "position": [742, 759],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin I",
-    "position": [
-      797,
-      807
-    ],
+    "position": [797, 807],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.5 ng/mL",
-    "position": [
-      846,
-      855
-    ],
+    "position": [846, 855],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

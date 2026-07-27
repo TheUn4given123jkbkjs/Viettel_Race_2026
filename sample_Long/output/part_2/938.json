@@ -1,96 +1,58 @@
 [
   {
     "text": "Pemphigus thông thường",
-    "position": [
-      769,
-      791
-    ],
+    "position": [769, 791],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L10.0"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh vảy nến",
-    "position": [
-      1226,
-      1238
-    ],
+    "position": [1226, 1238],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "L40.51",
-      "L40.54",
-      "L40.59"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "bóng nước",
-    "position": [
-      690,
-      699
-    ],
+    "position": [690, 699],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dấu hiệu Nikolsky dương tính",
-    "position": [
-      1773,
-      1801
-    ],
+    "position": [1773, 1801],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vết trợt da",
-    "position": [
-      1895,
-      1906
-    ],
+    "position": [1895, 1906],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Prednisolone",
-    "position": [
-      2531,
-      2543
-    ],
+    "position": [2531, 2543],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8638"
-    ]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [
-      2879,
-      2889
-    ],
+    "position": [2879, 2889],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "17767"
-    ]
+    "candidates": []
   },
   {
     "text": "Chlorhexidine",
-    "position": [
-      2969,
-      2982
-    ],
+    "position": [2969, 2982],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2358"
-    ]
+    "candidates": []
   }
 ]

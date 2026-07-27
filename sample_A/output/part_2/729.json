@@ -4,20 +4,20 @@
     "position": [18, 31],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["C37"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [241, 254],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
     "position": [281, 293],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": []
   }
 ]

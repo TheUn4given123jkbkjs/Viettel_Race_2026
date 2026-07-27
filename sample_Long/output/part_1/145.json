@@ -1,86 +1,56 @@
 [
   {
     "text": "đau bụng vùng hạ sườn phải",
-    "position": [
-      204,
-      230
-    ],
+    "position": [204, 230],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau âm ỉ vùng thượng vị",
-    "position": [
-      439,
-      462
-    ],
+    "position": [439, 462],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "gầy sút cân",
-    "position": [
-      581,
-      592
-    ],
+    "position": [581, 592],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      730,
-      738
-    ],
+    "position": [730, 738],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      753,
-      762
-    ],
+    "position": [753, 762],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "CEA",
-    "position": [
-      1326,
-      1329
-    ],
+    "position": [1326, 1329],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "12.5 ng/mL",
-    "position": [
-      1338,
-      1348
-    ],
+    "position": [1338, 1348],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khối giảm âm không đồng nhất tại vùng thân tụy",
-    "position": [
-      1435,
-      1481
-    ],
+    "position": [1435, 1481],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

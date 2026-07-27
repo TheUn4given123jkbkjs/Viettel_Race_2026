@@ -1,82 +1,56 @@
 [
   {
     "text": "sốt",
-    "position": [
-      81,
-      84
-    ],
+    "position": [81, 84],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      95,
-      103
-    ],
+    "position": [95, 103],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      108,
-      115
-    ],
+    "position": [108, 115],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết đồ",
-    "position": [
-      296,
-      304
-    ],
+    "position": [296, 304],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sinh hóa",
-    "position": [
-      306,
-      314
-    ],
+    "position": [306, 314],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      330,
-      338
-    ],
+    "position": [330, 338],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm",
-    "position": [
-      393,
-      397
-    ],
+    "position": [393, 397],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rối loạn chức năng tim",
-    "position": [
-      401,
-      423
-    ],
+    "position": [401, 423],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

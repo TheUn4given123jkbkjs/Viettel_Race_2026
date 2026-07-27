@@ -1,82 +1,51 @@
 [
   {
     "text": "Acyclovir",
-    "position": [
-      230,
-      239
-    ],
+    "position": [230, 239],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "281"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "bệnh gan mạn tính",
-    "position": [
-      167,
-      184
-    ],
+    "position": [167, 184],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm tai giữa",
-    "position": [
-      469,
-      482
-    ],
+    "position": [469, 482],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "B05.3†",
-      "H65",
-      "H65.0"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [
-      78,
-      85
-    ],
+    "position": [78, 85],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau họng",
-    "position": [
-      87,
-      95
-    ],
+    "position": [87, 95],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [
-      99,
-      108
-    ],
+    "position": [99, 108],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không có cải thiện",
-    "position": [
-      617,
-      635
-    ],
+    "position": [617, 635],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

@@ -11,7 +11,7 @@
     "position": [1671, 1687],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["1901"]
+    "candidates": []
   },
   {
     "text": "siêu âm",
@@ -32,10 +32,6 @@
     "position": [883, 893],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K91",
-      "K91.0",
-      "K91.1"
-    ]
+    "candidates": []
   }
 ]

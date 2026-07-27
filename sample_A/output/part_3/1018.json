@@ -4,24 +4,20 @@
     "position": [164, 194],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["B74.1", "B74.2"]
+    "candidates": []
   },
   {
     "text": "Artesunate",
     "position": [538, 548],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "18346",
-      "711398",
-      "1429947"
-    ]
+    "candidates": []
   },
   {
     "text": "Ivermectin",
     "position": [552, 562],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6069"]
+    "candidates": []
   }
 ]

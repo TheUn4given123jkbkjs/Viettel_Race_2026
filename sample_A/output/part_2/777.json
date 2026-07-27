@@ -4,7 +4,7 @@
     "position": [31, 44],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
@@ -25,11 +25,7 @@
     "position": [68, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M17",
-      "M17.0",
-      "M17.1"
-    ]
+    "candidates": []
   },
   {
     "text": "xét nghiệm men gan",

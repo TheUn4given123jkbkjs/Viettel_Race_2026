@@ -1,72 +1,49 @@
 [
   {
     "text": "khó thở khi gắng sức",
-    "position": [
-      26,
-      46
-    ],
+    "position": [26, 46],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Đau ngực trái bóp nghẹt lan lên vai trái",
-    "position": [
-      319,
-      359
-    ],
+    "position": [319, 359],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [
-      284,
-      293
-    ],
+    "position": [284, 293],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 26.7",
-    "position": [
-      1280,
-      1293
-    ],
+    "position": [1280, 1293],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 227.0 mg/L",
-    "position": [
-      1310,
-      1325
-    ],
+    "position": [1310, 1325],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ngực thẳng",
-    "position": [
-      1572,
-      1590
-    ],
+    "position": [1572, 1590],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chụp CT sọ não",
-    "position": [
-      1651,
-      1665
-    ],
+    "position": [1651, 1665],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

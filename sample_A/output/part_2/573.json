@@ -4,52 +4,48 @@
     "position": [448, 476],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A54.86"]
+    "candidates": []
   },
   {
     "text": "Abacavir",
     "position": [283, 291],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [293, 306],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Albendazole",
     "position": [310, 321],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["430"]
+    "candidates": []
   },
   {
     "text": "Acyclovir",
     "position": [373, 382],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["281"]
+    "candidates": []
   },
   {
     "text": "Amoxicillin",
     "position": [386, 397],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["723", "19711"]
+    "candidates": []
   },
   {
     "text": "Nhiễm trùng huyết",
     "position": [448, 465],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "A54.86",
-      "I89",
-      "I89.8"
-    ]
+    "candidates": []
   }
 ]

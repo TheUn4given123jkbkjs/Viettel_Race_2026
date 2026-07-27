@@ -1,62 +1,42 @@
 [
   {
     "text": "ngứa",
-    "position": [
-      90,
-      94
-    ],
+    "position": [90, 94],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mảng da đỏ",
-    "position": [
-      107,
-      117
-    ],
+    "position": [107, 117],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      148,
-      165
-    ],
+    "position": [148, 165],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu toàn bộ",
-    "position": [
-      484,
-      506
-    ],
+    "position": [484, 506],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm chức năng gan",
-    "position": [
-      508,
-      532
-    ],
+    "position": [508, 532],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm dị nguyên",
-    "position": [
-      607,
-      627
-    ],
+    "position": [607, 627],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

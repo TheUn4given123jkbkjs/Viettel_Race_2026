@@ -1,56 +1,37 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [
-      200,
-      213
-    ],
+    "position": [200, 213],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường type 2",
-    "position": [
-      217,
-      234
-    ],
+    "position": [217, 234],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      247,
-      264
-    ],
+    "position": [247, 264],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [
-      355,
-      362
-    ],
+    "position": [355, 362],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các Nhiễm trùng đường hô hấp trên cấp khác ở nhiều vị trí",
-    "position": [
-      502,
-      559
-    ],
+    "position": [502, 559],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J06.8"
-    ]
+    "candidates": []
   }
 ]

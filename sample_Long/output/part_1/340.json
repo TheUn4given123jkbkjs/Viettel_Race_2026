@@ -1,94 +1,58 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [
-      62,
-      75
-    ],
+    "position": [62, 75],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [
-      112,
-      121
-    ],
+    "position": [112, 121],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      142,
-      150
-    ],
+    "position": [142, 150],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      203,
-      206
-    ],
+    "position": [203, 206],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "bình thườg",
-    "position": [
-      233,
-      243
-    ],
+    "position": [233, 243],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nghẽn tắc và hẹp nhiềudộng mạch não hai bên",
-    "position": [
-      256,
-      299
-    ],
+    "position": [256, 299],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      311,
-      318
-    ],
+    "position": [311, 318],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Atorvastatin",
-    "position": [
-      322,
-      334
-    ],
+    "position": [322, 334],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "83367"
-    ]
+    "candidates": []
   }
 ]

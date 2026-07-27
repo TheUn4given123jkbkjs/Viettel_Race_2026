@@ -1,28 +1,16 @@
 [
   {
     "text": "Tắc mạch sản khoa",
-    "position": [
-      78,
-      95
-    ],
+    "position": [78, 95],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O88",
-      "O88.0",
-      "O88.2"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      430,
-      447
-    ],
+    "position": [430, 447],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

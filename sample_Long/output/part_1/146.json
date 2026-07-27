@@ -1,64 +1,44 @@
 [
   {
     "text": "đa niệu",
-    "position": [
-      195,
-      202
-    ],
+    "position": [195, 202],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đa khát",
-    "position": [
-      220,
-      227
-    ],
+    "position": [220, 227],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      281,
-      288
-    ],
+    "position": [281, 288],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm đường huyết đói",
-    "position": [
-      550,
-      576
-    ],
+    "position": [550, 576],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "fBS: 8.4 mmol/L",
-    "position": [
-      653,
-      668
-    ],
+    "position": [653, 668],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tièn sử THA",
-    "position": [
-      749,
-      760
-    ],
+    "position": [749, 760],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

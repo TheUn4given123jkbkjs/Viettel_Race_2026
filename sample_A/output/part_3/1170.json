@@ -2,7 +2,7 @@
   {
     "text": "Nhiễm trùng đường hô hấp cấp",
     "position": [0, 28],
-    "type": "TÊN_BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
     "candidates": []
   },
@@ -11,18 +11,14 @@
     "position": [1040, 1051],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["723", "19711"]
+    "candidates": []
   },
   {
     "text": "Penicillin",
     "position": [1239, 1249],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": [
-      "7982",
-      "7980",
-      "7983"
-    ]
+    "candidates": []
   },
   {
     "text": "Buồn nôn",

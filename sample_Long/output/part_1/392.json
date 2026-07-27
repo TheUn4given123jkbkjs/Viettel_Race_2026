@@ -1,62 +1,42 @@
 [
   {
     "text": "THA",
-    "position": [
-      70,
-      73
-    ],
+    "position": [70, 73],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      557,
-      570
-    ],
+    "position": [557, 570],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốc",
-    "position": [
-      401,
-      404
-    ],
+    "position": [401, 404],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "máu",
-    "position": [
-      462,
-      465
-    ],
+    "position": [462, 465],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "điện tim",
-    "position": [
-      607,
-      615
-    ],
+    "position": [607, 615],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm tim",
-    "position": [
-      769,
-      780
-    ],
+    "position": [769, 780],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

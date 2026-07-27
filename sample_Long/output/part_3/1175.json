@@ -1,62 +1,37 @@
 [
   {
     "text": "Bệnh khớp nhiễm bột (E85.-†), bàn tay",
-    "position": [
-      0,
-      37
-    ],
+    "position": [0, 37],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M14.44*"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      240,
-      253
-    ],
+    "position": [240, 253],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      267,
-      276
-    ],
+    "position": [267, 276],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
-    "position": [
-      374,
-      386
-    ],
+    "position": [374, 386],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8638"
-    ]
+    "candidates": []
   },
   {
     "text": "Azathioprine",
-    "position": [
-      400,
-      412
-    ],
+    "position": [400, 412],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1256"
-    ]
+    "candidates": []
   }
 ]

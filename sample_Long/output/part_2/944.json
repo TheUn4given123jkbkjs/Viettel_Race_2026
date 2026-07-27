@@ -1,86 +1,56 @@
 [
   {
     "text": "đau vùng thượng vị",
-    "position": [
-      127,
-      145
-    ],
+    "position": [127, 145],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đầy bụng",
-    "position": [
-      196,
-      204
-    ],
+    "position": [196, 204],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      264,
-      273
-    ],
+    "position": [264, 273],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      305,
-      313
-    ],
+    "position": [305, 313],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau bụng vùng thượng vị",
-    "position": [
-      492,
-      515
-    ],
+    "position": [492, 515],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Tổng phân tích tế bào máu ngoại vi",
-    "position": [
-      1074,
-      1108
-    ],
+    "position": [1074, 1108],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "10.5 G/L",
-    "position": [
-      1147,
-      1155
-    ],
+    "position": [1147, 1155],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hình ảnh túi mật co nhỏ",
-    "position": [
-      1202,
-      1225
-    ],
+    "position": [1202, 1225],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

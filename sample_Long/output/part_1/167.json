@@ -1,62 +1,37 @@
 [
   {
     "text": "Viêm bàng quang mạn khác",
-    "position": [
-      77,
-      101
-    ],
+    "position": [77, 101],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "N30.2"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      124,
-      134
-    ],
+    "position": [124, 134],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      230,
-      233
-    ],
+    "position": [230, 233],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      358,
-      366
-    ],
+    "position": [358, 366],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      372,
-      375
-    ],
+    "position": [372, 375],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

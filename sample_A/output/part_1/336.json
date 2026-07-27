@@ -4,31 +4,27 @@
     "position": [304, 347],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["B08.4", "B08.5"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [450, 463],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
     "position": [488, 500],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": []
   },
   {
     "text": "phổi tắc nghẽn mãn tính",
     "position": [371, 394],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J44",
-      "J44.0",
-      "J44.1"
-    ]
+    "candidates": []
   }
 ]

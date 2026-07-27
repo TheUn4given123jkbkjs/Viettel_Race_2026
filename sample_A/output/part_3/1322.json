@@ -1,41 +1,37 @@
 [
   {
     "text": "tiểu đường type 2",
-    "position": [76, 93],
+    "position": [73, 90],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Imipenem / Cilastatin",
-    "position": [329, 350],
+    "position": [326, 347],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["34482"]
+    "candidates": []
   },
   {
     "text": "Escherichia coli",
-    "position": [524, 540],
+    "position": [521, 537],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [97, 109],
+    "position": [94, 106],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cơ thể",
-    "position": [185, 191],
+    "position": [182, 188],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E14.0",
-      "E14.1",
-      "E14.2†"
-    ]
+    "candidates": []
   }
 ]

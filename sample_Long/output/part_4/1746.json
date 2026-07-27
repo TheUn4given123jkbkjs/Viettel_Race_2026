@@ -1,110 +1,65 @@
 [
   {
     "text": "Xuất huyết nội sọ không do chấn thương, không đặc hiệu",
-    "position": [
-      326,
-      380
-    ],
+    "position": [326, 380],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I62.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Tăng huyết áp",
-    "position": [
-      768,
-      781
-    ],
+    "position": [768, 781],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đột quỵ não",
-    "position": [
-      913,
-      924
-    ],
+    "position": [913, 924],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "E88.31",
-      "G46.3*",
-      "G46.4*"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau đầu dữ dội",
-    "position": [
-      1089,
-      1103
-    ],
+    "position": [1089, 1103],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn vọt",
-    "position": [
-      1132,
-      1139
-    ],
+    "position": [1132, 1139],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT scanner sọ não",
-    "position": [
-      1623,
-      1640
-    ],
+    "position": [1623, 1640],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng tỷ trọng vùng nhân bèo trái",
-    "position": [
-      1691,
-      1723
-    ],
+    "position": [1691, 1723],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Mannitol",
-    "position": [
-      2179,
-      2187
-    ],
+    "position": [2179, 2187],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6628"
-    ]
+    "candidates": []
   },
   {
     "text": "Tranexamic acid",
-    "position": [
-      2266,
-      2281
-    ],
+    "position": [2266, 2281],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "10691"
-    ]
+    "candidates": []
   }
 ]

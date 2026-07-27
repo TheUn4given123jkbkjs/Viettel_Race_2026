@@ -1,81 +1,49 @@
 [
   {
     "text": "Viêm da dị ứng tiếp xúc do thực vật, ngoại trừ thực phẩm",
-    "position": [
-      0,
-      56
-    ],
+    "position": [0, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L23.7"
-    ]
+    "candidates": []
   },
   {
     "text": "hydrocortisone",
-    "position": [
-      322,
-      336
-    ],
+    "position": [322, 336],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5492",
-      "27197"
-    ]
+    "candidates": []
   },
   {
     "text": "loratadine",
-    "position": [
-      380,
-      390
-    ],
+    "position": [380, 390],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "28889"
-    ]
+    "candidates": []
   },
   {
     "text": "Viêm da dị ứng tiếp xúc do thực vật, ngoại trừ thực phẩm",
-    "position": [
-      0,
-      56
-    ],
+    "position": [0, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L23.7"
-    ]
+    "candidates": []
   },
   {
     "text": "da",
-    "position": [
-      5,
-      7
-    ],
+    "position": [5, 7],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm da dị ứng tiếp xúc do thực vật, ngoại trừ thực phẩm",
-    "position": [
-      0,
-      56
-    ],
+    "position": [0, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L23.7"
-    ]
+    "candidates": []
   },
   {
     "text": "thực vật",
-    "position": [
-      27,
-      35
-    ],
+    "position": [27, 35],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

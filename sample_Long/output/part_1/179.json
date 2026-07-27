@@ -1,76 +1,49 @@
 [
   {
     "text": "Triệu chứng",
-    "position": [
-      372,
-      383
-    ],
+    "position": [372, 383],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Tắc tĩnh mạch chi",
-    "position": [
-      48,
-      65
-    ],
+    "position": [48, 65],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I80.0",
-      "I80.2",
-      "I80.3"
-    ]
+    "candidates": []
   },
   {
     "text": "Xét nghiệm Doppler",
-    "position": [
-      657,
-      675
-    ],
+    "position": [657, 675],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm Ultrasound",
-    "position": [
-      679,
-      700
-    ],
+    "position": [679, 700],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm X-quang",
-    "position": [
-      704,
-      722
-    ],
+    "position": [704, 722],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thuốc giảm đau",
-    "position": [
-      876,
-      890
-    ],
+    "position": [876, 890],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thuốc chống viêm",
-    "position": [
-      894,
-      910
-    ],
+    "position": [894, 910],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

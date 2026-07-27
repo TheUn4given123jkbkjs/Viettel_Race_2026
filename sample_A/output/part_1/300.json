@@ -4,39 +4,35 @@
     "position": [130, 145],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["2118525"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
     "position": [81, 89],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "candidates": []
   },
   {
     "text": "sốt",
     "position": [93, 96],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "A92.30",
-      "R50.0",
-      "R50.1"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [635, 642],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
     "position": [652, 663],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "0,05 ng/mL",

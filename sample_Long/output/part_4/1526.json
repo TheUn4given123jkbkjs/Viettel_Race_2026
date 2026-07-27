@@ -1,52 +1,35 @@
 [
   {
     "text": "không buồn nôn",
-    "position": [
-      155,
-      169
-    ],
+    "position": [155, 169],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [
-      171,
-      179
-    ],
+    "position": [171, 179],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [
-      238,
-      252
-    ],
+    "position": [238, 252],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm phân",
-    "position": [
-      254,
-      269
-    ],
+    "position": [254, 269],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nội soi dạ dày",
-    "position": [
-      271,
-      285
-    ],
+    "position": [271, 285],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

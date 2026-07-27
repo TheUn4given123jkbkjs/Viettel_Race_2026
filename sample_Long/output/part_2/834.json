@@ -1,96 +1,58 @@
 [
   {
     "text": "Cúm kèm viêm phổi, virus không được định danh",
-    "position": [
-      894,
-      939
-    ],
+    "position": [894, 939],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J11.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Hen phế quản",
-    "position": [
-      552,
-      564
-    ],
+    "position": [552, 564],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "chưa ghi nhận co giật",
-    "position": [
-      746,
-      767
-    ],
+    "position": [746, 767],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      610,
-      619
-    ],
+    "position": [610, 619],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ran ẩm",
-    "position": [
-      647,
-      653
-    ],
+    "position": [647, 653],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang phổi",
-    "position": [
-      788,
-      800
-    ],
+    "position": [788, 800],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "WBC 14.2 G/L",
-    "position": [
-      857,
-      869
-    ],
+    "position": [857, 869],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tăng huyết áp",
-    "position": [
-      462,
-      475
-    ],
+    "position": [462, 475],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   }
 ]

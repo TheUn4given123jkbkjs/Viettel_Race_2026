@@ -1,58 +1,35 @@
 [
   {
     "text": "Mesna",
-    "position": [
-      210,
-      215
-    ],
+    "position": [210, 215],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "44"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      302,
-      309
-    ],
+    "position": [302, 309],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      387,
-      398
-    ],
+    "position": [387, 398],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      426,
-      434
-    ],
+    "position": [426, 434],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      102,
-      105
-    ],
+    "position": [102, 105],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

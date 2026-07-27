@@ -4,28 +4,28 @@
     "position": [80, 96],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["A54.42"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [246, 259],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
     "position": [263, 275],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": []
   },
   {
     "text": "Viêm khớp do lậu",
     "position": [80, 96],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["A54.42"]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
@@ -39,20 +39,20 @@
     "position": [80, 96],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["A54.42"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [246, 259],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
     "position": [263, 275],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": []
   }
 ]

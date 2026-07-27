@@ -4,30 +4,26 @@
     "position": [443, 506],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "D63.8",
-      "D63",
-      "D63*"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh thận mạn tính",
     "position": [104, 122],
-    "type": "BỆNH_NỀN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
     "position": [213, 225],
-    "type": "BỆNH_NỀN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường loại 2",
     "position": [229, 250],
-    "type": "BỆNH_NỀN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },

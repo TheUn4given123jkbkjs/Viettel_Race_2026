@@ -1,72 +1,44 @@
 [
   {
     "text": "Thiểu năng cận giáp tạm thời của trẻ sơ sinh",
-    "position": [
-      124,
-      168
-    ],
+    "position": [124, 168],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P71.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Hạ canxi máu",
-    "position": [
-      205,
-      217
-    ],
+    "position": [205, 217],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      239,
-      242
-    ],
+    "position": [239, 242],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "co giật",
-    "position": [
-      250,
-      257
-    ],
+    "position": [250, 257],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Calcium gluconate",
-    "position": [
-      286,
-      303
-    ],
+    "position": [286, 303],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1908"
-    ]
+    "candidates": []
   },
   {
     "text": "Vitamin A / Vitamin D",
-    "position": [
-      307,
-      328
-    ],
+    "position": [307, 328],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "97016"
-    ]
+    "candidates": []
   }
 ]

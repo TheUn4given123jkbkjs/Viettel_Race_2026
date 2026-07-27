@@ -1,72 +1,44 @@
 [
   {
     "text": "ngất",
-    "position": [
-      116,
-      120
-    ],
+    "position": [116, 120],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      149,
-      157
-    ],
+    "position": [149, 157],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      170,
-      178
-    ],
+    "position": [170, 178],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Hội chứng suy nút xoang",
-    "position": [
-      258,
-      281
-    ],
+    "position": [258, 281],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I49.5"
-    ]
+    "candidates": []
   },
   {
     "text": "Atropine",
-    "position": [
-      331,
-      339
-    ],
+    "position": [331, 339],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1223"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      371,
-      378
-    ],
+    "position": [371, 378],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   }
 ]

@@ -4,35 +4,35 @@
     "position": [139, 167],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["B26.3†"]
+    "candidates": []
   },
   {
     "text": "acetaminophen",
     "position": [316, 329],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "ranitidine",
     "position": [624, 634],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["9143"]
+    "candidates": []
   },
   {
     "text": "famotidine",
     "position": [723, 733],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4278"]
+    "candidates": []
   },
   {
     "text": "ondansetron",
     "position": [946, 957],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["26225"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",

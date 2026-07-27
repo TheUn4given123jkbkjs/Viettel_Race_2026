@@ -1,58 +1,35 @@
 [
   {
     "text": "Bệnh lý của nhiều van tim",
-    "position": [
-      184,
-      209
-    ],
+    "position": [184, 209],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I08"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      145,
-      152
-    ],
+    "position": [145, 152],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      108,
-      111
-    ],
+    "position": [108, 111],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      238,
-      249
-    ],
+    "position": [238, 249],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      353,
-      361
-    ],
+    "position": [353, 361],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

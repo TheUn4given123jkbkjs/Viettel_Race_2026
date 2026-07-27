@@ -1,69 +1,44 @@
 [
   {
     "text": "Hội chứng Down",
-    "position": [
-      128,
-      142
-    ],
+    "position": [128, 142],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "Q90",
-      "Q90.9"
-    ]
+    "candidates": []
   },
   {
     "text": "xơ cứng củ",
-    "position": [
-      204,
-      214
-    ],
+    "position": [204, 214],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "sẩn sừng",
-    "position": [
-      759,
-      767
-    ],
+    "position": [759, 767],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [
-      959,
-      963
-    ],
+    "position": [959, 963],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đào thải qua biểu bì của các sợi chun",
-    "position": [
-      1132,
-      1169
-    ],
+    "position": [1132, 1169],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh sợi chun đục lỗ ngoằn ngoèo",
-    "position": [
-      1239,
-      1271
-    ],
+    "position": [1239, 1271],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L87.2"
-    ]
+    "candidates": []
   }
 ]

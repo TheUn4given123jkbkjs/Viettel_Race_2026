@@ -1,84 +1,56 @@
 [
   {
     "text": "đau thắt ngực",
-    "position": [
-      261,
-      274
-    ],
+    "position": [261, 274],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau ngực vùng dưới xương ức",
-    "position": [
-      381,
-      408
-    ],
+    "position": [381, 408],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      475,
-      483
-    ],
+    "position": [475, 483],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Ran ẩm",
-    "position": [
-      864,
-      870
-    ],
+    "position": [864, 870],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Huyết áp: 145/90 mmHg",
-    "position": [
-      764,
-      785
-    ],
+    "position": [764, 785],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin 0.15",
-    "position": [
-      1006,
-      1019
-    ],
+    "position": [1006, 1019],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ngực",
-    "position": [
-      1133,
-      1145
-    ],
+    "position": [1133, 1145],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT sọ",
-    "position": [
-      1208,
-      1213
-    ],
+    "position": [1208, 1213],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,80 +1,49 @@
 [
   {
     "text": "không có tình trạng sốt",
-    "position": [
-      419,
-      442
-    ],
+    "position": [419, 442],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      342,
-      350
-    ],
+    "position": [342, 350],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [
-      943,
-      955
-    ],
+    "position": [943, 955],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Tăng sản ở ruột thừa",
-    "position": [
-      1687,
-      1707
-    ],
+    "position": [1687, 1707],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K38.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
-    "position": [
-      2199,
-      2228
-    ],
+    "position": [2199, 2228],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "19711"
-    ]
+    "candidates": []
   },
   {
     "text": "Alverine",
-    "position": [
-      2455,
-      2463
-    ],
+    "position": [2455, 2463],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "17627"
-    ]
+    "candidates": []
   },
   {
     "text": "đau âm ỉ ở vùng bụng dưới bên phải",
-    "position": [
-      74,
-      108
-    ],
+    "position": [74, 108],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

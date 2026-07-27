@@ -1,74 +1,49 @@
 [
   {
     "text": "đau ngực mạn tính",
-    "position": [
-      271,
-      288
-    ],
+    "position": [271, 288],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau ngực dữ dội",
-    "position": [
-      493,
-      508
-    ],
+    "position": [493, 508],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      671,
-      683
-    ],
+    "position": [671, 683],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      741,
-      749
-    ],
+    "position": [741, 749],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      1377,
-      1385
-    ],
+    "position": [1377, 1385],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 26.7",
-    "position": [
-      1488,
-      1501
-    ],
+    "position": [1488, 1501],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 227.0 mg/L",
-    "position": [
-      1553,
-      1568
-    ],
+    "position": [1553, 1568],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

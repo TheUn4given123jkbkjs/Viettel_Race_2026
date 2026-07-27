@@ -1,40 +1,23 @@
 [
   {
     "text": "Chấn thương hệ xương khi sinh",
-    "position": [
-      161,
-      190
-    ],
+    "position": [161, 190],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "P13"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      287,
-      300
-    ],
+    "position": [287, 300],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      304,
-      313
-    ],
+    "position": [304, 313],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

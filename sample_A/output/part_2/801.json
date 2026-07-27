@@ -4,7 +4,7 @@
     "position": [213, 226],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3264"]
+    "candidates": []
   },
   {
     "text": "đau đầu",
@@ -30,14 +30,14 @@
   {
     "text": "cao huyết áp",
     "position": [117, 129],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường loại 2",
     "position": [131, 152],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

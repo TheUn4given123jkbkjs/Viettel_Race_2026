@@ -4,21 +4,21 @@
     "position": [56, 88],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["A06.1"]
+    "candidates": []
   },
   {
     "text": "Metronidazole",
     "position": [751, 764],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6922"]
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
     "position": [898, 911],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2551"]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",

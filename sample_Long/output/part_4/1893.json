@@ -1,42 +1,28 @@
 [
   {
     "text": "Viêm da dị ứng tiếp xúc do mỹ phẩm",
-    "position": [
-      0,
-      34
-    ],
+    "position": [0, 34],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L23.2"
-    ]
+    "candidates": []
   },
   {
     "text": "ngứa",
-    "position": [
-      211,
-      215
-    ],
+    "position": [211, 215],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đỏ",
-    "position": [
-      217,
-      219
-    ],
+    "position": [217, 219],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mụn nước",
-    "position": [
-      224,
-      232
-    ],
+    "position": [224, 232],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

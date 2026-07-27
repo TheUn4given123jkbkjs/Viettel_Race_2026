@@ -1,70 +1,42 @@
 [
   {
     "text": "Quinine",
-    "position": [
-      262,
-      269
-    ],
+    "position": [262, 269],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "9071"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      592,
-      599
-    ],
+    "position": [592, 599],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Metformin",
-    "position": [
-      631,
-      640
-    ],
+    "position": [631, 640],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6809"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt rét",
-    "position": [
-      48,
-      55
-    ],
+    "position": [48, 55],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [
-      173,
-      186
-    ],
+    "position": [173, 186],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [
-      190,
-      200
-    ],
+    "position": [190, 200],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,62 +1,37 @@
 [
   {
     "text": "BCG Vaccine",
-    "position": [
-      119,
-      130
-    ],
+    "position": [119, 130],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "1344"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "sốt rét",
-    "position": [
-      46,
-      53
-    ],
+    "position": [46, 53],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh lao",
-    "position": [
-      145,
-      153
-    ],
+    "position": [145, 153],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "BCG Vaccine",
-    "position": [
-      119,
-      130
-    ],
+    "position": [119, 130],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1344"
-    ]
+    "candidates": []
   },
   {
     "text": "tác dụng phụ",
-    "position": [
-      182,
-      194
-    ],
+    "position": [182, 194],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "Y88.2",
-      "T88.6",
-      "T88.7"
-    ]
+    "candidates": []
   }
 ]

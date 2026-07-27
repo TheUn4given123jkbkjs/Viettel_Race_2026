@@ -2,7 +2,7 @@
   {
     "text": "ung thư hạch",
     "position": [5, 17],
-    "type": "TÊN_BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
@@ -11,11 +11,7 @@
     "position": [91, 104],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "C81.2",
-      "C83.0",
-      "C83.1"
-    ]
+    "candidates": []
   },
   {
     "text": "hạch bạch huyết",
@@ -29,7 +25,7 @@
     "position": [804, 816],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["8702"]
+    "candidates": []
   },
   {
     "text": "sưng hạch bạch huyết",

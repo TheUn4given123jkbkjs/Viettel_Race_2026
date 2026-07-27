@@ -1,68 +1,44 @@
 [
   {
     "text": "mệt mỏi",
-    "position": [
-      73,
-      80
-    ],
+    "position": [73, 80],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      83,
-      92
-    ],
+    "position": [83, 92],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      94,
-      111
-    ],
+    "position": [94, 111],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [
-      187,
-      207
-    ],
+    "position": [187, 207],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mức men gan tăng cao",
-    "position": [
-      280,
-      300
-    ],
+    "position": [280, 300],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bố bị bệnh tiểu đường",
-    "position": [
-      145,
-      166
-    ],
+    "position": [145, 166],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   }
 ]

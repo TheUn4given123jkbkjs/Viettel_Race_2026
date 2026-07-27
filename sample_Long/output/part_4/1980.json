@@ -1,38 +1,23 @@
 [
   {
     "text": "Biến dạng mắc phải của khung chậu",
-    "position": [
-      425,
-      458
-    ],
+    "position": [425, 458],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M95.5"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      467,
-      474
-    ],
+    "position": [467, 474],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      476,
-      487
-    ],
+    "position": [476, 487],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

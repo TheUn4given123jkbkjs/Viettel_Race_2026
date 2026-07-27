@@ -1,78 +1,44 @@
 [
   {
     "text": "Captopril",
-    "position": [
-      97,
-      106
-    ],
+    "position": [97, 106],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "1998"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      192,
-      209
-    ],
+    "position": [192, 209],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      336,
-      343
-    ],
+    "position": [336, 343],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      251,
-      259
-    ],
+    "position": [251, 259],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim",
-    "position": [
-      442,
-      450
-    ],
+    "position": [442, 450],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "A52.06",
-      "A36.81",
-      "E74.00"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      502,
-      513
-    ],
+    "position": [502, 513],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

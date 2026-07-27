@@ -1,76 +1,44 @@
 [
   {
     "text": "NPH Insulin",
-    "position": [
-      195,
-      206
-    ],
+    "position": [195, 206],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "317235"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      334,
-      351
-    ],
+    "position": [334, 351],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      463,
-      470
-    ],
+    "position": [463, 470],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      555,
-      566
-    ],
+    "position": [555, 566],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      644,
-      652
-    ],
+    "position": [644, 652],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhiễm trùng",
-    "position": [
-      579,
-      590
-    ],
+    "position": [579, 590],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A54.86",
-      "E76.29",
-      "J95.02"
-    ]
+    "candidates": []
   }
 ]

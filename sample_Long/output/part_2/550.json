@@ -1,80 +1,51 @@
 [
   {
     "text": "đau dạ dày mạn tính",
-    "position": [
-      26,
-      45
-    ],
+    "position": [26, 45],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Omeprazole",
-    "position": [
-      57,
-      67
-    ],
+    "position": [57, 67],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "7646"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đầy hơi",
-    "position": [
-      108,
-      115
-    ],
+    "position": [108, 115],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó tiêu",
-    "position": [
-      119,
-      127
-    ],
+    "position": [119, 127],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "loạn khuẩn đường ruột",
-    "position": [
-      242,
-      263
-    ],
+    "position": [242, 263],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nội soi dạ dày",
-    "position": [
-      336,
-      350
-    ],
+    "position": [336, 350],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm loét",
-    "position": [
-      378,
-      387
-    ],
+    "position": [378, 387],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A60.04",
-      "N77.8",
-      "I83.2"
-    ]
+    "candidates": []
   }
 ]

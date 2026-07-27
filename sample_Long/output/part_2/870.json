@@ -1,80 +1,49 @@
 [
   {
     "text": "COPD",
-    "position": [
-      22,
-      26
-    ],
+    "position": [22, 26],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      28,
-      41
-    ],
+    "position": [28, 41],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Oxygen",
-    "position": [
-      75,
-      81
-    ],
+    "position": [75, 81],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "7806"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      168,
-      175
-    ],
+    "position": [168, 175],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      215,
-      223
-    ],
+    "position": [215, 223],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Salbutamol",
-    "position": [
-      383,
-      393
-    ],
+    "position": [383, 393],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Prednisone",
-    "position": [
-      397,
-      407
-    ],
+    "position": [397, 407],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -25,31 +25,27 @@
     "position": [114, 120],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "H40",
-      "H40.0",
-      "H40.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Bệnh của lệ bộ và hốc mắt trong các bệnh phân loại nơi khác",
     "position": [134, 193],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["H06", "H06*"]
+    "candidates": []
   },
   {
     "text": "Dexamethasone",
     "position": [228, 241],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": []
   },
   {
     "text": "Levofloxacin",
     "position": [243, 255],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["82122"]
+    "candidates": []
   }
 ]

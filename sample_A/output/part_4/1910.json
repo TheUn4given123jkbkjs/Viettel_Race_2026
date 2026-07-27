@@ -4,25 +4,21 @@
     "position": [54, 65],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "C50",
-      "C50.0",
-      "C50.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [92, 105],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [126, 133],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "Troponin",

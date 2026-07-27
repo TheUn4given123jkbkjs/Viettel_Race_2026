@@ -1,74 +1,44 @@
 [
   {
     "text": "bệnh Crohn",
-    "position": [
-      74,
-      84
-    ],
+    "position": [74, 84],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "K50",
-      "K50.0",
-      "K50.8"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đau sưng nhiều ở vùng cẳng chân hai bên",
-    "position": [
-      163,
-      202
-    ],
+    "position": [163, 202],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      261,
-      270
-    ],
+    "position": [261, 270],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không nôn mửa",
-    "position": [
-      274,
-      287
-    ],
+    "position": [274, 287],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "X-quang cẳng chân",
-    "position": [
-      371,
-      388
-    ],
+    "position": [371, 388],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp trẻ em trong bệnh Crohn (viêm ruột đoạn] (K50.-†), cẳng chân",
-    "position": [
-      439,
-      509
-    ],
+    "position": [439, 509],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M09.16*"
-    ]
+    "candidates": []
   }
 ]

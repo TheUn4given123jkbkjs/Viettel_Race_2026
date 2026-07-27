@@ -4,25 +4,21 @@
     "position": [372, 386],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "A52.13",
-      "A52.14",
-      "A52.15"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [427, 440],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [444, 451],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "bệnh tim mạch",

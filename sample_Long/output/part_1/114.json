@@ -1,67 +1,42 @@
 [
   {
     "text": "Bệnh bụi phổi do bụi silic",
-    "position": [
-      227,
-      253
-    ],
+    "position": [227, 253],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J62.8",
-      "J62"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      300,
-      307
-    ],
+    "position": [300, 307],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      311,
-      324
-    ],
+    "position": [311, 324],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      398,
-      406
-    ],
+    "position": [398, 406],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      113,
-      120
-    ],
+    "position": [113, 120],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho kéo dài",
-    "position": [
-      122,
-      132
-    ],
+    "position": [122, 132],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

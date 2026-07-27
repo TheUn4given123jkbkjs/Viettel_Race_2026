@@ -1,90 +1,58 @@
 [
   {
     "text": "bệnh gan",
-    "position": [
-      271,
-      279
-    ],
+    "position": [271, 279],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau thắt ngực ổn định",
-    "position": [
-      130,
-      151
-    ],
+    "position": [130, 151],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I20.0"
-    ]
+    "candidates": []
   },
   {
     "text": "ECG",
-    "position": [
-      748,
-      751
-    ],
+    "position": [748, 751],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CBC",
-    "position": [
-      770,
-      773
-    ],
+    "position": [770, 773],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Biochemistry",
-    "position": [
-      797,
-      809
-    ],
+    "position": [797, 809],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      1030,
-      1037
-    ],
+    "position": [1030, 1037],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "atorvastatin",
-    "position": [
-      1105,
-      1117
-    ],
+    "position": [1105, 1117],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "83367"
-    ]
+    "candidates": []
   },
   {
     "text": "allopurinol",
-    "position": [
-      1184,
-      1195
-    ],
+    "position": [1184, 1195],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "519"
-    ]
+    "candidates": []
   }
 ]

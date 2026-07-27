@@ -1,54 +1,30 @@
 [
   {
     "text": "Viêm khớp trẻ em trong bệnh viêm loét đại tràng (K51.-†), cẳng tay",
-    "position": [
-      494,
-      560
-    ],
+    "position": [494, 560],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M09.23*"
-    ]
+    "candidates": []
   },
   {
     "text": "Bệnh nhân",
-    "position": [
-      23,
-      32
-    ],
+    "position": [23, 32],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Viêm khớp trẻ em",
-    "position": [
-      494,
-      510
-    ],
+    "position": [494, 510],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M09.1*",
-      "M09.10*",
-      "M09.11*"
-    ]
+    "candidates": []
   },
   {
     "text": "Viêm khớp trẻ em",
-    "position": [
-      494,
-      510
-    ],
+    "position": [494, 510],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M09.1*",
-      "M09.10*",
-      "M09.11*"
-    ]
+    "candidates": []
   }
 ]

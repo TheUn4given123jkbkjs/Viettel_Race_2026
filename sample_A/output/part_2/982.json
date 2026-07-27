@@ -4,27 +4,27 @@
     "position": [59, 75],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isHistorical"],
-    "candidates": ["B47.1"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [469, 482],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Cefazolin",
     "position": [484, 493],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2180"]
+    "candidates": []
   },
   {
     "text": "Metronidazole",
     "position": [495, 508],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6922"]
+    "candidates": []
   }
 ]

@@ -1,64 +1,37 @@
 [
   {
     "text": "Midazolam",
-    "position": [
-      58,
-      67
-    ],
+    "position": [58, 67],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "6960"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "hội chứng phụ thuộc thuốc",
-    "position": [
-      120,
-      145
-    ],
+    "position": [120, 145],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      369,
-      376
-    ],
+    "position": [369, 376],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Atenolol",
-    "position": [
-      382,
-      390
-    ],
+    "position": [382, 390],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1202"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [
-      323,
-      336
-    ],
+    "position": [323, 336],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": []
   }
 ]

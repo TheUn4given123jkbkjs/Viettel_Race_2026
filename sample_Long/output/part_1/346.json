@@ -1,88 +1,51 @@
 [
   {
     "text": "lạc nội mạc tử cung",
-    "position": [
-      154,
-      173
-    ],
+    "position": [154, 173],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "N80.4",
-      "N80.5",
-      "N80.6"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "ung thư cổ tử cung",
-    "position": [
-      301,
-      319
-    ],
+    "position": [301, 319],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "D06",
-      "D06.7",
-      "D06.9"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "khối u đau ở vùng âm hộ",
-    "position": [
-      434,
-      457
-    ],
+    "position": [434, 457],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      542,
-      550
-    ],
+    "position": [542, 550],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đau khi giao hợp",
-    "position": [
-      653,
-      669
-    ],
+    "position": [653, 669],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu hơi cao",
-    "position": [
-      1014,
-      1030
-    ],
+    "position": [1014, 1030],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chăm sóc bà mẹ vì bất thường của âm hộ và tầng sinh môn",
-    "position": [
-      1135,
-      1190
-    ],
+    "position": [1135, 1190],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O34.7"
-    ]
+    "candidates": []
   }
 ]

@@ -11,11 +11,7 @@
     "position": [160, 186],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G61.8",
-      "G62",
-      "G62.2"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
@@ -29,13 +25,13 @@
     "position": [240, 253],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
     "position": [257, 267],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": []
   }
 ]

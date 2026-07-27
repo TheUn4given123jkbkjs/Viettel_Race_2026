@@ -1,76 +1,51 @@
 [
   {
     "text": "đau ngực",
-    "position": [
-      189,
-      197
-    ],
+    "position": [189, 197],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      208,
-      216
-    ],
+    "position": [208, 216],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      382,
-      390
-    ],
+    "position": [382, 390],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "10 ng/mL",
-    "position": [
-      392,
-      400
-    ],
+    "position": [392, 400],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "C-reactive protein",
-    "position": [
-      403,
-      421
-    ],
+    "position": [403, 421],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "100 mg/L",
-    "position": [
-      423,
-      431
-    ],
+    "position": [423, 431],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      434,
-      445
-    ],
+    "position": [434, 445],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

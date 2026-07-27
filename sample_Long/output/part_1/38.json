@@ -1,68 +1,44 @@
 [
   {
     "text": "ung thư thanh quản",
-    "position": [
-      198,
-      216
-    ],
+    "position": [198, 216],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "D02.0"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "khàn tiếg",
-    "position": [
-      302,
-      311
-    ],
+    "position": [302, 311],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vướng víu ở cổ họng",
-    "position": [
-      385,
-      404
-    ],
+    "position": [385, 404],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nội soi thanh quản ống mềm",
-    "position": [
-      553,
-      579
-    ],
+    "position": [553, 579],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hạt xơ đối xứng hai bên dây thanh",
-    "position": [
-      598,
-      631
-    ],
+    "position": [598, 631],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh lý của dây thanh âm và thanh quản, không phân loại nơi khác",
-    "position": [
-      666,
-      730
-    ],
+    "position": [666, 730],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J38"
-    ]
+    "candidates": []
   }
 ]

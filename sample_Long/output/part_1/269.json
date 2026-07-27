@@ -1,54 +1,35 @@
 [
   {
     "text": "sốt",
-    "position": [
-      87,
-      90
-    ],
+    "position": [87, 90],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      93,
-      110
-    ],
+    "position": [93, 110],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      486,
-      494
-    ],
+    "position": [486, 494],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phổi ứ đọng",
-    "position": [
-      158,
-      169
-    ],
+    "position": [158, 169],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "huyết áp thấp",
-    "position": [
-      238,
-      251
-    ],
+    "position": [238, 251],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

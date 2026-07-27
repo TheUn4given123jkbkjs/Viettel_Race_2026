@@ -1,52 +1,30 @@
 [
   {
     "text": "bệnh khớp trong phản ứng quá mẫn đã được xếp loại ở mục khác, vị trí khác",
-    "position": [
-      38,
-      111
-    ],
+    "position": [38, 111],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M36.40*",
-      "M36.48*",
-      "M36.49*"
-    ]
+    "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [
-      303,
-      313
-    ],
+    "position": [303, 313],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3355"
-    ]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
-    "position": [
-      349,
-      361
-    ],
+    "position": [349, 361],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8638"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      424,
-      437
-    ],
+    "position": [424, 437],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

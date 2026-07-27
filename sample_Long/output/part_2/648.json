@@ -1,44 +1,28 @@
 [
   {
     "text": "Viêm quanh khớp cổ tay",
-    "position": [
-      137,
-      159
-    ],
+    "position": [137, 159],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M77.2"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      619,
-      636
-    ],
+    "position": [619, 636],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "đau nhức",
-    "position": [
-      26,
-      34
-    ],
+    "position": [26, 34],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó khăn khi thực hiện các động tác",
-    "position": [
-      51,
-      86
-    ],
+    "position": [51, 86],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

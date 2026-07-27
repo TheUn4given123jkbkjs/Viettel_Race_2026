@@ -1,54 +1,35 @@
 [
   {
     "text": "bệnh mạch máu phổi xác định khác",
-    "position": [
-      477,
-      509
-    ],
+    "position": [477, 509],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I28.8"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin ************",
-    "position": [
-      214,
-      234
-    ],
-    "type": "************",
-    "assertions": [
-      "isNegated"
-    ],
+    "position": [214, 234],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      238,
-      249
-    ],
-    "type": "************",
+    "position": [238, 249],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      583,
-      591
-    ],
+    "position": [583, 591],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "10,5 ng/mL",
-    "position": [
-      594,
-      604
-    ],
+    "position": [594, 604],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,77 +1,49 @@
 [
   {
     "text": "Loratadine",
-    "position": [
-      819,
-      829
-    ],
+    "position": [819, 829],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "28889"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Viêm dạ dày cấp",
-    "position": [
-      48,
-      63
-    ],
+    "position": [48, 63],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K29.0",
-      "K29.1"
-    ]
+    "candidates": []
   },
   {
     "text": "đau âm ỉ(vùng thượng vị",
-    "position": [
-      1219,
-      1242
-    ],
+    "position": [1219, 1242],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      1268,
-      1276
-    ],
+    "position": [1268, 1276],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ợ chua",
-    "position": [
-      1337,
-      1343
-    ],
+    "position": [1337, 1343],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Esomeprazole",
-    "position": [
-      1424,
-      1436
-    ],
+    "position": [1424, 1436],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Phosphalugel",
-    "position": [
-      1440,
-      1452
-    ],
+    "position": [1440, 1452],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

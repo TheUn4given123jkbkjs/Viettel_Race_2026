@@ -1,62 +1,37 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      26,
-      43
-    ],
-    "type": "TENÍ_SỬ_BỆNH",
-    "assertions": [
-      "isHistorical"
-    ],
+    "position": [26, 43],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "lộn tử cung sau đẻ",
-    "position": [
-      61,
-      79
-    ],
+    "position": [61, 79],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O71.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Ergonovine",
-    "position": [
-      314,
-      324
-    ],
+    "position": [314, 324],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4021"
-    ]
+    "candidates": []
   },
   {
     "text": "Oxytocin",
-    "position": [
-      328,
-      336
-    ],
+    "position": [328, 336],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "7824"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      420,
-      433
-    ],
+    "position": [420, 433],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

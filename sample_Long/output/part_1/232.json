@@ -1,84 +1,56 @@
 [
   {
     "text": "khó thở khi gắng sức",
-    "position": [
-      60,
-      80
-    ],
+    "position": [60, 80],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "khó thở cấp",
-    "position": [
-      149,
-      160
-    ],
+    "position": [149, 160],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      171,
-      179
-    ],
+    "position": [171, 179],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "SPO2: 92 %",
-    "position": [
-      218,
-      228
-    ],
+    "position": [218, 228],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ran rít",
-    "position": [
-      240,
-      247
-    ],
+    "position": [240, 247],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      274,
-      282
-    ],
+    "position": [274, 282],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "kali 3.4 mmol/L",
-    "position": [
-      317,
-      332
-    ],
+    "position": [317, 332],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT ngực",
-    "position": [
-      349,
-      356
-    ],
+    "position": [349, 356],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

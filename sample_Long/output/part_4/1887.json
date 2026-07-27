@@ -1,66 +1,42 @@
 [
   {
     "text": "Suy hô hấp của trẻ sơ sinh",
-    "position": [
-      48,
-      74
-    ],
+    "position": [48, 74],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P22",
-      "P22.0",
-      "P22.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Nhịp thở nhanh",
-    "position": [
-      1210,
-      1224
-    ],
+    "position": [1210, 1224],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rút lõm lồng ngực",
-    "position": [
-      1404,
-      1421
-    ],
+    "position": [1404, 1421],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tím tái",
-    "position": [
-      1755,
-      1762
-    ],
+    "position": [1755, 1762],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      1924,
-      1933
-    ],
+    "position": [1924, 1933],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "khí máu động mạch",
-    "position": [
-      2867,
-      2884
-    ],
+    "position": [2867, 2884],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

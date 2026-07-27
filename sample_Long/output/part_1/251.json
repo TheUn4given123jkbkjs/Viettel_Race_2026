@@ -1,95 +1,63 @@
 [
   {
     "text": "đau khớp",
-    "position": [
-      91,
-      99
-    ],
+    "position": [91, 99],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ],
+    "assertions": ["isFamily", "isHistorical"],
     "candidates": []
   },
   {
     "text": "đau ngực cấp",
-    "position": [
-      169,
-      181
-    ],
+    "position": [169, 181],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      192,
-      200
-    ],
+    "position": [192, 200],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      202,
-      214
-    ],
+    "position": [202, 214],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "EKG",
-    "position": [
-      240,
-      243
-    ],
+    "position": [240, 243],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp xoang đều",
-    "position": [
-      249,
-      263
-    ],
+    "position": [249, 263],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin I",
-    "position": [
-      272,
-      282
-    ],
+    "position": [272, 282],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.05 ng/mL",
-    "position": [
-      284,
-      294
-    ],
+    "position": [284, 294],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CBC",
-    "position": [
-      309,
-      312
-    ],
+    "position": [309, 312],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

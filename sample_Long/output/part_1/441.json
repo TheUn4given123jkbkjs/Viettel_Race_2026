@@ -1,68 +1,44 @@
 [
   {
     "text": "ngứa",
-    "position": [
-      361,
-      365
-    ],
+    "position": [361, 365],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sẩn đỏ",
-    "position": [
-      509,
-      515
-    ],
+    "position": [509, 515],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiêu gai cục bộ",
-    "position": [
-      725,
-      740
-    ],
+    "position": [725, 740],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh da do tiêu lớp gai thoáng qua [Grover]",
-    "position": [
-      869,
-      912
-    ],
+    "position": [869, 912],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L11.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Betamethasone",
-    "position": [
-      1098,
-      1111
-    ],
+    "position": [1098, 1111],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1514"
-    ]
+    "candidates": []
   },
   {
     "text": "Chlorpheniramine",
-    "position": [
-      1212,
-      1228
-    ],
+    "position": [1212, 1228],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2400"
-    ]
+    "candidates": []
   }
 ]

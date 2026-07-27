@@ -1,26 +1,16 @@
 [
   {
     "text": "Biến đổi không do viêm xác định khác của cổ tử cung",
-    "position": [
-      0,
-      51
-    ],
+    "position": [0, 51],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N88.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      293,
-      306
-    ],
+    "position": [293, 306],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

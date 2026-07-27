@@ -1,76 +1,49 @@
 [
   {
     "text": "Bệnh van ba lá trong bệnh phân loại nơi khác",
-    "position": [
-      66,
-      110
-    ],
+    "position": [66, 110],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I39.2*"
-    ]
+    "candidates": []
   },
   {
     "text": "suytim",
-    "position": [
-      1730,
-      1736
-    ],
+    "position": [1730, 1736],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phù chân",
-    "position": [
-      1278,
-      1286
-    ],
+    "position": [1278, 1286],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "gan to",
-    "position": [
-      1308,
-      1314
-    ],
+    "position": [1308, 1314],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Digoxin",
-    "position": [
-      2388,
-      2395
-    ],
+    "position": [2388, 2395],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3407"
-    ]
+    "candidates": []
   },
   {
     "text": "Furosemide",
-    "position": [
-      2444,
-      2454
-    ],
+    "position": [2444, 2454],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4603"
-    ]
+    "candidates": []
   },
   {
     "text": "điềutrị",
-    "position": [
-      2309,
-      2316
-    ],
+    "position": [2309, 2316],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

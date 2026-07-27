@@ -1,66 +1,44 @@
 [
   {
     "text": "Bệnh cơ tim trong các bệnh về dinh dưỡng",
-    "position": [
-      62,
-      102
-    ],
+    "position": [62, 102],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I43.2*"
-    ]
+    "candidates": []
   },
   {
     "text": "thiếuhụt dưỡng chất",
-    "position": [
-      141,
-      160
-    ],
+    "position": [141, 160],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở khi gắng sức",
-    "position": [
-      499,
-      519
-    ],
+    "position": [499, 519],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi kéo dài",
-    "position": [
-      521,
-      536
-    ],
+    "position": [521, 536],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phù hai chân",
-    "position": [
-      551,
-      563
-    ],
+    "position": [551, 563],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      619,
-      636
-    ],
+    "position": [619, 636],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

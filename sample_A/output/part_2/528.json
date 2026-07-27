@@ -4,27 +4,27 @@
     "position": [55, 96],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["C82.2"]
+    "candidates": []
   },
   {
     "text": "U lympho dạng nang độ III, không xác định",
     "position": [55, 96],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["C82.2"]
+    "candidates": []
   },
   {
     "text": "Cyclophosphamide",
     "position": [391, 407],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3002"]
+    "candidates": []
   },
   {
     "text": "Vincristine",
     "position": [411, 422],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["11202"]
+    "candidates": []
   }
 ]

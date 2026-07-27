@@ -1,23 +1,23 @@
 [
   {
     "text": "Loạn trương lực cơ khác",
-    "position": [245, 268],
+    "position": [242, 265],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["G24.8", "P94.8"]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [311, 321],
+    "position": [308, 318],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
-    "position": [333, 345],
+    "position": [330, 342],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": []
   }
 ]

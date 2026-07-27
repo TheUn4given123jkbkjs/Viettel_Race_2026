@@ -1,90 +1,58 @@
 [
   {
     "text": "tiền sử trào ngược dạ dày thực quản (GERD) 10 năm nay",
-    "position": [
-      89,
-      142
-    ],
+    "position": [89, 142],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "đau ngực không điển hình",
-    "position": [
-      377,
-      401
-    ],
+    "position": [377, 401],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      612,
-      629
-    ],
+    "position": [612, 629],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "X-quang ngực thẳng",
-    "position": [
-      883,
-      901
-    ],
+    "position": [883, 901],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT scan ngực bụng",
-    "position": [
-      962,
-      979
-    ],
+    "position": [962, 979],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thoát vị hoành, không tắc hay hoại tử",
-    "position": [
-      1035,
-      1072
-    ],
+    "position": [1035, 1072],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K44.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      1077,
-      1085
-    ],
+    "position": [1077, 1085],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Omeprazole",
-    "position": [
-      1175,
-      1185
-    ],
+    "position": [1175, 1185],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "7646"
-    ]
+    "candidates": []
   }
 ]

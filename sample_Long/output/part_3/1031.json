@@ -1,84 +1,56 @@
 [
   {
     "text": "không sốt",
-    "position": [
-      1188,
-      1197
-    ],
+    "position": [1188, 1197],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [
-      1115,
-      1124
-    ],
+    "position": [1115, 1124],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      1302,
-      1309
-    ],
+    "position": [1302, 1309],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đo áp lực bàng quang",
-    "position": [
-      1339,
-      1359
-    ],
+    "position": [1339, 1359],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "áp lực nội bàng quang tăng rất cao",
-    "position": [
-      1369,
-      1403
-    ],
+    "position": [1369, 1403],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bàng quang thần kinh phản xạ, không phân loại nơi khác",
-    "position": [
-      1532,
-      1586
-    ],
+    "position": [1532, 1586],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N31.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Atropine 0.5mg",
-    "position": [
-      1929,
-      1943
-    ],
+    "position": [1929, 1943],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Diazepam 5mg",
-    "position": [
-      2062,
-      2074
-    ],
+    "position": [2062, 2074],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

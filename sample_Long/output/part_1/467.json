@@ -1,62 +1,37 @@
 [
   {
     "text": "Dính âm đạo sau phẫu thuật",
-    "position": [
-      0,
-      26
-    ],
+    "position": [0, 26],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N99.2"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      117,
-      126
-    ],
+    "position": [117, 126],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      253,
-      270
-    ],
+    "position": [253, 270],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      314,
-      327
-    ],
+    "position": [314, 327],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      331,
-      340
-    ],
+    "position": [331, 340],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

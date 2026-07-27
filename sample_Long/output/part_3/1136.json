@@ -1,102 +1,70 @@
 [
   {
     "text": "đau âm ỉ vùng thượng vị",
-    "position": [
-      129,
-      152
-    ],
+    "position": [129, 152],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đầy hơi",
-    "position": [
-      268,
-      275
-    ],
+    "position": [268, 275],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      361,
-      368
-    ],
+    "position": [361, 368],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử đau dạ dày 3 năm",
-    "position": [
-      459,
-      483
-    ],
+    "position": [459, 483],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Tổng phân tích tế bào máu ngoại vi",
-    "position": [
-      1482,
-      1516
-    ],
+    "position": [1482, 1516],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hemoglobin là 115 g/L",
-    "position": [
-      1656,
-      1677
-    ],
+    "position": [1656, 1677],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nội soi dạ dày - tá tràng",
-    "position": [
-      1710,
-      1735
-    ],
+    "position": [1710, 1735],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "niêm mạc hang vị xung huyết mạnh",
-    "position": [
-      1879,
-      1911
-    ],
+    "position": [1879, 1911],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm tìm vi khuẩn HP qua hơi thở",
-    "position": [
-      1954,
-      1992
-    ],
+    "position": [1954, 1992],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dương tính (+)",
-    "position": [
-      2098,
-      2112
-    ],
+    "position": [2098, 2112],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

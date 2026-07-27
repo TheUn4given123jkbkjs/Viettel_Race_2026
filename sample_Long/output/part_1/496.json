@@ -1,26 +1,16 @@
 [
   {
     "text": "Bệnh thoái hóa nhày ở da",
-    "position": [
-      56,
-      80
-    ],
+    "position": [56, 80],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L98.5"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      30,
-      33
-    ],
+    "position": [30, 33],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

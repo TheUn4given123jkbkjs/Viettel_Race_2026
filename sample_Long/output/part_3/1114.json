@@ -1,84 +1,56 @@
 [
   {
     "text": "cao huyết áp",
-    "position": [
-      31,
-      43
-    ],
+    "position": [31, 43],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau tức ngực trái",
-    "position": [
-      100,
-      117
-    ],
+    "position": [100, 117],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [
-      122,
-      131
-    ],
+    "position": [122, 131],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Khó thở",
-    "position": [
-      133,
-      140
-    ],
+    "position": [133, 140],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      162,
-      171
-    ],
+    "position": [162, 171],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "nhịp tim đều",
-    "position": [
-      188,
-      200
-    ],
+    "position": [188, 200],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tổng phân tích tế bào máu ngoại vi",
-    "position": [
-      226,
-      260
-    ],
+    "position": [226, 260],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm tim Doppler",
-    "position": [
-      291,
-      310
-    ],
+    "position": [291, 310],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

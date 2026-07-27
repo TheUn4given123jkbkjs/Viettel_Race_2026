@@ -4,11 +4,7 @@
     "position": [596, 617],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "H05.8",
-      "H06",
-      "H06*"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
@@ -20,14 +16,14 @@
   {
     "text": "cao huyết áp",
     "position": [113, 125],
-    "type": "BỆNH_NỀN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường",
     "position": [129, 143],
-    "type": "BỆNH_NỀN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

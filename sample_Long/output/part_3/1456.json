@@ -1,74 +1,44 @@
 [
   {
     "text": "Levomepromazine",
-    "position": [
-      136,
-      151
-    ],
+    "position": [136, 151],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "6852"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      338,
-      345
-    ],
+    "position": [338, 345],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      526,
-      534
-    ],
+    "position": [526, 534],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      844,
-      857
-    ],
-    "type": "BỆNH",
-    "assertions": [
-      "isFamily"
-    ],
+    "position": [844, 857],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [
-      861,
-      871
-    ],
-    "type": "BỆNH",
-    "assertions": [
-      "isFamily"
-    ],
+    "position": [861, 871],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      965,
-      976
-    ],
+    "position": [965, 976],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

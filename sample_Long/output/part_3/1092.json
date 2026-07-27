@@ -1,92 +1,56 @@
 [
   {
     "text": "Viêm xương tủy theo đường máu cấp tính",
-    "position": [
-      964,
-      1002
-    ],
+    "position": [964, 1002],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M86.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Vancomycin",
-    "position": [
-      1294,
-      1304
-    ],
+    "position": [1294, 1304],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "11124"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      1308,
-      1319
-    ],
+    "position": [1308, 1319],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      1411,
-      1424
-    ],
+    "position": [1411, 1424],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "đauu",
-    "position": [
-      393,
-      397
-    ],
+    "position": [393, 397],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      575,
-      583
-    ],
+    "position": [575, 583],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "xươg",
-    "position": [
-      230,
-      234
-    ],
+    "position": [230, 234],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "bạch cầu tăng",
-    "position": [
-      808,
-      821
-    ],
+    "position": [808, 821],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -4,7 +4,7 @@
     "position": [376, 398],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E78.2"]
+    "candidates": []
   },
   {
     "text": "có tiền sử",
@@ -23,14 +23,14 @@
   {
     "text": "phẫu thuật",
     "position": [305, 315],
-    "type": "Y_LỆNH",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thay đổi lối sống",
     "position": [319, 336],
-    "type": "Y_LỆNH",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

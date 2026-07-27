@@ -4,7 +4,7 @@
     "position": [693, 746],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["H72.2"]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -18,7 +18,7 @@
     "position": [811, 818],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "chủ quan sốt",
@@ -30,7 +30,7 @@
   {
     "text": "viêm tai giữa",
     "position": [173, 186],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
     "candidates": []
   }

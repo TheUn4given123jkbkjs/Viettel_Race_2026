@@ -4,14 +4,14 @@
     "position": [152, 161],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["9344"]
+    "candidates": []
   },
   {
     "text": "viêm gan C",
     "position": [202, 212],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["B17.1", "B18.2"]
+    "candidates": []
   },
   {
     "text": "sốt",

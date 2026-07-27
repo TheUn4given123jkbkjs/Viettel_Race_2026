@@ -4,19 +4,19 @@
     "position": [228, 249],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["34482"]
+    "candidates": []
   },
   {
     "text": "tiểu đường loại 2",
     "position": [116, 133],
-    "type": "BỆNH_MÃN_TÍNH",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
     "position": [154, 167],
-    "type": "BỆNH_MÃN_TÍNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },

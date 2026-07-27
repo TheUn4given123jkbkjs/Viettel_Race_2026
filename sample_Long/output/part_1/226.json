@@ -1,82 +1,56 @@
 [
   {
     "text": "ung thư dạ dày",
-    "position": [
-      115,
-      129
-    ],
+    "position": [115, 129],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau thượng vị dữ dội",
-    "position": [
-      231,
-      251
-    ],
+    "position": [231, 251],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đauquặn",
-    "position": [
-      447,
-      454
-    ],
+    "position": [447, 454],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hồngi",
-    "position": [
-      661,
-      666
-    ],
+    "position": [661, 666],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amylase",
-    "position": [
-      920,
-      927
-    ],
+    "position": [920, 927],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "1250 U/L",
-    "position": [
-      929,
-      937
-    ],
+    "position": [929, 937],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tụy sưng nề nhẹ",
-    "position": [
-      998,
-      1013
-    ],
+    "position": [998, 1013],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ct sọ",
-    "position": [
-      1115,
-      1120
-    ],
+    "position": [1115, 1120],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

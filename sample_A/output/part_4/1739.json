@@ -4,28 +4,28 @@
     "position": [0, 36],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["G41.2"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [1951, 1964],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Phenytoin",
     "position": [1966, 1975],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8183"]
+    "candidates": []
   },
   {
     "text": "Carbamazepine",
     "position": [1979, 1992],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2002"]
+    "candidates": []
   },
   {
     "text": "Động kinh cục bộ",

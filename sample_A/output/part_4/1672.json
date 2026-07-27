@@ -2,7 +2,7 @@
   {
     "text": "bệnh Addison",
     "position": [434, 446],
-    "type": "TÊN_BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
@@ -11,19 +11,19 @@
     "position": [749, 762],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3264"]
+    "candidates": []
   },
   {
     "text": "cortisol",
     "position": [121, 129],
-    "type": "HORMONE",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aldosterone",
     "position": [133, 144],
-    "type": "HORMONE",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },

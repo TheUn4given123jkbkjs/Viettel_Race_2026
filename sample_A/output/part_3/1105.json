@@ -4,7 +4,7 @@
     "position": [186, 196],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3272"]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -18,11 +18,7 @@
     "position": [95, 98],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "A92.30",
-      "R50.0",
-      "R50.1"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh tim mạch",
@@ -50,13 +46,13 @@
     "position": [218, 226],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "candidates": []
   },
   {
     "text": "Dextran 40",
     "position": [186, 196],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3272"]
+    "candidates": []
   }
 ]

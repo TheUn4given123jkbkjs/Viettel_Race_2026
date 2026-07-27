@@ -1,80 +1,51 @@
 [
   {
     "text": "Lao cột sống (A18.0†), Nhiều vị trí",
-    "position": [
-      57,
-      92
-    ],
+    "position": [57, 92],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M49.00*"
-    ]
+    "candidates": []
   },
   {
     "text": "đau lưng",
-    "position": [
-      564,
-      572
-    ],
+    "position": [564, 572],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt nhẹ về chiều",
-    "position": [
-      665,
-      681
-    ],
+    "position": [665, 681],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "gù vẹo cột sống",
-    "position": [
-      805,
-      820
-    ],
+    "position": [805, 820],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xẹp đốt sống",
-    "position": [
-      835,
-      847
-    ],
+    "position": [835, 847],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chèn ép tủy sống",
-    "position": [
-      890,
-      906
-    ],
+    "position": [890, 906],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "lao phổi",
-    "position": [
-      1578,
-      1586
-    ],
+    "position": [1578, 1586],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "J65",
-      "Z11.1",
-      "A15.0"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   }
 ]

@@ -1,40 +1,23 @@
 [
   {
     "text": "Bệnh gan nhiễm độc có rối loạn khác của gan",
-    "position": [
-      598,
-      641
-    ],
+    "position": [598, 641],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "K71.8"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      131,
-      144
-    ],
+    "position": [131, 144],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Albendazole",
-    "position": [
-      169,
-      180
-    ],
+    "position": [169, 180],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "430"
-    ]
+    "candidates": []
   }
 ]

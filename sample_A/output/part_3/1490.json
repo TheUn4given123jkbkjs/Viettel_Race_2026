@@ -4,7 +4,7 @@
     "position": [170, 180],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": []
   },
   {
     "text": "đau đầu",
@@ -32,27 +32,27 @@
     "position": [991, 1007],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A83.6"]
+    "candidates": []
   },
   {
     "text": "Ringer's lactate",
     "position": [1160, 1176],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["35629"]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [1241, 1254],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Mannitol",
     "position": [1329, 1337],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6628"]
+    "candidates": []
   }
 ]

@@ -1,69 +1,42 @@
 [
   {
     "text": "sốt",
-    "position": [
-      164,
-      167
-    ],
+    "position": [164, 167],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Ung thư đại tràng",
-    "position": [
-      438,
-      455
-    ],
+    "position": [438, 455],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "D01.0",
-      "D01.1"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "hậu mỗn",
-    "position": [
-      616,
-      623
-    ],
+    "position": [616, 623],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      780,
-      788
-    ],
+    "position": [780, 788],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "chụp cộng hưởng từ (MRI)",
-    "position": [
-      950,
-      974
-    ],
+    "position": [950, 974],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rò vùng hậu môn và trực tràngg",
-    "position": [
-      1048,
-      1078
-    ],
+    "position": [1048, 1078],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

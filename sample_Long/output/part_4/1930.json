@@ -1,88 +1,58 @@
 [
   {
     "text": "vàng da",
-    "position": [
-      367,
-      374
-    ],
+    "position": [367, 374],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bú kém",
-    "position": [
-      612,
-      618
-    ],
+    "position": [612, 618],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "li bì",
-    "position": [
-      620,
-      625
-    ],
+    "position": [620, 625],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bilirubin toàn phần máu",
-    "position": [
-      730,
-      753
-    ],
+    "position": [730, 753],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "485 µmol/L",
-    "position": [
-      776,
-      786
-    ],
+    "position": [776, 786],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Vàng da nhân xám được định rõ khác",
-    "position": [
-      878,
-      912
-    ],
+    "position": [878, 912],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P57.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Albumin",
-    "position": [
-      1145,
-      1152
-    ],
+    "position": [1145, 1152],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "433"
-    ]
+    "candidates": []
   },
   {
     "text": "Phenobarbital",
-    "position": [
-      1324,
-      1337
-    ],
+    "position": [1324, 1337],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8134"
-    ]
+    "candidates": []
   }
 ]

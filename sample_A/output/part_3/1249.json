@@ -4,33 +4,33 @@
     "position": [41, 72],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["10831"]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
     "position": [138, 151],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường loại 2",
     "position": [155, 176],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm phổi",
     "position": [215, 224],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hen suyễn",
     "position": [228, 237],
-    "type": "BỆNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

@@ -1,84 +1,51 @@
 [
   {
     "text": "Các rối loạn xương không đặc hiệu",
-    "position": [
-      729,
-      762
-    ],
+    "position": [729, 762],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M85.9",
-      "M89.9",
-      "M84.9"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      131,
-      134
-    ],
+    "position": [131, 134],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      212,
-      220
-    ],
+    "position": [212, 220],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      224,
-      227
-    ],
+    "position": [224, 227],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      248,
-      256
-    ],
+    "position": [248, 256],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      618,
-      625
-    ],
+    "position": [618, 625],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      629,
-      640
-    ],
+    "position": [629, 640],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

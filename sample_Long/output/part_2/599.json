@@ -1,56 +1,30 @@
 [
   {
     "text": "Hội chứng viêm cầu thận cấp",
-    "position": [
-      26,
-      53
-    ],
+    "position": [26, 53],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "N00",
-      "N00.0",
-      "N00.1"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Viêm cầu thận tăng sinh nội mạch lan toả",
-    "position": [
-      55,
-      95
-    ],
+    "position": [55, 95],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N02.4",
-      "N03.4",
-      "N04.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Abacavir",
-    "position": [
-      362,
-      370
-    ],
+    "position": [362, 370],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "190521"
-    ]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
-    "position": [
-      396,
-      408
-    ],
+    "position": [396, 408],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8638"
-    ]
+    "candidates": []
   }
 ]

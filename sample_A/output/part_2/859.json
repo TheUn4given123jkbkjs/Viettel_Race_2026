@@ -25,23 +25,19 @@
     "position": [292, 323],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E83.8",
-      "E83.9",
-      "E83"
-    ]
+    "candidates": []
   },
   {
     "text": "Calcium gluconate",
     "position": [345, 362],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1908"]
+    "candidates": []
   },
   {
     "text": "Vitamin A / Vitamin D",
     "position": [384, 405],
-    "type": "THUOC",
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   }

@@ -1,92 +1,56 @@
 [
   {
     "text": "Enalapril",
-    "position": [
-      84,
-      93
-    ],
+    "position": [84, 93],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "3827"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      47,
-      60
-    ],
+    "position": [47, 60],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "đau ngực trái",
-    "position": [
-      160,
-      173
-    ],
+    "position": [160, 173],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      194,
-      202
-    ],
+    "position": [194, 202],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "nôn",
-    "position": [
-      199,
-      202
-    ],
+    "position": [199, 202],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      247,
-      250
-    ],
+    "position": [247, 250],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      319,
-      327
-    ],
+    "position": [319, 327],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp xoang",
-    "position": [
-      347,
-      357
-    ],
+    "position": [347, 357],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,88 +1,51 @@
 [
   {
     "text": "Aspirin",
-    "position": [
-      89,
-      96
-    ],
+    "position": [89, 96],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "1191"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [
-      55,
-      67
-    ],
+    "position": [55, 67],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đột quỵ",
-    "position": [
-      146,
-      153
-    ],
+    "position": [146, 153],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E88.31",
-      "G46.3*",
-      "G46.4*"
-    ]
+    "candidates": []
   },
   {
     "text": "nội soi đại tràng",
-    "position": [
-      209,
-      226
-    ],
+    "position": [209, 226],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau thượng vị",
-    "position": [
-      493,
-      506
-    ],
+    "position": [493, 506],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xuất huyết tiêu hóa",
-    "position": [
-      2014,
-      2033
-    ],
+    "position": [2014, 2033],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K32",
-      "K32.0",
-      "K32.1"
-    ]
+    "candidates": []
   },
   {
     "text": "loét dạ dày",
-    "position": [
-      2984,
-      2995
-    ],
+    "position": [2984, 2995],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K28.5",
-      "K28.6",
-      "K28.7"
-    ]
+    "candidates": []
   }
 ]

@@ -4,7 +4,7 @@
     "position": [119, 151],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E61", "E61.8"]
+    "candidates": []
   },
   {
     "text": "phẫu thuật",
@@ -16,14 +16,14 @@
   {
     "text": "[Tên bệnh nhân]",
     "position": [79, 94],
-    "type": "TÊN_BỆNH_NHÂN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "[Tên bác sĩ]",
     "position": [21, 33],
-    "type": "TÊN_BÁC_SỸ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },

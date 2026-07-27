@@ -37,8 +37,8 @@
   {
     "text": "tiền sử THA 5 năm",
     "position": [1094, 1111],
-    "type": "isHistorical",
-    "assertions": [],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

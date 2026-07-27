@@ -4,36 +4,28 @@
     "position": [55, 64],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "F02.4*",
-      "Z21",
-      "Z20.6"
-    ]
+    "candidates": []
   },
   {
     "text": "Lopinavir / Ritonavir",
     "position": [151, 172],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["284640"]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
     "position": [229, 242],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
     "position": [270, 280],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": []
   },
   {
     "text": "vàng mắt",

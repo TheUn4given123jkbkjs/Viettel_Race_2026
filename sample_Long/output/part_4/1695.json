@@ -1,76 +1,42 @@
 [
   {
     "text": "Levodopa / Carbidopa",
-    "position": [
-      164,
-      184
-    ],
+    "position": [164, 184],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "103990"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Parkinson",
-    "position": [
-      125,
-      134
-    ],
+    "position": [125, 134],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.19",
-      "G21.1",
-      "G21.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Alzheimer",
-    "position": [
-      430,
-      439
-    ],
+    "position": [430, 439],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "G30",
-      "G30.0",
-      "G30.1"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "run tay chân",
-    "position": [
-      32,
-      44
-    ],
+    "position": [32, 44],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      659,
-      667
-    ],
+    "position": [659, 667],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "MRI sọ não",
-    "position": [
-      1089,
-      1099
-    ],
+    "position": [1089, 1099],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

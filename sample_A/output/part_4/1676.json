@@ -4,32 +4,28 @@
     "position": [82, 91],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": []
   },
   {
     "text": "ampicillin",
     "position": [543, 553],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["733"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [381, 388],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
     "position": [408, 419],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",

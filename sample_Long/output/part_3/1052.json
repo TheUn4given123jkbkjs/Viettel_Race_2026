@@ -1,56 +1,35 @@
 [
   {
     "text": "Thoái hóa khớp sau chấn thương ở các khớp khác",
-    "position": [
-      276,
-      322
-    ],
+    "position": [276, 322],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M19.1"
-    ]
+    "candidates": []
   },
   {
     "text": "gãy xương",
-    "position": [
-      136,
-      145
-    ],
+    "position": [136, 145],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "trật khớp",
-    "position": [
-      151,
-      160
-    ],
+    "position": [151, 160],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "đau khớp",
-    "position": [
-      227,
-      235
-    ],
+    "position": [227, 235],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cứng khớp",
-    "position": [
-      247,
-      256
-    ],
+    "position": [247, 256],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

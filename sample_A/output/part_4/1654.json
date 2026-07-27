@@ -4,29 +4,21 @@
     "position": [229, 242],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["2551"]
+    "candidates": []
   },
   {
     "text": "nhiễm khuẩn",
     "position": [255, 266],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P36.10",
-      "P36.30",
-      "P36.39"
-    ]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
     "position": [629, 642],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "thuốc kháng sinh",

@@ -1,38 +1,23 @@
 [
   {
     "text": "Acetaminophen",
-    "position": [
-      428,
-      441
-    ],
+    "position": [428, 441],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      466,
-      473
-    ],
+    "position": [466, 473],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      806,
-      815
-    ],
+    "position": [806, 815],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

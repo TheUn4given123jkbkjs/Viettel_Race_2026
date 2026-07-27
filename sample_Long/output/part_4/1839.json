@@ -1,80 +1,49 @@
 [
   {
     "text": "thoái hóa khớp gối",
-    "position": [
-      472,
-      490
-    ],
+    "position": [472, 490],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "M17",
-      "M17.0",
-      "M17.1"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau khớp gối trái",
-    "position": [
-      774,
-      791
-    ],
+    "position": [774, 791],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      1240,
-      1248
-    ],
+    "position": [1240, 1248],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sưng nề khớp",
-    "position": [
-      1814,
-      1826
-    ],
+    "position": [1814, 1826],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "MRI khớp gối",
-    "position": [
-      2518,
-      2530
-    ],
+    "position": [2518, 2530],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các bệnh bên trong khác của khớp gối",
-    "position": [
-      2750,
-      2786
-    ],
+    "position": [2750, 2786],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M23.8"
-    ]
+    "candidates": []
   },
   {
     "text": "kẹt khớp",
-    "position": [
-      1012,
-      1020
-    ],
+    "position": [1012, 1020],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

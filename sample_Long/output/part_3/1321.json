@@ -1,38 +1,23 @@
 [
   {
     "text": "nhiễm virus cự bào bẩm sinh",
-    "position": [
-      39,
-      66
-    ],
+    "position": [39, 66],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P35.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Acyclovir",
-    "position": [
-      183,
-      192
-    ],
+    "position": [183, 192],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "281"
-    ]
+    "candidates": []
   },
   {
     "text": "Ribavirin",
-    "position": [
-      196,
-      205
-    ],
+    "position": [196, 205],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "9344"
-    ]
+    "candidates": []
   }
 ]

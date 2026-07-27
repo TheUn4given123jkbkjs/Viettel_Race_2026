@@ -1,82 +1,56 @@
 [
   {
     "text": "đau ngực",
-    "position": [
-      327,
-      335
-    ],
+    "position": [327, 335],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau thắt ngực kiểu đè nén",
-    "position": [
-      361,
-      386
-    ],
+    "position": [361, 386],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt nhẹ",
-    "position": [
-      503,
-      510
-    ],
+    "position": [503, 510],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      551,
-      559
-    ],
+    "position": [551, 559],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Troponin I",
-    "position": [
-      965,
-      975
-    ],
+    "position": [965, 975],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "4.2 ng/mL",
-    "position": [
-      988,
-      997
-    ],
+    "position": [988, 997],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ngực thẳng",
-    "position": [
-      1054,
-      1072
-    ],
+    "position": [1054, 1072],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bóng tim không to",
-    "position": [
-      1091,
-      1108
-    ],
+    "position": [1091, 1108],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,91 +1,56 @@
 [
   {
     "text": "Giai đoạn đầu của chuyển dạ kéo dài",
-    "position": [
-      1134,
-      1169
-    ],
+    "position": [1134, 1169],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O63.0"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      330,
-      339
-    ],
+    "position": [330, 339],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      298,
-      315
-    ],
+    "position": [298, 315],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "khung chậu hẹp",
-    "position": [
-      437,
-      451
-    ],
+    "position": [437, 451],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "O65.1",
-      "O33.1"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau bụng từng cơn vùng hạ vị",
-    "position": [
-      500,
-      528
-    ],
+    "position": [500, 528],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ra nhớt hồng âm đạo",
-    "position": [
-      538,
-      557
-    ],
+    "position": [538, 557],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cơn co tử cung thưa",
-    "position": [
-      615,
-      634
-    ],
+    "position": [615, 634],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cổ tử cung mở 2cm",
-    "position": [
-      704,
-      721
-    ],
+    "position": [704, 721],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

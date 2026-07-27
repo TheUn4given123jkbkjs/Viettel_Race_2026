@@ -1,82 +1,56 @@
 [
   {
     "text": "đau ngực trái",
-    "position": [
-      102,
-      115
-    ],
+    "position": [102, 115],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      119,
-      126
-    ],
+    "position": [119, 126],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      140,
-      143
-    ],
+    "position": [140, 143],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      159,
-      167
-    ],
+    "position": [159, 167],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "SpO2: 92 %",
-    "position": [
-      179,
-      189
-    ],
+    "position": [179, 189],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 15.2",
-    "position": [
-      206,
-      219
-    ],
+    "position": [206, 219],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      271,
-      279
-    ],
+    "position": [271, 279],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ngực",
-    "position": [
-      283,
-      295
-    ],
+    "position": [283, 295],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

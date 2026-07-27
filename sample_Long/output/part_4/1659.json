@@ -1,70 +1,49 @@
 [
   {
     "text": "sốt",
-    "position": [
-      59,
-      62
-    ],
+    "position": [59, 62],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      64,
-      71
-    ],
+    "position": [64, 71],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      75,
-      82
-    ],
+    "position": [75, 82],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [
-      350,
-      370
-    ],
+    "position": [350, 370],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hemoglobin 12 g/dl",
-    "position": [
-      580,
-      598
-    ],
+    "position": [580, 598],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm sinh hóa",
-    "position": [
-      372,
-      391
-    ],
+    "position": [372, 391],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin 0,05 ng/mL",
-    "position": [
-      652,
-      671
-    ],
+    "position": [652, 671],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

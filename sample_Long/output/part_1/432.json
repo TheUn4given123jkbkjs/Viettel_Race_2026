@@ -1,72 +1,44 @@
 [
   {
     "text": "buồn nôn",
-    "position": [
-      137,
-      145
-    ],
+    "position": [137, 145],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      163,
-      166
-    ],
+    "position": [163, 166],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "erythema",
-    "position": [
-      186,
-      194
-    ],
+    "position": [186, 194],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tổn thương khớp trong bệnh ưa chảy máu (D66-D68†), cổ, bàn chân",
-    "position": [
-      235,
-      298
-    ],
+    "position": [235, 298],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M36.27*"
-    ]
+    "candidates": []
   },
   {
     "text": "Factor VIII",
-    "position": [
-      310,
-      321
-    ],
+    "position": [310, 321],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4257"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      337,
-      350
-    ],
+    "position": [337, 350],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

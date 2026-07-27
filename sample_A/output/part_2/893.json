@@ -4,14 +4,14 @@
     "position": [2205, 2244],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["F15.22"]
+    "candidates": []
   },
   {
     "text": "Haloperidol",
     "position": [2301, 2312],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5093"]
+    "candidates": []
   },
   {
     "text": "bồn chồn",
@@ -39,10 +39,6 @@
     "position": [995, 1008],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   }
 ]

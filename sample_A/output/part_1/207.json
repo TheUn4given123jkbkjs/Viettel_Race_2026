@@ -4,21 +4,21 @@
     "position": [0, 13],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["E75.01"]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
     "position": [1091, 1104],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": []
   },
   {
     "text": "Levodopa",
     "position": [1153, 1161],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["103990"]
+    "candidates": []
   },
   {
     "text": "THA",

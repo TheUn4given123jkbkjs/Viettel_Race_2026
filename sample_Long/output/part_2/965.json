@@ -1,22 +1,14 @@
 [
   {
     "text": "Viêm tiểu phế quản cấp, không phân loại",
-    "position": [
-      25,
-      64
-    ],
+    "position": [25, 64],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J21.9"
-    ]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      123,
-      140
-    ],
+    "position": [123, 140],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,62 +1,37 @@
 [
   {
     "text": "Các bệnh u hạt ở da và tổ chức dưới da khác",
-    "position": [
-      0,
-      43
-    ],
+    "position": [0, 43],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L92.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      667,
-      680
-    ],
+    "position": [667, 680],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      686,
-      695
-    ],
+    "position": [686, 695],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
-    "position": [
-      750,
-      763
-    ],
+    "position": [750, 763],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2551"
-    ]
+    "candidates": []
   },
   {
     "text": "Doxycycline",
-    "position": [
-      769,
-      780
-    ],
+    "position": [769, 780],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3640"
-    ]
+    "candidates": []
   }
 ]

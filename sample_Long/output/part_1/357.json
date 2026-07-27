@@ -1,70 +1,49 @@
 [
   {
     "text": "cảm thấy khó thở",
-    "position": [
-      104,
-      120
-    ],
+    "position": [104, 120],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [
-      57,
-      70
-    ],
+    "position": [57, 70],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thở",
-    "position": [
-      117,
-      120
-    ],
+    "position": [117, 120],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ECG",
-    "position": [
-      323,
-      326
-    ],
+    "position": [323, 326],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chứng ngất",
-    "position": [
-      842,
-      852
-    ],
+    "position": [842, 852],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thuốc chống trầm cảm",
-    "position": [
-      1046,
-      1066
-    ],
+    "position": [1046, 1066],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thuốc chống loạn nhịp tim",
-    "position": [
-      1070,
-      1095
-    ],
+    "position": [1070, 1095],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

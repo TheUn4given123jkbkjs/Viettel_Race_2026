@@ -18,12 +18,12 @@
     "position": [138, 147],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["2101271"]
+    "candidates": []
   },
   {
     "text": "bố bệnh nhân",
     "position": [254, 266],
-    "type": "TÊN_BỆNH_NHÂN",
+    "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
     "candidates": []
   },
@@ -32,13 +32,13 @@
     "position": [542, 551],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6809"]
+    "candidates": []
   },
   {
     "text": "Enalapril",
     "position": [578, 587],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3827"]
+    "candidates": []
   }
 ]

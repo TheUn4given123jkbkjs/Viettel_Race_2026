@@ -1,40 +1,23 @@
 [
   {
     "text": "Tiền sản giật",
-    "position": [
-      330,
-      343
-    ],
+    "position": [330, 343],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O11",
-      "O14",
-      "O14.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      368,
-      375
-    ],
+    "position": [368, 375],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      396,
-      407
-    ],
+    "position": [396, 407],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

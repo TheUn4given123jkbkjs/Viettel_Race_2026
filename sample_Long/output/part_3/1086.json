@@ -1,55 +1,36 @@
 [
   {
     "text": "Sỏi đường tiết niệu dưới, không đặc hiệu",
-    "position": [
-      252,
-      292
-    ],
+    "position": [252, 292],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N21.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      316,
-      329
-    ],
+    "position": [316, 329],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [
-      92,
-      102
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [92, 102],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết áp cao",
-    "position": [
-      106,
-      118
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [106, 118],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sỏi thận",
-    "position": [
-      150,
-      158
-    ],
-    "type": "BỆNH_SỬ",
+    "position": [150, 158],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

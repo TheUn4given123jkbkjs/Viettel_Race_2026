@@ -4,25 +4,21 @@
     "position": [766, 841],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "F13",
-      "F13.0",
-      "F13.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [651, 664],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Abacavir",
     "position": [668, 676],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   },
   {
     "text": "rối loạn tâm thần và hành vi",

@@ -1,86 +1,56 @@
 [
   {
     "text": "Bệnh khớp gút do thiếu men và các bệnh lý di truyền khác, Nhiều vị trí",
-    "position": [
-      747,
-      817
-    ],
+    "position": [747, 817],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M14.00*"
-    ]
+    "candidates": []
   },
   {
     "text": "THA 5 năm",
-    "position": [
-      171,
-      180
-    ],
+    "position": [171, 180],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "sưng to",
-    "position": [
-      431,
-      438
-    ],
+    "position": [431, 438],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau khớp mạn tính",
-    "position": [
-      873,
-      890
-    ],
+    "position": [873, 890],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "hạt tophi",
-    "position": [
-      1956,
-      1965
-    ],
+    "position": [1956, 1965],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm chuyên sâu",
-    "position": [
-      672,
-      693
-    ],
+    "position": [672, 693],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm khớp",
-    "position": [
-      2564,
-      2576
-    ],
+    "position": [2564, 2576],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm acid uric máu",
-    "position": [
-      3071,
-      3095
-    ],
+    "position": [3071, 3095],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

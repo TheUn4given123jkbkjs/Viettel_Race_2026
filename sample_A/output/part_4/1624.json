@@ -11,14 +11,14 @@
     "position": [931, 960],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["705030"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [537, 544],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "troponin",
@@ -32,10 +32,6 @@
     "position": [562, 569],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "E88.31",
-      "G46.3*",
-      "G46.4*"
-    ]
+    "candidates": []
   }
 ]

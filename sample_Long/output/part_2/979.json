@@ -1,82 +1,56 @@
 [
   {
     "text": "suy giáp",
-    "position": [
-      460,
-      468
-    ],
+    "position": [460, 468],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Glucophage",
-    "position": [
-      237,
-      247
-    ],
+    "position": [237, 247],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "metformin",
-    "position": [
-      226,
-      235
-    ],
+    "position": [226, 235],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6809"
-    ]
+    "candidates": []
   },
   {
     "text": "Glucose huyết",
-    "position": [
-      521,
-      534
-    ],
+    "position": [521, 534],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Lipid máu",
-    "position": [
-      550,
-      559
-    ],
+    "position": [550, 559],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hormone giáp",
-    "position": [
-      621,
-      633
-    ],
+    "position": [621, 633],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nồng độ creatinine",
-    "position": [
-      678,
-      696
-    ],
+    "position": [678, 696],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Cholesterol",
-    "position": [
-      566,
-      577
-    ],
+    "position": [566, 577],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

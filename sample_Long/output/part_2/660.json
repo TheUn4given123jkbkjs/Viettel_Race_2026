@@ -1,58 +1,35 @@
 [
   {
     "text": "bệnh đặc hiệu khác của ruột",
-    "position": [
-      48,
-      75
-    ],
+    "position": [48, 75],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K63.8"
-    ]
+    "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      101,
-      110
-    ],
+    "position": [101, 110],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không buồn nôn",
-    "position": [
-      112,
-      126
-    ],
+    "position": [112, 126],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Allopurinol",
-    "position": [
-      485,
-      496
-    ],
+    "position": [485, 496],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "519"
-    ]
+    "candidates": []
   },
   {
     "text": "viêm dạ dày",
-    "position": [
-      145,
-      156
-    ],
+    "position": [145, 156],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

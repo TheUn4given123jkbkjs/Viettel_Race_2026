@@ -11,18 +11,14 @@
     "position": [206, 214],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "candidates": []
   },
   {
     "text": "sốt",
     "position": [224, 227],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "A92.30",
-      "R50.0",
-      "R50.1"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
@@ -36,20 +32,20 @@
     "position": [320, 331],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [335, 342],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "***********",
     "position": [383, 394],
     "type": "THUỐC",
-    "assertions": ["isHidden"],
+    "assertions": [],
     "candidates": []
   }
 ]

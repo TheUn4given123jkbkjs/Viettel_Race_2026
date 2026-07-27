@@ -4,7 +4,7 @@
     "position": [55, 66],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3098"]
+    "candidates": []
   },
   {
     "text": "u hắc tố ác tính",
@@ -18,11 +18,7 @@
     "position": [105, 118],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "đau bụng hạ sườn phải",

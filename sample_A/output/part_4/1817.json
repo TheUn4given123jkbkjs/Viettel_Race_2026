@@ -4,29 +4,21 @@
     "position": [188, 196],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "J65",
-      "Z11.1",
-      "A15.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Streptomycin",
     "position": [270, 282],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["10109"]
+    "candidates": []
   },
   {
     "text": "Tăng huyết áp",
     "position": [339, 352],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Chóng mặt",
@@ -47,11 +39,7 @@
     "position": [802, 814],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N18",
-      "N18.1",
-      "N18.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Đo thính lực đồ",

@@ -1,55 +1,35 @@
 [
   {
     "text": "bệnh van động mạch chủ không do thấp",
-    "position": [
-      104,
-      140
-    ],
+    "position": [104, 140],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I06.9",
-      "I35"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      387,
-      394
-    ],
+    "position": [387, 394],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      291,
-      304
-    ],
+    "position": [291, 304],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rối loạn lipid máu",
-    "position": [
-      308,
-      326
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [308, 326],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      536,
-      544
-    ],
+    "position": [536, 544],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

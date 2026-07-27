@@ -1,86 +1,56 @@
 [
   {
     "text": "mệt mỏi kéo dài",
-    "position": [
-      147,
-      162
-    ],
+    "position": [147, 162],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt nhẹ về chiều",
-    "position": [
-      235,
-      251
-    ],
+    "position": [235, 251],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhức các khớp ngón tay",
-    "position": [
-      354,
-      380
-    ],
+    "position": [354, 380],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng đau khớp",
-    "position": [
-      643,
-      656
-    ],
+    "position": [643, 656],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "phát ban",
-    "position": [
-      750,
-      758
-    ],
+    "position": [750, 758],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "bạch cầu hơi cao",
-    "position": [
-      909,
-      925
-    ],
+    "position": [909, 925],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "tổng phân tích tế bào máu ngoại vi",
-    "position": [
-      1759,
-      1793
-    ],
+    "position": [1759, 1793],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "định lượng CRP",
-    "position": [
-      1993,
-      2007
-    ],
+    "position": [1993, 2007],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

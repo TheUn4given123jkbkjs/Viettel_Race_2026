@@ -1,39 +1,23 @@
 [
   {
     "text": "Các bệnh sụn không đặc hiệu",
-    "position": [
-      0,
-      27
-    ],
+    "position": [0, 27],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M93.9",
-      "M94.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      396,
-      409
-    ],
+    "position": [396, 409],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      413,
-      422
-    ],
+    "position": [413, 422],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

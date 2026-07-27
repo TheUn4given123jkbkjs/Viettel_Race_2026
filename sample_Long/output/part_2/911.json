@@ -1,73 +1,44 @@
 [
   {
     "text": "xuất huyết dưới da",
-    "position": [
-      572,
-      590
-    ],
+    "position": [572, 590],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng da",
-    "position": [
-      1466,
-      1473
-    ],
+    "position": [1466, 1473],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Xuất huyết dưới da của trẻ sơ sinh",
-    "position": [
-      1833,
-      1867
-    ],
+    "position": [1833, 1867],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P54.5"
-    ]
+    "candidates": []
   },
   {
     "text": "Phytonadione",
-    "position": [
-      1937,
-      1949
-    ],
+    "position": [1937, 1949],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8308"
-    ]
+    "candidates": []
   },
   {
     "text": "Vitamin A",
-    "position": [
-      2111,
-      2120
-    ],
+    "position": [2111, 2120],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "11246",
-      "97016"
-    ]
+    "candidates": []
   },
   {
     "text": "rối loạn đông máu di truyền",
-    "position": [
-      1227,
-      1254
-    ],
+    "position": [1227, 1254],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   }
 ]

@@ -1,68 +1,44 @@
 [
   {
     "text": "huyết áp 150/100 mmHg",
-    "position": [
-      28,
-      49
-    ],
+    "position": [28, 49],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đầu đau nhức",
-    "position": [
-      51,
-      63
-    ],
+    "position": [51, 63],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng chân",
-    "position": [
-      68,
-      77
-    ],
+    "position": [68, 77],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xet nghiệm",
-    "position": [
-      79,
-      89
-    ],
+    "position": [79, 89],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tiền sản giật",
-    "position": [
-      181,
-      194
-    ],
+    "position": [181, 194],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O11",
-      "O14",
-      "O14.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Magnesium sulfate",
-    "position": [
-      294,
-      311
-    ],
+    "position": [294, 311],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6585"
-    ]
+    "candidates": []
   }
 ]

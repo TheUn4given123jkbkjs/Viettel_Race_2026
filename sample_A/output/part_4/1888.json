@@ -4,12 +4,12 @@
     "position": [1543, 1569],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E24.2"]
+    "candidates": []
   },
   {
     "text": "THA",
     "position": [212, 215],
-    "type": "TIỂU_ĐIỂM_LÀM_SÀNG",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isHistorical"],
     "candidates": []
   },

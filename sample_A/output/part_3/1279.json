@@ -9,14 +9,14 @@
   {
     "text": "phẫu thuật",
     "position": [395, 405],
-    "type": "THỂ_HỘC",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "lối sống",
     "position": [780, 788],
-    "type": "THỂ_HỘC",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
@@ -39,21 +39,13 @@
     "position": [1212, 1220],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.74",
-      "A54.43",
-      "A18.03"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh tim mạch",
     "position": [139, 152],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": []
   }
 ]

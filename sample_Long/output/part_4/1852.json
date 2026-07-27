@@ -1,55 +1,36 @@
 [
   {
     "text": "Viêm cơ",
-    "position": [
-      416,
-      423
-    ],
+    "position": [416, 423],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A54.80",
-      "A54.87",
-      "A51.45"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      132,
-      135
-    ],
+    "position": [132, 135],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      139,
-      146
-    ],
+    "position": [139, 146],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "theo dõi lối sống",
-    "position": [
-      249,
-      266
-    ],
-    "type": "ĐIỀU_TRỊ",
+    "position": [249, 266],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tập thể dục",
-    "position": [
-      270,
-      281
-    ],
-    "type": "ĐIỀU_TRỊ",
+    "position": [270, 281],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

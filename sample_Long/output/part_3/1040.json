@@ -1,85 +1,51 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [
-      139,
-      152
-    ],
+    "position": [139, 152],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đái tháo đường type 2",
-    "position": [
-      302,
-      323
-    ],
+    "position": [302, 323],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "nóng rát nhẹ",
-    "position": [
-      1162,
-      1174
-    ],
+    "position": [1162, 1174],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      1285,
-      1293
-    ],
+    "position": [1285, 1293],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "mất gai lưỡi",
-    "position": [
-      1802,
-      1814
-    ],
+    "position": [1802, 1814],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viền màu trắng",
-    "position": [
-      1908,
-      1922
-    ],
+    "position": [1908, 1922],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hồng ban hình bản đồ",
-    "position": [
-      2347,
-      2367
-    ],
+    "position": [2347, 2367],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L54.0*",
-      "L53.2"
-    ]
+    "candidates": []
   }
 ]

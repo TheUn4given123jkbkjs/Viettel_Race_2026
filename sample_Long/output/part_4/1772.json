@@ -1,110 +1,63 @@
 [
   {
     "text": "Eczema",
-    "position": [
-      53,
-      59
-    ],
+    "position": [53, 59],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hydrocortisone",
-    "position": [
-      422,
-      436
-    ],
+    "position": [422, 436],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5492",
-      "27197"
-    ]
+    "candidates": []
   },
   {
     "text": "Amoxicillin",
-    "position": [
-      720,
-      731
-    ],
+    "position": [720, 731],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "723",
-      "19711"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "bong tróc da",
-    "position": [
-      338,
-      350
-    ],
+    "position": [338, 350],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      566,
-      574
-    ],
+    "position": [566, 574],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "R11"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "viêm da",
-    "position": [
-      317,
-      324
-    ],
+    "position": [317, 324],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M33.3",
-      "B00.50",
-      "L08.0"
-    ]
+    "candidates": []
   },
   {
     "text": "ngứa",
-    "position": [
-      326,
-      330
-    ],
+    "position": [326, 330],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L20.0",
-      "L28.2",
-      "L29"
-    ]
+    "candidates": []
   },
   {
     "text": "phấn hoa",
-    "position": [
-      197,
-      205
-    ],
+    "position": [197, 205],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thức ăn",
-    "position": [
-      207,
-      214
-    ],
+    "position": [207, 214],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

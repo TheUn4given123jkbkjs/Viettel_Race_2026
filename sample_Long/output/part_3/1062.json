@@ -1,44 +1,28 @@
 [
   {
     "text": "Viêm da tiếp xúc kích ứng do thực vật, ngoại trừ thực phẩm",
-    "position": [
-      121,
-      179
-    ],
+    "position": [121, 179],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L24.7"
-    ]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      478,
-      495
-    ],
+    "position": [478, 495],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "hen suyễn",
-    "position": [
-      39,
-      48
-    ],
+    "position": [39, 48],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm da cơ địa",
-    "position": [
-      52,
-      66
-    ],
+    "position": [52, 66],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

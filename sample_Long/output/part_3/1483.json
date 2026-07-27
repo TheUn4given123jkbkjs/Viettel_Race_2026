@@ -1,60 +1,35 @@
 [
   {
     "text": "Mannitol",
-    "position": [
-      245,
-      253
-    ],
+    "position": [245, 253],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "6628"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      47,
-      60
-    ],
+    "position": [47, 60],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy thận mạn tính",
-    "position": [
-      64,
-      81
-    ],
+    "position": [64, 81],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N18"
-    ]
+    "candidates": []
   },
   {
     "text": "viêm màng não",
-    "position": [
-      115,
-      128
-    ],
+    "position": [115, 128],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.13",
-      "A54.81",
-      "A50.41"
-    ]
+    "candidates": []
   },
   {
     "text": "kháng sinh",
-    "position": [
-      169,
-      179
-    ],
+    "position": [169, 179],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

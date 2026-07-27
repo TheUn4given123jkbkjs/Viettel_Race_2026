@@ -1,37 +1,23 @@
 [
   {
     "text": "Bệnh khớp trong viêm loét đại tràng (K51.-†), bàn tay",
-    "position": [
-      181,
-      234
-    ],
+    "position": [181, 234],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M09.24*",
-      "M07.54*"
-    ]
+    "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      533,
-      543
-    ],
+    "position": [533, 543],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Không sốt",
-    "position": [
-      706,
-      715
-    ],
+    "position": [706, 715],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

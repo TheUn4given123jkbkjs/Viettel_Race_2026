@@ -1,86 +1,51 @@
 [
   {
     "text": "Tetracycline",
-    "position": [
-      18,
-      30
-    ],
+    "position": [18, 30],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "10395"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Tăng huyết áp",
-    "position": [
-      76,
-      89
-    ],
+    "position": [76, 89],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Đau hố chậu phải",
-    "position": [
-      157,
-      173
-    ],
+    "position": [157, 173],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sốt nhẹ",
-    "position": [
-      224,
-      231
-    ],
+    "position": [224, 231],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Paracetamol",
-    "position": [
-      379,
-      390
-    ],
+    "position": [379, 390],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm ổ bụng",
-    "position": [
-      490,
-      504
-    ],
+    "position": [490, 504],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm ruột thừa cấp",
-    "position": [
-      559,
-      577
-    ],
+    "position": [559, 577],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K35",
-      "K35.1",
-      "K35.2"
-    ]
+    "candidates": []
   }
 ]

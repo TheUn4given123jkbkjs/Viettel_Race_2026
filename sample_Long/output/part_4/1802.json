@@ -1,67 +1,42 @@
 [
   {
     "text": "Bệnh khớp trong viêm loét đại tràng (K51.-†), cánh tay",
-    "position": [
-      1462,
-      1516
-    ],
+    "position": [1462, 1516],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M09.22*",
-      "M07.52*"
-    ]
+    "candidates": []
   },
   {
     "text": "Prednisolone 5mg",
-    "position": [
-      1719,
-      1735
-    ],
+    "position": [1719, 1735],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Azathioprine 50mg: 1 viên/ngày, uống",
-    "position": [
-      1742,
-      1778
-    ],
+    "position": [1742, 1778],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      834,
-      842
-    ],
+    "position": [834, 842],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "đái tháo đường type 2",
-    "position": [
-      292,
-      313
-    ],
+    "position": [292, 313],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "ban đỏ",
-    "position": [
-      942,
-      948
-    ],
+    "position": [942, 948],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

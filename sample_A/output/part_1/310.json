@@ -4,21 +4,21 @@
     "position": [148, 169],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["F05.9"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [202, 209],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
     "position": [229, 240],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "Troponin",
@@ -37,14 +37,14 @@
   {
     "text": "Tiền sử THA 5 năm",
     "position": [50, 67],
-    "type": "IS_HISTORICAL",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Tiền sử cao huyết áp 3 năm",
     "position": [70, 96],
-    "type": "IS_HISTORICAL",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isHistorical"],
     "candidates": []
   },

@@ -1,52 +1,30 @@
 [
   {
     "text": "bệnh dày sừng mắc phải [da dày] ở lòng bàn tay và bàn chân",
-    "position": [
-      281,
-      339
-    ],
+    "position": [281, 339],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L85.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Salicylic acid",
-    "position": [
-      496,
-      510
-    ],
+    "position": [496, 510],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "9525",
-      "91292",
-      "466470"
-    ]
+    "candidates": []
   },
   {
     "text": "Urea",
-    "position": [
-      516,
-      520
-    ],
+    "position": [516, 520],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "11002"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sử bệnh tim",
-    "position": [
-      738,
-      754
-    ],
+    "position": [738, 754],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

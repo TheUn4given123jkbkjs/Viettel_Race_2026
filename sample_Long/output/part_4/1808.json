@@ -1,82 +1,56 @@
 [
   {
     "text": "Rung nhĩ kịch phát",
-    "position": [
-      51,
-      69
-    ],
+    "position": [51, 69],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I48.0"
-    ]
+    "candidates": []
   },
   {
     "text": "hồi hộp",
-    "position": [
-      478,
-      485
-    ],
+    "position": [478, 485],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đánh trốngngực",
-    "position": [
-      487,
-      501
-    ],
+    "position": [487, 501],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [
-      503,
-      512
-    ],
+    "position": [503, 512],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      514,
-      521
-    ],
+    "position": [514, 521],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau tức ngực",
-    "position": [
-      535,
-      547
-    ],
+    "position": [535, 547],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amiodarone 200mg",
-    "position": [
-      751,
-      767
-    ],
+    "position": [751, 767],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acenocoumarol 4mg",
-    "position": [
-      802,
-      819
-    ],
+    "position": [802, 819],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

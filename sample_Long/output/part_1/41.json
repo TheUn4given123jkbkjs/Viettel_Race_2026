@@ -1,58 +1,35 @@
 [
   {
     "text": "Viêm khớp trẻ em trong bệnh Crohn (viêm ruột đoạn] (K50.-†), vùng bả vai",
-    "position": [
-      48,
-      120
-    ],
+    "position": [48, 120],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M09.11*"
-    ]
+    "candidates": []
   },
   {
     "text": "THA",
-    "position": [
-      145,
-      148
-    ],
+    "position": [145, 148],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "tiền sử gia đình về bệnh Crohn",
-    "position": [
-      298,
-      328
-    ],
+    "position": [298, 328],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "bố bị mắc bệnh này",
-    "position": [
-      334,
-      352
-    ],
+    "position": [334, 352],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [
-      251,
-      259
-    ],
+    "position": [251, 259],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

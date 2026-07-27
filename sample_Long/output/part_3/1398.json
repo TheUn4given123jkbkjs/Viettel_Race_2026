@@ -1,38 +1,23 @@
 [
   {
     "text": "Phá thai khác (Không hoàn toàn, không có biến chứng)",
-    "position": [
-      0,
-      54
-    ],
+    "position": [0, 54],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O05.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      1069,
-      1082
-    ],
+    "position": [1069, 1082],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      1109,
-      1118
-    ],
+    "position": [1109, 1118],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

@@ -4,19 +4,19 @@
     "position": [124, 146],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C03.0"]
+    "candidates": []
   },
   {
     "text": "Abacavir",
     "position": [470, 478],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   },
   {
     "text": "THA năm 2015",
     "position": [552, 564],
-    "type": "isHistorical",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isHistorical"],
     "candidates": []
   }

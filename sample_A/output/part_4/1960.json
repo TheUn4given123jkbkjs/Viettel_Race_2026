@@ -4,7 +4,7 @@
     "position": [365, 372],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["1599"]
+    "candidates": []
   },
   {
     "text": "tim mạch",
@@ -18,24 +18,20 @@
     "position": [375, 384],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6809"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [387, 394],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "dạ dày",
     "position": [426, 432],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "S54.30",
-      "S54.31",
-      "S54.32"
-    ]
+    "candidates": []
   }
 ]

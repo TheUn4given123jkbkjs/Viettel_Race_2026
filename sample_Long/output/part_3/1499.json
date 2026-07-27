@@ -1,62 +1,37 @@
 [
   {
     "text": "Xuất huyết nội sọ, tại nhiều nơi",
-    "position": [
-      270,
-      302
-    ],
+    "position": [270, 302],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I61.6"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      326,
-      333
-    ],
+    "position": [326, 333],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      337,
-      350
-    ],
+    "position": [337, 350],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      229,
-      246
-    ],
+    "position": [229, 246],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      248,
-      257
-    ],
+    "position": [248, 257],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

@@ -1,58 +1,37 @@
 [
   {
     "text": "tiền sử loãng xưong",
-    "position": [
-      25,
-      44
-    ],
+    "position": [25, 44],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "đau lưng",
-    "position": [
-      70,
-      78
-    ],
+    "position": [70, 78],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không bị sốt",
-    "position": [
-      106,
-      118
-    ],
+    "position": [106, 118],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Xẹp đốt sốnh, chưa được xếp loại ở mục khác",
-    "position": [
-      189,
-      232
-    ],
+    "position": [189, 232],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [
-      250,
-      260
-    ],
+    "position": [250, 260],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3355"
-    ]
+    "candidates": []
   }
 ]

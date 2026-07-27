@@ -4,28 +4,28 @@
     "position": [1009, 1076],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["E13.5"]
+    "candidates": []
   },
   {
     "text": "Bệnh đái tháo đường xác định khác (Có biến chứng mạch máu ngoại vi)",
     "position": [1009, 1076],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E13.5"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [562, 569],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
     "position": [577, 588],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "Troponin",

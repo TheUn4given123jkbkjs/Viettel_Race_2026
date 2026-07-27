@@ -4,7 +4,7 @@
     "position": [0, 32],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A52.16"]
+    "candidates": []
   },
   {
     "text": "bệnh phong",
@@ -30,7 +30,7 @@
   {
     "text": "phẫu thuật",
     "position": [476, 486],
-    "type": "Điều trị",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

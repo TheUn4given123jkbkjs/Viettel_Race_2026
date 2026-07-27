@@ -1,70 +1,44 @@
 [
   {
     "text": "Xuất huyết dưới màng nhện",
-    "position": [
-      46,
-      71
-    ],
+    "position": [46, 71],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I69.0",
-      "I60",
-      "I60.0"
-    ]
+    "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [
-      276,
-      283
-    ],
+    "position": [276, 283],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn mửa",
-    "position": [
-      292,
-      299
-    ],
+    "position": [292, 299],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cổ cứng",
-    "position": [
-      303,
-      310
-    ],
+    "position": [303, 310],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Mannitol",
-    "position": [
-      360,
-      368
-    ],
+    "position": [360, 368],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6628"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      394,
-      407
-    ],
+    "position": [394, 407],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

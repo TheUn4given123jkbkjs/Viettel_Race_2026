@@ -4,38 +4,34 @@
     "position": [26, 50],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G00.1"]
+    "candidates": []
   },
   {
     "text": "Abacavir",
     "position": [129, 137],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   },
   {
     "text": "Lamivudine",
     "position": [552, 562],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "68244",
-      "2003201",
-      "2003222"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
     "position": [328, 341],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": []
   },
   {
     "text": "Acyclovir",
     "position": [345, 354],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["281"]
+    "candidates": []
   }
 ]

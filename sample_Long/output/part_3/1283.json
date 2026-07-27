@@ -1,84 +1,56 @@
 [
   {
     "text": "đau tức ngực",
-    "position": [
-      157,
-      169
-    ],
+    "position": [157, 169],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau tức vùng ngực trái",
-    "position": [
-      372,
-      394
-    ],
+    "position": [372, 394],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [
-      531,
-      540
-    ],
+    "position": [531, 540],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khók hăn khi thở sâu",
-    "position": [
-      553,
-      573
-    ],
+    "position": [553, 573],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      837,
-      846
-    ],
+    "position": [837, 846],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (ECG) 12 chuyển đạo",
-    "position": [
-      1156,
-      1187
-    ],
+    "position": [1156, 1187],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp xoang",
-    "position": [
-      1198,
-      1208
-    ],
+    "position": [1198, 1208],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tần số 105 lần/phút",
-    "position": [
-      1214,
-      1233
-    ],
+    "position": [1214, 1233],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -4,11 +4,7 @@
     "position": [226, 231],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E89.40",
-      "E89.41",
-      "G97"
-    ]
+    "candidates": []
   },
   {
     "text": "có",
@@ -22,29 +18,21 @@
     "position": [355, 377],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "H28.1*",
-      "H28.2*",
-      "H25.8"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [269, 276],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "thuật",
     "position": [226, 231],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E89.40",
-      "E89.41",
-      "G97"
-    ]
+    "candidates": []
   },
   {
     "text": "thuốc",
@@ -58,11 +46,7 @@
     "position": [364, 372],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "H28.1*",
-      "H28.2*",
-      "H28.8*"
-    ]
+    "candidates": []
   },
   {
     "text": "thuốc",
@@ -76,10 +60,6 @@
     "position": [466, 476],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K91",
-      "K91.0",
-      "K91.1"
-    ]
+    "candidates": []
   }
 ]

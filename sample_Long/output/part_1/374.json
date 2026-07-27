@@ -1,72 +1,49 @@
 [
   {
     "text": "đau đầu",
-    "position": [
-      24,
-      31
-    ],
+    "position": [24, 31],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      35,
-      42
-    ],
+    "position": [35, 42],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt nhẹ",
-    "position": [
-      69,
-      76
-    ],
+    "position": [69, 76],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      80,
-      97
-    ],
+    "position": [80, 97],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [
-      366,
-      386
-    ],
+    "position": [366, 386],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm sinh hóa",
-    "position": [
-      388,
-      407
-    ],
+    "position": [388, 407],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm hình ảnh",
-    "position": [
-      411,
-      430
-    ],
+    "position": [411, 430],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

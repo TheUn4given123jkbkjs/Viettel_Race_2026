@@ -4,7 +4,7 @@
     "position": [141, 152],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["2393"]
+    "candidates": []
   },
   {
     "text": "troponin",
@@ -18,42 +18,34 @@
     "position": [508, 515],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceft",
     "position": [519, 523],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "sốt",
     "position": [341, 344],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A92.30",
-      "R50.0",
-      "R50.1"
-    ]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
     "position": [279, 287],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["R11"]
+    "candidates": []
   },
   {
     "text": "bệnh tim mạch",
     "position": [640, 653],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": []
   }
 ]

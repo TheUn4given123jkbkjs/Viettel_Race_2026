@@ -1,78 +1,49 @@
 [
   {
     "text": "đau vùng hạ vị",
-    "position": [
-      118,
-      132
-    ],
+    "position": [118, 132],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt cao",
-    "position": [
-      394,
-      407
-    ],
+    "position": [394, 407],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "bệnh về đường tiết niệu",
-    "position": [
-      519,
-      542
-    ],
+    "position": [519, 542],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Áp xe tuyến tiền liệt",
-    "position": [
-      845,
-      866
-    ],
+    "position": [845, 866],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N41.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
-    "position": [
-      1141,
-      1154
-    ],
+    "position": [1141, 1154],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2551"
-    ]
+    "candidates": []
   },
   {
     "text": "tiểu rắt",
-    "position": [
-      208,
-      216
-    ],
+    "position": [208, 216],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      441,
-      448
-    ],
+    "position": [441, 448],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

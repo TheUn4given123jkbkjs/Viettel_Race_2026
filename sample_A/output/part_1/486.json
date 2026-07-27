@@ -4,12 +4,12 @@
     "position": [615, 650],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A50.04"]
+    "candidates": []
   },
   {
     "text": "aspirin 100mg mỗi ngày",
     "position": [398, 420],
-    "type": "",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
@@ -30,21 +30,21 @@
   {
     "text": "[Tên bác sĩ]",
     "position": [21, 33],
-    "type": "",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "[Ngày]",
     "position": [43, 49],
-    "type": "",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "[Date]",
     "position": [86, 92],
-    "type": "",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

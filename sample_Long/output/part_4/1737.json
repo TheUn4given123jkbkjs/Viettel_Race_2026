@@ -1,53 +1,35 @@
 [
   {
     "text": "Dày sừng trong các bệnh đã được phân loại ở phần khác",
-    "position": [
-      75,
-      128
-    ],
+    "position": [75, 128],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L86",
-      "L86*"
-    ]
+    "candidates": []
   },
   {
     "text": "da tăng sinh lớp thượng bì",
-    "position": [
-      144,
-      170
-    ],
+    "position": [144, 170],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mảng da dày",
-    "position": [
-      304,
-      315
-    ],
+    "position": [304, 315],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thô ráp",
-    "position": [
-      317,
-      324
-    ],
+    "position": [317, 324],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sần sùi",
-    "position": [
-      330,
-      337
-    ],
+    "position": [330, 337],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

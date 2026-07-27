@@ -4,11 +4,7 @@
     "position": [51, 65],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "A60.04",
-      "B00",
-      "A60"
-    ]
+    "candidates": []
   },
   {
     "text": "đau nhức",
@@ -36,20 +32,20 @@
     "position": [287, 370],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["H22.0*"]
+    "candidates": []
   },
   {
     "text": "Acyclovir",
     "position": [397, 406],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["281"]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
     "position": [410, 422],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": []
   }
 ]

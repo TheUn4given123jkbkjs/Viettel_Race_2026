@@ -4,7 +4,7 @@
     "position": [278, 289],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["5093"]
+    "candidates": []
   },
   {
     "text": "troponin",
@@ -32,13 +32,13 @@
     "position": [684, 695],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [787, 794],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   }
 ]

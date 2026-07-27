@@ -39,24 +39,20 @@
     "position": [1311, 1352],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A27.0"]
+    "candidates": []
   },
   {
     "text": "Penicillin G",
     "position": [1448, 1460],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "7982",
-      "7980",
-      "7983"
-    ]
+    "candidates": []
   },
   {
     "text": "Doxycycline",
     "position": [1515, 1526],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3640"]
+    "candidates": []
   }
 ]

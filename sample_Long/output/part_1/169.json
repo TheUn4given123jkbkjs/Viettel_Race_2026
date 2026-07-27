@@ -1,41 +1,23 @@
 [
   {
     "text": "Phá thai nội khoa thất bại, gây biến chứng nhiễm khuẩn đường sinh dục và tiểu khung",
-    "position": [
-      415,
-      498
-    ],
+    "position": [415, 498],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "O07.0",
-      "O07.5"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "Abacavir",
-    "position": [
-      515,
-      523
-    ],
+    "position": [515, 523],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "190521"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      545,
-      556
-    ],
+    "position": [545, 556],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   }
 ]

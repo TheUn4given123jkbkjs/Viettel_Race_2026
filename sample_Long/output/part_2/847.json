@@ -1,80 +1,49 @@
 [
   {
     "text": "đauvùng hạ vị",
-    "position": [
-      143,
-      156
-    ],
+    "position": [143, 156],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      775,
-      784
-    ],
+    "position": [775, 784],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      904,
-      921
-    ],
+    "position": [904, 921],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "u xơ tử cung",
-    "position": [
-      1076,
-      1088
-    ],
+    "position": [1076, 1088],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      1383,
-      1400
-    ],
+    "position": [1383, 1400],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Chăm sóc bà mẹ vì các bất thường của các tạng trong tiểu khung, chưa xác định rõ",
-    "position": [
-      1734,
-      1814
-    ],
+    "position": [1734, 1814],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O34.9"
-    ]
+    "candidates": []
   },
   {
     "text": "triẹu chứng chèn ép",
-    "position": [
-      2529,
-      2548
-    ],
+    "position": [2529, 2548],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

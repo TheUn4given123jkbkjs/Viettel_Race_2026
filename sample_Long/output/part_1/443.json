@@ -1,85 +1,51 @@
 [
   {
     "text": "THA",
-    "position": [
-      96,
-      99
-    ],
+    "position": [96, 99],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical",
-      "isFamily"
-    ],
+    "assertions": ["isHistorical", "isFamily"],
     "candidates": []
   },
   {
     "text": "đau đầu dữ dội",
-    "position": [
-      204,
-      218
-    ],
+    "position": [204, 218],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn vọt",
-    "position": [
-      280,
-      287
-    ],
+    "position": [280, 287],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      320,
-      329
-    ],
+    "position": [320, 329],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Xuất huyết dưới màng nhện",
-    "position": [
-      707,
-      732
-    ],
+    "position": [707, 732],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I69.0",
-      "I60",
-      "I60.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Mannitol",
-    "position": [
-      973,
-      981
-    ],
+    "position": [973, 981],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6628"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      1035,
-      1048
-    ],
+    "position": [1035, 1048],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

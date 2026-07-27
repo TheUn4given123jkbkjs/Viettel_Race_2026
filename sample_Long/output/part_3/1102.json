@@ -1,54 +1,35 @@
 [
   {
     "text": "viêm phổi",
-    "position": [
-      5,
-      14
-    ],
-    "type": "TÊN_BỆNH",
+    "position": [5, 14],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      177,
-      180
-    ],
+    "position": [177, 180],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [
-      133,
-      135
-    ],
+    "position": [133, 135],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "'Penicillin V'",
-    "position": [
-      275,
-      289
-    ],
+    "position": [275, 289],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "7984"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [
-      198,
-      205
-    ],
+    "position": [198, 205],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -11,11 +11,7 @@
     "position": [55, 66],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A54.86",
-      "E76.29",
-      "J95.02"
-    ]
+    "candidates": []
   },
   {
     "text": "Candida albicans",
@@ -43,7 +39,7 @@
     "position": [274, 282],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["7597"]
+    "candidates": []
   },
   {
     "text": "thuốc kháng nấm",

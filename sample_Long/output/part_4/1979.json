@@ -1,76 +1,49 @@
 [
   {
     "text": "rối loạn đông máu",
-    "position": [
-      179,
-      196
-    ],
+    "position": [179, 196],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [
-      225,
-      238
-    ],
+    "position": [225, 238],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "bệnh mạch vành",
-    "position": [
-      328,
-      342
-    ],
+    "position": [328, 342],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh động mạch ngoại vi",
-    "position": [
-      346,
-      369
-    ],
+    "position": [346, 369],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      525,
-      532
-    ],
+    "position": [525, 532],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      536,
-      547
-    ],
+    "position": [536, 547],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      657,
-      665
-    ],
+    "position": [657, 665],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

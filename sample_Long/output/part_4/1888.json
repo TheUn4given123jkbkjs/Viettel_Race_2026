@@ -1,38 +1,23 @@
 [
   {
     "text": "Ceftriaxone",
-    "position": [
-      400,
-      411
-    ],
+    "position": [400, 411],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      415,
-      428
-    ],
+    "position": [415, 428],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      536,
-      545
-    ],
+    "position": [536, 545],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   }
 ]

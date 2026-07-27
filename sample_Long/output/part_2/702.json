@@ -1,94 +1,58 @@
 [
   {
     "text": "mệt mỏi",
-    "position": [
-      52,
-      59
-    ],
+    "position": [52, 59],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đi tiểu thấy nước tiểu đục",
-    "position": [
-      63,
-      89
-    ],
+    "position": [63, 89],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy thận mạn",
-    "position": [
-      165,
-      177
-    ],
+    "position": [165, 177],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "N18",
-      "N18.1",
-      "N18.2"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau thắt lưng",
-    "position": [
-      613,
-      626
-    ],
+    "position": [613, 626],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "pH nước tiểu",
-    "position": [
-      804,
-      816
-    ],
+    "position": [804, 816],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "7.2",
-    "position": [
-      829,
-      832
-    ],
+    "position": [829, 832],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hạ kali máu",
-    "position": [
-      918,
-      929
-    ],
+    "position": [918, 929],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E87.6"
-    ]
+    "candidates": []
   },
   {
     "text": "Rối loạn do suy giảm chức năng ống thận",
-    "position": [
-      1063,
-      1102
-    ],
+    "position": [1063, 1102],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N25",
-      "N25.8",
-      "N25.9"
-    ]
+    "candidates": []
   }
 ]

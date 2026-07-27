@@ -1,53 +1,35 @@
 [
   {
     "text": "Đặt forcep trung bình",
-    "position": [
-      0,
-      21
-    ],
+    "position": [0, 21],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O81.1",
-      "O81.2"
-    ]
+    "candidates": []
   },
   {
     "text": "thủ thuật",
-    "position": [
-      29,
-      38
-    ],
+    "position": [29, 38],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "quá trình sinh nở",
-    "position": [
-      69,
-      86
-    ],
+    "position": [69, 86],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bác sĩ",
-    "position": [
-      168,
-      174
-    ],
+    "position": [168, 174],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "forcep",
-    "position": [
-      4,
-      10
-    ],
+    "position": [4, 10],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

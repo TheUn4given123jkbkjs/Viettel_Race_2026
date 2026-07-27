@@ -11,11 +11,7 @@
     "position": [405, 415],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "P28.11",
-      "J80",
-      "P22"
-    ]
+    "candidates": []
   },
   {
     "text": "ho mạn tính",
@@ -57,6 +53,6 @@
     "position": [2365, 2395],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E84.0"]
+    "candidates": []
   }
 ]

@@ -2,7 +2,7 @@
   {
     "text": "bệnh trầm cảm",
     "position": [267, 280],
-    "type": "KỆT_QUẢ_TÍNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
@@ -11,19 +11,19 @@
     "position": [1007, 1018],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["35636"]
+    "candidates": []
   },
   {
     "text": "bệnh trầm cảm",
     "position": [267, 280],
-    "type": "KỆT_QUẢ_TÍNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bác sĩ",
     "position": [826, 832],
-    "type": "CHUYÊN_GIA",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
@@ -37,7 +37,7 @@
   {
     "text": "bệnh trầm cảm",
     "position": [267, 280],
-    "type": "KỆT_QUẢ_TÍNH",
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
@@ -46,12 +46,12 @@
     "position": [1007, 1018],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["35636"]
+    "candidates": []
   },
   {
     "text": "bác sĩ",
     "position": [826, 832],
-    "type": "CHUYÊN_GIA",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

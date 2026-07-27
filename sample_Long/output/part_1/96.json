@@ -1,88 +1,51 @@
 [
   {
     "text": "lao phổi",
-    "position": [
-      71,
-      79
-    ],
+    "position": [71, 79],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "J65",
-      "Z11.1",
-      "A15.0"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "sưng nóng",
-    "position": [
-      498,
-      507
-    ],
+    "position": [498, 507],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      579,
-      582
-    ],
+    "position": [579, 582],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Viêm màng hoạt dịch và viêm bao gân trong những bệnh nhiễm khuẩn được xếp loại ở mục khác",
-    "position": [
-      1029,
-      1118
-    ],
+    "position": [1029, 1118],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M68.0*"
-    ]
+    "candidates": []
   },
   {
     "text": "Ciprofloxacin",
-    "position": [
-      1147,
-      1160
-    ],
+    "position": [1147, 1160],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2551"
-    ]
+    "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [
-      1207,
-      1217
-    ],
+    "position": [1207, 1217],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3355"
-    ]
+    "candidates": []
   },
   {
     "text": "ớn lạnh",
-    "position": [
-      592,
-      599
-    ],
+    "position": [592, 599],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

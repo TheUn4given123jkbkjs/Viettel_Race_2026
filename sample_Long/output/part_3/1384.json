@@ -1,54 +1,35 @@
 [
   {
     "text": "Prednisolone",
-    "position": [
-      41,
-      53
-    ],
+    "position": [41, 53],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "8638"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "viêm khớp",
-    "position": [
-      71,
-      80
-    ],
+    "position": [71, 80],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng cân",
-    "position": [
-      419,
-      427
-    ],
+    "position": [419, 427],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      429,
-      442
-    ],
+    "position": [429, 442],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "loãng xương",
-    "position": [
-      444,
-      455
-    ],
+    "position": [444, 455],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

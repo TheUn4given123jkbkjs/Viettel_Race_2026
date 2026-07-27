@@ -1,59 +1,37 @@
 [
   {
     "text": "đái tháo đường thai kỳ",
-    "position": [
-      88,
-      110
-    ],
+    "position": [88, 110],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical",
-      "isNegated"
-    ],
+    "assertions": ["isHistorical", "isNegated"],
     "candidates": []
   },
   {
     "text": "Đau trằn nhẹ vùng hạ vị",
-    "position": [
-      211,
-      234
-    ],
+    "position": [211, 234],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ra máu âm đạo",
-    "position": [
-      243,
-      256
-    ],
+    "position": [243, 256],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Siêu âm sản khoa",
-    "position": [
-      661,
-      677
-    ],
+    "position": [661, 677],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đẻ nhiều thai, tất cả bằng mổ lấy thai",
-    "position": [
-      980,
-      1018
-    ],
+    "position": [980, 1018],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O84.2"
-    ]
+    "candidates": []
   }
 ]

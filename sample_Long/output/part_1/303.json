@@ -1,53 +1,36 @@
 [
   {
     "text": "Hội chứng thận hư không xác định",
-    "position": [
-      0,
-      32
-    ],
+    "position": [0, 32],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N04.9"
-    ]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      334,
-      347
-    ],
+    "position": [334, 347],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy giảm thị lực",
-    "position": [
-      349,
-      365
-    ],
+    "position": [349, 365],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi mãn tính",
-    "position": [
-      381,
-      397
-    ],
+    "position": [381, 397],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      656,
-      666
-    ],
-    "type": "ĐIỀU_TRỊ",
+    "position": [656, 666],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

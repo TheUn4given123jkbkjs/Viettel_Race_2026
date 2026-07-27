@@ -4,7 +4,7 @@
     "position": [1072, 1083],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["1344"]
+    "candidates": []
   },
   {
     "text": "Artemisinin",
@@ -25,13 +25,13 @@
     "position": [1206, 1217],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [1228, 1235],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   }
 ]

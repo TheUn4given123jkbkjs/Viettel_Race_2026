@@ -1,86 +1,51 @@
 [
   {
     "text": "Cyclosporine",
-    "position": [
-      173,
-      185
-    ],
+    "position": [173, 185],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "3008"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "ghép thận",
-    "position": [
-      80,
-      89
-    ],
+    "position": [80, 89],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "N16.5*",
-      "T86.1",
-      "Z94.0"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      394,
-      402
-    ],
+    "position": [394, 402],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      513,
-      521
-    ],
+    "position": [513, 521],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      586,
-      589
-    ],
+    "position": [586, 589],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      811,
-      819
-    ],
+    "position": [811, 819],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      961,
-      968
-    ],
+    "position": [961, 968],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   }
 ]

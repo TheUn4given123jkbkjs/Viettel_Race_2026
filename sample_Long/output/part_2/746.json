@@ -1,48 +1,28 @@
 [
   {
     "text": "Bệnh hệ tiêu hóa, không đặc hiệu",
-    "position": [
-      104,
-      136
-    ],
+    "position": [104, 136],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "K92.9"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [
-      201,
-      218
-    ],
+    "position": [201, 218],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      265,
-      282
-    ],
+    "position": [265, 282],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "theo dõi lối sống",
-    "position": [
-      161,
-      178
-    ],
+    "position": [161, 178],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,76 +1,44 @@
 [
   {
     "text": "sốt cao",
-    "position": [
-      115,
-      122
-    ],
+    "position": [115, 122],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "rét run",
-    "position": [
-      148,
-      155
-    ],
+    "position": [148, 155],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau tức ngực",
-    "position": [
-      159,
-      171
-    ],
+    "position": [159, 171],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "Viêm phổi do Klebsiella pneumoniae",
-    "position": [
-      359,
-      393
-    ],
+    "position": [359, 393],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "J15.0"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "Amikacin",
-    "position": [
-      1085,
-      1093
-    ],
+    "position": [1085, 1093],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "641"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      1180,
-      1193
-    ],
+    "position": [1180, 1193],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

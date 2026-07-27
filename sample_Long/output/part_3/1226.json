@@ -1,76 +1,49 @@
 [
   {
     "text": "Thai nhi và trẻ sơ sinh bị ảnh hưởng do các tình trạng bệnh lý chưa xác định của mẹ",
-    "position": [
-      940,
-      1023
-    ],
+    "position": [940, 1023],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P00.9"
-    ]
+    "candidates": []
   },
   {
     "text": "chỉ số Apgar thấp",
-    "position": [
-      688,
-      705
-    ],
+    "position": [688, 705],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy thai cấp",
-    "position": [
-      773,
-      785
-    ],
+    "position": [773, 785],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tắc ruột bẩm sinh",
-    "position": [
-      868,
-      885
-    ],
+    "position": [868, 885],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      1061,
-      1064
-    ],
+    "position": [1061, 1064],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "co giật",
-    "position": [
-      1080,
-      1087
-    ],
+    "position": [1080, 1087],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [
-      1406,
-      1410
-    ],
+    "position": [1406, 1410],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

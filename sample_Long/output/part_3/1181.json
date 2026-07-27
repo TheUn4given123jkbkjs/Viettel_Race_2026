@@ -1,67 +1,43 @@
 [
   {
     "text": "bệnh tim do tăng huyết áp, không suy tim (sung huyết)",
-    "position": [
-      246,
-      299
-    ],
+    "position": [246, 299],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I11.9"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      140,
-      147
-    ],
+    "position": [140, 147],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      151,
-      162
-    ],
+    "position": [151, 162],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      81,
-      89
-    ],
-    "type": "TIỀN_SỮ_BỆNH_NỘI_KHOA",
+    "position": [81, 89],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      93,
-      106
-    ],
-    "type": "TIỀN_SỮ_BỆNH_NỘI_KHOA",
+    "position": [93, 106],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      392,
-      402
-    ],
-    "type": "TIỀU_CHỨNH",
+    "position": [392, 402],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

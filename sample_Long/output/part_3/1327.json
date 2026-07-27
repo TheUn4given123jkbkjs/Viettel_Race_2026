@@ -1,84 +1,51 @@
 [
   {
     "text": "u xơ tử cung 2 năm trứoc",
-    "position": [
-      34,
-      58
-    ],
+    "position": [34, 58],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "đau quặn bụng dứới",
-    "position": [
-      109,
-      127
-    ],
+    "position": [109, 127],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      147,
-      155
-    ],
+    "position": [147, 155],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      165,
-      168
-    ],
+    "position": [165, 168],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Chăm sóc bà mẹ vì các bất thường của các tạng trong tiểu khung, chưa xác định rõ",
-    "position": [
-      245,
-      325
-    ],
+    "position": [245, 325],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O34.9"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      352,
-      365
-    ],
+    "position": [352, 365],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Alverine",
-    "position": [
-      369,
-      377
-    ],
+    "position": [369, 377],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "17627"
-    ]
+    "candidates": []
   }
 ]

@@ -4,7 +4,7 @@
     "position": [662, 689],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["2467748"]
+    "candidates": []
   },
   {
     "text": "Prednisone",
@@ -18,18 +18,14 @@
     "position": [587, 596],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8183"]
+    "candidates": []
   },
   {
     "text": "bệnh động kinh",
     "position": [417, 431],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G99.0*",
-      "G99.1*",
-      "G12.2"
-    ]
+    "candidates": []
   },
   {
     "text": "co giật",

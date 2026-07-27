@@ -4,7 +4,7 @@
     "position": [337, 346],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["1596"]
+    "candidates": []
   },
   {
     "text": "Troponin",
@@ -18,28 +18,20 @@
     "position": [259, 262],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A92.30",
-      "R50.0",
-      "R50.1"
-    ]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
     "position": [264, 272],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "candidates": []
   },
   {
     "text": "Không sốt",
     "position": [504, 513],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A92.30",
-      "Y45.9",
-      "X60"
-    ]
+    "candidates": []
   }
 ]

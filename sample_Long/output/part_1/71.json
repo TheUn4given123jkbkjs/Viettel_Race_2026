@@ -1,42 +1,28 @@
 [
   {
     "text": "Hạ huyết áp do thuốc",
-    "position": [
-      0,
-      20
-    ],
+    "position": [0, 20],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I95.2"
-    ]
+    "candidates": []
   },
   {
     "text": "choáng váng",
-    "position": [
-      229,
-      240
-    ],
+    "position": [229, 240],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [
-      242,
-      251
-    ],
+    "position": [242, 251],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn",
-    "position": [
-      389,
-      392
-    ],
+    "position": [389, 392],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

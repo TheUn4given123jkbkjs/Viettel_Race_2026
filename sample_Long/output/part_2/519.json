@@ -1,66 +1,37 @@
 [
   {
     "text": "viêm khớp do lao (A18.0†), cổ, bàn chân",
-    "position": [
-      119,
-      158
-    ],
+    "position": [119, 158],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M01.17*"
-    ]
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      259,
-      266
-    ],
+    "position": [259, 266],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      270,
-      281
-    ],
+    "position": [270, 281],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "rifampin",
-    "position": [
-      664,
-      672
-    ],
+    "position": [664, 672],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "814321",
-      "214662",
-      "9384"
-    ]
+    "candidates": []
   },
   {
     "text": "isoniazid",
-    "position": [
-      676,
-      685
-    ],
+    "position": [676, 685],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "821005",
-      "814321",
-      "6038"
-    ]
+    "candidates": []
   }
 ]

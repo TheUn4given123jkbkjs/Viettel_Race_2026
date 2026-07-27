@@ -1,81 +1,44 @@
 [
   {
     "text": "ĐTĐ tuýp 2",
-    "position": [
-      159,
-      169
-    ],
+    "position": [159, 169],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      215,
-      228
-    ],
+    "position": [215, 228],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      455,
-      463
-    ],
+    "position": [455, 463],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Đa thai khác",
-    "position": [
-      761,
-      773
-    ],
+    "position": [761, 773],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O99",
-      "O30.8",
-      "O31.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Progesterone",
-    "position": [
-      797,
-      809
-    ],
+    "position": [797, 809],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8727"
-    ]
+    "candidates": []
   },
   {
     "text": "Folic acid",
-    "position": [
-      825,
-      835
-    ],
+    "position": [825, 835],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4511",
-      "105658"
-    ]
+    "candidates": []
   }
 ]

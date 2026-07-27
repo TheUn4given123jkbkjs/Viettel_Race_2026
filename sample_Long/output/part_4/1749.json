@@ -1,66 +1,42 @@
 [
   {
     "text": "Diphtheria-Tetanus-Pertussis-Hepatitis B-Haemophilus influenzae type b Vaccine",
-    "position": [
-      377,
-      455
-    ],
+    "position": [377, 455],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      301,
-      310
-    ],
+    "position": [301, 310],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "phủ nhận cảm giác chán ăn",
-    "position": [
-      314,
-      339
-    ],
+    "position": [314, 339],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "viêm gan B",
-    "position": [
-      527,
-      537
-    ],
+    "position": [527, 537],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      211,
-      218
-    ],
+    "position": [211, 218],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng da",
-    "position": [
-      220,
-      227
-    ],
+    "position": [220, 227],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

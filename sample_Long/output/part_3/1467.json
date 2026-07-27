@@ -1,38 +1,23 @@
 [
   {
     "text": "Khớp giả sau thủ thuật làm cứng khớp",
-    "position": [
-      251,
-      287
-    ],
+    "position": [251, 287],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M96.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      361,
-      374
-    ],
+    "position": [361, 374],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [
-      384,
-      394
-    ],
+    "position": [384, 394],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3355"
-    ]
+    "candidates": []
   }
 ]

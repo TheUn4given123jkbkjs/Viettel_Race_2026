@@ -1,62 +1,42 @@
 [
   {
     "text": "Đau nhức nhiều",
-    "position": [
-      175,
-      189
-    ],
+    "position": [175, 189],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sốt nhẹ",
-    "position": [
-      209,
-      216
-    ],
+    "position": [209, 216],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rỉ dịch mủ mùi hôi",
-    "position": [
-      239,
-      257
-    ],
+    "position": [239, 257],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Toác vết mổ lấy thai",
-    "position": [
-      777,
-      797
-    ],
+    "position": [777, 797],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O90.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Cefuroxime 500mg",
-    "position": [
-      926,
-      942
-    ],
+    "position": [926, 942],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Metronidazole 250mg",
-    "position": [
-      978,
-      997
-    ],
+    "position": [978, 997],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

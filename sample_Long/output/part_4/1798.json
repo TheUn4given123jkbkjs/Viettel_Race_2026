@@ -1,66 +1,42 @@
 [
   {
     "text": "mảng màng phổi không do amian",
-    "position": [
-      102,
-      131
-    ],
+    "position": [102, 131],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "J92.9"
-    ]
+    "assertions": ["isNegated"],
+    "candidates": []
   },
   {
     "text": "phổi",
-    "position": [
-      56,
-      60
-    ],
+    "position": [56, 60],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      557,
-      567
-    ],
+    "position": [557, 567],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      713,
-      721
-    ],
+    "position": [713, 721],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "hút thuốc lá",
-    "position": [
-      778,
-      790
-    ],
+    "position": [778, 790],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh mảng màng phổi không do amian",
-    "position": [
-      97,
-      131
-    ],
+    "position": [97, 131],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

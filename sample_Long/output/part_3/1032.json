@@ -1,82 +1,56 @@
 [
   {
     "text": "đau âm ỉ vùng hạ sườn phải",
-    "position": [
-      128,
-      154
-    ],
+    "position": [128, 154],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng mắt nhẹ",
-    "position": [
-      340,
-      352
-    ],
+    "position": [340, 352],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng da",
-    "position": [
-      490,
-      497
-    ],
+    "position": [490, 497],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "AST 105",
-    "position": [
-      601,
-      608
-    ],
+    "position": [601, 608],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bilirubin toàn phần: 35.2 µmol/L",
-    "position": [
-      619,
-      651
-    ],
+    "position": [619, 651],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Huyết áp: 125/80 mmHg",
-    "position": [
-      762,
-      783
-    ],
+    "position": [762, 783],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm bụng tổng quát",
-    "position": [
-      859,
-      881
-    ],
+    "position": [859, 881],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp CT ổ bụng có cản quang",
-    "position": [
-      885,
-      912
-    ],
+    "position": [885, 912],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

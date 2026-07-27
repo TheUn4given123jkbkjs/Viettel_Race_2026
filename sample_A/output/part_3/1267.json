@@ -4,17 +4,13 @@
     "position": [57, 67],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["28889"]
+    "candidates": []
   },
   {
     "text": "dị ứng",
     "position": [159, 165],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "L23",
-      "L23.0",
-      "L23.1"
-    ]
+    "candidates": []
   }
 ]

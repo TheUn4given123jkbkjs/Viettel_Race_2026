@@ -1,86 +1,56 @@
 [
   {
     "text": "sốt cao kéo dài",
-    "position": [
-      733,
-      748
-    ],
+    "position": [733, 748],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "phátban dạng chấm đỏ",
-    "position": [
-      809,
-      829
-    ],
+    "position": [809, 829],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [
-      907,
-      924
-    ],
+    "position": [907, 924],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "không có dấu hiệu đau bụng",
-    "position": [
-      928,
-      954
-    ],
+    "position": [928, 954],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Tổng phân tích tế bào máu ngoại vi (CBC)",
-    "position": [
-      1090,
-      1130
-    ],
+    "position": [1090, 1130],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xet nghiệm kháng nguyên NS1",
-    "position": [
-      1132,
-      1159
-    ],
+    "position": [1132, 1159],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "3.1 G/L",
-    "position": [
-      1241,
-      1248
-    ],
+    "position": [1241, 1248],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "105 G/L",
-    "position": [
-      1277,
-      1284
-    ],
+    "position": [1277, 1284],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

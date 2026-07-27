@@ -1,76 +1,49 @@
 [
   {
     "text": "Metformin",
-    "position": [
-      46,
-      55
-    ],
+    "position": [46, 55],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "6809"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Đau tức vùng vú",
-    "position": [
-      98,
-      113
-    ],
+    "position": [98, 113],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mảng xơ cứng",
-    "position": [
-      154,
-      166
-    ],
+    "position": [154, 166],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm",
-    "position": [
-      256,
-      263
-    ],
+    "position": [256, 263],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Loạn sản lành tính vú khác, vú nữ, không xác định bên",
-    "position": [
-      337,
-      390
-    ],
+    "position": [337, 390],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N60.80"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen 400mg",
-    "position": [
-      400,
-      415
-    ],
+    "position": [400, 415],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tamoxifen 10mg",
-    "position": [
-      419,
-      433
-    ],
+    "position": [419, 433],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

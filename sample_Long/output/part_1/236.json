@@ -1,70 +1,44 @@
 [
   {
     "text": "đau răng",
-    "position": [
-      82,
-      90
-    ],
+    "position": [82, 90],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ê buốt",
-    "position": [
-      144,
-      150
-    ],
+    "position": [144, 150],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đốm đen",
-    "position": [
-      268,
-      275
-    ],
+    "position": [268, 275],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hôi miệng",
-    "position": [
-      355,
-      364
-    ],
+    "position": [355, 364],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường",
-    "position": [
-      435,
-      449
-    ],
+    "position": [435, 449],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "E12.9",
-      "E13",
-      "E13.0"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "Sâu răng, không đặc hiệu",
-    "position": [
-      810,
-      834
-    ],
+    "position": [810, 834],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K02.9"
-    ]
+    "candidates": []
   }
 ]

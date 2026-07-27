@@ -4,24 +4,20 @@
     "position": [90, 108],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E50.7",
-      "E50.8",
-      "E53"
-    ]
+    "candidates": []
   },
   {
     "text": "Abacavir",
     "position": [884, 892],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   },
   {
     "text": "Albendazole",
     "position": [993, 1004],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["430"]
+    "candidates": []
   }
 ]

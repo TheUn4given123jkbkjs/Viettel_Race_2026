@@ -1,100 +1,58 @@
 [
   {
     "text": "chóng mặt",
-    "position": [
-      56,
-      65
-    ],
+    "position": [56, 65],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "điện tâm đồ",
-    "position": [
-      268,
-      279
-    ],
+    "position": [268, 279],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tăng huyết áp",
-    "position": [
-      369,
-      382
-    ],
+    "position": [369, 382],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [
-      402,
-      412
-    ],
+    "position": [402, 412],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "17767"
-    ]
+    "candidates": []
   },
   {
     "text": "Đột quỵ não",
-    "position": [
-      435,
-      446
-    ],
+    "position": [435, 446],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "E88.31",
-      "G46.3*",
-      "G46.4*"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "không đau ngực",
-    "position": [
-      534,
-      548
-    ],
+    "position": [534, 548],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Blốc nhĩ thất độ I",
-    "position": [
-      845,
-      863
-    ],
+    "position": [845, 863],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I44.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Heptaminol",
-    "position": [
-      997,
-      1007
-    ],
+    "position": [997, 1007],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5254"
-    ]
+    "candidates": []
   }
 ]

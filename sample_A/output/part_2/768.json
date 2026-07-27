@@ -11,11 +11,7 @@
     "position": [87, 100],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I20",
-      "I20.0",
-      "I20.1"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh cao huyết áp",
@@ -34,8 +30,8 @@
   {
     "text": "phủ nhận buồn nôn",
     "position": [717, 734],
-    "type": "isNegated",
-    "assertions": [],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

@@ -1,54 +1,35 @@
 [
   {
     "text": "Trĩ xác định khác",
-    "position": [
-      821,
-      838
-    ],
+    "position": [821, 838],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      480,
-      489
-    ],
+    "position": [480, 489],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      497,
-      505
-    ],
+    "position": [497, 505],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      883,
-      893
-    ],
+    "position": [883, 893],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thay đổi habit đại tiện",
-    "position": [
-      1449,
-      1472
-    ],
+    "position": [1449, 1472],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,64 +1,37 @@
 [
   {
     "text": "Fluphenazine",
-    "position": [
-      262,
-      274
-    ],
+    "position": [262, 274],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "4496"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      480,
-      487
-    ],
+    "position": [480, 487],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      491,
-      502
-    ],
+    "position": [491, 502],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      393,
-      401
-    ],
+    "position": [393, 401],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm phổi",
-    "position": [
-      161,
-      170
-    ],
+    "position": [161, 170],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": []
   }
 ]

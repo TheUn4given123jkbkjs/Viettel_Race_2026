@@ -3,7 +3,7 @@
     "text": "Bệnh sốt rét",
     "position": [652, 664],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isMãn_tính"],
+    "assertions": [],
     "candidates": []
   },
   {
@@ -11,18 +11,14 @@
     "position": [108, 118],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["1429947", "6694"]
+    "candidates": []
   },
   {
     "text": "Artesunate",
     "position": [541, 551],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "18346",
-      "711398",
-      "1429947"
-    ]
+    "candidates": []
   },
   {
     "text": "BVĐK TPHCM",

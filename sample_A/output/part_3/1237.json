@@ -4,26 +4,26 @@
     "position": [132, 174],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["F31.9"]
+    "candidates": []
   },
   {
     "text": "Acenocoumarol",
     "position": [476, 489],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["154"]
+    "candidates": []
   },
   {
     "text": "Amitriptyline",
     "position": [493, 506],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["704"]
+    "candidates": []
   },
   {
     "text": "Bipolar Disorder",
     "position": [176, 192],
-    "type": "DISEASE",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },

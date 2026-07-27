@@ -11,14 +11,14 @@
     "position": [1005, 1012],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "U ác với tổn thương chồng lấn của thực quản",
     "position": [938, 981],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["C15.8"]
+    "candidates": []
   },
   {
     "text": "Troponin",
@@ -37,21 +37,21 @@
   {
     "text": "Mất nước",
     "position": [652, 660],
-    "type": "DẤU_HIỆN_LÂM_SÀNG",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Mệt mỏi",
     "position": [663, 670],
-    "type": "DẤU_HIỆN_LÂM_SÀNG",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Buồn nôn",
     "position": [673, 681],
-    "type": "DẤU_HIỆN_LÂM_SÀNG",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

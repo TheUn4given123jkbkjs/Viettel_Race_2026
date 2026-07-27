@@ -4,50 +4,42 @@
     "position": [817, 827],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["343047"]
+    "candidates": []
   },
   {
     "text": "aspirin",
     "position": [617, 624],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
     "position": [643, 654],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   },
   {
     "text": "táo bón",
     "position": [282, 289],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K59.0"]
+    "candidates": []
   },
   {
     "text": "cấp tính",
     "position": [423, 431],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F43.11",
-      "H04.3",
-      "G36"
-    ]
+    "candidates": []
   },
   {
     "text": "xơ vữa động mạch",
     "position": [435, 451],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.2",
-      "I70",
-      "I70.0"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh đại trực tràng",

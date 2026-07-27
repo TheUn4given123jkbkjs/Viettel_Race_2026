@@ -1,52 +1,35 @@
 [
   {
     "text": "Viêm tắc tĩnh mạch sâu trong khi có thai",
-    "position": [
-      327,
-      367
-    ],
+    "position": [327, 367],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O22.3"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh tim bẩm sinh",
-    "position": [
-      152,
-      169
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [152, 169],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      173,
-      186
-    ],
-    "type": "BỆNH_NỀN",
+    "position": [173, 186],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau chân",
-    "position": [
-      232,
-      240
-    ],
+    "position": [232, 240],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng tấy ở chân trái",
-    "position": [
-      244,
-      264
-    ],
+    "position": [244, 264],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

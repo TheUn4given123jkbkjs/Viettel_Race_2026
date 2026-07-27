@@ -1,92 +1,56 @@
 [
   {
     "text": "Viêm cơ tim",
-    "position": [
-      800,
-      811
-    ],
+    "position": [800, 811],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A54.80",
-      "A54.87",
-      "A52.06"
-    ]
+    "candidates": []
   },
   {
     "text": "Bệnh tim mạch",
-    "position": [
-      856,
-      869
-    ],
+    "position": [856, 869],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      589,
-      596
-    ],
+    "position": [589, 596],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      628,
-      639
-    ],
+    "position": [628, 639],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      313,
-      321
-    ],
+    "position": [313, 321],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "C-Reactive Protein (CRP)",
-    "position": [
-      378,
-      402
-    ],
+    "position": [378, 402],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "10 ng/mL",
-    "position": [
-      323,
-      331
-    ],
+    "position": [323, 331],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "50 mg/L",
-    "position": [
-      404,
-      411
-    ],
+    "position": [404, 411],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

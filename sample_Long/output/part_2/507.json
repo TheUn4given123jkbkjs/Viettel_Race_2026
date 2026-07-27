@@ -1,88 +1,51 @@
 [
   {
     "text": "Amlodipine",
-    "position": [
-      529,
-      539
-    ],
+    "position": [529, 539],
     "type": "THUỐC",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "17767"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      1133,
-      1141
-    ],
+    "position": [1133, 1141],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "tiểu máu đại thể",
-    "position": [
-      1262,
-      1278
-    ],
+    "position": [1262, 1278],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "phù chi dưới",
-    "position": [
-      1474,
-      1486
-    ],
+    "position": [1474, 1486],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Protein niệu đơn độc với tổn thương hình thái đặc hiệu, Bất thường nhỏ ở cầu thận",
-    "position": [
-      2545,
-      2626
-    ],
+    "position": [2545, 2626],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N06.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Enalapril",
-    "position": [
-      2806,
-      2815
-    ],
+    "position": [2806, 2815],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3827"
-    ]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
-    "position": [
-      3015,
-      3027
-    ],
+    "position": [3015, 3027],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8638"
-    ]
+    "candidates": []
   }
 ]

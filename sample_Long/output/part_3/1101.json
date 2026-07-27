@@ -1,84 +1,56 @@
 [
   {
     "text": "mệt mỏi",
-    "position": [
-      148,
-      155
-    ],
+    "position": [148, 155],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [
-      403,
-      411
-    ],
+    "position": [403, 411],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      580,
-      588
-    ],
+    "position": [580, 588],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      619,
-      622
-    ],
+    "position": [619, 622],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin T",
-    "position": [
-      1128,
-      1138
-    ],
+    "position": [1128, 1138],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.12 ng/mL",
-    "position": [
-      1140,
-      1150
-    ],
+    "position": [1140, 1150],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ECG",
-    "position": [
-      1188,
-      1191
-    ],
+    "position": [1188, 1191],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sóng T âm",
-    "position": [
-      1206,
-      1215
-    ],
+    "position": [1206, 1215],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

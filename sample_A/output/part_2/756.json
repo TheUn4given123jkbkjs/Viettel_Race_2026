@@ -23,14 +23,14 @@
   {
     "text": "THA",
     "position": [207, 210],
-    "type": "CHỈ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "các triệu chứng",
     "position": [133, 148],
-    "type": "CHỈ",
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

@@ -4,18 +4,14 @@
     "position": [43, 64],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "B69",
-      "B69.0",
-      "B69.1"
-    ]
+    "candidates": []
   },
   {
     "text": "sán não",
     "position": [675, 682],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O96"]
+    "candidates": []
   },
   {
     "text": "co giật",
@@ -36,7 +32,7 @@
     "position": [1804, 1815],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["430"]
+    "candidates": []
   },
   {
     "text": "điều trị bằn thuốc",
@@ -50,6 +46,6 @@
     "position": [2312, 2325],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": []
   }
 ]

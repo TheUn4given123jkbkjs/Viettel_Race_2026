@@ -1,82 +1,51 @@
 [
   {
     "text": "Protamine",
-    "position": [
-      45,
-      54
-    ],
+    "position": [45, 54],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "8826"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Đau bụng vùng thượng vị",
-    "position": [
-      116,
-      139
-    ],
+    "position": [116, 139],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đau tức âm ỉ",
-    "position": [
-      173,
-      185
-    ],
+    "position": [173, 185],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn",
-    "position": [
-      193,
-      196
-    ],
+    "position": [193, 196],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      290,
-      293
-    ],
+    "position": [290, 293],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "ợ hơi",
-    "position": [
-      255,
-      260
-    ],
+    "position": [255, 260],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Omeprazole",
-    "position": [
-      321,
-      331
-    ],
+    "position": [321, 331],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "7646"
-    ]
+    "candidates": []
   }
 ]

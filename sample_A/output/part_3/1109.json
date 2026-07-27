@@ -4,18 +4,14 @@
     "position": [39, 48],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.15",
-      "A51.46",
-      "Z86.11"
-    ]
+    "candidates": []
   },
   {
     "text": "Cytarabine",
     "position": [413, 423],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3041"]
+    "candidates": []
   },
   {
     "text": "bệnh ung thư máu non",
@@ -29,11 +25,7 @@
     "position": [39, 48],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.15",
-      "A51.46",
-      "Z86.11"
-    ]
+    "candidates": []
   },
   {
     "text": "buồn nôn",

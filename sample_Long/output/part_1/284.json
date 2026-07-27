@@ -1,58 +1,37 @@
 [
   {
     "text": "Tràn dịch màng phổi, không phân loại nơi khác",
-    "position": [
-      53,
-      98
-    ],
+    "position": [53, 98],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J90"
-    ]
+    "candidates": []
   },
   {
     "text": "tức ngực",
-    "position": [
-      122,
-      130
-    ],
+    "position": [122, 130],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [
-      134,
-      141
-    ],
+    "position": [134, 141],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Furosemide",
-    "position": [
-      343,
-      353
-    ],
+    "position": [343, 353],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4603"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      381,
-      394
-    ],
+    "position": [381, 394],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

@@ -1,98 +1,56 @@
 [
   {
     "text": "Dexamethasone",
-    "position": [
-      70,
-      83
-    ],
+    "position": [70, 83],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "3264"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "viêm xoang",
-    "position": [
-      233,
-      243
-    ],
+    "position": [233, 243],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J01.00",
-      "J01.01",
-      "J01.11"
-    ]
+    "candidates": []
   },
   {
     "text": "viêm phổi",
-    "position": [
-      245,
-      254
-    ],
+    "position": [245, 254],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh tiểu đường",
-    "position": [
-      258,
-      273
-    ],
+    "position": [258, 273],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      368,
-      381
-    ],
+    "position": [368, 381],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "suy thượng thận",
-    "position": [
-      383,
-      398
-    ],
+    "position": [383, 398],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E89.6"
-    ]
+    "candidates": []
   },
   {
     "text": "tăng nguy cơ nhiễm trùng",
-    "position": [
-      402,
-      426
-    ],
+    "position": [402, 426],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khả năng miễn dịch",
-    "position": [
-      484,
-      502
-    ],
+    "position": [484, 502],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

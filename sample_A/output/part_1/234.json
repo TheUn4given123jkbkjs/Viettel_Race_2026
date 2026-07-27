@@ -4,7 +4,7 @@
     "position": [51, 67],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["A06.1"]
+    "candidates": []
   },
   {
     "text": "sốt kéo dài",
@@ -39,17 +39,13 @@
     "position": [231, 252],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A23.8"]
+    "candidates": []
   },
   {
     "text": "viêm khớp nhiễm khuẩn",
     "position": [257, 278],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M00",
-      "M01",
-      "M01*"
-    ]
+    "candidates": []
   }
 ]

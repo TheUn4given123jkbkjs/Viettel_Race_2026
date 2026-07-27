@@ -1,91 +1,56 @@
 [
   {
     "text": "tiểu đường type 2",
-    "position": [
-      232,
-      249
-    ],
+    "position": [232, 249],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "bệnh mạch vành",
-    "position": [
-      421,
-      435
-    ],
+    "position": [421, 435],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "A52.06",
-      "I25.0"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "đau mũi dữ dội",
-    "position": [
-      696,
-      710
-    ],
+    "position": [696, 710],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [
-      911,
-      918
-    ],
+    "position": [911, 918],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Áp xe, nhọt và nhọt tiền đình mũi",
-    "position": [
-      1782,
-      1815
-    ],
+    "position": [1782, 1815],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J34.0"
-    ]
+    "candidates": []
   },
   {
     "text": "phù nề khu trú",
-    "position": [
-      1323,
-      1337
-    ],
+    "position": [1323, 1337],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [
-      950,
-      962
-    ],
+    "position": [950, 962],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chụp CT vùng mặt",
-    "position": [
-      1463,
-      1479
-    ],
+    "position": [1463, 1479],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,88 +1,56 @@
 [
   {
     "text": "Benzoyl peroxide",
-    "position": [
-      184,
-      200
-    ],
+    "position": [184, 200],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "1418"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "bệnh vảy nến",
-    "position": [
-      120,
-      132
-    ],
+    "position": [120, 132],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh da mạn tính",
-    "position": [
-      90,
-      106
-    ],
+    "position": [90, 106],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "miễn dịch",
-    "position": [
-      343,
-      352
-    ],
+    "position": [343, 352],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Benzoyl peroxide",
-    "position": [
-      184,
-      200
-    ],
+    "position": [184, 200],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "1418"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "kích ứng da",
-    "position": [
-      1173,
-      1184
-    ],
+    "position": [1173, 1184],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đỏ da",
-    "position": [
-      1188,
-      1193
-    ],
+    "position": [1188, 1193],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vảy nến",
-    "position": [
-      125,
-      132
-    ],
+    "position": [125, 132],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

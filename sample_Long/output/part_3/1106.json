@@ -1,80 +1,51 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [
-      260,
-      273
-    ],
+    "position": [260, 273],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "đái tháo đường typ 2",
-    "position": [
-      644,
-      664
-    ],
+    "position": [644, 664],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau cổ gáy",
-    "position": [
-      954,
-      964
-    ],
+    "position": [954, 964],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tê bì cánh tay",
-    "position": [
-      1437,
-      1451
-    ],
+    "position": [1437, 1451],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hội chứng cánh tay cỗ",
-    "position": [
-      2061,
-      2082
-    ],
+    "position": [2061, 2082],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Diclofenc",
-    "position": [
-      2405,
-      2414
-    ],
+    "position": [2405, 2414],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      2617,
-      2630
-    ],
+    "position": [2617, 2630],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

@@ -1,44 +1,28 @@
 [
   {
     "text": "Aspirin",
-    "position": [
-      349,
-      356
-    ],
+    "position": [349, 356],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      378,
-      389
-    ],
+    "position": [378, 389],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Hemoglobin",
-    "position": [
-      205,
-      215
-    ],
+    "position": [205, 215],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0,01 ng/mL",
-    "position": [
-      278,
-      288
-    ],
+    "position": [278, 288],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,50 +1,30 @@
 [
   {
     "text": "Hư điểm cốt hóa ở trẻ em ở xương bánh chè",
-    "position": [
-      349,
-      390
-    ],
+    "position": [349, 390],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M92.4"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      445,
-      458
-    ],
+    "position": [445, 458],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      464,
-      473
-    ],
+    "position": [464, 473],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      610,
-      613
-    ],
+    "position": [610, 613],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   }
 ]

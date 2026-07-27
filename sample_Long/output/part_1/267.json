@@ -1,101 +1,58 @@
 [
   {
     "text": "Tử vong vì di chứng của nguyên nhân sản khoa trực tiếp",
-    "position": [
-      1470,
-      1524
-    ],
+    "position": [1470, 1524],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O97"
-    ]
+    "candidates": []
   },
   {
     "text": "tiền sản giật",
-    "position": [
-      111,
-      124
-    ],
+    "position": [111, 124],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "O11",
-      "O14",
-      "O14.0"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đái tháo đường type 2",
-    "position": [
-      217,
-      238
-    ],
+    "position": [217, 238],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      582,
-      590
-    ],
+    "position": [582, 590],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      731,
-      734
-    ],
+    "position": [731, 734],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "teo cơ chi dưới",
-    "position": [
-      804,
-      819
-    ],
+    "position": [804, 819],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thiếu máu não cục bộ",
-    "position": [
-      894,
-      914
-    ],
+    "position": [894, 914],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "G45",
-      "P91.6"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "nhồi máu não diện rộng",
-    "position": [
-      1336,
-      1358
-    ],
+    "position": [1336, 1358],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

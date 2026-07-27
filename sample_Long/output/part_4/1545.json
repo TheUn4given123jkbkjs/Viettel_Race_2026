@@ -1,78 +1,51 @@
 [
   {
     "text": "tiền sử THA 5năm",
-    "position": [
-      235,
-      251
-    ],
+    "position": [235, 251],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "vảy nến da đầu",
-    "position": [
-      500,
-      514
-    ],
+    "position": [500, 514],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "sưngđau",
-    "position": [
-      910,
-      917
-    ],
+    "position": [910, 917],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hạn chế vận động",
-    "position": [
-      1108,
-      1124
-    ],
+    "position": [1108, 1124],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hồng ban",
-    "position": [
-      1585,
-      1593
-    ],
+    "position": [1585, 1593],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "biến dạng nhẹ ở khớp đốt bàn ngón I và II",
-    "position": [
-      1979,
-      2020
-    ],
+    "position": [1979, 2020],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh viêm khớp vảy nến khác (L40.5†), cổ, bàn chân",
-    "position": [
-      2444,
-      2494
-    ],
+    "position": [2444, 2494],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M07.37*"
-    ]
+    "candidates": []
   }
 ]

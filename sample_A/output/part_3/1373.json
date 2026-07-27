@@ -4,25 +4,21 @@
     "position": [253, 278],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["282448"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
     "position": [121, 129],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "candidates": []
   },
   {
     "text": "sốt",
     "position": [131, 134],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "A92.30",
-      "R50.0",
-      "R50.1"
-    ]
+    "candidates": []
   },
   {
     "text": "troponin",
@@ -36,13 +32,13 @@
     "position": [197, 204],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "ceftriaxone",
     "position": [208, 219],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": []
   }
 ]

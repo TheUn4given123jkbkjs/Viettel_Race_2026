@@ -1,56 +1,35 @@
 [
   {
     "text": "Huyết tán do bất đồng nhóm máu Rh của mẹ và thai nhi / trẻ sơ sinh",
-    "position": [
-      25,
-      91
-    ],
+    "position": [25, 91],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P55.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      174,
-      181
-    ],
+    "position": [174, 181],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      185,
-      198
-    ],
+    "position": [185, 198],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      113,
-      116
-    ],
+    "position": [113, 116],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      118,
-      126
-    ],
+    "position": [118, 126],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,80 +1,49 @@
 [
   {
     "text": "Bệnh Still khởi phát ở người lớn",
-    "position": [
-      930,
-      962
-    ],
+    "position": [930, 962],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M06.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Prednisolone",
-    "position": [
-      1088,
-      1100
-    ],
+    "position": [1088, 1100],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "8638"
-    ]
+    "candidates": []
   },
   {
     "text": "Methotrexate",
-    "position": [
-      1133,
-      1145
-    ],
+    "position": [1133, 1145],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6851"
-    ]
+    "candidates": []
   },
   {
     "text": "sụt cân",
-    "position": [
-      851,
-      858
-    ],
+    "position": [851, 858],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "mày đay mạn tính",
-    "position": [
-      495,
-      511
-    ],
+    "position": [495, 511],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [
-      38,
-      45
-    ],
+    "position": [38, 45],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phát ban màu hồng cá hồi",
-    "position": [
-      727,
-      751
-    ],
+    "position": [727, 751],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

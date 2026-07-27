@@ -1,76 +1,49 @@
 [
   {
     "text": "tetanus",
-    "position": [
-      15,
-      22
-    ],
+    "position": [15, 22],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Clostridium tetani",
-    "position": [
-      206,
-      224
-    ],
+    "position": [206, 224],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Diphtheria-Tetanus-Pertussis-Hepatitis B-Haemophilus influenzae type b Vaccine",
-    "position": [
-      1438,
-      1516
-    ],
+    "position": [1438, 1516],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "2368450"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "vaccine phòng chống tetanus",
-    "position": [
-      1826,
-      1853
-    ],
+    "position": [1826, 1853],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "bác sĩ",
-    "position": [
-      1135,
-      1141
-    ],
+    "position": [1135, 1141],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm gan B",
-    "position": [
-      1672,
-      1682
-    ],
+    "position": [1672, 1682],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Haemophilus influenzae type b",
-    "position": [
-      1479,
-      1508
-    ],
+    "position": [1479, 1508],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

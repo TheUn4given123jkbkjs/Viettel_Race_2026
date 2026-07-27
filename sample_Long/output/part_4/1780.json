@@ -1,51 +1,30 @@
 [
   {
     "text": "Acetaminophen",
-    "position": [
-      335,
-      348
-    ],
+    "position": [335, 348],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [
-      371,
-      380
-    ],
+    "position": [371, 380],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "5640"
-    ]
+    "candidates": []
   },
   {
     "text": "Mifepristone",
-    "position": [
-      403,
-      415
-    ],
+    "position": [403, 415],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6964"
-    ]
+    "candidates": []
   },
   {
     "text": "Misoprostol",
-    "position": [
-      451,
-      462
-    ],
+    "position": [451, 462],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6964",
-      "42331"
-    ]
+    "candidates": []
   }
 ]

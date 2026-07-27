@@ -1,48 +1,30 @@
 [
   {
     "text": "BỆNH KHỚP DO THẦN KÍNH, Ở CỔ TAY",
-    "position": [
-      0,
-      32
-    ],
+    "position": [0, 32],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M14.63"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      292,
-      299
-    ],
+    "position": [292, 299],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      320,
-      331
-    ],
+    "position": [320, 331],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Tiền sử THA 5 năm",
-    "position": [
-      113,
-      130
-    ],
-    "type": "isHistorical",
-    "assertions": [],
+    "position": [113, 130],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
     "candidates": []
   }
 ]

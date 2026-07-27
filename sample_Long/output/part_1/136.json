@@ -1,79 +1,51 @@
 [
   {
     "text": "khó thở khi gắng sức",
-    "position": [
-      375,
-      395
-    ],
+    "position": [375, 395],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phù mềm hai chi dưới",
-    "position": [
-      435,
-      455
-    ],
+    "position": [435, 455],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm tim Doppler màu",
-    "position": [
-      860,
-      883
-    ],
+    "position": [860, 883],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hở van nặng",
-    "position": [
-      914,
-      925
-    ],
+    "position": [914, 925],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hở (van) ba lá không do thấp",
-    "position": [
-      1110,
-      1138
-    ],
+    "position": [1110, 1138],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I36.1",
-      "I36.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Furosemide",
-    "position": [
-      1295,
-      1305
-    ],
+    "position": [1295, 1305],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "4603"
-    ]
+    "candidates": []
   },
   {
     "text": "Spironolactone",
-    "position": [
-      1334,
-      1348
-    ],
+    "position": [1334, 1348],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "9997"
-    ]
+    "candidates": []
   }
 ]

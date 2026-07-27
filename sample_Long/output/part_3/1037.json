@@ -1,91 +1,56 @@
 [
   {
     "text": "huyêtáp",
-    "position": [
-      268,
-      275
-    ],
+    "position": [268, 275],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hepatitis B Vaccine",
-    "position": [
-      451,
-      470
-    ],
+    "position": [451, 470],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "797752",
-      "2368450"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "phủ nhận sốt",
-    "position": [
-      1174,
-      1186
-    ],
+    "position": [1174, 1186],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Bilirubin toàn phần",
-    "position": [
-      1491,
-      1510
-    ],
+    "position": [1491, 1510],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vêm gan",
-    "position": [
-      1583,
-      1590
-    ],
+    "position": [1583, 1590],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tăng huyết áp",
-    "position": [
-      1893,
-      1906
-    ],
+    "position": [1893, 1906],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "Glucose 5%",
-    "position": [
-      2082,
-      2092
-    ],
+    "position": [2082, 2092],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Silymarin",
-    "position": [
-      2284,
-      2293
-    ],
+    "position": [2284, 2293],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

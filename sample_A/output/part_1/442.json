@@ -4,7 +4,7 @@
     "position": [120, 132],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["2346"]
+    "candidates": []
   },
   {
     "text": "bệnh lymphoma",
@@ -18,17 +18,13 @@
     "position": [445, 453],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "candidates": []
   },
   {
     "text": "sốt",
     "position": [463, 466],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "A92.30",
-      "R50.0",
-      "R50.1"
-    ]
+    "candidates": []
   }
 ]

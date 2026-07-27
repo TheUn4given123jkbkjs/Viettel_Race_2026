@@ -1,23 +1,23 @@
 [
   {
     "text": "Viêm não virus khác do ve truyền",
-    "position": [1, 33],
+    "position": [0, 32],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A84.8"]
+    "candidates": []
   },
   {
     "text": "Abacavir",
-    "position": [412, 420],
+    "position": [411, 419],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": []
   },
   {
     "text": "Efavirenz",
-    "position": [490, 499],
+    "position": [489, 498],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["195085", "2003222"]
+    "candidates": []
   }
 ]

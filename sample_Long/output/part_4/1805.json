@@ -1,78 +1,44 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [
-      243,
-      256
-    ],
+    "position": [243, 256],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      277,
-      285
-    ],
+    "position": [277, 285],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "phù nhẹ hai chân",
-    "position": [
-      394,
-      410
-    ],
+    "position": [394, 410],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Protein niệu thai nghén",
-    "position": [
-      659,
-      682
-    ],
+    "position": [659, 682],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O12",
-      "O12.1",
-      "O12.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Methyldopa",
-    "position": [
-      813,
-      823
-    ],
+    "position": [813, 823],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "6876"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      839,
-      846
-    ],
+    "position": [839, 846],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   }
 ]

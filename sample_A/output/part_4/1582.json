@@ -4,18 +4,14 @@
     "position": [90, 98],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["6628"]
+    "candidates": []
   },
   {
     "text": "viêm màng não",
     "position": [308, 321],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.13",
-      "A54.81",
-      "A50.41"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh nhân",

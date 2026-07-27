@@ -1,50 +1,35 @@
 [
   {
     "text": "đau dạ dày",
-    "position": [
-      78,
-      88
-    ],
+    "position": [78, 88],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "gout",
-    "position": [
-      140,
-      144
-    ],
-    "type": "BỆNH_NÊN",
+    "position": [140, 144],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [
-      267,
-      277
-    ],
+    "position": [267, 277],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Glucose",
-    "position": [
-      523,
-      530
-    ],
+    "position": [523, 530],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "90 mg/dL",
-    "position": [
-      532,
-      540
-    ],
+    "position": [532, 540],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

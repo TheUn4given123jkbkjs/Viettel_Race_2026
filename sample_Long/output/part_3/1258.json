@@ -1,100 +1,58 @@
 [
   {
     "text": "Levodopa / Carbidopa",
-    "position": [
-      444,
-      464
-    ],
+    "position": [444, 464],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "103990"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [
-      560,
-      567
-    ],
+    "position": [560, 567],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "sốt",
-    "position": [
-      207,
-      210
-    ],
+    "position": [207, 210],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [
-      392,
-      400
-    ],
+    "position": [392, 400],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [
-      635,
-      643
-    ],
+    "position": [635, 643],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [
-      821,
-      832
-    ],
+    "position": [821, 832],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "bệnh Parkinson",
-    "position": [
-      147,
-      161
-    ],
+    "position": [147, 161],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G22",
-      "G22*",
-      "G21.4"
-    ]
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      165,
-      178
-    ],
+    "position": [165, 178],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   }
 ]

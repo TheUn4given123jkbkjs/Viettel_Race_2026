@@ -1,65 +1,42 @@
 [
   {
     "text": "Misoprostol",
-    "position": [
-      110,
-      121
-    ],
+    "position": [110, 121],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "6964",
-      "42331"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [
-      49,
-      62
-    ],
+    "position": [49, 62],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường type 2",
-    "position": [
-      66,
-      83
-    ],
+    "position": [66, 83],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "loét dạ dày",
-    "position": [
-      154,
-      165
-    ],
+    "position": [154, 165],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm dạ dày",
-    "position": [
-      239,
-      250
-    ],
+    "position": [239, 250],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thuốc ức chế bơm proton",
-    "position": [
-      310,
-      333
-    ],
+    "position": [310, 333],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

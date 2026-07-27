@@ -1,64 +1,42 @@
 [
   {
     "text": "Deferoxamine",
-    "position": [
-      63,
-      75
-    ],
+    "position": [63, 75],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "3131"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "Thalassemia",
-    "position": [
-      87,
-      98
-    ],
+    "position": [87, 98],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "quá tải sắt",
-    "position": [
-      136,
-      147
-    ],
+    "position": [136, 147],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thiếu máu",
-    "position": [
-      184,
-      193
-    ],
+    "position": [184, 193],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [
-      195,
-      204
-    ],
+    "position": [195, 204],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ferritin",
-    "position": [
-      267,
-      275
-    ],
+    "position": [267, 275],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

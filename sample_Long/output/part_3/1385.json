@@ -1,38 +1,23 @@
 [
   {
     "text": "Viêm lưỡi dạng thoi",
-    "position": [
-      128,
-      147
-    ],
+    "position": [128, 147],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K14.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Abacavir",
-    "position": [
-      419,
-      427
-    ],
+    "position": [419, 427],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "190521"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      431,
-      444
-    ],
+    "position": [431, 444],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

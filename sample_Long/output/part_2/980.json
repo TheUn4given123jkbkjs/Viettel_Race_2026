@@ -1,62 +1,37 @@
 [
   {
     "text": "rối loạn nhịp tim",
-    "position": [
-      69,
-      86
-    ],
+    "position": [69, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I49.9"
-    ]
+    "candidates": []
   },
   {
     "text": "loạn nhịp tim xác định khác",
-    "position": [
-      177,
-      204
-    ],
+    "position": [177, 204],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I49.8"
-    ]
+    "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [
-      112,
-      122
-    ],
+    "position": [112, 122],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "loạn nhịp tim",
-    "position": [
-      73,
-      86
-    ],
+    "position": [73, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I49.8",
-      "I49.9",
-      "I49"
-    ]
+    "candidates": []
   },
   {
     "text": "rối loạn nhịp tim",
-    "position": [
-      69,
-      86
-    ],
+    "position": [69, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I49.9"
-    ]
+    "candidates": []
   }
 ]

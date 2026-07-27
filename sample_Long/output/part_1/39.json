@@ -1,42 +1,28 @@
 [
   {
     "text": "giãn tĩnh mạch sinh dục trong khi có thai",
-    "position": [
-      155,
-      196
-    ],
+    "position": [155, 196],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O22.1"
-    ]
+    "candidates": []
   },
   {
     "text": "đau nhức",
-    "position": [
-      72,
-      80
-    ],
+    "position": [72, 80],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó chịu",
-    "position": [
-      84,
-      92
-    ],
+    "position": [84, 92],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vùng sinh dục",
-    "position": [
-      95,
-      108
-    ],
+    "position": [95, 108],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

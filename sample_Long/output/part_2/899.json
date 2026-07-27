@@ -1,51 +1,30 @@
 [
   {
     "text": "Viêm vú không thành mủ phối hợp với đẻ",
-    "position": [
-      0,
-      38
-    ],
+    "position": [0, 38],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O91.2"
-    ]
+    "candidates": []
   },
   {
     "text": "Amoxicillin",
-    "position": [
-      339,
-      350
-    ],
+    "position": [339, 350],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "723",
-      "19711"
-    ]
+    "candidates": []
   },
   {
     "text": "Cephalexin",
-    "position": [
-      356,
-      366
-    ],
+    "position": [356, 366],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2231"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      441,
-      454
-    ],
+    "position": [441, 454],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   }
 ]

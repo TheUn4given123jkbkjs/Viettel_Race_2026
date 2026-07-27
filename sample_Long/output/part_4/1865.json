@@ -1,47 +1,29 @@
 [
   {
     "text": "Isoniazid",
-    "position": [
-      32,
-      41
-    ],
+    "position": [32, 41],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "821005",
-      "814321",
-      "6038"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [
-      87,
-      97
-    ],
-    "type": "BỆNH",
+    "position": [87, 97],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết áp",
-    "position": [
-      99,
-      107
-    ],
-    "type": "BỆNH",
+    "position": [99, 107],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm phổi",
-    "position": [
-      134,
-      143
-    ],
-    "type": "BỆNH",
+    "position": [134, 143],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

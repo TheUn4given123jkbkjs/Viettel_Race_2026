@@ -1,50 +1,35 @@
 [
   {
     "text": "đau đầu",
-    "position": [
-      25,
-      32
-    ],
+    "position": [25, 32],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [
-      36,
-      45
-    ],
+    "position": [36, 45],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [
-      399,
-      419
-    ],
+    "position": [399, 419],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm hóa sinh",
-    "position": [
-      421,
-      440
-    ],
+    "position": [421, 440],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp CT",
-    "position": [
-      489,
-      496
-    ],
+    "position": [489, 496],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

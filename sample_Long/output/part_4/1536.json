@@ -1,50 +1,30 @@
 [
   {
     "text": "Acetaminophen",
-    "position": [
-      119,
-      132
-    ],
+    "position": [119, 132],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [
-      241,
-      254
-    ],
+    "position": [241, 254],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "167"
-    ]
+    "candidates": []
   },
   {
     "text": "THA 5 năm",
-    "position": [
-      90,
-      99
-    ],
+    "position": [90, 99],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [
-      326,
-      336
-    ],
+    "position": [326, 336],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "17767"
-    ]
+    "candidates": []
   }
 ]

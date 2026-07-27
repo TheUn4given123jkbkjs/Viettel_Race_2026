@@ -1,102 +1,56 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [
-      145,
-      158
-    ],
+    "position": [145, 158],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "đột quỵ não",
-    "position": [
-      559,
-      570
-    ],
+    "position": [559, 570],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
-    "candidates": [
-      "E88.31",
-      "G46.3*",
-      "G46.4*"
-    ]
+    "assertions": ["isFamily"],
+    "candidates": []
   },
   {
     "text": "khó thở khi gắng sức",
-    "position": [
-      779,
-      799
-    ],
+    "position": [779, 799],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phù",
-    "position": [
-      1061,
-      1064
-    ],
+    "position": [1061, 1064],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh tim, không đặc hiệu",
-    "position": [
-      2421,
-      2445
-    ],
+    "position": [2421, 2445],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I01.9",
-      "I09.9",
-      "I13.9"
-    ]
+    "candidates": []
   },
   {
     "text": "suy tim sung huyết",
-    "position": [
-      2466,
-      2484
-    ],
+    "position": [2466, 2484],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I11.0",
-      "I11.9",
-      "I13.0"
-    ]
+    "candidates": []
   },
   {
     "text": "Digoxin",
-    "position": [
-      2720,
-      2727
-    ],
+    "position": [2720, 2727],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3407"
-    ]
+    "candidates": []
   },
   {
     "text": "phù hai chi dưới",
-    "position": [
-      3164,
-      3180
-    ],
+    "position": [3164, 3180],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

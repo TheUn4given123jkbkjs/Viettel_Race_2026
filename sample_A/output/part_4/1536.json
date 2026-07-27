@@ -4,11 +4,7 @@
     "position": [13, 26],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": []
   },
   {
     "text": "GERD",
@@ -22,7 +18,7 @@
     "position": [74, 85],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["26225"]
+    "candidates": []
   },
   {
     "text": "buồn nôn",
@@ -50,17 +46,13 @@
     "position": [287, 302],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I21",
-      "I21.0",
-      "I21.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
     "position": [332, 339],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   }
 ]

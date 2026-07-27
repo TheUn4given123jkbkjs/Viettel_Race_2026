@@ -1,56 +1,37 @@
 [
   {
     "text": "Các bệnh quá sản của da không điển hình",
-    "position": [
-      452,
-      491
-    ],
+    "position": [452, 491],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acyclovir",
-    "position": [
-      297,
-      306
-    ],
+    "position": [297, 306],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dexamethasone",
-    "position": [
-      331,
-      344
-    ],
+    "position": [331, 344],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng lipid máu",
-    "position": [
-      158,
-      172
-    ],
+    "position": [158, 172],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "vảy nến",
-    "position": [
-      416,
-      423
-    ],
+    "position": [416, 423],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   }
 ]

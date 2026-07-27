@@ -1,38 +1,23 @@
 [
   {
     "text": "chấn thương các phần khác của hệ thần kinh ngoại vi khi sinh",
-    "position": [
-      70,
-      130
-    ],
+    "position": [70, 130],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P14.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [
-      347,
-      360
-    ],
+    "position": [347, 360],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "161"
-    ]
+    "candidates": []
   },
   {
     "text": "Diazepam",
-    "position": [
-      432,
-      440
-    ],
+    "position": [432, 440],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "3322"
-    ]
+    "candidates": []
   }
 ]

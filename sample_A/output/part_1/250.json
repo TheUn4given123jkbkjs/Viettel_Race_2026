@@ -4,14 +4,14 @@
     "position": [58, 68],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["3274"]
+    "candidates": []
   },
   {
     "text": "Khô mắt",
     "position": [104, 111],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["H04.1"]
+    "candidates": []
   },
   {
     "text": "đỏ",

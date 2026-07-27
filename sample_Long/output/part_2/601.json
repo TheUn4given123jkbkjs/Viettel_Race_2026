@@ -1,66 +1,42 @@
 [
   {
     "text": "tiền sử đái tháo đường tuýp 2",
-    "position": [
-      41,
-      70
-    ],
+    "position": [41, 70],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "đau nhức",
-    "position": [
-      142,
-      150
-    ],
+    "position": [142, 150],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không ho",
-    "position": [
-      218,
-      226
-    ],
+    "position": [218, 226],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Bệnh khớp do đái tháo đường đường (E10-E14 với ký tự thứ tư chung .6†), cổ, bàn chân",
-    "position": [
-      484,
-      568
-    ],
+    "position": [484, 568],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M14.27*"
-    ]
+    "candidates": []
   },
   {
     "text": "Metformin 500mg",
-    "position": [
-      708,
-      723
-    ],
+    "position": [708, 723],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Meloxicam 15mg",
-    "position": [
-      763,
-      777
-    ],
+    "position": [763, 777],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

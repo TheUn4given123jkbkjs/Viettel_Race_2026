@@ -1,80 +1,51 @@
 [
   {
     "text": "sưng đau khớp",
-    "position": [
-      603,
-      616
-    ],
+    "position": [603, 616],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cứng khớp",
-    "position": [
-      618,
-      627
-    ],
+    "position": [618, 627],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "yếu cơ tay",
-    "position": [
-      631,
-      641
-    ],
+    "position": [631, 641],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [
-      781,
-      790
-    ],
+    "position": [781, 790],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": ["isNegated"],
     "candidates": []
   },
   {
     "text": "Bệnh khớp nhiễm bột (E85.-†), bàn tay",
-    "position": [
-      1018,
-      1055
-    ],
+    "position": [1018, 1055],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "M14.44*"
-    ]
+    "candidates": []
   },
   {
     "text": "Colchicine",
-    "position": [
-      1179,
-      1189
-    ],
+    "position": [1179, 1189],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2683"
-    ]
+    "candidates": []
   },
   {
     "text": "Meloxicam",
-    "position": [
-      1282,
-      1291
-    ],
+    "position": [1282, 1291],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "41493"
-    ]
+    "candidates": []
   }
 ]

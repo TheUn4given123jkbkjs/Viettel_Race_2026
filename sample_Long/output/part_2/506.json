@@ -1,54 +1,35 @@
 [
   {
     "text": "Albendazole",
-    "position": [
-      21,
-      32
-    ],
+    "position": [21, 32],
     "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "430"
-    ]
+    "assertions": ["isHistorical"],
+    "candidates": []
   },
   {
     "text": "sán dây",
-    "position": [
-      48,
-      55
-    ],
+    "position": [48, 55],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [
-      223,
-      231
-    ],
+    "position": [223, 231],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn mửa",
-    "position": [
-      233,
-      240
-    ],
+    "position": [233, 240],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiêu chảy",
-    "position": [
-      244,
-      253
-    ],
+    "position": [244, 253],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

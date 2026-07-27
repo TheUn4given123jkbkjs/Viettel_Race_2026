@@ -11,7 +11,7 @@
     "position": [111, 123],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["4053"]
+    "candidates": []
   },
   {
     "text": "X-quang phổi",
@@ -46,11 +46,7 @@
     "position": [901, 920],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "J32",
-      "J32.0",
-      "J32.1"
-    ]
+    "candidates": []
   },
   {
     "text": "ran ẩm",

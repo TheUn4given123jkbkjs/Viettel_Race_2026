@@ -4,7 +4,7 @@
     "position": [869, 889],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": ["6058"]
+    "candidates": []
   },
   {
     "text": "Creatine kinase",
@@ -18,7 +18,7 @@
     "position": [407, 414],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": []
   },
   {
     "text": "metoprolol",
@@ -32,11 +32,7 @@
     "position": [249, 264],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I21",
-      "I21.0",
-      "I21.1"
-    ]
+    "candidates": []
   },
   {
     "text": "đau ngực",

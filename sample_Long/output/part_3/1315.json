@@ -1,78 +1,51 @@
 [
   {
     "text": "chu kỳ kinh nguyệtt",
-    "position": [
-      52,
-      71
-    ],
+    "position": [52, 71],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bốc hỏa",
-    "position": [
-      165,
-      172
-    ],
+    "position": [165, 172],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôii",
-    "position": [
-      183,
-      193
-    ],
+    "position": [183, 193],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó ngủ",
-    "position": [
-      308,
-      315
-    ],
+    "position": [308, 315],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các rối loạn mãn kinh và chu mãn kinh, không đặc hiệu",
-    "position": [
-      802,
-      855
-    ],
+    "position": [802, 855],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N95.8"
-    ]
+    "candidates": []
   },
   {
     "text": "Estradiol cypionate / Medroxyprogesterone acetate",
-    "position": [
-      1048,
-      1097
-    ],
+    "position": [1048, 1097],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2647996"
-    ]
+    "candidates": []
   },
   {
     "text": "Calcium gluconate",
-    "position": [
-      1192,
-      1209
-    ],
+    "position": [1192, 1209],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1908"
-    ]
+    "candidates": []
   }
 ]

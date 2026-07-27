@@ -4,20 +4,20 @@
     "position": [23, 70],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["G47.0"]
+    "candidates": []
   },
   {
     "text": "Atorvastatin",
     "position": [346, 358],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["83367"]
+    "candidates": []
   },
   {
     "text": "Primaquine",
     "position": [385, 395],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8687"]
+    "candidates": []
   }
 ]

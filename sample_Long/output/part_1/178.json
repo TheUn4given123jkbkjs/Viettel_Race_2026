@@ -1,56 +1,35 @@
 [
   {
     "text": "Nhiễm khuẩn ối và màng ối",
-    "position": [
-      428,
-      453
-    ],
+    "position": [428, 453],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O41.1"
-    ]
+    "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [
-      127,
-      134
-    ],
+    "position": [127, 134],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "1191"
-    ]
+    "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [
-      138,
-      149
-    ],
+    "position": [138, 149],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": [
-      "2193"
-    ]
+    "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [
-      550,
-      558
-    ],
+    "position": [550, 558],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Creatinine",
-    "position": [
-      573,
-      583
-    ],
+    "position": [573, 583],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

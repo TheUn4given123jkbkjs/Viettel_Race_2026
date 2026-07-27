@@ -1,84 +1,56 @@
 [
   {
     "text": "cơn hồi hộp đánh trống ngực",
-    "position": [
-      154,
-      181
-    ],
+    "position": [154, 181],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": ["isHistorical"],
     "candidates": []
   },
   {
     "text": "ngất xỉu",
-    "position": [
-      265,
-      273
-    ],
+    "position": [265, 273],
     "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": ["isFamily"],
     "candidates": []
   },
   {
     "text": "đau đầu âm ỉ",
-    "position": [
-      372,
-      384
-    ],
+    "position": [372, 384],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [
-      434,
-      443
-    ],
+    "position": [434, 443],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tổng phân tích tế bào máu ngoại vi",
-    "position": [
-      958,
-      992
-    ],
+    "position": [958, 992],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "8.2 G/L",
-    "position": [
-      1032,
-      1039
-    ],
+    "position": [1032, 1039],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Định lượng Glucose máu",
-    "position": [
-      1043,
-      1065
-    ],
+    "position": [1043, 1065],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp xoang đều",
-    "position": [
-      1244,
-      1258
-    ],
+    "position": [1244, 1258],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

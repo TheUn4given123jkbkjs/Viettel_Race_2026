@@ -1,35 +1,52 @@
 [
   {
     "text": "Thoát vị bụng đặc hiệu khác, không tắc hay hoại tử",
-    "position": [0, 50],
+    "position": [
+      0,
+      50
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K45.8"]
+    "candidates": [
+      "K45.8"
+    ]
   },
   {
     "text": "đau bụng",
-    "position": [167, 175],
+    "position": [
+      167,
+      175
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cảm giác khó chịu",
-    "position": [177, 194],
+    "position": [
+      177,
+      194
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng ở vùng bụng",
-    "position": [198, 214],
+    "position": [
+      198,
+      214
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [235, 245],
+    "position": [
+      235,
+      245
+    ],
     "type": "ĐIỀU_TRỊ",
     "assertions": [],
     "candidates": []

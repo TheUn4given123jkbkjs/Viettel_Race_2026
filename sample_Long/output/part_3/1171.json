@@ -1,28 +1,42 @@
 [
   {
     "text": "Các tình trạng hồng ban đặc hiệu khác",
-    "position": [619, 656],
+    "position": [
+      619,
+      656
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L53.8"]
+    "candidates": [
+      "L53.8"
+    ]
   },
   {
     "text": "bệnh tim mạch",
-    "position": [458, 471],
+    "position": [
+      458,
+      471
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tiểu đường",
-    "position": [498, 513],
+    "position": [
+      498,
+      513
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [676, 686],
+    "position": [
+      676,
+      686
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

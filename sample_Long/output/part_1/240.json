@@ -1,35 +1,52 @@
 [
   {
     "text": "đau nhói",
-    "position": [39, 47],
+    "position": [
+      39,
+      47
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng to",
-    "position": [51, 58],
+    "position": [
+      51,
+      58
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rách (đứt) tự nhiên các gân khác",
-    "position": [165, 197],
+    "position": [
+      165,
+      197
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M66.4"]
+    "candidates": [
+      "M66.4"
+    ]
   },
   {
     "text": "Diclofenac 75mg",
-    "position": [243, 258],
+    "position": [
+      243,
+      258
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ibuprofen 400mg",
-    "position": [288, 303],
+    "position": [
+      288,
+      303
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

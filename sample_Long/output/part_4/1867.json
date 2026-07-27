@@ -1,35 +1,52 @@
 [
   {
     "text": "Bệnh khác của dạ dày và tá tràng",
-    "position": [0, 32],
+    "position": [
+      0,
+      32
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K31"]
+    "candidates": [
+      "K31"
+    ]
   },
   {
     "text": "đau bụng",
-    "position": [162, 170],
+    "position": [
+      162,
+      170
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [172, 180],
+    "position": [
+      172,
+      180
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn mửa",
-    "position": [182, 189],
+    "position": [
+      182,
+      189
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiêu chảy",
-    "position": [194, 203],
+    "position": [
+      194,
+      203
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

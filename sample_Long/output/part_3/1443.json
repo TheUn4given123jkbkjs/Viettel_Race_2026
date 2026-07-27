@@ -1,35 +1,54 @@
 [
   {
     "text": "phẫu thuật thay khớp háng",
-    "position": [571, 596],
+    "position": [
+      571,
+      596
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau âm ỉ vùng bẹn",
-    "position": [736, 753],
+    "position": [
+      736,
+      753
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [1399, 1408],
+    "position": [
+      1399,
+      1408
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "hình ảnh vỏ trứng",
-    "position": [2073, 2090],
+    "position": [
+      2073,
+      2090
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hoại tử xương",
-    "position": [2434, 2447],
+    "position": [
+      2434,
+      2447
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -40,16 +59,26 @@
   },
   {
     "text": "Ibuprofen",
-    "position": [2651, 2660],
+    "position": [
+      2651,
+      2660
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Calcium gluconate",
-    "position": [2789, 2806],
+    "position": [
+      2789,
+      2806
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1908"]
+    "candidates": [
+      "1908"
+    ]
   }
 ]

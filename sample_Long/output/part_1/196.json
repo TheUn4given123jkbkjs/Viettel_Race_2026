@@ -1,23 +1,38 @@
 [
   {
     "text": "aspirin",
-    "position": [393, 400],
+    "position": [
+      393,
+      400
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "ceftriaxone",
-    "position": [421, 432],
+    "position": [
+      421,
+      432
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "THA",
-    "position": [106, 109],
+    "position": [
+      106,
+      109
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

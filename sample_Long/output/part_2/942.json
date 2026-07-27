@@ -1,58 +1,92 @@
 [
   {
     "text": "Bệnh phổi do máy làm ẩm và máy điều hoà không khí",
-    "position": [71, 120],
+    "position": [
+      71,
+      120
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J67.7"]
+    "candidates": [
+      "J67.7"
+    ]
   },
   {
     "text": "ho khan",
-    "position": [973, 980],
+    "position": [
+      973,
+      980
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [1121, 1128],
+    "position": [
+      1121,
+      1128
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "điều hoà khôngkhí",
-    "position": [1228, 1245],
+    "position": [
+      1228,
+      1245
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt cao",
-    "position": [1326, 1339],
+    "position": [
+      1326,
+      1339
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bố bệnh nhân cũng bị viêm phổi",
-    "position": [1408, 1438],
+    "position": [
+      1408,
+      1438
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Prednisolone",
-    "position": [1823, 1835],
+    "position": [
+      1823,
+      1835
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   },
   {
     "text": "Albuterol",
-    "position": [1897, 1906],
+    "position": [
+      1897,
+      1906
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["435"]
+    "candidates": [
+      "435"
+    ]
   }
 ]

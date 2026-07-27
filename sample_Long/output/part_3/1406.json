@@ -1,42 +1,72 @@
 [
   {
     "text": "Aminocaproic acid",
-    "position": [142, 159],
+    "position": [
+      142,
+      159
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["99"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "99"
+    ]
   },
   {
     "text": "amlodipine",
-    "position": [205, 215],
+    "position": [
+      205,
+      215
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["17767"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "đái tháo đường type 2",
-    "position": [240, 261],
+    "position": [
+      240,
+      261
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [400, 403],
+    "position": [
+      400,
+      403
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [433, 441],
+    "position": [
+      433,
+      441
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Viêm mô tế bào",
-    "position": [761, 775],
+    "position": [
+      761,
+      775
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -47,9 +77,14 @@
   },
   {
     "text": "ceftriaxone",
-    "position": [879, 890],
+    "position": [
+      879,
+      890
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

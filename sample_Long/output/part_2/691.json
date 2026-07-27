@@ -1,56 +1,86 @@
 [
   {
     "text": "vã mồ hôi về đêm",
-    "position": [228, 244],
+    "position": [
+      228,
+      244
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực vùng sau xương ức",
-    "position": [397, 423],
+    "position": [
+      397,
+      423
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [515, 523],
+    "position": [
+      515,
+      523
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [228, 237],
+    "position": [
+      228,
+      237
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "troponin I",
-    "position": [885, 895],
+    "position": [
+      885,
+      895
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp xoang nhanh",
-    "position": [992, 1008],
+    "position": [
+      992,
+      1008
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ngực thẳng",
-    "position": [1053, 1071],
+    "position": [
+      1053,
+      1071
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bạch cầu 11.2 G/L",
-    "position": [1215, 1232],
+    "position": [
+      1215,
+      1232
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,35 +1,52 @@
 [
   {
     "text": "Thoát vị cạnh miệng nối không tắc hay hoại thư",
-    "position": [0, 46],
+    "position": [
+      0,
+      46
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K43.5"]
+    "candidates": [
+      "K43.5"
+    ]
   },
   {
     "text": "răng miệng",
-    "position": [146, 156],
+    "position": [
+      146,
+      156
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhức",
-    "position": [980, 988],
+    "position": [
+      980,
+      988
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng tấy",
-    "position": [994, 1002],
+    "position": [
+      994,
+      1002
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Mổ thoát vị",
-    "position": [764, 775],
+    "position": [
+      764,
+      775
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -40,7 +57,10 @@
   },
   {
     "text": "Chăm sóc răng miệng",
-    "position": [778, 797],
+    "position": [
+      778,
+      797
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

@@ -1,7 +1,10 @@
 [
   {
     "text": "bệnh viêm tuyến tiền liệt",
-    "position": [354, 379],
+    "position": [
+      354,
+      379
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [232, 245],
+    "position": [
+      232,
+      245
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Allopurinol",
-    "position": [276, 287],
+    "position": [
+      276,
+      287
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["519"]
+    "candidates": [
+      "519"
+    ]
   }
 ]

@@ -1,16 +1,28 @@
 [
   {
     "text": "buồn nôn",
-    "position": [139, 147],
+    "position": [
+      139,
+      147
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "R11"
+    ]
   },
   {
     "text": "sốt",
-    "position": [694, 697],
+    "position": [
+      694,
+      697
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": [
       "A92.30",
       "R50.0",
@@ -19,21 +31,36 @@
   },
   {
     "text": "aspirin",
-    "position": [183, 190],
+    "position": [
+      183,
+      190
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Capreomycin",
-    "position": [733, 744],
+    "position": [
+      733,
+      744
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["78903"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "78903"
+    ]
   },
   {
     "text": "CRP",
-    "position": [619, 622],
+    "position": [
+      619,
+      622
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

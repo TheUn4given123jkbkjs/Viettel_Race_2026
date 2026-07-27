@@ -1,7 +1,10 @@
 [
   {
     "text": "Bệnh cơ tim khác",
-    "position": [199, 215],
+    "position": [
+      199,
+      215
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,30 +15,46 @@
   },
   {
     "text": "THA",
-    "position": [116, 119],
+    "position": [
+      116,
+      119
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [242, 250],
+    "position": [
+      242,
+      250
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [252, 259],
+    "position": [
+      252,
+      259
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [129, 141],
+    "position": [
+      129,
+      141
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

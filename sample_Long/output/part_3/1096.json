@@ -1,28 +1,42 @@
 [
   {
     "text": "Túi thừa thực quản, mắc phải",
-    "position": [128, 156],
+    "position": [
+      128,
+      156
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K22.5"]
+    "candidates": [
+      "K22.5"
+    ]
   },
   {
     "text": "khó nuốt",
-    "position": [441, 449],
+    "position": [
+      441,
+      449
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [451, 459],
+    "position": [
+      451,
+      459
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [464, 472],
+    "position": [
+      464,
+      472
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

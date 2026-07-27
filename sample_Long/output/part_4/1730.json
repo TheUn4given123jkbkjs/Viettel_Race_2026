@@ -1,21 +1,30 @@
 [
   {
     "text": "sưng to",
-    "position": [220, 227],
+    "position": [
+      220,
+      227
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhức",
-    "position": [242, 250],
+    "position": [
+      242,
+      250
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh khớp sau nhiễm khuẩn khác được xếp loại ở mục khác",
-    "position": [321, 376],
+    "position": [
+      321,
+      376
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -26,35 +35,50 @@
   },
   {
     "text": "nóng đỏ",
-    "position": [1150, 1157],
+    "position": [
+      1150,
+      1157
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tràn dịch khớp",
-    "position": [1174, 1188],
+    "position": [
+      1174,
+      1188
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cứng khớp",
-    "position": [1437, 1446],
+    "position": [
+      1437,
+      1446
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "teo cơ",
-    "position": [1450, 1456],
+    "position": [
+      1450,
+      1456
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp X-quang",
-    "position": [1476, 1488],
+    "position": [
+      1476,
+      1488
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

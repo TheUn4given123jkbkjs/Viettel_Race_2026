@@ -1,23 +1,38 @@
 [
   {
     "text": "bệnh khớp trong các bệnh về máu khác (D50-D76†), cẳng chân",
-    "position": [142, 200],
+    "position": [
+      142,
+      200
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M36.36*"]
+    "candidates": [
+      "M36.36*"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [457, 470],
+    "position": [
+      457,
+      470
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [476, 485],
+    "position": [
+      476,
+      485
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   }
 ]

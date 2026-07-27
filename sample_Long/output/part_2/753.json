@@ -1,23 +1,42 @@
 [
   {
     "text": "Albumin",
-    "position": [442, 449],
+    "position": [
+      442,
+      449
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["433"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "433"
+    ]
   },
   {
     "text": "Albumin",
-    "position": [442, 449],
+    "position": [
+      442,
+      449
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["433"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "433"
+    ]
   },
   {
     "text": "sốt",
-    "position": [160, 163],
+    "position": [
+      160,
+      163
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": [
       "A92.30",
       "R50.0",
@@ -26,16 +45,28 @@
   },
   {
     "text": "nôn mửa",
-    "position": [306, 313],
+    "position": [
+      306,
+      313
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["K91.0"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "K91.0"
+    ]
   },
   {
     "text": "tiêu chảy",
-    "position": [202, 211],
+    "position": [
+      202,
+      211
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": [
       "K90.1",
       "K90.3",
@@ -44,9 +75,14 @@
   },
   {
     "text": "suy hô hấp",
-    "position": [231, 241],
+    "position": [
+      231,
+      241
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": [
       "P28.11",
       "J80",

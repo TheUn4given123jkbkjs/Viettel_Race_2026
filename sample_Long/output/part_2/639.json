@@ -1,49 +1,81 @@
 [
   {
     "text": "vảy nến thể mảng",
-    "position": [1239, 1255],
+    "position": [
+      1239,
+      1255
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["L41.3", "L41.4"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "L41.3",
+      "L41.4"
+    ]
   },
   {
     "text": "mụn mủ vô khuẩn",
-    "position": [1444, 1459],
+    "position": [
+      1444,
+      1459
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "gan bàntay",
-    "position": [2256, 2266],
+    "position": [
+      2256,
+      2266
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Vảy nến thể mủ ở gan bàn tay - bàn chân",
-    "position": [2703, 2742],
+    "position": [
+      2703,
+      2742
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L40.3"]
+    "candidates": [
+      "L40.3"
+    ]
   },
   {
     "text": "Methotrexate",
-    "position": [2784, 2796],
+    "position": [
+      2784,
+      2796
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6851"]
+    "candidates": [
+      "6851"
+    ]
   },
   {
     "text": "Betamethasone",
-    "position": [2918, 2931],
+    "position": [
+      2918,
+      2931
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1514"]
+    "candidates": [
+      "1514"
+    ]
   },
   {
     "text": "đtri",
-    "position": [3261, 3265],
+    "position": [
+      3261,
+      3265
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

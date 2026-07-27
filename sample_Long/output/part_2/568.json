@@ -1,42 +1,60 @@
 [
   {
     "text": "đau đầu",
-    "position": [71, 78],
+    "position": [
+      71,
+      78
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [82, 89],
+    "position": [
+      82,
+      89
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [479, 499],
+    "position": [
+      479,
+      499
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm sinh hóa",
-    "position": [528, 547],
+    "position": [
+      528,
+      547
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết sắc tố (Hb) là 12 g/dl",
-    "position": [658, 686],
+    "position": [
+      658,
+      686
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nồng độ creatinine là 1,2 mg/dl",
-    "position": [688, 719],
+    "position": [
+      688,
+      719
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

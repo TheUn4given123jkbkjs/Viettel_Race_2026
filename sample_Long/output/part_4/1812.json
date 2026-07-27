@@ -1,9 +1,14 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [471, 484],
+    "position": [
+      471,
+      484
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -12,35 +17,52 @@
   },
   {
     "text": "đau bụng",
-    "position": [601, 609],
+    "position": [
+      601,
+      609
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xoắn ruột",
-    "position": [888, 897],
+    "position": [
+      888,
+      897
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K56.2"]
+    "candidates": [
+      "K56.2"
+    ]
   },
   {
     "text": "Ceftriaxone 1g: 2 lọ/ngày, truyền tĩnh mạch",
-    "position": [961, 1004],
+    "position": [
+      961,
+      1004
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Metronidazole 500mg/100ml iv",
-    "position": [1007, 1035],
+    "position": [
+      1007,
+      1035
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đục thủy tinh thể",
-    "position": [1122, 1139],
+    "position": [
+      1122,
+      1139
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

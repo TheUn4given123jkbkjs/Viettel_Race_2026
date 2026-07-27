@@ -1,58 +1,96 @@
 [
   {
     "text": "bệnh mạch vành",
-    "position": [329, 343],
+    "position": [
+      329,
+      343
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["A52.06", "I25.0"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "A52.06",
+      "I25.0"
+    ]
   },
   {
     "text": "khó thở khi gắng sức",
-    "position": [596, 616],
+    "position": [
+      596,
+      616
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [890, 898],
+    "position": [
+      890,
+      898
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "BNP",
-    "position": [1924, 1927],
+    "position": [
+      1924,
+      1927
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "680 pg/mL",
-    "position": [1929, 1938],
+    "position": [
+      1929,
+      1938
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hẹp hở (van) động mạch chủ",
-    "position": [2209, 2235],
+    "position": [
+      2209,
+      2235
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I06.2", "I35.2"]
+    "candidates": [
+      "I06.2",
+      "I35.2"
+    ]
   },
   {
     "text": "Furosemide",
-    "position": [2406, 2416],
+    "position": [
+      2406,
+      2416
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4603"]
+    "candidates": [
+      "4603"
+    ]
   },
   {
     "text": "Enalapril",
-    "position": [2433, 2442],
+    "position": [
+      2433,
+      2442
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3827"]
+    "candidates": [
+      "3827"
+    ]
   }
 ]

@@ -1,7 +1,10 @@
 [
   {
     "text": "loét âm hộ",
-    "position": [63, 73],
+    "position": [
+      63,
+      73
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,35 +15,50 @@
   },
   {
     "text": "sức khỏe phụ nữ",
-    "position": [40, 55],
+    "position": [
+      40,
+      55
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vùng âm hộ",
-    "position": [402, 412],
+    "position": [
+      402,
+      412
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nước ấm",
-    "position": [459, 466],
+    "position": [
+      459,
+      466
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ăn uống lành mạnh",
-    "position": [539, 556],
+    "position": [
+      539,
+      556
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tập thể dục thường xuyên",
-    "position": [558, 582],
+    "position": [
+      558,
+      582
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

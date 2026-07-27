@@ -1,49 +1,74 @@
 [
   {
     "text": "u xơ tử cung",
-    "position": [262, 274],
+    "position": [
+      262,
+      274
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "phản ứngthành bụng",
-    "position": [594, 612],
+    "position": [
+      594,
+      612
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết sắctố",
-    "position": [1133, 1144],
+    "position": [
+      1133,
+      1144
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm đầu dò âm đạo",
-    "position": [1230, 1251],
+    "position": [
+      1230,
+      1251
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "dịch tự do trong ổ bụng",
-    "position": [1437, 1460],
+    "position": [
+      1437,
+      1460
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "U nang hoàng thể",
-    "position": [1606, 1622],
+    "position": [
+      1606,
+      1622
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N83.1"]
+    "candidates": [
+      "N83.1"
+    ]
   },
   {
     "text": "đau bụng cấp (không lan",
-    "position": [2439, 2462],
+    "position": [
+      2439,
+      2462
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

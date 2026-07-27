@@ -1,23 +1,40 @@
 [
   {
     "text": "Hoại tử xương thứ phát khác",
-    "position": [612, 639],
+    "position": [
+      612,
+      639
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["M87.3"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "M87.3"
+    ]
   },
   {
     "text": "Abacavir",
-    "position": [774, 782],
+    "position": [
+      774,
+      782
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": [
+      "190521"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [809, 822],
+    "position": [
+      809,
+      822
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

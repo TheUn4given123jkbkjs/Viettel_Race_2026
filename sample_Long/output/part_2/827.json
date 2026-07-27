@@ -1,51 +1,78 @@
 [
   {
     "text": "đau mỏi vùng sau cổ",
-    "position": [125, 144],
+    "position": [
+      125,
+      144
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đái tháo đường tuýp 2",
-    "position": [1049, 1070],
+    "position": [
+      1049,
+      1070
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "MRI cột sống cổ",
-    "position": [1902, 1917],
+    "position": [
+      1902,
+      1917
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các Thoát vị đĩa đệm cột sống cổ khác",
-    "position": [2128, 2165],
+    "position": [
+      2128,
+      2165
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M50.2"]
+    "candidates": [
+      "M50.2"
+    ]
   },
   {
     "text": "Meloxicam 15mg",
-    "position": [2202, 2216],
+    "position": [
+      2202,
+      2216
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Methylprednisolone 16mg",
-    "position": [2263, 2286],
+    "position": [
+      2263,
+      2286
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amlodipine 5mg",
-    "position": [954, 968],
+    "position": [
+      954,
+      968
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

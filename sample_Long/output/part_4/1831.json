@@ -1,58 +1,94 @@
 [
   {
     "text": "Erythromycin",
-    "position": [176, 188],
+    "position": [
+      176,
+      188
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["4053"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "4053"
+    ]
   },
   {
     "text": "CHF",
-    "position": [230, 233],
+    "position": [
+      230,
+      233
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [372, 380],
+    "position": [
+      372,
+      380
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [601, 618],
+    "position": [
+      601,
+      618
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "triệu chứn",
-    "position": [690, 700],
+    "position": [
+      690,
+      700
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh động mạch vành",
-    "position": [776, 795],
+    "position": [
+      776,
+      795
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["I25.0"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "I25.0"
+    ]
   },
   {
     "text": "troponin",
-    "position": [900, 908],
+    "position": [
+      900,
+      908
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [959, 966],
+    "position": [
+      959,
+      966
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   }
 ]

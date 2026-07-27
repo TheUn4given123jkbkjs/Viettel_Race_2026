@@ -1,56 +1,89 @@
 [
   {
     "text": "đau quặn bụng",
-    "position": [74, 87],
+    "position": [
+      74,
+      87
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ung thư trực tràng",
-    "position": [865, 883],
+    "position": [
+      865,
+      883
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["D01.1", "D01.2"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "D01.1",
+      "D01.2"
+    ]
   },
   {
     "text": "THA",
-    "position": [743, 746],
+    "position": [
+      743,
+      746
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["Y06"]
+    "candidates": [
+      "Y06"
+    ]
   },
   {
     "text": "Nội soi",
-    "position": [532, 539],
+    "position": [
+      532,
+      539
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh đặc hiệu khác của ruột",
-    "position": [1658, 1685],
+    "position": [
+      1658,
+      1685
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K63.8"]
+    "candidates": [
+      "K63.8"
+    ]
   },
   {
     "text": "Alverine 40mg",
-    "position": [1712, 1725],
+    "position": [
+      1712,
+      1725
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Attapulgite 3g",
-    "position": [1769, 1783],
+    "position": [
+      1769,
+      1783
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm trợt nông",
-    "position": [1571, 1585],
+    "position": [
+      1571,
+      1585
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

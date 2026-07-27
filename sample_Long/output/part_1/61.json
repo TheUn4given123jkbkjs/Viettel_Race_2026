@@ -1,30 +1,50 @@
 [
   {
     "text": "bệnh khớp trong bệnh đường ruột khác, cổ, bàn chân",
-    "position": [120, 170],
+    "position": [
+      120,
+      170
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M07.67*"]
+    "candidates": [
+      "M07.67*"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [409, 416],
+    "position": [
+      409,
+      416
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [420, 431],
+    "position": [
+      420,
+      431
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [354, 371],
+    "position": [
+      354,
+      371
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

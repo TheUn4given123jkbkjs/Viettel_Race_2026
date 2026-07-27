@@ -1,7 +1,10 @@
 [
   {
     "text": "Viêm màng ngoài tim trong bệnh phân loại nơi khác",
-    "position": [114, 163],
+    "position": [
+      114,
+      163
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [530, 543],
+    "position": [
+      530,
+      543
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [549, 558],
+    "position": [
+      549,
+      558
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   }
 ]

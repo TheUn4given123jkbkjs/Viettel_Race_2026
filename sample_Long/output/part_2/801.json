@@ -1,16 +1,28 @@
 [
   {
     "text": "Famotidine",
-    "position": [32, 42],
+    "position": [
+      32,
+      42
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["4278"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "4278"
+    ]
   },
   {
     "text": "viêm dạ dày",
-    "position": [77, 88],
+    "position": [
+      77,
+      88
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "K29",
       "K29.0",
@@ -19,9 +31,14 @@
   },
   {
     "text": "Tăng huyết áp",
-    "position": [171, 184],
+    "position": [
+      171,
+      184
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -30,14 +47,20 @@
   },
   {
     "text": "Đau ngực trái",
-    "position": [201, 214],
+    "position": [
+      201,
+      214
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nhồi máu cơ tim cấp",
-    "position": [230, 249],
+    "position": [
+      230,
+      249
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

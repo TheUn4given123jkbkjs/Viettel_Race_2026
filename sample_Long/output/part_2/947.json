@@ -1,63 +1,94 @@
 [
   {
     "text": "đau thắt ngực",
-    "position": [405, 418],
+    "position": [
+      405,
+      418
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực âm i",
-    "position": [907, 920],
+    "position": [
+      907,
+      920
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [1401, 1410],
+    "position": [
+      1401,
+      1410
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [1469, 1486],
+    "position": [
+      1469,
+      1486
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [1596, 1608],
+    "position": [
+      1596,
+      1608
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm m áu",
-    "position": [2504, 2519],
+    "position": [
+      2504,
+      2519
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đo điện tâm đồ",
-    "position": [2653, 2667],
+    "position": [
+      2653,
+      2667
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin I",
-    "position": [2920, 2930],
+    "position": [
+      2920,
+      2930
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.45 ng/mL",
-    "position": [3005, 3015],
+    "position": [
+      3005,
+      3015
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

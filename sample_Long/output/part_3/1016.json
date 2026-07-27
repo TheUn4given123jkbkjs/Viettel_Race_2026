@@ -1,44 +1,66 @@
 [
   {
     "text": "Đau ngực dữ dội",
-    "position": [968, 983],
+    "position": [
+      968,
+      983
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Khó thở dữ dội",
-    "position": [1196, 1210],
+    "position": [
+      1196,
+      1210
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sốt nhẹ",
-    "position": [1265, 1272],
+    "position": [
+      1265,
+      1272
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiếng cọ màng ngoài tim",
-    "position": [1423, 1446],
+    "position": [
+      1423,
+      1446
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho ra máu",
-    "position": [1482, 1491],
+    "position": [
+      1482,
+      1491
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "nhồi máu cơ tim",
-    "position": [1581, 1596],
+    "position": [
+      1581,
+      1596
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I21",
       "I21.0",
@@ -47,9 +69,15 @@
   },
   {
     "text": "Viêm màng ngoài tim cấp, không đặc hiệu",
-    "position": [72, 111],
+    "position": [
+      72,
+      111
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I30.0", "I30.9"]
+    "candidates": [
+      "I30.0",
+      "I30.9"
+    ]
   }
 ]

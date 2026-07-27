@@ -1,42 +1,70 @@
 [
   {
     "text": "đau họng",
-    "position": [17, 25],
+    "position": [
+      17,
+      25
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hen suyễn",
-    "position": [63, 72],
+    "position": [
+      63,
+      72
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["J45"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J45"
+    ]
   },
   {
     "text": "Các bệnh lý xác định khác của đường hô hấp trên",
-    "position": [128, 175],
+    "position": [
+      128,
+      175
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J39.8"]
+    "candidates": [
+      "J39.8"
+    ]
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
-    "position": [192, 221],
+    "position": [
+      192,
+      221
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["19711"]
+    "candidates": [
+      "19711"
+    ]
   },
   {
     "text": "Chlorpheniramine",
-    "position": [245, 261],
+    "position": [
+      245,
+      261
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2400"]
+    "candidates": [
+      "2400"
+    ]
   },
   {
     "text": "Gãy xương đốt ngón chân cái",
-    "position": [278, 305],
+    "position": [
+      278,
+      305
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

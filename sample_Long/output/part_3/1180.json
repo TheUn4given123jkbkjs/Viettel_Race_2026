@@ -1,42 +1,68 @@
 [
   {
     "text": "Scopolamine hydrobromide",
-    "position": [64, 88],
+    "position": [
+      64,
+      88
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["9603"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "9603"
+    ]
   },
   {
     "text": "bệnh đường tiêu hóa",
-    "position": [108, 127],
+    "position": [
+      108,
+      127
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [240, 248],
+    "position": [
+      240,
+      248
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [948, 951],
+    "position": [
+      948,
+      951
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm đường huyết",
-    "position": [498, 520],
+    "position": [
+      498,
+      520
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm chức năng gan",
-    "position": [524, 548],
+    "position": [
+      524,
+      548
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

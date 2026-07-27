@@ -1,56 +1,82 @@
 [
   {
     "text": "đau ngực",
-    "position": [363, 371],
+    "position": [
+      363,
+      371
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [571, 579],
+    "position": [
+      571,
+      579
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở khi nằm phẳng",
-    "position": [770, 791],
+    "position": [
+      770,
+      791
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hồi hộp trống ngực",
-    "position": [804, 822],
+    "position": [
+      804,
+      822
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin I",
-    "position": [1252, 1262],
+    "position": [
+      1252,
+      1262
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.05 ng/mL",
-    "position": [1266, 1276],
+    "position": [
+      1266,
+      1276
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (EKG)",
-    "position": [1278, 1295],
+    "position": [
+      1278,
+      1295
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đoạn ST chênh xuống 1mm ở các chuyển đạo từ V4 đến V6",
-    "position": [1319, 1372],
+    "position": [
+      1319,
+      1372
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

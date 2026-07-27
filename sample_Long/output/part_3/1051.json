@@ -1,21 +1,34 @@
 [
   {
     "text": "Thoát vị bẹn hai bên, không tắc hay hoại thư",
-    "position": [59, 103],
+    "position": [
+      59,
+      103
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K40.2"]
+    "candidates": [
+      "K40.2"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [385, 394],
+    "position": [
+      385,
+      394
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Paracetamol",
-    "position": [400, 411],
+    "position": [
+      400,
+      411
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

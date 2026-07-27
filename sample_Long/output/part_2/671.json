@@ -1,49 +1,82 @@
 [
   {
     "text": "Các rối loạn điều nhiệt được định rõ khác của trẻ sơ sinh",
-    "position": [204, 261],
+    "position": [
+      204,
+      261
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P81.8"]
+    "candidates": [
+      "P81.8"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [353, 366],
+    "position": [
+      353,
+      366
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [370, 379],
+    "position": [
+      370,
+      379
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [451, 458],
+    "position": [
+      451,
+      458
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [129, 146],
+    "position": [
+      129,
+      146
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [150, 159],
+    "position": [
+      150,
+      159
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [537, 545],
+    "position": [
+      537,
+      545
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

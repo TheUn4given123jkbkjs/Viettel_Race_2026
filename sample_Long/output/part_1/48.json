@@ -1,35 +1,57 @@
 [
   {
     "text": "biến dạng ngón tay",
-    "position": [188, 206],
+    "position": [
+      188,
+      206
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M20", "M20.0"]
+    "candidates": [
+      "M20",
+      "M20.0"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [286, 299],
+    "position": [
+      286,
+      299
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [355, 362],
+    "position": [
+      355,
+      362
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "tăng huyết áp",
-    "position": [106, 119],
+    "position": [
+      106,
+      119
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường type 2",
-    "position": [123, 140],
+    "position": [
+      123,
+      140
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,37 +1,64 @@
 [
   {
     "text": "Viêm tiểu thuỳ gan mạn, không phân loại nơi khác",
-    "position": [270, 318],
+    "position": [
+      270,
+      318
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K73.1"]
+    "candidates": [
+      "K73.1"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [194, 201],
+    "position": [
+      194,
+      201
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["1191"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "THA",
-    "position": [161, 164],
+    "position": [
+      161,
+      164
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [570, 581],
+    "position": [
+      570,
+      581
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "acetaminophen",
-    "position": [585, 598],
+    "position": [
+      585,
+      598
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

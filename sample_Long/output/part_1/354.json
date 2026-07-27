@@ -1,23 +1,38 @@
 [
   {
     "text": "Viêm phúc mạc vùng chậu nữ mạn",
-    "position": [42, 72],
+    "position": [
+      42,
+      72
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N73.4"]
+    "candidates": [
+      "N73.4"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [401, 414],
+    "position": [
+      401,
+      414
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Metronidazole",
-    "position": [439, 452],
+    "position": [
+      439,
+      452
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6922"]
+    "candidates": [
+      "6922"
+    ]
   }
 ]

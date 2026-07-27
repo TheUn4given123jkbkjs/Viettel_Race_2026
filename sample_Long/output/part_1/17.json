@@ -1,56 +1,82 @@
 [
   {
     "text": "đau ngực cấp",
-    "position": [132, 144],
+    "position": [
+      132,
+      144
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [155, 158],
+    "position": [
+      155,
+      158
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [169, 177],
+    "position": [
+      169,
+      177
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Huyết áp: 130/70 mmHg",
-    "position": [190, 211],
+    "position": [
+      190,
+      211
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "SPO2: 99 %",
-    "position": [227, 237],
+    "position": [
+      227,
+      237
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin 0.01",
-    "position": [286, 299],
+    "position": [
+      286,
+      299
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "lactate",
-    "position": [301, 308],
+    "position": [
+      301,
+      308
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT sọ",
-    "position": [310, 315],
+    "position": [
+      310,
+      315
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

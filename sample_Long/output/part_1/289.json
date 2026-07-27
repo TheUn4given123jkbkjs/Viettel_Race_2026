@@ -1,23 +1,39 @@
 [
   {
     "text": "bệnh van hai lá khác",
-    "position": [175, 195],
+    "position": [
+      175,
+      195
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I05.8", "I39.0*"]
+    "candidates": [
+      "I05.8",
+      "I39.0*"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [296, 303],
+    "position": [
+      296,
+      303
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [401, 414],
+    "position": [
+      401,
+      414
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

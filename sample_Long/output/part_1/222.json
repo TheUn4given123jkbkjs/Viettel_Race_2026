@@ -1,42 +1,64 @@
 [
   {
     "text": "đau nhức",
-    "position": [49, 57],
+    "position": [
+      49,
+      57
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [202, 205],
+    "position": [
+      202,
+      205
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sút cân",
-    "position": [228, 235],
+    "position": [
+      228,
+      235
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm đốt sống do Brucella (A23.-†), cánh tay",
-    "position": [471, 515],
+    "position": [
+      471,
+      515
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M49.12*"]
+    "candidates": [
+      "M49.12*"
+    ]
   },
   {
     "text": "Doxycycline 100mg",
-    "position": [726, 743],
+    "position": [
+      726,
+      743
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Rifampin 300mg: 2 viên/ngày, uống buổi sáng lúc đói",
-    "position": [782, 833],
+    "position": [
+      782,
+      833
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

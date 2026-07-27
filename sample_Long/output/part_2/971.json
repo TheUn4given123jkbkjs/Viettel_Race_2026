@@ -1,30 +1,48 @@
 [
   {
     "text": "Thương tổn các tạng tiểu khung khác do sản khoa",
-    "position": [118, 165],
+    "position": [
+      118,
+      165
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O71.5"]
+    "candidates": [
+      "O71.5"
+    ]
   },
   {
     "text": "đau bụng dưới",
-    "position": [67, 80],
+    "position": [
+      67,
+      80
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [531, 534],
+    "position": [
+      531,
+      534
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [585, 593],
+    "position": [
+      585,
+      593
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

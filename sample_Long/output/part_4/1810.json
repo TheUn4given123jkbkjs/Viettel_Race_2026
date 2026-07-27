@@ -1,51 +1,74 @@
 [
   {
     "text": "Tím tái",
-    "position": [104, 111],
+    "position": [
+      104,
+      111
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau buốt đầu ngón tay",
-    "position": [115, 136],
+    "position": [
+      115,
+      136
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đổi màu da ngón tay",
-    "position": [174, 193],
+    "position": [
+      174,
+      193
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tê bì ngón tay",
-    "position": [196, 210],
+    "position": [
+      196,
+      210
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Soi mạch máu nếp móng",
-    "position": [584, 605],
+    "position": [
+      584,
+      605
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bình thường",
-    "position": [618, 629],
+    "position": [
+      618,
+      629
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hội chứng Raynaud",
-    "position": [668, 685],
+    "position": [
+      668,
+      685
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I73.0"]
+    "candidates": [
+      "I73.0"
+    ]
   }
 ]

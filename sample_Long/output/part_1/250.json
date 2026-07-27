@@ -1,16 +1,26 @@
 [
   {
     "text": "Aspirin",
-    "position": [222, 229],
+    "position": [
+      222,
+      229
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [233, 244],
+    "position": [
+      233,
+      244
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

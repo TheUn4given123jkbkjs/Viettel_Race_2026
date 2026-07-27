@@ -1,35 +1,58 @@
 [
   {
     "text": "Meloxicam",
-    "position": [287, 296],
+    "position": [
+      287,
+      296
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["41493"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "41493"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [350, 357],
+    "position": [
+      350,
+      357
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "ceftriaxone",
-    "position": [361, 372],
+    "position": [
+      361,
+      372
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "troponin",
-    "position": [424, 432],
+    "position": [
+      424,
+      432
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [108, 121],
+    "position": [
+      108,
+      121
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -40,7 +63,10 @@
   },
   {
     "text": "bệnh tiểu đường loại 2",
-    "position": [125, 147],
+    "position": [
+      125,
+      147
+    ],
     "type": "BỆNH_NỀN",
     "assertions": [],
     "candidates": []

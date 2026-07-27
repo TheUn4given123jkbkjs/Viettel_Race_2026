@@ -1,9 +1,14 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [106, 119],
+    "position": [
+      106,
+      119
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -12,9 +17,14 @@
   },
   {
     "text": "nhồi máu cơ tim",
-    "position": [325, 340],
+    "position": [
+      325,
+      340
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I21",
       "I21.0",
@@ -23,37 +33,59 @@
   },
   {
     "text": "khó thở khi gắng sức",
-    "position": [507, 527],
+    "position": [
+      507,
+      527
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau thắt ngực",
-    "position": [594, 607],
+    "position": [
+      594,
+      607
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh van động mạch chủ không do thấp",
-    "position": [1149, 1185],
+    "position": [
+      1149,
+      1185
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I06.9", "I35"]
+    "candidates": [
+      "I06.9",
+      "I35"
+    ]
   },
   {
     "text": "Furosemide",
-    "position": [1426, 1436],
+    "position": [
+      1426,
+      1436
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4603"]
+    "candidates": [
+      "4603"
+    ]
   },
   {
     "text": "Digoxin",
-    "position": [1510, 1517],
+    "position": [
+      1510,
+      1517
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3407"]
+    "candidates": [
+      "3407"
+    ]
   }
 ]

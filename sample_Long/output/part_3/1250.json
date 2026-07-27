@@ -1,9 +1,14 @@
 [
   {
     "text": "vảy nến",
-    "position": [154, 161],
+    "position": [
+      154,
+      161
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "L40.50",
       "L40.51",
@@ -12,37 +17,56 @@
   },
   {
     "text": "sưng các khớp nhỏ bàn tay",
-    "position": [382, 407],
+    "position": [
+      382,
+      407
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [556, 565],
+    "position": [
+      556,
+      565
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "ngón tay hình khúc dồi",
-    "position": [782, 804],
+    "position": [
+      782,
+      804
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hẹp khe khớp",
-    "position": [909, 921],
+    "position": [
+      909,
+      921
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp thiếu niên sau vảy nến (K50._†), bàn tay",
-    "position": [1047, 1097],
+    "position": [
+      1047,
+      1097
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M09.04*"]
+    "candidates": [
+      "M09.04*"
+    ]
   }
 ]

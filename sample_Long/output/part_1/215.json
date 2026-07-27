@@ -1,51 +1,84 @@
 [
   {
     "text": "hen suyễn",
-    "position": [888, 897],
+    "position": [
+      888,
+      897
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["J45"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J45"
+    ]
   },
   {
     "text": "đau bụng dưới",
-    "position": [1207, 1220],
+    "position": [
+      1207,
+      1220
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sốt cao",
-    "position": [1260, 1267],
+    "position": [
+      1260,
+      1267
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đình chỉ thai nghén, ảnh hưởng thai và trẻ sơ sinh",
-    "position": [82, 132],
+    "position": [
+      82,
+      132
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P96.4"]
+    "candidates": [
+      "P96.4"
+    ]
   },
   {
     "text": "Mifepristone / Misoprostol",
-    "position": [1710, 1736],
+    "position": [
+      1710,
+      1736
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6964"]
+    "candidates": [
+      "6964"
+    ]
   },
   {
     "text": "Oxytocin",
-    "position": [1844, 1852],
+    "position": [
+      1844,
+      1852
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7824"]
+    "candidates": [
+      "7824"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [1989, 2002],
+    "position": [
+      1989,
+      2002
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

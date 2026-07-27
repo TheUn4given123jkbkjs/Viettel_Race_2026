@@ -1,7 +1,10 @@
 [
   {
     "text": "Chấn thương sản khoa",
-    "position": [0, 20],
+    "position": [
+      0,
+      20
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,28 +15,42 @@
   },
   {
     "text": "Chấn thương sản khoa, chưa xác định rõ",
-    "position": [120, 158],
+    "position": [
+      120,
+      158
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O71.9"]
+    "candidates": [
+      "O71.9"
+    ]
   },
   {
     "text": "đau bụng",
-    "position": [340, 348],
+    "position": [
+      340,
+      348
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chảy máu âm đạo",
-    "position": [350, 365],
+    "position": [
+      350,
+      365
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [367, 370],
+    "position": [
+      367,
+      370
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

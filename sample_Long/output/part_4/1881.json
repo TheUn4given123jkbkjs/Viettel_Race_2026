@@ -1,21 +1,34 @@
 [
   {
     "text": "Atazanavir",
-    "position": [126, 136],
+    "position": [
+      126,
+      136
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["343047"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "343047"
+    ]
   },
   {
     "text": "nhiễm HIV",
-    "position": [149, 158],
+    "position": [
+      149,
+      158
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhiễm trùng huyết",
-    "position": [208, 225],
+    "position": [
+      208,
+      225
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -26,21 +39,34 @@
   },
   {
     "text": "ceftriaxone",
-    "position": [417, 428],
+    "position": [
+      417,
+      428
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [462, 469],
+    "position": [
+      462,
+      469
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "troponin",
-    "position": [554, 562],
+    "position": [
+      554,
+      562
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

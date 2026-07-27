@@ -1,28 +1,44 @@
 [
   {
     "text": "Pentamidine",
-    "position": [54, 65],
+    "position": [
+      54,
+      65
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["7994"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "7994"
+    ]
   },
   {
     "text": "mất ngủ",
-    "position": [366, 373],
+    "position": [
+      366,
+      373
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [375, 384],
+    "position": [
+      375,
+      384
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thay đổi điện giải trong máu",
-    "position": [389, 417],
+    "position": [
+      389,
+      417
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

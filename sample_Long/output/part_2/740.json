@@ -1,35 +1,50 @@
 [
   {
     "text": "bệnh vảy nến",
-    "position": [213, 225],
+    "position": [
+      213,
+      225
+    ],
     "type": "TÊN_BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau",
-    "position": [266, 269],
+    "position": [
+      266,
+      269
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "************",
-    "position": [439, 451],
+    "position": [
+      439,
+      451
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhiễm trùng",
-    "position": [694, 705],
+    "position": [
+      694,
+      705
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy giảm hệ miễn dịch",
-    "position": [709, 730],
+    "position": [
+      709,
+      730
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

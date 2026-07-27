@@ -1,44 +1,74 @@
 [
   {
     "text": "gai xương ở mào chậu",
-    "position": [420, 440],
+    "position": [
+      420,
+      440
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M76.2"]
+    "candidates": [
+      "M76.2"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [500, 513],
+    "position": [
+      500,
+      513
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [517, 526],
+    "position": [
+      517,
+      526
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "bệnh tim mạch",
-    "position": [201, 214],
+    "position": [
+      201,
+      214
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [667, 684],
+    "position": [
+      667,
+      684
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [688, 691],
+    "position": [
+      688,
+      691
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

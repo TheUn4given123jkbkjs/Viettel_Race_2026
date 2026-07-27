@@ -1,56 +1,84 @@
 [
   {
     "text": "đau thắt ngực",
-    "position": [31, 44],
+    "position": [
+      31,
+      44
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [114, 121],
+    "position": [
+      114,
+      121
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Đau bụng vùng trên rốn",
-    "position": [305, 327],
+    "position": [
+      305,
+      327
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bụng chướng nhẹ",
-    "position": [511, 526],
+    "position": [
+      511,
+      526
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amylase máu",
-    "position": [889, 900],
+    "position": [
+      889,
+      900
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "1250 U/L",
-    "position": [902, 910],
+    "position": [
+      902,
+      910
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "26.7",
-    "position": [883, 887],
+    "position": [
+      883,
+      887
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT ổ bụng",
-    "position": [1111, 1120],
+    "position": [
+      1111,
+      1120
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

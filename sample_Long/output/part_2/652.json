@@ -1,21 +1,34 @@
 [
   {
     "text": "Bupivacaine",
-    "position": [134, 145],
+    "position": [
+      134,
+      145
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["1815"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1815"
+    ]
   },
   {
     "text": "bệnh thận mãn tính",
-    "position": [43, 61],
+    "position": [
+      43,
+      61
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim thiếu máu",
-    "position": [65, 83],
+    "position": [
+      65,
+      83
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

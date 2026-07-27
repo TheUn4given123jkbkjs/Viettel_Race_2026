@@ -1,42 +1,70 @@
 [
   {
     "text": "ung thư vòm họng",
-    "position": [252, 268],
+    "position": [
+      252,
+      268
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau họng",
-    "position": [362, 370],
+    "position": [
+      362,
+      370
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [550, 559],
+    "position": [
+      550,
+      559
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [790, 803],
+    "position": [
+      790,
+      803
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["161"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "buồn nôn",
-    "position": [737, 745],
+    "position": [
+      737,
+      745
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Viêm họng mãn tính",
-    "position": [1283, 1301],
+    "position": [
+      1283,
+      1301
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -47,16 +75,27 @@
   },
   {
     "text": "Amoxicillin",
-    "position": [1358, 1369],
+    "position": [
+      1358,
+      1369
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["723", "19711"]
+    "candidates": [
+      "723",
+      "19711"
+    ]
   },
   {
     "text": "Betamethasone",
-    "position": [1413, 1426],
+    "position": [
+      1413,
+      1426
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1514"]
+    "candidates": [
+      "1514"
+    ]
   }
 ]

@@ -1,42 +1,62 @@
 [
   {
     "text": "đau bụng",
-    "position": [116, 124],
+    "position": [
+      116,
+      124
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [126, 134],
+    "position": [
+      126,
+      134
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [136, 145],
+    "position": [
+      136,
+      145
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "nôn mửa",
-    "position": [150, 157],
+    "position": [
+      150,
+      157
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [305, 319],
+    "position": [
+      305,
+      319
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm phân",
-    "position": [321, 336],
+    "position": [
+      321,
+      336
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

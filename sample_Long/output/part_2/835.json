@@ -1,23 +1,38 @@
 [
   {
     "text": "đau bụng",
-    "position": [12, 20],
+    "position": [
+      12,
+      20
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "NPH Insulin",
-    "position": [102, 113],
+    "position": [
+      102,
+      113
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["317235"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "317235"
+    ]
   },
   {
     "text": "Sởi",
-    "position": [135, 138],
+    "position": [
+      135,
+      138
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "Z27.4",
       "Z24.4",
@@ -26,14 +41,22 @@
   },
   {
     "text": "nôn mửa",
-    "position": [185, 192],
+    "position": [
+      185,
+      192
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Rối loạn tiêu hóa",
-    "position": [246, 263],
+    "position": [
+      246,
+      263
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

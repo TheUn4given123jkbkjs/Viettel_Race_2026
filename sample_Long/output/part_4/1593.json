@@ -1,23 +1,40 @@
 [
   {
     "text": "Gãy xương sau chỉnh hình thay thế, sau lắp khớp giả hay sau tạo xương nhân tạo",
-    "position": [0, 78],
+    "position": [
+      0,
+      78
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["M96.6"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "M96.6"
+    ]
   },
   {
     "text": "Dexamethasone",
-    "position": [572, 585],
+    "position": [
+      572,
+      585
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": [
+      "3264"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [646, 659],
+    "position": [
+      646,
+      659
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

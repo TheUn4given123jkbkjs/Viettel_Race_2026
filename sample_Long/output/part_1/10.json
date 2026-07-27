@@ -1,49 +1,72 @@
 [
   {
     "text": "đau tức ngực",
-    "position": [256, 268],
+    "position": [
+      256,
+      268
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [272, 279],
+    "position": [
+      272,
+      279
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [326, 334],
+    "position": [
+      326,
+      334
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [493, 502],
+    "position": [
+      493,
+      502
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu",
-    "position": [665, 673],
+    "position": [
+      665,
+      673
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "26.7",
-    "position": [674, 678],
+    "position": [
+      674,
+      678
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm tim",
-    "position": [830, 841],
+    "position": [
+      830,
+      841
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

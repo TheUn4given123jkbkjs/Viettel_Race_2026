@@ -1,9 +1,14 @@
 [
   {
     "text": "bệnh thận di truyền",
-    "position": [401, 420],
+    "position": [
+      401,
+      420
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "N07",
       "N07.0",
@@ -12,7 +17,10 @@
   },
   {
     "text": "Đái máu dai dẳng và tái phát",
-    "position": [504, 532],
+    "position": [
+      504,
+      532
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -23,14 +31,22 @@
   },
   {
     "text": "không phù",
-    "position": [665, 674],
+    "position": [
+      665,
+      674
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Viêm cầu thận tăng sinh gian mạch lan tỏa",
-    "position": [735, 776],
+    "position": [
+      735,
+      776
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -41,16 +57,26 @@
   },
   {
     "text": "Prednisolone",
-    "position": [968, 980],
+    "position": [
+      968,
+      980
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   },
   {
     "text": "Cyclophosphamide",
-    "position": [1018, 1034],
+    "position": [
+      1018,
+      1034
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3002"]
+    "candidates": [
+      "3002"
+    ]
   }
 ]

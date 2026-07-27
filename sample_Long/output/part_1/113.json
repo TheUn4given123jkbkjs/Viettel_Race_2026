@@ -1,58 +1,91 @@
 [
   {
     "text": "bệnh lý mạch vành",
-    "position": [279, 296],
+    "position": [
+      279,
+      296
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated", "isFamily"],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [387, 394],
+    "position": [
+      387,
+      394
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đánh trống ngực",
-    "position": [406, 421],
+    "position": [
+      406,
+      421
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [601, 609],
+    "position": [
+      601,
+      609
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [619, 627],
+    "position": [
+      619,
+      627
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [648, 655],
+    "position": [
+      648,
+      655
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiếng thổi tâm thu",
-    "position": [898, 916],
+    "position": [
+      898,
+      916
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Rối loạn tim mạch trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác",
-    "position": [1101, 1182],
+    "position": [
+      1101,
+      1182
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I98.1*"]
+    "candidates": [
+      "I98.1*"
+    ]
   }
 ]

@@ -1,7 +1,10 @@
 [
   {
     "text": "Tiền sản giật",
-    "position": [330, 343],
+    "position": [
+      330,
+      343
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Aspirin",
-    "position": [368, 375],
+    "position": [
+      368,
+      375
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [396, 407],
+    "position": [
+      396,
+      407
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

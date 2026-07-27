@@ -1,51 +1,84 @@
 [
   {
     "text": "Amlodipine",
-    "position": [173, 183],
+    "position": [
+      173,
+      183
+    ],
     "type": "THUỐC",
-    "assertions": ["isFamily"],
-    "candidates": ["17767"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "sưng nề âm ỉ vùng xương hàm dưới bên trái",
-    "position": [326, 367],
+    "position": [
+      326,
+      367
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt nhẹ",
-    "position": [413, 420],
+    "position": [
+      413,
+      420
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [498, 506],
+    "position": [
+      498,
+      506
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bệnh xác định khác của xương hàm",
-    "position": [753, 785],
+    "position": [
+      753,
+      785
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K10.8"]
+    "candidates": [
+      "K10.8"
+    ]
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
-    "position": [1066, 1095],
+    "position": [
+      1066,
+      1095
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["19711"]
+    "candidates": [
+      "19711"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [1127, 1136],
+    "position": [
+      1127,
+      1136
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   }
 ]

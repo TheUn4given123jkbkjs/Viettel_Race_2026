@@ -1,56 +1,82 @@
 [
   {
     "text": "mệt mỏi",
-    "position": [134, 141],
+    "position": [
+      134,
+      141
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hoa mắt chóng mặt",
-    "position": [207, 224],
+    "position": [
+      207,
+      224
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "da niêm mạc nhợt nhạt",
-    "position": [293, 314],
+    "position": [
+      293,
+      314
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử đau thượng vị 3 năm nay",
-    "position": [345, 376],
+    "position": [
+      345,
+      376
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Tổng phân tích tế bào máu ngoại vi",
-    "position": [1002, 1036],
+    "position": [
+      1002,
+      1036
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Định lượng sắt huyết thanh",
-    "position": [1096, 1122],
+    "position": [
+      1096,
+      1122
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nội soi dạ dày thực quản bằng ống mềm",
-    "position": [1164, 1201],
+    "position": [
+      1164,
+      1201
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm ổ bụng tổng quát",
-    "position": [1283, 1307],
+    "position": [
+      1283,
+      1307
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,23 +1,38 @@
 [
   {
     "text": "Không đủ răng",
-    "position": [135, 148],
+    "position": [
+      135,
+      148
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K00.0"]
+    "candidates": [
+      "K00.0"
+    ]
   },
   {
     "text": "Abacavir",
-    "position": [322, 330],
+    "position": [
+      322,
+      330
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": [
+      "190521"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [360, 367],
+    "position": [
+      360,
+      367
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   }
 ]

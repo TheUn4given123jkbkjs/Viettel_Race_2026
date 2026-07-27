@@ -1,21 +1,30 @@
 [
   {
     "text": "viêm khớp dạng thấp",
-    "position": [55, 74],
+    "position": [
+      55,
+      74
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thay khớp gối trái",
-    "position": [465, 483],
+    "position": [
+      465,
+      483
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [454, 464],
+    "position": [
+      454,
+      464
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -26,7 +35,10 @@
   },
   {
     "text": "viêm khớp",
-    "position": [55, 64],
+    "position": [
+      55,
+      64
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -37,7 +49,10 @@
   },
   {
     "text": "đau nhức",
-    "position": [132, 140],
+    "position": [
+      132,
+      140
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

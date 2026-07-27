@@ -1,56 +1,82 @@
 [
   {
     "text": "Đau đầu từng cơn vùng chẩm",
-    "position": [283, 309],
+    "position": [
+      283,
+      309
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [326, 334],
+    "position": [
+      326,
+      334
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tê bì ngón tay trái",
-    "position": [340, 359],
+    "position": [
+      340,
+      359
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mất ý thức",
-    "position": [397, 407],
+    "position": [
+      397,
+      407
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bạch cầu 11.2",
-    "position": [1210, 1223],
+    "position": [
+      1210,
+      1223
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 4.2 mg/L",
-    "position": [1377, 1390],
+    "position": [
+      1377,
+      1390
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT sọ",
-    "position": [1419, 1424],
+    "position": [
+      1419,
+      1424
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (ECG)",
-    "position": [1567, 1584],
+    "position": [
+      1567,
+      1584
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

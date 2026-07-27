@@ -1,37 +1,60 @@
 [
   {
     "text": "chửa ở buồng trứng",
-    "position": [396, 414],
+    "position": [
+      396,
+      414
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O00.2"]
+    "candidates": [
+      "O00.2"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [887, 894],
+    "position": [
+      887,
+      894
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [742, 755],
+    "position": [
+      742,
+      755
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "mang thai",
-    "position": [88, 97],
+    "position": [
+      88,
+      97
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy giáp",
-    "position": [141, 149],
+    "position": [
+      141,
+      149
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

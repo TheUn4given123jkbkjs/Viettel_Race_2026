@@ -1,56 +1,86 @@
 [
   {
     "text": "Viêm da cơ và viêm đa cơ tự miễn trong các bệnh lý khối u (C00-D48†), Nhiều vị trí",
-    "position": [1055, 1137],
+    "position": [
+      1055,
+      1137
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M36.00*"]
+    "candidates": [
+      "M36.00*"
+    ]
   },
   {
     "text": "yếu cơ vùng gốc chi",
-    "position": [226, 245],
+    "position": [
+      226,
+      245
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ban Gottron",
-    "position": [766, 777],
+    "position": [
+      766,
+      777
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ban heliotrope",
-    "position": [803, 817],
+    "position": [
+      803,
+      817
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CK (Creatine Kinase)",
-    "position": [884, 904],
+    "position": [
+      884,
+      904
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "3200 U/L",
-    "position": [927, 935],
+    "position": [
+      927,
+      935
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ung thư đại tràng sigma",
-    "position": [480, 503],
+    "position": [
+      480,
+      503
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["D01.1"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "D01.1"
+    ]
   },
   {
     "text": "Chụp CT bụng",
-    "position": [937, 949],
+    "position": [
+      937,
+      949
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

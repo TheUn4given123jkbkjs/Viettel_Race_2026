@@ -1,56 +1,84 @@
 [
   {
     "text": "đau ngực",
-    "position": [408, 416],
+    "position": [
+      408,
+      416
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [489, 496],
+    "position": [
+      489,
+      496
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [512, 521],
+    "position": [
+      512,
+      521
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [573, 581],
+    "position": [
+      573,
+      581
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [594, 597],
+    "position": [
+      594,
+      597
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (EKG)",
-    "position": [1063, 1080],
+    "position": [
+      1063,
+      1080
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST chênh lên tại các đạo trình trước tim",
-    "position": [1091, 1131],
+    "position": [
+      1091,
+      1131
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.85 ng/mL",
-    "position": [1165, 1175],
+    "position": [
+      1165,
+      1175
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

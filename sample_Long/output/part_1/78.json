@@ -1,63 +1,96 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [76, 93],
+    "position": [
+      76,
+      93
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "bệnh mạch vành",
-    "position": [188, 202],
+    "position": [
+      188,
+      202
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau nggực",
-    "position": [429, 438],
+    "position": [
+      429,
+      438
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [571, 588],
+    "position": [
+      571,
+      588
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [674, 686],
+    "position": [
+      674,
+      686
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp timn hanh",
-    "position": [936, 950],
+    "position": [
+      936,
+      950
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin I",
-    "position": [1201, 1211],
+    "position": [
+      1201,
+      1211
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "1.42 ng/mL",
-    "position": [1230, 1240],
+    "position": [
+      1230,
+      1240
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST chênh xuống",
-    "position": [1286, 1300],
+    "position": [
+      1286,
+      1300
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

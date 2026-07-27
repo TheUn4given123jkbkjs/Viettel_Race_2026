@@ -1,44 +1,68 @@
 [
   {
     "text": "Phản ứng quá mẫn với ánh sáng do thuốc",
-    "position": [116, 154],
+    "position": [
+      116,
+      154
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L56.1"]
+    "candidates": [
+      "L56.1"
+    ]
   },
   {
     "text": "tiểu đường",
-    "position": [39, 49],
+    "position": [
+      39,
+      49
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết áp cao",
-    "position": [53, 65],
+    "position": [
+      53,
+      65
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nổi mẩn đỏ",
-    "position": [179, 189],
+    "position": [
+      179,
+      189
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [256, 273],
+    "position": [
+      256,
+      273
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [277, 286],
+    "position": [
+      277,
+      286
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

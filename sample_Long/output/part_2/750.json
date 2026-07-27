@@ -1,16 +1,26 @@
 [
   {
     "text": "Acetaminophen",
-    "position": [230, 243],
+    "position": [
+      230,
+      243
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Metronidazole",
-    "position": [265, 278],
+    "position": [
+      265,
+      278
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6922"]
+    "candidates": [
+      "6922"
+    ]
   }
 ]

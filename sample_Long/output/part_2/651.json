@@ -1,56 +1,88 @@
 [
   {
     "text": "giãn phế quản",
-    "position": [69, 82],
+    "position": [
+      69,
+      82
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["Q33.4"]
+    "candidates": [
+      "Q33.4"
+    ]
   },
   {
     "text": "Azithromycin",
-    "position": [167, 179],
+    "position": [
+      167,
+      179
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["18631"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "18631"
+    ]
   },
   {
     "text": "ho khạc đờm mủ",
-    "position": [456, 470],
+    "position": [
+      456,
+      470
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [513, 520],
+    "position": [
+      513,
+      520
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [684, 688],
+    "position": [
+      684,
+      688
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "90%",
-    "position": [698, 701],
+    "position": [
+      698,
+      701
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [1061, 1072],
+    "position": [
+      1061,
+      1072
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Salbutamol",
-    "position": [1173, 1183],
+    "position": [
+      1173,
+      1183
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

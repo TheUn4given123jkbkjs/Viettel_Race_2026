@@ -1,56 +1,86 @@
 [
   {
     "text": "Chăm sóc bà mẹ vì bất tương xứng có nguồn gốc phối hợp cả mẹ và thai",
-    "position": [1029, 1097],
+    "position": [
+      1029,
+      1097
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O33.4"]
+    "candidates": [
+      "O33.4"
+    ]
   },
   {
     "text": "suy tim",
-    "position": [141, 148],
+    "position": [
+      141,
+      148
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Creatinine",
-    "position": [437, 447],
+    "position": [
+      437,
+      447
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chức năng gan",
-    "position": [572, 585],
+    "position": [
+      572,
+      585
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "thở nhanh",
-    "position": [274, 283],
+    "position": [
+      274,
+      283
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [287, 294],
+    "position": [
+      287,
+      294
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [748, 758],
+    "position": [
+      748,
+      758
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thay thế tim artificiel",
-    "position": [762, 785],
+    "position": [
+      762,
+      785
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

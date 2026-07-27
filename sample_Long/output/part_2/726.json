@@ -1,9 +1,14 @@
 [
   {
     "text": "rách sụn chêm",
-    "position": [362, 375],
+    "position": [
+      362,
+      375
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "M23.2",
       "M23.20",
@@ -12,51 +17,80 @@
   },
   {
     "text": "đau âm ỉ vùng khớp gối",
-    "position": [766, 788],
+    "position": [
+      766,
+      788
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "kẹt khớp",
-    "position": [1101, 1109],
+    "position": [
+      1101,
+      1109
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [1510, 1519],
+    "position": [
+      1510,
+      1519
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "MRI",
-    "position": [1604, 1607],
+    "position": [
+      1604,
+      1607
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sụn chêm dạng đĩa (bẩm sinh) nhiều vị trí",
-    "position": [2068, 2109],
+    "position": [
+      2068,
+      2109
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M23.10"]
+    "candidates": [
+      "M23.10"
+    ]
   },
   {
     "text": "Diclofenac",
-    "position": [2890, 2900],
+    "position": [
+      2890,
+      2900
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3355"]
+    "candidates": [
+      "3355"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [3052, 3065],
+    "position": [
+      3052,
+      3065
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

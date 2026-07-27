@@ -1,51 +1,77 @@
 [
   {
     "text": "Ngứa hậu môn",
-    "position": [34, 46],
+    "position": [
+      34,
+      46
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L29.0", "L29.3"]
+    "candidates": [
+      "L29.0",
+      "L29.3"
+    ]
   },
   {
     "text": "ngứa ngáy",
-    "position": [120, 129],
+    "position": [
+      120,
+      129
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nóng rát",
-    "position": [576, 584],
+    "position": [
+      576,
+      584
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đỏ",
-    "position": [693, 695],
+    "position": [
+      693,
+      695
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nứt nẻ",
-    "position": [724, 730],
+    "position": [
+      724,
+      730
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chảy máu",
-    "position": [734, 742],
+    "position": [
+      734,
+      742
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Albendazole",
-    "position": [1057, 1068],
+    "position": [
+      1057,
+      1068
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["430"]
+    "candidates": [
+      "430"
+    ]
   }
 ]

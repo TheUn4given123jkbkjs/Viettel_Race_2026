@@ -1,35 +1,54 @@
 [
   {
     "text": "vàng da sơ sinh do thuốc, độc tố truyền từ mẹ sang hay dùng cho trẻ sơ sinh",
-    "position": [108, 183],
+    "position": [
+      108,
+      183
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P58.4"]
+    "candidates": [
+      "P58.4"
+    ]
   },
   {
     "text": "sốt",
-    "position": [249, 252],
+    "position": [
+      249,
+      252
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [254, 271],
+    "position": [
+      254,
+      271
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [313, 326],
+    "position": [
+      313,
+      326
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [478, 486],
+    "position": [
+      478,
+      486
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

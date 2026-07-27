@@ -1,21 +1,34 @@
 [
   {
     "text": "Viêm khớp trẻ em trong bệnh viêm loét đại tràng (K51.-†), cẳng chân",
-    "position": [390, 457],
+    "position": [
+      390,
+      457
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M09.26*"]
+    "candidates": [
+      "M09.26*"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [288, 297],
+    "position": [
+      288,
+      297
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "viêm loét đại tràng",
-    "position": [138, 157],
+    "position": [
+      138,
+      157
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []

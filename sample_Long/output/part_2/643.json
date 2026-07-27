@@ -1,28 +1,47 @@
 [
   {
     "text": "Amoxicillin",
-    "position": [375, 386],
+    "position": [
+      375,
+      386
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["723", "19711"]
+    "candidates": [
+      "723",
+      "19711"
+    ]
   },
   {
     "text": "Azithromycin",
-    "position": [392, 404],
+    "position": [
+      392,
+      404
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["18631"]
+    "candidates": [
+      "18631"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [523, 540],
+    "position": [
+      523,
+      540
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [29, 32],
+    "position": [
+      29,
+      32
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

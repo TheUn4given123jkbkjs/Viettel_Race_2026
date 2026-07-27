@@ -1,7 +1,10 @@
 [
   {
     "text": "Viêm thanh quản cấp",
-    "position": [40, 59],
+    "position": [
+      40,
+      59
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,44 +15,66 @@
   },
   {
     "text": "khàn tiếng",
-    "position": [231, 241],
+    "position": [
+      231,
+      241
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mất giọng",
-    "position": [243, 252],
+    "position": [
+      243,
+      252
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau họng",
-    "position": [254, 262],
+    "position": [
+      254,
+      262
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho khan",
-    "position": [266, 273],
+    "position": [
+      266,
+      273
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
-    "position": [358, 387],
+    "position": [
+      358,
+      387
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["19711"]
+    "candidates": [
+      "19711"
+    ]
   },
   {
     "text": "Dexamethasone",
-    "position": [417, 430],
+    "position": [
+      417,
+      430
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": [
+      "3264"
+    ]
   }
 ]

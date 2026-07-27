@@ -1,7 +1,10 @@
 [
   {
     "text": "Bệnh tim thiếu máu cục bộ mạn",
-    "position": [62, 91],
+    "position": [
+      62,
+      91
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,35 +15,50 @@
   },
   {
     "text": "xơ vữa động mạch",
-    "position": [294, 310],
+    "position": [
+      294,
+      310
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đau thắt ngực",
-    "position": [979, 992],
+    "position": [
+      979,
+      992
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Khó thở",
-    "position": [1134, 1141],
+    "position": [
+      1134,
+      1141
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Aspirin 81mg",
-    "position": [1536, 1548],
+    "position": [
+      1536,
+      1548
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Isosorbide dinitrate 10mg: 2 viên/ngày, uống sáng - chiều",
-    "position": [1551, 1608],
+    "position": [
+      1551,
+      1608
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

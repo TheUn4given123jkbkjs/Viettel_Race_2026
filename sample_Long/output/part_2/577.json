@@ -1,23 +1,43 @@
 [
   {
     "text": "Viêm da dị ứng tiếp xúc do thực phẩm",
-    "position": [91, 127],
+    "position": [
+      91,
+      127
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated", "isHistorical"],
-    "candidates": ["L23.6", "L23.7"]
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "candidates": [
+      "L23.6",
+      "L23.7"
+    ]
   },
   {
     "text": "Abacavir",
-    "position": [288, 296],
+    "position": [
+      288,
+      296
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": [
+      "190521"
+    ]
   },
   {
     "text": "Folic acid",
-    "position": [323, 333],
+    "position": [
+      323,
+      333
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4511", "105658"]
+    "candidates": [
+      "4511",
+      "105658"
+    ]
   }
 ]

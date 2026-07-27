@@ -1,28 +1,42 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [10, 27],
+    "position": [
+      10,
+      27
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Các rối loạn xác định khác của nước ơi và màng ối",
-    "position": [319, 368],
+    "position": [
+      319,
+      368
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường typ 2",
-    "position": [106, 122],
+    "position": [
+      106,
+      122
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp trong thai kỳ",
-    "position": [143, 170],
+    "position": [
+      143,
+      170
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,49 +1,74 @@
 [
   {
     "text": "ĐTĐ tuýp 2",
-    "position": [101, 111],
+    "position": [
+      101,
+      111
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Ho",
-    "position": [156, 158],
+    "position": [
+      156,
+      158
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt nhẹ",
-    "position": [160, 167],
+    "position": [
+      160,
+      167
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đau rát họng",
-    "position": [259, 271],
+    "position": [
+      259,
+      271
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "RT-PCR dịch tỵ hầu",
-    "position": [538, 556],
+    "position": [
+      538,
+      556
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm phế quản cấp do echovirus",
-    "position": [587, 617],
+    "position": [
+      587,
+      617
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J20.7"]
+    "candidates": [
+      "J20.7"
+    ]
   },
   {
     "text": "ran phế quản",
-    "position": [1051, 1063],
+    "position": [
+      1051,
+      1063
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

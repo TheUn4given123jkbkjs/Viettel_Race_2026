@@ -1,23 +1,40 @@
 [
   {
     "text": "Chảy máu nội sọ (không chấn thương) không được định rõ của thai nhi và trẻ sơ sinh",
-    "position": [816, 898],
+    "position": [
+      816,
+      898
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["P52.9"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "P52.9"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [579, 586],
+    "position": [
+      579,
+      586
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [590, 601],
+    "position": [
+      590,
+      601
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

@@ -1,9 +1,14 @@
 [
   {
     "text": "Isoniazid",
-    "position": [32, 41],
+    "position": [
+      32,
+      41
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "821005",
       "814321",
@@ -12,21 +17,30 @@
   },
   {
     "text": "tiểu đường",
-    "position": [87, 97],
+    "position": [
+      87,
+      97
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết áp",
-    "position": [99, 107],
+    "position": [
+      99,
+      107
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm phổi",
-    "position": [134, 143],
+    "position": [
+      134,
+      143
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []

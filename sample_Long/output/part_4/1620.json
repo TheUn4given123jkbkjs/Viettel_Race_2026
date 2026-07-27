@@ -1,42 +1,70 @@
 [
   {
     "text": "Amiodarone",
-    "position": [67, 77],
+    "position": [
+      67,
+      77
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["703"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "703"
+    ]
   },
   {
     "text": "Đái tháo đường týp 2",
-    "position": [255, 275],
+    "position": [
+      255,
+      275
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Đau quặn bụng",
-    "position": [313, 326],
+    "position": [
+      313,
+      326
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [553, 561],
+    "position": [
+      553,
+      561
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [617, 620],
+    "position": [
+      617,
+      620
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Smecta",
-    "position": [1757, 1763],
+    "position": [
+      1757,
+      1763
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

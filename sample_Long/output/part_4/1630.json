@@ -1,56 +1,82 @@
 [
   {
     "text": "Ngập máu tăng ure máu trong bệnh thận mãn tính",
-    "position": [79, 125],
+    "position": [
+      79,
+      125
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I68.8*"]
+    "candidates": [
+      "I68.8*"
+    ]
   },
   {
     "text": "buồn nôn",
-    "position": [1375, 1383],
+    "position": [
+      1375,
+      1383
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chảy máu cam",
-    "position": [1517, 1529],
+    "position": [
+      1517,
+      1529
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xuất huyết dưới da",
-    "position": [1563, 1581],
+    "position": [
+      1563,
+      1581
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xuất huyết tiêu hóa",
-    "position": [1653, 1672],
+    "position": [
+      1653,
+      1672
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ure máu cao",
-    "position": [593, 604],
+    "position": [
+      593,
+      604
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Desmopressin 4 mcg/ml",
-    "position": [2077, 2098],
+    "position": [
+      2077,
+      2098
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tranexamic acid 500mg",
-    "position": [2280, 2301],
+    "position": [
+      2280,
+      2301
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

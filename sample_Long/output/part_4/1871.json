@@ -1,28 +1,42 @@
 [
   {
     "text": "Ethinylestradiol / Norethindrone",
-    "position": [102, 134],
+    "position": [
+      102,
+      134
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Đau bụng vùng hạ vị",
-    "position": [163, 182],
+    "position": [
+      163,
+      182
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [192, 200],
+    "position": [
+      192,
+      200
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ấn đau vùng hố chậu phải",
-    "position": [245, 269],
+    "position": [
+      245,
+      269
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

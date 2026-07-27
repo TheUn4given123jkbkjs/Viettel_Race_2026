@@ -1,44 +1,74 @@
 [
   {
     "text": "Viêm dạ dày mạn tính",
-    "position": [30, 50],
+    "position": [
+      30,
+      50
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["K29.3", "K29.4"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K29.3",
+      "K29.4"
+    ]
   },
   {
     "text": "Đau rát niêm mạc miệng",
-    "position": [381, 403],
+    "position": [
+      381,
+      403
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vết loét hình tròn",
-    "position": [458, 476],
+    "position": [
+      458,
+      476
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Loét miệng tái diễn",
-    "position": [1962, 1981],
+    "position": [
+      1962,
+      1981
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K12.0"]
+    "candidates": [
+      "K12.0"
+    ]
   },
   {
     "text": "Chlorhexidine",
-    "position": [2239, 2252],
+    "position": [
+      2239,
+      2252
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2358"]
+    "candidates": [
+      "2358"
+    ]
   },
   {
     "text": "Hydrocortisone",
-    "position": [2328, 2342],
+    "position": [
+      2328,
+      2342
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5492", "27197"]
+    "candidates": [
+      "5492",
+      "27197"
+    ]
   }
 ]

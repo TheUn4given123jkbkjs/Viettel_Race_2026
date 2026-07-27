@@ -1,65 +1,108 @@
 [
   {
     "text": "Abacavir",
-    "position": [238, 246],
+    "position": [
+      238,
+      246
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": [
+      "190521"
+    ]
   },
   {
     "text": "Acyclovir",
-    "position": [250, 259],
+    "position": [
+      250,
+      259
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["281"]
+    "candidates": [
+      "281"
+    ]
   },
   {
     "text": "Paracetamol",
-    "position": [490, 501],
+    "position": [
+      490,
+      501
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dexamethasone",
-    "position": [527, 540],
+    "position": [
+      527,
+      540
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": [
+      "3264"
+    ]
   },
   {
     "text": "Ondansetron",
-    "position": [563, 574],
+    "position": [
+      563,
+      574
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["26225"]
+    "candidates": [
+      "26225"
+    ]
   },
   {
     "text": "Metoclopramide",
-    "position": [596, 610],
+    "position": [
+      596,
+      610
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6915"]
+    "candidates": [
+      "6915"
+    ]
   },
   {
     "text": "HIV",
-    "position": [783, 786],
+    "position": [
+      783,
+      786
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "HBV",
-    "position": [799, 802],
+    "position": [
+      799,
+      802
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "HCV",
-    "position": [815, 818],
+    "position": [
+      815,
+      818
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

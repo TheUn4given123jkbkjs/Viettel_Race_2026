@@ -1,51 +1,79 @@
 [
   {
     "text": "Các bệnh nguyên bào sợi",
-    "position": [45, 68],
+    "position": [
+      45,
+      68
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M72", "M72.8"]
+    "candidates": [
+      "M72",
+      "M72.8"
+    ]
   },
   {
     "text": "nốt sần",
-    "position": [309, 316],
+    "position": [
+      309,
+      316
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "co rút khớp",
-    "position": [846, 857],
+    "position": [
+      846,
+      857
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hạn chế vận động",
-    "position": [867, 883],
+    "position": [
+      867,
+      883
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau",
-    "position": [776, 779],
+    "position": [
+      776,
+      779
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [1232, 1241],
+    "position": [
+      1232,
+      1241
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Prednisolone",
-    "position": [1371, 1383],
+    "position": [
+      1371,
+      1383
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   }
 ]

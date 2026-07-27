@@ -1,9 +1,14 @@
 [
   {
     "text": "Sulpiride",
-    "position": [59, 68],
-    "type": "THUá»C",
-    "assertions": ["isHistorical"],
+    "position": [
+      44,
+      53
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

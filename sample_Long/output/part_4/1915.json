@@ -1,23 +1,38 @@
 [
   {
     "text": "Biến đổi của cơ quan sinh dục nam, không đặc hiệu",
-    "position": [192, 241],
+    "position": [
+      192,
+      241
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N50.9"]
+    "candidates": [
+      "N50.9"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [747, 760],
+    "position": [
+      747,
+      760
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [766, 775],
+    "position": [
+      766,
+      775
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   }
 ]

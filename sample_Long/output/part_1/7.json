@@ -1,42 +1,68 @@
 [
   {
     "text": "Dactinomycin",
-    "position": [368, 380],
+    "position": [
+      368,
+      380
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["3100"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3100"
+    ]
   },
   {
     "text": "đau thượng vị",
-    "position": [458, 471],
+    "position": [
+      458,
+      471
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm dạ dày cấp tính",
-    "position": [533, 553],
+    "position": [
+      533,
+      553
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K29.0"]
+    "candidates": [
+      "K29.0"
+    ]
   },
   {
     "text": "Buồn nôn",
-    "position": [744, 752],
+    "position": [
+      744,
+      752
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Omeprazole",
-    "position": [874, 884],
+    "position": [
+      874,
+      884
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7646"]
+    "candidates": [
+      "7646"
+    ]
   },
   {
     "text": "Paracetamol",
-    "position": [898, 909],
+    "position": [
+      898,
+      909
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

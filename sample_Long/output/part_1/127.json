@@ -1,51 +1,87 @@
 [
   {
     "text": "tăng huyết áp 10 năm",
-    "position": [1024, 1044],
+    "position": [
+      1024,
+      1044
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [1675, 1692],
+    "position": [
+      1675,
+      1692
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [1714, 1723],
+    "position": [
+      1714,
+      1723
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Thoát vị bẹn hai bên, có tắc, không hoại tử",
-    "position": [2498, 2541],
+    "position": [
+      2498,
+      2541
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K40.0", "K41.0"]
+    "candidates": [
+      "K40.0",
+      "K41.0"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [2756, 2769],
+    "position": [
+      2756,
+      2769
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Bisacodyl",
-    "position": [2902, 2911],
+    "position": [
+      2902,
+      2911
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1596"]
+    "candidates": [
+      "1596"
+    ]
   },
   {
     "text": "Cefazolin",
-    "position": [2961, 2970],
+    "position": [
+      2961,
+      2970
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2180"]
+    "candidates": [
+      "2180"
+    ]
   }
 ]

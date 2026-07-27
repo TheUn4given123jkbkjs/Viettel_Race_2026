@@ -1,37 +1,64 @@
 [
   {
     "text": "Chăm sóc bà mẹ vì bất thường, tổn thương thai hay nghi ngờ tổn thương thai khác, chưa xác định rõ",
-    "position": [0, 97],
+    "position": [
+      0,
+      97
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["O35.9"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "O35.9"
+    ]
   },
   {
     "text": "Abacavir",
-    "position": [787, 795],
+    "position": [
+      787,
+      795
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": [
+      "190521"
+    ]
   },
   {
     "text": "Acarbose",
-    "position": [838, 846],
+    "position": [
+      838,
+      846
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["16681"]
+    "candidates": [
+      "16681"
+    ]
   },
   {
     "text": "Dexamethasone",
-    "position": [1087, 1100],
+    "position": [
+      1087,
+      1100
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": [
+      "3264"
+    ]
   },
   {
     "text": "Bà mẹ có tiền sử THA 5 năm trước",
-    "position": [1354, 1386],
+    "position": [
+      1354,
+      1386
+    ],
     "type": "IS_HISTORICAL",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

@@ -1,37 +1,58 @@
 [
   {
     "text": "Rung nhĩ mãn tính",
-    "position": [111, 128],
+    "position": [
+      111,
+      128
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I48.2"]
+    "candidates": [
+      "I48.2"
+    ]
   },
   {
     "text": "tăng huyết áp",
-    "position": [44, 57],
+    "position": [
+      44,
+      57
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [61, 74],
+    "position": [
+      61,
+      74
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [246, 263],
+    "position": [
+      246,
+      263
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [132, 141],
+    "position": [
+      132,
+      141
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

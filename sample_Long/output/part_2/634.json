@@ -1,56 +1,82 @@
 [
   {
     "text": "đau ngực dữdội",
-    "position": [106, 120],
+    "position": [
+      106,
+      120
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [157, 165],
+    "position": [
+      157,
+      165
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "chủ quan sốt nhẹ",
-    "position": [167, 183],
+    "position": [
+      167,
+      183
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ECG",
-    "position": [208, 211],
+    "position": [
+      208,
+      211
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST chênh lên",
-    "position": [274, 286],
+    "position": [
+      274,
+      286
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "TroponinI",
-    "position": [224, 233],
+    "position": [
+      224,
+      233
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.5 ng/mL (cao)",
-    "position": [299, 314],
+    "position": [
+      299,
+      314
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm tim",
-    "position": [343, 354],
+    "position": [
+      343,
+      354
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

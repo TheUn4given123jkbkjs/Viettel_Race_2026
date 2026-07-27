@@ -1,7 +1,10 @@
 [
   {
     "text": "căng cơ quá mức",
-    "position": [46, 61],
+    "position": [
+      46,
+      61
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,23 +15,38 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [545, 558],
+    "position": [
+      545,
+      558
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [773, 782],
+    "position": [
+      773,
+      782
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Diazepam",
-    "position": [786, 794],
+    "position": [
+      786,
+      794
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3322"]
+    "candidates": [
+      "3322"
+    ]
   }
 ]

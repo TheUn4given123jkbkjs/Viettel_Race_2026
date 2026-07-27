@@ -1,49 +1,74 @@
 [
   {
     "text": "Hạ huyết áp thế đứng",
-    "position": [53, 73],
+    "position": [
+      53,
+      73
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I95.1"]
+    "candidates": [
+      "I95.1"
+    ]
   },
   {
     "text": "ĐTĐ tuýp 2",
-    "position": [387, 397],
+    "position": [
+      387,
+      397
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "hoa mắt",
-    "position": [551, 558],
+    "position": [
+      551,
+      558
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [560, 569],
+    "position": [
+      560,
+      569
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ngất xỉu",
-    "position": [780, 788],
+    "position": [
+      780,
+      788
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Fludrocortisone 0.1mg: 1 viên/ngày, uống buổi sáng",
-    "position": [1060, 1110],
+    "position": [
+      1060,
+      1110
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Heptaminol 187.8mg",
-    "position": [1117, 1135],
+    "position": [
+      1117,
+      1135
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

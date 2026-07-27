@@ -1,49 +1,81 @@
 [
   {
     "text": "hypertension",
-    "position": [228, 240],
+    "position": [
+      228,
+      240
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "colorectal cancer",
-    "position": [518, 535],
+    "position": [
+      518,
+      535
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "khó chịu vùng hậu môn",
-    "position": [1133, 1154],
+    "position": [
+      1133,
+      1154
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [1536, 1544],
+    "position": [
+      1536,
+      1544
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "táo bón",
-    "position": [1677, 1684],
+    "position": [
+      1677,
+      1684
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Dãn da do trĩ sót lại",
-    "position": [2777, 2798],
+    "position": [
+      2777,
+      2798
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I84.6", "K64.4"]
+    "candidates": [
+      "I84.6",
+      "K64.4"
+    ]
   },
   {
     "text": "troponin",
-    "position": [2857, 2865],
+    "position": [
+      2857,
+      2865
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

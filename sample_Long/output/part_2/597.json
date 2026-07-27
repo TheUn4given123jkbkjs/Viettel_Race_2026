@@ -1,23 +1,38 @@
 [
   {
     "text": "Rubeola",
-    "position": [345, 352],
+    "position": [
+      345,
+      352
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "vắc-xin Rubeola",
-    "position": [337, 352],
+    "position": [
+      337,
+      352
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Rubeola",
-    "position": [345, 352],
+    "position": [
+      345,
+      352
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

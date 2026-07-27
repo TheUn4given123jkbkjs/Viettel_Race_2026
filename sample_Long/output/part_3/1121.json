@@ -1,35 +1,58 @@
 [
   {
     "text": "phủ nhận buồn nôn",
-    "position": [161, 178],
+    "position": [
+      161,
+      178
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [312, 323],
+    "position": [
+      312,
+      323
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [327, 334],
+    "position": [
+      327,
+      334
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [356, 365],
+    "position": [
+      356,
+      365
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [430, 438],
+    "position": [
+      430,
+      438
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

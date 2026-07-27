@@ -1,44 +1,70 @@
 [
   {
     "text": "Rotavirus Vaccine",
-    "position": [512, 529],
+    "position": [
+      512,
+      529
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["154394"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "154394"
+    ]
   },
   {
     "text": "nôn",
-    "position": [1198, 1201],
+    "position": [
+      1198,
+      1201
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [1341, 1350],
+    "position": [
+      1341,
+      1350
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "nhầy máu",
-    "position": [1460, 1468],
+    "position": [
+      1460,
+      1468
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm ổ bụng",
-    "position": [2445, 2459],
+    "position": [
+      2445,
+      2459
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "lồng ruột",
-    "position": [767, 776],
+    "position": [
+      767,
+      776
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K56.1"]
+    "candidates": [
+      "K56.1"
+    ]
   }
 ]

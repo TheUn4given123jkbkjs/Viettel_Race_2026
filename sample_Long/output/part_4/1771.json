@@ -1,7 +1,10 @@
 [
   {
     "text": "Pemphigus",
-    "position": [25, 34],
+    "position": [
+      25,
+      34
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,30 +15,50 @@
   },
   {
     "text": "Acarbose",
-    "position": [113, 121],
+    "position": [
+      113,
+      121
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["16681"]
+    "candidates": [
+      "16681"
+    ]
   },
   {
     "text": "Acenocoumarol",
-    "position": [125, 138],
+    "position": [
+      125,
+      138
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["154"]
+    "candidates": [
+      "154"
+    ]
   },
   {
     "text": "tự miễn",
-    "position": [46, 53],
+    "position": [
+      46,
+      53
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bệnh tự miễn",
-    "position": [203, 215],
+    "position": [
+      203,
+      215
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

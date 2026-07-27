@@ -1,23 +1,38 @@
 [
   {
     "text": "Diltiazem",
-    "position": [180, 189],
+    "position": [
+      180,
+      189
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["3443"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3443"
+    ]
   },
   {
     "text": "tănghuyết áp",
-    "position": [1456, 1468],
+    "position": [
+      1456,
+      1468
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhồi máu cơ tim",
-    "position": [1732, 1747],
+    "position": [
+      1732,
+      1747
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I21",
       "I21.0",
@@ -26,28 +41,40 @@
   },
   {
     "text": "đau thắt ngực",
-    "position": [1117, 1130],
+    "position": [
+      1117,
+      1130
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "triệu chứngg",
-    "position": [2251, 2263],
+    "position": [
+      2251,
+      2263
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (ECG)",
-    "position": [2695, 2712],
+    "position": [
+      2695,
+      2712
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "âm tính",
-    "position": [2866, 2873],
+    "position": [
+      2866,
+      2873
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

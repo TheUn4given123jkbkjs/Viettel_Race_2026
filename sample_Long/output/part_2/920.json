@@ -1,37 +1,60 @@
 [
   {
     "text": "tiểu đuờng típ 2",
-    "position": [44, 60],
+    "position": [
+      44,
+      60
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "vét loét",
-    "position": [95, 103],
+    "position": [
+      95,
+      103
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [155, 158],
+    "position": [
+      155,
+      158
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [163, 171],
+    "position": [
+      163,
+      171
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Loét da mãn tính, chưa phân loại ở phần khác",
-    "position": [250, 294],
+    "position": [
+      250,
+      294
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L98.4"]
+    "candidates": [
+      "L98.4"
+    ]
   }
 ]

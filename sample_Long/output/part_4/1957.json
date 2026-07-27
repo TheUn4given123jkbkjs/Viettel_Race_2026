@@ -1,23 +1,38 @@
 [
   {
     "text": "Viêm cơ cốt hóa do chấn thương",
-    "position": [312, 342],
+    "position": [
+      312,
+      342
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M61.0"]
+    "candidates": [
+      "M61.0"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [526, 539],
+    "position": [
+      526,
+      539
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Albuterol",
-    "position": [559, 568],
+    "position": [
+      559,
+      568
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["435"]
+    "candidates": [
+      "435"
+    ]
   }
 ]

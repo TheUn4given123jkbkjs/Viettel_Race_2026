@@ -1,7 +1,10 @@
 [
   {
     "text": "Bệnh tuyến nước bọt",
-    "position": [10, 29],
+    "position": [
+      10,
+      29
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Abacavir",
-    "position": [649, 657],
+    "position": [
+      649,
+      657
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": [
+      "190521"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [660, 673],
+    "position": [
+      660,
+      673
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

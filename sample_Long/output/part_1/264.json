@@ -1,44 +1,66 @@
 [
   {
     "text": "đau đầu",
-    "position": [73, 80],
+    "position": [
+      73,
+      80
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [82, 89],
+    "position": [
+      82,
+      89
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [147, 160],
+    "position": [
+      147,
+      160
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [432, 446],
+    "position": [
+      432,
+      446
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nồng độ creatinin trong máu cao hơn bình thường",
-    "position": [506, 553],
+    "position": [
+      506,
+      553
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [566, 583],
+    "position": [
+      566,
+      583
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

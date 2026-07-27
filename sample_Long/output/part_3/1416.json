@@ -1,35 +1,52 @@
 [
   {
     "text": "sưng đau vùng chậu đùi",
-    "position": [19, 41],
+    "position": [
+      19,
+      41
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đi ngoài phân lỏng",
-    "position": [43, 61],
+    "position": [
+      43,
+      61
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp trẻ em trong bệnh Crohn (viêm ruột đoạn] (K50.-†), vùng chậu và đùi",
-    "position": [179, 256],
+    "position": [
+      179,
+      256
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M09.15*"]
+    "candidates": [
+      "M09.15*"
+    ]
   },
   {
     "text": "Azathioprine 50mg",
-    "position": [275, 292],
+    "position": [
+      275,
+      292
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Prednisolone 5mg",
-    "position": [310, 326],
+    "position": [
+      310,
+      326
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

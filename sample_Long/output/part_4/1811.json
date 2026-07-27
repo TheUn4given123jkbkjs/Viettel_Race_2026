@@ -1,16 +1,24 @@
 [
   {
     "text": "đau nhẹ",
-    "position": [266, 273],
+    "position": [
+      266,
+      273
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tăng huyết áp",
-    "position": [1054, 1067],
+    "position": [
+      1054,
+      1067
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -19,35 +27,52 @@
   },
   {
     "text": "Siêu âm Doppler mạch máu dương vật",
-    "position": [1518, 1552],
+    "position": [
+      1518,
+      1552
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Biến đổi xác định khác của dương vật",
-    "position": [1747, 1783],
+    "position": [
+      1747,
+      1783
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N48.8"]
+    "candidates": [
+      "N48.8"
+    ]
   },
   {
     "text": "Viêm gan B mạn tính",
-    "position": [2186, 2205],
+    "position": [
+      2186,
+      2205
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [2319, 2326],
+    "position": [
+      2319,
+      2326
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng da",
-    "position": [2328, 2335],
+    "position": [
+      2328,
+      2335
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

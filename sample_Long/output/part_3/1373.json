@@ -1,35 +1,52 @@
 [
   {
     "text": "bệnh cột sống trong các bệnh nhiễm khuẩn và ký sinh vật, đã xếp loại ở mục khác, vùng chậu và đùi",
-    "position": [68, 165],
+    "position": [
+      68,
+      165
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M49.35*"]
+    "candidates": [
+      "M49.35*"
+    ]
   },
   {
     "text": "phẫu thuật",
-    "position": [236, 246],
+    "position": [
+      236,
+      246
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thuốc giảm đau",
-    "position": [887, 901],
+    "position": [
+      887,
+      901
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "loại bỏ các tổn thương",
-    "position": [1033, 1055],
+    "position": [
+      1033,
+      1055
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cột sống",
-    "position": [33, 41],
+    "position": [
+      33,
+      41
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

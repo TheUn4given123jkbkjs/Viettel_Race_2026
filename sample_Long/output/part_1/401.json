@@ -1,42 +1,64 @@
 [
   {
     "text": "Đau quặn bụng vùng thượng vị",
-    "position": [506, 534],
+    "position": [
+      506,
+      534
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [597, 605],
+    "position": [
+      597,
+      605
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [636, 639],
+    "position": [
+      636,
+      639
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Co thắt môn vị, không phân loại nơi khác",
-    "position": [73, 113],
+    "position": [
+      73,
+      113
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K31.3"]
+    "candidates": [
+      "K31.3"
+    ]
   },
   {
     "text": "Papaverine 40mg",
-    "position": [1000, 1015],
+    "position": [
+      1000,
+      1015
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Alverine 40mg",
-    "position": [1052, 1065],
+    "position": [
+      1052,
+      1065
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

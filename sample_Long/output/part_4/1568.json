@@ -1,44 +1,74 @@
 [
   {
     "text": "BỆNH MẠCH MÁU PHỔI XÁC ĐỊNH KHÁC",
-    "position": [26, 58],
+    "position": [
+      26,
+      58
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["I28.8"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I28.8"
+    ]
   },
   {
     "text": "THA",
-    "position": [128, 131],
+    "position": [
+      128,
+      131
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [593, 601],
+    "position": [
+      593,
+      601
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "BỆNH MẠCH MÁU PHỔI XÁC ĐỊNH KHÁC",
-    "position": [26, 58],
+    "position": [
+      26,
+      58
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I28.8"]
+    "candidates": [
+      "I28.8"
+    ]
   },
   {
     "text": "tiền sử THA",
-    "position": [120, 131],
+    "position": [
+      120,
+      131
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [148, 157],
+    "position": [
+      148,
+      157
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

@@ -1,49 +1,78 @@
 [
   {
     "text": "Nhồi máu cơ tim cũ",
-    "position": [28, 46],
+    "position": [
+      28,
+      46
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["I25.2"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I25.2"
+    ]
   },
   {
     "text": "Đau ngực sau xương ức",
-    "position": [103, 124],
+    "position": [
+      103,
+      124
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khôngsốt",
-    "position": [184, 192],
+    "position": [
+      184,
+      192
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [250, 257],
+    "position": [
+      250,
+      257
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hội chứng Dressler",
-    "position": [302, 320],
+    "position": [
+      302,
+      320
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I24.1"]
+    "candidates": [
+      "I24.1"
+    ]
   },
   {
     "text": "Aspirin 500mg",
-    "position": [334, 347],
+    "position": [
+      334,
+      347
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Colchicine 0.5mg",
-    "position": [349, 365],
+    "position": [
+      349,
+      365
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

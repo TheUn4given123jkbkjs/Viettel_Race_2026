@@ -1,9 +1,14 @@
 [
   {
     "text": "lupus ban đỏ hệ thống",
-    "position": [28, 49],
+    "position": [
+      28,
+      49
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "M32",
       "M32.0",
@@ -12,21 +17,34 @@
   },
   {
     "text": "đau ngực",
-    "position": [68, 76],
+    "position": [
+      68,
+      76
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [78, 85],
+    "position": [
+      78,
+      85
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Viêm màng ngoài tim trong bệnh khác phân loại nơi khác",
-    "position": [185, 239],
+    "position": [
+      185,
+      239
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -37,7 +55,10 @@
   },
   {
     "text": "chèn ép tim cấp",
-    "position": [266, 281],
+    "position": [
+      266,
+      281
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

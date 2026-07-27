@@ -1,42 +1,64 @@
 [
   {
     "text": "Amlodipine",
-    "position": [108, 118],
+    "position": [
+      108,
+      118
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "Phát ban đỏ",
-    "position": [399, 410],
+    "position": [
+      399,
+      410
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ngứa",
-    "position": [414, 418],
+    "position": [
+      414,
+      418
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [666, 669],
+    "position": [
+      666,
+      669
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [962, 970],
+    "position": [
+      962,
+      970
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Viêm da do quang tuyến",
-    "position": [1130, 1152],
+    "position": [
+      1130,
+      1152
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -47,16 +69,26 @@
   },
   {
     "text": "Betamethasone",
-    "position": [1265, 1278],
+    "position": [
+      1265,
+      1278
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1514"]
+    "candidates": [
+      "1514"
+    ]
   },
   {
     "text": "Chlorpheniramine",
-    "position": [1362, 1378],
+    "position": [
+      1362,
+      1378
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2400"]
+    "candidates": [
+      "2400"
+    ]
   }
 ]

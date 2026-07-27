@@ -1,35 +1,59 @@
 [
   {
     "text": "thiếu máu ác tính",
-    "position": [65, 82],
+    "position": [
+      65,
+      82
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["D63.0", "D63.0*"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "D63.0",
+      "D63.0*"
+    ]
   },
   {
     "text": "dị cảm tứ chi",
-    "position": [168, 181],
+    "position": [
+      168,
+      181
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [253, 261],
+    "position": [
+      253,
+      261
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [280, 283],
+    "position": [
+      280,
+      283
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "thoái hóa tủy",
-    "position": [348, 361],
+    "position": [
+      348,
+      361
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -40,9 +64,14 @@
   },
   {
     "text": "Hydroxocobalamin",
-    "position": [388, 404],
+    "position": [
+      388,
+      404
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5514"]
+    "candidates": [
+      "5514"
+    ]
   }
 ]

@@ -1,35 +1,52 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [13, 30],
+    "position": [
+      13,
+      30
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [63, 70],
+    "position": [
+      63,
+      70
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang",
-    "position": [111, 118],
+    "position": [
+      111,
+      118
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vết nứt nhỏ ở xương đùi",
-    "position": [170, 193],
+    "position": [
+      170,
+      193
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm",
-    "position": [122, 129],
+    "position": [
+      122,
+      129
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

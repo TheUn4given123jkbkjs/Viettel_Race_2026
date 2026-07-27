@@ -1,23 +1,38 @@
 [
   {
     "text": "Bệnh lý cơ tim hạn chế",
-    "position": [364, 386],
+    "position": [
+      364,
+      386
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I42.5"]
+    "candidates": [
+      "I42.5"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [449, 462],
+    "position": [
+      449,
+      462
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Atenolol",
-    "position": [485, 493],
+    "position": [
+      485,
+      493
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1202"]
+    "candidates": [
+      "1202"
+    ]
   }
 ]

@@ -1,49 +1,78 @@
 [
   {
     "text": "nặng chân",
-    "position": [134, 143],
+    "position": [
+      134,
+      143
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chuột rút",
-    "position": [147, 156],
+    "position": [
+      147,
+      156
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Diosmin",
-    "position": [235, 242],
+    "position": [
+      235,
+      242
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["3489"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3489"
+    ]
   },
   {
     "text": "không bị phù chân",
-    "position": [390, 407],
+    "position": [
+      390,
+      407
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Suy giãn tĩnh mạch chi dưới",
-    "position": [670, 697],
+    "position": [
+      670,
+      697
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [828, 837],
+    "position": [
+      828,
+      837
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "siêu âm Doppler mạch máu chi dưới",
-    "position": [1128, 1161],
+    "position": [
+      1128,
+      1161
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

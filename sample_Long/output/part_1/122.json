@@ -1,23 +1,39 @@
 [
   {
     "text": "Bệnh khác của thực quản",
-    "position": [82, 105],
+    "position": [
+      82,
+      105
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K22", "K22.8"]
+    "candidates": [
+      "K22",
+      "K22.8"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [152, 165],
+    "position": [
+      152,
+      165
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Acetylcysteine",
-    "position": [169, 183],
+    "position": [
+      169,
+      183
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["197"]
+    "candidates": [
+      "197"
+    ]
   }
 ]

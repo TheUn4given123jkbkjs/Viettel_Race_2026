@@ -1,7 +1,10 @@
 [
   {
     "text": "Bệnh phổi tắc nghẽn mạn tính",
-    "position": [57, 85],
+    "position": [
+      57,
+      85
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,44 +15,72 @@
   },
   {
     "text": "khó thở",
-    "position": [518, 525],
+    "position": [
+      518,
+      525
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Oxygen",
-    "position": [652, 658],
+    "position": [
+      652,
+      658
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["7806"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "7806"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [769, 786],
+    "position": [
+      769,
+      786
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [800, 809],
+    "position": [
+      800,
+      809
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "thuốc giãn phế quản",
-    "position": [946, 965],
+    "position": [
+      946,
+      965
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khí phế thũng",
-    "position": [1276, 1289],
+    "position": [
+      1276,
+      1289
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

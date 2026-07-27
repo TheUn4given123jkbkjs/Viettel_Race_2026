@@ -1,7 +1,10 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [163, 176],
+    "position": [
+      163,
+      176
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,28 @@
   },
   {
     "text": "Hydrochlorothiazide",
-    "position": [292, 311],
+    "position": [
+      292,
+      311
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["5487"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "5487"
+    ]
   },
   {
     "text": "đái tháo đường",
-    "position": [843, 857],
+    "position": [
+      843,
+      857
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "E12.9",
       "E13",
@@ -30,35 +45,54 @@
   },
   {
     "text": "buồn nôn",
-    "position": [1259, 1267],
+    "position": [
+      1259,
+      1267
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Chụp cắt lớp vi tính sọ não",
-    "position": [2144, 2171],
+    "position": [
+      2144,
+      2171
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nhồi máu não ổ khuyết",
-    "position": [2342, 2363],
+    "position": [
+      2342,
+      2363
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [2692, 2702],
+    "position": [
+      2692,
+      2702
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "135/80 mmHg",
-    "position": [3084, 3095],
+    "position": [
+      3084,
+      3095
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

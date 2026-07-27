@@ -1,56 +1,86 @@
 [
   {
     "text": "đau vùng thượng vị",
-    "position": [126, 144],
+    "position": [
+      126,
+      144
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đầy bụng",
-    "position": [269, 277],
+    "position": [
+      269,
+      277
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [372, 380],
+    "position": [
+      372,
+      380
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sụt cân",
-    "position": [480, 487],
+    "position": [
+      480,
+      487
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ợ chua",
-    "position": [578, 584],
+    "position": [
+      578,
+      584
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [637, 651],
+    "position": [
+      637,
+      651
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "bạch cầu cao",
-    "position": [673, 685],
+    "position": [
+      673,
+      685
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "nội soi dạ dày thực quản",
-    "position": [1497, 1521],
+    "position": [
+      1497,
+      1521
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

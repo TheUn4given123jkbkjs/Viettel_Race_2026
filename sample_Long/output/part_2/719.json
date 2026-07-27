@@ -1,42 +1,62 @@
 [
   {
     "text": "sốt",
-    "position": [76, 79],
+    "position": [
+      76,
+      79
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [81, 98],
+    "position": [
+      81,
+      98
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [313, 333],
+    "position": [
+      313,
+      333
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "creatinine",
-    "position": [434, 444],
+    "position": [
+      434,
+      444
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "1,2 mg/dL",
-    "position": [458, 467],
+    "position": [
+      458,
+      467
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "điện tâm đồ (ECG)",
-    "position": [561, 578],
+    "position": [
+      561,
+      578
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

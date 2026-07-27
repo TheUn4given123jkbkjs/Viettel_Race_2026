@@ -1,35 +1,53 @@
 [
   {
     "text": "Phình động mạch chủ bụng, không vỡ",
-    "position": [356, 390],
+    "position": [
+      356,
+      390
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I71.4", "I71.6"]
+    "candidates": [
+      "I71.4",
+      "I71.6"
+    ]
   },
   {
     "text": "bệnh tim mạch",
-    "position": [187, 200],
+    "position": [
+      187,
+      200
+    ],
     "type": "BỆNH_MÃN_TÍNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [134, 137],
+    "position": [
+      134,
+      137
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm phổi",
-    "position": [243, 252],
+    "position": [
+      243,
+      252
+    ],
     "type": "BỆNH_SỬ",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "theo dõi huyết áp",
-    "position": [325, 342],
+    "position": [
+      325,
+      342
+    ],
     "type": "ĐIỀU_TRỊ",
     "assertions": [],
     "candidates": []

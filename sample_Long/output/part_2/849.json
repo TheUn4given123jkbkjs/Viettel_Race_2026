@@ -1,51 +1,78 @@
 [
   {
     "text": "Sỏi tiết niệu trong bệnh sán máng B65.-",
-    "position": [61, 100],
+    "position": [
+      61,
+      100
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N22.0*"]
+    "candidates": [
+      "N22.0*"
+    ]
   },
   {
     "text": "tiểu máu",
-    "position": [605, 613],
+    "position": [
+      605,
+      613
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau vùng hạ vị",
-    "position": [655, 669],
+    "position": [
+      655,
+      669
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [746, 755],
+    "position": [
+      746,
+      755
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "siêu âm",
-    "position": [857, 864],
+    "position": [
+      857,
+      864
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sỏi cản quang",
-    "position": [890, 903],
+    "position": [
+      890,
+      903
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sán máng mạn tính",
-    "position": [1456, 1473],
+    "position": [
+      1456,
+      1473
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

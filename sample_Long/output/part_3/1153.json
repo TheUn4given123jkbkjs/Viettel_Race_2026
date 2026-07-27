@@ -1,23 +1,39 @@
 [
   {
     "text": "các dạng tràn khí màng phổi khác",
-    "position": [29, 61],
+    "position": [
+      29,
+      61
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J93.1", "J93.8"]
+    "candidates": [
+      "J93.1",
+      "J93.8"
+    ]
   },
   {
     "text": "Abacavir",
-    "position": [222, 230],
+    "position": [
+      222,
+      230
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": [
+      "190521"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [234, 247],
+    "position": [
+      234,
+      247
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

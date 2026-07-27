@@ -1,7 +1,10 @@
 [
   {
     "text": "Suy tim sung huyết",
-    "position": [3055, 3073],
+    "position": [
+      3055,
+      3073
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,42 +15,67 @@
   },
   {
     "text": "khó thở khi nằm",
-    "position": [830, 845],
+    "position": [
+      830,
+      845
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [961, 969],
+    "position": [
+      961,
+      969
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "BNP",
-    "position": [2555, 2558],
+    "position": [
+      2555,
+      2558
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh mạch vành",
-    "position": [376, 390],
+    "position": [
+      376,
+      390
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["A52.06", "I25.0"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "A52.06",
+      "I25.0"
+    ]
   },
   {
     "text": "bóng tim to",
-    "position": [2766, 2777],
+    "position": [
+      2766,
+      2777
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin I",
-    "position": [2593, 2603],
+    "position": [
+      2593,
+      2603
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,35 +1,59 @@
 [
   {
     "text": "Efavirenz",
-    "position": [51, 60],
+    "position": [
+      51,
+      60
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["195085", "2003222"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "195085",
+      "2003222"
+    ]
   },
   {
     "text": "Đau gối P",
-    "position": [167, 176],
+    "position": [
+      167,
+      176
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [192, 195],
+    "position": [
+      192,
+      195
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [31, 33],
+    "position": [
+      31,
+      33
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bầm tím phần mềm gối P",
-    "position": [221, 243],
+    "position": [
+      221,
+      243
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

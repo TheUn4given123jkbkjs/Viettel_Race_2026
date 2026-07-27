@@ -1,42 +1,66 @@
 [
   {
     "text": "Loét dạ dày - hỗng tràng (Cấp không có xuất huyết hay thủng)",
-    "position": [226, 286],
+    "position": [
+      226,
+      286
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K28.3"]
+    "candidates": [
+      "K28.3"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [415, 428],
+    "position": [
+      415,
+      428
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ranitidine",
-    "position": [432, 442],
+    "position": [
+      432,
+      442
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["9143"]
+    "candidates": [
+      "9143"
+    ]
   },
   {
     "text": "đau bụng",
-    "position": [318, 326],
+    "position": [
+      318,
+      326
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [328, 336],
+    "position": [
+      328,
+      336
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn mửa",
-    "position": [340, 347],
+    "position": [
+      340,
+      347
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

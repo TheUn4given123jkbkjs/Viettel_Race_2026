@@ -1,35 +1,52 @@
 [
   {
     "text": "đau đầu",
-    "position": [140, 147],
+    "position": [
+      140,
+      147
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [151, 160],
+    "position": [
+      151,
+      160
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [205, 214],
+    "position": [
+      205,
+      214
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm chức năng thận",
-    "position": [277, 302],
+    "position": [
+      277,
+      302
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm đường huyết",
-    "position": [304, 326],
+    "position": [
+      304,
+      326
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

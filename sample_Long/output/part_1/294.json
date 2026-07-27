@@ -1,42 +1,68 @@
 [
   {
     "text": "Nghẽn tắc và hẹp động mạch não giữa",
-    "position": [0, 35],
+    "position": [
+      0,
+      35
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I66.0"]
+    "candidates": [
+      "I66.0"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [428, 435],
+    "position": [
+      428,
+      435
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [441, 454],
+    "position": [
+      441,
+      454
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "buồn nôn",
-    "position": [216, 224],
+    "position": [
+      216,
+      224
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "chụp cắt lớp vi tính (CT)",
-    "position": [315, 340],
+    "position": [
+      315,
+      340
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp cộng hưởng từ (MRI)",
-    "position": [346, 370],
+    "position": [
+      346,
+      370
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

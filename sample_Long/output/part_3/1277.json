@@ -1,7 +1,10 @@
 [
   {
     "text": "Viêm khớp trong bệnh Rubella (B06.8†)",
-    "position": [0, 37],
+    "position": [
+      0,
+      37
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,30 +15,46 @@
   },
   {
     "text": "đau khớp",
-    "position": [126, 134],
+    "position": [
+      126,
+      134
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng khớp",
-    "position": [136, 145],
+    "position": [
+      136,
+      145
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [179, 188],
+    "position": [
+      179,
+      188
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [225, 242],
+    "position": [
+      225,
+      242
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

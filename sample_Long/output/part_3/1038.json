@@ -1,28 +1,42 @@
 [
   {
     "text": "protein niệu",
-    "position": [326, 338],
+    "position": [
+      326,
+      338
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phù toàn thân",
-    "position": [1256, 1269],
+    "position": [
+      1256,
+      1269
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [1404, 1413],
+    "position": [
+      1404,
+      1413
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Hội chứng thận hư",
-    "position": [39, 56],
+    "position": [
+      39,
+      56
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -33,28 +47,46 @@
   },
   {
     "text": "bệnh lý về cầu thận",
-    "position": [1701, 1720],
+    "position": [
+      1701,
+      1720
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Prednisolone",
-    "position": [2051, 2063],
+    "position": [
+      2051,
+      2063
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   },
   {
     "text": "Furosemide",
-    "position": [2360, 2370],
+    "position": [
+      2360,
+      2370
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4603"]
+    "candidates": [
+      "4603"
+    ]
   },
   {
     "text": "albumin máu",
-    "position": [436, 447],
+    "position": [
+      436,
+      447
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

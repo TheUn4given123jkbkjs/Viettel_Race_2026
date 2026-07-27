@@ -1,42 +1,70 @@
 [
   {
     "text": "Ergonovine",
-    "position": [239, 249],
+    "position": [
+      239,
+      249
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["4021"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "4021"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [460, 467],
+    "position": [
+      460,
+      467
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "ceftriaxone",
-    "position": [469, 480],
+    "position": [
+      469,
+      480
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "troponin",
-    "position": [526, 534],
+    "position": [
+      526,
+      534
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bypass động mạch vành",
-    "position": [409, 430],
+    "position": [
+      409,
+      430
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["Z95.1"]
+    "candidates": [
+      "Z95.1"
+    ]
   },
   {
     "text": "suy tim",
-    "position": [192, 199],
+    "position": [
+      192,
+      199
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

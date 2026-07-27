@@ -1,37 +1,56 @@
 [
   {
-    "text": "CÃ¡c bá»nh quÃ¡ sáº£n cá»§a da khÃ´ng Äiá»n hÃ¬nh",
-    "position": [576, 628],
-    "type": "CHáº¨N_ÄOÃN",
+    "text": "Các bệnh quá sản của da không điển hình",
+    "position": [
+      452,
+      491
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acyclovir",
-    "position": [384, 393],
-    "type": "THUá»C",
+    "position": [
+      297,
+      306
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dexamethasone",
-    "position": [426, 439],
-    "type": "THUá»C",
+    "position": [
+      331,
+      344
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "tÄng lipid mÃ¡u",
-    "position": [202, 218],
-    "type": "CHáº¨N_ÄOÃN",
-    "assertions": ["isHistorical"],
+    "text": "tăng lipid máu",
+    "position": [
+      158,
+      172
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
-    "text": "váº£y náº¿n",
-    "position": [530, 541],
-    "type": "CHáº¨N_ÄOÃN",
-    "assertions": ["isFamily"],
+    "text": "vảy nến",
+    "position": [
+      416,
+      423
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

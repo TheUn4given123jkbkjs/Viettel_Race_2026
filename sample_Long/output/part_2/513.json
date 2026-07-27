@@ -1,37 +1,58 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [198, 211],
+    "position": [
+      198,
+      211
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "rối loạn lipid máu",
-    "position": [215, 233],
+    "position": [
+      215,
+      233
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [282, 285],
+    "position": [
+      282,
+      285
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhức",
-    "position": [289, 297],
+    "position": [
+      289,
+      297
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật thay khớp háng",
-    "position": [105, 130],
+    "position": [
+      105,
+      130
+    ],
     "type": "THỦ_THUẬT",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

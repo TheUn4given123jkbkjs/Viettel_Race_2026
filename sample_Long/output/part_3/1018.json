@@ -1,58 +1,84 @@
 [
   {
     "text": "sốtcao",
-    "position": [819, 825],
+    "position": [
+      819,
+      825
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy hô hấp",
-    "position": [873, 883],
+    "position": [
+      873,
+      883
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tím tái",
-    "position": [908, 915],
+    "position": [
+      908,
+      915
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ban sẩn mụn nước(có thể hoại tử",
-    "position": [938, 969],
+    "position": [
+      938,
+      969
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "gan lách to",
-    "position": [1014, 1025],
+    "position": [
+      1014,
+      1025
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cấy máu",
-    "position": [459, 466],
+    "position": [
+      459,
+      466
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng bạch cầu hạt",
-    "position": [1131, 1148],
+    "position": [
+      1131,
+      1148
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Listeria bẩm sinh (rải rác)",
-    "position": [60, 87],
+    "position": [
+      60,
+      87
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P37.2"]
+    "candidates": [
+      "P37.2"
+    ]
   }
 ]

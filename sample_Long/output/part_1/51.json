@@ -1,16 +1,26 @@
 [
   {
     "text": "Suy thận không xác định",
-    "position": [89, 112],
+    "position": [
+      89,
+      112
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N19"]
+    "candidates": [
+      "N19"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [135, 144],
+    "position": [
+      135,
+      144
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

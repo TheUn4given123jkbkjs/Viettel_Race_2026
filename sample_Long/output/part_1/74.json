@@ -1,23 +1,36 @@
 [
   {
     "text": "đau nhức các khớp gối và ngón tay",
-    "position": [29, 62],
+    "position": [
+      29,
+      62
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [402, 412],
+    "position": [
+      402,
+      412
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "viêm khớp dạng thấp",
-    "position": [457, 476],
+    "position": [
+      457,
+      476
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "M05",
       "M05.3†",
@@ -26,37 +39,58 @@
   },
   {
     "text": "cứng khớp",
-    "position": [165, 174],
+    "position": [
+      165,
+      174
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiếng lục khục",
-    "position": [981, 995],
+    "position": [
+      981,
+      995
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thoái hóa nhiều khớp thứ phát",
-    "position": [1234, 1263],
+    "position": [
+      1234,
+      1263
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M15.3"]
+    "candidates": [
+      "M15.3"
+    ]
   },
   {
     "text": "Diclofenac",
-    "position": [1296, 1306],
+    "position": [
+      1296,
+      1306
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3355"]
+    "candidates": [
+      "3355"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [1359, 1372],
+    "position": [
+      1359,
+      1372
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

@@ -1,56 +1,84 @@
 [
   {
     "text": "đau tức ngực",
-    "position": [59, 71],
+    "position": [
+      59,
+      71
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "đau đầu âm ỉ vùng chẩm",
-    "position": [154, 176],
+    "position": [
+      154,
+      176
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [194, 203],
+    "position": [
+      194,
+      203
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [303, 312],
+    "position": [
+      303,
+      312
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Huyết áp: 150/90 mmHg",
-    "position": [425, 446],
+    "position": [
+      425,
+      446
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 10.2",
-    "position": [533, 546],
+    "position": [
+      533,
+      546
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Creatinin : 88 µmol/L",
-    "position": [569, 590],
+    "position": [
+      569,
+      590
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT sọ não",
-    "position": [656, 665],
+    "position": [
+      656,
+      665
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

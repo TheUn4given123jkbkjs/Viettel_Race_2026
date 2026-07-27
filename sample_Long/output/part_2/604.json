@@ -1,44 +1,66 @@
 [
   {
     "text": "Tăng huyết áp độ 1",
-    "position": [26, 44],
+    "position": [
+      26,
+      44
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Đái máu vi thể",
-    "position": [101, 115],
+    "position": [
+      101,
+      115
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nước tiểu màu nâu đỏ",
-    "position": [204, 224],
+    "position": [
+      204,
+      224
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đau mạn sườn hai bên",
-    "position": [230, 250],
+    "position": [
+      230,
+      250
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Phù nhẹ hai mi mắt",
-    "position": [256, 274],
+    "position": [
+      256,
+      274
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đái máu dai dẳng và tái phát, Viêm cầu thận tăng sinh gian mạch lan tỏa",
-    "position": [1186, 1257],
+    "position": [
+      1186,
+      1257
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N02.3"]
+    "candidates": [
+      "N02.3"
+    ]
   }
 ]

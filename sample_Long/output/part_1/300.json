@@ -1,14 +1,22 @@
 [
   {
     "text": "Tổn thương cột sống do nguyên nhân thần kinh, bàn tay",
-    "position": [311, 364],
+    "position": [
+      311,
+      364
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M49.44*"]
+    "candidates": [
+      "M49.44*"
+    ]
   },
   {
     "text": "tăng huyết áp",
-    "position": [592, 605],
+    "position": [
+      592,
+      605
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,30 +27,48 @@
   },
   {
     "text": "Amlodipine",
-    "position": [636, 646],
+    "position": [
+      636,
+      646
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "đái tháo đường tuýp 2",
-    "position": [724, 745],
+    "position": [
+      724,
+      745
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "yếu cơ bàn tay",
-    "position": [971, 985],
+    "position": [
+      971,
+      985
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Methylprednisolone",
-    "position": [1250, 1268],
+    "position": [
+      1250,
+      1268
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6902"]
+    "candidates": [
+      "6902"
+    ]
   }
 ]

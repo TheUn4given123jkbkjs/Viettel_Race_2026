@@ -1,9 +1,16 @@
 [
   {
     "text": "Tranexamic acid",
-    "position": [45, 60],
+    "position": [
+      45,
+      60
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["10691"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "10691"
+    ]
   }
 ]

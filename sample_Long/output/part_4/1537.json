@@ -1,7 +1,10 @@
 [
   {
     "text": "Viêm dạ dày",
-    "position": [22, 33],
+    "position": [
+      22,
+      33
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,35 +15,54 @@
   },
   {
     "text": "đau bụng vùng thượng vị",
-    "position": [57, 80],
+    "position": [
+      57,
+      80
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đi ngoài phân mỡ",
-    "position": [106, 122],
+    "position": [
+      106,
+      122
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [134, 143],
+    "position": [
+      134,
+      143
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không nôn",
-    "position": [145, 154],
+    "position": [
+      145,
+      154
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bệnh tụy, không đặc hiệu",
-    "position": [251, 275],
+    "position": [
+      251,
+      275
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -51,9 +73,14 @@
   },
   {
     "text": "Pancreatin",
-    "position": [287, 297],
+    "position": [
+      287,
+      297
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7880"]
+    "candidates": [
+      "7880"
+    ]
   }
 ]

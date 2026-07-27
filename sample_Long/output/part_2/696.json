@@ -1,7 +1,10 @@
 [
   {
     "text": "Rậm lông",
-    "position": [31, 39],
+    "position": [
+      31,
+      39
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,21 +15,30 @@
   },
   {
     "text": "mụn trứng cá",
-    "position": [1680, 1692],
+    "position": [
+      1680,
+      1692
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chu kỳ kinh nguyệt không đều",
-    "position": [1780, 1808],
+    "position": [
+      1780,
+      1808
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rậm lông",
-    "position": [381, 389],
+    "position": [
+      381,
+      389
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -37,16 +49,26 @@
   },
   {
     "text": "Ethinylestradiol / Levonorgestrel",
-    "position": [2507, 2540],
+    "position": [
+      2507,
+      2540
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["214558"]
+    "candidates": [
+      "214558"
+    ]
   },
   {
     "text": "Spironolactone",
-    "position": [2803, 2817],
+    "position": [
+      2803,
+      2817
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["9997"]
+    "candidates": [
+      "9997"
+    ]
   }
 ]

@@ -1,58 +1,85 @@
 [
   {
     "text": "đau khớp gối",
-    "position": [92, 104],
+    "position": [
+      92,
+      104
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cứng khớp",
-    "position": [181, 190],
+    "position": [
+      181,
+      190
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng to",
-    "position": [262, 269],
+    "position": [
+      262,
+      269
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nóng đỏ",
-    "position": [271, 278],
+    "position": [
+      271,
+      278
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP",
-    "position": [402, 405],
+    "position": [
+      402,
+      405
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tốc độ lắng máu (ESR)",
-    "position": [409, 430],
+    "position": [
+      409,
+      430
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng rất cao",
-    "position": [431, 443],
+    "position": [
+      431,
+      443
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp thiếu niên trong các bệnh được xếp ở mục khác",
-    "position": [708, 763],
+    "position": [
+      708,
+      763
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M09", "M09*"]
+    "candidates": [
+      "M09",
+      "M09*"
+    ]
   }
 ]

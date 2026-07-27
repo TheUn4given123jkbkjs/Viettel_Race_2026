@@ -1,28 +1,42 @@
 [
   {
     "text": "đau đầu",
-    "position": [74, 81],
+    "position": [
+      74,
+      81
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [83, 90],
+    "position": [
+      83,
+      90
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không có sốt",
-    "position": [94, 106],
+    "position": [
+      94,
+      106
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "35 tuổi",
-    "position": [14, 21],
+    "position": [
+      14,
+      21
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

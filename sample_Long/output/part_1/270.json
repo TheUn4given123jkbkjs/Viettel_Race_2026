@@ -1,35 +1,55 @@
 [
   {
     "text": "Đái tháo đường sẵn có, lệ thuộc insulin",
-    "position": [53, 92],
+    "position": [
+      53,
+      92
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O24.0", "O24.1"]
+    "candidates": [
+      "O24.0",
+      "O24.1"
+    ]
   },
   {
     "text": "tiền sử đái tháo đường 10 năm",
-    "position": [190, 219],
+    "position": [
+      190,
+      219
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "sụt cân",
-    "position": [321, 328],
+    "position": [
+      321,
+      328
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu nhiều",
-    "position": [332, 342],
+    "position": [
+      332,
+      342
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đục thủy tinh thể",
-    "position": [381, 398],
+    "position": [
+      381,
+      398
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

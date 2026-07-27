@@ -1,7 +1,10 @@
 [
   {
     "text": "Co cứng cơ",
-    "position": [31, 41],
+    "position": [
+      31,
+      41
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,37 +15,56 @@
   },
   {
     "text": "co thắt cơ",
-    "position": [253, 263],
+    "position": [
+      253,
+      263
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhức",
-    "position": [265, 273],
+    "position": [
+      265,
+      273
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hạn chế vận động khớp",
-    "position": [277, 298],
+    "position": [
+      277,
+      298
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Diazepam",
-    "position": [358, 366],
+    "position": [
+      358,
+      366
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3322"]
+    "candidates": [
+      "3322"
+    ]
   },
   {
     "text": "Alverine",
-    "position": [372, 380],
+    "position": [
+      372,
+      380
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17627"]
+    "candidates": [
+      "17627"
+    ]
   }
 ]

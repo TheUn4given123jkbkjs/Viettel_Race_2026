@@ -1,23 +1,36 @@
 [
   {
     "text": "virus Herpes bẩm sinh",
-    "position": [6, 27],
+    "position": [
+      6,
+      27
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [
       ""
     ],
-    "candidates": ["P35.2"]
+    "candidates": [
+      "P35.2"
+    ]
   },
   {
     "text": "nhiễm vi khuẩn herpes bẩm sinh",
-    "position": [371, 401],
+    "position": [
+      371,
+      401
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "virus",
-    "position": [6, 11],
+    "position": [
+      6,
+      11
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [
       ""
@@ -26,7 +39,10 @@
   },
   {
     "text": "Herpes",
-    "position": [12, 18],
+    "position": [
+      12,
+      18
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [
       ""

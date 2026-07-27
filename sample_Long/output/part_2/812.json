@@ -1,58 +1,90 @@
 [
   {
     "text": "COPD",
-    "position": [197, 201],
+    "position": [
+      197,
+      201
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [333, 340],
+    "position": [
+      333,
+      340
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho khô",
-    "position": [355, 361],
+    "position": [
+      355,
+      361
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [405, 408],
+    "position": [
+      405,
+      408
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ran nổ",
-    "position": [519, 525],
+    "position": [
+      519,
+      525
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm phổi tăng cảm do bụi hữu cơ khác",
-    "position": [677, 714],
+    "position": [
+      677,
+      714
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J67.8"]
+    "candidates": [
+      "J67.8"
+    ]
   },
   {
     "text": "Prednisolone",
-    "position": [739, 751],
+    "position": [
+      739,
+      751
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   },
   {
     "text": "Albuterol",
-    "position": [791, 800],
+    "position": [
+      791,
+      800
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["435"]
+    "candidates": [
+      "435"
+    ]
   }
 ]

@@ -1,7 +1,10 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [19, 32],
+    "position": [
+      19,
+      32
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,49 +15,73 @@
   },
   {
     "text": "Đau xé vùng thượng vị",
-    "position": [195, 216],
+    "position": [
+      195,
+      216
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Vã mồ hôi",
-    "position": [258, 267],
+    "position": [
+      258,
+      267
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT-Scanner",
-    "position": [689, 699],
+    "position": [
+      689,
+      699
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Phình động mạch chủ ngực-bụng, vỡ",
-    "position": [1173, 1206],
+    "position": [
+      1173,
+      1206
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I71.5", "I71.6"]
+    "candidates": [
+      "I71.5",
+      "I71.6"
+    ]
   },
   {
     "text": "Morphine 5mg iv",
-    "position": [1243, 1258],
+    "position": [
+      1243,
+      1258
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tranexamic acid 500mg",
-    "position": [1265, 1286],
+    "position": [
+      1265,
+      1286
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Huyết áp: 75/40 mmHg",
-    "position": [947, 967],
+    "position": [
+      947,
+      967
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

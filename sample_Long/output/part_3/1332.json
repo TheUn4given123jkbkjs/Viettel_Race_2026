@@ -1,42 +1,62 @@
 [
   {
     "text": "Tắc ống mật",
-    "position": [0, 11],
+    "position": [
+      0,
+      11
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K83.1"]
+    "candidates": [
+      "K83.1"
+    ]
   },
   {
     "text": "siêu âm",
-    "position": [282, 289],
+    "position": [
+      282,
+      289
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT scan",
-    "position": [291, 298],
+    "position": [
+      291,
+      298
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "MRI",
-    "position": [304, 307],
+    "position": [
+      304,
+      307
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng da",
-    "position": [156, 163],
+    "position": [
+      156,
+      163
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [175, 183],
+    "position": [
+      175,
+      183
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

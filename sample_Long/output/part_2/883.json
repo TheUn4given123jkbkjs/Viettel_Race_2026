@@ -1,23 +1,36 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [10, 27],
+    "position": [
+      10,
+      27
+    ],
     "type": "TIỀN_SỬ",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [53, 70],
+    "position": [
+      53,
+      70
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp trong bệnh Lyme (A69.2†), cẳng tay",
-    "position": [130, 174],
+    "position": [
+      130,
+      174
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M01.23*"]
+    "candidates": [
+      "M01.23*"
+    ]
   }
 ]

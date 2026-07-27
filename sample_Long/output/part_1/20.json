@@ -1,58 +1,90 @@
 [
   {
     "text": "DVT",
-    "position": [33, 36],
+    "position": [
+      33,
+      36
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "đau tức LL mạn tính",
-    "position": [135, 154],
+    "position": [
+      135,
+      154
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [191, 194],
+    "position": [
+      191,
+      194
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực cấp tính",
-    "position": [200, 217],
+    "position": [
+      200,
+      217
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [242, 246],
+    "position": [
+      242,
+      246
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "98%",
-    "position": [247, 250],
+    "position": [
+      247,
+      250
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phù cứng",
-    "position": [264, 272],
+    "position": [
+      264,
+      272
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hội chứng sau huyết khối",
-    "position": [316, 340],
+    "position": [
+      316,
+      340
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I87.0"]
+    "candidates": [
+      "I87.0"
+    ]
   }
 ]

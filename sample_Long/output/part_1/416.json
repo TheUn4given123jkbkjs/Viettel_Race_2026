@@ -1,49 +1,72 @@
 [
   {
     "text": "Bệnh Celiac",
-    "position": [102, 113],
+    "position": [
+      102,
+      113
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Tiêu chảy kéo dài",
-    "position": [152, 169],
+    "position": [
+      152,
+      169
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đi ngoài phân sống",
-    "position": [222, 240],
+    "position": [
+      222,
+      240
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đầy bụng",
-    "position": [273, 281],
+    "position": [
+      273,
+      281
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hb 92 g/L",
-    "position": [1589, 1598],
+    "position": [
+      1589,
+      1598
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nội soi dạ dày - tá tràng",
-    "position": [1752, 1777],
+    "position": [
+      1752,
+      1777
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ruột kém hấp thu",
-    "position": [1861, 1877],
+    "position": [
+      1861,
+      1877
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

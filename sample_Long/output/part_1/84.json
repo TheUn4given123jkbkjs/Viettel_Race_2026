@@ -1,51 +1,78 @@
 [
   {
     "text": "tăng huyết áp độ II",
-    "position": [130, 149],
+    "position": [
+      130,
+      149
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "viêm bao hoạt dịch gối phải",
-    "position": [288, 315],
+    "position": [
+      288,
+      315
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "sưng đau vùng khuỷu tay trái",
-    "position": [617, 645],
+    "position": [
+      617,
+      645
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khối sưng hình cầu",
-    "position": [804, 822],
+    "position": [
+      804,
+      822
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm khớp khuỷu",
-    "position": [1054, 1072],
+    "position": [
+      1054,
+      1072
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "túi dịch kích thước lớn",
-    "position": [1091, 1114],
+    "position": [
+      1091,
+      1114
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các chứng viêm túi thanh mạc khác không được xếp loại ở mục khác",
-    "position": [1270, 1334],
+    "position": [
+      1270,
+      1334
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M71.5"]
+    "candidates": [
+      "M71.5"
+    ]
   }
 ]

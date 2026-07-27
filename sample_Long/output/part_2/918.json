@@ -1,14 +1,20 @@
 [
   {
     "text": "rungn hĩ",
-    "position": [468, 476],
+    "position": [
+      468,
+      476
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy tim",
-    "position": [590, 597],
+    "position": [
+      590,
+      597
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,42 +25,68 @@
   },
   {
     "text": "hồi hộp",
-    "position": [1037, 1044],
+    "position": [
+      1037,
+      1044
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [1401, 1404],
+    "position": [
+      1401,
+      1404
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [1439, 1447],
+    "position": [
+      1439,
+      1447
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "điẹn tâm đồ",
-    "position": [1507, 1518],
+    "position": [
+      1507,
+      1518
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Warfarin",
-    "position": [1727, 1735],
+    "position": [
+      1727,
+      1735
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["11289"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "11289"
+    ]
   },
   {
     "text": "xét nghiệm INR",
-    "position": [1902, 1916],
+    "position": [
+      1902,
+      1916
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

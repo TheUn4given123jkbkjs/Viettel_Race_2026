@@ -1,58 +1,89 @@
 [
   {
     "text": "Nevirapine",
-    "position": [283, 293],
+    "position": [
+      283,
+      293
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["687428", "53654"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "687428",
+      "53654"
+    ]
   },
   {
     "text": "sốt nhẹ",
-    "position": [1002, 1009],
+    "position": [
+      1002,
+      1009
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho khan",
-    "position": [1085, 1092],
+    "position": [
+      1085,
+      1092
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chẩn đoấn",
-    "position": [1929, 1938],
+    "position": [
+      1929,
+      1938
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm phổi cộng đồng",
-    "position": [1959, 1978],
+    "position": [
+      1959,
+      1978
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ngực thẳng",
-    "position": [2229, 2247],
+    "position": [
+      2229,
+      2247
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đám mờ không đồng nhất",
-    "position": [2386, 2408],
+    "position": [
+      2386,
+      2408
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Levofloxacin",
-    "position": [2670, 2682],
+    "position": [
+      2670,
+      2682
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["82122"]
+    "candidates": [
+      "82122"
+    ]
   }
 ]

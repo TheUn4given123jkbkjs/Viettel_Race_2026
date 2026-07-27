@@ -1,35 +1,50 @@
 [
   {
     "text": "viêm dạ dày",
-    "position": [630, 641],
+    "position": [
+      630,
+      641
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cholecystitis",
-    "position": [647, 660],
+    "position": [
+      647,
+      660
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm",
-    "position": [795, 802],
+    "position": [
+      795,
+      802
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bình thường",
-    "position": [988, 999],
+    "position": [
+      988,
+      999
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm",
-    "position": [630, 634],
+    "position": [
+      630,
+      634
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

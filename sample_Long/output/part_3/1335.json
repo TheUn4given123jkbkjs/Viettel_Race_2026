@@ -1,23 +1,38 @@
 [
   {
     "text": "Sản giật trong khi chuyển dạ",
-    "position": [0, 28],
+    "position": [
+      0,
+      28
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O15.1"]
+    "candidates": [
+      "O15.1"
+    ]
   },
   {
     "text": "Methyldopa",
-    "position": [377, 387],
+    "position": [
+      377,
+      387
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6876"]
+    "candidates": [
+      "6876"
+    ]
   },
   {
     "text": "Nifedipine",
-    "position": [391, 401],
+    "position": [
+      391,
+      401
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7417"]
+    "candidates": [
+      "7417"
+    ]
   }
 ]

@@ -1,42 +1,68 @@
 [
   {
     "text": "các biến dạng mắc phải khác của cổ chân và bàn chân",
-    "position": [621, 672],
+    "position": [
+      621,
+      672
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["M21.6"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "M21.6"
+    ]
   },
   {
     "text": "buồn nôn",
-    "position": [447, 455],
+    "position": [
+      447,
+      455
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [463, 466],
+    "position": [
+      463,
+      466
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [289, 299],
+    "position": [
+      289,
+      299
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "physiotherapy",
-    "position": [301, 314],
+    "position": [
+      301,
+      314
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thay đổi lối sống",
-    "position": [318, 335],
+    "position": [
+      318,
+      335
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

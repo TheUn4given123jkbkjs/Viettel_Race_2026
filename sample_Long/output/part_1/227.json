@@ -1,7 +1,10 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [28, 41],
+    "position": [
+      28,
+      41
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,28 +15,42 @@
   },
   {
     "text": "ĐTĐ type 2",
-    "position": [170, 180],
+    "position": [
+      170,
+      180
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đỏda",
-    "position": [352, 356],
+    "position": [
+      352,
+      356
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ngứa ngáy (không gãi",
-    "position": [533, 553],
+    "position": [
+      533,
+      553
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm kẽ",
-    "position": [1646, 1653],
+    "position": [
+      1646,
+      1653
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -44,14 +61,20 @@
   },
   {
     "text": "Soi tươi tìm nấm",
-    "position": [1350, 1366],
+    "position": [
+      1350,
+      1366
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "âm tính",
-    "position": [1379, 1386],
+    "position": [
+      1379,
+      1386
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

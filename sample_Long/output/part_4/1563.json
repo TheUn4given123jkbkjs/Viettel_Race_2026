@@ -1,42 +1,64 @@
 [
   {
     "text": "Vị trí răng bất thường",
-    "position": [377, 399],
+    "position": [
+      377,
+      399
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K07.3"]
+    "candidates": [
+      "K07.3"
+    ]
   },
   {
     "text": "đau đầu",
-    "position": [88, 95],
+    "position": [
+      88,
+      95
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [97, 105],
+    "position": [
+      97,
+      105
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [109, 112],
+    "position": [
+      109,
+      112
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [455, 465],
+    "position": [
+      455,
+      465
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "theo dõi lối sống",
-    "position": [471, 488],
+    "position": [
+      471,
+      488
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

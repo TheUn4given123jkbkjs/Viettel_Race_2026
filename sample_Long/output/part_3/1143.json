@@ -1,7 +1,10 @@
 [
   {
     "text": "Viêm da đặc hiệu khác",
-    "position": [819, 840],
+    "position": [
+      819,
+      840
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Amlodipine",
-    "position": [1407, 1417],
+    "position": [
+      1407,
+      1417
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "Viêm dạ dày",
-    "position": [1531, 1542],
+    "position": [
+      1531,
+      1542
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "K29",
       "K29.0",
@@ -30,30 +43,46 @@
   },
   {
     "text": "sẩn đỏ",
-    "position": [589, 595],
+    "position": [
+      589,
+      595
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ngứa",
-    "position": [263, 267],
+    "position": [
+      263,
+      267
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Betamethasone",
-    "position": [2629, 2642],
+    "position": [
+      2629,
+      2642
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1514"]
+    "candidates": [
+      "1514"
+    ]
   },
   {
     "text": "Povidone-iodine",
-    "position": [2765, 2780],
+    "position": [
+      2765,
+      2780
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8611"]
+    "candidates": [
+      "8611"
+    ]
   }
 ]

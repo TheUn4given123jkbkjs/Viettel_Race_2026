@@ -1,16 +1,28 @@
 [
   {
     "text": "bệnh khớp vảy nến có tổn thương khớp ngón xa (L40.5†), cánh tay",
-    "position": [118, 181],
+    "position": [
+      118,
+      181
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["M07.02*"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "M07.02*"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [239, 246],
+    "position": [
+      239,
+      246
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   }
 ]

@@ -1,9 +1,14 @@
 [
   {
     "text": "Diphtheria-Tetanus Vaccine",
-    "position": [236, 262],
+    "position": [
+      236,
+      262
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "834765",
       "309949",
@@ -12,35 +17,50 @@
   },
   {
     "text": "viêm gan B",
-    "position": [128, 138],
+    "position": [
+      128,
+      138
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch hầu",
-    "position": [293, 301],
+    "position": [
+      293,
+      301
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "uốn ván",
-    "position": [282, 289],
+    "position": [
+      282,
+      289
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhiễm trùng huyết",
-    "position": [436, 453],
+    "position": [
+      436,
+      453
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "kháng sinh",
-    "position": [528, 538],
+    "position": [
+      528,
+      538
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

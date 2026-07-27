@@ -1,44 +1,70 @@
 [
   {
     "text": "đau lưng âm ỉ",
-    "position": [68, 81],
+    "position": [
+      68,
+      81
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng đau vùng cẳng tay",
-    "position": [85, 107],
+    "position": [
+      85,
+      107
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhiễm khuẩn Salmonella",
-    "position": [143, 165],
+    "position": [
+      143,
+      165
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Viêm đốt sống do vi khuẩn đường ruột (A01-A04†), cẳng tay",
-    "position": [521, 578],
+    "position": [
+      521,
+      578
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M49.23*"]
+    "candidates": [
+      "M49.23*"
+    ]
   },
   {
     "text": "Ciprofloxacin",
-    "position": [899, 912],
+    "position": [
+      899,
+      912
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2551"]
+    "candidates": [
+      "2551"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [918, 929],
+    "position": [
+      918,
+      929
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

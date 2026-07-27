@@ -1,49 +1,74 @@
 [
   {
     "text": "Ofloxacin",
-    "position": [136, 145],
+    "position": [
+      136,
+      145
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["7623"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "7623"
+    ]
   },
   {
     "text": "bệnh thận mạn tính",
-    "position": [42, 60],
+    "position": [
+      42,
+      60
+    ],
     "type": "BỆNH_NỀN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường loại 2",
-    "position": [64, 81],
+    "position": [
+      64,
+      81
+    ],
     "type": "BỆNH_NỀN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhiễm khuẩn đường tiết niệu",
-    "position": [178, 205],
+    "position": [
+      178,
+      205
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [448, 456],
+    "position": [
+      448,
+      456
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiêu chảy",
-    "position": [460, 469],
+    "position": [
+      460,
+      469
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chức năng thận suy giảm",
-    "position": [692, 715],
+    "position": [
+      692,
+      715
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

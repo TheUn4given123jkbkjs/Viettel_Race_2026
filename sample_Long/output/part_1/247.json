@@ -1,7 +1,10 @@
 [
   {
     "text": "teo da",
-    "position": [105, 111],
+    "position": [
+      105,
+      111
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,7 +15,10 @@
   },
   {
     "text": "Teo da",
-    "position": [191, 197],
+    "position": [
+      191,
+      197
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -23,16 +29,27 @@
   },
   {
     "text": "Vitamin A",
-    "position": [300, 309],
+    "position": [
+      300,
+      309
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["11246", "97016"]
+    "candidates": [
+      "11246",
+      "97016"
+    ]
   },
   {
     "text": "Urea",
-    "position": [321, 325],
+    "position": [
+      321,
+      325
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["11002"]
+    "candidates": [
+      "11002"
+    ]
   }
 ]

@@ -1,58 +1,95 @@
 [
   {
     "text": "đái tháo đường thai kỳ",
-    "position": [190, 212],
+    "position": [
+      190,
+      212
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "run rẩy chân tay",
-    "position": [377, 393],
+    "position": [
+      377,
+      393
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [395, 404],
+    "position": [
+      395,
+      404
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hội chứng trẻ sơ sinh của bà mẹ bị đái tháo đường thai nghén",
-    "position": [799, 859],
+    "position": [
+      799,
+      859
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P70.0"]
+    "candidates": [
+      "P70.0"
+    ]
   },
   {
     "text": "hạ đường huyết sơ sinh",
-    "position": [1738, 1760],
+    "position": [
+      1738,
+      1760
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P70.3", "P70.4"]
+    "candidates": [
+      "P70.3",
+      "P70.4"
+    ]
   },
   {
     "text": "Glucose",
-    "position": [2380, 2387],
+    "position": [
+      2380,
+      2387
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4850"]
+    "candidates": [
+      "4850"
+    ]
   },
   {
     "text": "Calcium gluconate",
-    "position": [2721, 2738],
+    "position": [
+      2721,
+      2738
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1908"]
+    "candidates": [
+      "1908"
+    ]
   },
   {
     "text": "Oxygen",
-    "position": [2921, 2927],
+    "position": [
+      2921,
+      2927
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7806"]
+    "candidates": [
+      "7806"
+    ]
   }
 ]

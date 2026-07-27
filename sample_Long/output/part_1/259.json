@@ -1,7 +1,10 @@
 [
   {
     "text": "Viêm nhiều khớp",
-    "position": [369, 384],
+    "position": [
+      369,
+      384
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [417, 430],
+    "position": [
+      417,
+      430
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [434, 441],
+    "position": [
+      434,
+      441
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   }
 ]

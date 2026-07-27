@@ -1,14 +1,22 @@
 [
   {
     "text": "tiền sử nạo hút thai",
-    "position": [52, 72],
+    "position": [
+      52,
+      72
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Rubella",
-    "position": [100, 107],
+    "position": [
+      100,
+      107
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,30 +27,51 @@
   },
   {
     "text": "không sốt",
-    "position": [161, 170],
+    "position": [
+      161,
+      170
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Các thủ thuật hủy thai",
-    "position": [256, 278],
+    "position": [
+      256,
+      278
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O83.4"]
+    "candidates": [
+      "O83.4"
+    ]
   },
   {
     "text": "Mifepristone / Misoprostol",
-    "position": [306, 332],
+    "position": [
+      306,
+      332
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6964"]
+    "candidates": [
+      "6964"
+    ]
   },
   {
     "text": "Amoxicillin",
-    "position": [359, 370],
+    "position": [
+      359,
+      370
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["723", "19711"]
+    "candidates": [
+      "723",
+      "19711"
+    ]
   }
 ]

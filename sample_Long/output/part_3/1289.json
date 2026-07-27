@@ -1,35 +1,52 @@
 [
   {
     "text": "sốt cao",
-    "position": [25, 32],
+    "position": [
+      25,
+      32
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [327, 347],
+    "position": [
+      327,
+      347
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "GOT, GPT tăng cao",
-    "position": [467, 484],
+    "position": [
+      467,
+      484
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [114, 124],
+    "position": [
+      114,
+      124
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "siêu âm bụng",
-    "position": [379, 391],
+    "position": [
+      379,
+      391
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

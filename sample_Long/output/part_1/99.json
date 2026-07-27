@@ -1,35 +1,52 @@
 [
   {
     "text": "vai không đều nhau",
-    "position": [270, 288],
+    "position": [
+      270,
+      288
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "gồ lưng",
-    "position": [1166, 1173],
+    "position": [
+      1166,
+      1173
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau mỏi lưng",
-    "position": [515, 527],
+    "position": [
+      515,
+      527
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hen phế quản từ nhỏ",
-    "position": [612, 631],
+    "position": [
+      612,
+      631
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Vẹo cột sống",
-    "position": [1285, 1297],
+    "position": [
+      1285,
+      1297
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -40,16 +57,26 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [2662, 2675],
+    "position": [
+      2662,
+      2675
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Calcium gluconate",
-    "position": [3103, 3120],
+    "position": [
+      3103,
+      3120
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1908"]
+    "candidates": [
+      "1908"
+    ]
   }
 ]

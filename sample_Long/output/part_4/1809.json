@@ -1,30 +1,48 @@
 [
   {
     "text": "đau ruột thừa cấp",
-    "position": [747, 764],
+    "position": [
+      747,
+      764
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ĐTĐ tuýp 2",
-    "position": [1240, 1250],
+    "position": [
+      1240,
+      1250
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Metformin 500mg",
-    "position": [1271, 1286],
+    "position": [
+      1271,
+      1286
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Tăng huyết áp",
-    "position": [1339, 1352],
+    "position": [
+      1339,
+      1352
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -33,21 +51,32 @@
   },
   {
     "text": "Các bệnh của móng trong các bệnh khác đã phân loại ở phần khác",
-    "position": [1940, 2002],
+    "position": [
+      1940,
+      2002
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L62.8*"]
+    "candidates": [
+      "L62.8*"
+    ]
   },
   {
     "text": "Prednisolone 5mg",
-    "position": [2070, 2086],
+    "position": [
+      2070,
+      2086
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Terbinafine 250mg",
-    "position": [2143, 2160],
+    "position": [
+      2143,
+      2160
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,37 +1,60 @@
 [
   {
     "text": "Azithromycin",
-    "position": [196, 208],
+    "position": [
+      196,
+      208
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["18631"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "18631"
+    ]
   },
   {
     "text": "viêm phổi",
-    "position": [114, 123],
+    "position": [
+      114,
+      123
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhiễm khuẩn đường hô hấp",
-    "position": [232, 256],
+    "position": [
+      232,
+      256
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bố",
-    "position": [499, 501],
+    "position": [
+      499,
+      501
+    ],
     "type": "NGƯỜI_THÂN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "nhồi máu cơ tim",
-    "position": [527, 542],
+    "position": [
+      527,
+      542
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

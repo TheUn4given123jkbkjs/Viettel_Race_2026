@@ -1,44 +1,74 @@
 [
   {
     "text": "Tổn thương khớp trong bệnh ưa chảy máu (D66-D68†), vị trí không xác định",
-    "position": [85, 157],
+    "position": [
+      85,
+      157
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M36.29*"]
+    "candidates": [
+      "M36.29*"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [229, 242],
+    "position": [
+      229,
+      242
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Acetylcysteine",
-    "position": [246, 260],
+    "position": [
+      246,
+      260
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["197"]
+    "candidates": [
+      "197"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [170, 179],
+    "position": [
+      170,
+      179
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không buồn nôn",
-    "position": [181, 195],
+    "position": [
+      181,
+      195
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [26, 43],
+    "position": [
+      26,
+      43
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

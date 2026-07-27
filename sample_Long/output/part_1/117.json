@@ -1,58 +1,100 @@
 [
   {
     "text": "vô sọ",
-    "position": [1029, 1034],
+    "position": [
+      1029,
+      1034
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I61.0", "I61.1"]
+    "candidates": [
+      "I61.0",
+      "I61.1"
+    ]
   },
   {
     "text": "Các thủ thuật hủy thai",
-    "position": [1202, 1224],
+    "position": [
+      1202,
+      1224
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O83.4"]
+    "candidates": [
+      "O83.4"
+    ]
   },
   {
     "text": "ra máu âm đạo",
-    "position": [1576, 1589],
+    "position": [
+      1576,
+      1589
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "đau bụng dưới",
-    "position": [1594, 1607],
+    "position": [
+      1594,
+      1607
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Mifepristone / Misoprostol",
-    "position": [1830, 1856],
+    "position": [
+      1830,
+      1856
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6964"]
+    "candidates": [
+      "6964"
+    ]
   },
   {
     "text": "Misoprostol",
-    "position": [1845, 1856],
+    "position": [
+      1845,
+      1856
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6964", "42331"]
+    "candidates": [
+      "6964",
+      "42331"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [2770, 2783],
+    "position": [
+      2770,
+      2783
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Oxytocin",
-    "position": [2989, 2997],
+    "position": [
+      2989,
+      2997
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7824"]
+    "candidates": [
+      "7824"
+    ]
   }
 ]

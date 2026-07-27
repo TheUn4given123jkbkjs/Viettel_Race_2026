@@ -1,42 +1,66 @@
 [
   {
     "text": "Sẩy thai tự nhiên (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng ra máu chậm và nhiều quá mức)",
-    "position": [259, 359],
+    "position": [
+      259,
+      359
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O03.6"]
+    "candidates": [
+      "O03.6"
+    ]
   },
   {
     "text": "Buồng trứng đa nang",
-    "position": [765, 784],
+    "position": [
+      765,
+      784
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["E28.2"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E28.2"
+    ]
   },
   {
     "text": "ra máu âm đạo ồ ạt",
-    "position": [874, 892],
+    "position": [
+      874,
+      892
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau bụng hạ vị",
-    "position": [1746, 1760],
+    "position": [
+      1746,
+      1760
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [983, 992],
+    "position": [
+      983,
+      992
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm",
-    "position": [1053, 1060],
+    "position": [
+      1053,
+      1060
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

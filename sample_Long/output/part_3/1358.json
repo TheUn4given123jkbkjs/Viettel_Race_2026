@@ -1,30 +1,48 @@
 [
   {
     "text": "Ly thượng bì bọng nước mắc phải",
-    "position": [0, 31],
+    "position": [
+      0,
+      31
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L12.3"]
+    "candidates": [
+      "L12.3"
+    ]
   },
   {
     "text": "bọng nước",
-    "position": [13, 22],
+    "position": [
+      13,
+      22
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acyclovir",
-    "position": [227, 236],
+    "position": [
+      227,
+      236
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["281"]
+    "candidates": [
+      "281"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [248, 261],
+    "position": [
+      248,
+      261
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

@@ -1,44 +1,68 @@
 [
   {
     "text": "Bệnh khớp trong các bệnh nội tiết, dinh dưỡng và các bệnh chuyển hóa khác, vùng bả vai",
-    "position": [0, 86],
+    "position": [
+      0,
+      86
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M14.51*"]
+    "candidates": [
+      "M14.51*"
+    ]
   },
   {
     "text": "đau nhức",
-    "position": [229, 237],
+    "position": [
+      229,
+      237
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng",
-    "position": [239, 243],
+    "position": [
+      239,
+      243
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cứng khớp",
-    "position": [247, 256],
+    "position": [
+      247,
+      256
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Allopurinol",
-    "position": [586, 597],
+    "position": [
+      586,
+      597
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["519"]
+    "candidates": [
+      "519"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [601, 614],
+    "position": [
+      601,
+      614
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

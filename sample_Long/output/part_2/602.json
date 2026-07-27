@@ -1,44 +1,72 @@
 [
   {
     "text": "Ung thư phổi",
-    "position": [126, 138],
+    "position": [
+      126,
+      138
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["D02.2"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "D02.2"
+    ]
   },
   {
     "text": "Sưng đỏ quanh chân canun",
-    "position": [238, 262],
+    "position": [
+      238,
+      262
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Rỉ dịch vàng đục",
-    "position": [265, 281],
+    "position": [
+      265,
+      281
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [319, 322],
+    "position": [
+      319,
+      322
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [331, 338],
+    "position": [
+      331,
+      338
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Nhiễm trùng lỗ mở khí quản",
-    "position": [659, 685],
+    "position": [
+      659,
+      685
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J95.02"]
+    "candidates": [
+      "J95.02"
+    ]
   }
 ]

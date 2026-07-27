@@ -1,28 +1,44 @@
 [
   {
     "text": "Ciprofloxacin",
-    "position": [166, 179],
+    "position": [
+      166,
+      179
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["2551"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2551"
+    ]
   },
   {
     "text": "viêm màng não",
-    "position": [105, 118],
+    "position": [
+      105,
+      118
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [43, 50],
+    "position": [
+      43,
+      50
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Penicillin",
-    "position": [488, 498],
+    "position": [
+      488,
+      498
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": [
@@ -33,7 +49,10 @@
   },
   {
     "text": "viêm phổi",
-    "position": [217, 226],
+    "position": [
+      217,
+      226
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []

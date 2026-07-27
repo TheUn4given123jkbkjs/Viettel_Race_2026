@@ -1,28 +1,44 @@
 [
   {
     "text": "Midazolam",
-    "position": [193, 202],
+    "position": [
+      193,
+      202
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["6960"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "6960"
+    ]
   },
   {
     "text": "tăng huyết áp",
-    "position": [109, 122],
+    "position": [
+      109,
+      122
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rối loạn lo âu",
-    "position": [126, 140],
+    "position": [
+      126,
+      140
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mất ngủ",
-    "position": [242, 249],
+    "position": [
+      242,
+      249
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

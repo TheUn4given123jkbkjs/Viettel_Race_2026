@@ -1,9 +1,14 @@
 [
   {
     "text": "ung thư vú",
-    "position": [86, 96],
+    "position": [
+      86,
+      96
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "D05",
       "D05.1",
@@ -12,21 +17,30 @@
   },
   {
     "text": "Đau căng tức vú hai bên",
-    "position": [127, 150],
+    "position": [
+      127,
+      150
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đau rát vú hai bên",
-    "position": [175, 193],
+    "position": [
+      175,
+      193
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nang lan toả vú",
-    "position": [647, 662],
+    "position": [
+      647,
+      662
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -37,16 +51,24 @@
   },
   {
     "text": "Ibuprofen 400mg",
-    "position": [729, 744],
+    "position": [
+      729,
+      744
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Progesterone",
-    "position": [768, 780],
+    "position": [
+      768,
+      780
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8727"]
+    "candidates": [
+      "8727"
+    ]
   }
 ]

@@ -1,28 +1,45 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [26, 43],
+    "position": [
+      26,
+      43
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "bệnh khác của mao mạch",
-    "position": [117, 139],
+    "position": [
+      117,
+      139
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I78.8", "I78.9"]
+    "candidates": [
+      "I78.8",
+      "I78.9"
+    ]
   },
   {
     "text": "cao huyết áp",
-    "position": [53, 65],
+    "position": [
+      53,
+      65
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường loại 2",
-    "position": [69, 90],
+    "position": [
+      69,
+      90
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

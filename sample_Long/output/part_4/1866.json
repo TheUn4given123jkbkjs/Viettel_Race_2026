@@ -1,23 +1,36 @@
 [
   {
     "text": "mày đay do ánh nắng",
-    "position": [284, 303],
+    "position": [
+      284,
+      303
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L56.3"]
+    "candidates": [
+      "L56.3"
+    ]
   },
   {
     "text": "sốt nhẹ",
-    "position": [373, 380],
+    "position": [
+      373,
+      380
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [384, 401],
+    "position": [
+      384,
+      401
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

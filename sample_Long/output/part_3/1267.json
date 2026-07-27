@@ -1,35 +1,54 @@
 [
   {
     "text": "đau khớp",
-    "position": [26, 34],
+    "position": [
+      26,
+      34
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [54, 63],
+    "position": [
+      54,
+      63
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["5640"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "đau thượng vị",
-    "position": [102, 115],
+    "position": [
+      102,
+      115
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm loét dạ dày",
-    "position": [203, 219],
+    "position": [
+      203,
+      219
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nội soi",
-    "position": [252, 259],
+    "position": [
+      252,
+      259
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

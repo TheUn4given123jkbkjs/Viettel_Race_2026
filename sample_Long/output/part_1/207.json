@@ -1,42 +1,64 @@
 [
   {
     "text": "sốt nhẹ",
-    "position": [112, 119],
+    "position": [
+      112,
+      119
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngựcvà",
-    "position": [121, 131],
+    "position": [
+      121,
+      131
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [35, 37],
+    "position": [
+      35,
+      37
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Hội chứng sau mổ tim",
-    "position": [679, 699],
+    "position": [
+      679,
+      699
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I97.0"]
+    "candidates": [
+      "I97.0"
+    ]
   },
   {
     "text": "Aspirin 500mg",
-    "position": [723, 736],
+    "position": [
+      723,
+      736
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Colchicine 0.5mg: 1 viên x 2 lần/ngày, uống",
-    "position": [739, 782],
+    "position": [
+      739,
+      782
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

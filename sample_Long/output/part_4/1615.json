@@ -1,49 +1,78 @@
 [
   {
     "text": "đau tức ngực trái",
-    "position": [54, 71],
+    "position": [
+      54,
+      71
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường tuýp 2",
-    "position": [108, 129],
+    "position": [
+      108,
+      129
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "THA",
-    "position": [448, 451],
+    "position": [
+      448,
+      451
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Y06"
+    ]
   },
   {
     "text": "đau tức ngực sau xương ức",
-    "position": [570, 595],
+    "position": [
+      570,
+      595
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hẹp 85% nhánh LAD",
-    "position": [629, 646],
+    "position": [
+      629,
+      646
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh tim mạch do xơ vữa động mạch vành",
-    "position": [693, 731],
+    "position": [
+      693,
+      731
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I25.0"]
+    "candidates": [
+      "I25.0"
+    ]
   },
   {
     "text": "Viêm ruột thừa cấp",
-    "position": [967, 985],
+    "position": [
+      967,
+      985
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

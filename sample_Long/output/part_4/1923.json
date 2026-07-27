@@ -1,37 +1,62 @@
 [
   {
     "text": "không đau bụng",
-    "position": [71, 85],
+    "position": [
+      71,
+      85
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [89, 98],
+    "position": [
+      89,
+      98
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Đi ngoài phân đen",
-    "position": [176, 193],
+    "position": [
+      176,
+      193
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K92.1"]
+    "candidates": [
+      "K92.1"
+    ]
   },
   {
     "text": "Omeprazole",
-    "position": [312, 322],
+    "position": [
+      312,
+      322
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7646"]
+    "candidates": [
+      "7646"
+    ]
   },
   {
     "text": "Bismuth",
-    "position": [344, 351],
+    "position": [
+      344,
+      351
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1599"]
+    "candidates": [
+      "1599"
+    ]
   }
 ]

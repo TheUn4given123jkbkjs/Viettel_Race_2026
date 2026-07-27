@@ -1,42 +1,66 @@
 [
   {
     "text": "Mẹ mắc bệnh Crohn",
-    "position": [309, 326],
+    "position": [
+      309,
+      326
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [623, 640],
+    "position": [
+      623,
+      640
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sưng nhẹ",
-    "position": [871, 879],
+    "position": [
+      871,
+      879
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp trẻ em trong bệnh viêm loét đại tràng (K51.-†), vùng bả vai",
-    "position": [1422, 1491],
+    "position": [
+      1422,
+      1491
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M09.21*"]
+    "candidates": [
+      "M09.21*"
+    ]
   },
   {
     "text": "Prednisolone 5mg",
-    "position": [1537, 1553],
+    "position": [
+      1537,
+      1553
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Methotrexate 10mg",
-    "position": [1593, 1610],
+    "position": [
+      1593,
+      1610
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

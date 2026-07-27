@@ -1,7 +1,10 @@
 [
   {
     "text": "Viêm khớp thiếu niên sau vảy nến (K50.†)",
-    "position": [13, 53],
+    "position": [
+      13,
+      53
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [
       ""
@@ -14,20 +17,30 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [523, 536],
+    "position": [
+      523,
+      536
+    ],
     "type": "THUỐC",
     "assertions": [
       ""
     ],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Prednisolone",
-    "position": [584, 596],
+    "position": [
+      584,
+      596
+    ],
     "type": "THUỐC",
     "assertions": [
       ""
     ],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   }
 ]

@@ -1,9 +1,14 @@
 [
   {
     "text": "lạc nội mạc tử cung",
-    "position": [84, 103],
+    "position": [
+      84,
+      103
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "N80.4",
       "N80.5",
@@ -12,44 +17,70 @@
   },
   {
     "text": "u xơ tử cung",
-    "position": [237, 249],
+    "position": [
+      237,
+      249
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau vùng chậu mãn tính",
-    "position": [322, 344],
+    "position": [
+      322,
+      344
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [608, 617],
+    "position": [
+      608,
+      617
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [639, 647],
+    "position": [
+      639,
+      647
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "siêu âm đầu dò âm đạo",
-    "position": [692, 713],
+    "position": [
+      692,
+      713
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đau và tình trạng khác liên quan đến cơ quan sinh dục nữ và chu kỳ kinh nguyệt",
-    "position": [902, 980],
+    "position": [
+      902,
+      980
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N94"]
+    "candidates": [
+      "N94"
+    ]
   }
 ]

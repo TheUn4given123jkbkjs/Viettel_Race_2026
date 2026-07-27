@@ -1,35 +1,52 @@
 [
   {
     "text": "Các u nang buồng trứng khác và không đặc hiệu",
-    "position": [298, 343],
+    "position": [
+      298,
+      343
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N83.2"]
+    "candidates": [
+      "N83.2"
+    ]
   },
   {
     "text": "viêm vùng chậu",
-    "position": [96, 110],
+    "position": [
+      96,
+      110
+    ],
     "type": "BỆNH_NỀN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau bụng dưới",
-    "position": [193, 206],
+    "position": [
+      193,
+      206
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chảy máu bất thường",
-    "position": [210, 229],
+    "position": [
+      210,
+      229
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [391, 401],
+    "position": [
+      391,
+      401
+    ],
     "type": "ĐIỆU_TRỊ",
     "assertions": [],
     "candidates": []

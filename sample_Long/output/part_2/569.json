@@ -1,37 +1,58 @@
 [
   {
     "text": "bỏng nắng độ hai",
-    "position": [211, 227],
+    "position": [
+      211,
+      227
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L55.1"]
+    "candidates": [
+      "L55.1"
+    ]
   },
   {
     "text": "đau",
-    "position": [125, 128],
+    "position": [
+      125,
+      128
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đỏ",
-    "position": [132, 134],
+    "position": [
+      132,
+      134
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [270, 279],
+    "position": [
+      270,
+      279
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không buồn nôn",
-    "position": [281, 295],
+    "position": [
+      281,
+      295
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

@@ -1,70 +1,102 @@
 [
   {
     "text": "THA",
-    "position": [116, 119],
+    "position": [
+      116,
+      119
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [311, 314],
+    "position": [
+      311,
+      314
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [316, 324],
+    "position": [
+      316,
+      324
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn mửa",
-    "position": [328, 335],
+    "position": [
+      328,
+      335
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu toàn phần (CBC)",
-    "position": [534, 564],
+    "position": [
+      534,
+      564
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm sinh hóa (SGOT, SGPT)",
-    "position": [646, 678],
+    "position": [
+      646,
+      678
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm chức năng gan và mật (GGT, AP)",
-    "position": [729, 770],
+    "position": [
+      729,
+      770
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Kết quả xét nghiệm máu toàn phần (CBC)",
-    "position": [526, 564],
+    "position": [
+      526,
+      564
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Kết quả xét nghiệm sinh hóa (SGOT, SGPT)",
-    "position": [638, 678],
+    "position": [
+      638,
+      678
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Kết quả xét nghiệm chức năng gan và mật (GGT, AP)",
-    "position": [721, 770],
+    "position": [
+      721,
+      770
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

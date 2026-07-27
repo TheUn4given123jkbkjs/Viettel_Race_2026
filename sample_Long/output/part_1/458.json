@@ -1,7 +1,10 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [53, 66],
+    "position": [
+      53,
+      66
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,7 +15,10 @@
   },
   {
     "text": "bệnh tim thiếu máu cục bộ",
-    "position": [70, 95],
+    "position": [
+      70,
+      95
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -23,30 +29,48 @@
   },
   {
     "text": "đau thắt ngực",
-    "position": [146, 159],
+    "position": [
+      146,
+      159
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [164, 171],
+    "position": [
+      164,
+      171
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Isosorbide dinitratte",
-    "position": [255, 276],
+    "position": [
+      255,
+      276
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [344, 351],
+    "position": [
+      344,
+      351
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["1191"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1191"
+    ]
   }
 ]

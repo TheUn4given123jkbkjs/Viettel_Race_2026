@@ -1,7 +1,10 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [89, 102],
+    "position": [
+      89,
+      102
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,44 +15,72 @@
   },
   {
     "text": "đái tháo đường type 2",
-    "position": [192, 213],
+    "position": [
+      192,
+      213
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "rụng tóc",
-    "position": [445, 453],
+    "position": [
+      445,
+      453
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [546, 554],
+    "position": [
+      546,
+      554
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [567, 574],
+    "position": [
+      567,
+      574
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [642, 645],
+    "position": [
+      642,
+      645
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Rụng tóc do lắng đọng chất nhầy",
-    "position": [1326, 1357],
+    "position": [
+      1326,
+      1357
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L65.2"]
+    "candidates": [
+      "L65.2"
+    ]
   }
 ]

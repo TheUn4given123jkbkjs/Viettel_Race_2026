@@ -1,7 +1,10 @@
 [
   {
     "text": "Hồng ban trong các bệnh đã phân loại ở phần khác",
-    "position": [456, 504],
+    "position": [
+      456,
+      504
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,9 +15,14 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [275, 288],
+    "position": [
+      275,
+      288
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

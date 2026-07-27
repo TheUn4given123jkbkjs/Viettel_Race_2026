@@ -1,37 +1,60 @@
 [
   {
     "text": "đau bụng hạ vị",
-    "position": [124, 138],
+    "position": [
+      124,
+      138
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ra máu âm đạo",
-    "position": [148, 161],
+    "position": [
+      148,
+      161
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Phá thai chưa xác định rõ (Không hoàn toàn, không có biến chứng)",
-    "position": [239, 305],
+    "position": [
+      239,
+      305
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O06.4"]
+    "candidates": [
+      "O06.4"
+    ]
   },
   {
     "text": "Misoprostol",
-    "position": [331, 342],
+    "position": [
+      331,
+      342
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6964", "42331"]
+    "candidates": [
+      "6964",
+      "42331"
+    ]
   },
   {
     "text": "Amoxicillin",
-    "position": [381, 392],
+    "position": [
+      381,
+      392
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["723", "19711"]
+    "candidates": [
+      "723",
+      "19711"
+    ]
   }
 ]

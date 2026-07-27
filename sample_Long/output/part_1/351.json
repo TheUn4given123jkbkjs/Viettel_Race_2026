@@ -1,16 +1,26 @@
 [
   {
     "text": "Phản ứng quá mẫn đường hô hấp trên, vị trí không xác định",
-    "position": [426, 483],
+    "position": [
+      426,
+      483
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J39.3"]
+    "candidates": [
+      "J39.3"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [354, 361],
+    "position": [
+      354,
+      361
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   }
 ]

@@ -1,56 +1,90 @@
 [
   {
     "text": "THA",
-    "position": [199, 202],
+    "position": [
+      199,
+      202
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["Y06"]
+    "candidates": [
+      "Y06"
+    ]
   },
   {
     "text": "Cytarabine",
-    "position": [298, 308],
+    "position": [
+      298,
+      308
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["3041"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3041"
+    ]
   },
   {
     "text": "khó thở",
-    "position": [597, 604],
+    "position": [
+      597,
+      604
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [814, 822],
+    "position": [
+      814,
+      822
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [964, 968],
+    "position": [
+      964,
+      968
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [1050, 1058],
+    "position": [
+      1050,
+      1058
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [1251, 1262],
+    "position": [
+      1251,
+      1262
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "viêm phổi cộng đồng",
-    "position": [1302, 1321],
+    "position": [
+      1302,
+      1321
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

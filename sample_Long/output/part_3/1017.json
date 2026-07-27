@@ -1,51 +1,76 @@
 [
   {
     "text": "Khí hư ra nhiều",
-    "position": [269, 284],
+    "position": [
+      269,
+      284
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ra máu tươi lượng ít",
-    "position": [370, 390],
+    "position": [
+      370,
+      390
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Soi dịch âm đạo",
-    "position": [1243, 1258],
+    "position": [
+      1243,
+      1258
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tạp khuẩn (++)",
-    "position": [1260, 1274],
+    "position": [
+      1260,
+      1274
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xước & lộn niêm mạc cổ tử cung",
-    "position": [1395, 1425],
+    "position": [
+      1395,
+      1425
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N86"]
+    "candidates": [
+      "N86"
+    ]
   },
   {
     "text": "Metronidazole 500mg",
-    "position": [1455, 1474],
+    "position": [
+      1455,
+      1474
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Povidone-iodine",
-    "position": [1517, 1532],
+    "position": [
+      1517,
+      1532
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8611"]
+    "candidates": [
+      "8611"
+    ]
   }
 ]

@@ -1,16 +1,26 @@
 [
   {
     "text": "Acetaminophen",
-    "position": [205, 218],
+    "position": [
+      205,
+      218
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Albendazole",
-    "position": [222, 233],
+    "position": [
+      222,
+      233
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["430"]
+    "candidates": [
+      "430"
+    ]
   }
 ]

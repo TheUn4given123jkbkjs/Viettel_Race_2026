@@ -1,42 +1,60 @@
 [
   {
     "text": "sốt",
-    "position": [65, 68],
+    "position": [
+      65,
+      68
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [70, 77],
+    "position": [
+      70,
+      77
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [81, 88],
+    "position": [
+      81,
+      88
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [491, 511],
+    "position": [
+      491,
+      511
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tốc độ máu lắng tăng",
-    "position": [604, 624],
+    "position": [
+      604,
+      624
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nồng độ troponin trong máu tăng",
-    "position": [628, 659],
+    "position": [
+      628,
+      659
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

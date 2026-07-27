@@ -1,56 +1,84 @@
 [
   {
     "text": "khó thở khi gắng sức",
-    "position": [164, 184],
+    "position": [
+      164,
+      184
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [317, 325],
+    "position": [
+      317,
+      325
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt nhẹ",
-    "position": [510, 526],
+    "position": [
+      510,
+      526
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [608, 616],
+    "position": [
+      608,
+      616
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (ECG)",
-    "position": [1010, 1027],
+    "position": [
+      1010,
+      1027
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST chênh lên ở các chuyển đạo thành trước V1 đến V6",
-    "position": [1038, 1089],
+    "position": [
+      1038,
+      1089
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm Troponin I",
-    "position": [1093, 1114],
+    "position": [
+      1093,
+      1114
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "4.2 ng/mL",
-    "position": [1134, 1143],
+    "position": [
+      1134,
+      1143
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,56 +1,84 @@
 [
   {
     "text": "viêm da tiếp xúc",
-    "position": [5, 21],
+    "position": [
+      5,
+      21
+    ],
     "type": "TÊN_BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hóa chất",
-    "position": [236, 244],
+    "position": [
+      236,
+      244
+    ],
     "type": "NGUYÊN_NHÂN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thực vật",
-    "position": [246, 254],
+    "position": [
+      246,
+      254
+    ],
     "type": "NGUYÊN_NHÂN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "kim loại",
-    "position": [256, 264],
+    "position": [
+      256,
+      264
+    ],
     "type": "NGUYÊN_NHÂN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tetracycline",
-    "position": [581, 593],
+    "position": [
+      581,
+      593
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["10395"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "10395"
+    ]
   },
   {
     "text": "đỏ",
-    "position": [363, 365],
+    "position": [
+      363,
+      365
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng",
-    "position": [367, 371],
+    "position": [
+      367,
+      371
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ngứa",
-    "position": [373, 377],
+    "position": [
+      373,
+      377
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

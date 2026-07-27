@@ -1,42 +1,66 @@
 [
   {
     "text": "Phytonadione",
-    "position": [309, 321],
+    "position": [
+      309,
+      321
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["8308"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "8308"
+    ]
   },
   {
     "text": "ho",
-    "position": [448, 450],
+    "position": [
+      448,
+      450
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [668, 680],
+    "position": [
+      668,
+      680
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [752, 760],
+    "position": [
+      752,
+      760
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "ran ẩm",
-    "position": [1460, 1466],
+    "position": [
+      1460,
+      1466
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm phế quản cấp",
-    "position": [2091, 2108],
+    "position": [
+      2091,
+      2108
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -47,9 +71,14 @@
   },
   {
     "text": "ceftriaxone",
-    "position": [2196, 2207],
+    "position": [
+      2196,
+      2207
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

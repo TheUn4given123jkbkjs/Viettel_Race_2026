@@ -1,16 +1,26 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [70, 87],
+    "position": [
+      70,
+      87
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "sỏi mật",
-    "position": [248, 255],
+    "position": [
+      248,
+      255
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "K80.50",
       "K80.51",
@@ -19,37 +29,54 @@
   },
   {
     "text": "đau bụng âm ỉ vùng thượng vị",
-    "position": [315, 343],
+    "position": [
+      315,
+      343
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [384, 396],
+    "position": [
+      384,
+      396
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT scan ổ bụng",
-    "position": [681, 695],
+    "position": [
+      681,
+      695
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khí trong đường mật",
-    "position": [749, 768],
+    "position": [
+      749,
+      768
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dò túi mật",
-    "position": [924, 934],
+    "position": [
+      924,
+      934
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K82.3"]
+    "candidates": [
+      "K82.3"
+    ]
   }
 ]

@@ -1,56 +1,84 @@
 [
   {
     "text": "khó thở",
-    "position": [443, 450],
+    "position": [
+      443,
+      450
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [754, 762],
+    "position": [
+      754,
+      762
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [1064, 1073],
+    "position": [
+      1064,
+      1073
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [1146, 1163],
+    "position": [
+      1146,
+      1163
+    ],
     "type": "TRI_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "điện tâm đồ",
-    "position": [2641, 2652],
+    "position": [
+      2641,
+      2652
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [2716, 2724],
+    "position": [
+      2716,
+      2724
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp xoang",
-    "position": [3028, 3038],
+    "position": [
+      3028,
+      3038
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST chênh xuống",
-    "position": [3110, 3124],
+    "position": [
+      3110,
+      3124
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

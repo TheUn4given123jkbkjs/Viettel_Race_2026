@@ -1,9 +1,14 @@
 [
   {
     "text": "suy tim",
-    "position": [248, 255],
+    "position": [
+      248,
+      255
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I11.0",
       "I11.9",
@@ -12,28 +17,40 @@
   },
   {
     "text": "mệt mỏiq",
-    "position": [467, 475],
+    "position": [
+      467,
+      475
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hồi hộp",
-    "position": [505, 512],
+    "position": [
+      505,
+      512
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đánh trống ngực",
-    "position": [514, 529],
+    "position": [
+      514,
+      529
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh tim khác trong bệnh khác, phân loại nơi khác",
-    "position": [1150, 1199],
+    "position": [
+      1150,
+      1199
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -44,9 +61,14 @@
   },
   {
     "text": "Propylthiouracil",
-    "position": [1284, 1300],
+    "position": [
+      1284,
+      1300
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8794"]
+    "candidates": [
+      "8794"
+    ]
   }
 ]

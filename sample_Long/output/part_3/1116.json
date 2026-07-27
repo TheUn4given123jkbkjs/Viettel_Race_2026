@@ -1,63 +1,96 @@
 [
   {
     "text": "hồi hộp đánh trống ngực",
-    "position": [900, 923],
+    "position": [
+      900,
+      923
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [1002, 1009],
+    "position": [
+      1002,
+      1009
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [1092, 1100],
+    "position": [
+      1092,
+      1100
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [1120, 1123],
+    "position": [
+      1120,
+      1123
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (ECG)",
-    "position": [1256, 1273],
+    "position": [
+      1256,
+      1273
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp tim nhanh không đều, mất sóng P",
-    "position": [1294, 1330],
+    "position": [
+      1294,
+      1330
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm tim Doppler",
-    "position": [1383, 1402],
+    "position": [
+      1383,
+      1402
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "kích thước nhĩ trái giãn nhẹ",
-    "position": [1412, 1440],
+    "position": [
+      1412,
+      1440
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Định lượng TSH, FT4",
-    "position": [1551, 1570],
+    "position": [
+      1551,
+      1570
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

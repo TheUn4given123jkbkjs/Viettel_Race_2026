@@ -1,23 +1,42 @@
 [
   {
     "text": "Immune Globulin",
-    "position": [106, 121],
+    "position": [
+      106,
+      121
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["1426680"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1426680"
+    ]
   },
   {
     "text": "buồn nôn",
-    "position": [279, 287],
+    "position": [
+      279,
+      287
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["R11"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "R11"
+    ]
   },
   {
     "text": "sốt",
-    "position": [300, 303],
+    "position": [
+      300,
+      303
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": [
       "A92.30",
       "R50.0",

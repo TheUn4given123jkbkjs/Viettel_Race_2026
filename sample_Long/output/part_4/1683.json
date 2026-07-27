@@ -1,37 +1,60 @@
 [
   {
     "text": "Bệnh tim cấp khác do thấp",
-    "position": [28, 53],
+    "position": [
+      28,
+      53
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I01.8"]
+    "candidates": [
+      "I01.8"
+    ]
   },
   {
     "text": "viêm khớp",
-    "position": [94, 103],
+    "position": [
+      94,
+      103
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [355, 372],
+    "position": [
+      355,
+      372
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [324, 333],
+    "position": [
+      324,
+      333
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [397, 404],
+    "position": [
+      397,
+      404
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

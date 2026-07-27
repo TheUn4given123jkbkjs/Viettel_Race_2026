@@ -1,23 +1,38 @@
 [
   {
     "text": "Bệnh phổi mô kẽ cấp tính do thuốc",
-    "position": [57, 90],
+    "position": [
+      57,
+      90
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J70.2"]
+    "candidates": [
+      "J70.2"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [272, 279],
+    "position": [
+      272,
+      279
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [287, 298],
+    "position": [
+      287,
+      298
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

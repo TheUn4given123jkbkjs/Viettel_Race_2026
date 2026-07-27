@@ -1,14 +1,22 @@
 [
   {
     "text": "Cơn đau thắt ngực không ổn định",
-    "position": [64, 95],
+    "position": [
+      64,
+      95
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I20.0"]
+    "candidates": [
+      "I20.0"
+    ]
   },
   {
     "text": "nhồi máu cơ tim cấp",
-    "position": [385, 404],
+    "position": [
+      385,
+      404
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,37 +27,60 @@
   },
   {
     "text": "đau thắt ngực",
-    "position": [68, 81],
+    "position": [
+      68,
+      81
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Phytonadione",
-    "position": [652, 664],
+    "position": [
+      652,
+      664
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["8308"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "8308"
+    ]
   },
   {
     "text": "vã mồ hôi lạnh",
-    "position": [1060, 1074],
+    "position": [
+      1060,
+      1074
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [1137, 1144],
+    "position": [
+      1137,
+      1144
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Amlodipine",
-    "position": [1225, 1235],
+    "position": [
+      1225,
+      1235
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   }
 ]

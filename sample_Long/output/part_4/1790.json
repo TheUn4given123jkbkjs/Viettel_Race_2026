@@ -1,49 +1,74 @@
 [
   {
     "text": "buồn nón",
-    "position": [35, 43],
+    "position": [
+      35,
+      43
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bố bệnh nhân bị tim mạch",
-    "position": [176, 200],
+    "position": [
+      176,
+      200
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "ECG",
-    "position": [291, 294],
+    "position": [
+      291,
+      294
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm lipid máu",
-    "position": [297, 317],
+    "position": [
+      297,
+      317
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm chức năng gan",
-    "position": [320, 344],
+    "position": [
+      320,
+      344
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Norml",
-    "position": [543, 548],
+    "position": [
+      543,
+      548
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thấp",
-    "position": [583, 587],
+    "position": [
+      583,
+      587
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

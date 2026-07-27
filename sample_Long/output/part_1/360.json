@@ -1,35 +1,52 @@
 [
   {
     "text": "hoại tử động mạch",
-    "position": [529, 546],
+    "position": [
+      529,
+      546
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I77.5"]
+    "candidates": [
+      "I77.5"
+    ]
   },
   {
     "text": "cao huyết áp",
-    "position": [57, 69],
+    "position": [
+      57,
+      69
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [156, 163],
+    "position": [
+      156,
+      163
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy nhược cơ thể",
-    "position": [252, 268],
+    "position": [
+      252,
+      268
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "giảm thị lực",
-    "position": [272, 284],
+    "position": [
+      272,
+      284
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

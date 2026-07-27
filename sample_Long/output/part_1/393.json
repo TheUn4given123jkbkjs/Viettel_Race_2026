@@ -1,44 +1,64 @@
 [
   {
     "text": "nhồi máu cơ tim",
-    "position": [123, 138],
+    "position": [
+      123,
+      138
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [479, 487],
+    "position": [
+      479,
+      487
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "10 ng/mL",
-    "position": [489, 497],
+    "position": [
+      489,
+      497
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sốt",
-    "position": [556, 559],
+    "position": [
+      556,
+      559
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "38.5°C",
-    "position": [608, 614],
+    "position": [
+      608,
+      614
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [250, 257],
+    "position": [
+      250,
+      257
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   }
 ]

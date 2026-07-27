@@ -1,28 +1,42 @@
 [
   {
     "text": "Suy thận mãn tính",
-    "position": [0, 17],
+    "position": [
+      0,
+      17
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N18"]
+    "candidates": [
+      "N18"
+    ]
   },
   {
     "text": "mệt mỏi",
-    "position": [272, 279],
+    "position": [
+      272,
+      279
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [783, 796],
+    "position": [
+      783,
+      796
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết áp",
-    "position": [616, 624],
+    "position": [
+      616,
+      624
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

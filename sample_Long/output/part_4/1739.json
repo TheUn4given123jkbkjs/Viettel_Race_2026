@@ -1,23 +1,36 @@
 [
   {
     "text": "Bệnh khớp sau nhiễm giang mai, vị trí không xác định",
-    "position": [2483, 2535],
+    "position": [
+      2483,
+      2535
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M03.19*"]
+    "candidates": [
+      "M03.19*"
+    ]
   },
   {
     "text": "đau khớpp",
-    "position": [894, 903],
+    "position": [
+      894,
+      903
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [482, 495],
+    "position": [
+      482,
+      495
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -26,35 +39,52 @@
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [1540, 1557],
+    "position": [
+      1540,
+      1557
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghệm RPR",
-    "position": [1797, 1810],
+    "position": [
+      1797,
+      1810
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "TPHA dương tính",
-    "position": [1875, 1890],
+    "position": [
+      1875,
+      1890
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng khớp gối trái",
-    "position": [1461, 1479],
+    "position": [
+      1461,
+      1479
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cứng khớp buổi sáng",
-    "position": [1164, 1183],
+    "position": [
+      1164,
+      1183
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

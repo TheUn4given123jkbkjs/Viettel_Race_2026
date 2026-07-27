@@ -1,42 +1,64 @@
 [
   {
     "text": "giảm oxy máu của thai nhi trong tử cung chưa xác định",
-    "position": [80, 133],
+    "position": [
+      80,
+      133
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P20.9"]
+    "candidates": [
+      "P20.9"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [353, 366],
+    "position": [
+      353,
+      366
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "cao huyết áp",
-    "position": [171, 183],
+    "position": [
+      171,
+      183
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường thai kỳ",
-    "position": [187, 205],
+    "position": [
+      187,
+      205
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm",
-    "position": [465, 472],
+    "position": [
+      465,
+      472
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [476, 490],
+    "position": [
+      476,
+      490
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

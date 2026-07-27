@@ -1,49 +1,78 @@
 [
   {
     "text": "dễ bầm tím",
-    "position": [378, 388],
+    "position": [
+      378,
+      388
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "chảy máu rốn nặgn",
-    "position": [771, 788],
+    "position": [
+      771,
+      788
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chảy máu rốn nặng của trẻ sơ sinh",
-    "position": [1713, 1746],
+    "position": [
+      1713,
+      1746
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P51.0"]
+    "candidates": [
+      "P51.0"
+    ]
   },
   {
     "text": "Phytonadionee",
-    "position": [1925, 1938],
+    "position": [
+      1925,
+      1938
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tranexamic acid",
-    "position": [2030, 2045],
+    "position": [
+      2030,
+      2045
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["10691"]
+    "candidates": [
+      "10691"
+    ]
   },
   {
     "text": "Sodium chloride",
-    "position": [2199, 2214],
+    "position": [
+      2199,
+      2214
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["9863"]
+    "candidates": [
+      "9863"
+    ]
   },
   {
     "text": "troponin",
-    "position": [2430, 2438],
+    "position": [
+      2430,
+      2438
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

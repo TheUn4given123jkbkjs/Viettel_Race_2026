@@ -1,56 +1,86 @@
 [
   {
     "text": "Lupus ban đỏ do thuốc",
-    "position": [43, 64],
+    "position": [
+      43,
+      64
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M32.0"]
+    "candidates": [
+      "M32.0"
+    ]
   },
   {
     "text": "Hydralazine",
-    "position": [490, 501],
+    "position": [
+      490,
+      501
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["5470"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "5470"
+    ]
   },
   {
     "text": "đau khớp",
-    "position": [791, 799],
+    "position": [
+      791,
+      799
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phát ban",
-    "position": [870, 878],
+    "position": [
+      870,
+      878
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "kháng thể kháng nhân",
-    "position": [952, 972],
+    "position": [
+      952,
+      972
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "dương tính",
-    "position": [1020, 1030],
+    "position": [
+      1020,
+      1030
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "NSAID",
-    "position": [1342, 1347],
+    "position": [
+      1342,
+      1347
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "corticosteroid",
-    "position": [1430, 1444],
+    "position": [
+      1430,
+      1444
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,35 +1,56 @@
 [
   {
     "text": "khó chịu vùng bụng",
-    "position": [69, 87],
+    "position": [
+      69,
+      87
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Rối loạn của phúc mạc, không đặc hiệu",
-    "position": [306, 343],
+    "position": [
+      306,
+      343
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K66.9"]
+    "candidates": [
+      "K66.9"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [357, 374],
+    "position": [
+      357,
+      374
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [378, 387],
+    "position": [
+      378,
+      387
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "viêm dạ dày",
-    "position": [164, 175],
+    "position": [
+      164,
+      175
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

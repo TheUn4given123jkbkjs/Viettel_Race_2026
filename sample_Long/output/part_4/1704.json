@@ -1,14 +1,22 @@
 [
   {
     "text": "u xơ tử cung",
-    "position": [240, 252],
+    "position": [
+      240,
+      252
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "lạc nội mạc tử cung",
-    "position": [106, 125],
+    "position": [
+      106,
+      125
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,44 +27,74 @@
   },
   {
     "text": "đau bụng kinh",
-    "position": [600, 613],
+    "position": [
+      600,
+      613
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đau kinh thứ phát",
-    "position": [1761, 1778],
+    "position": [
+      1761,
+      1778
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N94.5"]
+    "candidates": [
+      "N94.5"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [2067, 2076],
+    "position": [
+      2067,
+      2076
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Ethinylestradiol / Levonorgestrel",
-    "position": [2334, 2367],
+    "position": [
+      2334,
+      2367
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["214558"]
+    "candidates": [
+      "214558"
+    ]
   },
   {
     "text": "Alverine",
-    "position": [2528, 2536],
+    "position": [
+      2528,
+      2536
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17627"]
+    "candidates": [
+      "17627"
+    ]
   },
   {
     "text": "acetaminophen",
-    "position": [1308, 1321],
+    "position": [
+      1308,
+      1321
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["161"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "161"
+    ]
   }
 ]

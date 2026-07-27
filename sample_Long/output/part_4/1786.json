@@ -1,21 +1,36 @@
 [
   {
     "text": "biến chứng của thủ thuật trong tử cung không phân loại nơi khác",
-    "position": [149, 212],
+    "position": [
+      149,
+      212
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["P96.5"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "P96.5"
+    ]
   },
   {
     "text": "buồn nôn",
-    "position": [548, 556],
+    "position": [
+      548,
+      556
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "**********",
-    "position": [585, 595],
+    "position": [
+      585,
+      595
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

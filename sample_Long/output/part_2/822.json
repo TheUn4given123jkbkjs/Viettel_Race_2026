@@ -1,42 +1,64 @@
 [
   {
     "text": "Viêm đốt sống do Brucella (A23.-†), vùng chậu và đùi",
-    "position": [85, 137],
+    "position": [
+      85,
+      137
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M49.15*"]
+    "candidates": [
+      "M49.15*"
+    ]
   },
   {
     "text": "không ho",
-    "position": [598, 606],
+    "position": [
+      598,
+      606
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Đau dữ dội cột sống thắt lưng",
-    "position": [851, 880],
+    "position": [
+      851,
+      880
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sốt âm ỉ",
-    "position": [911, 919],
+    "position": [
+      911,
+      919
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Doxycycline 100mg",
-    "position": [1421, 1438],
+    "position": [
+      1421,
+      1438
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Rifampin 600mg",
-    "position": [1479, 1493],
+    "position": [
+      1479,
+      1493
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

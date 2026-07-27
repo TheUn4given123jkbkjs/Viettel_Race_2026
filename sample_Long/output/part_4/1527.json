@@ -1,7 +1,10 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [295, 308],
+    "position": [
+      295,
+      308
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,9 +15,14 @@
   },
   {
     "text": "ung thư cổ tử cung",
-    "position": [433, 451],
+    "position": [
+      433,
+      451
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "D06",
       "D06.7",
@@ -23,37 +31,60 @@
   },
   {
     "text": "khối phồng",
-    "position": [927, 937],
+    "position": [
+      927,
+      937
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [1536, 1544],
+    "position": [
+      1536,
+      1544
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Sa tử cung âm đạo không hoàn toàn",
-    "position": [2148, 2181],
+    "position": [
+      2148,
+      2181
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N81.2"]
+    "candidates": [
+      "N81.2"
+    ]
   },
   {
     "text": "Povidone-iodine",
-    "position": [2520, 2535],
+    "position": [
+      2520,
+      2535
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8611"]
+    "candidates": [
+      "8611"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [2824, 2837],
+    "position": [
+      2824,
+      2837
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

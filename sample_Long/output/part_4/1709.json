@@ -1,49 +1,72 @@
 [
   {
     "text": "mệt mỏi",
-    "position": [46, 53],
+    "position": [
+      46,
+      53
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [95, 102],
+    "position": [
+      95,
+      102
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [225, 245],
+    "position": [
+      225,
+      245
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nồng độ hemoglobin thấp",
-    "position": [338, 361],
+    "position": [
+      338,
+      361
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [414, 431],
+    "position": [
+      414,
+      431
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm sinh hóa",
-    "position": [247, 266],
+    "position": [
+      247,
+      266
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hàm lượng bilirubin trong máu tăng cao",
-    "position": [363, 401],
+    "position": [
+      363,
+      401
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

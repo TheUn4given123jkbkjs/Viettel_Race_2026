@@ -1,35 +1,52 @@
 [
   {
     "text": "đau vùng thượng vị",
-    "position": [25, 43],
+    "position": [
+      25,
+      43
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ợ chua",
-    "position": [63, 69],
+    "position": [
+      63,
+      69
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ợ chua",
-    "position": [63, 69],
+    "position": [
+      63,
+      69
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "nội soi dạ dày thực quản",
-    "position": [226, 250],
+    "position": [
+      226,
+      250
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm vi khuẩn HP qua hơi thở",
-    "position": [254, 288],
+    "position": [
+      254,
+      288
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

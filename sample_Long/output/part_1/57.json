@@ -1,49 +1,72 @@
 [
   {
     "text": "đau tức vùng hạ sườn phải",
-    "position": [44, 69],
+    "position": [
+      44,
+      69
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [91, 98],
+    "position": [
+      91,
+      98
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng da",
-    "position": [306, 313],
+    "position": [
+      306,
+      313
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [598, 615],
+    "position": [
+      598,
+      615
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "vàng mắt nhẹ",
-    "position": [790, 802],
+    "position": [
+      790,
+      802
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "gan to",
-    "position": [855, 861],
+    "position": [
+      855,
+      861
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh gan đặc hiệu khác",
-    "position": [941, 963],
+    "position": [
+      941,
+      963
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -54,7 +77,10 @@
   },
   {
     "text": "Bilirubin toàn phần tăng cao",
-    "position": [1609, 1637],
+    "position": [
+      1609,
+      1637
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

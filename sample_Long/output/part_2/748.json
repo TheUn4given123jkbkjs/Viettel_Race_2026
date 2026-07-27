@@ -1,7 +1,10 @@
 [
   {
     "text": "các bệnh nhiễm khuẩn được phân loại ở nơi khác",
-    "position": [243, 289],
+    "position": [
+      243,
+      289
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Ibuprofen",
-    "position": [434, 443],
+    "position": [
+      434,
+      443
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [417, 430],
+    "position": [
+      417,
+      430
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

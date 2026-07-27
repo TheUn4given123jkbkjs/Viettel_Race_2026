@@ -1,23 +1,39 @@
 [
   {
     "text": "Viêm da tiếp xúc kích ứng do mỹ phẩm",
-    "position": [0, 36],
+    "position": [
+      0,
+      36
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L24.3"]
+    "candidates": [
+      "L24.3"
+    ]
   },
   {
     "text": "hydrocortisone",
-    "position": [328, 342],
+    "position": [
+      328,
+      342
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5492", "27197"]
+    "candidates": [
+      "5492",
+      "27197"
+    ]
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [482, 499],
+    "position": [
+      482,
+      499
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

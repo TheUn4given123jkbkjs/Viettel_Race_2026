@@ -1,14 +1,24 @@
 [
   {
     "text": "Berberine",
-    "position": [68, 77],
+    "position": [
+      68,
+      77
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["1437"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1437"
+    ]
   },
   {
     "text": "đau thắt ngực",
-    "position": [290, 303],
+    "position": [
+      290,
+      303
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,9 +29,14 @@
   },
   {
     "text": "bệnh tim mạch",
-    "position": [151, 164],
+    "position": [
+      151,
+      164
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "A52.06",
       "I25.0",
@@ -30,9 +45,14 @@
   },
   {
     "text": "bệnh tiểu đường",
-    "position": [193, 208],
+    "position": [
+      193,
+      208
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

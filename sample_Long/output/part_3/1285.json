@@ -1,49 +1,78 @@
 [
   {
     "text": "Chuyển dạ sớm và đẻ đúng kỳ",
-    "position": [381, 408],
+    "position": [
+      381,
+      408
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O60.2"]
+    "candidates": [
+      "O60.2"
+    ]
   },
   {
     "text": "đau lưng dưới",
-    "position": [684, 697],
+    "position": [
+      684,
+      697
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "co thắt tử cung",
-    "position": [797, 812],
+    "position": [
+      797,
+      812
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nifedipine",
-    "position": [1012, 1022],
+    "position": [
+      1012,
+      1022
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7417"]
+    "candidates": [
+      "7417"
+    ]
   },
   {
     "text": "Betamethasone",
-    "position": [1157, 1170],
+    "position": [
+      1157,
+      1170
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1514"]
+    "candidates": [
+      "1514"
+    ]
   },
   {
     "text": "Oxytocin",
-    "position": [1428, 1436],
+    "position": [
+      1428,
+      1436
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7824"]
+    "candidates": [
+      "7824"
+    ]
   },
   {
     "text": "suy hô hấp",
-    "position": [581, 591],
+    "position": [
+      581,
+      591
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

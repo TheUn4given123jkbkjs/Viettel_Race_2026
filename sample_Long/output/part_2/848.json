@@ -1,30 +1,50 @@
 [
   {
     "text": "Vô sinh nữ liên quan đến các yếu tố nam",
-    "position": [306, 345],
+    "position": [
+      306,
+      345
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N97.4"]
+    "candidates": [
+      "N97.4"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [123, 140],
+    "position": [
+      123,
+      140
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [382, 389],
+    "position": [
+      382,
+      389
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [393, 406],
+    "position": [
+      393,
+      406
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

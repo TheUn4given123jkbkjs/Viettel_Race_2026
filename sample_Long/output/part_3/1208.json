@@ -1,42 +1,70 @@
 [
   {
     "text": "Suy tĩnh mạch (mạn) (ngoại biên)",
-    "position": [65, 97],
+    "position": [
+      65,
+      97
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I87.2"]
+    "candidates": [
+      "I87.2"
+    ]
   },
   {
     "text": "suy tĩnh mạch (mạn) (ngoại biên)",
-    "position": [588, 620],
+    "position": [
+      588,
+      620
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I87.2"]
+    "candidates": [
+      "I87.2"
+    ]
   },
   {
     "text": "sốt",
-    "position": [1791, 1794],
+    "position": [
+      1791,
+      1794
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "huyết khối tĩnh mạch sâu",
-    "position": [725, 749],
+    "position": [
+      725,
+      749
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["O87.3"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "O87.3"
+    ]
   },
   {
     "text": "Diosmin 500mg",
-    "position": [2611, 2624],
+    "position": [
+      2611,
+      2624
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Heptaminol 187.8mg",
-    "position": [2673, 2691],
+    "position": [
+      2673,
+      2691
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

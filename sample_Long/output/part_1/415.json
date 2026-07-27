@@ -1,51 +1,84 @@
 [
   {
     "text": "đái tháo đường thai kỳ",
-    "position": [21, 43],
+    "position": [
+      21,
+      43
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "bú kém",
-    "position": [159, 165],
+    "position": [
+      159,
+      165
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [261, 270],
+    "position": [
+      261,
+      270
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "chưa ghi nhận co giật",
-    "position": [272, 293],
+    "position": [
+      272,
+      293
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Rối loạn không chỉ rõ tình trạng não của sơ sinh",
-    "position": [506, 554],
+    "position": [
+      506,
+      554
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P91.9"]
+    "candidates": [
+      "P91.9"
+    ]
   },
   {
     "text": "Phenobarbital",
-    "position": [578, 591],
+    "position": [
+      578,
+      591
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8134"]
+    "candidates": [
+      "8134"
+    ]
   },
   {
     "text": "Glucose",
-    "position": [646, 653],
+    "position": [
+      646,
+      653
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4850"]
+    "candidates": [
+      "4850"
+    ]
   }
 ]

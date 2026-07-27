@@ -1,21 +1,30 @@
 [
   {
     "text": "viêm thanh quản",
-    "position": [24, 39],
+    "position": [
+      24,
+      39
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm phổi",
-    "position": [86, 95],
+    "position": [
+      86,
+      95
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Liệt dây thanh âm và thanh quản",
-    "position": [230, 261],
+    "position": [
+      230,
+      261
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -26,14 +35,20 @@
   },
   {
     "text": "mất tiếng",
-    "position": [151, 160],
+    "position": [
+      151,
+      160
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau họng",
-    "position": [164, 172],
+    "position": [
+      164,
+      172
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

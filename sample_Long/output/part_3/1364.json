@@ -1,37 +1,58 @@
 [
   {
     "text": "Bệnh thấp khớp thoáng qua",
-    "position": [243, 268],
+    "position": [
+      243,
+      268
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M12.3"]
+    "candidates": [
+      "M12.3"
+    ]
   },
   {
     "text": "viêm khớp",
-    "position": [51, 60],
+    "position": [
+      51,
+      60
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhức đầu gối và cổ tay",
-    "position": [130, 156],
+    "position": [
+      130,
+      156
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [317, 320],
+    "position": [
+      317,
+      320
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [325, 333],
+    "position": [
+      325,
+      333
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

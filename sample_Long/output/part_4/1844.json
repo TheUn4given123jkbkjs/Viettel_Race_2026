@@ -1,28 +1,40 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [161, 174],
+    "position": [
+      161,
+      174
+    ],
     "type": "BỆNH_NỀN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [178, 188],
+    "position": [
+      178,
+      188
+    ],
     "type": "BỆNH_NỀN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh nướu",
-    "position": [102, 111],
+    "position": [
+      102,
+      111
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh nha chu",
-    "position": [115, 127],
+    "position": [
+      115,
+      127
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

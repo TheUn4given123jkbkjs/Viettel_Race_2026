@@ -1,57 +1,81 @@
 [
   {
-    "text": "Äa niá»u",
-    "position": [271, 281],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "đa niệu",
+    "position": [
+      207,
+      214
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "Äaé¥®æ°´",
-    "position": [283, 292],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "đa饮水",
+    "position": [
+      216,
+      220
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "sÃºt cÃ¢n",
-    "position": [294, 303],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "sút cân",
+    "position": [
+      222,
+      229
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "má»t má»i",
-    "position": [333, 344],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "mệt mỏi",
+    "position": [
+      254,
+      261
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "glucose huyáº¿t tÆ°Æ¡ng lÃºc ÄÃ³i",
-    "position": [735, 769],
-    "type": "TÃN_XÃT_NGHIá»M",
+    "text": "glucose huyết tương lúc đói",
+    "position": [
+      555,
+      582
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "HbA1c",
-    "position": [771, 776],
-    "type": "TÃN_XÃT_NGHIá»M",
+    "position": [
+      584,
+      589
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "8.2 mmol/L",
-    "position": [891, 901],
-    "type": "Káº¾T_QUáº¢_XÃT_NGHIá»M",
+    "position": [
+      684,
+      694
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "7.6%",
-    "position": [909, 913],
-    "type": "Káº¾T_QUáº¢_XÃT_NGHIá»M",
+    "position": [
+      702,
+      706
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   }

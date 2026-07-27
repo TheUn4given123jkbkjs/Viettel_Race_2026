@@ -1,28 +1,48 @@
 [
   {
     "text": "Tetracaine",
-    "position": [150, 160],
+    "position": [
+      150,
+      160
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["10391"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "10391"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [333, 350],
+    "position": [
+      333,
+      350
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [354, 363],
+    "position": [
+      354,
+      363
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "viêm xoang",
-    "position": [250, 260],
+    "position": [
+      250,
+      260
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -33,7 +53,10 @@
   },
   {
     "text": "************",
-    "position": [309, 321],
+    "position": [
+      309,
+      321
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

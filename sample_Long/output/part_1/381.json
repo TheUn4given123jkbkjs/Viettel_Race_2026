@@ -1,21 +1,34 @@
 [
   {
     "text": "Scopolamine butylbromide",
-    "position": [647, 671],
+    "position": [
+      647,
+      671
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["1851"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1851"
+    ]
   },
   {
     "text": "nhiễm trùng da",
-    "position": [130, 144],
+    "position": [
+      130,
+      144
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vi khuẩn",
-    "position": [78, 86],
+    "position": [
+      78,
+      86
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -26,7 +39,10 @@
   },
   {
     "text": "nấm",
-    "position": [88, 91],
+    "position": [
+      88,
+      91
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -37,7 +53,10 @@
   },
   {
     "text": "virus",
-    "position": [97, 102],
+    "position": [
+      97,
+      102
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -48,14 +67,23 @@
   },
   {
     "text": "tình trạng bệnh lý",
-    "position": [22, 40],
+    "position": [
+      22,
+      40
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P00.9", "P02.6"]
+    "candidates": [
+      "P00.9",
+      "P02.6"
+    ]
   },
   {
     "text": "vi khuẩn",
-    "position": [78, 86],
+    "position": [
+      78,
+      86
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -66,7 +94,10 @@
   },
   {
     "text": "nhiễm trùng nghiêm trọng",
-    "position": [477, 501],
+    "position": [
+      477,
+      501
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

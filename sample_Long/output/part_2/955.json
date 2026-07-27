@@ -1,29 +1,41 @@
 [
   {
-    "text": "Bá»nh xÆ°Æ¡ng sau viÃªm tá»§y xÃ¡m",
-    "position": [0, 35],
-    "type": "CHáº¨N_ÄOÃN",
+    "text": "Bệnh xương sau viêm tủy xám",
+    "position": [
+      0,
+      27
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "báº¡i liá»t",
-    "position": [52, 64],
-    "type": "CHáº¨N_ÄOÃN",
+    "text": "bại liệt",
+    "position": [
+      40,
+      48
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "liá»t má»m",
-    "position": [418, 430],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "liệt mềm",
+    "position": [
+      313,
+      321
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "cong váº¹o cá»t sá»ng",
-    "position": [557, 580],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "cong vẹo cột sống",
+    "position": [
+      413,
+      430
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

@@ -1,42 +1,62 @@
 [
   {
     "text": "Bệnh lý não do tăng huyết áp",
-    "position": [298, 326],
+    "position": [
+      298,
+      326
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I67.4"]
+    "candidates": [
+      "I67.4"
+    ]
   },
   {
     "text": "tăng huyết áp",
-    "position": [130, 143],
+    "position": [
+      130,
+      143
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường",
-    "position": [147, 161],
+    "position": [
+      147,
+      161
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [207, 224],
+    "position": [
+      207,
+      224
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [551, 563],
+    "position": [
+      551,
+      563
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [523, 531],
+    "position": [
+      523,
+      531
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

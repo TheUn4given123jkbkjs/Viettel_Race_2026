@@ -1,37 +1,56 @@
 [
   {
     "text": "nôn dịch mật",
-    "position": [246, 258],
+    "position": [
+      246,
+      258
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chướng bụng",
-    "position": [260, 271],
+    "position": [
+      260,
+      271
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không đi ngoài phân su",
-    "position": [275, 297],
+    "position": [
+      275,
+      297
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sodium chloride",
-    "position": [396, 411],
+    "position": [
+      396,
+      411
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["9863"]
+    "candidates": [
+      "9863"
+    ]
   },
   {
     "text": "Glucose",
-    "position": [444, 451],
+    "position": [
+      444,
+      451
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4850"]
+    "candidates": [
+      "4850"
+    ]
   }
 ]

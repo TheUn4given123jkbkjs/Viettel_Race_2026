@@ -1,9 +1,14 @@
 [
   {
     "text": "loãng xương",
-    "position": [95, 106],
+    "position": [
+      95,
+      106
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "M80",
       "M80.0",
@@ -12,51 +17,80 @@
   },
   {
     "text": "đau cột sống lưng",
-    "position": [376, 393],
+    "position": [
+      376,
+      393
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [610, 618],
+    "position": [
+      610,
+      618
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xẹp thân đốt sống T12",
-    "position": [941, 962],
+    "position": [
+      941,
+      962
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [1054, 1062],
+    "position": [
+      1054,
+      1062
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các loãng xương khác có kèm gãy xương bệnh lý",
-    "position": [1103, 1148],
+    "position": [
+      1103,
+      1148
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M80.8"]
+    "candidates": [
+      "M80.8"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [1262, 1275],
+    "position": [
+      1262,
+      1275
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Calcium gluconate",
-    "position": [1352, 1369],
+    "position": [
+      1352,
+      1369
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1908"]
+    "candidates": [
+      "1908"
+    ]
   }
 ]

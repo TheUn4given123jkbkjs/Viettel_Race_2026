@@ -1,29 +1,43 @@
 [
   {
     "text": "Diphtheria-Tetanus-Pertussis-Hepatitis B-Haemophilus influenzae type b Vaccine",
-    "position": [987, 1065],
-    "type": "THUá»C",
-    "assertions": ["isHistorical"],
+    "position": [
+      782,
+      860
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "aspirin chewable 325 mg",
-    "position": [626, 649],
-    "type": "THUá»C",
+    "position": [
+      481,
+      504
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "metoprolol 25 mg",
-    "position": [667, 683],
-    "type": "THUá»C",
+    "position": [
+      522,
+      538
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [434, 442],
-    "type": "TÃN_XÃT_NGHIá»M",
+    "position": [
+      332,
+      340
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   }

@@ -1,49 +1,74 @@
 [
   {
     "text": "ho khéo dài",
-    "position": [139, 150],
+    "position": [
+      139,
+      150
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở khi gắng sức nhẹ",
-    "position": [341, 365],
+    "position": [
+      341,
+      365
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngựcc",
-    "position": [583, 592],
+    "position": [
+      583,
+      592
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở nhẹ",
-    "position": [746, 757],
+    "position": [
+      746,
+      757
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xétnghiệm",
-    "position": [1174, 1183],
+    "position": [
+      1174,
+      1183
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "6.8 mmol/L",
-    "position": [1323, 1333],
+    "position": [
+      1323,
+      1333
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "92 umol/L",
-    "position": [1364, 1373],
+    "position": [
+      1364,
+      1373
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

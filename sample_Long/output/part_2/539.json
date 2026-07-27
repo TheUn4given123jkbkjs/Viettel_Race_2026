@@ -1,35 +1,54 @@
 [
   {
     "text": "Ivermectin",
-    "position": [435, 445],
+    "position": [
+      435,
+      445
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["6069"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "6069"
+    ]
   },
   {
     "text": "bệnh Parkinson",
-    "position": [263, 277],
+    "position": [
+      263,
+      277
+    ],
     "type": "TÊN_BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "dopamine",
-    "position": [103, 111],
+    "position": [
+      103,
+      111
+    ],
     "type": "CHẤT_DẪN_TRUYỀN_THẦN_KINH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "run",
-    "position": [300, 303],
+    "position": [
+      300,
+      303
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cứng nhắc",
-    "position": [305, 314],
+    "position": [
+      305,
+      314
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

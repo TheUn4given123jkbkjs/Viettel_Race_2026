@@ -1,37 +1,56 @@
 [
   {
-    "text": "RÃ² trá»±c trÃ ng",
-    "position": [870, 887],
-    "type": "CHáº¨N_ÄOÃN",
+    "text": "Rò trực tràng",
+    "position": [
+      672,
+      685
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ciprofloxacin",
-    "position": [1188, 1201],
-    "type": "THUá»C",
+    "position": [
+      929,
+      942
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "metronidazole",
-    "position": [1258, 1271],
-    "type": "THUá»C",
+    "position": [
+      989,
+      1002
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "khÃ´ng cÃ³ triá»u chá»©ng buá»n nÃ´n",
-    "position": [1047, 1085],
-    "type": "TRIá»U_CHá»¨NG",
-    "assertions": ["isNegated"],
+    "text": "không có triệu chứng buồn nôn",
+    "position": [
+      825,
+      854
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
-    "text": "viÃªm Äáº¡i trÃ ng co tháº¯t",
-    "position": [181, 210],
-    "type": "CHáº¨N_ÄOÃN",
-    "assertions": ["isHistorical"],
+    "text": "viêm đại tràng co thắt",
+    "position": [
+      143,
+      165
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

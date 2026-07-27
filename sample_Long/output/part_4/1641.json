@@ -1,9 +1,14 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [82, 95],
+    "position": [
+      82,
+      95
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -12,49 +17,76 @@
   },
   {
     "text": "bệnh tim mạn tính",
-    "position": [135, 152],
+    "position": [
+      135,
+      152
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["B57.2"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "B57.2"
+    ]
   },
   {
     "text": "đau ngực kiểu màng phổi",
-    "position": [198, 221],
+    "position": [
+      198,
+      221
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [225, 237],
+    "position": [
+      225,
+      237
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [56, 58],
+    "position": [
+      56,
+      58
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [271, 279],
+    "position": [
+      271,
+      279
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "trong giới hạn bình thường",
-    "position": [283, 309],
+    "position": [
+      283,
+      309
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh màng ngoài tim khác",
-    "position": [357, 381],
+    "position": [
+      357,
+      381
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

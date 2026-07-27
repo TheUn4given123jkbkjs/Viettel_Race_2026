@@ -1,35 +1,58 @@
 [
   {
     "text": "Hội chứng trẻ sơ sinh của bà mẹ bị đái tháo đường",
-    "position": [106, 155],
+    "position": [
+      106,
+      155
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P70.0", "P70.1"]
+    "candidates": [
+      "P70.0",
+      "P70.1"
+    ]
   },
   {
     "text": "bệnh đái tháo đường",
-    "position": [307, 326],
+    "position": [
+      307,
+      326
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "insulin",
-    "position": [371, 378],
+    "position": [
+      371,
+      378
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["253182", "317235"]
+    "candidates": [
+      "253182",
+      "317235"
+    ]
   },
   {
     "text": "troponin",
-    "position": [495, 503],
+    "position": [
+      495,
+      503
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nồng độ troponin tăng cao",
-    "position": [487, 512],
+    "position": [
+      487,
+      512
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

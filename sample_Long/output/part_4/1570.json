@@ -1,7 +1,10 @@
 [
   {
     "text": "Rối loạn khác của xương",
-    "position": [867, 890],
+    "position": [
+      867,
+      890
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [468, 481],
+    "position": [
+      468,
+      481
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Allopurinol",
-    "position": [508, 519],
+    "position": [
+      508,
+      519
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["519"]
+    "candidates": [
+      "519"
+    ]
   }
 ]

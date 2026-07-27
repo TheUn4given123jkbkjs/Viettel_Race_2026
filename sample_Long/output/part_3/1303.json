@@ -1,35 +1,54 @@
 [
   {
     "text": "thoái hóa khớp gối và hông",
-    "position": [38, 64],
+    "position": [
+      38,
+      64
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [145, 158],
+    "position": [
+      145,
+      158
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [160, 170],
+    "position": [
+      160,
+      170
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thoái hóa khớp nguyên phát có tính gia đình",
-    "position": [334, 377],
+    "position": [
+      334,
+      377
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["M15.0"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "M15.0"
+    ]
   },
   {
     "text": "phẫu thuật",
-    "position": [418, 428],
+    "position": [
+      418,
+      428
+    ],
     "type": "THỦ_THUẬT",
     "assertions": [],
     "candidates": []

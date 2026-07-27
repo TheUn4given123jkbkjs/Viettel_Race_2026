@@ -1,56 +1,82 @@
 [
   {
     "text": "Chăm sóc bà mẹ chỉ các bất thường, thương tổn của thai hay nghi ngờ",
-    "position": [346, 413],
+    "position": [
+      346,
+      413
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O35"]
+    "candidates": [
+      "O35"
+    ]
   },
   {
     "text": "siêu âm hình thái học",
-    "position": [1471, 1492],
+    "position": [
+      1471,
+      1492
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "độ mờ da gáy dày",
-    "position": [1569, 1585],
+    "position": [
+      1569,
+      1585
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thai nhi chậm tăng trưởng",
-    "position": [1758, 1783],
+    "position": [
+      1758,
+      1783
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bất thường về cấu trúc tim",
-    "position": [1958, 1984],
+    "position": [
+      1958,
+      1984
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "dị tật ống thần kinh",
-    "position": [1986, 2006],
+    "position": [
+      1986,
+      2006
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chọc ối",
-    "position": [2584, 2591],
+    "position": [
+      2584,
+      2591
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sinh thiết gai nhau",
-    "position": [2597, 2616],
+    "position": [
+      2597,
+      2616
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

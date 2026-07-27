@@ -1,16 +1,26 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [139, 156],
+    "position": [
+      139,
+      156
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "sỏi mật",
-    "position": [393, 400],
+    "position": [
+      393,
+      400
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "K80.50",
       "K80.51",
@@ -19,35 +29,52 @@
   },
   {
     "text": "đau bụng vùng hạ sườn phải",
-    "position": [819, 845],
+    "position": [
+      819,
+      845
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [1221, 1229],
+    "position": [
+      1221,
+      1229
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Dấu hiệu Murphy dương tính",
-    "position": [1993, 2019],
+    "position": [
+      1993,
+      2019
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thành túi mật dày 6mm",
-    "position": [2556, 2577],
+    "position": [
+      2556,
+      2577
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm túi mật",
-    "position": [2714, 2726],
+    "position": [
+      2714,
+      2726
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

@@ -1,56 +1,84 @@
 [
   {
     "text": "Viêm cơ tim đơn thuần",
-    "position": [0, 21],
+    "position": [
+      0,
+      21
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I40.1"]
+    "candidates": [
+      "I40.1"
+    ]
   },
   {
     "text": "Viêm cơ tim đơn thuần",
-    "position": [0, 21],
+    "position": [
+      0,
+      21
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I40.1"]
+    "candidates": [
+      "I40.1"
+    ]
   },
   {
     "text": "phẫu thuật",
-    "position": [506, 516],
+    "position": [
+      506,
+      516
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "lối sống",
-    "position": [655, 663],
+    "position": [
+      655,
+      663
+    ],
     "type": "CÁCH_ĐIỀU_TRI",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [285, 293],
+    "position": [
+      285,
+      293
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [295, 302],
+    "position": [
+      295,
+      302
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp tim nhanh",
-    "position": [304, 318],
+    "position": [
+      304,
+      318
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [322, 329],
+    "position": [
+      322,
+      329
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

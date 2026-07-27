@@ -1,21 +1,32 @@
 [
   {
     "text": "troponin",
-    "position": [503, 511],
+    "position": [
+      503,
+      511
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [217, 220],
+    "position": [
+      217,
+      220
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "siêu âm gan",
-    "position": [577, 588],
+    "position": [
+      577,
+      588
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

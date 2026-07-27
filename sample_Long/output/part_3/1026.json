@@ -1,56 +1,94 @@
 [
   {
     "text": "Hen suyễn",
-    "position": [304, 313],
+    "position": [
+      304,
+      313
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["J45"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J45"
+    ]
   },
   {
     "text": "albuterol",
-    "position": [357, 366],
+    "position": [
+      357,
+      366
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["435"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "435"
+    ]
   },
   {
     "text": "chủ quan sốt",
-    "position": [888, 900],
+    "position": [
+      888,
+      900
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chảy máu trước đẻ, chưa được phân loại",
-    "position": [2011, 2049],
+    "position": [
+      2011,
+      2049
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O46"]
+    "candidates": [
+      "O46"
+    ]
   },
   {
     "text": "Tranexamic acid",
-    "position": [2151, 2166],
+    "position": [
+      2151,
+      2166
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["10691"]
+    "candidates": [
+      "10691"
+    ]
   },
   {
     "text": "Magnesium sulfate",
-    "position": [2230, 2247],
+    "position": [
+      2230,
+      2247
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6585"]
+    "candidates": [
+      "6585"
+    ]
   },
   {
     "text": "lactate",
-    "position": [1721, 1728],
+    "position": [
+      1721,
+      1728
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "1.1 mmol/L",
-    "position": [1729, 1739],
+    "position": [
+      1729,
+      1739
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

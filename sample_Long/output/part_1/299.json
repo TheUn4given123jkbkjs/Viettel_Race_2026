@@ -1,35 +1,52 @@
 [
   {
     "text": "đau đầu",
-    "position": [25, 32],
+    "position": [
+      25,
+      32
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [36, 45],
+    "position": [
+      36,
+      45
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [84, 93],
+    "position": [
+      84,
+      93
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "điện tâm đồ",
-    "position": [326, 337],
+    "position": [
+      326,
+      337
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "công thức máu",
-    "position": [352, 365],
+    "position": [
+      352,
+      365
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

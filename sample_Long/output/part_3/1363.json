@@ -1,56 +1,82 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [201, 218],
+    "position": [
+      201,
+      218
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [302, 309],
+    "position": [
+      302,
+      309
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [247, 250],
+    "position": [
+      247,
+      250
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [318, 335],
+    "position": [
+      318,
+      335
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "công thức máu",
-    "position": [388, 401],
+    "position": [
+      388,
+      401
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chức năng gan",
-    "position": [403, 416],
+    "position": [
+      403,
+      416
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [431, 439],
+    "position": [
+      431,
+      439
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.05 ng/mL",
-    "position": [537, 547],
+    "position": [
+      537,
+      547
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

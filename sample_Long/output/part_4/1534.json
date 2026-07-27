@@ -1,42 +1,62 @@
 [
   {
     "text": "sốt",
-    "position": [60, 63],
+    "position": [
+      60,
+      63
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [65, 72],
+    "position": [
+      65,
+      72
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu toàn bộ",
-    "position": [383, 405],
+    "position": [
+      383,
+      405
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng bạch cầu nhẹ",
-    "position": [499, 516],
+    "position": [
+      499,
+      516
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [265, 272],
+    "position": [
+      265,
+      272
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "troponin",
-    "position": [446, 454],
+    "position": [
+      446,
+      454
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

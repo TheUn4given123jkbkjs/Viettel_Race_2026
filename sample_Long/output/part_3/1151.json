@@ -1,21 +1,37 @@
 [
   {
     "text": "Clotrimazole",
-    "position": [596, 608],
+    "position": [
+      596,
+      608
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["2623"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2623"
+    ]
   },
   {
     "text": "gan mạn tính",
-    "position": [94, 106],
+    "position": [
+      94,
+      106
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K76.1", "B18.2"]
+    "candidates": [
+      "K76.1",
+      "B18.2"
+    ]
   },
   {
     "text": "động kinh",
-    "position": [118, 127],
+    "position": [
+      118,
+      127
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -26,14 +42,22 @@
   },
   {
     "text": "hội chứng Reye",
-    "position": [264, 278],
+    "position": [
+      264,
+      278
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["G93.7"]
+    "candidates": [
+      "G93.7"
+    ]
   },
   {
     "text": "sốt",
-    "position": [351, 354],
+    "position": [
+      351,
+      354
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -44,7 +68,10 @@
   },
   {
     "text": "đau bụng",
-    "position": [358, 366],
+    "position": [
+      358,
+      366
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -55,7 +82,10 @@
   },
   {
     "text": "suy hô hấp",
-    "position": [386, 396],
+    "position": [
+      386,
+      396
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -66,7 +96,10 @@
   },
   {
     "text": "tăng huyết áp",
-    "position": [400, 413],
+    "position": [
+      400,
+      413
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

@@ -1,35 +1,57 @@
 [
   {
     "text": "Diphtheria-Tetanus-Pertussis-Poliovirus-Hepatitis B-Haemophilus influenzae type b Vaccine",
-    "position": [206, 295],
+    "position": [
+      206,
+      295
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["2368450"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2368450"
+    ]
   },
   {
     "text": "tiểu đường loại 2",
-    "position": [113, 130],
+    "position": [
+      113,
+      130
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [134, 146],
+    "position": [
+      134,
+      146
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "insulin",
-    "position": [416, 423],
+    "position": [
+      416,
+      423
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["253182", "317235"]
+    "candidates": [
+      "253182",
+      "317235"
+    ]
   },
   {
     "text": "thuốc hạ huyết áp",
-    "position": [395, 412],
+    "position": [
+      395,
+      412
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

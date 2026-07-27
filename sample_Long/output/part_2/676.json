@@ -1,37 +1,62 @@
 [
   {
     "text": "biến đổi kẽ ống thận trong bệnh tân sinh",
-    "position": [43, 83],
+    "position": [
+      43,
+      83
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N16.1*"]
+    "candidates": [
+      "N16.1*"
+    ]
   },
   {
     "text": "Acetazolamide",
-    "position": [230, 243],
+    "position": [
+      230,
+      243
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": [
+      "167"
+    ]
   },
   {
     "text": "Acetylcysteine",
-    "position": [247, 261],
+    "position": [
+      247,
+      261
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["197"]
+    "candidates": [
+      "197"
+    ]
   },
   {
     "text": "sốt",
-    "position": [134, 137],
+    "position": [
+      134,
+      137
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [169, 177],
+    "position": [
+      169,
+      177
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

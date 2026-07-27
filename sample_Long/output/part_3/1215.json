@@ -1,7 +1,10 @@
 [
   {
     "text": "Các rối loạn chuyển hóa tạm thời khác của trẻ sơ sinh",
-    "position": [85, 138],
+    "position": [
+      85,
+      138
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,14 +15,20 @@
   },
   {
     "text": "Glucose 10%",
-    "position": [313, 324],
+    "position": [
+      313,
+      324
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Calcium gluconate 10%",
-    "position": [327, 348],
+    "position": [
+      327,
+      348
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

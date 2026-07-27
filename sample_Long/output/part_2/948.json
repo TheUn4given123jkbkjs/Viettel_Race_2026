@@ -1,70 +1,104 @@
 [
   {
     "text": "đau thắt ngực",
-    "position": [565, 578],
+    "position": [
+      565,
+      578
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [807, 815],
+    "position": [
+      807,
+      815
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [1047, 1056],
+    "position": [
+      1047,
+      1056
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [1146, 1154],
+    "position": [
+      1146,
+      1154
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "nhịp tim nhanh",
-    "position": [1629, 1643],
+    "position": [
+      1629,
+      1643
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin I",
-    "position": [1948, 1958],
+    "position": [
+      1948,
+      1958
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "1.2 ng/mL",
-    "position": [1962, 1971],
+    "position": [
+      1962,
+      1971
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "EKG 12 chuyển đạo",
-    "position": [2018, 2035],
+    "position": [
+      2018,
+      2035
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST elevation in V2-V5",
-    "position": [2056, 2077],
+    "position": [
+      2056,
+      2077
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "192 mg/dL",
-    "position": [2236, 2245],
+    "position": [
+      2236,
+      2245
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

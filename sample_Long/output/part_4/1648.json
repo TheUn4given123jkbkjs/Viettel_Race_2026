@@ -1,14 +1,22 @@
 [
   {
     "text": "THA 5 năm",
-    "position": [31, 40],
+    "position": [
+      31,
+      40
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "mang thai 28 tuần",
-    "position": [47, 64],
+    "position": [
+      47,
+      64
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

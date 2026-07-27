@@ -1,37 +1,62 @@
 [
   {
     "text": "thoái hóa đĩa đệm đốt sống đặc hiệu khác",
-    "position": [339, 379],
+    "position": [
+      339,
+      379
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M51.3"]
+    "candidates": [
+      "M51.3"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [432, 445],
+    "position": [
+      432,
+      445
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [449, 456],
+    "position": [
+      449,
+      456
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [202, 219],
+    "position": [
+      202,
+      219
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [223, 232],
+    "position": [
+      223,
+      232
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

@@ -1,56 +1,88 @@
 [
   {
     "text": "Isoniazid / Pyrazinamide / Rifampin",
-    "position": [476, 511],
+    "position": [
+      476,
+      511
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["214662"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "214662"
+    ]
   },
   {
     "text": "nhồi máu cơ tim",
-    "position": [701, 716],
+    "position": [
+      701,
+      716
+    ],
     "type": "CHẬN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "bệnhnhân",
-    "position": [1033, 1041],
+    "position": [
+      1033,
+      1041
+    ],
     "type": "CHẬN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "banđỏ",
-    "position": [1210, 1215],
+    "position": [
+      1210,
+      1215
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ceftriaxone",
-    "position": [2549, 2560],
+    "position": [
+      2549,
+      2560
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Cellulitis",
-    "position": [2442, 2452],
+    "position": [
+      2442,
+      2452
+    ],
     "type": "CHẬN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng tấy vùng cẳng chân trái",
-    "position": [976, 1004],
+    "position": [
+      976,
+      1004
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "THA",
-    "position": [163, 166],
+    "position": [
+      163,
+      166
+    ],
     "type": "CHẬN_ĐOÁN",
     "assertions": [],
     "candidates": []

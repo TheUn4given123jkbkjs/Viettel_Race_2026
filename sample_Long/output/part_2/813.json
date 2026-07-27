@@ -1,7 +1,10 @@
 [
   {
     "text": "Viêm phế quản mạn tính",
-    "position": [427, 449],
+    "position": [
+      427,
+      449
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,23 +15,34 @@
   },
   {
     "text": "ho",
-    "position": [14, 16],
+    "position": [
+      14,
+      16
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ran ẩm",
-    "position": [487, 493],
+    "position": [
+      487,
+      493
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tăng huyết áp",
-    "position": [652, 665],
+    "position": [
+      652,
+      665
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -37,21 +51,32 @@
   },
   {
     "text": "Các dấu hiệu bất thường của bà mẹ phát hiện khi khám thai",
-    "position": [844, 901],
+    "position": [
+      844,
+      901
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O28"]
+    "candidates": [
+      "O28"
+    ]
   },
   {
     "text": "Methyldopa 250mg: 2 viên/ngày, uống",
-    "position": [926, 961],
+    "position": [
+      926,
+      961
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Folic acid 5mg",
-    "position": [964, 978],
+    "position": [
+      964,
+      978
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,35 +1,54 @@
 [
   {
     "text": "Ringer's lactate",
-    "position": [78, 94],
+    "position": [
+      78,
+      94
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["35629"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "35629"
+    ]
   },
   {
     "text": "bệnh thận",
-    "position": [23, 32],
+    "position": [
+      23,
+      32
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mất cân bằng điện giải",
-    "position": [298, 320],
+    "position": [
+      298,
+      320
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "natri",
-    "position": [334, 339],
+    "position": [
+      334,
+      339
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "kali",
-    "position": [343, 347],
+    "position": [
+      343,
+      347
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

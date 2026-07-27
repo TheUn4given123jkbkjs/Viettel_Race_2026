@@ -1,14 +1,20 @@
 [
   {
     "text": "căng đau hai bên",
-    "position": [100, 116],
+    "position": [
+      100,
+      116
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sỏi túi mật",
-    "position": [554, 565],
+    "position": [
+      554,
+      565
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,14 +25,20 @@
   },
   {
     "text": "Siêu âm tuyến vú",
-    "position": [696, 712],
+    "position": [
+      696,
+      712
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Loạn sản lành tính vú khác",
-    "position": [789, 815],
+    "position": [
+      789,
+      815
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -37,16 +49,26 @@
   },
   {
     "text": "Tamoxifen",
-    "position": [844, 853],
+    "position": [
+      844,
+      853
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["10324"]
+    "candidates": [
+      "10324"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [895, 904],
+    "position": [
+      895,
+      904
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   }
 ]

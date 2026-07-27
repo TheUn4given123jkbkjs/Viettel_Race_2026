@@ -1,7 +1,10 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [53, 66],
+    "position": [
+      53,
+      66
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,42 +15,66 @@
   },
   {
     "text": "Atenolol",
-    "position": [106, 114],
+    "position": [
+      106,
+      114
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["1202"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1202"
+    ]
   },
   {
     "text": "đau đầu",
-    "position": [206, 213],
+    "position": [
+      206,
+      213
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [217, 226],
+    "position": [
+      217,
+      226
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Paracetamol",
-    "position": [264, 275],
+    "position": [
+      264,
+      275
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [433, 443],
+    "position": [
+      433,
+      443
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "điện tâm đồ",
-    "position": [1131, 1142],
+    "position": [
+      1131,
+      1142
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

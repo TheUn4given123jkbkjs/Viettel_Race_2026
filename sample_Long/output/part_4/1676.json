@@ -1,42 +1,62 @@
 [
   {
     "text": "đau đầu",
-    "position": [49, 56],
+    "position": [
+      49,
+      56
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "THA",
-    "position": [111, 114],
+    "position": [
+      111,
+      114
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [276, 290],
+    "position": [
+      276,
+      290
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm nước tiểu",
-    "position": [292, 312],
+    "position": [
+      292,
+      312
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [58, 67],
+    "position": [
+      58,
+      67
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp tim nhanh",
-    "position": [72, 86],
+    "position": [
+      72,
+      86
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

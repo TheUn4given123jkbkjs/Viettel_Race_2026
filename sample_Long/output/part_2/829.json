@@ -1,49 +1,76 @@
 [
   {
     "text": "THA",
-    "position": [36, 39],
+    "position": [
+      36,
+      39
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Y06"
+    ]
   },
   {
     "text": "đau nhức",
-    "position": [144, 152],
+    "position": [
+      144,
+      152
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng nề",
-    "position": [367, 374],
+    "position": [
+      367,
+      374
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hình ảnh khuyết xương",
-    "position": [602, 623],
+    "position": [
+      602,
+      623
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "U đầu xương bàn tay",
-    "position": [1110, 1129],
+    "position": [
+      1110,
+      1129
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M72.1"]
+    "candidates": [
+      "M72.1"
+    ]
   },
   {
     "text": "Diclofenac 75mg",
-    "position": [1235, 1250],
+    "position": [
+      1235,
+      1250
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ibuprofen 400mg",
-    "position": [1266, 1281],
+    "position": [
+      1266,
+      1281
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,44 +1,66 @@
 [
   {
     "text": "suy tĩnh mạch mạn tính chi dưới",
-    "position": [187, 218],
+    "position": [
+      187,
+      218
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Tức nặng vùng tầng sinh môn",
-    "position": [263, 290],
+    "position": [
+      263,
+      290
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng phù vùng âm hộ",
-    "position": [294, 313],
+    "position": [
+      294,
+      313
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đau nhói nhẹ vùng hạ vị",
-    "position": [405, 428],
+    "position": [
+      405,
+      428
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm Doppler màu mạch máu vùng chậu và tầng sinh môn",
-    "position": [1577, 1632],
+    "position": [
+      1577,
+      1632
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Giãn tĩnh mạch sinh dục trong khi có thai",
-    "position": [1857, 1898],
+    "position": [
+      1857,
+      1898
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O22.1"]
+    "candidates": [
+      "O22.1"
+    ]
   }
 ]

@@ -1,23 +1,40 @@
 [
   {
     "text": "Các rối loạn nội tiết tạm thời đặc hiệu khác của trẻ sơ sinh",
-    "position": [0, 60],
+    "position": [
+      0,
+      60
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["P72.8"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "P72.8"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [267, 280],
+    "position": [
+      267,
+      280
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Albuterol",
-    "position": [283, 292],
+    "position": [
+      283,
+      292
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["435"]
+    "candidates": [
+      "435"
+    ]
   }
 ]

@@ -1,30 +1,53 @@
 [
   {
     "text": "Thuyên tắc và huyết khối tĩnh mạch khác",
-    "position": [804, 843],
+    "position": [
+      804,
+      843
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["I82", "I82.8"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "I82",
+      "I82.8"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [1734, 1741],
+    "position": [
+      1734,
+      1741
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [1744, 1755],
+    "position": [
+      1744,
+      1755
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Bác sĩ [Tên bác sĩ]",
-    "position": [556, 575],
+    "position": [
+      556,
+      575
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

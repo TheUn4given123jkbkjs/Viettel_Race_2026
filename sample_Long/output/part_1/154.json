@@ -1,16 +1,26 @@
 [
   {
     "text": "Acetaminophen",
-    "position": [565, 578],
+    "position": [
+      565,
+      578
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [582, 591],
+    "position": [
+      582,
+      591
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   }
 ]

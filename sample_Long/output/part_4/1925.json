@@ -1,7 +1,10 @@
 [
   {
     "text": "Giãn phế nang",
-    "position": [35, 48],
+    "position": [
+      35,
+      48
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,37 +15,56 @@
   },
   {
     "text": "khó thở",
-    "position": [528, 535],
+    "position": [
+      528,
+      535
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho khạc đờm",
-    "position": [572, 583],
+    "position": [
+      572,
+      583
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nặng ngực",
-    "position": [605, 614],
+    "position": [
+      605,
+      614
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Albuterol",
-    "position": [1105, 1114],
+    "position": [
+      1105,
+      1114
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["435"]
+    "candidates": [
+      "435"
+    ]
   },
   {
     "text": "Budesonide",
-    "position": [1209, 1219],
+    "position": [
+      1209,
+      1219
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["19831"]
+    "candidates": [
+      "19831"
+    ]
   }
 ]

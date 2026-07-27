@@ -1,35 +1,52 @@
 [
   {
     "text": "tiểu đêm",
-    "position": [136, 144],
+    "position": [
+      136,
+      144
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau lưng",
-    "position": [157, 165],
+    "position": [
+      157,
+      165
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Biến đổi kẽ ống thận trong các bệnh chuyển hóa",
-    "position": [519, 565],
+    "position": [
+      519,
+      565
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N16.3*"]
+    "candidates": [
+      "N16.3*"
+    ]
   },
   {
     "text": "Allopurinol 100mg",
-    "position": [807, 824],
+    "position": [
+      807,
+      824
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sodium bicarbonate 500mg",
-    "position": [864, 888],
+    "position": [
+      864,
+      888
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,9 +1,14 @@
 [
   {
     "text": "THA",
-    "position": [306, 309],
+    "position": [
+      306,
+      309
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

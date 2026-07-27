@@ -1,9 +1,14 @@
 [
   {
     "text": "Crohn",
-    "position": [34, 39],
+    "position": [
+      34,
+      39
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "K50",
       "K50.0",
@@ -12,30 +17,45 @@
   },
   {
     "text": "đau nhức",
-    "position": [103, 111],
+    "position": [
+      103,
+      111
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng nề",
-    "position": [127, 134],
+    "position": [
+      127,
+      134
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hạn chế vận động",
-    "position": [200, 216],
+    "position": [
+      200,
+      216
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh khớp trong bệnh Crohn [Viêm đoạn ruột] (K50.-†), cánh tay",
-    "position": [243, 305],
+    "position": [
+      243,
+      305
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M09.12*", "M07.42*"]
+    "candidates": [
+      "M09.12*",
+      "M07.42*"
+    ]
   }
 ]

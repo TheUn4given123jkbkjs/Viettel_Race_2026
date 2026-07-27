@@ -1,9 +1,16 @@
 [
   {
     "text": "Ethanol",
-    "position": [62, 69],
+    "position": [
+      62,
+      69
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["448"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "448"
+    ]
   }
 ]

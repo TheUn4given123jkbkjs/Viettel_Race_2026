@@ -1,37 +1,60 @@
 [
   {
     "text": "suy thận",
-    "position": [5, 13],
+    "position": [
+      5,
+      13
+    ],
     "type": "TÊN_BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [70, 77],
+    "position": [
+      70,
+      77
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [79, 88],
+    "position": [
+      79,
+      88
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [103, 120],
+    "position": [
+      103,
+      120
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Cyclosporine",
-    "position": [172, 184],
+    "position": [
+      172,
+      184
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["3008"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3008"
+    ]
   }
 ]

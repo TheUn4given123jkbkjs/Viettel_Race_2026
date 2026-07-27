@@ -1,16 +1,26 @@
 [
   {
     "text": "ceftriaxone",
-    "position": [539, 550],
+    "position": [
+      539,
+      550
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "acetaminophen",
-    "position": [554, 567],
+    "position": [
+      554,
+      567
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

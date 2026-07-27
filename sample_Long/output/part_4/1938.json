@@ -1,30 +1,46 @@
 [
   {
     "text": "Tổn thương cột sống do nguyên nhân thần kinh, bàn tay",
-    "position": [0, 53],
+    "position": [
+      0,
+      53
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M49.44*"]
+    "candidates": [
+      "M49.44*"
+    ]
   },
   {
     "text": "đau nhức",
-    "position": [266, 274],
+    "position": [
+      266,
+      274
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tê tay",
-    "position": [276, 282],
+    "position": [
+      276,
+      282
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [318, 327],
+    "position": [
+      318,
+      327
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

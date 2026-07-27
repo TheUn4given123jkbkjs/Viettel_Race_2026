@@ -1,21 +1,34 @@
 [
   {
     "text": "Albuterol",
-    "position": [77, 86],
+    "position": [
+      77,
+      86
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["435"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "435"
+    ]
   },
   {
     "text": "hen suyễn",
-    "position": [39, 48],
+    "position": [
+      39,
+      48
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm phổi",
-    "position": [281, 290],
+    "position": [
+      281,
+      290
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -26,14 +39,20 @@
   },
   {
     "text": "kháng sinh",
-    "position": [322, 332],
+    "position": [
+      322,
+      332
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ngực",
-    "position": [529, 541],
+    "position": [
+      529,
+      541
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

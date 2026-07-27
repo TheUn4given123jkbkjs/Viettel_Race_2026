@@ -1,49 +1,76 @@
 [
   {
     "text": "đau khớp vai",
-    "position": [192, 204],
+    "position": [
+      192,
+      204
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đái tháo đường týp 2",
-    "position": [954, 974],
+    "position": [
+      954,
+      974
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [162, 164],
+    "position": [
+      162,
+      164
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "X-quang khớp vai",
-    "position": [1157, 1173],
+    "position": [
+      1157,
+      1173
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "MRI khớp vai trái",
-    "position": [1199, 1216],
+    "position": [
+      1199,
+      1216
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các tổn thương mất vững khác của khớp",
-    "position": [1345, 1382],
+    "position": [
+      1345,
+      1382
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M25.3"]
+    "candidates": [
+      "M25.3"
+    ]
   },
   {
     "text": "Tăng áp lực nội sọ",
-    "position": [1814, 1832],
+    "position": [
+      1814,
+      1832
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

@@ -1,56 +1,84 @@
 [
   {
     "text": "ho về đêm",
-    "position": [232, 241],
+    "position": [
+      232,
+      241
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "ho khan dai dẳng",
-    "position": [453, 469],
+    "position": [
+      453,
+      469
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tức ngực âm ỉ",
-    "position": [536, 549],
+    "position": [
+      536,
+      549
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [672, 675],
+    "position": [
+      672,
+      675
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "rale ẩm",
-    "position": [813, 820],
+    "position": [
+      813,
+      820
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tổng phân tích tế bào máu ngoại vi",
-    "position": [1024, 1058],
+    "position": [
+      1024,
+      1058
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "12.4 G/L",
-    "position": [1103, 1111],
+    "position": [
+      1103,
+      1111
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chụp X-quang ngực thẳng",
-    "position": [1115, 1138],
+    "position": [
+      1115,
+      1138
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

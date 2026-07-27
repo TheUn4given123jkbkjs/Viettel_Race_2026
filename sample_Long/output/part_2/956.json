@@ -1,36 +1,51 @@
 [
   {
-    "text": "ViÃªm tÄ©nh máº¡ch vÃ  táº¯c tÄ©nh máº¡ch",
-    "position": [827, 868],
-    "type": "CHáº¨N_ÄOÃN",
+    "text": "Viêm tĩnh mạch và tắc tĩnh mạch",
+    "position": [
+      638,
+      669
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [298, 308],
-    "type": "THUá»C",
+    "position": [
+      231,
+      241
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [528, 541],
-    "type": "THUá»C",
+    "position": [
+      409,
+      422
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Heparin",
-    "position": [876, 883],
-    "type": "THUá»C",
+    "position": [
+      676,
+      683
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Warfarin",
-    "position": [954, 962],
-    "type": "THUá»C",
+    "position": [
+      739,
+      747
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   }

@@ -1,28 +1,44 @@
 [
   {
     "text": "đau nhức các khớp ngón tay",
-    "position": [143, 169],
+    "position": [
+      143,
+      169
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử vảy nến 5 năm",
-    "position": [442, 463],
+    "position": [
+      442,
+      463
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [631, 640],
+    "position": [
+      631,
+      640
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bệnh khớp trong các bệnh đặc hiệu khác đã được phân loại mục khác, vị trí khác",
-    "position": [1634, 1712],
+    "position": [
+      1634,
+      1712
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -33,14 +49,20 @@
   },
   {
     "text": "methylprednisolone 16mg",
-    "position": [2478, 2501],
+    "position": [
+      2478,
+      2501
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "methotrexate 2.5mg",
-    "position": [2541, 2559],
+    "position": [
+      2541,
+      2559
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

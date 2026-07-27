@@ -1,35 +1,56 @@
 [
   {
     "text": "nôn nghén có rối loạn chuyển hóa",
-    "position": [98, 130],
+    "position": [
+      98,
+      130
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O21.1"]
+    "candidates": [
+      "O21.1"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [303, 310],
+    "position": [
+      303,
+      310
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [357, 370],
+    "position": [
+      357,
+      370
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "xét nghiệm máu",
-    "position": [471, 485],
+    "position": [
+      471,
+      485
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm đường huyết",
-    "position": [487, 509],
+    "position": [
+      487,
+      509
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

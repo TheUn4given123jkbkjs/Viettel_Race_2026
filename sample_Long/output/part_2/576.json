@@ -1,9 +1,16 @@
 [
   {
     "text": "Propylthiouracil",
-    "position": [421, 437],
+    "position": [
+      421,
+      437
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["8794"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "8794"
+    ]
   }
 ]

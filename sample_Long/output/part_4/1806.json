@@ -1,49 +1,74 @@
 [
   {
     "text": "Hepatitis A Vaccine",
-    "position": [590, 609],
+    "position": [
+      590,
+      609
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["253174"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "253174"
+    ]
   },
   {
     "text": "đau thượng vị",
-    "position": [781, 794],
+    "position": [
+      781,
+      794
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt nhẹ",
-    "position": [1084, 1091],
+    "position": [
+      1084,
+      1091
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [1127, 1135],
+    "position": [
+      1127,
+      1135
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng da",
-    "position": [1327, 1334],
+    "position": [
+      1327,
+      1334
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng mắt",
-    "position": [1338, 1346],
+    "position": [
+      1338,
+      1346
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "paracetamol",
-    "position": [1628, 1639],
+    "position": [
+      1628,
+      1639
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

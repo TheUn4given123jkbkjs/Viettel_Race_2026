@@ -1,49 +1,74 @@
 [
   {
     "text": "mệt mỏi",
-    "position": [48, 55],
+    "position": [
+      48,
+      55
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [149, 166],
+    "position": [
+      149,
+      166
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [170, 179],
+    "position": [
+      170,
+      179
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "đường huyết",
-    "position": [237, 248],
+    "position": [
+      237,
+      248
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "180 mg/dL",
-    "position": [345, 354],
+    "position": [
+      345,
+      354
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "công thức máu",
-    "position": [289, 302],
+    "position": [
+      289,
+      302
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bình thường",
-    "position": [385, 396],
+    "position": [
+      385,
+      396
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

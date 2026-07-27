@@ -1,56 +1,84 @@
 [
   {
     "text": "đau ngực",
-    "position": [803, 811],
+    "position": [
+      803,
+      811
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [1208, 1220],
+    "position": [
+      1208,
+      1220
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [1300, 1308],
+    "position": [
+      1300,
+      1308
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Khó thở",
-    "position": [1372, 1379],
+    "position": [
+      1372,
+      1379
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực nhẹ",
-    "position": [1703, 1715],
+    "position": [
+      1703,
+      1715
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (EKG)",
-    "position": [2963, 2980],
+    "position": [
+      2963,
+      2980
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST chênh xuống",
-    "position": [3244, 3258],
+    "position": [
+      3244,
+      3258
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.08 ng/mL",
-    "position": [3392, 3402],
+    "position": [
+      3392,
+      3402
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

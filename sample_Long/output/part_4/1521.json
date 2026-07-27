@@ -1,23 +1,40 @@
 [
   {
     "text": "Sulfadoxine / Pyrimethamine",
-    "position": [400, 427],
+    "position": [
+      400,
+      427
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["203218"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "203218"
+    ]
   },
   {
     "text": "Đái tháo đường tuýp 2",
-    "position": [815, 836],
+    "position": [
+      815,
+      836
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "tăng huyết áp",
-    "position": [840, 853],
+    "position": [
+      840,
+      853
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -26,28 +43,40 @@
   },
   {
     "text": "xuất huyết dưới da",
-    "position": [968, 986],
+    "position": [
+      968,
+      986
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng nhẹ",
-    "position": [1081, 1089],
+    "position": [
+      1081,
+      1089
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [1157, 1164],
+    "position": [
+      1157,
+      1164
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm tổng phân tích tế bào máu ngoại vi",
-    "position": [1288, 1333],
+    "position": [
+      1288,
+      1333
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

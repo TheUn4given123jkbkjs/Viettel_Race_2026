@@ -1,7 +1,10 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [405, 418],
+    "position": [
+      405,
+      418
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,37 +15,60 @@
   },
   {
     "text": "đau ngực trái",
-    "position": [435, 448],
+    "position": [
+      435,
+      448
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường tuýp 2",
-    "position": [621, 642],
+    "position": [
+      621,
+      642
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Rậm lông tóc khác",
-    "position": [783, 800],
+    "position": [
+      783,
+      800
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L68.8"]
+    "candidates": [
+      "L68.8"
+    ]
   },
   {
     "text": "Spironolactone",
-    "position": [822, 836],
+    "position": [
+      822,
+      836
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["9997"]
+    "candidates": [
+      "9997"
+    ]
   },
   {
     "text": "Ethinylestradiol / Levonorgestrel",
-    "position": [877, 910],
+    "position": [
+      877,
+      910
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["214558"]
+    "candidates": [
+      "214558"
+    ]
   }
 ]

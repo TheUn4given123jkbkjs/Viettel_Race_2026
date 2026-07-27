@@ -1,49 +1,79 @@
 [
   {
     "text": "sẩn đỏ",
-    "position": [153, 159],
+    "position": [
+      153,
+      159
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không ngứa",
-    "position": [191, 201],
+    "position": [
+      191,
+      201
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bệnh khác của da và tổ chức dưới da trong các bệnh đã phân loại ở phần khác",
-    "position": [298, 373],
+    "position": [
+      298,
+      373
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L99", "L99*"]
+    "candidates": [
+      "L99",
+      "L99*"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [388, 397],
+    "position": [
+      388,
+      397
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "phủ nhận sốt",
-    "position": [1003, 1015],
+    "position": [
+      1003,
+      1015
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sinh thiết mẫu da",
-    "position": [1146, 1163],
+    "position": [
+      1146,
+      1163
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "giải phẫu bệnh",
-    "position": [1204, 1218],
+    "position": [
+      1204,
+      1218
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,21 +1,34 @@
 [
   {
     "text": "Scopolamine butylbromide",
-    "position": [439, 463],
+    "position": [
+      439,
+      463
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["1851"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1851"
+    ]
   },
   {
     "text": "đau nhức",
-    "position": [120, 128],
+    "position": [
+      120,
+      128
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thoái hóa khớp gối",
-    "position": [1033, 1051],
+    "position": [
+      1033,
+      1051
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -26,35 +39,52 @@
   },
   {
     "text": "Celecoxib",
-    "position": [1900, 1909],
+    "position": [
+      1900,
+      1909
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thực hiệnn",
-    "position": [1945, 1955],
+    "position": [
+      1945,
+      1955
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang khớp gối",
-    "position": [2110, 2126],
+    "position": [
+      2110,
+      2126
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đỡ đau  (có thể ngủ",
-    "position": [756, 775],
+    "position": [
+      756,
+      775
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "cứng khớp",
-    "position": [939, 948],
+    "position": [
+      939,
+      948
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

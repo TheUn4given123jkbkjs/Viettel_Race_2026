@@ -1,37 +1,58 @@
 [
   {
     "text": "sưng",
-    "position": [50, 54],
+    "position": [
+      50,
+      54
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bầm tím",
-    "position": [58, 65],
+    "position": [
+      58,
+      65
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [80, 83],
+    "position": [
+      80,
+      83
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Chấn thương khi sinh khác lên vòm sọ",
-    "position": [202, 238],
+    "position": [
+      202,
+      238
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P13.1"]
+    "candidates": [
+      "P13.1"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [343, 356],
+    "position": [
+      343,
+      356
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

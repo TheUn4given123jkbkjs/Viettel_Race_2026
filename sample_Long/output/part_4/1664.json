@@ -1,65 +1,102 @@
 [
   {
     "text": "Các biến dạnh ngón chân cái mắc phải khác",
-    "position": [114, 155],
+    "position": [
+      114,
+      155
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xương khơp",
-    "position": [1285, 1295],
+    "position": [
+      1285,
+      1295
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng tấy",
-    "position": [1511, 1519],
+    "position": [
+      1511,
+      1519
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cứng khớp",
-    "position": [1642, 1651],
+    "position": [
+      1642,
+      1651
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không có triệu chứng sốt",
-    "position": [1745, 1769],
+    "position": [
+      1745,
+      1769
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bệnh về xương khớp",
-    "position": [1950, 1968],
+    "position": [
+      1950,
+      1968
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["Z82.6"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "Z82.6"
+    ]
   },
   {
     "text": "X-quang bàn chân",
-    "position": [2054, 2070],
+    "position": [
+      2054,
+      2070
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [2327, 2340],
+    "position": [
+      2327,
+      2340
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Meloxicam",
-    "position": [2491, 2500],
+    "position": [
+      2491,
+      2500
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["41493"]
+    "candidates": [
+      "41493"
+    ]
   }
 ]

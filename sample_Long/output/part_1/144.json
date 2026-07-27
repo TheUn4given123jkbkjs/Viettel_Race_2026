@@ -1,30 +1,44 @@
 [
   {
-    "text": "Bá»nh khá»p váº£y náº¿n cÃ³ tá»n thÆ°Æ¡ng khá»p ngÃ³n xa (L40.5â )",
-    "position": [954, 1025],
-    "type": "CHáº¨N_ÄOÃN",
+    "text": "Bệnh khớp vảy nến có tổn thương khớp ngón xa (L40.5†)",
+    "position": [
+      731,
+      784
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "methotrexate",
-    "position": [1127, 1139],
-    "type": "THUá»C",
+    "position": [
+      857,
+      869
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ibuprofen",
-    "position": [1168, 1177],
-    "type": "THUá»C",
+    "position": [
+      894,
+      903
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "khÃ´ng sá»t",
-    "position": [174, 186],
-    "type": "TRIá»U_CHá»¨NG",
-    "assertions": ["isNegated"],
+    "text": "không sốt",
+    "position": [
+      139,
+      148
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

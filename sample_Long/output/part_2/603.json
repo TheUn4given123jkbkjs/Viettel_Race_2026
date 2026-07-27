@@ -1,42 +1,62 @@
 [
   {
     "text": "Sưng đau khớp cẳng tay",
-    "position": [85, 107],
+    "position": [
+      85,
+      107
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Mất cảm giác đau",
-    "position": [140, 156],
+    "position": [
+      140,
+      156
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "biến dạng khớp cẳng tay",
-    "position": [158, 181],
+    "position": [
+      158,
+      181
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh khớp do thần kinh, cẳng tay",
-    "position": [217, 249],
+    "position": [
+      217,
+      249
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M14.63*"]
+    "candidates": [
+      "M14.63*"
+    ]
   },
   {
     "text": "Diclofenac 50mg",
-    "position": [325, 340],
+    "position": [
+      325,
+      340
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amitriptyline 25mg",
-    "position": [361, 379],
+    "position": [
+      361,
+      379
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

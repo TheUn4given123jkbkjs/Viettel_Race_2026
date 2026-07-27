@@ -1,30 +1,50 @@
 [
   {
     "text": "cơn tím tái của trẻ sơ sinh",
-    "position": [71, 98],
+    "position": [
+      71,
+      98
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P28.2"]
+    "candidates": [
+      "P28.2"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [28, 37],
+    "position": [
+      28,
+      37
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Acetazolamide",
-    "position": [109, 122],
+    "position": [
+      109,
+      122
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": [
+      "167"
+    ]
   },
   {
     "text": "Oxygen",
-    "position": [126, 132],
+    "position": [
+      126,
+      132
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7806"]
+    "candidates": [
+      "7806"
+    ]
   }
 ]

@@ -1,23 +1,38 @@
 [
   {
     "text": "thiếu hụt đông máu sau đẻ",
-    "position": [117, 142],
+    "position": [
+      117,
+      142
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O72.3"]
+    "candidates": [
+      "O72.3"
+    ]
   },
   {
     "text": "Tranexamic acid",
-    "position": [173, 188],
+    "position": [
+      173,
+      188
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["10691"]
+    "candidates": [
+      "10691"
+    ]
   },
   {
     "text": "Oxytocin",
-    "position": [192, 200],
+    "position": [
+      192,
+      200
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7824"]
+    "candidates": [
+      "7824"
+    ]
   }
 ]

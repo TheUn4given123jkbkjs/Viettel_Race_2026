@@ -1,23 +1,38 @@
 [
   {
     "text": "Chuyển dạ đình trệ do khung chậu hẹp toàn diện",
-    "position": [0, 46],
+    "position": [
+      0,
+      46
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O65.1"]
+    "candidates": [
+      "O65.1"
+    ]
   },
   {
     "text": "Dexamethasone",
-    "position": [701, 714],
+    "position": [
+      701,
+      714
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": [
+      "3264"
+    ]
   },
   {
     "text": "Ringer's lactate",
-    "position": [754, 770],
+    "position": [
+      754,
+      770
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["35629"]
+    "candidates": [
+      "35629"
+    ]
   }
 ]

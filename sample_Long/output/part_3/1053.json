@@ -1,35 +1,54 @@
 [
   {
     "text": "Thủng túi mật",
-    "position": [0, 13],
+    "position": [
+      0,
+      13
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K82.2"]
+    "candidates": [
+      "K82.2"
+    ]
   },
   {
     "text": "đau bụng",
-    "position": [157, 165],
+    "position": [
+      157,
+      165
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [314, 331],
+    "position": [
+      314,
+      331
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "siêu âm",
-    "position": [459, 466],
+    "position": [
+      459,
+      466
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT scan",
-    "position": [472, 479],
+    "position": [
+      472,
+      479
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

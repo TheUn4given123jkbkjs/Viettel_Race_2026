@@ -1,35 +1,58 @@
 [
   {
     "text": "Hydrogen peroxide",
-    "position": [234, 251],
+    "position": [
+      234,
+      251
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["5499"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "5499"
+    ]
   },
   {
     "text": "sốt",
-    "position": [103, 106],
+    "position": [
+      103,
+      106
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [297, 304],
+    "position": [
+      297,
+      304
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "ceftriaxone",
-    "position": [308, 319],
+    "position": [
+      308,
+      319
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "troponin",
-    "position": [399, 407],
+    "position": [
+      399,
+      407
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,58 +1,86 @@
 [
   {
     "text": "đau quặn bụng",
-    "position": [25, 38],
+    "position": [
+      25,
+      38
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vàng mắt",
-    "position": [66, 74],
+    "position": [
+      66,
+      74
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm chức năng gan",
-    "position": [156, 180],
+    "position": [
+      156,
+      180
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm gan mật",
-    "position": [184, 199],
+    "position": [
+      184,
+      199
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không bị nôn mửa",
-    "position": [205, 221],
+    "position": [
+      205,
+      221
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm bilirubin",
-    "position": [443, 463],
+    "position": [
+      443,
+      463
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chụp CT ổ bụng có cản quang",
-    "position": [642, 669],
+    "position": [
+      642,
+      669
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [739, 748],
+    "position": [
+      739,
+      748
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

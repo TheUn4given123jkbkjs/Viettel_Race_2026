@@ -1,35 +1,52 @@
 [
   {
     "text": "Chăm sóc bà mẹ vì khối u của thân tử cung",
-    "position": [427, 468],
+    "position": [
+      427,
+      468
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O34.1"]
+    "candidates": [
+      "O34.1"
+    ]
   },
   {
     "text": "sốt",
-    "position": [335, 338],
+    "position": [
+      335,
+      338
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [342, 349],
+    "position": [
+      342,
+      349
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [118, 130],
+    "position": [
+      118,
+      130
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường loại 2",
-    "position": [134, 155],
+    "position": [
+      134,
+      155
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

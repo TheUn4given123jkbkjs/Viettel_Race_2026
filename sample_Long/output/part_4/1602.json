@@ -1,35 +1,58 @@
 [
   {
     "text": "Metformin",
-    "position": [49, 58],
+    "position": [
+      49,
+      58
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["6809"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "6809"
+    ]
   },
   {
     "text": "ĐTĐ týp 2",
-    "position": [264, 273],
+    "position": [
+      264,
+      273
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [644, 651],
+    "position": [
+      644,
+      651
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Đau quặn liên tục vùng hố chậu phải",
-    "position": [370, 405],
+    "position": [
+      370,
+      405
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm ruột thừa cấp",
-    "position": [889, 907],
+    "position": [
+      889,
+      907
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -40,7 +63,10 @@
   },
   {
     "text": "Paracetamol",
-    "position": [1009, 1020],
+    "position": [
+      1009,
+      1020
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

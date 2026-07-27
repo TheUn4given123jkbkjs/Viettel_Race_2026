@@ -1,37 +1,55 @@
 [
   {
     "text": "sốt",
-    "position": [237, 240],
+    "position": [
+      237,
+      240
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp tim nhanh",
-    "position": [242, 256],
+    "position": [
+      242,
+      256
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [260, 267],
+    "position": [
+      260,
+      267
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chảy máu sơ sinh",
-    "position": [323, 339],
+    "position": [
+      323,
+      339
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các chảy máu sơ sinh khác",
-    "position": [522, 547],
+    "position": [
+      522,
+      547
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P54", "P02.1"]
+    "candidates": [
+      "P54",
+      "P02.1"
+    ]
   }
 ]

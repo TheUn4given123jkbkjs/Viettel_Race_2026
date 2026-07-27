@@ -1,9 +1,14 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [49, 62],
+    "position": [
+      49,
+      62
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -12,37 +17,56 @@
   },
   {
     "text": "Đau ngực",
-    "position": [237, 245],
+    "position": [
+      237,
+      245
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ho ra máu",
-    "position": [285, 294],
+    "position": [
+      285,
+      294
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [647, 650],
+    "position": [
+      647,
+      650
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "CTA ngực",
-    "position": [794, 802],
+    "position": [
+      794,
+      802
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh mạch máu phổi xác định khác",
-    "position": [1781, 1813],
+    "position": [
+      1781,
+      1813
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I28.8"]
+    "candidates": [
+      "I28.8"
+    ]
   }
 ]

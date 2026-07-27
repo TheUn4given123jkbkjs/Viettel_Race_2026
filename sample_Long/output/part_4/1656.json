@@ -1,30 +1,50 @@
 [
   {
     "text": "Các rối loạn mô mềm khác trong những bệnh được xếp loại ở mục khác",
-    "position": [26, 92],
+    "position": [
+      26,
+      92
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M73.8*"]
+    "candidates": [
+      "M73.8*"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [119, 128],
+    "position": [
+      119,
+      128
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không ho",
-    "position": [130, 138],
+    "position": [
+      130,
+      138
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không mệt mỏi",
-    "position": [140, 153],
+    "position": [
+      140,
+      153
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

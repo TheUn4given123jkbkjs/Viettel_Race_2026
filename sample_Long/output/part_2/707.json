@@ -1,35 +1,54 @@
 [
   {
     "text": "Scopolamine butylbromide",
-    "position": [217, 241],
+    "position": [
+      217,
+      241
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["1851"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1851"
+    ]
   },
   {
     "text": "viêm dạ dày",
-    "position": [48, 59],
+    "position": [
+      48,
+      59
+    ],
     "type": "BỆNH_NỀN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [161, 169],
+    "position": [
+      161,
+      169
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [389, 409],
+    "position": [
+      389,
+      409
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nội soi dạ dày",
-    "position": [423, 437],
+    "position": [
+      423,
+      437
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

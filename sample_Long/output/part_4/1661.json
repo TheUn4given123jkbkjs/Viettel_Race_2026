@@ -1,28 +1,48 @@
 [
   {
     "text": "Hydrogen peroxide",
-    "position": [32, 49],
+    "position": [
+      32,
+      49
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["5499"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "5499"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [194, 203],
+    "position": [
+      194,
+      203
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [304, 321],
+    "position": [
+      304,
+      321
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "đường huyết cao",
-    "position": [477, 492],
+    "position": [
+      477,
+      492
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,23 +1,38 @@
 [
   {
     "text": "Ngạt nặng khi sinh",
-    "position": [127, 145],
+    "position": [
+      127,
+      145
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P21.0"]
+    "candidates": [
+      "P21.0"
+    ]
   },
   {
     "text": "Abacavir",
-    "position": [221, 229],
+    "position": [
+      221,
+      229
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": [
+      "190521"
+    ]
   },
   {
     "text": "Acenocoumarol",
-    "position": [231, 244],
+    "position": [
+      231,
+      244
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["154"]
+    "candidates": [
+      "154"
+    ]
   }
 ]

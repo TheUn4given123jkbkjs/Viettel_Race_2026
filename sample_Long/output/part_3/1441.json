@@ -1,49 +1,76 @@
 [
   {
     "text": "K vú",
-    "position": [329, 333],
+    "position": [
+      329,
+      333
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Doxorubicin",
-    "position": [434, 445],
+    "position": [
+      434,
+      445
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["3639"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3639"
+    ]
   },
   {
     "text": "Amlodipine5mg",
-    "position": [549, 562],
+    "position": [
+      549,
+      562
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "triêu chung khéo dài",
-    "position": [685, 705],
+    "position": [
+      685,
+      705
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phù mềm ấn lõm hai chi dưới",
-    "position": [779, 806],
+    "position": [
+      779,
+      806
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm tim",
-    "position": [1076, 1087],
+    "position": [
+      1076,
+      1087
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Suy tim sung huyết",
-    "position": [1202, 1220],
+    "position": [
+      1202,
+      1220
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -54,9 +81,14 @@
   },
   {
     "text": "Furosemide",
-    "position": [1315, 1325],
+    "position": [
+      1315,
+      1325
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4603"]
+    "candidates": [
+      "4603"
+    ]
   }
 ]

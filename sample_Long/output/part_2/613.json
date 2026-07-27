@@ -1,37 +1,56 @@
 [
   {
     "text": "ĐTĐ tuýp 2",
-    "position": [133, 143],
+    "position": [
+      133,
+      143
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Hôi miệng",
-    "position": [180, 189],
+    "position": [
+      180,
+      189
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chảy máu lợi khi chải răng",
-    "position": [279, 305],
+    "position": [
+      279,
+      305
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang panorama",
-    "position": [1650, 1666],
+    "position": [
+      1650,
+      1666
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Cặn lắng [tăng tích tụ] trên răng",
-    "position": [1782, 1815],
+    "position": [
+      1782,
+      1815
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K03.6"]
+    "candidates": [
+      "K03.6"
+    ]
   }
 ]

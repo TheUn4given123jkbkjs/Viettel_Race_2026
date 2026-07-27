@@ -1,7 +1,10 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [178, 191],
+    "position": [
+      178,
+      191
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,51 +15,84 @@
   },
   {
     "text": "aspirinn",
-    "position": [322, 330],
+    "position": [
+      322,
+      330
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sulfadoxine / Pyrimethamine",
-    "position": [510, 537],
+    "position": [
+      510,
+      537
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["203218"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "203218"
+    ]
   },
   {
     "text": "ung thư phổi",
-    "position": [737, 749],
+    "position": [
+      737,
+      749
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["D02.2"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "D02.2"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [1197, 1214],
+    "position": [
+      1197,
+      1214
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "huyếtáp",
-    "position": [1410, 1417],
+    "position": [
+      1410,
+      1417
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [1759, 1767],
+    "position": [
+      1759,
+      1767
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [2155, 2166],
+    "position": [
+      2155,
+      2166
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

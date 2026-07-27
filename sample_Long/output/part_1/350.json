@@ -1,23 +1,34 @@
 [
   {
     "text": "đau thắtlưng",
-    "position": [118, 130],
+    "position": [
+      118,
+      130
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cứng cột sống",
-    "position": [220, 233],
+    "position": [
+      220,
+      233
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thoái hóa cột sống",
-    "position": [420, 438],
+    "position": [
+      420,
+      438
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "M47.11",
       "M47.12",
@@ -26,35 +37,52 @@
   },
   {
     "text": "đau nhức",
-    "position": [624, 632],
+    "position": [
+      624,
+      632
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Rối loạn chức năng từng đoạn và phần thân",
-    "position": [1016, 1057],
+    "position": [
+      1016,
+      1057
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M99.0"]
+    "candidates": [
+      "M99.0"
+    ]
   },
   {
     "text": "hạn chế vận động",
-    "position": [1230, 1246],
+    "position": [
+      1230,
+      1246
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tê yếu chi",
-    "position": [1868, 1878],
+    "position": [
+      1868,
+      1878
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp cộng hưởng từ",
-    "position": [2059, 2077],
+    "position": [
+      2059,
+      2077
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

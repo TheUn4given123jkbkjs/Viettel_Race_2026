@@ -1,44 +1,68 @@
 [
   {
     "text": "Vitamin D",
-    "position": [15, 24],
+    "position": [
+      15,
+      24
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["97016"]
+    "candidates": [
+      "97016"
+    ]
   },
   {
     "text": "bệnh thiếu hụt Vitamin D",
-    "position": [266, 290],
+    "position": [
+      266,
+      290
+    ],
     "type": "TÊN_BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [382, 391],
+    "position": [
+      382,
+      391
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết thanh vitamin D",
-    "position": [765, 797],
+    "position": [
+      765,
+      797
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm mật độ khoáng chất xương",
-    "position": [801, 836],
+    "position": [
+      801,
+      836
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "************",
-    "position": [681, 693],
+    "position": [
+      681,
+      693
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

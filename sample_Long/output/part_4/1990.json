@@ -1,9 +1,14 @@
 [
   {
     "text": "bệnh thận di truyền, chưa được phân loại nơi khác, Khác",
-    "position": [66, 121],
+    "position": [
+      66,
+      121
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": [
       "N07.0",
       "N07.1",
@@ -12,28 +17,40 @@
   },
   {
     "text": "phẫu thuật",
-    "position": [393, 403],
+    "position": [
+      393,
+      403
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạn",
-    "position": [5, 8],
+    "position": [
+      5,
+      8
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sức khỏe",
-    "position": [227, 235],
+    "position": [
+      227,
+      235
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thận",
-    "position": [31, 35],
+    "position": [
+      31,
+      35
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,42 +1,64 @@
 [
   {
     "text": "Xơ teo tuyến vú nam bên phải",
-    "position": [0, 28],
+    "position": [
+      0,
+      28
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N60.33"]
+    "candidates": [
+      "N60.33"
+    ]
   },
   {
     "text": "giảm kích thước tuyến vú",
-    "position": [333, 357],
+    "position": [
+      333,
+      357
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thay đổi hình dạng tuyến vú",
-    "position": [359, 386],
+    "position": [
+      359,
+      386
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cảm giác đau hoặc khó chịu",
-    "position": [390, 416],
+    "position": [
+      390,
+      416
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "THA",
-    "position": [702, 705],
+    "position": [
+      702,
+      705
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [467, 477],
+    "position": [
+      467,
+      477
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

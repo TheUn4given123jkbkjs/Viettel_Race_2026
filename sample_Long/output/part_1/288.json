@@ -1,51 +1,76 @@
 [
   {
     "text": "sốt",
-    "position": [348, 351],
+    "position": [
+      348,
+      351
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [353, 360],
+    "position": [
+      353,
+      360
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [362, 369],
+    "position": [
+      362,
+      369
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [227, 247],
+    "position": [
+      227,
+      247
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm sinh hóa",
-    "position": [249, 268],
+    "position": [
+      249,
+      268
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [27, 44],
+    "position": [
+      27,
+      44
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "bố của bệnh nhân đã qua đời vì bệnh tim",
-    "position": [525, 564],
+    "position": [
+      525,
+      564
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

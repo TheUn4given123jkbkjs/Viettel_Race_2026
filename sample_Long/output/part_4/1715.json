@@ -1,30 +1,50 @@
 [
   {
     "text": "U xơ tuyến vú nam, không xác định bên",
-    "position": [67, 104],
+    "position": [
+      67,
+      104
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N60.25"]
+    "candidates": [
+      "N60.25"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [139, 146],
+    "position": [
+      139,
+      146
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "ceftriaxone",
-    "position": [150, 161],
+    "position": [
+      150,
+      161
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [13, 30],
+    "position": [
+      13,
+      30
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

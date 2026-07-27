@@ -1,42 +1,70 @@
 [
   {
     "text": "Viêm loét đại tràng chảy máu phần khác",
-    "position": [1225, 1263],
+    "position": [
+      1225,
+      1263
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K51.8"]
+    "candidates": [
+      "K51.8"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [995, 1008],
+    "position": [
+      995,
+      1008
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Omeprazole",
-    "position": [1031, 1041],
+    "position": [
+      1031,
+      1041
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7646"]
+    "candidates": [
+      "7646"
+    ]
   },
   {
     "text": "Ciprofloxacin",
-    "position": [1063, 1076],
+    "position": [
+      1063,
+      1076
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2551"]
+    "candidates": [
+      "2551"
+    ]
   },
   {
     "text": "Ondansetron",
-    "position": [1097, 1108],
+    "position": [
+      1097,
+      1108
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["26225"]
+    "candidates": [
+      "26225"
+    ]
   },
   {
     "text": "Propofol",
-    "position": [1126, 1134],
+    "position": [
+      1126,
+      1134
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

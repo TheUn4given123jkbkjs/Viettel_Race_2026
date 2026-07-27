@@ -1,44 +1,69 @@
 [
   {
     "text": "ho khan",
-    "position": [100, 107],
+    "position": [
+      100,
+      107
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khàn tiếng",
-    "position": [111, 121],
+    "position": [
+      111,
+      121
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [145, 148],
+    "position": [
+      145,
+      148
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "tím tái",
-    "position": [193, 200],
+    "position": [
+      193,
+      200
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "thở rít",
-    "position": [211, 218],
+    "position": [
+      211,
+      218
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm thanh khí quản cấp",
-    "position": [269, 292],
+    "position": [
+      269,
+      292
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J04", "J04.2"]
+    "candidates": [
+      "J04",
+      "J04.2"
+    ]
   }
 ]

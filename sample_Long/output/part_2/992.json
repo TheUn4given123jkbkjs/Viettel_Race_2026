@@ -1,23 +1,40 @@
 [
   {
     "text": "Viêm cột sống vảy nến (L40.5†), vùng bả vai",
-    "position": [644, 687],
+    "position": [
+      644,
+      687
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["M07.21*"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "M07.21*"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [701, 714],
+    "position": [
+      701,
+      714
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [734, 741],
+    "position": [
+      734,
+      741
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   }
 ]

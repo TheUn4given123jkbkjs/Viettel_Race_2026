@@ -1,21 +1,35 @@
 [
   {
     "text": "Bệnh thận do tăng huyết áp có sẵn gây biến chứng cho thai nghén, khi đẻ và sau khi đẻ",
-    "position": [0, 85],
+    "position": [
+      0,
+      85
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O10.2", "O10.3"]
+    "candidates": [
+      "O10.2",
+      "O10.3"
+    ]
   },
   {
     "text": "Amlodipine",
-    "position": [838, 848],
+    "position": [
+      838,
+      848
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "Lisinopril",
-    "position": [852, 862],
+    "position": [
+      852,
+      862
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

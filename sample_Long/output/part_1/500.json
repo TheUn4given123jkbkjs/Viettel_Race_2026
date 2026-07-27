@@ -1,42 +1,62 @@
 [
   {
     "text": "sốt",
-    "position": [350, 353],
+    "position": [
+      350,
+      353
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [366, 374],
+    "position": [
+      366,
+      374
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu toàn bộ",
-    "position": [630, 652],
+    "position": [
+      630,
+      652
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm chức năng gan",
-    "position": [654, 678],
+    "position": [
+      654,
+      678
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [693, 701],
+    "position": [
+      693,
+      701
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0,05 ng/mL",
-    "position": [783, 793],
+    "position": [
+      783,
+      793
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

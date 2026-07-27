@@ -1,42 +1,69 @@
 [
   {
     "text": "suy dinh dưỡng thai kỳ",
-    "position": [187, 209],
+    "position": [
+      187,
+      209
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "hen suyễn",
-    "position": [230, 239],
+    "position": [
+      230,
+      239
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical", "isFamily"],
-    "candidates": ["J45"]
+    "assertions": [
+      "isHistorical",
+      "isFamily"
+    ],
+    "candidates": [
+      "J45"
+    ]
   },
   {
     "text": "suy hô hấp cấp",
-    "position": [295, 309],
+    "position": [
+      295,
+      309
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Thai nhi và trẻ sơ sinh bị ảnh hưởng do tử vong mẹ",
-    "position": [645, 695],
+    "position": [
+      645,
+      695
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P01.6"]
+    "candidates": [
+      "P01.6"
+    ]
   },
   {
     "text": "Poractant alfa 80mg/ml",
-    "position": [891, 913],
+    "position": [
+      891,
+      913
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Caffeine citrate 20mg/ml tiêm truyền tĩnh mạch",
-    "position": [1029, 1075],
+    "position": [
+      1029,
+      1075
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

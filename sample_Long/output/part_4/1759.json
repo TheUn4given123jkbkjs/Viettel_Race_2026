@@ -1,7 +1,10 @@
 [
   {
     "text": "viêm da cơ",
-    "position": [41, 51],
+    "position": [
+      41,
+      51
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,30 +15,50 @@
   },
   {
     "text": "Aspirin",
-    "position": [200, 207],
+    "position": [
+      200,
+      207
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [211, 224],
+    "position": [
+      211,
+      224
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [129, 146],
+    "position": [
+      129,
+      146
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [150, 153],
+    "position": [
+      150,
+      153
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

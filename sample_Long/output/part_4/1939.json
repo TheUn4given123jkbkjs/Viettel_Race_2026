@@ -1,49 +1,74 @@
 [
   {
     "text": "suy tim",
-    "position": [127, 134],
+    "position": [
+      127,
+      134
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [214, 221],
+    "position": [
+      214,
+      221
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "warfarin",
-    "position": [225, 233],
+    "position": [
+      225,
+      233
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["11289"]
+    "candidates": [
+      "11289"
+    ]
   },
   {
     "text": "số lượng tế bào hồng cầu giảm",
-    "position": [419, 448],
+    "position": [
+      419,
+      448
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hemoglobin",
-    "position": [450, 460],
+    "position": [
+      450,
+      460
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "9.2 g/dL",
-    "position": [462, 470],
+    "position": [
+      462,
+      470
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin I",
-    "position": [650, 660],
+    "position": [
+      650,
+      660
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

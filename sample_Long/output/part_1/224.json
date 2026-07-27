@@ -1,35 +1,52 @@
 [
   {
     "text": "Biến chứng khác của gây tê tủy sống và gây tê ngoài màng cứng trong chuyển dạ, trong đẻ",
-    "position": [119, 206],
+    "position": [
+      119,
+      206
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O74.6"]
+    "candidates": [
+      "O74.6"
+    ]
   },
   {
     "text": "tụt HA",
-    "position": [227, 233],
+    "position": [
+      227,
+      233
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [249, 256],
+    "position": [
+      249,
+      256
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ringer's lactate 500ml",
-    "position": [318, 340],
+    "position": [
+      318,
+      340
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ephedrine 5mg",
-    "position": [370, 383],
+    "position": [
+      370,
+      383
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

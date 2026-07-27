@@ -1,56 +1,88 @@
 [
   {
     "text": "bọng nước",
-    "position": [168, 177],
+    "position": [
+      168,
+      177
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ngứa ngáy",
-    "position": [238, 247],
+    "position": [
+      238,
+      247
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau rát",
-    "position": [258, 265],
+    "position": [
+      258,
+      265
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tình trạng tương tự",
-    "position": [337, 356],
+    "position": [
+      337,
+      356
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Các bệnh da bọng nước đặc hiệu khác",
-    "position": [896, 931],
+    "position": [
+      896,
+      931
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L13.8"]
+    "candidates": [
+      "L13.8"
+    ]
   },
   {
     "text": "Dapsone",
-    "position": [1116, 1123],
+    "position": [
+      1116,
+      1123
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3108"]
+    "candidates": [
+      "3108"
+    ]
   },
   {
     "text": "Prednisolone",
-    "position": [1321, 1333],
+    "position": [
+      1321,
+      1333
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   },
   {
     "text": "xét nghiệm máu",
-    "position": [1538, 1552],
+    "position": [
+      1538,
+      1552
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

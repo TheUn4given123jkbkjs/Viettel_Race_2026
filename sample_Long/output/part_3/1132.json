@@ -1,70 +1,106 @@
 [
   {
     "text": "cảm giác bóp nghẹt ngực",
-    "position": [340, 363],
+    "position": [
+      340,
+      363
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [692, 700],
+    "position": [
+      692,
+      700
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [960, 967],
+    "position": [
+      960,
+      967
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [1002, 1010],
+    "position": [
+      1002,
+      1010
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (EKG)",
-    "position": [1987, 2004],
+    "position": [
+      1987,
+      2004
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp xoang nhanh với sự xuất hiện của sóng T âm ở các chuyển đạo DII, DIII, aVF",
-    "position": [2071, 2150],
+    "position": [
+      2071,
+      2150
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin T",
-    "position": [2167, 2177],
+    "position": [
+      2167,
+      2177
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "14 ng/L",
-    "position": [2307, 2314],
+    "position": [
+      2307,
+      2314
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "số lượng bạch cầu",
-    "position": [2448, 2465],
+    "position": [
+      2448,
+      2465
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "11,000 /mm3",
-    "position": [2469, 2480],
+    "position": [
+      2469,
+      2480
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

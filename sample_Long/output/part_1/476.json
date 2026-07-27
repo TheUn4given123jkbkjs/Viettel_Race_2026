@@ -1,42 +1,68 @@
 [
   {
     "text": "Nystatin",
-    "position": [490, 498],
+    "position": [
+      490,
+      498
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["7597"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "7597"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [298, 305],
+    "position": [
+      298,
+      305
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "ceftriaxone",
-    "position": [309, 320],
+    "position": [
+      309,
+      320
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "troponin",
-    "position": [365, 373],
+    "position": [
+      365,
+      373
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [132, 144],
+    "position": [
+      132,
+      144
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường loại 2",
-    "position": [148, 165],
+    "position": [
+      148,
+      165
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

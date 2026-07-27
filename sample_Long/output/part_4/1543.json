@@ -1,49 +1,76 @@
 [
   {
     "text": "đau rát vùng hậu môn",
-    "position": [253, 273],
+    "position": [
+      253,
+      273
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khú khối",
-    "position": [329, 337],
+    "position": [
+      329,
+      337
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [577, 586],
+    "position": [
+      577,
+      586
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [607, 624],
+    "position": [
+      607,
+      624
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Trĩ và huyết khối tĩnh mạch qua hậu môn",
-    "position": [1174, 1213],
+    "position": [
+      1174,
+      1213
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K64"]
+    "candidates": [
+      "K64"
+    ]
   },
   {
     "text": "nặng nề ở vùng hậumôn",
-    "position": [1529, 1550],
+    "position": [
+      1529,
+      1550
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nội soi hậu môn trực tràng",
-    "position": [1807, 1833],
+    "position": [
+      1807,
+      1833
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

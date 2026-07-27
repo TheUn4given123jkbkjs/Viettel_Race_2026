@@ -1,42 +1,69 @@
 [
   {
     "text": "bệnh tim mạch",
-    "position": [172, 185],
+    "position": [
+      172,
+      185
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [407, 414],
+    "position": [
+      407,
+      414
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [439, 450],
+    "position": [
+      439,
+      450
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Insulin",
-    "position": [251, 258],
+    "position": [
+      251,
+      258
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["253182", "317235"]
+    "candidates": [
+      "253182",
+      "317235"
+    ]
   },
   {
     "text": "sốt cao",
-    "position": [358, 365],
+    "position": [
+      358,
+      365
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [369, 377],
+    "position": [
+      369,
+      377
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

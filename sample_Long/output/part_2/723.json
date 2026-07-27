@@ -1,28 +1,42 @@
 [
   {
     "text": "Biến đổi kẽ ống thận trong các rối loạn mô liên kết hệ thống",
-    "position": [76, 136],
+    "position": [
+      76,
+      136
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N16.4*"]
+    "candidates": [
+      "N16.4*"
+    ]
   },
   {
     "text": "thừa cân",
-    "position": [571, 579],
+    "position": [
+      571,
+      579
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chế độ ăn uống lành mạnh",
-    "position": [589, 613],
+    "position": [
+      589,
+      613
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tập thể dục",
-    "position": [700, 711],
+    "position": [
+      700,
+      711
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

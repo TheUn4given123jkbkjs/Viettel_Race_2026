@@ -1,14 +1,22 @@
 [
   {
     "text": "Acetaminophen",
-    "position": [245, 258],
+    "position": [
+      245,
+      258
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Isoniazid",
-    "position": [335, 344],
+    "position": [
+      335,
+      344
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": [

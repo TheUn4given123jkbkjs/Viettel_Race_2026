@@ -1,37 +1,58 @@
 [
   {
     "text": "Omeprazole",
-    "position": [224, 234],
+    "position": [
+      224,
+      234
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7646"]
+    "candidates": [
+      "7646"
+    ]
   },
   {
     "text": "Pantoprazole",
-    "position": [238, 250],
+    "position": [
+      238,
+      250
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["40790"]
+    "candidates": [
+      "40790"
+    ]
   },
   {
     "text": "đau bụng",
-    "position": [55, 63],
+    "position": [
+      55,
+      63
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn mửa",
-    "position": [87, 94],
+    "position": [
+      87,
+      94
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [111, 120],
+    "position": [
+      111,
+      120
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

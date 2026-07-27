@@ -1,14 +1,24 @@
 [
   {
     "text": "Fluocinolone acetonide",
-    "position": [71, 93],
+    "position": [
+      71,
+      93
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["4461"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "4461"
+    ]
   },
   {
     "text": "bệnh vảy nến",
-    "position": [107, 119],
+    "position": [
+      107,
+      119
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,21 +29,34 @@
   },
   {
     "text": "dị ứng",
-    "position": [149, 155],
+    "position": [
+      149,
+      155
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Metformin",
-    "position": [724, 733],
+    "position": [
+      724,
+      733
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["6809"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "6809"
+    ]
   },
   {
     "text": "tiểu đường",
-    "position": [752, 762],
+    "position": [
+      752,
+      762
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

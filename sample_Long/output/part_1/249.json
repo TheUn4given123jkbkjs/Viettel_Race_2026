@@ -1,7 +1,10 @@
 [
   {
     "text": "Bệnh khác của ruột",
-    "position": [434, 452],
+    "position": [
+      434,
+      452
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,9 +15,14 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [495, 508],
+    "position": [
+      495,
+      508
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

@@ -1,23 +1,36 @@
 [
   {
     "text": "BỆNH U HẠT WEGENER KHÔNG ỨNG DỤNG RÈN",
-    "position": [201, 238],
+    "position": [
+      201,
+      238
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [351, 358],
+    "position": [
+      351,
+      358
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [379, 390],
+    "position": [
+      379,
+      390
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

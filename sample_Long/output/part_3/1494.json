@@ -1,42 +1,64 @@
 [
   {
     "text": "Propranolol",
-    "position": [75, 86],
+    "position": [
+      75,
+      86
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["8787"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "8787"
+    ]
   },
   {
     "text": "cao huyết áp",
-    "position": [43, 55],
+    "position": [
+      43,
+      55
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [140, 147],
+    "position": [
+      140,
+      147
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [151, 158],
+    "position": [
+      151,
+      158
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy giảm chức năng tuyến giáp",
-    "position": [1053, 1082],
+    "position": [
+      1053,
+      1082
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh phổi tắc nghẽn mãn tính",
-    "position": [1105, 1133],
+    "position": [
+      1105,
+      1133
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

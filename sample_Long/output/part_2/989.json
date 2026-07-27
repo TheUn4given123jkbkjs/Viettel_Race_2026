@@ -1,28 +1,46 @@
 [
   {
     "text": "Acenocoumarol",
-    "position": [1665, 1678],
+    "position": [
+      1665,
+      1678
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["154"]
+    "candidates": [
+      "154"
+    ]
   },
   {
     "text": "Dexamethasone",
-    "position": [1773, 1786],
+    "position": [
+      1773,
+      1786
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": [
+      "3264"
+    ]
   },
   {
     "text": "Tiền sử THA 5 năm",
-    "position": [376, 393],
+    "position": [
+      376,
+      393
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "ECG",
-    "position": [787, 790],
+    "position": [
+      787,
+      790
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

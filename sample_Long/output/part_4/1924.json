@@ -1,23 +1,34 @@
 [
   {
     "text": "tiểu đường thai kỳ",
-    "position": [176, 194],
+    "position": [
+      176,
+      194
+    ],
     "type": "BỆNH_NỀN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao huyết áp",
-    "position": [228, 240],
+    "position": [
+      228,
+      240
+    ],
     "type": "BỆNH_NỀN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [382, 395],
+    "position": [
+      382,
+      395
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

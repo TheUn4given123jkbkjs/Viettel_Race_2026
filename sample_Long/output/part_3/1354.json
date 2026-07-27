@@ -1,43 +1,61 @@
 [
   {
-    "text": "Bá»nh nhiá»m khuáº©n vÃ  kÃ½ sinh trÃ¹ng ÄÆ°á»£c Äá»nh rÃµ khÃ¡c",
-    "position": [1589, 1658],
-    "type": "CHáº¨N_ÄOÃN",
+    "text": "Bệnh nhiễm khuẩn và ký sinh trùng được định rõ khác",
+    "position": [
+      1227,
+      1278
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "sá»t cao kÃ©o dÃ i 7 ngÃ y",
-    "position": [45, 72],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "sốt cao kéo dài 7 ngày",
+    "position": [
+      36,
+      58
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "ra má» hÃ´i ÄÃªm",
-    "position": [104, 122],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "ra mồ hôi đêm",
+    "position": [
+      82,
+      95
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "giáº£m cÃ¢n khÃ´ng rÃµ nguyÃªn nhÃ¢n",
-    "position": [127, 163],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "giảm cân không rõ nguyên nhân",
+    "position": [
+      99,
+      128
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "háº¡ch báº¹n pháº£i to",
-    "position": [779, 801],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "hạch bẹn phải to",
+    "position": [
+      593,
+      609
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "váº¿t loÃ©t nhá» dáº¡ng giÃ¡c cung á» báº¯p chÃ¢n pháº£i",
-    "position": [1410, 1468],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "vết loét nhỏ dạng giác cung ở bắp chân phải",
+    "position": [
+      1095,
+      1138
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

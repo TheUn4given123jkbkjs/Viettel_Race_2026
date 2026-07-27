@@ -1,42 +1,64 @@
 [
   {
     "text": "đau bụn",
-    "position": [82, 89],
+    "position": [
+      82,
+      89
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "máu âm đạo",
-    "position": [113, 123],
+    "position": [
+      113,
+      123
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [157, 166],
+    "position": [
+      157,
+      166
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Rau bong non có thiếu hụt yếu tố đông máu",
-    "position": [736, 777],
+    "position": [
+      736,
+      777
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O45.0"]
+    "candidates": [
+      "O45.0"
+    ]
   },
   {
     "text": "tử cung co cứng như gỗ",
-    "position": [622, 644],
+    "position": [
+      622,
+      644
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm đông máu toàn bộ",
-    "position": [2441, 2468],
+    "position": [
+      2441,
+      2468
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

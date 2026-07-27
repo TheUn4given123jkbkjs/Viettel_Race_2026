@@ -1,7 +1,10 @@
 [
   {
     "text": "Bệnh khớp do đái tháo đường (E10-E14 với ký tự thứ tư chung .6†)",
-    "position": [0, 64],
+    "position": [
+      0,
+      64
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Metformin",
-    "position": [320, 329],
+    "position": [
+      320,
+      329
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6809"]
+    "candidates": [
+      "6809"
+    ]
   },
   {
     "text": "Acarbose",
-    "position": [333, 341],
+    "position": [
+      333,
+      341
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["16681"]
+    "candidates": [
+      "16681"
+    ]
   }
 ]

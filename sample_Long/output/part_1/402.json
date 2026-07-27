@@ -1,49 +1,74 @@
 [
   {
     "text": "khó thở",
-    "position": [43, 50],
+    "position": [
+      43,
+      50
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực trái",
-    "position": [140, 153],
+    "position": [
+      140,
+      153
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [178, 186],
+    "position": [
+      178,
+      186
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Huyết áp",
-    "position": [242, 250],
+    "position": [
+      242,
+      250
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "130/70 mmHg",
-    "position": [252, 263],
+    "position": [
+      252,
+      263
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP",
-    "position": [301, 304],
+    "position": [
+      301,
+      304
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "227.0 mg/L",
-    "position": [306, 316],
+    "position": [
+      306,
+      316
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

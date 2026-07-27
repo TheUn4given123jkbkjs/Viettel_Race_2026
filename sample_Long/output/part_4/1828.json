@@ -1,58 +1,89 @@
 [
   {
     "text": "Ung thư phổi",
-    "position": [118, 130],
+    "position": [
+      118,
+      130
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["D02.2"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "D02.2"
+    ]
   },
   {
     "text": "Khó thở",
-    "position": [179, 186],
+    "position": [
+      179,
+      186
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ho khan",
-    "position": [342, 349],
+    "position": [
+      342,
+      349
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "HRCT",
-    "position": [531, 535],
+    "position": [
+      531,
+      535
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tổn thương dạng lưới",
-    "position": [596, 616],
+    "position": [
+      596,
+      616
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ran nổ",
-    "position": [1117, 1123],
+    "position": [
+      1117,
+      1123
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ngón tay dùi trống",
-    "position": [1180, 1198],
+    "position": [
+      1180,
+      1198
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh phổi mô kẽ, không phân loại",
-    "position": [1310, 1342],
+    "position": [
+      1310,
+      1342
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J70.4", "J84.9"]
+    "candidates": [
+      "J70.4",
+      "J84.9"
+    ]
   }
 ]

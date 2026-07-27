@@ -1,35 +1,54 @@
 [
   {
     "text": "Chuyển dạ và đẻ có biến chứng suy thai",
-    "position": [85, 123],
+    "position": [
+      85,
+      123
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O68"]
+    "candidates": [
+      "O68"
+    ]
   },
   {
     "text": "thiếu oxy",
-    "position": [434, 443],
+    "position": [
+      434,
+      443
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tim thai bất thường",
-    "position": [499, 518],
+    "position": [
+      499,
+      518
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Oxygen",
-    "position": [680, 686],
+    "position": [
+      680,
+      686
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7806"]
+    "candidates": [
+      "7806"
+    ]
   },
   {
     "text": "Ringer's lactate 500ml truyền tĩnh mạch",
-    "position": [725, 764],
+    "position": [
+      725,
+      764
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

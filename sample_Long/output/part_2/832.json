@@ -1,9 +1,14 @@
 [
   {
     "text": "Tetanus Vaccine",
-    "position": [507, 522],
+    "position": [
+      507,
+      522
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "834765",
       "309949",
@@ -12,9 +17,14 @@
   },
   {
     "text": "Tăng huyết áp",
-    "position": [260, 273],
+    "position": [
+      260,
+      273
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -23,9 +33,14 @@
   },
   {
     "text": "Đột quỵ",
-    "position": [719, 726],
+    "position": [
+      719,
+      726
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "E88.31",
       "G46.3*",
@@ -34,28 +49,40 @@
   },
   {
     "text": "đau quặn từng cơn",
-    "position": [825, 842],
+    "position": [
+      825,
+      842
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Buscopan 20mg",
-    "position": [1204, 1217],
+    "position": [
+      1204,
+      1217
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm túi mật cấp do sỏi",
-    "position": [1255, 1278],
+    "position": [
+      1255,
+      1278
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đục thủy tinh thể",
-    "position": [1320, 1337],
+    "position": [
+      1320,
+      1337
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

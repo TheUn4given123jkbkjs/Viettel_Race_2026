@@ -1,30 +1,51 @@
 [
   {
     "text": "bệnh van động mạch chủ không do thấp",
-    "position": [39, 75],
+    "position": [
+      39,
+      75
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I06.9", "I35"]
+    "candidates": [
+      "I06.9",
+      "I35"
+    ]
   },
   {
     "text": "Amlodipine",
-    "position": [164, 174],
+    "position": [
+      164,
+      174
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "Atenolol",
-    "position": [178, 186],
+    "position": [
+      178,
+      186
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1202"]
+    "candidates": [
+      "1202"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [276, 285],
+    "position": [
+      276,
+      285
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

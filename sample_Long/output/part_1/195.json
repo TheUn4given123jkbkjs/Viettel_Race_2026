@@ -1,28 +1,46 @@
 [
   {
     "text": "bệnh khớp do thần kinh, ở gối",
-    "position": [240, 269],
+    "position": [
+      240,
+      269
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M14.66"]
+    "candidates": [
+      "M14.66"
+    ]
   },
   {
     "text": "THA",
-    "position": [53, 56],
+    "position": [
+      53,
+      56
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "tiền sử đau cơ",
-    "position": [66, 80],
+    "position": [
+      66,
+      80
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Bệnh án số 123456",
-    "position": [0, 17],
+    "position": [
+      0,
+      17
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

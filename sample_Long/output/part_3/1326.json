@@ -1,7 +1,10 @@
 [
   {
     "text": "bệnh dây chằng",
-    "position": [116, 130],
+    "position": [
+      116,
+      130
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,23 +15,38 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [201, 214],
+    "position": [
+      201,
+      214
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [218, 227],
+    "position": [
+      218,
+      227
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [27, 44],
+    "position": [
+      27,
+      44
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

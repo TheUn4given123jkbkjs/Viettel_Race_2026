@@ -1,51 +1,80 @@
 [
   {
     "text": "phù hai chi dưới",
-    "position": [392, 408],
+    "position": [
+      392,
+      408
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Albumin máu",
-    "position": [620, 631],
+    "position": [
+      620,
+      631
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Protein niệu 4.5g/24h",
-    "position": [654, 675],
+    "position": [
+      654,
+      675
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Biến đổi cầu thận trong bệnh máu và các rối loạn liên quan cơ chế miễn dịch",
-    "position": [850, 925],
+    "position": [
+      850,
+      925
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N08.2*"]
+    "candidates": [
+      "N08.2*"
+    ]
   },
   {
     "text": "Prednisolone",
-    "position": [974, 986],
+    "position": [
+      974,
+      986
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   },
   {
     "text": "Furosemide",
-    "position": [1175, 1185],
+    "position": [
+      1175,
+      1185
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4603"]
+    "candidates": [
+      "4603"
+    ]
   },
   {
     "text": "Enalapril",
-    "position": [1248, 1257],
+    "position": [
+      1248,
+      1257
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3827"]
+    "candidates": [
+      "3827"
+    ]
   }
 ]

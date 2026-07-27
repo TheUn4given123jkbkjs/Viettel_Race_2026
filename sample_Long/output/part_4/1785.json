@@ -1,14 +1,24 @@
 [
   {
     "text": "Methadone",
-    "position": [168, 177],
+    "position": [
+      168,
+      177
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["6813"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "6813"
+    ]
   },
   {
     "text": "sử dụng thuốc",
-    "position": [154, 167],
+    "position": [
+      154,
+      167
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,21 +29,30 @@
   },
   {
     "text": "thuốc Methadone",
-    "position": [162, 177],
+    "position": [
+      162,
+      177
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tử vong",
-    "position": [122, 129],
+    "position": [
+      122,
+      129
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy hô hấp",
-    "position": [256, 266],
+    "position": [
+      256,
+      266
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

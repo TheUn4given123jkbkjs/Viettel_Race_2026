@@ -1,23 +1,40 @@
 [
   {
     "text": "Viêm da cơ và viêm đa cơ tự miễn trong các bệnh lý khối u (C00-D48†), cổ, bàn chân",
-    "position": [74, 156],
+    "position": [
+      74,
+      156
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["M36.07*"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "M36.07*"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [221, 228],
+    "position": [
+      221,
+      228
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [249, 260],
+    "position": [
+      249,
+      260
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

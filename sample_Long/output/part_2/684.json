@@ -1,7 +1,10 @@
 [
   {
     "text": "nhiễm khuẩn sơ sinh",
-    "position": [85, 104],
+    "position": [
+      85,
+      104
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,37 +15,61 @@
   },
   {
     "text": "Amoxicillin",
-    "position": [256, 267],
+    "position": [
+      256,
+      267
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["723", "19711"]
+    "candidates": [
+      "723",
+      "19711"
+    ]
   },
   {
     "text": "Acyclovir",
-    "position": [271, 280],
+    "position": [
+      271,
+      280
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["281"]
+    "candidates": [
+      "281"
+    ]
   },
   {
     "text": "sốt",
-    "position": [137, 140],
+    "position": [
+      137,
+      140
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không có biểu hiện buồn nôn",
-    "position": [142, 169],
+    "position": [
+      142,
+      169
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bố của bệnh nhân",
-    "position": [543, 559],
+    "position": [
+      543,
+      559
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

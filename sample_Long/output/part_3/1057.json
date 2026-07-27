@@ -1,51 +1,84 @@
 [
   {
     "text": "Beclomethasone",
-    "position": [33, 47],
+    "position": [
+      33,
+      47
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["1347"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1347"
+    ]
   },
   {
     "text": "hypertension",
-    "position": [84, 96],
+    "position": [
+      84,
+      96
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [162, 169],
+    "position": [
+      162,
+      169
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [209, 217],
+    "position": [
+      209,
+      217
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [238, 246],
+    "position": [
+      238,
+      246
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [305, 312],
+    "position": [
+      305,
+      312
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "ceftriaxone",
-    "position": [316, 327],
+    "position": [
+      316,
+      327
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

@@ -1,37 +1,60 @@
 [
   {
     "text": "Tropicamide",
-    "position": [249, 260],
+    "position": [
+      249,
+      260
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["10869"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "10869"
+    ]
   },
   {
     "text": "nhìn mờ",
-    "position": [392, 399],
+    "position": [
+      392,
+      399
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhạy cảm với ánh sáng",
-    "position": [401, 422],
+    "position": [
+      401,
+      422
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm màng bồ đào",
-    "position": [147, 163],
+    "position": [
+      147,
+      163
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["B00.54"]
+    "candidates": [
+      "B00.54"
+    ]
   },
   {
     "text": "co đồng tử",
-    "position": [273, 283],
+    "position": [
+      273,
+      283
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O62.4"]
+    "candidates": [
+      "O62.4"
+    ]
   }
 ]

@@ -1,7 +1,10 @@
 [
   {
     "text": "Políp mũi",
-    "position": [0, 9],
+    "position": [
+      0,
+      9
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,30 +15,48 @@
   },
   {
     "text": "nghẹt mũi",
-    "position": [118, 127],
+    "position": [
+      118,
+      127
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [328, 341],
+    "position": [
+      328,
+      341
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Acetic acid",
-    "position": [364, 375],
+    "position": [
+      364,
+      375
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["168"]
+    "candidates": [
+      "168"
+    ]
   },
   {
     "text": "Acetazolamide",
-    "position": [497, 510],
+    "position": [
+      497,
+      510
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["167"]
+    "candidates": [
+      "167"
+    ]
   }
 ]

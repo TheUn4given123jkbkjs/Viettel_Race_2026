@@ -1,91 +1,136 @@
 [
   {
     "text": "khó thở khi gắng sức",
-    "position": [183, 203],
+    "position": [
+      183,
+      203
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "đau thắt ngực",
-    "position": [382, 395],
+    "position": [
+      382,
+      395
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực trái",
-    "position": [883, 896],
+    "position": [
+      883,
+      896
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [1218, 1227],
+    "position": [
+      1218,
+      1227
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [1356, 1373],
+    "position": [
+      1356,
+      1373
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [1579, 1591],
+    "position": [
+      1579,
+      1591
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhịp tim nhanh",
-    "position": [1768, 1782],
+    "position": [
+      1768,
+      1782
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (EKG)",
-    "position": [2528, 2545],
+    "position": [
+      2528,
+      2545
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ST chênh lên ở các chuyển đạo từ V1 đến V6",
-    "position": [2586, 2628],
+    "position": [
+      2586,
+      2628
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin T",
-    "position": [2701, 2711],
+    "position": [
+      2701,
+      2711
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "1.2 ng/mL",
-    "position": [2734, 2743],
+    "position": [
+      2734,
+      2743
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ngực thẳng",
-    "position": [3078, 3096],
+    "position": [
+      3078,
+      3096
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bóng tim không to",
-    "position": [3130, 3147],
+    "position": [
+      3130,
+      3147
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,44 +1,72 @@
 [
   {
     "text": "Ketamine",
-    "position": [191, 199],
+    "position": [
+      191,
+      199
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["6130"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "6130"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [329, 336],
+    "position": [
+      329,
+      336
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "ceftriaxone",
-    "position": [340, 351],
+    "position": [
+      340,
+      351
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "troponin",
-    "position": [391, 399],
+    "position": [
+      391,
+      399
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [247, 250],
+    "position": [
+      247,
+      250
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [263, 271],
+    "position": [
+      263,
+      271
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

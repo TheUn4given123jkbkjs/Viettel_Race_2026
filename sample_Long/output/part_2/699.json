@@ -1,58 +1,92 @@
 [
   {
     "text": "tiền sử viêm đại tràng do Salmonella",
-    "position": [322, 358],
+    "position": [
+      322,
+      358
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "cứng khớp buổi sáng",
-    "position": [1054, 1073],
+    "position": [
+      1054,
+      1073
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [1275, 1287],
+    "position": [
+      1275,
+      1287
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [1384, 1401],
+    "position": [
+      1384,
+      1401
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sưng nề rõ rệt tại khớp bàn ngón tay (MCP) số 2 và số 3",
-    "position": [1893, 1948],
+    "position": [
+      1893,
+      1948
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh khớp phản ứng sau một số bệnh được xếp loại ở mục khác, bàn tay",
-    "position": [2806, 2874],
+    "position": [
+      2806,
+      2874
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M03.64*"]
+    "candidates": [
+      "M03.64*"
+    ]
   },
   {
     "text": "Diclofenac",
-    "position": [2995, 3005],
+    "position": [
+      2995,
+      3005
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3355"]
+    "candidates": [
+      "3355"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [3060, 3069],
+    "position": [
+      3060,
+      3069
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   }
 ]

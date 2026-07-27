@@ -1,28 +1,46 @@
 [
   {
     "text": "không sốt",
-    "position": [123, 132],
+    "position": [
+      123,
+      132
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "ĐTĐ tuýp 2",
-    "position": [422, 432],
+    "position": [
+      422,
+      432
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Bệnh viêm khớp phản ứng khác",
-    "position": [816, 844],
+    "position": [
+      816,
+      844
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M02.8"]
+    "candidates": [
+      "M02.8"
+    ]
   },
   {
     "text": "loét dạ dày tá tràng",
-    "position": [907, 927],
+    "position": [
+      907,
+      927
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -33,14 +51,20 @@
   },
   {
     "text": "Diclofenac 75mg",
-    "position": [1089, 1104],
+    "position": [
+      1089,
+      1104
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêmkhớp",
-    "position": [1309, 1317],
+    "position": [
+      1309,
+      1317
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

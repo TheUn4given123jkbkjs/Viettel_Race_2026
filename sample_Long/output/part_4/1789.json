@@ -1,21 +1,30 @@
 [
   {
     "text": "bệnh nhân",
-    "position": [34, 43],
+    "position": [
+      34,
+      43
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt rét",
-    "position": [175, 182],
+    "position": [
+      175,
+      182
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [114, 121],
+    "position": [
+      114,
+      121
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,44 +1,64 @@
 [
   {
-    "text": "Äa niá»u",
-    "position": [258, 268],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "đa niệu",
+    "position": [
+      195,
+      202
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "Äa khÃ¡t",
-    "position": [291, 300],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "đa khát",
+    "position": [
+      220,
+      227
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "má»t má»i",
-    "position": [370, 381],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "mệt mỏi",
+    "position": [
+      281,
+      288
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "xÃ©t nghiá»m ÄÆ°á»ng huyáº¿t ÄÃ³i",
-    "position": [728, 765],
-    "type": "TÃN_XÃT_NGHIá»M",
+    "text": "xét nghiệm đường huyết đói",
+    "position": [
+      550,
+      576
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "fBS: 8.4 mmol/L",
-    "position": [857, 872],
-    "type": "Káº¾T_QUáº¢_XÃT_NGHIá»M",
+    "position": [
+      653,
+      668
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "tiÃ¨n sá»­ THA",
-    "position": [964, 978],
-    "type": "TRIá»U_CHá»¨NG",
-    "assertions": ["isHistorical"],
+    "text": "tièn sử THA",
+    "position": [
+      749,
+      760
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

@@ -1,44 +1,75 @@
 [
   {
     "text": "Viêm khớp trong nhiễm một số virus đã được xếp loại ở mục khác, cẳng chân",
-    "position": [0, 73],
+    "position": [
+      0,
+      73
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M01.56*"]
+    "candidates": [
+      "M01.56*"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [469, 478],
+    "position": [
+      469,
+      478
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [502, 515],
+    "position": [
+      502,
+      515
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Amoxicillin",
-    "position": [592, 603],
+    "position": [
+      592,
+      603
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["723", "19711"]
+    "candidates": [
+      "723",
+      "19711"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [609, 620],
+    "position": [
+      609,
+      620
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [201, 210],
+    "position": [
+      201,
+      210
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

@@ -1,7 +1,10 @@
 [
   {
     "text": "giun đũa",
-    "position": [140, 148],
+    "position": [
+      140,
+      148
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,44 +15,70 @@
   },
   {
     "text": "đau bụng",
-    "position": [711, 719],
+    "position": [
+      711,
+      719
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiêu chảy",
-    "position": [741, 750],
+    "position": [
+      741,
+      750
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [948, 951],
+    "position": [
+      948,
+      951
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm phân",
-    "position": [1090, 1105],
+    "position": [
+      1090,
+      1105
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Albendazole",
-    "position": [1371, 1382],
+    "position": [
+      1371,
+      1382
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["430"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "430"
+    ]
   },
   {
     "text": "nhiễm sán gan",
-    "position": [1409, 1422],
+    "position": [
+      1409,
+      1422
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

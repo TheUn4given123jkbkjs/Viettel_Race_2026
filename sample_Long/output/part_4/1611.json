@@ -1,9 +1,14 @@
 [
   {
     "text": "suy tim",
-    "position": [136, 143],
+    "position": [
+      136,
+      143
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I11.0",
       "I11.9",
@@ -12,44 +17,72 @@
   },
   {
     "text": "khó thở",
-    "position": [240, 247],
+    "position": [
+      240,
+      247
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [309, 317],
+    "position": [
+      309,
+      317
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [330, 338],
+    "position": [
+      330,
+      338
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bệnh Lý cả hai lá và van động mạch chủ",
-    "position": [726, 764],
+    "position": [
+      726,
+      764
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I08.0"]
+    "candidates": [
+      "I08.0"
+    ]
   },
   {
     "text": "Furosemide",
-    "position": [789, 799],
+    "position": [
+      789,
+      799
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4603"]
+    "candidates": [
+      "4603"
+    ]
   },
   {
     "text": "Enalapril",
-    "position": [816, 825],
+    "position": [
+      816,
+      825
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3827"]
+    "candidates": [
+      "3827"
+    ]
   }
 ]

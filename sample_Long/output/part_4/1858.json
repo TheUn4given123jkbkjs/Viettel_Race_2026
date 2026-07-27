@@ -1,35 +1,54 @@
 [
   {
     "text": "khó tiêu",
-    "position": [134, 142],
+    "position": [
+      134,
+      142
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [155, 172],
+    "position": [
+      155,
+      172
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [144, 153],
+    "position": [
+      144,
+      153
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [227, 241],
+    "position": [
+      227,
+      241
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm chức năng tiêu hóa",
-    "position": [245, 274],
+    "position": [
+      245,
+      274
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

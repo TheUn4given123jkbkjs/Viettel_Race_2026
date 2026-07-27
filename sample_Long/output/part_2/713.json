@@ -1,28 +1,48 @@
 [
   {
     "text": "Dexamethasone",
-    "position": [51, 64],
+    "position": [
+      51,
+      64
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["3264"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3264"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [333, 350],
+    "position": [
+      333,
+      350
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [354, 363],
+    "position": [
+      354,
+      363
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "viêm khớp",
-    "position": [84, 93],
+    "position": [
+      84,
+      93
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -33,7 +53,10 @@
   },
   {
     "text": "bệnh tiểu đường loại 2",
-    "position": [912, 934],
+    "position": [
+      912,
+      934
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []

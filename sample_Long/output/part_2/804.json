@@ -1,51 +1,83 @@
 [
   {
     "text": "ung thư đại tràng",
-    "position": [70, 87],
+    "position": [
+      70,
+      87
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["D01.0", "D01.1"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "D01.0",
+      "D01.1"
+    ]
   },
   {
     "text": "đau hố chậu trái",
-    "position": [258, 274],
+    "position": [
+      258,
+      274
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [318, 330],
+    "position": [
+      318,
+      330
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [531, 535],
+    "position": [
+      531,
+      535
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Vòi trứng ứ máu",
-    "position": [813, 828],
+    "position": [
+      813,
+      828
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N83.6"]
+    "candidates": [
+      "N83.6"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [855, 866],
+    "position": [
+      855,
+      866
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Doxycycline",
-    "position": [903, 914],
+    "position": [
+      903,
+      914
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3640"]
+    "candidates": [
+      "3640"
+    ]
   }
 ]

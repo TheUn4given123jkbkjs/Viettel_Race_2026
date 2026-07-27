@@ -1,14 +1,22 @@
 [
   {
     "text": "Lao bàng quang (A18.1†)",
-    "position": [0, 23],
+    "position": [
+      0,
+      23
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N33.0"]
+    "candidates": [
+      "N33.0"
+    ]
   },
   {
     "text": "Isoniazid",
-    "position": [425, 434],
+    "position": [
+      425,
+      434
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": [
@@ -19,7 +27,10 @@
   },
   {
     "text": "Rifampin",
-    "position": [438, 446],
+    "position": [
+      438,
+      446
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": [
@@ -30,14 +41,23 @@
   },
   {
     "text": "Pyrazinamide",
-    "position": [573, 585],
+    "position": [
+      573,
+      585
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["214662", "8987"]
+    "candidates": [
+      "214662",
+      "8987"
+    ]
   },
   {
     "text": "Ethambutol",
-    "position": [589, 599],
+    "position": [
+      589,
+      599
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": [

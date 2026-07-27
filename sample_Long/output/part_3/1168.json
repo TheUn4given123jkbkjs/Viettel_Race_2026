@@ -1,16 +1,26 @@
 [
   {
     "text": "Mất nước của trẻ sơ sinh",
-    "position": [358, 382],
+    "position": [
+      358,
+      382
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P74.1"]
+    "candidates": [
+      "P74.1"
+    ]
   },
   {
     "text": "Aspirin",
-    "position": [319, 326],
+    "position": [
+      319,
+      326
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   }
 ]

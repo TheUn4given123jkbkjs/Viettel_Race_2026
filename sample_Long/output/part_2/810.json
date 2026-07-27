@@ -1,58 +1,96 @@
 [
   {
     "text": "THA",
-    "position": [115, 118],
+    "position": [
+      115,
+      118
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["Y06"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "Y06"
+    ]
   },
   {
     "text": "hen suyễn",
-    "position": [195, 204],
+    "position": [
+      195,
+      204
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["J45"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "J45"
+    ]
   },
   {
     "text": "nghẹt mũimạn tính",
-    "position": [337, 354],
+    "position": [
+      337,
+      354
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [547, 555],
+    "position": [
+      547,
+      555
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [602, 605],
+    "position": [
+      602,
+      605
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [824, 828],
+    "position": [
+      824,
+      828
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "99%",
-    "position": [829, 832],
+    "position": [
+      829,
+      832
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Lệch vách mũi",
-    "position": [1103, 1116],
+    "position": [
+      1103,
+      1116
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J34.2"]
+    "candidates": [
+      "J34.2"
+    ]
   }
 ]

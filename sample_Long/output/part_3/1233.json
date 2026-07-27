@@ -1,16 +1,26 @@
 [
   {
     "text": "Lichen dạng vằn",
-    "position": [563, 578],
+    "position": [
+      563,
+      578
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L44.3"]
+    "candidates": [
+      "L44.3"
+    ]
   },
   {
     "text": "Viêm da cơ địa",
-    "position": [1321, 1335],
+    "position": [
+      1321,
+      1335
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "L20",
       "L20.8",
@@ -19,35 +29,50 @@
   },
   {
     "text": "sẩn dẹt",
-    "position": [1527, 1534],
+    "position": [
+      1527,
+      1534
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vảy mịn",
-    "position": [1730, 1737],
+    "position": [
+      1730,
+      1737
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm ổ bụng",
-    "position": [2546, 2560],
+    "position": [
+      2546,
+      2560
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "lòng túi mật có sỏi viên",
-    "position": [2620, 2644],
+    "position": [
+      2620,
+      2644
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sỏi túi mật",
-    "position": [2709, 2720],
+    "position": [
+      2709,
+      2720
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

@@ -1,37 +1,62 @@
 [
   {
     "text": "Thoát vị bẹn một bên hay không xác định, có tắc, không hoại tử",
-    "position": [531, 593],
+    "position": [
+      531,
+      593
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K40.3"]
+    "candidates": [
+      "K40.3"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [376, 389],
+    "position": [
+      376,
+      389
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [393, 402],
+    "position": [
+      393,
+      402
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [634, 645],
+    "position": [
+      634,
+      645
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Metronidazole",
-    "position": [649, 662],
+    "position": [
+      649,
+      662
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6922"]
+    "candidates": [
+      "6922"
+    ]
   }
 ]

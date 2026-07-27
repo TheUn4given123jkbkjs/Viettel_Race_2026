@@ -1,9 +1,14 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [191, 204],
+    "position": [
+      191,
+      204
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -12,28 +17,44 @@
   },
   {
     "text": "ung thư buồng trứng",
-    "position": [302, 321],
+    "position": [
+      302,
+      321
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau vùng chậu",
-    "position": [482, 495],
+    "position": [
+      482,
+      495
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [714, 722],
+    "position": [
+      714,
+      722
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bệnh lạc nội mạc tử cung",
-    "position": [1349, 1373],
+    "position": [
+      1349,
+      1373
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -44,7 +65,10 @@
   },
   {
     "text": "sốt",
-    "position": [649, 652],
+    "position": [
+      649,
+      652
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

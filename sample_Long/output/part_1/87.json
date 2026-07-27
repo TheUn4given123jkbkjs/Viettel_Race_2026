@@ -1,7 +1,10 @@
 [
   {
     "text": "Gai xương",
-    "position": [0, 9],
+    "position": [
+      0,
+      9
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,21 +15,30 @@
   },
   {
     "text": "đau nhức",
-    "position": [263, 271],
+    "position": [
+      263,
+      271
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng",
-    "position": [273, 277],
+    "position": [
+      273,
+      277
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hạn chế vận động",
-    "position": [281, 297],
+    "position": [
+      281,
+      297
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

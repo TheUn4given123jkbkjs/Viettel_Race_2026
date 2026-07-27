@@ -1,35 +1,54 @@
 [
   {
     "text": "Tamoxifen",
-    "position": [53, 62],
+    "position": [
+      53,
+      62
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["10324"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "10324"
+    ]
   },
   {
     "text": "đau đầu",
-    "position": [126, 133],
+    "position": [
+      126,
+      133
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [135, 142],
+    "position": [
+      135,
+      142
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [146, 155],
+    "position": [
+      146,
+      155
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [302, 315],
+    "position": [
+      302,
+      315
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -40,7 +59,10 @@
   },
   {
     "text": "tiểu đường",
-    "position": [319, 329],
+    "position": [
+      319,
+      329
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

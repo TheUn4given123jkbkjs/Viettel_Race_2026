@@ -1,42 +1,67 @@
 [
   {
     "text": "buồn nôn",
-    "position": [221, 229],
+    "position": [
+      221,
+      229
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "đái tháo đường tuýp 2",
-    "position": [257, 278],
+    "position": [
+      257,
+      278
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "cứng khớp buổi sáng",
-    "position": [439, 458],
+    "position": [
+      439,
+      458
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Biến dạng ngón tay",
-    "position": [718, 736],
+    "position": [
+      718,
+      736
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M20", "M20.0"]
+    "candidates": [
+      "M20",
+      "M20.0"
+    ]
   },
   {
     "text": "Ibuprofen 400mg PO TID PRN",
-    "position": [899, 925],
+    "position": [
+      899,
+      925
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Methotrexate 7.5mg PO",
-    "position": [939, 960],
+    "position": [
+      939,
+      960
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

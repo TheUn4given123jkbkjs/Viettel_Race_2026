@@ -1,42 +1,64 @@
 [
   {
     "text": "Rotavirus Vaccine",
-    "position": [1214, 1231],
+    "position": [
+      1214,
+      1231
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["154394"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "154394"
+    ]
   },
   {
     "text": "bệnh rotavirus",
-    "position": [363, 377],
+    "position": [
+      363,
+      377
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiêu chảy nặng",
-    "position": [398, 412],
+    "position": [
+      398,
+      412
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [620, 623],
+    "position": [
+      620,
+      623
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [625, 632],
+    "position": [
+      625,
+      632
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [639, 647],
+    "position": [
+      639,
+      647
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

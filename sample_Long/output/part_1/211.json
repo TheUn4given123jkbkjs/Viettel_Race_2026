@@ -1,44 +1,68 @@
 [
   {
     "text": "Bleomycin",
-    "position": [536, 545],
+    "position": [
+      536,
+      545
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["1622"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1622"
+    ]
   },
   {
     "text": "đau đầu nhẹ",
-    "position": [625, 636],
+    "position": [
+      625,
+      636
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng huyết áp độ 1",
-    "position": [713, 731],
+    "position": [
+      713,
+      731
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hoa mắtchóng mặt",
-    "position": [944, 960],
+    "position": [
+      944,
+      960
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hồi hộp đánh trống ngực",
-    "position": [1015, 1038],
+    "position": [
+      1015,
+      1038
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "amlodipine",
-    "position": [1061, 1071],
+    "position": [
+      1061,
+      1071
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   }
 ]

@@ -1,21 +1,36 @@
 [
   {
     "text": "Phá thai khác (Hoàn toàn hoặc chưa xác định rõ, gây biến chứng khác, chưa xác định rõ)",
-    "position": [157, 247],
+    "position": [
+      157,
+      247
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["O05.8"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "O05.8"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [265, 278],
+    "position": [
+      265,
+      278
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "************",
-    "position": [299, 311],
+    "position": [
+      299,
+      311
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

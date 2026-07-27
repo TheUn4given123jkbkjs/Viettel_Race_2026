@@ -1,16 +1,28 @@
 [
   {
     "text": "Chlorambucil",
-    "position": [78, 90],
+    "position": [
+      78,
+      90
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["2346"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2346"
+    ]
   },
   {
     "text": "sốt",
-    "position": [25, 28],
+    "position": [
+      25,
+      28
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": [
       "A92.30",
       "R50.0",
@@ -19,9 +31,14 @@
   },
   {
     "text": "đau đầu",
-    "position": [48, 55],
+    "position": [
+      48,
+      55
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": [
       "G44",
       "G44.0",

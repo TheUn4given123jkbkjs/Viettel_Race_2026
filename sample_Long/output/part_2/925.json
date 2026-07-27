@@ -1,49 +1,78 @@
 [
   {
     "text": "khối thịt thừa màu đỏ tươi",
-    "position": [114, 140],
+    "position": [
+      114,
+      140
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rỉ máu",
-    "position": [188, 194],
+    "position": [
+      188,
+      194
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [268, 271],
+    "position": [
+      268,
+      271
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "tiểu buốt",
-    "position": [299, 308],
+    "position": [
+      299,
+      308
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Sa niệu đạo nữ",
-    "position": [571, 585],
+    "position": [
+      571,
+      585
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N81.0"]
+    "candidates": [
+      "N81.0"
+    ]
   },
   {
     "text": "Betamethasone",
-    "position": [897, 910],
+    "position": [
+      897,
+      910
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1514"]
+    "candidates": [
+      "1514"
+    ]
   },
   {
     "text": "xét nghiệm hình ảnh",
-    "position": [1296, 1315],
+    "position": [
+      1296,
+      1315
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

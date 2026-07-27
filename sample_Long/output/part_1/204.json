@@ -1,37 +1,60 @@
 [
   {
     "text": "mảng màu trắng",
-    "position": [125, 139],
+    "position": [
+      125,
+      139
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau lưỡi",
-    "position": [315, 323],
+    "position": [
+      315,
+      323
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [331, 334],
+    "position": [
+      331,
+      334
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "nuốt khó",
-    "position": [342, 350],
+    "position": [
+      342,
+      350
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bạch sản dạng tóc",
-    "position": [856, 873],
+    "position": [
+      856,
+      873
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K13.3"]
+    "candidates": [
+      "K13.3"
+    ]
   }
 ]

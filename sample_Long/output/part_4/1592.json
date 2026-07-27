@@ -1,28 +1,44 @@
 [
   {
     "text": "Biến chứng liên quan đến thụ thai nhân tạo, không đặc hiệu",
-    "position": [293, 351],
+    "position": [
+      293,
+      351
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N98.9"]
+    "candidates": [
+      "N98.9"
+    ]
   },
   {
     "text": "suy thận mạn tính",
-    "position": [126, 143],
+    "position": [
+      126,
+      143
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mang thai 6 tuần",
-    "position": [168, 184],
+    "position": [
+      168,
+      184
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [265, 275],
+    "position": [
+      265,
+      275
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

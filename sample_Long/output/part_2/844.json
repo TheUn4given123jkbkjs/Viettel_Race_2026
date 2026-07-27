@@ -1,42 +1,68 @@
 [
   {
     "text": "suy thận mạn tính",
-    "position": [39, 56],
+    "position": [
+      39,
+      56
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N18"]
+    "candidates": [
+      "N18"
+    ]
   },
   {
     "text": "gút mãn tính",
-    "position": [541, 553],
+    "position": [
+      541,
+      553
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau nhức xương khớp",
-    "position": [97, 116],
+    "position": [
+      97,
+      116
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [822, 830],
+    "position": [
+      822,
+      830
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [850, 853],
+    "position": [
+      850,
+      853
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bệnh xương trong các bệnh đã xếp loại mục khác",
-    "position": [1187, 1233],
+    "position": [
+      1187,
+      1233
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -47,16 +73,26 @@
   },
   {
     "text": "Calcium gluconate",
-    "position": [1256, 1273],
+    "position": [
+      1256,
+      1273
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1908"]
+    "candidates": [
+      "1908"
+    ]
   },
   {
     "text": "Vitamin A / Vitamin D",
-    "position": [1311, 1332],
+    "position": [
+      1311,
+      1332
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["97016"]
+    "candidates": [
+      "97016"
+    ]
   }
 ]

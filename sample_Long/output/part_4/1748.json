@@ -1,36 +1,53 @@
 [
   {
-    "text": "ViÃªm da dáº¡ng herpes",
-    "position": [0, 22],
-    "type": "CHáº¨N_ÄOÃN",
+    "text": "Viêm da dạng herpes",
+    "position": [
+      0,
+      19
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "acyclovir",
-    "position": [993, 1002],
-    "type": "THUá»C",
+    "position": [
+      743,
+      752
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "paracetamol",
-    "position": [1590, 1601],
-    "type": "THUá»C",
+    "position": [
+      1208,
+      1219
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "tiá»n sá»­ herpes sinh dá»¥c 3 láº§n trong nÄm qua",
-    "position": [2159, 2211],
-    "type": "CHáº¨N_ÄOÃN",
-    "assertions": ["isHistorical"],
+    "text": "tiền sử herpes sinh dục 3 lần trong năm qua",
+    "position": [
+      1647,
+      1690
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "chlorhexidine",
-    "position": [1718, 1731],
-    "type": "THUá»C",
+    "position": [
+      1314,
+      1327
+    ],
+    "type": "THUỐC",
     "assertions": [],
     "candidates": []
   }

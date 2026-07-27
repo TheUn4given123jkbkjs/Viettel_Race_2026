@@ -1,21 +1,37 @@
 [
   {
     "text": "Ondansetron",
-    "position": [595, 606],
+    "position": [
+      595,
+      606
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["26225"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "26225"
+    ]
   },
   {
     "text": "Ung thư đại tràng",
-    "position": [256, 273],
+    "position": [
+      256,
+      273
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["D01.0", "D01.1"]
+    "candidates": [
+      "D01.0",
+      "D01.1"
+    ]
   },
   {
     "text": "Tăng huyết áp",
-    "position": [906, 919],
+    "position": [
+      906,
+      919
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -26,21 +42,30 @@
   },
   {
     "text": "Táo bón kéo dài",
-    "position": [1259, 1274],
+    "position": [
+      1259,
+      1274
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chướng bụng",
-    "position": [1674, 1685],
+    "position": [
+      1674,
+      1685
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ổ bụng",
-    "position": [2675, 2689],
+    "position": [
+      2675,
+      2689
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,14 +1,22 @@
 [
   {
     "text": "Viêm gan virus bẩm sinh",
-    "position": [58, 81],
+    "position": [
+      58,
+      81
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P35.3"]
+    "candidates": [
+      "P35.3"
+    ]
   },
   {
     "text": "bệnh gan",
-    "position": [25, 33],
+    "position": [
+      25,
+      33
+    ],
     "type": "BỆNH",
     "assertions": [],
     "candidates": []

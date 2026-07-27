@@ -1,56 +1,86 @@
 [
   {
     "text": "đau tức ngực trái",
-    "position": [73, 90],
+    "position": [
+      73,
+      90
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [188, 195],
+    "position": [
+      188,
+      195
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho kéo dài 2 tháng",
-    "position": [253, 271],
+    "position": [
+      253,
+      271
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [342, 349],
+    "position": [
+      342,
+      349
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở khi nằm",
-    "position": [353, 368],
+    "position": [
+      353,
+      368
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (ECG)",
-    "position": [992, 1009],
+    "position": [
+      992,
+      1009
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Xét nghiệm định lượng Troponin T hoặc I",
-    "position": [1074, 1113],
+    "position": [
+      1074,
+      1113
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chụp X-quang ngực thẳng",
-    "position": [1182, 1205],
+    "position": [
+      1182,
+      1205
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

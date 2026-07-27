@@ -1,9 +1,14 @@
 [
   {
     "text": "vảy nến",
-    "position": [126, 133],
+    "position": [
+      126,
+      133
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "L40.50",
       "L40.51",
@@ -12,37 +17,58 @@
   },
   {
     "text": "ngón chân hình khúc dồi",
-    "position": [2253, 2276],
+    "position": [
+      2253,
+      2276
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hẹp khe khớp",
-    "position": [2572, 2584],
+    "position": [
+      2572,
+      2584
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp có hủy khớp (L40.5†), cẳng chân",
-    "position": [2733, 2774],
+    "position": [
+      2733,
+      2774
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M07.16*"]
+    "candidates": [
+      "M07.16*"
+    ]
   },
   {
     "text": "Methotrexate",
-    "position": [2993, 3005],
+    "position": [
+      2993,
+      3005
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6851"]
+    "candidates": [
+      "6851"
+    ]
   },
   {
     "text": "Diclofenac",
-    "position": [3081, 3091],
+    "position": [
+      3081,
+      3091
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3355"]
+    "candidates": [
+      "3355"
+    ]
   }
 ]

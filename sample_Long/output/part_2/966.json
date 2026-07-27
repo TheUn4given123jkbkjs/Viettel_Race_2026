@@ -1,28 +1,42 @@
 [
   {
     "text": "Các bệnh lý khác liên quan đến tràn khí tô chức kẽ phổi chu sinh",
-    "position": [0, 64],
+    "position": [
+      0,
+      64
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P25.8"]
+    "candidates": [
+      "P25.8"
+    ]
   },
   {
     "text": "khó thở",
-    "position": [122, 129],
+    "position": [
+      122,
+      129
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [131, 139],
+    "position": [
+      131,
+      139
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [144, 146],
+    "position": [
+      144,
+      146
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,7 +1,10 @@
 [
   {
     "text": "Bệnh trào ngược dạ dày - thực quản",
-    "position": [2956, 2990],
+    "position": [
+      2956,
+      2990
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,49 +15,79 @@
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [163, 180],
+    "position": [
+      163,
+      180
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "ung thư biểu mô thực quản",
-    "position": [520, 545],
+    "position": [
+      520,
+      545
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["D00.1", "D00"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "D00.1",
+      "D00"
+    ]
   },
   {
     "text": "nóng rát sau xương ức",
-    "position": [805, 826],
+    "position": [
+      805,
+      826
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ợ chua",
-    "position": [1059, 1065],
+    "position": [
+      1059,
+      1065
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho khan về đêm",
-    "position": [1148, 1162],
+    "position": [
+      1148,
+      1162
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [1386, 1394],
+    "position": [
+      1386,
+      1394
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "béo phì",
-    "position": [2096, 2103],
+    "position": [
+      2096,
+      2103
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

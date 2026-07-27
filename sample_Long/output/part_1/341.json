@@ -1,16 +1,28 @@
 [
   {
     "text": "Tăng huyết áp mạn tính",
-    "position": [63, 85],
+    "position": [
+      63,
+      85
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["O11"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "O11"
+    ]
   },
   {
     "text": "đái tháo đường",
-    "position": [96, 110],
+    "position": [
+      96,
+      110
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": [
       "E12.9",
       "E13",
@@ -19,44 +31,68 @@
   },
   {
     "text": "khó thở",
-    "position": [162, 169],
+    "position": [
+      162,
+      169
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phù ngoại vi",
-    "position": [173, 185],
+    "position": [
+      173,
+      185
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [206, 214],
+    "position": [
+      206,
+      214
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bệnh tim do tăng huyết áp, có suy tim (sung huyêt)",
-    "position": [240, 290],
+    "position": [
+      240,
+      290
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Enalapril",
-    "position": [315, 324],
+    "position": [
+      315,
+      324
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3827"]
+    "candidates": [
+      "3827"
+    ]
   },
   {
     "text": "Furosemide",
-    "position": [332, 342],
+    "position": [
+      332,
+      342
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4603"]
+    "candidates": [
+      "4603"
+    ]
   }
 ]

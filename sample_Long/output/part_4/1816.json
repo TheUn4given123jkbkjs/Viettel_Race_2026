@@ -1,56 +1,84 @@
 [
   {
     "text": "đau ngực",
-    "position": [57, 65],
+    "position": [
+      57,
+      65
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [90, 97],
+    "position": [
+      90,
+      97
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đờmmủ",
-    "position": [326, 331],
+    "position": [
+      326,
+      331
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ran ẩm",
-    "position": [523, 529],
+    "position": [
+      523,
+      529
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP",
-    "position": [608, 611],
+    "position": [
+      608,
+      611
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "227.0 mg/L",
-    "position": [613, 623],
+    "position": [
+      613,
+      623
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [671, 679],
+    "position": [
+      671,
+      679
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ngực thẳng",
-    "position": [687, 705],
+    "position": [
+      687,
+      705
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

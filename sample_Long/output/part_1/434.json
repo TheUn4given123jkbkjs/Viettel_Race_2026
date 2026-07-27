@@ -1,49 +1,76 @@
 [
   {
     "text": "khó thở",
-    "position": [210, 217],
+    "position": [
+      210,
+      217
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không ho",
-    "position": [368, 376],
+    "position": [
+      368,
+      376
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "hẹp hở van tim",
-    "position": [506, 520],
+    "position": [
+      506,
+      520
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "X-quang phổi",
-    "position": [613, 625],
+    "position": [
+      613,
+      625
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh mạch máu phổi không đặc hiệu",
-    "position": [1667, 1700],
+    "position": [
+      1667,
+      1700
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I28.9"]
+    "candidates": [
+      "I28.9"
+    ]
   },
   {
     "text": "Nifedipine 30mg",
-    "position": [2017, 2032],
+    "position": [
+      2017,
+      2032
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Warfarin 5mg",
-    "position": [2141, 2153],
+    "position": [
+      2141,
+      2153
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

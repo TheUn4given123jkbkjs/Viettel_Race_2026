@@ -1,56 +1,82 @@
 [
   {
     "text": "đau đầu âm ỉ vùng chẩm",
-    "position": [201, 223],
+    "position": [
+      201,
+      223
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn vọt",
-    "position": [419, 426],
+    "position": [
+      419,
+      426
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau thượng vị",
-    "position": [928, 941],
+    "position": [
+      928,
+      941
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "sốt cao liên tục",
-    "position": [344, 360],
+    "position": [
+      344,
+      360
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cổ cứng",
-    "position": [1305, 1312],
+    "position": [
+      1305,
+      1312
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT sọ",
-    "position": [745, 750],
+    "position": [
+      745,
+      750
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 18.9",
-    "position": [1559, 1572],
+    "position": [
+      1559,
+      1572
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 156.0 mg/L",
-    "position": [1627, 1642],
+    "position": [
+      1627,
+      1642
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

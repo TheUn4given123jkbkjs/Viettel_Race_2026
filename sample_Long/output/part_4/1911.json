@@ -1,28 +1,44 @@
 [
   {
     "text": "Dactinomycin",
-    "position": [87, 99],
+    "position": [
+      87,
+      99
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["3100"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3100"
+    ]
   },
   {
     "text": "ung thư",
-    "position": [327, 334],
+    "position": [
+      327,
+      334
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tổn thương gan",
-    "position": [457, 471],
+    "position": [
+      457,
+      471
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy giảm miễn dịch",
-    "position": [475, 493],
+    "position": [
+      475,
+      493
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

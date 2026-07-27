@@ -1,30 +1,48 @@
 [
   {
     "text": "đau bụng",
-    "position": [23, 31],
+    "position": [
+      23,
+      31
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn mửa",
-    "position": [204, 211],
+    "position": [
+      204,
+      211
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [409, 419],
+    "position": [
+      409,
+      419
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["17767"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "Thoát vị bẹn",
-    "position": [476, 488],
+    "position": [
+      476,
+      488
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "K40.5",
       "K40.6",
@@ -33,23 +51,39 @@
   },
   {
     "text": "Thoát vị bụng không đặc hiệu, có hoại tử",
-    "position": [977, 1017],
+    "position": [
+      977,
+      1017
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K46.0", "K46.1"]
+    "candidates": [
+      "K46.0",
+      "K46.1"
+    ]
   },
   {
     "text": "Ciprofloxacin",
-    "position": [1223, 1236],
+    "position": [
+      1223,
+      1236
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2551"]
+    "candidates": [
+      "2551"
+    ]
   },
   {
     "text": "Morphine",
-    "position": [1278, 1286],
+    "position": [
+      1278,
+      1286
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7052"]
+    "candidates": [
+      "7052"
+    ]
   }
 ]

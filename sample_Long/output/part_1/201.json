@@ -1,49 +1,74 @@
 [
   {
     "text": "co giật nhẹ",
-    "position": [79, 90],
+    "position": [
+      79,
+      90
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngựctrái",
-    "position": [136, 148],
+    "position": [
+      136,
+      148
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [163, 170],
+    "position": [
+      163,
+      170
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khôngsốt",
-    "position": [406, 414],
+    "position": [
+      406,
+      414
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bạch cầu 26.7",
-    "position": [583, 596],
+    "position": [
+      583,
+      596
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 227.0 mg/L",
-    "position": [624, 639],
+    "position": [
+      624,
+      639
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT sọ",
-    "position": [720, 725],
+    "position": [
+      720,
+      725
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

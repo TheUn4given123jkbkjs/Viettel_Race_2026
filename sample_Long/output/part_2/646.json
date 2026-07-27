@@ -1,7 +1,10 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [13, 26],
+    "position": [
+      13,
+      26
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,51 +15,76 @@
   },
   {
     "text": "chấn thương ngực kín",
-    "position": [76, 96],
+    "position": [
+      76,
+      96
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [118, 125],
+    "position": [
+      118,
+      125
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [155, 158],
+    "position": [
+      155,
+      158
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [187, 191],
+    "position": [
+      187,
+      191
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "82%",
-    "position": [200, 203],
+    "position": [
+      200,
+      203
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thâm nhiễm lan tỏa",
-    "position": [227, 245],
+    "position": [
+      227,
+      245
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hội chứng suy hô hấp ở người lớn",
-    "position": [273, 305],
+    "position": [
+      273,
+      305
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J80"]
+    "candidates": [
+      "J80"
+    ]
   }
 ]

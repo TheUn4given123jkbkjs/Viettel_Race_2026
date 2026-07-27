@@ -1,49 +1,80 @@
 [
   {
     "text": "Tràn khí màng phổi, không phân loại",
-    "position": [1186, 1221],
+    "position": [
+      1186,
+      1221
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J93.9"]
+    "candidates": [
+      "J93.9"
+    ]
   },
   {
     "text": "Oxygen",
-    "position": [1026, 1032],
+    "position": [
+      1026,
+      1032
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7806"]
+    "candidates": [
+      "7806"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [1088, 1101],
+    "position": [
+      1088,
+      1101
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [615, 624],
+    "position": [
+      615,
+      624
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "lao phổi cũ",
-    "position": [433, 444],
+    "position": [
+      433,
+      444
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngực trái",
-    "position": [521, 534],
+    "position": [
+      521,
+      534
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [563, 570],
+    "position": [
+      563,
+      570
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

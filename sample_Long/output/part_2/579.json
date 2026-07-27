@@ -1,23 +1,40 @@
 [
   {
     "text": "Viêm xoang mãn tính, không phân loại",
-    "position": [181, 217],
+    "position": [
+      181,
+      217
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["J32.9"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "J32.9"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [269, 282],
+    "position": [
+      269,
+      282
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Prednisolone",
-    "position": [303, 315],
+    "position": [
+      303,
+      315
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   }
 ]

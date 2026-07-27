@@ -1,56 +1,87 @@
 [
   {
     "text": "đái tháo đường thai kỳ",
-    "position": [438, 460],
+    "position": [
+      438,
+      460
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily", "isNegated"],
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "quấy khóc",
-    "position": [1055, 1064],
+    "position": [
+      1055,
+      1064
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [1182, 1190],
+    "position": [
+      1182,
+      1190
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "co giật",
-    "position": [1443, 1450],
+    "position": [
+      1443,
+      1450
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "lõm hình chén",
-    "position": [993, 1006],
+    "position": [
+      993,
+      1006
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT scan sọ não",
-    "position": [1608, 1622],
+    "position": [
+      1608,
+      1622
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nứt xương rõ rệt",
-    "position": [1722, 1738],
+    "position": [
+      1722,
+      1738
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Vỡ sọ do chấn thương khi sinh",
-    "position": [1986, 2015],
+    "position": [
+      1986,
+      2015
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

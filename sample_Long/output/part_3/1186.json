@@ -1,30 +1,44 @@
 [
   {
     "text": "sưng tấy",
-    "position": [300, 308],
+    "position": [
+      300,
+      308
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nước tiểu",
-    "position": [635, 644],
+    "position": [
+      635,
+      644
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm nhiễm",
-    "position": [610, 620],
+    "position": [
+      610,
+      620
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử gia đình",
-    "position": [179, 195],
+    "position": [
+      179,
+      195
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

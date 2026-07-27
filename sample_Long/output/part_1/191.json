@@ -1,56 +1,84 @@
 [
   {
     "text": "cao huyết áp",
-    "position": [238, 250],
+    "position": [
+      238,
+      250
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [254, 264],
+    "position": [
+      254,
+      264
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amlodipin",
-    "position": [513, 522],
+    "position": [
+      513,
+      522
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "Metformin",
-    "position": [557, 566],
+    "position": [
+      557,
+      566
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6809"]
+    "candidates": [
+      "6809"
+    ]
   },
   {
     "text": "L-thyroxin",
-    "position": [600, 610],
+    "position": [
+      600,
+      610
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CBC",
-    "position": [701, 704],
+    "position": [
+      701,
+      704
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Creatinin",
-    "position": [706, 715],
+    "position": [
+      706,
+      715
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Lipid",
-    "position": [717, 722],
+    "position": [
+      717,
+      722
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

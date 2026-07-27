@@ -1,51 +1,80 @@
 [
   {
     "text": "K vú",
-    "position": [412, 416],
+    "position": [
+      412,
+      416
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "vúphải",
-    "position": [499, 505],
+    "position": [
+      499,
+      505
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tắng",
-    "position": [533, 537],
+    "position": [
+      533,
+      537
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "căng tức",
-    "position": [572, 580],
+    "position": [
+      572,
+      580
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nang đơn vú của vú nữ, bên phải",
-    "position": [1081, 1112],
+    "position": [
+      1081,
+      1112
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N60.01"]
+    "candidates": [
+      "N60.01"
+    ]
   },
   {
     "text": "Diclofenac",
-    "position": [1138, 1148],
+    "position": [
+      1138,
+      1148
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3355"]
+    "candidates": [
+      "3355"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [1203, 1216],
+    "position": [
+      1203,
+      1216
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

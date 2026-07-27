@@ -1,7 +1,10 @@
 [
   {
     "text": "vảy nến",
-    "position": [35, 42],
+    "position": [
+      35,
+      42
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,7 +15,10 @@
   },
   {
     "text": "viêm cột sống vảy nến",
-    "position": [59, 80],
+    "position": [
+      59,
+      80
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -23,16 +29,26 @@
   },
   {
     "text": "không sốt",
-    "position": [82, 91],
+    "position": [
+      82,
+      91
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [93, 110],
+    "position": [
+      93,
+      110
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

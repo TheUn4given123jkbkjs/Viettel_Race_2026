@@ -1,28 +1,44 @@
 [
   {
     "text": "Aspirin",
-    "position": [342, 349],
+    "position": [
+      342,
+      349
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [351, 362],
+    "position": [
+      351,
+      362
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Troponin",
-    "position": [614, 622],
+    "position": [
+      614,
+      622
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh khớp trong các bệnh đặc hiệu khác đã được phân loại mục khác, vị trí khác",
-    "position": [227, 305],
+    "position": [
+      227,
+      305
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

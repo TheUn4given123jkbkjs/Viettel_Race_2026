@@ -1,30 +1,48 @@
 [
   {
     "text": "Viêm màng ngoài tim trong bệnh nhiễm trùng và ký sinh trùng khác phân loại nơi khác",
-    "position": [96, 179],
+    "position": [
+      96,
+      179
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I32.1*"]
+    "candidates": [
+      "I32.1*"
+    ]
   },
   {
     "text": "************",
-    "position": [215, 227],
+    "position": [
+      215,
+      227
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [231, 244],
+    "position": [
+      231,
+      244
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Albendazole",
-    "position": [284, 295],
+    "position": [
+      284,
+      295
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["430"]
+    "candidates": [
+      "430"
+    ]
   }
 ]

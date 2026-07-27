@@ -1,42 +1,66 @@
 [
   {
     "text": "Dãn tĩnh mạch không triệu chứng của chi dưới hai bên",
-    "position": [75, 127],
+    "position": [
+      75,
+      127
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I83.93"]
+    "candidates": [
+      "I83.93"
+    ]
   },
   {
     "text": "tĩnh mạch nổi ngoằn nghèo",
-    "position": [664, 689],
+    "position": [
+      664,
+      689
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận cảm giác đau nhức",
-    "position": [750, 776],
+    "position": [
+      750,
+      776
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sưng nề chi dưới",
-    "position": [791, 813],
+    "position": [
+      791,
+      813
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Siêu âm Doppler mạch máu",
-    "position": [848, 872],
+    "position": [
+      848,
+      872
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "dòng trào ngược tĩnh mạch",
-    "position": [892, 917],
+    "position": [
+      892,
+      917
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

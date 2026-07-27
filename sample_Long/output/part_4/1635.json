@@ -1,56 +1,82 @@
 [
   {
     "text": "đau ngực",
-    "position": [88, 96],
+    "position": [
+      88,
+      96
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [100, 112],
+    "position": [
+      100,
+      112
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [131, 139],
+    "position": [
+      131,
+      139
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Huyết áp: 145/90 mmHg",
-    "position": [168, 189],
+    "position": [
+      168,
+      189
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "SPO2: 96 %",
-    "position": [205, 215],
+    "position": [
+      205,
+      215
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "EKG",
-    "position": [234, 237],
+    "position": [
+      234,
+      237
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin 0.02",
-    "position": [267, 280],
+    "position": [
+      267,
+      280
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT chest",
-    "position": [336, 344],
+    "position": [
+      336,
+      344
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

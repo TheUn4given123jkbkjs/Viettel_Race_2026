@@ -1,9 +1,14 @@
 [
   {
     "text": "Gan xơ hóa",
-    "position": [679, 689],
+    "position": [
+      679,
+      689
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": [
       "K71.7",
       "K74",
@@ -12,49 +17,80 @@
   },
   {
     "text": "Abacavir",
-    "position": [941, 949],
+    "position": [
+      941,
+      949
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": [
+      "190521"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [971, 984],
+    "position": [
+      971,
+      984
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "bị sốt",
-    "position": [69, 75],
+    "position": [
+      69,
+      75
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bị đau thắt ngực",
-    "position": [93, 109],
+    "position": [
+      93,
+      109
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bị buồn nôn",
-    "position": [142, 153],
+    "position": [
+      142,
+      153
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bị vàng da",
-    "position": [175, 185],
+    "position": [
+      175,
+      185
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bị khó thở",
-    "position": [202, 212],
+    "position": [
+      202,
+      212
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,9 +1,14 @@
 [
   {
     "text": "nhồi máu cơ tim",
-    "position": [344, 359],
+    "position": [
+      344,
+      359
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I21",
       "I21.0",
@@ -12,44 +17,70 @@
   },
   {
     "text": "chủ quan sốt",
-    "position": [523, 535],
+    "position": [
+      523,
+      535
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [596, 613],
+    "position": [
+      596,
+      613
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Rối loạn khsc của hệ tuần hoàn trong bệnh phân loại nơi khác",
-    "position": [946, 1006],
+    "position": [
+      946,
+      1006
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [1148, 1155],
+    "position": [
+      1148,
+      1155
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Prednisolne",
-    "position": [1303, 1314],
+    "position": [
+      1303,
+      1314
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [265, 275],
+    "position": [
+      265,
+      275
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["17767"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "17767"
+    ]
   }
 ]

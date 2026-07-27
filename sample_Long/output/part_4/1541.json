@@ -1,7 +1,10 @@
 [
   {
     "text": "suy tim",
-    "position": [80, 87],
+    "position": [
+      80,
+      87
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,23 +15,38 @@
   },
   {
     "text": "Furosemide",
-    "position": [201, 211],
+    "position": [
+      201,
+      211
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["4603"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "4603"
+    ]
   },
   {
     "text": "chuột rút",
-    "position": [337, 346],
+    "position": [
+      337,
+      346
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "suy tim sung huyết",
-    "position": [589, 607],
+    "position": [
+      589,
+      607
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I11.0",
       "I11.9",
@@ -37,30 +55,48 @@
   },
   {
     "text": "không sốt",
-    "position": [695, 704],
+    "position": [
+      695,
+      704
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [727, 735],
+    "position": [
+      727,
+      735
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Ion đồ",
-    "position": [2255, 2261],
+    "position": [
+      2255,
+      2261
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hạ kali máu",
-    "position": [1590, 1601],
+    "position": [
+      1590,
+      1601
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E87.6"]
+    "candidates": [
+      "E87.6"
+    ]
   }
 ]

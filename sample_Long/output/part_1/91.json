@@ -1,51 +1,76 @@
 [
   {
     "text": "Đái tháo đường tuýp 2",
-    "position": [48, 69],
+    "position": [
+      48,
+      69
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng nóng, đỏ, đau",
-    "position": [481, 499],
+    "position": [
+      481,
+      499
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt cao",
-    "position": [607, 614],
+    "position": [
+      607,
+      614
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "chụp MRI",
-    "position": [965, 973],
+    "position": [
+      965,
+      973
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm bao hoạt dịch",
-    "position": [992, 1010],
+    "position": [
+      992,
+      1010
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thâm nhiễm phần mềm",
-    "position": [1014, 1033],
+    "position": [
+      1014,
+      1033
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp trong các bệnh nhiễm khuẩn được phân loại ở nơi khác, cổ, bàn chân",
-    "position": [1194, 1270],
+    "position": [
+      1194,
+      1270
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M01.37*"]
+    "candidates": [
+      "M01.37*"
+    ]
   }
 ]

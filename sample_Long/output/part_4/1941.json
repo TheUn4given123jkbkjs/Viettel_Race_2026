@@ -1,9 +1,14 @@
 [
   {
     "text": "bệnh móng",
-    "position": [377, 386],
+    "position": [
+      377,
+      386
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": [
       "L60.9",
       "L62",
@@ -12,21 +17,30 @@
   },
   {
     "text": "phẫu thuật",
-    "position": [496, 506],
+    "position": [
+      496,
+      506
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thay đổi lối sống",
-    "position": [1135, 1152],
+    "position": [
+      1135,
+      1152
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [99, 112],
+    "position": [
+      99,
+      112
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -37,7 +51,10 @@
   },
   {
     "text": "đái tháo đường",
-    "position": [116, 130],
+    "position": [
+      116,
+      130
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -48,14 +65,20 @@
   },
   {
     "text": "điện giải",
-    "position": [1214, 1223],
+    "position": [
+      1214,
+      1223
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "thay đổi",
-    "position": [1135, 1143],
+    "position": [
+      1135,
+      1143
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,9 +1,15 @@
 [
   {
     "text": "Các rối loạn đặc hiệu khác của xương",
-    "position": [0, 36],
+    "position": [
+      0,
+      36
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated", "isHistorical"],
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
     "candidates": [
       "M89.8",
       "M84.9",
@@ -12,16 +18,26 @@
   },
   {
     "text": "Prednisolone",
-    "position": [699, 711],
+    "position": [
+      699,
+      711
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   },
   {
     "text": "THA",
-    "position": [755, 758],
+    "position": [
+      755,
+      758
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

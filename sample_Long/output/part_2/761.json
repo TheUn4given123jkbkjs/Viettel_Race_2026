@@ -1,28 +1,44 @@
 [
   {
     "text": "Loãng xương",
-    "position": [184, 195],
+    "position": [
+      184,
+      195
+    ],
     "type": "TÊN_BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Diazepam",
-    "position": [1045, 1053],
+    "position": [
+      1045,
+      1053
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["3322"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3322"
+    ]
   },
   {
     "text": "Alendronate",
-    "position": [764, 775],
+    "position": [
+      764,
+      775
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bisphosphonate",
-    "position": [777, 791],
+    "position": [
+      777,
+      791
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

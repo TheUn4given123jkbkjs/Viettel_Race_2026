@@ -1,35 +1,56 @@
 [
   {
     "text": "Tiêu xương",
-    "position": [98, 108],
+    "position": [
+      98,
+      108
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M89.5"]
+    "candidates": [
+      "M89.5"
+    ]
   },
   {
     "text": "THA",
-    "position": [144, 147],
+    "position": [
+      144,
+      147
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [335, 348],
+    "position": [
+      335,
+      348
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "đau răng",
-    "position": [244, 252],
+    "position": [
+      244,
+      252
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chảy máu nướu",
-    "position": [254, 267],
+    "position": [
+      254,
+      267
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

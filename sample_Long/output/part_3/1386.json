@@ -1,35 +1,58 @@
 [
   {
     "text": "Abacavir",
-    "position": [176, 184],
+    "position": [
+      176,
+      184
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": [
+      "190521"
+    ]
   },
   {
     "text": "Prednisolone",
-    "position": [422, 434],
+    "position": [
+      422,
+      434
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   },
   {
     "text": "Metronidazole",
-    "position": [443, 456],
+    "position": [
+      443,
+      456
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6922"]
+    "candidates": [
+      "6922"
+    ]
   },
   {
     "text": "THA",
-    "position": [343, 346],
+    "position": [
+      343,
+      346
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Artesunate",
-    "position": [672, 682],
+    "position": [
+      672,
+      682
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": [
@@ -40,9 +63,15 @@
   },
   {
     "text": "Mefloquine",
-    "position": [686, 696],
+    "position": [
+      686,
+      696
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1429947", "6694"]
+    "candidates": [
+      "1429947",
+      "6694"
+    ]
   }
 ]

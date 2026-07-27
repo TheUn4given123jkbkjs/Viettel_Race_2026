@@ -1,9 +1,14 @@
 [
   {
     "text": "Artesunate",
-    "position": [629, 639],
+    "position": [
+      629,
+      639
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "18346",
       "711398",
@@ -12,37 +17,58 @@
   },
   {
     "text": "Đái tháo đường típ 2",
-    "position": [973, 993],
+    "position": [
+      973,
+      993
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "mêt mỏi",
-    "position": [1154, 1161],
+    "position": [
+      1154,
+      1161
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [1597, 1614],
+    "position": [
+      1597,
+      1614
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bilirubin toàn phần",
-    "position": [2301, 2320],
+    "position": [
+      2301,
+      2320
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm gan mạn tính",
-    "position": [2703, 2720],
+    "position": [
+      2703,
+      2720
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["B18.2"]
+    "candidates": [
+      "B18.2"
+    ]
   }
 ]

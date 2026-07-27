@@ -1,58 +1,88 @@
 [
   {
     "text": "đau nhức",
-    "position": [296, 304],
+    "position": [
+      296,
+      304
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng nề gối phải",
-    "position": [618, 634],
+    "position": [
+      618,
+      634
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Cao huyết áp",
-    "position": [1078, 1090],
+    "position": [
+      1078,
+      1090
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "hẹp khe khớp",
-    "position": [1809, 1821],
+    "position": [
+      1809,
+      1821
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "gai xương",
-    "position": [1890, 1899],
+    "position": [
+      1890,
+      1899
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp, xương sau chấn thương một bên, ở gối phải",
-    "position": [2059, 2111],
+    "position": [
+      2059,
+      2111
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M17.31"]
+    "candidates": [
+      "M17.31"
+    ]
   },
   {
     "text": "đau khớp gối phải",
-    "position": [1236, 1253],
+    "position": [
+      1236,
+      1253
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đái tháo đường tuýp 2",
-    "position": [1094, 1115],
+    "position": [
+      1094,
+      1115
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

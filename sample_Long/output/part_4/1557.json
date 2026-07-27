@@ -1,9 +1,15 @@
 [
   {
     "text": "thuyên tắc và huyết khối động mạch",
-    "position": [187, 221],
+    "position": [
+      187,
+      221
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated", "isHistorical"],
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
     "candidates": [
       "I74",
       "I74.0",
@@ -12,37 +18,58 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [253, 266],
+    "position": [
+      253,
+      266
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [270, 281],
+    "position": [
+      270,
+      281
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Troponin",
-    "position": [399, 407],
+    "position": [
+      399,
+      407
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Creatinin",
-    "position": [420, 429],
+    "position": [
+      420,
+      429
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "[Tên bác sĩ]",
-    "position": [22, 34],
+    "position": [
+      22,
+      34
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

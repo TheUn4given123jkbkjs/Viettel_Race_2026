@@ -1,7 +1,10 @@
 [
   {
     "text": "Các viêm da khác",
-    "position": [176, 192],
+    "position": [
+      176,
+      192
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,9 +15,14 @@
   },
   {
     "text": "Betamethasone",
-    "position": [251, 264],
+    "position": [
+      251,
+      264
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1514"]
+    "candidates": [
+      "1514"
+    ]
   }
 ]

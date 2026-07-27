@@ -1,9 +1,14 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [87, 100],
+    "position": [
+      87,
+      100
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -12,51 +17,78 @@
   },
   {
     "text": "Amlodipine",
-    "position": [171, 181],
+    "position": [
+      171,
+      181
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "hồi hộp",
-    "position": [369, 376],
+    "position": [
+      369,
+      376
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đánh trống ngực",
-    "position": [380, 395],
+    "position": [
+      380,
+      395
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ",
-    "position": [828, 839],
+    "position": [
+      828,
+      839
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sóng P' thay đổi hình dạng",
-    "position": [907, 933],
+    "position": [
+      907,
+      933
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ngoại tâm thu nhĩ",
-    "position": [1013, 1030],
+    "position": [
+      1013,
+      1030
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I49.1"]
+    "candidates": [
+      "I49.1"
+    ]
   },
   {
     "text": "Atenolol",
-    "position": [1157, 1165],
+    "position": [
+      1157,
+      1165
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1202"]
+    "candidates": [
+      "1202"
+    ]
   }
 ]

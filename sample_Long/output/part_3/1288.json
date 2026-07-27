@@ -1,9 +1,15 @@
 [
   {
     "text": "Rối loạn khác của hệ tuần hoàn trong bệnh phân loại nơi khác",
-    "position": [248, 308],
+    "position": [
+      248,
+      308
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I98", "I98*"]
+    "candidates": [
+      "I98",
+      "I98*"
+    ]
   }
 ]

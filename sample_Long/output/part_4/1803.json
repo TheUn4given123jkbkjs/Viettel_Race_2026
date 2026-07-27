@@ -1,35 +1,56 @@
 [
   {
     "text": "Chăm sóc bà mẹ vì ngôi mặt, ngôi trán và ngôi thóp trước",
-    "position": [89, 145],
+    "position": [
+      89,
+      145
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O32.3"]
+    "candidates": [
+      "O32.3"
+    ]
   },
   {
     "text": "tiền sử tăng huyết áp",
-    "position": [282, 303],
+    "position": [
+      282,
+      303
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "chuyển dạkéo dài",
-    "position": [376, 392],
+    "position": [
+      376,
+      392
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận sốt",
-    "position": [584, 596],
+    "position": [
+      584,
+      596
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Oxytocin 5 UI",
-    "position": [842, 855],
+    "position": [
+      842,
+      855
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

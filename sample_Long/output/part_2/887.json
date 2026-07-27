@@ -1,58 +1,92 @@
 [
   {
     "text": "Quá sản xương sọ",
-    "position": [670, 686],
+    "position": [
+      670,
+      686
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M85.2"]
+    "candidates": [
+      "M85.2"
+    ]
   },
   {
     "text": "THA",
-    "position": [1041, 1044],
+    "position": [
+      1041,
+      1044
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Y06"
+    ]
   },
   {
     "text": "đau đầu",
-    "position": [369, 376],
+    "position": [
+      369,
+      376
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khối u cứng",
-    "position": [142, 153],
+    "position": [
+      142,
+      153
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chụp CT scanner sọ não",
-    "position": [2693, 2715],
+    "position": [
+      2693,
+      2715
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xương tăng sinh",
-    "position": [2792, 2807],
+    "position": [
+      2792,
+      2807
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [3281, 3294],
+    "position": [
+      3281,
+      3294
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [3358, 3367],
+    "position": [
+      3358,
+      3367
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   }
 ]

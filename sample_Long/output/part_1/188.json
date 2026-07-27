@@ -1,58 +1,101 @@
 [
   {
     "text": "Nang lan toả vú nam, không xác định bên",
-    "position": [29, 68],
+    "position": [
+      29,
+      68
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N60.15"]
+    "candidates": [
+      "N60.15"
+    ]
   },
   {
     "text": "Abacavir",
-    "position": [211, 219],
+    "position": [
+      211,
+      219
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["190521"]
+    "candidates": [
+      "190521"
+    ]
   },
   {
     "text": "Dexamethasone",
-    "position": [237, 250],
+    "position": [
+      237,
+      250
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": [
+      "3264"
+    ]
   },
   {
     "text": "Efavirenz",
-    "position": [266, 275],
+    "position": [
+      266,
+      275
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["195085", "2003222"]
+    "candidates": [
+      "195085",
+      "2003222"
+    ]
   },
   {
     "text": "Folic acid",
-    "position": [293, 303],
+    "position": [
+      293,
+      303
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4511", "105658"]
+    "candidates": [
+      "4511",
+      "105658"
+    ]
   },
   {
     "text": "Gliclazide",
-    "position": [319, 329],
+    "position": [
+      319,
+      329
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4816"]
+    "candidates": [
+      "4816"
+    ]
   },
   {
     "text": "Insulin",
-    "position": [346, 353],
+    "position": [
+      346,
+      353
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["253182", "317235"]
+    "candidates": [
+      "253182",
+      "317235"
+    ]
   },
   {
     "text": "Lopinavir / Ritonavir",
-    "position": [370, 391],
+    "position": [
+      370,
+      391
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["284640"]
+    "candidates": [
+      "284640"
+    ]
   }
 ]

@@ -1,51 +1,82 @@
 [
   {
     "text": "hen suyễn",
-    "position": [36, 45],
+    "position": [
+      36,
+      45
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["J45"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J45"
+    ]
   },
   {
     "text": "ĐTĐ tuýp 2",
-    "position": [144, 154],
+    "position": [
+      144,
+      154
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau lưng mạn tính",
-    "position": [266, 283],
+    "position": [
+      266,
+      283
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tê bì hai chân",
-    "position": [313, 327],
+    "position": [
+      313,
+      327
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [348, 356],
+    "position": [
+      348,
+      356
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [553, 557],
+    "position": [
+      553,
+      557
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tạo mô cứng bất thường trong tủy",
-    "position": [759, 791],
+    "position": [
+      759,
+      791
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K04.3"]
+    "candidates": [
+      "K04.3"
+    ]
   }
 ]

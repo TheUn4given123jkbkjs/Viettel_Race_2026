@@ -1,7 +1,10 @@
 [
   {
     "text": "Viêm cột sống vảy nến",
-    "position": [482, 503],
+    "position": [
+      482,
+      503
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,35 +15,54 @@
   },
   {
     "text": "Ceftriaxone",
-    "position": [633, 644],
+    "position": [
+      633,
+      644
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Diclofenac",
-    "position": [666, 676],
+    "position": [
+      666,
+      676
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3355"]
+    "candidates": [
+      "3355"
+    ]
   },
   {
     "text": "Viêm da do vảy nến",
-    "position": [845, 863],
+    "position": [
+      845,
+      863
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm cột sống do vảy nến",
-    "position": [888, 912],
+    "position": [
+      888,
+      912
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Normocytic anemia",
-    "position": [809, 826],
+    "position": [
+      809,
+      826
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

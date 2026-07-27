@@ -1,56 +1,86 @@
 [
   {
     "text": "đau đầu vùng thái dương",
-    "position": [132, 155],
+    "position": [
+      132,
+      155
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [233, 242],
+    "position": [
+      233,
+      242
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu vận mạch",
-    "position": [1259, 1275],
+    "position": [
+      1259,
+      1275
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "bệnh lý tim mạch mãn tính",
-    "position": [1395, 1420],
+    "position": [
+      1395,
+      1420
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [1603, 1612],
+    "position": [
+      1603,
+      1612
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Huyết áp: 155/95 mmHg",
-    "position": [1909, 1930],
+    "position": [
+      1909,
+      1930
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Creatinin : 88 µmol/L",
-    "position": [2787, 2808],
+    "position": [
+      2787,
+      2808
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Chụp CT sọ não",
-    "position": [2952, 2966],
+    "position": [
+      2952,
+      2966
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

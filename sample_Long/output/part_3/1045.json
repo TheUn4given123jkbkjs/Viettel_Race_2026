@@ -1,9 +1,14 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [93, 106],
+    "position": [
+      93,
+      106
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -12,51 +17,83 @@
   },
   {
     "text": "Các bệnh tuyến mồ hôi, không điển hình",
-    "position": [1433, 1471],
+    "position": [
+      1433,
+      1471
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L74.9", "L75.9"]
+    "candidates": [
+      "L74.9",
+      "L75.9"
+    ]
   },
   {
     "text": "Clindamycin",
-    "position": [1945, 1956],
+    "position": [
+      1945,
+      1956
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2582"]
+    "candidates": [
+      "2582"
+    ]
   },
   {
     "text": "Metronidazole",
-    "position": [2102, 2115],
+    "position": [
+      2102,
+      2115
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6922"]
+    "candidates": [
+      "6922"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [2245, 2258],
+    "position": [
+      2245,
+      2258
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "nốt đỏ",
-    "position": [713, 719],
+    "position": [
+      713,
+      719
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau",
-    "position": [598, 601],
+    "position": [
+      598,
+      601
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [980, 988],
+    "position": [
+      980,
+      988
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

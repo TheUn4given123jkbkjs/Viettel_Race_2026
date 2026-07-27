@@ -1,23 +1,40 @@
 [
   {
     "text": "Azithromycin",
-    "position": [240, 252],
+    "position": [
+      240,
+      252
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["18631"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "18631"
+    ]
   },
   {
     "text": "COPD",
-    "position": [137, 141],
+    "position": [
+      137,
+      141
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "nhồi máu cơ tim cấp",
-    "position": [415, 434],
+    "position": [
+      415,
+      434
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I21",
       "I21.0",
@@ -26,35 +43,54 @@
   },
   {
     "text": "đau ngực",
-    "position": [501, 509],
+    "position": [
+      501,
+      509
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [642, 650],
+    "position": [
+      642,
+      650
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [969, 976],
+    "position": [
+      969,
+      976
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Troponin",
-    "position": [1017, 1025],
+    "position": [
+      1017,
+      1025
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "BNP",
-    "position": [1033, 1036],
+    "position": [
+      1033,
+      1036
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

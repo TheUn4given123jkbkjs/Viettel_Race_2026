@@ -1,36 +1,55 @@
 [
   {
-    "text": "TrÄ© xÃ¡c Äá»nh khÃ¡c",
-    "position": [1091, 1114],
-    "type": "CHáº¨N_ÄOÃN",
+    "text": "Trĩ xác định khác",
+    "position": [
+      821,
+      838
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "khÃ´ng sá»t",
-    "position": [636, 648],
-    "type": "TRIá»U_CHá»¨NG",
-    "assertions": ["isNegated"],
+    "text": "không sốt",
+    "position": [
+      480,
+      489
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
-    "text": "buá»n nÃ´n",
-    "position": [657, 668],
-    "type": "TRIá»U_CHá»¨NG",
-    "assertions": ["isNegated"],
+    "text": "buồn nôn",
+    "position": [
+      497,
+      505
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
-    "text": "pháº«u thuáº­t",
-    "position": [1172, 1186],
-    "type": "CHáº¨N_ÄOÃN",
+    "text": "phẫu thuật",
+    "position": [
+      883,
+      893
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
-    "text": "thay Äá»i habit Äáº¡i tiá»n",
-    "position": [1939, 1970],
-    "type": "TRIá»U_CHá»¨NG",
+    "text": "thay đổi habit đại tiện",
+    "position": [
+      1449,
+      1472
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

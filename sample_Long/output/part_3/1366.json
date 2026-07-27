@@ -1,42 +1,62 @@
 [
   {
     "text": "đau thắt ngực",
-    "position": [184, 197],
+    "position": [
+      184,
+      197
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [223, 230],
+    "position": [
+      223,
+      230
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "troponin",
-    "position": [522, 530],
+    "position": [
+      522,
+      530
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "điện tâm đồ",
-    "position": [532, 543],
+    "position": [
+      532,
+      543
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp X-quang ngực",
-    "position": [547, 564],
+    "position": [
+      547,
+      564
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cao",
-    "position": [624, 627],
+    "position": [
+      624,
+      627
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

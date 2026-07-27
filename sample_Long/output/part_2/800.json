@@ -1,42 +1,62 @@
 [
   {
     "text": "sốt cao",
-    "position": [98, 105],
+    "position": [
+      98,
+      105
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [323, 331],
+    "position": [
+      323,
+      331
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [533, 547],
+    "position": [
+      533,
+      547
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm nước tiểu",
-    "position": [549, 569],
+    "position": [
+      549,
+      569
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp X-quang",
-    "position": [573, 585],
+    "position": [
+      573,
+      585
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "kết quả",
-    "position": [634, 641],
+    "position": [
+      634,
+      641
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

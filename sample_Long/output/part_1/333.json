@@ -1,16 +1,26 @@
 [
   {
     "text": "Prednisolone",
-    "position": [170, 182],
+    "position": [
+      170,
+      182
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   },
   {
     "text": "Hoại tử xương",
-    "position": [250, 263],
+    "position": [
+      250,
+      263
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "A18.03",
       "M87",
@@ -19,35 +29,56 @@
   },
   {
     "text": "buồn nôn",
-    "position": [656, 664],
+    "position": [
+      656,
+      664
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [758, 767],
+    "position": [
+      758,
+      767
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Hoại tử xưogn",
-    "position": [961, 974],
+    "position": [
+      961,
+      974
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [580, 583],
+    "position": [
+      580,
+      583
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Hoại tử xương",
-    "position": [250, 263],
+    "position": [
+      250,
+      263
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -58,9 +89,14 @@
   },
   {
     "text": "Diclofena",
-    "position": [1204, 1213],
+    "position": [
+      1204,
+      1213
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3355"]
+    "candidates": [
+      "3355"
+    ]
   }
 ]

@@ -1,37 +1,58 @@
 [
   {
     "text": "đau nhức âm ỉ ở vùng khớp háng",
-    "position": [70, 100],
+    "position": [
+      70,
+      100
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vận động rất khó khăn",
-    "position": [136, 157],
+    "position": [
+      136,
+      157
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các bệnh xương sụn đặc hiệu khác",
-    "position": [508, 540],
+    "position": [
+      508,
+      540
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M93.8"]
+    "candidates": [
+      "M93.8"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [974, 983],
+    "position": [
+      974,
+      983
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Calcium gluconate",
-    "position": [1098, 1115],
+    "position": [
+      1098,
+      1115
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1908"]
+    "candidates": [
+      "1908"
+    ]
   }
 ]

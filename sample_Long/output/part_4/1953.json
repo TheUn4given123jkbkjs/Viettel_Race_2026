@@ -1,21 +1,34 @@
 [
   {
     "text": "Fenofibrate",
-    "position": [633, 644],
+    "position": [
+      633,
+      644
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["8703"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "8703"
+    ]
   },
   {
     "text": "Hypertension",
-    "position": [0, 12],
+    "position": [
+      0,
+      12
+    ],
     "type": "TÊN_BỆNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "động mạch",
-    "position": [119, 128],
+    "position": [
+      119,
+      128
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -26,7 +39,10 @@
   },
   {
     "text": "tăng huyết áp",
-    "position": [64, 77],
+    "position": [
+      64,
+      77
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -37,7 +53,10 @@
   },
   {
     "text": "bệnh tim mạch",
-    "position": [191, 204],
+    "position": [
+      191,
+      204
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

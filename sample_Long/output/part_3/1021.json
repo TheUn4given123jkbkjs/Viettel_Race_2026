@@ -1,56 +1,82 @@
 [
   {
     "text": "đau hố chậu phải",
-    "position": [75, 91],
+    "position": [
+      75,
+      91
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [99, 102],
+    "position": [
+      99,
+      102
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Đau quặn bụng",
-    "position": [209, 222],
+    "position": [
+      209,
+      222
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Huyết áp",
-    "position": [224, 232],
+    "position": [
+      224,
+      232
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "120/80 mmHg",
-    "position": [234, 245],
+    "position": [
+      234,
+      245
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu",
-    "position": [247, 255],
+    "position": [
+      247,
+      255
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "15.4",
-    "position": [256, 260],
+    "position": [
+      256,
+      260
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Siêu âm ổ bụng",
-    "position": [262, 276],
+    "position": [
+      262,
+      276
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

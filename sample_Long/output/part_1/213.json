@@ -1,42 +1,62 @@
 [
   {
     "text": "đau bụng co hồi từng cơn",
-    "position": [145, 169],
+    "position": [
+      145,
+      169
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ra nhầy hồng âm đạo",
-    "position": [171, 190],
+    "position": [
+      171,
+      190
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đẻ thường ngôi đầu",
-    "position": [269, 287],
+    "position": [
+      269,
+      287
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O80.0"]
+    "candidates": [
+      "O80.0"
+    ]
   },
   {
     "text": "đau bụng râm rầm",
-    "position": [503, 519],
+    "position": [
+      503,
+      519
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Oxytocin 10 UI tiêm bắp",
-    "position": [859, 882],
+    "position": [
+      859,
+      882
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen 500mg: 1 viên/lần, uống khi đau nhiều",
-    "position": [922, 973],
+    "position": [
+      922,
+      973
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

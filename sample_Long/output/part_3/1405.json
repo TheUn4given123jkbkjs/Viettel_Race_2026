@@ -1,9 +1,14 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [143, 156],
+    "position": [
+      143,
+      156
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -12,42 +17,66 @@
   },
   {
     "text": "Sưng nề",
-    "position": [198, 205],
+    "position": [
+      198,
+      205
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Không sốt",
-    "position": [353, 362],
+    "position": [
+      353,
+      362
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không ho",
-    "position": [1755, 1763],
+    "position": [
+      1755,
+      1763
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Viêm túi thanh mạc bàn tay",
-    "position": [1907, 1933],
+    "position": [
+      1907,
+      1933
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M70.1"]
+    "candidates": [
+      "M70.1"
+    ]
   },
   {
     "text": "Ibuprofen 400mg",
-    "position": [1966, 1981],
+    "position": [
+      1966,
+      1981
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Methylprednisolone 16mg",
-    "position": [2015, 2038],
+    "position": [
+      2015,
+      2038
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

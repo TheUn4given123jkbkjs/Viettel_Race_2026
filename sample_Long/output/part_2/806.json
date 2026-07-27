@@ -1,16 +1,28 @@
 [
   {
     "text": "THA",
-    "position": [22, 25],
+    "position": [
+      22,
+      25
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Y06"
+    ]
   },
   {
     "text": "gút",
-    "position": [27, 30],
+    "position": [
+      27,
+      30
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "M10.0",
       "M10.1",
@@ -19,28 +31,43 @@
   },
   {
     "text": "đaukhớp gối T",
-    "position": [133, 146],
+    "position": [
+      133,
+      146
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh khớp khác do các vi tinh thể được xác định",
-    "position": [299, 346],
+    "position": [
+      299,
+      346
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M11.8", "M14.19*"]
+    "candidates": [
+      "M11.8",
+      "M14.19*"
+    ]
   },
   {
     "text": "Colchicine 1mg",
-    "position": [359, 373],
+    "position": [
+      359,
+      373
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Meloxicam 15mg: 1 viên/ngày, uống",
-    "position": [375, 408],
+    "position": [
+      375,
+      408
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

@@ -1,7 +1,10 @@
 [
   {
     "text": "bệnh tim thiếu máu cục bộ cấp",
-    "position": [464, 493],
+    "position": [
+      464,
+      493
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Aspirin",
-    "position": [502, 509],
+    "position": [
+      502,
+      509
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Nitroglycerin",
-    "position": [513, 526],
+    "position": [
+      513,
+      526
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4917"]
+    "candidates": [
+      "4917"
+    ]
   }
 ]

@@ -1,44 +1,68 @@
 [
   {
     "text": "Bệnh khớp sau các bệnh được xác định và xếp loại ở chỗ khác, ở cổ chân và bàn chân",
-    "position": [104, 186],
+    "position": [
+      104,
+      186
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M14.87"]
+    "candidates": [
+      "M14.87"
+    ]
   },
   {
     "text": "viêm khớp thứ phát",
-    "position": [201, 219],
+    "position": [
+      201,
+      219
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng khớp",
-    "position": [330, 339],
+    "position": [
+      330,
+      339
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhức",
-    "position": [343, 351],
+    "position": [
+      343,
+      351
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Diclofenac",
-    "position": [416, 426],
+    "position": [
+      416,
+      426
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3355"]
+    "candidates": [
+      "3355"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [432, 441],
+    "position": [
+      432,
+      441
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   }
 ]

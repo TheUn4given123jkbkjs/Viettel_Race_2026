@@ -1,7 +1,10 @@
 [
   {
     "text": "xơ vữa động mạch",
-    "position": [129, 145],
+    "position": [
+      129,
+      145
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,49 +15,76 @@
   },
   {
     "text": "aspirin",
-    "position": [171, 178],
+    "position": [
+      171,
+      178
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "atorvastatin",
-    "position": [182, 194],
+    "position": [
+      182,
+      194
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["83367"]
+    "candidates": [
+      "83367"
+    ]
   },
   {
     "text": "ceftriaxone",
-    "position": [415, 426],
+    "position": [
+      415,
+      426
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "tăng huyết áp",
-    "position": [47, 60],
+    "position": [
+      47,
+      60
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [62, 72],
+    "position": [
+      62,
+      72
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rối loạn lipid máu",
-    "position": [77, 95],
+    "position": [
+      77,
+      95
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [250, 258],
+    "position": [
+      250,
+      258
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

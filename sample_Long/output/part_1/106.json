@@ -1,35 +1,58 @@
 [
   {
     "text": "Dimercaprol",
-    "position": [197, 208],
+    "position": [
+      197,
+      208
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["3445"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3445"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [283, 300],
+    "position": [
+      283,
+      300
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [234, 243],
+    "position": [
+      234,
+      243
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bệnh gan mạn tính",
-    "position": [39, 56],
+    "position": [
+      39,
+      56
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bệnh tim mạch",
-    "position": [60, 73],
+    "position": [
+      60,
+      73
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

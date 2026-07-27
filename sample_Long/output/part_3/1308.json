@@ -1,28 +1,49 @@
 [
   {
     "text": "bệnh thận mạn",
-    "position": [170, 183],
+    "position": [
+      170,
+      183
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["I68.8*", "N03.6"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "I68.8*",
+      "N03.6"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [624, 633],
+    "position": [
+      624,
+      633
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không phù chi",
-    "position": [872, 885],
+    "position": [
+      872,
+      885
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Đái máu dai dẳng và tái phát",
-    "position": [1103, 1131],
+    "position": [
+      1103,
+      1131
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -33,7 +54,10 @@
   },
   {
     "text": "Viêm cầu thận gian mạch mao mạch lan tỏa",
-    "position": [1133, 1173],
+    "position": [
+      1133,
+      1173
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -44,16 +68,26 @@
   },
   {
     "text": "Prednisolone",
-    "position": [1217, 1229],
+    "position": [
+      1217,
+      1229
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   },
   {
     "text": "Enalapril",
-    "position": [1334, 1343],
+    "position": [
+      1334,
+      1343
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3827"]
+    "candidates": [
+      "3827"
+    ]
   }
 ]

@@ -1,42 +1,62 @@
 [
   {
     "text": "Rối loạn nhịp tim, không đặc hiệu",
-    "position": [67, 100],
+    "position": [
+      67,
+      100
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I49.9"]
+    "candidates": [
+      "I49.9"
+    ]
   },
   {
     "text": "tim đập quá nhanh",
-    "position": [177, 194],
+    "position": [
+      177,
+      194
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "quá chậm",
-    "position": [196, 204],
+    "position": [
+      196,
+      204
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không đều",
-    "position": [210, 219],
+    "position": [
+      210,
+      219
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amiodarone 200mg",
-    "position": [257, 273],
+    "position": [
+      257,
+      273
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Propranolol 40mg",
-    "position": [294, 310],
+    "position": [
+      294,
+      310
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

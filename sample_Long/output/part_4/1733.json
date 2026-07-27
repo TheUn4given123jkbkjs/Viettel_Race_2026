@@ -1,28 +1,40 @@
 [
   {
     "text": "đau ngực trái",
-    "position": [90, 103],
+    "position": [
+      90,
+      103
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [108, 115],
+    "position": [
+      108,
+      115
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "gõ vang",
-    "position": [208, 215],
+    "position": [
+      208,
+      215
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tràn khí màng phổi",
-    "position": [262, 280],
+    "position": [
+      262,
+      280
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -33,16 +45,26 @@
   },
   {
     "text": "Oxygen",
-    "position": [310, 316],
+    "position": [
+      310,
+      316
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["7806"]
+    "candidates": [
+      "7806"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [334, 347],
+    "position": [
+      334,
+      347
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

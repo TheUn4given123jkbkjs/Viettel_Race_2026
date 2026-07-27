@@ -1,14 +1,24 @@
 [
   {
     "text": "Iohexol",
-    "position": [310, 317],
+    "position": [
+      310,
+      317
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["5956"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "5956"
+    ]
   },
   {
     "text": "Tăng huyết áp",
-    "position": [416, 429],
+    "position": [
+      416,
+      429
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,23 +29,36 @@
   },
   {
     "text": "Amlodipine",
-    "position": [441, 451],
+    "position": [
+      441,
+      451
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "Đái tháo đường tuýp 2",
-    "position": [470, 491],
+    "position": [
+      470,
+      491
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Suy thận mạn",
-    "position": [549, 561],
+    "position": [
+      549,
+      561
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "N18",
       "N18.1",
@@ -44,7 +67,10 @@
   },
   {
     "text": "đau ngực trái",
-    "position": [722, 735],
+    "position": [
+      722,
+      735
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

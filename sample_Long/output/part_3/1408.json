@@ -1,9 +1,14 @@
 [
   {
     "text": "Tăng huyết áp",
-    "position": [30, 43],
+    "position": [
+      30,
+      43
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -12,9 +17,14 @@
   },
   {
     "text": "bệnh đái tháo đường",
-    "position": [200, 219],
+    "position": [
+      200,
+      219
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "E12.9",
       "E13",
@@ -23,35 +33,54 @@
   },
   {
     "text": "Sưng nóng đỏ đau khớp bàn ngón I chân trái và khớp cổ chân trái",
-    "position": [356, 419],
+    "position": [
+      356,
+      419
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [573, 576],
+    "position": [
+      573,
+      576
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Bệnh Gút do thương tổn chức năng thận",
-    "position": [1592, 1629],
+    "position": [
+      1592,
+      1629
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M10.3"]
+    "candidates": [
+      "M10.3"
+    ]
   },
   {
     "text": "Colchicine 1mg: 1 viên/ngày, uống sau ăn sáng",
-    "position": [1656, 1701],
+    "position": [
+      1656,
+      1701
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Allopurinol 100mg: 1 viên/ngày, uống sau ăn sáng",
-    "position": [1707, 1755],
+    "position": [
+      1707,
+      1755
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

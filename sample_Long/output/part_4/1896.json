@@ -1,56 +1,84 @@
 [
   {
     "text": "hạ đường huyết",
-    "position": [142, 156],
+    "position": [
+      142,
+      156
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "mệt mỏi kéo dài",
-    "position": [243, 258],
+    "position": [
+      243,
+      258
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau tức ngực âm ỉ",
-    "position": [320, 337],
+    "position": [
+      320,
+      337
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [393, 402],
+    "position": [
+      393,
+      402
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở nhẹ",
-    "position": [481, 492],
+    "position": [
+      481,
+      492
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Công thức máu (CBC)",
-    "position": [1078, 1097],
+    "position": [
+      1078,
+      1097
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "8.2 G/L",
-    "position": [1115, 1122],
+    "position": [
+      1115,
+      1122
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nhịp xoang đều",
-    "position": [1236, 1250],
+    "position": [
+      1236,
+      1250
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,51 +1,78 @@
 [
   {
     "text": "Bệnh cột sống khác, không được xếp loại ở mục khác",
-    "position": [73, 123],
+    "position": [
+      73,
+      123
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M53"]
+    "candidates": [
+      "M53"
+    ]
   },
   {
     "text": "đau cột sống mãn tính",
-    "position": [629, 650],
+    "position": [
+      629,
+      650
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tê bì",
-    "position": [678, 683],
+    "position": [
+      678,
+      683
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "yếu cơ",
-    "position": [723, 729],
+    "position": [
+      723,
+      729
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hạn chế vận động",
-    "position": [794, 810],
+    "position": [
+      794,
+      810
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [1166, 1179],
+    "position": [
+      1166,
+      1179
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Diclofenac",
-    "position": [1304, 1314],
+    "position": [
+      1304,
+      1314
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3355"]
+    "candidates": [
+      "3355"
+    ]
   }
 ]

@@ -1,37 +1,60 @@
 [
   {
     "text": "Mổ lấy thai, tiếp theo cắt tử cung",
-    "position": [161, 195],
+    "position": [
+      161,
+      195
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O82.2"]
+    "candidates": [
+      "O82.2"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [261, 270],
+    "position": [
+      261,
+      270
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [302, 310],
+    "position": [
+      302,
+      310
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [409, 422],
+    "position": [
+      409,
+      422
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Warfarin",
-    "position": [521, 529],
+    "position": [
+      521,
+      529
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["11289"]
+    "candidates": [
+      "11289"
+    ]
   }
 ]

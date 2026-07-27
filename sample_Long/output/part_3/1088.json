@@ -1,21 +1,32 @@
 [
   {
     "text": "Tràn khí tổ chức kẽ phổi và các bệnh lý liên quan xuất phát trong thời kỳ chu sinh",
-    "position": [25, 107],
+    "position": [
+      25,
+      107
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P25"]
+    "candidates": [
+      "P25"
+    ]
   },
   {
     "text": "sốt",
-    "position": [215, 218],
+    "position": [
+      215,
+      218
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [220, 227],
+    "position": [
+      220,
+      227
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

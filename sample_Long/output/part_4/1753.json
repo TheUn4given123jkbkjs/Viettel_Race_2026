@@ -1,42 +1,62 @@
 [
   {
     "text": "đau đầu",
-    "position": [70, 77],
+    "position": [
+      70,
+      77
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [80, 89],
+    "position": [
+      80,
+      89
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [93, 101],
+    "position": [
+      93,
+      101
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [202, 219],
+    "position": [
+      202,
+      219
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "giảm tiểu cầu",
-    "position": [597, 610],
+    "position": [
+      597,
+      610
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng men gan",
-    "position": [614, 626],
+    "position": [
+      614,
+      626
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

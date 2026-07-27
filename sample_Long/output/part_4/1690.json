@@ -1,23 +1,38 @@
 [
   {
     "text": "Bệnh ống thận và kẽ ống thận do thuốc và kim loại nặng",
-    "position": [124, 178],
+    "position": [
+      124,
+      178
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N14"]
+    "candidates": [
+      "N14"
+    ]
   },
   {
     "text": "Acetylcysteine",
-    "position": [213, 227],
+    "position": [
+      213,
+      227
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["197"]
+    "candidates": [
+      "197"
+    ]
   },
   {
     "text": "Activated charcoal",
-    "position": [231, 249],
+    "position": [
+      231,
+      249
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["272"]
+    "candidates": [
+      "272"
+    ]
   }
 ]

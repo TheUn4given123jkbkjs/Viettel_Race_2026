@@ -1,7 +1,10 @@
 [
   {
     "text": "Hư điểm cốt hóa tại khung chậu ở trẻ em",
-    "position": [61, 100],
+    "position": [
+      61,
+      100
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,37 +15,56 @@
   },
   {
     "text": "đau âm ỉ",
-    "position": [693, 701],
+    "position": [
+      693,
+      701
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau nhói khu trú",
-    "position": [707, 723],
+    "position": [
+      707,
+      723
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng nhẹ",
-    "position": [1005, 1013],
+    "position": [
+      1005,
+      1013
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ibuprofen",
-    "position": [1538, 1547],
+    "position": [
+      1538,
+      1547
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [1553, 1566],
+    "position": [
+      1553,
+      1566
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

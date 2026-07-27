@@ -1,21 +1,34 @@
 [
   {
     "text": "Loperamide",
-    "position": [53, 63],
+    "position": [
+      53,
+      63
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["6468"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "6468"
+    ]
   },
   {
     "text": "tiêu chảy mạn tính",
-    "position": [129, 147],
+    "position": [
+      129,
+      147
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tác dụng phụ",
-    "position": [356, 368],
+    "position": [
+      356,
+      368
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,37 +1,60 @@
 [
   {
     "text": "mệt mỏi",
-    "position": [127, 134],
+    "position": [
+      127,
+      134
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Các tình trạng xác định khác liên quan đến thai nghén",
-    "position": [244, 297],
+    "position": [
+      244,
+      297
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O26.8"]
+    "candidates": [
+      "O26.8"
+    ]
   },
   {
     "text": "không ra máu âm đạo",
-    "position": [560, 579],
+    "position": [
+      560,
+      579
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "tiền sử u nang buồng trứng",
-    "position": [604, 630],
+    "position": [
+      604,
+      630
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [2500, 2509],
+    "position": [
+      2500,
+      2509
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

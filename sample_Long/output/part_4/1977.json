@@ -1,37 +1,62 @@
 [
   {
     "text": "các biến chứng khác của gây mê trong khi có thai chưa xác định rõ",
-    "position": [110, 175],
+    "position": [
+      110,
+      175
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O29.9"]
+    "candidates": [
+      "O29.9"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [516, 533],
+    "position": [
+      516,
+      533
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [537, 546],
+    "position": [
+      537,
+      546
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [439, 446],
+    "position": [
+      439,
+      446
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "ceftriaxone",
-    "position": [450, 461],
+    "position": [
+      450,
+      461
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

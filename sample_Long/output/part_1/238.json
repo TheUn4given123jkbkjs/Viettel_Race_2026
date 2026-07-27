@@ -1,56 +1,92 @@
 [
   {
     "text": "nốt đỏ phẳng",
-    "position": [35, 47],
+    "position": [
+      35,
+      47
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Sẩn Gottron",
-    "position": [150, 161],
+    "position": [
+      150,
+      161
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L94.4"]
+    "candidates": [
+      "L94.4"
+    ]
   },
   {
     "text": "Methotrexate",
-    "position": [190, 202],
+    "position": [
+      190,
+      202
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6851"]
+    "candidates": [
+      "6851"
+    ]
   },
   {
     "text": "Prednisolone",
-    "position": [226, 238],
+    "position": [
+      226,
+      238
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   },
   {
     "text": "ho",
-    "position": [193, 195],
+    "position": [
+      193,
+      195
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [319, 322],
+    "position": [
+      319,
+      322
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "ngứa",
-    "position": [330, 334],
+    "position": [
+      330,
+      334
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Đục thủy tinh thể",
-    "position": [351, 368],
+    "position": [
+      351,
+      368
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [

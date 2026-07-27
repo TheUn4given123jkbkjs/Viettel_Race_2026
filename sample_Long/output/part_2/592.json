@@ -1,44 +1,70 @@
 [
   {
     "text": "Viêm da dị ứng tiếp xúc do thực phẩm",
-    "position": [0, 36],
+    "position": [
+      0,
+      36
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L23.6", "L23.7"]
+    "candidates": [
+      "L23.6",
+      "L23.7"
+    ]
   },
   {
     "text": "Cetirizine",
-    "position": [811, 821],
+    "position": [
+      811,
+      821
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Loratadine",
-    "position": [834, 844],
+    "position": [
+      834,
+      844
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["28889"]
+    "candidates": [
+      "28889"
+    ]
   },
   {
     "text": "Diphenhydramine",
-    "position": [859, 874],
+    "position": [
+      859,
+      874
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Triamcinolone",
-    "position": [889, 902],
+    "position": [
+      889,
+      902
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hydrocortisone",
-    "position": [916, 930],
+    "position": [
+      916,
+      930
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5492", "27197"]
+    "candidates": [
+      "5492",
+      "27197"
+    ]
   }
 ]

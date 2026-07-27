@@ -1,7 +1,10 @@
 [
   {
     "text": "Kén nang lông",
-    "position": [0, 13],
+    "position": [
+      0,
+      13
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,30 +15,44 @@
   },
   {
     "text": "đỏ",
-    "position": [79, 81],
+    "position": [
+      79,
+      81
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng",
-    "position": [83, 87],
+    "position": [
+      83,
+      87
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau",
-    "position": [91, 94],
+    "position": [
+      91,
+      94
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [135, 144],
+    "position": [
+      135,
+      144
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

@@ -1,44 +1,68 @@
 [
   {
     "text": "Hội chứng chèn ép động mạch sống và động mạch gai sống trước, vùng thắt lưng",
-    "position": [109, 185],
+    "position": [
+      109,
+      185
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M47.06"]
+    "candidates": [
+      "M47.06"
+    ]
   },
   {
     "text": "Đau thắt lưng",
-    "position": [858, 871],
+    "position": [
+      858,
+      871
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Yếu cơ hai chân",
-    "position": [939, 954],
+    "position": [
+      939,
+      954
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bí tiểu",
-    "position": [1152, 1159],
+    "position": [
+      1152,
+      1159
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "MRI cột sống thắt lưng",
-    "position": [1378, 1400],
+    "position": [
+      1378,
+      1400
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "THA",
-    "position": [1482, 1485],
+    "position": [
+      1482,
+      1485
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Y06"
+    ]
   }
 ]

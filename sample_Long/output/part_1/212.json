@@ -1,49 +1,80 @@
 [
   {
     "text": "Lichen thành dải",
-    "position": [49, 65],
+    "position": [
+      49,
+      65
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L44.2"]
+    "candidates": [
+      "L44.2"
+    ]
   },
   {
     "text": "sốt",
-    "position": [700, 703],
+    "position": [
+      700,
+      703
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "đau",
-    "position": [711, 714],
+    "position": [
+      711,
+      714
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [391, 393],
+    "position": [
+      391,
+      393
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "ngứa nhẹ",
-    "position": [747, 755],
+    "position": [
+      747,
+      755
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Betamethasone",
-    "position": [989, 1002],
+    "position": [
+      989,
+      1002
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1514"]
+    "candidates": [
+      "1514"
+    ]
   },
   {
     "text": "Loratadine 10mg",
-    "position": [1077, 1092],
+    "position": [
+      1077,
+      1092
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

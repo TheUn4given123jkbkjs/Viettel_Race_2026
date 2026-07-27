@@ -1,49 +1,74 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [23, 40],
+    "position": [
+      23,
+      40
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [68, 75],
+    "position": [
+      68,
+      75
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [77, 86],
+    "position": [
+      77,
+      86
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [99, 116],
+    "position": [
+      99,
+      116
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "công thức máu",
-    "position": [172, 185],
+    "position": [
+      172,
+      185
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bình thường",
-    "position": [261, 272],
+    "position": [
+      261,
+      272
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [77, 86],
+    "position": [
+      77,
+      86
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,49 +1,78 @@
 [
   {
     "text": "bệnh tim mạch",
-    "position": [95, 108],
+    "position": [
+      95,
+      108
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Gelatin",
-    "position": [704, 711],
+    "position": [
+      704,
+      711
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["4716"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "4716"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [818, 829],
+    "position": [
+      818,
+      829
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Troponin",
-    "position": [839, 847],
+    "position": [
+      839,
+      847
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Aspirin",
-    "position": [866, 873],
+    "position": [
+      866,
+      873
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "Xét nghiệm máu toàn phần",
-    "position": [897, 921],
+    "position": [
+      897,
+      921
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bác sĩ",
-    "position": [387, 393],
+    "position": [
+      387,
+      393
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,49 +1,72 @@
 [
   {
     "text": "Biến đổi da cấp tính đặc hiệu khác do tia cực tím",
-    "position": [83, 132],
+    "position": [
+      83,
+      132
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L56.8"]
+    "candidates": [
+      "L56.8"
+    ]
   },
   {
     "text": "Đỏ da",
-    "position": [1382, 1387],
+    "position": [
+      1382,
+      1387
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau rát",
-    "position": [1514, 1521],
+    "position": [
+      1514,
+      1521
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bọng nước",
-    "position": [1599, 1608],
+    "position": [
+      1599,
+      1608
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ibuprofen 400mg",
-    "position": [2209, 2224],
+    "position": [
+      2209,
+      2224
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "betamethasone 0.5mg/g",
-    "position": [2285, 2306],
+    "position": [
+      2285,
+      2306
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phù nề",
-    "position": [1689, 1695],
+    "position": [
+      1689,
+      1695
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

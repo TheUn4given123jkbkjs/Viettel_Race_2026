@@ -1,49 +1,78 @@
 [
   {
     "text": "Warfarin",
-    "position": [100, 108],
+    "position": [
+      100,
+      108
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["11289"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "11289"
+    ]
   },
   {
     "text": "tăng huyết áp",
-    "position": [43, 56],
+    "position": [
+      43,
+      56
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường loại 2",
-    "position": [60, 77],
+    "position": [
+      60,
+      77
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ceftriaxone",
-    "position": [356, 367],
+    "position": [
+      356,
+      367
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [371, 378],
+    "position": [
+      371,
+      378
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "nhiễm trùng đường tiết niệu",
-    "position": [295, 322],
+    "position": [
+      295,
+      322
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [413, 421],
+    "position": [
+      413,
+      421
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

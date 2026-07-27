@@ -1,23 +1,38 @@
 [
   {
     "text": "Các biến dạng mắc phải của hệ cơ-xương-khớp và mô liên kết",
-    "position": [455, 513],
+    "position": [
+      455,
+      513
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
-    "candidates": ["M95"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "M95"
+    ]
   },
   {
     "text": "cà rốt",
-    "position": [647, 653],
+    "position": [
+      647,
+      653
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau khớp gối",
-    "position": [35, 47],
+    "position": [
+      35,
+      47
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

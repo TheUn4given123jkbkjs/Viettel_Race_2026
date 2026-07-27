@@ -1,23 +1,38 @@
 [
   {
     "text": "Xuất huyết dưới màng cứng (cấp) (không do chấn thương)",
-    "position": [155, 209],
+    "position": [
+      155,
+      209
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I62.0"]
+    "candidates": [
+      "I62.0"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [244, 257],
+    "position": [
+      244,
+      257
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Diazepam",
-    "position": [261, 269],
+    "position": [
+      261,
+      269
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3322"]
+    "candidates": [
+      "3322"
+    ]
   }
 ]

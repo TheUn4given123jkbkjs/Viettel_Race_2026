@@ -1,14 +1,22 @@
 [
   {
     "text": "Loạn sản vừa cổ tử cung",
-    "position": [0, 23],
+    "position": [
+      0,
+      23
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N87.1"]
+    "candidates": [
+      "N87.1"
+    ]
   },
   {
     "text": "Cổ tử cung",
-    "position": [204, 214],
+    "position": [
+      204,
+      214
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,7 +27,10 @@
   },
   {
     "text": "Phẫu thuật",
-    "position": [598, 608],
+    "position": [
+      598,
+      608
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

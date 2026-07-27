@@ -1,35 +1,54 @@
 [
   {
     "text": "không sốt",
-    "position": [432, 441],
+    "position": [
+      432,
+      441
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Phì đại amydan",
-    "position": [0, 14],
+    "position": [
+      0,
+      14
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J35.3"]
+    "candidates": [
+      "J35.3"
+    ]
   },
   {
     "text": "X-quang",
-    "position": [596, 603],
+    "position": [
+      596,
+      603
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm",
-    "position": [605, 612],
+    "position": [
+      605,
+      612
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "MRI",
-    "position": [619, 622],
+    "position": [
+      619,
+      622
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

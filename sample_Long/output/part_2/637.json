@@ -1,44 +1,69 @@
 [
   {
     "text": "tiền sử THA 5 năm",
-    "position": [78, 95],
+    "position": [
+      78,
+      95
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "bệnh Gout",
-    "position": [162, 171],
+    "position": [
+      162,
+      171
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "sưng đau khớp cổ tay",
-    "position": [381, 401],
+    "position": [
+      381,
+      401
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp X-quang khớp gối",
-    "position": [825, 846],
+    "position": [
+      825,
+      846
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "lắng đọng calci ở sụn khớp",
-    "position": [865, 891],
+    "position": [
+      865,
+      891
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh khớp khác do các vi tinh thể được xác định",
-    "position": [1140, 1187],
+    "position": [
+      1140,
+      1187
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M11.8", "M14.19*"]
+    "candidates": [
+      "M11.8",
+      "M14.19*"
+    ]
   }
 ]

@@ -1,42 +1,64 @@
 [
   {
     "text": "đau đầu",
-    "position": [58, 65],
+    "position": [
+      58,
+      65
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [68, 85],
+    "position": [
+      68,
+      85
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [89, 98],
+    "position": [
+      89,
+      98
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [318, 338],
+    "position": [
+      318,
+      338
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "huyết áp cao",
-    "position": [438, 450],
+    "position": [
+      438,
+      450
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cholesterol cao",
-    "position": [454, 469],
+    "position": [
+      454,
+      469
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

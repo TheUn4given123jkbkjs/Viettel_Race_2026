@@ -1,23 +1,34 @@
 [
   {
     "text": "mệ mỏi",
-    "position": [153, 159],
+    "position": [
+      153,
+      159
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nước tiểu có màu sẫm",
-    "position": [311, 331],
+    "position": [
+      311,
+      331
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xơ gan",
-    "position": [440, 446],
+    "position": [
+      440,
+      446
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "K71.7",
       "K74",
@@ -26,7 +37,10 @@
   },
   {
     "text": "Viêm gan mãn, không phân loại nơi khác",
-    "position": [568, 606],
+    "position": [
+      568,
+      606
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -37,21 +51,30 @@
   },
   {
     "text": "xétnghiệm",
-    "position": [1719, 1728],
+    "position": [
+      1719,
+      1728
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm bụng",
-    "position": [2599, 2611],
+    "position": [
+      2599,
+      2611
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "men gan",
-    "position": [1751, 1758],
+    "position": [
+      1751,
+      1758
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

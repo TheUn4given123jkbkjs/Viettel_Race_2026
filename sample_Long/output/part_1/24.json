@@ -1,56 +1,82 @@
 [
   {
     "text": "đau ngựcphía",
-    "position": [455, 467],
+    "position": [
+      455,
+      467
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau thắt ngực",
-    "position": [704, 717],
+    "position": [
+      704,
+      717
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "vã mồ hôi hột",
-    "position": [983, 996],
+    "position": [
+      983,
+      996
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Huyết áp: 145/90 mmHg",
-    "position": [1131, 1152],
+    "position": [
+      1131,
+      1152
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "WBC 12.5, RBC 4.2, HGB 13.1",
-    "position": [1233, 1260],
+    "position": [
+      1233,
+      1260
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP",
-    "position": [1281, 1284],
+    "position": [
+      1281,
+      1284
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "227.0 mg/L",
-    "position": [1286, 1296],
+    "position": [
+      1286,
+      1296
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "điện timcấp",
-    "position": [1352, 1363],
+    "position": [
+      1352,
+      1363
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,37 +1,63 @@
 [
   {
     "text": "Lamivudine / Zidovudine",
-    "position": [107, 130],
+    "position": [
+      107,
+      130
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["214671", "687428"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "214671",
+      "687428"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [187, 204],
+    "position": [
+      187,
+      204
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [208, 217],
+    "position": [
+      208,
+      217
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [249, 257],
+    "position": [
+      249,
+      257
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "aspirin",
-    "position": [284, 291],
+    "position": [
+      284,
+      291
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   }
 ]

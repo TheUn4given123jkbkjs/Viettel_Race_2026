@@ -1,44 +1,68 @@
 [
   {
     "text": "sưng",
-    "position": [139, 143],
+    "position": [
+      139,
+      143
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau",
-    "position": [147, 150],
+    "position": [
+      147,
+      150
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nóng",
-    "position": [250, 254],
+    "position": [
+      250,
+      254
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm khớp trong bệnh Rubella (B06.8†), cẳng tay",
-    "position": [295, 342],
+    "position": [
+      295,
+      342
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M01.43*"]
+    "candidates": [
+      "M01.43*"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [374, 383],
+    "position": [
+      374,
+      383
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [389, 402],
+    "position": [
+      389,
+      402
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

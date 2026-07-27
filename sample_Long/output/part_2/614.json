@@ -1,37 +1,54 @@
 [
   {
     "text": "sưngđỏ",
-    "position": [128, 134],
+    "position": [
+      128,
+      134
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau rát",
-    "position": [172, 179],
+    "position": [
+      172,
+      179
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi",
-    "position": [183, 192],
+    "position": [
+      183,
+      192
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang",
-    "position": [212, 219],
+    "position": [
+      212,
+      219
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "gút",
-    "position": [332, 335],
+    "position": [
+      332,
+      335
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "M10.0",
       "M10.1",
@@ -40,16 +57,24 @@
   },
   {
     "text": "loãng xương dạng đốm",
-    "position": [537, 557],
+    "position": [
+      537,
+      557
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hội chứng Loạn dưỡng-thần kinh-đau",
-    "position": [582, 616],
+    "position": [
+      582,
+      616
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M89.0"]
+    "candidates": [
+      "M89.0"
+    ]
   }
 ]

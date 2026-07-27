@@ -1,7 +1,10 @@
 [
   {
     "text": "Rụng tóc từng mảng",
-    "position": [48, 66],
+    "position": [
+      48,
+      66
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,24 @@
   },
   {
     "text": "Minoxidil",
-    "position": [192, 201],
+    "position": [
+      192,
+      201
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [205, 218],
+    "position": [
+      205,
+      218
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   }
 ]

@@ -1,14 +1,25 @@
 [
   {
     "text": "Loạn sản lành tính vú khác, vú nữ, không xác định bên",
-    "position": [45, 98],
+    "position": [
+      45,
+      98
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated", "isHistorical"],
-    "candidates": ["N60.80"]
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "candidates": [
+      "N60.80"
+    ]
   },
   {
     "text": "Loạn sản lành tính vú khác",
-    "position": [45, 71],
+    "position": [
+      45,
+      71
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,7 +30,10 @@
   },
   {
     "text": "vú nữ",
-    "position": [73, 78],
+    "position": [
+      73,
+      78
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -30,23 +44,38 @@
   },
   {
     "text": "THA",
-    "position": [163, 166],
+    "position": [
+      163,
+      166
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [233, 241],
+    "position": [
+      233,
+      241
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [251, 254],
+    "position": [
+      251,
+      254
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

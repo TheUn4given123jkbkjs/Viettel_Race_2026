@@ -1,23 +1,38 @@
 [
   {
     "text": "Viêm xoang bướm mãn tính",
-    "position": [18, 42],
+    "position": [
+      18,
+      42
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J32.3"]
+    "candidates": [
+      "J32.3"
+    ]
   },
   {
     "text": "acetaminophen",
-    "position": [311, 324],
+    "position": [
+      311,
+      324
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "prednisolone",
-    "position": [401, 413],
+    "position": [
+      401,
+      413
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["8638"]
+    "candidates": [
+      "8638"
+    ]
   }
 ]

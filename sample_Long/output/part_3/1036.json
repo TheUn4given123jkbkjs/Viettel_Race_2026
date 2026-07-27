@@ -1,58 +1,90 @@
 [
   {
     "text": "đau bụng cơn",
-    "position": [667, 679],
+    "position": [
+      667,
+      679
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn mửa",
-    "position": [681, 688],
+    "position": [
+      681,
+      688
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bí trung đại tiện",
-    "position": [381, 398],
+    "position": [
+      381,
+      398
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Amlodipine",
-    "position": [1375, 1385],
+    "position": [
+      1375,
+      1385
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "mức nước hơi",
-    "position": [2293, 2305],
+    "position": [
+      2293,
+      2305
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dính ruột [thành dải] có tắc nghẽn",
-    "position": [2820, 2854],
+    "position": [
+      2820,
+      2854
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K56.5"]
+    "candidates": [
+      "K56.5"
+    ]
   },
   {
     "text": "Sodium chloride",
-    "position": [3124, 3139],
+    "position": [
+      3124,
+      3139
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["9863"]
+    "candidates": [
+      "9863"
+    ]
   },
   {
     "text": "Metronidazole",
-    "position": [3231, 3244],
+    "position": [
+      3231,
+      3244
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6922"]
+    "candidates": [
+      "6922"
+    ]
   }
 ]

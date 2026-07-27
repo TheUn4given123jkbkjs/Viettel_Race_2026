@@ -1,42 +1,64 @@
 [
   {
     "text": "Rối loạn chức năng thần kinh cơ bàng quang, không đặc hiệu",
-    "position": [343, 401],
+    "position": [
+      343,
+      401
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N31.9"]
+    "candidates": [
+      "N31.9"
+    ]
   },
   {
     "text": "tăng huyết áp",
-    "position": [138, 151],
+    "position": [
+      138,
+      151
+    ],
     "type": "BỆNH_MÃN_TÍNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [155, 165],
+    "position": [
+      155,
+      165
+    ],
     "type": "BỆNH_MÃN_TÍNH",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [71, 88],
+    "position": [
+      71,
+      88
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [55, 67],
+    "position": [
+      55,
+      67
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [239, 247],
+    "position": [
+      239,
+      247
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

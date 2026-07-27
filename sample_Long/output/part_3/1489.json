@@ -1,23 +1,38 @@
 [
   {
     "text": "THA",
-    "position": [122, 125],
+    "position": [
+      122,
+      125
+    ],
     "type": "BỆNH",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Sỏi túi mật có viêm túi mật khác",
-    "position": [198, 230],
+    "position": [
+      198,
+      230
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K80.1"]
+    "candidates": [
+      "K80.1"
+    ]
   },
   {
     "text": "cao huyết áp",
-    "position": [135, 147],
+    "position": [
+      135,
+      147
+    ],
     "type": "BỆNH",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

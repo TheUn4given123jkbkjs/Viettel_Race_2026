@@ -1,44 +1,69 @@
 [
   {
     "text": "Valproic acid",
-    "position": [28, 41],
+    "position": [
+      28,
+      41
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["11118"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "11118"
+    ]
   },
   {
     "text": "Sốt cao 39°C",
-    "position": [166, 178],
+    "position": [
+      166,
+      178
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho đàm xanh",
-    "position": [180, 191],
+    "position": [
+      180,
+      191
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [193, 201],
+    "position": [
+      193,
+      201
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ran ẩm",
-    "position": [310, 316],
+    "position": [
+      310,
+      316
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm phổi thùy",
-    "position": [328, 342],
+    "position": [
+      328,
+      342
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J18.1", "B01.2†"]
+    "candidates": [
+      "J18.1",
+      "B01.2†"
+    ]
   }
 ]

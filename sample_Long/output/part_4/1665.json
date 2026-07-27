@@ -1,23 +1,38 @@
 [
   {
     "text": "đẻ muộn sau khi bấm ối",
-    "position": [21, 43],
+    "position": [
+      21,
+      43
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O75.5"]
+    "candidates": [
+      "O75.5"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [56, 65],
+    "position": [
+      56,
+      65
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [77, 94],
+    "position": [
+      77,
+      94
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

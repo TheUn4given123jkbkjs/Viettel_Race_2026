@@ -1,23 +1,40 @@
 [
   {
     "text": "Bệnh xác định khác của mũi và xoang",
-    "position": [0, 35],
+    "position": [
+      0,
+      35
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["J34.8"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "J34.8"
+    ]
   },
   {
     "text": "Acyclovir",
-    "position": [981, 990],
+    "position": [
+      981,
+      990
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["281"]
+    "candidates": [
+      "281"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [1027, 1036],
+    "position": [
+      1027,
+      1036
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   }
 ]

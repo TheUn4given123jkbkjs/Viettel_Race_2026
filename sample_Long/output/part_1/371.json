@@ -1,23 +1,42 @@
 [
   {
     "text": "Nứt ống hậu môn, không đặc hiệu",
-    "position": [0, 31],
+    "position": [
+      0,
+      31
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["K60.2"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "K60.2"
+    ]
   },
   {
     "text": "Dexamethasone",
-    "position": [498, 511],
+    "position": [
+      498,
+      511
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3264"]
+    "candidates": [
+      "3264"
+    ]
   },
   {
     "text": "Metoclopramide",
-    "position": [515, 529],
+    "position": [
+      515,
+      529
+    ],
     "type": "THUỐC",
-    "assertions": ["isFamily"],
-    "candidates": ["6915"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "6915"
+    ]
   }
 ]

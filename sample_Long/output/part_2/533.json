@@ -1,44 +1,74 @@
 [
   {
     "text": "không sốt",
-    "position": [116, 125],
+    "position": [
+      116,
+      125
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "không buồn nôn",
-    "position": [129, 143],
+    "position": [
+      129,
+      143
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [152, 169],
+    "position": [
+      152,
+      169
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Acetaminophen",
-    "position": [472, 485],
+    "position": [
+      472,
+      485
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [491, 500],
+    "position": [
+      491,
+      500
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Acetylcysteine",
-    "position": [581, 595],
+    "position": [
+      581,
+      595
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["197"]
+    "candidates": [
+      "197"
+    ]
   }
 ]

@@ -1,7 +1,10 @@
 [
   {
     "text": "Hở van động mạch phổi",
-    "position": [562, 583],
+    "position": [
+      562,
+      583
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,37 +15,62 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [637, 650],
+    "position": [
+      637,
+      650
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Metformin",
-    "position": [675, 684],
+    "position": [
+      675,
+      684
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["6809"]
+    "candidates": [
+      "6809"
+    ]
   },
   {
     "text": "THA",
-    "position": [156, 159],
+    "position": [
+      156,
+      159
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "nhồi máu cơ tim",
-    "position": [180, 195],
+    "position": [
+      180,
+      195
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "THA 5 năm",
-    "position": [156, 165],
+    "position": [
+      156,
+      165
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   }
 ]

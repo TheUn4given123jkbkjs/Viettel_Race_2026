@@ -1,9 +1,14 @@
 [
   {
     "text": "tăng huyết áp",
-    "position": [63, 76],
+    "position": [
+      63,
+      76
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": [
       "I67.4",
       "I10",
@@ -12,9 +17,14 @@
   },
   {
     "text": "suy tim",
-    "position": [162, 169],
+    "position": [
+      162,
+      169
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "I11.0",
       "I11.9",
@@ -23,51 +33,74 @@
   },
   {
     "text": "khó thở khi gắng sức",
-    "position": [336, 356],
+    "position": [
+      336,
+      356
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hồi hộp đánh trống ngực",
-    "position": [502, 525],
+    "position": [
+      502,
+      525
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phù nhẹ hai chi dưới",
-    "position": [696, 716],
+    "position": [
+      696,
+      716
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "rung tâm trương",
-    "position": [855, 870],
+    "position": [
+      855,
+      870
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm tim Doppler",
-    "position": [1069, 1088],
+    "position": [
+      1069,
+      1088
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vôi hóa rất nặng vòng van hai lá",
-    "position": [1109, 1141],
+    "position": [
+      1109,
+      1141
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hẹp van hai lá không do thấp khác",
-    "position": [1278, 1311],
+    "position": [
+      1278,
+      1311
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I34.8"]
+    "candidates": [
+      "I34.8"
+    ]
   }
 ]

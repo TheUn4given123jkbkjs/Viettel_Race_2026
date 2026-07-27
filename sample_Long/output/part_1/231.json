@@ -1,51 +1,76 @@
 [
   {
     "text": "sốt nhẹ",
-    "position": [220, 227],
+    "position": [
+      220,
+      227
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi kéo dài",
-    "position": [307, 322],
+    "position": [
+      307,
+      322
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau hạ sườn phải",
-    "position": [405, 421],
+    "position": [
+      405,
+      421
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "WBC",
-    "position": [564, 567],
+    "position": [
+      564,
+      567
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "15.000/mm3",
-    "position": [590, 600],
+    "position": [
+      590,
+      600
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh nhiễm khuẩn và ký sinh trùng không được định rõ",
-    "position": [1448, 1500],
+    "position": [
+      1448,
+      1500
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P37.9"]
+    "candidates": [
+      "P37.9"
+    ]
   },
   {
     "text": "Ung thư gan",
-    "position": [678, 689],
+    "position": [
+      678,
+      689
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "C22.0",
       "C22.1",

@@ -1,56 +1,84 @@
 [
   {
     "text": "đau nửa đầu trái",
-    "position": [27, 43],
+    "position": [
+      27,
+      43
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Đau ngực",
-    "position": [86, 94],
+    "position": [
+      86,
+      94
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Đau tức ngực",
-    "position": [127, 139],
+    "position": [
+      127,
+      139
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho",
-    "position": [147, 149],
+    "position": [
+      147,
+      149
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Huyết áp: 140/85 mmHg",
-    "position": [248, 269],
+    "position": [
+      248,
+      269
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Kali",
-    "position": [285, 289],
+    "position": [
+      285,
+      289
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "3.9",
-    "position": [290, 293],
+    "position": [
+      290,
+      293
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT ngực",
-    "position": [326, 333],
+    "position": [
+      326,
+      333
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

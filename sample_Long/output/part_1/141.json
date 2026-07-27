@@ -1,42 +1,64 @@
 [
   {
     "text": "Mercaptopurine",
-    "position": [38, 52],
+    "position": [
+      38,
+      52
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["103"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "103"
+    ]
   },
   {
     "text": "bạch cầu",
-    "position": [70, 78],
+    "position": [
+      70,
+      78
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [311, 319],
+    "position": [
+      311,
+      319
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn",
-    "position": [316, 319],
+    "position": [
+      316,
+      319
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiêu chảy",
-    "position": [326, 335],
+    "position": [
+      326,
+      335
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "giảm bạch cầu",
-    "position": [337, 350],
+    "position": [
+      337,
+      350
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

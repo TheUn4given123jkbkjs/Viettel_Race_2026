@@ -1,56 +1,84 @@
 [
   {
     "text": "sốt cao liên tục",
-    "position": [488, 504],
+    "position": [
+      488,
+      504
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ho kéo dài",
-    "position": [560, 570],
+    "position": [
+      560,
+      570
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [677, 684],
+    "position": [
+      677,
+      684
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "ran ẩm rải rác",
-    "position": [699, 713],
+    "position": [
+      699,
+      713
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 26.7",
-    "position": [1019, 1032],
+    "position": [
+      1019,
+      1032
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 227.0 mg/L",
-    "position": [1036, 1051],
+    "position": [
+      1036,
+      1051
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Creatinin : 46 µmol/L",
-    "position": [1064, 1085],
+    "position": [
+      1064,
+      1085
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "cấy máu",
-    "position": [1228, 1235],
+    "position": [
+      1228,
+      1235
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

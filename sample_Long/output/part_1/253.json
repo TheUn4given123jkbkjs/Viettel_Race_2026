@@ -1,7 +1,10 @@
 [
   {
     "text": "chảy máu sau đẻ",
-    "position": [51, 66],
+    "position": [
+      51,
+      66
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Acetaminophen",
-    "position": [115, 128],
+    "position": [
+      115,
+      128
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Tranexamic acid",
-    "position": [132, 147],
+    "position": [
+      132,
+      147
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["10691"]
+    "candidates": [
+      "10691"
+    ]
   }
 ]

@@ -1,7 +1,10 @@
 [
   {
     "text": "bệnh thận do tăng huyết áp, có suy thận",
-    "position": [212, 251],
+    "position": [
+      212,
+      251
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,16 +15,26 @@
   },
   {
     "text": "Amlodipine",
-    "position": [279, 289],
+    "position": [
+      279,
+      289
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["17767"]
+    "candidates": [
+      "17767"
+    ]
   },
   {
     "text": "Furosemide",
-    "position": [293, 303],
+    "position": [
+      293,
+      303
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["4603"]
+    "candidates": [
+      "4603"
+    ]
   }
 ]

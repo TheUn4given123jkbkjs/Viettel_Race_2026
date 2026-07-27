@@ -1,37 +1,64 @@
 [
   {
     "text": "Viêm khớp trong bệnh Lyme (A69.2†), cánh tay",
-    "position": [0, 44],
+    "position": [
+      0,
+      44
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated"],
-    "candidates": ["M01.22*"]
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "M01.22*"
+    ]
   },
   {
     "text": "Ampicillin",
-    "position": [296, 306],
+    "position": [
+      296,
+      306
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["733"]
+    "candidates": [
+      "733"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [377, 390],
+    "position": [
+      377,
+      390
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [442, 451],
+    "position": [
+      442,
+      451
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [512, 523],
+    "position": [
+      512,
+      523
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   }
 ]

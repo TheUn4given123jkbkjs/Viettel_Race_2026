@@ -1,7 +1,10 @@
 [
   {
     "text": "Bệnh khớp trong bệnh Crohn [Viêm đoạn ruột] (K50.-†)",
-    "position": [409, 461],
+    "position": [
+      409,
+      461
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,49 +15,72 @@
   },
   {
     "text": "tiền sử hút thuốc lá nhiều năm",
-    "position": [847, 877],
+    "position": [
+      847,
+      877
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "đau bụng mạn tính",
-    "position": [1243, 1260],
+    "position": [
+      1243,
+      1260
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiêu chảy kéo dài",
-    "position": [1317, 1334],
+    "position": [
+      1317,
+      1334
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng nóng đỏ đau tại các khớp lớn",
-    "position": [1407, 1440],
+    "position": [
+      1407,
+      1440
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Nội soi đại tràng",
-    "position": [1703, 1720],
+    "position": [
+      1703,
+      1720
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "loét hình bản đồ",
-    "position": [1783, 1799],
+    "position": [
+      1783,
+      1799
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hẹp lòng đại tràng",
-    "position": [1830, 1848],
+    "position": [
+      1830,
+      1848
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -1,49 +1,74 @@
 [
   {
     "text": "sưng to",
-    "position": [90, 97],
+    "position": [
+      90,
+      97
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đỏ",
-    "position": [99, 101],
+    "position": [
+      99,
+      101
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau",
-    "position": [133, 136],
+    "position": [
+      133,
+      136
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [166, 169],
+    "position": [
+      166,
+      169
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "Viêm vú nhiễm khuẩn trẻ sơ sinh",
-    "position": [393, 424],
+    "position": [
+      393,
+      424
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P39.0"]
+    "candidates": [
+      "P39.0"
+    ]
   },
   {
     "text": "áp xe tuyến vú",
-    "position": [549, 563],
+    "position": [
+      549,
+      563
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm tuyến vú",
-    "position": [877, 893],
+    "position": [
+      877,
+      893
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

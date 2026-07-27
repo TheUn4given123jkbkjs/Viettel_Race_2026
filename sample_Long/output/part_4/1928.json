@@ -1,16 +1,24 @@
 [
   {
     "text": "vảy nếncó",
-    "position": [86, 95],
+    "position": [
+      86,
+      95
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm khớp dạng thấp",
-    "position": [192, 211],
+    "position": [
+      192,
+      211
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "M05",
       "M05.3†",
@@ -19,37 +27,54 @@
   },
   {
     "text": "sưng đau các khớp ngón xa",
-    "position": [396, 421],
+    "position": [
+      396,
+      421
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chủ quan sốt",
-    "position": [491, 503],
+    "position": [
+      491,
+      503
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "x-quangg",
-    "position": [933, 941],
+    "position": [
+      933,
+      941
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bào mòn khớp",
-    "position": [960, 972],
+    "position": [
+      960,
+      972
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Bệnh khớp vảy nến có tổn thương khớp ngón xa (L40.5†), vị trí khác",
-    "position": [1080, 1146],
+    "position": [
+      1080,
+      1146
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M07.08*"]
+    "candidates": [
+      "M07.08*"
+    ]
   }
 ]

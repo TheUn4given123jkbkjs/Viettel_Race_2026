@@ -1,16 +1,24 @@
 [
   {
     "text": "ngứa",
-    "position": [50, 54],
+    "position": [
+      50,
+      54
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm da cơ địa",
-    "position": [571, 585],
+    "position": [
+      571,
+      585
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": [
       "L20",
       "L20.8",
@@ -19,21 +27,30 @@
   },
   {
     "text": "ban đỏ",
-    "position": [687, 693],
+    "position": [
+      687,
+      693
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sẩn phù",
-    "position": [776, 783],
+    "position": [
+      776,
+      783
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Mày đay",
-    "position": [1356, 1363],
+    "position": [
+      1356,
+      1363
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -44,16 +61,26 @@
   },
   {
     "text": "Alimemazine",
-    "position": [1406, 1417],
+    "position": [
+      1406,
+      1417
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["10825"]
+    "candidates": [
+      "10825"
+    ]
   },
   {
     "text": "Chlorpheniramine",
-    "position": [1500, 1516],
+    "position": [
+      1500,
+      1516
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2400"]
+    "candidates": [
+      "2400"
+    ]
   }
 ]

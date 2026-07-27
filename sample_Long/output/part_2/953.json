@@ -1,14 +1,24 @@
 [
   {
     "text": "Hydrochlorothiazide",
-    "position": [46, 65],
+    "position": [
+      46,
+      65
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["5487"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "5487"
+    ]
   },
   {
     "text": "Tăng huyết áp",
-    "position": [109, 122],
+    "position": [
+      109,
+      122
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -19,21 +29,30 @@
   },
   {
     "text": "đau đầu",
-    "position": [160, 167],
+    "position": [
+      160,
+      167
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chóng mặt",
-    "position": [169, 178],
+    "position": [
+      169,
+      178
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "HA 160/95 mmHg",
-    "position": [260, 274],
+    "position": [
+      260,
+      274
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

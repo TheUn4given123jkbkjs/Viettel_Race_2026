@@ -1,44 +1,64 @@
 [
   {
     "text": "Đau rát họng",
-    "position": [186, 198],
+    "position": [
+      186,
+      198
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ho hắt hơi",
-    "position": [205, 215],
+    "position": [
+      205,
+      215
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tăng tiết đờm",
-    "position": [222, 235],
+    "position": [
+      222,
+      235
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "X-quang ngực thẳng",
-    "position": [770, 788],
+    "position": [
+      770,
+      788
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Hình ảnh phế trường hai bên sáng, chưa thấy tổn thương nhu mô",
-    "position": [790, 851],
+    "position": [
+      790,
+      851
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm đường hô hấp trên do hóa chất, khí, khói và chất bay hơi, chưa phân loại nơi khác",
-    "position": [879, 965],
+    "position": [
+      879,
+      965
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J68.2"]
+    "candidates": [
+      "J68.2"
+    ]
   }
 ]

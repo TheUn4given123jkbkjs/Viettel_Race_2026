@@ -1,56 +1,82 @@
 [
   {
     "text": "đau bụng",
-    "position": [132, 140],
+    "position": [
+      132,
+      140
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [142, 150],
+    "position": [
+      142,
+      150
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nôn mửa",
-    "position": [152, 159],
+    "position": [
+      152,
+      159
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phân đen",
-    "position": [164, 172],
+    "position": [
+      164,
+      172
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "không sốt",
-    "position": [192, 201],
+    "position": [
+      192,
+      201
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm huyết học",
-    "position": [312, 332],
+    "position": [
+      312,
+      332
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm chức năng dạ dày",
-    "position": [334, 361],
+    "position": [
+      334,
+      361
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tình trạng viêm nhiễm",
-    "position": [20, 41],
+    "position": [
+      20,
+      41
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

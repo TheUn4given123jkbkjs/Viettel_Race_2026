@@ -1,35 +1,50 @@
 [
   {
     "text": "đau đầu",
-    "position": [63, 70],
+    "position": [
+      63,
+      70
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [74, 77],
+    "position": [
+      74,
+      77
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "mệt mỏi",
-    "position": [81, 88],
+    "position": [
+      81,
+      88
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [167, 181],
+    "position": [
+      167,
+      181
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tăng bạch cầu",
-    "position": [278, 291],
+    "position": [
+      278,
+      291
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

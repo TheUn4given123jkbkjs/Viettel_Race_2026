@@ -1,42 +1,68 @@
 [
   {
     "text": "glaucoma góc mở",
-    "position": [128, 143],
+    "position": [
+      128,
+      143
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "Mannitol",
-    "position": [170, 178],
+    "position": [
+      170,
+      178
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["6628"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "6628"
+    ]
   },
   {
     "text": "sốt nhẹ",
-    "position": [463, 470],
+    "position": [
+      463,
+      470
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [504, 512],
+    "position": [
+      504,
+      512
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "troponin I",
-    "position": [668, 678],
+    "position": [
+      668,
+      678
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm phế quản cấp",
-    "position": [793, 810],
+    "position": [
+      793,
+      810
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -47,9 +73,14 @@
   },
   {
     "text": "Azithromycin",
-    "position": [835, 847],
+    "position": [
+      835,
+      847
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["18631"]
+    "candidates": [
+      "18631"
+    ]
   }
 ]

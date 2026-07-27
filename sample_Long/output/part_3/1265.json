@@ -1,7 +1,10 @@
 [
   {
     "text": "Viêm xoang cấp khác",
-    "position": [0, 19],
+    "position": [
+      0,
+      19
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,42 +15,63 @@
   },
   {
     "text": "đau đầu",
-    "position": [107, 114],
+    "position": [
+      107,
+      114
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sổ mũi",
-    "position": [116, 122],
+    "position": [
+      116,
+      122
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nghẹt mũi",
-    "position": [124, 133],
+    "position": [
+      124,
+      133
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Viêm xoang cấp trên nhiều hơn một xoang nhưng không phải là viêm toàn bộ các xoang",
-    "position": [150, 232],
+    "position": [
+      150,
+      232
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J01.81", "J01.80"]
+    "candidates": [
+      "J01.81",
+      "J01.80"
+    ]
   },
   {
     "text": "theo dõi lối sống",
-    "position": [349, 366],
+    "position": [
+      349,
+      366
+    ],
     "type": "ĐIỀU_TRỊ",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phẫu thuật",
-    "position": [381, 391],
+    "position": [
+      381,
+      391
+    ],
     "type": "ĐIỀU_TRỊ",
     "assertions": [],
     "candidates": []

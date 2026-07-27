@@ -1,7 +1,10 @@
 [
   {
     "text": "Tổn thương cột sống do nguyên nhân thần kinh",
-    "position": [358, 402],
+    "position": [
+      358,
+      402
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,21 +15,32 @@
   },
   {
     "text": "chấn thương cột sống",
-    "position": [127, 147],
+    "position": [
+      127,
+      147
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "cơn đau lưng",
-    "position": [203, 215],
+    "position": [
+      203,
+      215
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [453, 461],
+    "position": [
+      453,
+      461
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

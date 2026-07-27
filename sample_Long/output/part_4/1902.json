@@ -1,49 +1,72 @@
 [
   {
     "text": "tiểu đường",
-    "position": [26, 36],
+    "position": [
+      26,
+      36
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [70, 73],
+    "position": [
+      70,
+      73
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [75, 92],
+    "position": [
+      75,
+      92
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "troponin",
-    "position": [221, 229],
+    "position": [
+      221,
+      229
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "0.05 ng/mL",
-    "position": [231, 241],
+    "position": [
+      231,
+      241
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "công thức máu",
-    "position": [254, 267],
+    "position": [
+      254,
+      267
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "10.000 tế bào/mm3",
-    "position": [280, 297],
+    "position": [
+      280,
+      297
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

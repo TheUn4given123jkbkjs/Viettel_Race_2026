@@ -1,49 +1,76 @@
 [
   {
     "text": "Bệnh cơ tim do thiếu máu cục bộ",
-    "position": [523, 554],
+    "position": [
+      523,
+      554
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I25.5"]
+    "candidates": [
+      "I25.5"
+    ]
   },
   {
     "text": "aspirin",
-    "position": [369, 376],
+    "position": [
+      369,
+      376
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["1191"]
+    "candidates": [
+      "1191"
+    ]
   },
   {
     "text": "ceftriaxone",
-    "position": [380, 391],
+    "position": [
+      380,
+      391
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "Troponin",
-    "position": [179, 187],
+    "position": [
+      179,
+      187
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Creatine kinase",
-    "position": [200, 215],
+    "position": [
+      200,
+      215
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "điện tâm đồ",
-    "position": [471, 482],
+    "position": [
+      471,
+      482
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "siêu âm tim",
-    "position": [484, 495],
+    "position": [
+      484,
+      495
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

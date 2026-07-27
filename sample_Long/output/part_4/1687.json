@@ -1,44 +1,70 @@
 [
   {
     "text": "Đái tháo đường type 2",
-    "position": [26, 47],
+    "position": [
+      26,
+      47
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "rò rỉ nước tiểu",
-    "position": [111, 126],
+    "position": [
+      111,
+      126
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiểu đêm",
-    "position": [177, 185],
+    "position": [
+      177,
+      185
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tiểu không kiểm soát xác định khác",
-    "position": [327, 361],
+    "position": [
+      327,
+      361
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N39.4"]
+    "candidates": [
+      "N39.4"
+    ]
   },
   {
     "text": "Amitriptyline",
-    "position": [373, 386],
+    "position": [
+      373,
+      386
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["704"]
+    "candidates": [
+      "704"
+    ]
   },
   {
     "text": "Desmopressin",
-    "position": [390, 402],
+    "position": [
+      390,
+      402
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["3251"]
+    "candidates": [
+      "3251"
+    ]
   }
 ]

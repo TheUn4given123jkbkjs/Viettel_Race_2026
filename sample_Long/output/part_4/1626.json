@@ -1,49 +1,74 @@
 [
   {
     "text": "mề đay mãn tính tự phát",
-    "position": [1244, 1267],
+    "position": [
+      1244,
+      1267
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "ngứa",
-    "position": [685, 689],
+    "position": [
+      685,
+      689
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "hắc tố ác tính",
-    "position": [814, 828],
+    "position": [
+      814,
+      828
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Dacarbazine",
-    "position": [932, 943],
+    "position": [
+      932,
+      943
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["3098"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3098"
+    ]
   },
   {
     "text": "sẩn phù",
-    "position": [170, 177],
+    "position": [
+      170,
+      177
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "IgE",
-    "position": [2661, 2664],
+    "position": [
+      2661,
+      2664
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tăng cao",
-    "position": [2761, 2769],
+    "position": [
+      2761,
+      2769
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

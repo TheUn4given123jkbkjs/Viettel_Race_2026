@@ -1,56 +1,84 @@
 [
   {
     "text": "hồi hộp",
-    "position": [363, 370],
+    "position": [
+      363,
+      370
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "liệt nửa người",
-    "position": [565, 579],
+    "position": [
+      565,
+      579
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "đau thắt ngực",
-    "position": [752, 765],
+    "position": [
+      752,
+      765
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "vã mồ hôi lanh",
-    "position": [1077, 1091],
+    "position": [
+      1077,
+      1091
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "94%",
-    "position": [1741, 1744],
+    "position": [
+      1741,
+      1744
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiếng T1,T2 mờ",
-    "position": [1915, 1929],
+    "position": [
+      1915,
+      1929
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Điện tâm đồ (ECG)",
-    "position": [2591, 2608],
+    "position": [
+      2591,
+      2608
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin T huyết thanh",
-    "position": [2755, 2777],
+    "position": [
+      2755,
+      2777
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

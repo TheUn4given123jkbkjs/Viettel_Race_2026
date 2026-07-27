@@ -1,35 +1,56 @@
 [
   {
     "text": "mệt mỏi",
-    "position": [71, 78],
+    "position": [
+      71,
+      78
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "khó thở",
-    "position": [90, 97],
+    "position": [
+      90,
+      97
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "THA",
-    "position": [147, 150],
+    "position": [
+      147,
+      150
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isFamily"],
-    "candidates": ["Y06"]
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "Y06"
+    ]
   },
   {
     "text": "băng huyết sau sinh",
-    "position": [419, 438],
+    "position": [
+      419,
+      438
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "suy hô hấp cấp",
-    "position": [601, 615],
+    "position": [
+      601,
+      615
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -40,23 +61,34 @@
   },
   {
     "text": "X-quang",
-    "position": [710, 717],
+    "position": [
+      710,
+      717
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Mờ lan tỏa hai phổi",
-    "position": [719, 738],
+    "position": [
+      719,
+      738
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Tử vong vì di chứng của nguyên nhân sản khoa trực tiếp",
-    "position": [762, 816],
+    "position": [
+      762,
+      816
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O97"]
+    "candidates": [
+      "O97"
+    ]
   }
 ]

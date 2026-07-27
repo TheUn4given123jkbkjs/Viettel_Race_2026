@@ -1,37 +1,63 @@
 [
   {
     "text": "Bệnh khớp sau nhiễm khuẩn và bệnh khớp phản ứng được xếp loại ở mục khác",
-    "position": [189, 261],
+    "position": [
+      189,
+      261
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M03", "M03*"]
+    "candidates": [
+      "M03",
+      "M03*"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [304, 317],
+    "position": [
+      304,
+      317
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Acetylcysteine",
-    "position": [321, 335],
+    "position": [
+      321,
+      335
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["197"]
+    "candidates": [
+      "197"
+    ]
   },
   {
     "text": "buồn nôn",
-    "position": [403, 411],
+    "position": [
+      403,
+      411
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [416, 419],
+    "position": [
+      416,
+      419
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

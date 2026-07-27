@@ -1,23 +1,38 @@
 [
   {
     "text": "đỏ da nhiễm độc của trẻ sơ sinh",
-    "position": [32, 63],
+    "position": [
+      32,
+      63
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P83.1"]
+    "candidates": [
+      "P83.1"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [240, 253],
+    "position": [
+      240,
+      253
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ibuprofen",
-    "position": [259, 268],
+    "position": [
+      259,
+      268
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["5640"]
+    "candidates": [
+      "5640"
+    ]
   }
 ]

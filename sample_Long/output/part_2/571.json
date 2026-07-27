@@ -1,7 +1,10 @@
 [
   {
     "text": "Hội chứng viêm thận không đặc hiệu",
-    "position": [0, 34],
+    "position": [
+      0,
+      34
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -12,7 +15,10 @@
   },
   {
     "text": "Viêm cầu thận màng lan tỏa",
-    "position": [206, 232],
+    "position": [
+      206,
+      232
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
@@ -23,21 +29,32 @@
   },
   {
     "text": "mệt mỏi",
-    "position": [133, 140],
+    "position": [
+      133,
+      140
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "tiền sử THA 5 năm",
-    "position": [440, 457],
+    "position": [
+      440,
+      457
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "thay đổi màu sắc của nước tiểu",
-    "position": [173, 203],
+    "position": [
+      173,
+      203
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

@@ -1,51 +1,78 @@
 [
   {
     "text": "Đái tháo đường type 2",
-    "position": [63, 84],
+    "position": [
+      63,
+      84
+    ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "đau ngón chân cái bên phải",
-    "position": [169, 195],
+    "position": [
+      169,
+      195
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sốt",
-    "position": [235, 238],
+    "position": [
+      235,
+      238
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "sưng tấy",
-    "position": [254, 262],
+    "position": [
+      254,
+      262
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "sưng, nóng, đỏ, đau",
-    "position": [330, 349],
+    "position": [
+      330,
+      349
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "nhiễm trùng",
-    "position": [385, 396],
+    "position": [
+      385,
+      396
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Móng chọc thịt",
-    "position": [417, 431],
+    "position": [
+      417,
+      431
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L60.0"]
+    "candidates": [
+      "L60.0"
+    ]
   }
 ]

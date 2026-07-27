@@ -1,37 +1,62 @@
 [
   {
     "text": "Rifabutin",
-    "position": [38, 47],
+    "position": [
+      38,
+      47
+    ],
     "type": "THUỐC",
-    "assertions": ["isHistorical"],
-    "candidates": ["55672"]
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "55672"
+    ]
   },
   {
     "text": "tiêu chảy",
-    "position": [373, 382],
+    "position": [
+      373,
+      382
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [384, 392],
+    "position": [
+      384,
+      392
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [394, 411],
+    "position": [
+      394,
+      411
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "bệnh lao phổi",
-    "position": [236, 249],
+    "position": [
+      236,
+      249
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J65"]
+    "candidates": [
+      "J65"
+    ]
   }
 ]

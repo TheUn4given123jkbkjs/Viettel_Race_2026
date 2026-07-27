@@ -1,58 +1,98 @@
 [
   {
     "text": "Nang tuyến Bartholin",
-    "position": [424, 444],
+    "position": [
+      424,
+      444
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N75.0"]
+    "candidates": [
+      "N75.0"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [473, 486],
+    "position": [
+      473,
+      486
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Ceftriaxone",
-    "position": [490, 501],
+    "position": [
+      490,
+      501
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["2193"]
+    "candidates": [
+      "2193"
+    ]
   },
   {
     "text": "THA",
-    "position": [121, 124],
+    "position": [
+      121,
+      124
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isHistorical"],
+    "assertions": [
+      "isHistorical"
+    ],
     "candidates": []
   },
   {
     "text": "viêm khớp dạng thấp",
-    "position": [222, 241],
+    "position": [
+      222,
+      241
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "eczema",
-    "position": [260, 266],
+    "position": [
+      260,
+      266
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "viêm dạ dày",
-    "position": [318, 329],
+    "position": [
+      318,
+      329
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "hen suyễn",
-    "position": [355, 364],
+    "position": [
+      355,
+      364
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   }
 ]

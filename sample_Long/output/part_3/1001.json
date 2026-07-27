@@ -1,56 +1,86 @@
 [
   {
     "text": "sốt",
-    "position": [45, 48],
+    "position": [
+      45,
+      48
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "đau bụng",
-    "position": [59, 67],
+    "position": [
+      59,
+      67
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [174, 182],
+    "position": [
+      174,
+      182
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "SpO2",
-    "position": [224, 228],
+    "position": [
+      224,
+      228
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "97%",
-    "position": [229, 232],
+    "position": [
+      229,
+      232
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Rối loạn mạch máu ở ruột, không đặc hiệu",
-    "position": [245, 285],
+    "position": [
+      245,
+      285
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["K55.9"]
+    "candidates": [
+      "K55.9"
+    ]
   },
   {
     "text": "Papaverine 40mg iv",
-    "position": [297, 315],
+    "position": [
+      297,
+      315
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Ciprofloxacin 500mg PO BID",
-    "position": [317, 343],
+    "position": [
+      317,
+      343
+    ],
     "type": "THUỐC",
     "assertions": [],
     "candidates": []

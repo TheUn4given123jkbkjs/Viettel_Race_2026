@@ -1,49 +1,72 @@
 [
   {
     "text": "sốt",
-    "position": [35, 38],
+    "position": [
+      35,
+      38
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau đầu",
-    "position": [42, 49],
+    "position": [
+      42,
+      49
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "phủ nhận buồn nôn",
-    "position": [62, 79],
+    "position": [
+      62,
+      79
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "xét nghiệm máu",
-    "position": [219, 233],
+    "position": [
+      219,
+      233
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm nhiễm",
-    "position": [311, 321],
+    "position": [
+      311,
+      321
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "chụp X-quang ngực",
-    "position": [259, 276],
+    "position": [
+      259,
+      276
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "viêm phổi",
-    "position": [147, 156],
+    "position": [
+      147,
+      156
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []

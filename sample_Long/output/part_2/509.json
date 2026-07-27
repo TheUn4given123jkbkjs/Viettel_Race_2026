@@ -1,37 +1,62 @@
 [
   {
     "text": "Kén nang lông không áp xe hóa",
-    "position": [26, 55],
+    "position": [
+      26,
+      55
+    ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["L05.9"]
+    "candidates": [
+      "L05.9"
+    ]
   },
   {
     "text": "Acetaminophen",
-    "position": [113, 126],
+    "position": [
+      113,
+      126
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["161"]
+    "candidates": [
+      "161"
+    ]
   },
   {
     "text": "Acetylcysteine",
-    "position": [147, 161],
+    "position": [
+      147,
+      161
+    ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": ["197"]
+    "candidates": [
+      "197"
+    ]
   },
   {
     "text": "không sốt",
-    "position": [69, 78],
+    "position": [
+      69,
+      78
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "tiểu đường",
-    "position": [216, 226],
+    "position": [
+      216,
+      226
+    ],
     "type": "BỆNH_NỀN",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   }
 ]

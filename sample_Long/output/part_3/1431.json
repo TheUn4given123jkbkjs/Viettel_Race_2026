@@ -1,56 +1,84 @@
 [
   {
     "text": "đau ngực trái",
-    "position": [569, 582],
+    "position": [
+      569,
+      582
+    ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "đau ngực",
-    "position": [375, 383],
+    "position": [
+      375,
+      383
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isFamily"],
+    "assertions": [
+      "isFamily"
+    ],
     "candidates": []
   },
   {
     "text": "buồn nôn",
-    "position": [899, 907],
+    "position": [
+      899,
+      907
+    ],
     "type": "TRIỆU_CHỨNG",
-    "assertions": ["isNegated"],
+    "assertions": [
+      "isNegated"
+    ],
     "candidates": []
   },
   {
     "text": "SPO2: 92 %",
-    "position": [1252, 1262],
+    "position": [
+      1252,
+      1262
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "bạch cầu 14.5",
-    "position": [1983, 1996],
+    "position": [
+      1983,
+      1996
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CRP: 156.0 mg/L",
-    "position": [2064, 2079],
+    "position": [
+      2064,
+      2079
+    ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "Troponin",
-    "position": [2196, 2204],
+    "position": [
+      2196,
+      2204
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },
   {
     "text": "CT sọ",
-    "position": [2358, 2363],
+    "position": [
+      2358,
+      2363
+    ],
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []

@@ -161,21 +161,30 @@ def compact_json_format(data):
     return json_str
 
 def generate_llm_call(api_key, scenario_id, style_id, disease, drugs_list):
-    """Sinh prompt theo kịch bản lâm sàng và phong cách được chỉ định, sau đó gọi API Gemini"""
+    """Sinh prompt theo kịch bản lâm sàng và phong cách được chỉ định, sau đó gọi API Gemini (V4 - Tăng độ dài & đa dạng)"""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
     
     # 1. Định nghĩa phong cách văn bản
     sec1_titles = ["Tiền sử bệnh", "Tiền sử bệnh nội khoa", "Bệnh nền", "Các bệnh mãn tính"]
-    sec2_titles = ["Tiền sử bệnh hiện tại", "Bệnh sử hiện tại", "Bệnh sử", "Diễn biến bệnh"]
-    sec3_titles = ["Đánh giá tại bệnh viện", "Khám lúc vào viện", "Đã xử trí thuốc và thủ thuật", "Y lệnh Điều trị", "Điều trị tại bệnh viện"]
+    sec2_titles = ["Tiền sử bệnh hiện tại", "Bệnh sử hiện tại", "Bệnh sử", "Diễn biến bệnh lý"]
+    sec3_titles = ["Đánh giá tại bệnh viện", "Khám lúc vào viện", "Cận lâm sàng & Y lệnh", "Điều trị tại bệnh viện"]
     s1, s2, s3 = random.choice(sec1_titles), random.choice(sec2_titles), random.choice(sec3_titles)
+
+    contexts = [
+        "BỐI CẢNH LÂM SÀNG: Hồ sơ bệnh án điều trị nội trú chi tiết tại Bệnh viện Đa khoa.",
+        "BỐI CẢNH LÂM SÀNG: Phiếu khám bệnh ngoại trú và tư vấn y khoa chuyên sâu.",
+        "BỐI CẢNH LÂM SÀNG: Tóm tắt hồ sơ bệnh án chuyển viện / Biên bản hội chẩn lâm sàng.",
+        "BỐI CẢNH LÂM SÀNG: Tờ điều trị hàng ngày và ghi chú diễn tiến bệnh lý của bác sĩ.",
+        "BỐI CẢNH LÂM SÀNG: Báo cáo ca bệnh lâm sàng phức tạp (Complex Case Report)."
+    ]
+    clinical_context = random.choice(contexts)
 
     if style_id == 1:
         prompt_style = f"PHONG CÁCH YÊU CẦU: Bệnh án lâm sàng bán cấu trúc (Case Report) chi tiết.\n1. {s1}\n2. {s2}\n3. {s3}"
     elif style_id == 2:
         prompt_style = "PHONG CÁCH YÊU CẦU: Diễn đàn Q&A y khoa (Hỏi & Trả lời tư vấn chuyên sâu).\nHỏi : [Nội dung câu hỏi dài của người bệnh mô tả đầy đủ triệu chứng, tiền sử]\nTrả lời : Chào bạn, [Nội dung tư vấn chi tiết từ bác sĩ giải thích cặn kẽ]"
     elif style_id == 3:
-        prompt_style = "PHONG CÁCH YÊU CẦU: Bài viết thông tin y khoa giáo dục sức khỏe (Medical Article).\n[TÊN BỆNH] LÀ GÌ?\n1. Khái niệm và nguyên nhân gây bệnh\n2. Triệu chứng lâm sàng và các phương án điều trị tây y"
+        prompt_style = "PHONG CÁCH YÊU CẦU: Bài viết thông tin y khoa giáo dục sức khỏe (Medical Article).\n[TÊN BỆNH] LÀ GÌ?\n1. Khái niệm và nguyên nhân gây bệnh\n2. Triệu chứng lâm sàng, xét nghiệm chẩn đoán và hướng điều trị tây y"
     elif style_id == 4:
         prompt_style = f"PHONG CÁCH YÊU CẦU: Văn bản y khoa hỗn hợp (Hybrid/Mixed Document).\nGhép nối đoạn Hỏi & Đáp với ghi chú bệnh án cấu trúc (1. {s1} ... 2. {s2} ... 3. {s3}). Có thể chèn 1 đoạn dán nhầm không liên quan để tạo độ nhiễu thực tế."
     else:
@@ -183,7 +192,7 @@ def generate_llm_call(api_key, scenario_id, style_id, disease, drugs_list):
 
     # 2. Định nghĩa kịch bản lâm sàng & thuộc tính bổ sung
     inject_negation = random.random() < 0.30
-    inject_historical = random.random() < 0.20
+    inject_historical = random.random() < 0.25
     assertion_hint = ""
     if inject_negation:
         assertion_hint += "\nVăn bản PHẢI chứa ít nhất 1 thực thể bị phủ định (isNegated), ví dụ: 'phủ nhận buồn nôn', 'không sốt', 'không đau đầu'."
@@ -191,24 +200,27 @@ def generate_llm_call(api_key, scenario_id, style_id, disease, drugs_list):
         assertion_hint += "\nVăn bản PHẢI chứa ít nhất 1 thực thể tiền sử (isHistorical), ví dụ: 'tiền sử THA 5 năm', 'đã mổ ruột thừa cách đây 2 năm'."
 
     if scenario_id == 1:
-        prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Sơ khám & cận lâm sàng. Bác sĩ chỉ định xét nghiệm cận lâm sàng. CHƯA có chẩn đoán bệnh xác định, CHƯA kê đơn thuốc. Định dạng xét nghiệm đa dạng.\nEntities: CHỈ trích xuất 'TRIỆU_CHỨNG', 'TÊN_XÉT_NGHIỆM', 'KẾT_QUẢ_XÉT_NGHIỆM'. TUYỆT ĐỐI không trích xuất CHẨN_ĐOÁN hay THUỐC.\n{assertion_hint}"
+        prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Sơ khám & chỉ định cận lâm sàng. Bác sĩ chỉ định các xét nghiệm cận lâm sàng (công thức máu, sinh hóa, X-quang, siêu âm, ECG). CHƯA có chẩn đoán bệnh xác định, CHƯA kê đơn thuốc.\nEntities: CHỈ trích xuất 'TRIỆU_CHỨNG', 'TÊN_XÉT_NGHIỆM', 'KẾT_QUẢ_XÉT_NGHIỆM'. Bắt buộc mô tả cụ thể tên xét nghiệm kèm chỉ số/kết quả xét nghiệm.\n{assertion_hint}"
     elif scenario_id == 2:
-        prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Có chẩn đoán bệnh '{disease['name']}' nhưng KHÔNG kê đơn thuốc (chỉ định phẫu thuật/theo dõi lối sống).\nEntities: Bắt buộc trích xuất '{disease['name']}' nhãn CHẨN_ĐOÁN. TUYỆT ĐỐI không trích xuất THUỐC.\n{assertion_hint}"
+        prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Có chẩn đoán bệnh '{disease['name']}' nhưng KHÔNG kê đơn thuốc (chỉ định phẫu thuật/theo dõi lối sống). Mô tả chi tiết kết quả cận lâm sàng khẳng định chẩn đoán.\nEntities: Bắt buộc trích xuất '{disease['name']}' nhãn CHẨN_ĐOÁN, kèm 'TRIỆU_CHỨNG', 'TÊN_XÉT_NGHIỆM', 'KẾT_QUẢ_XÉT_NGHIỆM'. TUYỆT ĐỐI không trích xuất THUỐC.\n{assertion_hint}"
     elif scenario_id == 3:
-        prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Chẩn đoán bệnh '{disease['name']}' kèm đơn thuốc điều trị nội khoa hợp lý chọn từ: {', '.join(drugs_list)}.\nEntities: Trích xuất '{disease['name']}' nhãn CHẨN_ĐOÁN và 1-2 thuốc chọn nhãn THUỐC.\n{assertion_hint}"
+        prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Chẩn đoán bệnh '{disease['name']}' kèm đơn thuốc điều trị nội khoa hợp lý chọn từ: {', '.join(drugs_list)}.\nEntities: Trích xuất '{disease['name']}' nhãn CHẨN_ĐOÁN, 1-3 thuốc chọn nhãn THUỐC, kèm triệu chứng và xét nghiệm cận lâm sàng.\n{assertion_hint}"
     else:
         hist_drug = random.choice(drugs_list)
         prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Ghi nhận tiền sử dùng thuốc dài hạn '{hist_drug}'.\nEntities: Trích xuất '{hist_drug}' nhãn THUỐC với assertions=['isHistorical'].\n{assertion_hint}"
 
-    # Tăng độ dài để giống turn2 thực tế (trung bình 436 từ)
-    rand_len = random.random()
-    length_hint = "ĐỘ DÀI: TRUNG BÌNH (300-500 từ)" if rand_len < 0.40 else "ĐỘ DÀI: DÀI (500-800 từ)"
+    # BẮT BUỘC ĐỘ DÀI LỚN ĐỂ TIỆM CẬN 436 TỪ THỰC TẾ
+    length_hint = """🛑 BẮT BUỘC VỀ ĐỘ DÀI VĂN BẢN (STRICT LENGTH REQUIREMENT):
+- Trường 'text' BẮT BUỘC ĐẠT ĐỘ DÀI TỪ 450 ĐẾN 750 TỪ. 
+- PHẢI viết rất chi tiết: mô tả quá trình diễn biến bệnh lý từ 3-5 ngày trước, liệt kê tiền sử, kết quả khám từng cơ quan (tuần hoàn, hô hấp, tiêu hóa, thần kinh), và đầy đủ các chỉ số xét nghiệm cận lâm sàng kèm đơn thuốc/y lệnh."""
 
     mask_drug_hint = "\nMÔ PHỎNG ẨN DANH HÓA THUỐC: Ngẫu nhiên che 1-2 tên thuốc bằng dấu sao (************). Thuốc bị che KHÔNG trích xuất." if random.random() < 0.20 else ""
     typo_hint = "\nBƠM NHIỄU LỖI GÕ: Tạo 1-2 lỗi gõ (dính chữ, lỗi dấu). Cụm trích xuất phải khớp chính xác text chứa lỗi." if random.random() < 0.20 else ""
 
     prompt = f"""
-Hãy sinh ra một văn bản y khoa tiếng Việt theo phong cách y khoa được chỉ định dưới đây:
+Hãy sinh ra một văn bản y khoa tiếng Việt theo thông tin được chỉ định dưới đây:
+
+{clinical_context}
 
 {length_hint}
 
@@ -219,7 +231,7 @@ Hãy sinh ra một văn bản y khoa tiếng Việt theo phong cách y khoa đư
 --- YÊU CẦU ĐẦU RA BẮT BUỘC ---
 Đầu ra PHẢI là một đối tượng JSON chuẩn (chỉ trả về duy nhất chuỗi JSON, không kèm bất kỳ lời giải thích markdown nào khác):
 {{
-  "text": "Nội dung đoạn văn bản y khoa thô sinh ra (giữ nguyên toàn bộ các dấu xuống dòng \\n)",
+  "text": "Nội dung đoạn văn bản y khoa thô sinh ra (dài từ 450-750 từ, giữ nguyên toàn bộ các dấu xuống dòng \\n)",
   "entities": [
     {{
       "text": "cụm từ y khoa trích xuất chính xác 100% từng ký tự xuất hiện trong text",
@@ -233,7 +245,7 @@ Hãy sinh ra một văn bản y khoa tiếng Việt theo phong cách y khoa đư
 1. Trường 'type' của thực thể CHỈ ĐƯỢC PHÉP chứa 1 trong 5 giá trị: 'CHẨN_ĐOÁN', 'THUỐC', 'TRIỆU_CHỨNG', 'TÊN_XÉT_NGHIỆM', 'KẾT_QUẢ_XÉT_NGHIỆM'.
 2. TUYỆT ĐỐI không tự tạo nhãn mới (như 'BỆNH', 'TÊN_BỆNH', 'isNegated', 'isHistorical').
 3. Các thuộc tính như 'isNegated', 'isHistorical', 'isFamily' PHẢI đặt trong danh sách 'assertions', TUYỆT ĐỐI không đặt vào trường 'type'.
-4. Trích xuất tối đa 5-8 thực thể tiêu biểu nhất xuất hiện trong văn bản.
+4. Trích xuất tối đa 6-10 thực thể tiêu biểu nhất xuất hiện trong văn bản (ưu tiên trích xuất cả TÊN_XÉT_NGHIỆM và KẾT_QUẢ_XÉT_NGHIỆM nếu có).
 {mask_drug_hint}
 {typo_hint}
 """
@@ -242,7 +254,8 @@ Hãy sinh ra một văn bản y khoa tiếng Việt theo phong cách y khoa đư
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
-            "responseMimeType": "application/json"
+            "responseMimeType": "application/json",
+            "temperature": 0.8
         }
     }
     

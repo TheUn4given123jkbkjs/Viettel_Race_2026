@@ -25,27 +25,27 @@
     "position": [2498, 2541],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K40.0", "K41.0"]
   },
   {
     "text": "Acetaminophen",
     "position": [2756, 2769],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Bisacodyl",
     "position": [2902, 2911],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1596"]
   },
   {
     "text": "Cefazolin",
     "position": [2961, 2970],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2180"]
   }
 ]

@@ -4,21 +4,21 @@
     "position": [169, 179],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Bisacodyl",
     "position": [300, 309],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1596"]
   },
   {
     "text": "Ung thư đại trực tràng",
     "position": [621, 643],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D01.1"]
   },
   {
     "text": "đau bụng",
@@ -39,20 +39,20 @@
     "position": [2145, 2177],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K62.5"]
   },
   {
     "text": "Ringer's lactate",
     "position": [2429, 2445],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["35629"]
   },
   {
     "text": "Tranexamic acid",
     "position": [2561, 2576],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10691"]
   }
 ]

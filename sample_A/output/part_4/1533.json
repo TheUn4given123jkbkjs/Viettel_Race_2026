@@ -32,27 +32,27 @@
     "position": [1136, 1209],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A56.1"]
   },
   {
     "text": "Doxycycline",
     "position": [1233, 1244],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3640"]
   },
   {
     "text": "Ceftriaxone",
     "position": [1313, 1324],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Acetaminophen",
     "position": [1381, 1394],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

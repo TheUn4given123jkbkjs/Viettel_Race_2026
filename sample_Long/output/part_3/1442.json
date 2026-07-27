@@ -4,7 +4,7 @@
     "position": [203, 238],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O66.0"]
   },
   {
     "text": "tiểu đường thai kỳ",
@@ -32,13 +32,13 @@
     "position": [840, 849],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6387", "107602"]
   },
   {
     "text": "Oxytocin",
     "position": [935, 943],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7824"]
   }
 ]

@@ -32,7 +32,11 @@
     "position": [424, 437],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "rối loạn mỡ máu",
@@ -46,20 +50,20 @@
     "position": [894, 937],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E66.2"]
   },
   {
     "text": "Metformin",
     "position": [1777, 1786],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "Atorvastatin",
     "position": [1950, 1962],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["83367"]
   }
 ]

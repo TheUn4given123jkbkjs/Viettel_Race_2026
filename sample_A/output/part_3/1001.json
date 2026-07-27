@@ -4,55 +4,55 @@
     "position": [104, 127],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["G80.9"]
   },
   {
     "text": "Captopril",
     "position": [291, 300],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1998"]
   },
   {
     "text": "Acetaminophen",
     "position": [336, 349],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Albuterol",
     "position": [472, 481],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["435"]
   },
   {
     "text": "Dexamethasone",
     "position": [587, 600],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "Ibuprofen",
     "position": [723, 732],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Methadone",
     "position": [838, 847],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6813"]
   },
   {
     "text": "Morphine",
     "position": [970, 978],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7052"]
   }
 ]

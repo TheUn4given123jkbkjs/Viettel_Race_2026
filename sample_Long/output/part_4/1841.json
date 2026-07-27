@@ -4,7 +4,11 @@
     "position": [469, 476],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L40.50",
+      "L40.51",
+      "L40.52"
+    ]
   },
   {
     "text": "phátban",
@@ -39,20 +43,20 @@
     "position": [1868, 1882],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L41.8"]
   },
   {
     "text": "Betamethasone",
     "position": [2179, 2192],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1514"]
   },
   {
     "text": "Methotrexate",
     "position": [2545, 2557],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6851"]
   }
 ]

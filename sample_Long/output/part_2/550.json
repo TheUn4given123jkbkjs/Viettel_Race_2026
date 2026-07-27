@@ -11,7 +11,7 @@
     "position": [57, 67],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7646"]
   },
   {
     "text": "đầy hơi",
@@ -46,6 +46,10 @@
     "position": [378, 387],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A60.04",
+      "N77.8",
+      "I83.2"
+    ]
   }
 ]

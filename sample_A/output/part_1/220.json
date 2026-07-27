@@ -4,7 +4,7 @@
     "position": [191, 212],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["284640"]
   },
   {
     "text": "sốt",
@@ -32,7 +32,11 @@
     "position": [86, 89],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F02.4*",
+      "Z21",
+      "Z11.4"
+    ]
   },
   {
     "text": "ho khan",
@@ -53,6 +57,10 @@
     "position": [265, 278],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   }
 ]

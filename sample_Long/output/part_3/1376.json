@@ -4,14 +4,18 @@
     "position": [0, 23],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N87.1"]
   },
   {
     "text": "Cổ tử cung",
     "position": [204, 214],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A54.03",
+      "A56.00",
+      "A18.11"
+    ]
   },
   {
     "text": "Phẫu thuật",

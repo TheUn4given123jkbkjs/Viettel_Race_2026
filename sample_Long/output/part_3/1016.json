@@ -39,13 +39,17 @@
     "position": [1581, 1596],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "Viêm màng ngoài tim cấp, không đặc hiệu",
     "position": [72, 111],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I30.0", "I30.9"]
   }
 ]

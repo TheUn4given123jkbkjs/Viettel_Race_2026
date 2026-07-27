@@ -4,14 +4,22 @@
     "position": [401, 420],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "N07",
+      "N07.0",
+      "N07.1"
+    ]
   },
   {
     "text": "Đái máu dai dẳng và tái phát",
     "position": [504, 532],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N02",
+      "N02.0",
+      "N02.1"
+    ]
   },
   {
     "text": "không phù",
@@ -25,20 +33,24 @@
     "position": [735, 776],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N02.3",
+      "N03.3",
+      "N04.3"
+    ]
   },
   {
     "text": "Prednisolone",
     "position": [968, 980],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Cyclophosphamide",
     "position": [1018, 1034],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3002"]
   }
 ]

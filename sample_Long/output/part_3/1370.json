@@ -18,6 +18,10 @@
     "position": [182, 198],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
   }
 ]

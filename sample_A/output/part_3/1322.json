@@ -11,7 +11,7 @@
     "position": [326, 347],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["34482"]
   },
   {
     "text": "Escherichia coli",
@@ -32,6 +32,10 @@
     "position": [182, 188],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E14.0",
+      "E14.1",
+      "E14.2†"
+    ]
   }
 ]

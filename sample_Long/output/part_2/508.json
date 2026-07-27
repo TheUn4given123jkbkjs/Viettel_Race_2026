@@ -18,21 +18,21 @@
     "position": [410, 440],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["M92.0", "M92.2"]
   },
   {
     "text": "Acetaminophen",
     "position": [699, 712],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ibuprofen",
     "position": [851, 860],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "viêm sưng",

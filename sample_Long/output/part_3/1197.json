@@ -4,21 +4,25 @@
     "position": [45, 61],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "I02",
+      "I02.0",
+      "I02.9"
+    ]
   },
   {
     "text": "Acetazolamide",
     "position": [117, 130],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "Prednisolone",
     "position": [134, 146],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "THA",

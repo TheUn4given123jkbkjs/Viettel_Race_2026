@@ -32,20 +32,24 @@
     "position": [707, 732],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I69.0",
+      "I60",
+      "I60.0"
+    ]
   },
   {
     "text": "Mannitol",
     "position": [973, 981],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6628"]
   },
   {
     "text": "Acetaminophen",
     "position": [1035, 1048],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

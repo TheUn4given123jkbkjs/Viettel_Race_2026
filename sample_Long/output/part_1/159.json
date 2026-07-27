@@ -4,14 +4,18 @@
     "position": [25, 48],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I01.2"]
   },
   {
     "text": "tăng huyết áp",
     "position": [83, 96],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "mệt mỏi",

@@ -4,7 +4,7 @@
     "position": [285, 314],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B21.7"]
   },
   {
     "text": "tiểu đường",
@@ -32,6 +32,10 @@
     "position": [226, 235],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
   }
 ]

@@ -4,13 +4,13 @@
     "position": [199, 215],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": []
+    "candidates": ["E53.0"]
   },
   {
     "text": "Riboflavin",
     "position": [78, 88],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["9346"]
   }
 ]

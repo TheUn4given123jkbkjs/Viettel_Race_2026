@@ -4,7 +4,7 @@
     "position": [265, 277],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D02.2"]
   },
   {
     "text": "đau ngực trái",
@@ -53,6 +53,6 @@
     "position": [1174, 1196],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J98.4"]
   }
 ]

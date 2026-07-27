@@ -4,41 +4,53 @@
     "position": [98, 112],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["9997"]
   },
   {
     "text": "tăng huyết áp",
     "position": [181, 194],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "suy đa cơ quan",
     "position": [465, 479],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E12.7"]
   },
   {
     "text": "buồn nôn",
     "position": [592, 600],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["R11"]
   },
   {
     "text": "nôn",
     "position": [597, 600],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "D13.39",
+      "D13.30",
+      "E74.3"
+    ]
   },
   {
     "text": "suy giảm chức năng thận",
     "position": [610, 633],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N25",
+      "N25.8",
+      "N25.9"
+    ]
   }
 ]

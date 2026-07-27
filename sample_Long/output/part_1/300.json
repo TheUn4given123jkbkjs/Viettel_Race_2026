@@ -4,21 +4,25 @@
     "position": [311, 364],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M49.44*"]
   },
   {
     "text": "tăng huyết áp",
     "position": [592, 605],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Amlodipine",
     "position": [636, 646],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "đái tháo đường tuýp 2",
@@ -39,6 +43,6 @@
     "position": [1250, 1268],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6902"]
   }
 ]

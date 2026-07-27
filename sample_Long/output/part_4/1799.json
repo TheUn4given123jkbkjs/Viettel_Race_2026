@@ -4,14 +4,18 @@
     "position": [270, 302],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M31.9"]
   },
   {
     "text": "sốt rét",
     "position": [103, 110],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "Z86.13",
+      "T37.2",
+      "Y41.2"
+    ]
   },
   {
     "text": "đau đầu",

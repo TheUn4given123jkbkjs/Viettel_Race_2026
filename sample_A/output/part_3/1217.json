@@ -11,14 +11,14 @@
     "position": [128, 148],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["G45", "P91.6"]
   },
   {
     "text": "Phytonadione",
     "position": [178, 190],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8308"]
   },
   {
     "text": "phủ nhận buồn nôn",

@@ -4,28 +4,28 @@
     "position": [55, 83],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B36.9"]
   },
   {
     "text": "Clotrimazole",
     "position": [281, 293],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2623"]
   },
   {
     "text": "Terbinafine",
     "position": [299, 310],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["37801"]
   },
   {
     "text": "bệnh nấm nông không đặc hiệu",
     "position": [55, 83],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["B36.9"]
   },
   {
     "text": "bác sĩ",

@@ -4,14 +4,18 @@
     "position": [146, 154],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "HIV",
     "position": [108, 111],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F02.4*",
+      "Z21",
+      "Z11.4"
+    ]
   },
   {
     "text": "sốt",

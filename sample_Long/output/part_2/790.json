@@ -4,28 +4,28 @@
     "position": [185, 202],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I48.2"]
   },
   {
     "text": "Aspirin",
     "position": [242, 249],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Warfarin",
     "position": [261, 269],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["11289"]
   },
   {
     "text": "Ceftriaxone",
     "position": [334, 345],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "ECG",

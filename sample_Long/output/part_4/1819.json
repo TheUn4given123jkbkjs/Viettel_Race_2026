@@ -4,7 +4,7 @@
     "position": [188, 196],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7983", "8701"]
   },
   {
     "text": "ĐTĐ tuýp 2",
@@ -39,7 +39,11 @@
     "position": [1587, 1599],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G37.3",
+      "G37.4",
+      "K85.2"
+    ]
   },
   {
     "text": "Paracetamol",

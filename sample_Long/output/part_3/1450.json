@@ -4,7 +4,7 @@
     "position": [40, 58],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J02.0"]
   },
   {
     "text": "nhiễm trùng cổ họng",
@@ -18,7 +18,7 @@
     "position": [155, 167],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7984"]
   },
   {
     "text": "sưng hạchcổ",

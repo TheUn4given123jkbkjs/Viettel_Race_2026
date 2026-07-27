@@ -4,7 +4,7 @@
     "position": [119, 130],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1344"]
   },
   {
     "text": "sốt rét",
@@ -25,13 +25,17 @@
     "position": [119, 130],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1344"]
   },
   {
     "text": "tác dụng phụ",
     "position": [182, 194],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Y88.2",
+      "T88.6",
+      "T88.7"
+    ]
   }
 ]

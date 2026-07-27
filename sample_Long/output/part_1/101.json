@@ -4,7 +4,11 @@
     "position": [0, 28],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I36",
+      "I36.8",
+      "I36.9"
+    ]
   },
   {
     "text": "khó thở",
@@ -25,13 +29,13 @@
     "position": [351, 364],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Amlodipine",
     "position": [370, 380],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   }
 ]

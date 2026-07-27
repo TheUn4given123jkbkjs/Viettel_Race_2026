@@ -25,7 +25,7 @@
     "position": [206, 215],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "CT scan mũi xoang",
@@ -39,6 +39,6 @@
     "position": [601, 635],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J01.00"]
   }
 ]

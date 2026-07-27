@@ -4,14 +4,18 @@
     "position": [168, 177],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6813"]
   },
   {
     "text": "sử dụng thuốc",
     "position": [154, 167],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F13.90",
+      "F13.92",
+      "F13.98"
+    ]
   },
   {
     "text": "thuốc Methadone",

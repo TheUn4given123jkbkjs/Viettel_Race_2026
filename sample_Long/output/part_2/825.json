@@ -11,14 +11,14 @@
     "position": [865, 883],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D01.1", "D01.2"]
   },
   {
     "text": "THA",
     "position": [743, 746],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "Nội soi",
@@ -32,7 +32,7 @@
     "position": [1658, 1685],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K63.8"]
   },
   {
     "text": "Alverine 40mg",

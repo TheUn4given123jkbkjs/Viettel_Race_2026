@@ -4,21 +4,25 @@
     "position": [256, 263],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1599"]
   },
   {
     "text": "tăng huyết áp",
     "position": [81, 94],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "ung thư dạ dày",
     "position": [362, 376],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D00"]
   },
   {
     "text": "đi ngoài phân đen",
@@ -39,7 +43,7 @@
     "position": [779, 786],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ấn đau vùng thượng vị",
@@ -60,6 +64,10 @@
     "position": [1279, 1290],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
   }
 ]

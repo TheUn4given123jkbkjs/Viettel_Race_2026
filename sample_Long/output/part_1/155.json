@@ -11,27 +11,27 @@
     "position": [61, 79],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O71.2"]
   },
   {
     "text": "Ergonovine",
     "position": [314, 324],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4021"]
   },
   {
     "text": "Oxytocin",
     "position": [328, 336],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7824"]
   },
   {
     "text": "Acetaminophen",
     "position": [420, 433],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

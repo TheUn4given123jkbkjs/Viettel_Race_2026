@@ -4,14 +4,18 @@
     "position": [22, 25],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "gút",
     "position": [27, 30],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "M10.0",
+      "M10.1",
+      "M10.2"
+    ]
   },
   {
     "text": "đaukhớp gối T",
@@ -25,7 +29,7 @@
     "position": [299, 346],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M11.8", "M14.19*"]
   },
   {
     "text": "Colchicine 1mg",

@@ -4,21 +4,21 @@
     "position": [127, 134],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4716"]
   },
   {
     "text": "aspirin",
     "position": [415, 422],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [437, 448],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "troponin",

@@ -4,14 +4,18 @@
     "position": [443, 506],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "D63.8",
+      "D63",
+      "D63*"
+    ]
   },
   {
     "text": "bệnh thận mạn tính",
     "position": [104, 122],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I68.8*"]
   },
   {
     "text": "cao huyết áp",

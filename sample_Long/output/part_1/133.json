@@ -4,14 +4,22 @@
     "position": [20, 47],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K21",
+      "K21.0",
+      "K21.9"
+    ]
   },
   {
     "text": "đái tháo đường",
     "position": [94, 108],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "khàn tiếng mạn tính",
@@ -46,6 +54,6 @@
     "position": [325, 348],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J37", "J37.1"]
   }
 ]

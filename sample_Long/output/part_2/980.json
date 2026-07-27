@@ -4,14 +4,14 @@
     "position": [69, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I49.9"]
   },
   {
     "text": "loạn nhịp tim xác định khác",
     "position": [177, 204],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I49.8"]
   },
   {
     "text": "phẫu thuật",
@@ -25,13 +25,17 @@
     "position": [73, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I49.8",
+      "I49.9",
+      "I49"
+    ]
   },
   {
     "text": "rối loạn nhịp tim",
     "position": [69, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I49.9"]
   }
 ]

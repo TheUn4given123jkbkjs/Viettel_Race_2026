@@ -4,14 +4,18 @@
     "position": [34, 46],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I27.1",
+      "M41",
+      "M41.0"
+    ]
   },
   {
     "text": "vẹo cột sống bẩm sinh",
     "position": [34, 55],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["Q76.3", "Q76.4"]
   },
   {
     "text": "đau lưng",

@@ -4,7 +4,11 @@
     "position": [74, 87],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "N60.20",
+      "N60.21",
+      "N60.22"
+    ]
   },
   {
     "text": "đau vú trái",
@@ -32,20 +36,20 @@
     "position": [314, 347],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N64.5"]
   },
   {
     "text": "Ibuprofen",
     "position": [375, 384],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
     "position": [388, 417],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["19711"]
   }
 ]

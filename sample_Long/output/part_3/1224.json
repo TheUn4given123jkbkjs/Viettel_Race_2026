@@ -4,7 +4,7 @@
     "position": [55, 64],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical", "isFamily"],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "suy hô hấpsau",
@@ -39,20 +39,20 @@
     "position": [1662, 1690],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P25.2"]
   },
   {
     "text": "Oxygen",
     "position": [2284, 2290],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7806"]
   },
   {
     "text": "Caffeine citrate",
     "position": [2334, 2350],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["20033"]
   }
 ]

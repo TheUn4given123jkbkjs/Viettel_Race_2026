@@ -4,13 +4,13 @@
     "position": [0, 60],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A88"]
   },
   {
     "text": "THA",
     "position": [441, 444],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   }
 ]

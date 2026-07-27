@@ -4,14 +4,22 @@
     "position": [53, 66],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "bệnh tim thiếu máu cục bộ",
     "position": [70, 95],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I24",
+      "I24.8",
+      "I24.9"
+    ]
   },
   {
     "text": "đau thắt ngực",
@@ -39,6 +47,6 @@
     "position": [344, 351],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1191"]
   }
 ]

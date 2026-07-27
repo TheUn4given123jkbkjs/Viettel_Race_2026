@@ -4,7 +4,7 @@
     "position": [72, 123],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O74.2"]
   },
   {
     "text": "tụt huyết áp",
@@ -32,13 +32,13 @@
     "position": [388, 399],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3992", "107602"]
   },
   {
     "text": "Digoxin",
     "position": [405, 412],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3407"]
   }
 ]

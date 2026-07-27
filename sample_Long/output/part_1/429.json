@@ -4,7 +4,11 @@
     "position": [32, 45],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Khối sa vùng tầng sinh môn",
@@ -46,6 +50,10 @@
     "position": [1148, 1162],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N81",
+      "N81.8",
+      "N81.9"
+    ]
   }
 ]

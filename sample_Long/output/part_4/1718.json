@@ -4,7 +4,11 @@
     "position": [0, 9],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J33",
+      "J33.0",
+      "J33.9"
+    ]
   },
   {
     "text": "nghẹt mũi",
@@ -18,20 +22,20 @@
     "position": [328, 341],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Acetic acid",
     "position": [364, 375],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["168"]
   },
   {
     "text": "Acetazolamide",
     "position": [497, 510],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   }
 ]

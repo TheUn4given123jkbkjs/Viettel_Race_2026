@@ -4,14 +4,14 @@
     "position": [5, 12],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K59.0"]
   },
   {
     "text": "Docusate sodium",
     "position": [665, 680],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["71722"]
   },
   {
     "text": "đi phân cứng",

@@ -4,7 +4,11 @@
     "position": [144, 170],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "834765",
+      "309949",
+      "758475"
+    ]
   },
   {
     "text": "tiểu đường loại 2",
@@ -18,7 +22,11 @@
     "position": [684, 711],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "P39.3",
+      "O86.3",
+      "O23"
+    ]
   },
   {
     "text": "xét nghiệm đường huyết",
@@ -39,6 +47,6 @@
     "position": [763, 770],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["253182", "317235"]
   }
 ]

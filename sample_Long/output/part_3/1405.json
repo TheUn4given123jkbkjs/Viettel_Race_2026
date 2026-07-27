@@ -4,7 +4,11 @@
     "position": [143, 156],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Sưng nề",
@@ -32,7 +36,7 @@
     "position": [1907, 1933],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M70.1"]
   },
   {
     "text": "Ibuprofen 400mg",

@@ -4,21 +4,29 @@
     "position": [112, 124],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8308"]
   },
   {
     "text": "tăng huyết áp",
     "position": [177, 190],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "bệnh tim mạch",
     "position": [194, 207],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -32,14 +40,14 @@
     "position": [355, 362],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [366, 377],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "troponin",

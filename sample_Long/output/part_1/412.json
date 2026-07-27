@@ -4,7 +4,11 @@
     "position": [405, 418],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "đau ngực trái",
@@ -25,20 +29,20 @@
     "position": [783, 800],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L68.8"]
   },
   {
     "text": "Spironolactone",
     "position": [822, 836],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["9997"]
   },
   {
     "text": "Ethinylestradiol / Levonorgestrel",
     "position": [877, 910],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["214558"]
   }
 ]

@@ -4,21 +4,21 @@
     "position": [0, 33],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B20.1", "B20.8"]
   },
   {
     "text": "Abacavir",
     "position": [436, 444],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Acyclovir",
     "position": [481, 490],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "Ngừơi",
@@ -46,6 +46,10 @@
     "position": [0, 8],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F02.4*",
+      "Z83.0",
+      "O98.7"
+    ]
   }
 ]

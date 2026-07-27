@@ -4,14 +4,22 @@
     "position": [50, 77],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O70",
+      "O70.0",
+      "O70.1"
+    ]
   },
   {
     "text": "rách tầng sinh môn",
     "position": [443, 461],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "O70",
+      "O70.0",
+      "O70.1"
+    ]
   },
   {
     "text": "chảy máu âm đạo",
@@ -39,20 +47,20 @@
     "position": [2165, 2176],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["723", "19711"]
   },
   {
     "text": "Ibuprofen",
     "position": [2254, 2263],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Povidone-iodine",
     "position": [2362, 2377],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8611"]
   }
 ]

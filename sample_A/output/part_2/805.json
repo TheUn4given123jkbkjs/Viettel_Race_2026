@@ -4,6 +4,10 @@
     "position": [0, 44],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": []
+    "candidates": [
+      "F10",
+      "F10.0",
+      "F10.1"
+    ]
   }
 ]

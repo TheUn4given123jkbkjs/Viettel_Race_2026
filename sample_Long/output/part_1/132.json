@@ -4,7 +4,11 @@
     "position": [84, 103],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "N80.4",
+      "N80.5",
+      "N80.6"
+    ]
   },
   {
     "text": "u xơ tử cung",
@@ -46,6 +50,6 @@
     "position": [902, 980],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N94"]
   }
 ]

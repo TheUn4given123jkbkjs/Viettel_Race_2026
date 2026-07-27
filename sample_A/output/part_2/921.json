@@ -4,14 +4,18 @@
     "position": [66, 79],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.13",
+      "A54.81",
+      "A50.41"
+    ]
   },
   {
     "text": "Griseofulvin",
     "position": [363, 375],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["5021"]
   },
   {
     "text": "vi khuẩn",
@@ -25,6 +29,6 @@
     "position": [363, 375],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["5021"]
   }
 ]

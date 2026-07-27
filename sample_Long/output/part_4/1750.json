@@ -4,7 +4,7 @@
     "position": [1134, 1169],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O63.0"]
   },
   {
     "text": "không sốt",
@@ -25,7 +25,7 @@
     "position": [437, 451],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["O65.1", "O33.1"]
   },
   {
     "text": "đau bụng từng cơn vùng hạ vị",

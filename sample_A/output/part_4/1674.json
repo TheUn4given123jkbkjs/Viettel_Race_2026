@@ -18,13 +18,21 @@
     "position": [94, 102],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A50.54",
+      "A52.00",
+      "A52.06"
+    ]
   },
   {
     "text": "tiểu đường",
     "position": [106, 116],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   }
 ]

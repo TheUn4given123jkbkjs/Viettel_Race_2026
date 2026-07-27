@@ -32,20 +32,20 @@
     "position": [913, 949],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P74.0"]
   },
   {
     "text": "Sodium bicarbonate",
     "position": [1179, 1197],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["36676"]
   },
   {
     "text": "Vitamin A",
     "position": [1302, 1311],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["11246", "97016"]
   }
 ]

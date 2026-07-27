@@ -4,7 +4,11 @@
     "position": [57, 113],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "G32",
+      "G32*",
+      "G99"
+    ]
   },
   {
     "text": "phẫu thuật",

@@ -4,7 +4,11 @@
     "position": [95, 106],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
   },
   {
     "text": "đau cột sống lưng",
@@ -39,20 +43,20 @@
     "position": [1103, 1148],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M80.8"]
   },
   {
     "text": "Acetaminophen",
     "position": [1262, 1275],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Calcium gluconate",
     "position": [1352, 1369],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1908"]
   }
 ]

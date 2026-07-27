@@ -4,20 +4,20 @@
     "position": [626, 681],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["G06.2"]
   },
   {
     "text": "Aspirin",
     "position": [1079, 1086],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Ceftriaxone",
     "position": [1148, 1159],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

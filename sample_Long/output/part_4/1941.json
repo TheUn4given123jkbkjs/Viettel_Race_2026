@@ -4,7 +4,11 @@
     "position": [377, 386],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "L60.9",
+      "L62",
+      "L62*"
+    ]
   },
   {
     "text": "phẫu thuật",
@@ -25,14 +29,22 @@
     "position": [99, 112],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "đái tháo đường",
     "position": [116, 130],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "điện giải",

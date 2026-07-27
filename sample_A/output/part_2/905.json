@@ -4,34 +4,46 @@
     "position": [25, 39],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "B00.81",
+      "Z22.5",
+      "Z20.5"
+    ]
   },
   {
     "text": "xơ gan",
     "position": [237, 243],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K71.7",
+      "K74",
+      "K74.0"
+    ]
   },
   {
     "text": "gan nhiễm mỡ",
     "position": [245, 257],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K76.0", "K70.0"]
   },
   {
     "text": "ung thư gan",
     "position": [276, 287],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "C22.0",
+      "C22.1",
+      "C22.3"
+    ]
   },
   {
     "text": "Acetaminophen",
     "position": [366, 379],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

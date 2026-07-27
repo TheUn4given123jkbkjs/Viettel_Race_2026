@@ -4,7 +4,7 @@
     "position": [251, 260],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["27781"]
   },
   {
     "text": "chụp CT bụng",
@@ -32,7 +32,11 @@
     "position": [1190, 1202],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L23.3",
+      "L23.4",
+      "T45.0"
+    ]
   },
   {
     "text": "thuốccản quang",

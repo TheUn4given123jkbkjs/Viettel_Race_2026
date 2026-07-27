@@ -4,7 +4,7 @@
     "position": [61, 81],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K29.3", "K29.4"]
   },
   {
     "text": "đái tháo đường tuýp 2",
@@ -39,20 +39,24 @@
     "position": [851, 861],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M22.40",
+      "M22.41",
+      "M22.42"
+    ]
   },
   {
     "text": "Acetaminophen",
     "position": [986, 999],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Meloxicam",
     "position": [1035, 1044],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["41493"]
   }
 ]

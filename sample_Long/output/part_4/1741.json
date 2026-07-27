@@ -4,7 +4,11 @@
     "position": [30, 41],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
   },
   {
     "text": "đauâm ỉ",
@@ -32,13 +36,13 @@
     "position": [274, 282],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17627"]
   },
   {
     "text": "Scopolamine butylbromide",
     "position": [286, 310],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1851"]
   }
 ]

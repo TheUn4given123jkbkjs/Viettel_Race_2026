@@ -4,21 +4,21 @@
     "position": [0, 17],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["H68", "H68.0"]
   },
   {
     "text": "Acetaminophen",
     "position": [555, 568],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ibuprofen",
     "position": [571, 580],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "buồn nôn",

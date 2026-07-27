@@ -4,7 +4,7 @@
     "position": [108, 118],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Phát ban đỏ",
@@ -39,20 +39,24 @@
     "position": [1130, 1152],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L58",
+      "L58.0",
+      "L58.1"
+    ]
   },
   {
     "text": "Betamethasone",
     "position": [1265, 1278],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1514"]
   },
   {
     "text": "Chlorpheniramine",
     "position": [1362, 1378],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2400"]
   }
 ]

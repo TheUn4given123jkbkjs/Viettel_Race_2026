@@ -18,7 +18,7 @@
     "position": [147, 150],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "băng huyết sau sinh",
@@ -32,7 +32,11 @@
     "position": [601, 615],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "U04",
+      "U04.9",
+      "J96.0"
+    ]
   },
   {
     "text": "X-quang",
@@ -53,6 +57,6 @@
     "position": [762, 816],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O97"]
   }
 ]

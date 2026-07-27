@@ -4,7 +4,11 @@
     "position": [248, 262],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "buồn nôn",
@@ -32,7 +36,7 @@
     "position": [794, 810],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["Q51.3"]
   },
   {
     "text": "siêu âm",
@@ -46,6 +50,6 @@
     "position": [1094, 1139],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O34", "O34.0"]
   }
 ]

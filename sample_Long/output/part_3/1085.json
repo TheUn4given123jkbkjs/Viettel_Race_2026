@@ -4,7 +4,7 @@
     "position": [178, 194],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8794"]
   },
   {
     "text": "hypertension",
@@ -32,7 +32,7 @@
     "position": [1323, 1330],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "sinus tachycardia",
@@ -53,6 +53,6 @@
     "position": [2685, 2696],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8787"]
   }
 ]

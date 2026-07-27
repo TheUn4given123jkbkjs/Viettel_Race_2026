@@ -11,14 +11,14 @@
     "position": [352, 359],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [478, 489],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "troponin",
@@ -32,6 +32,6 @@
     "position": [816, 838],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1431637"]
   }
 ]

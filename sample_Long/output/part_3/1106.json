@@ -4,7 +4,11 @@
     "position": [260, 273],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "đái tháo đường typ 2",
@@ -46,6 +50,6 @@
     "position": [2617, 2630],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

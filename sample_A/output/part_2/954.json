@@ -4,35 +4,35 @@
     "position": [859, 876],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["E03.0", "E03.1"]
   },
   {
     "text": "thyroxine",
     "position": [945, 954],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10582"]
   },
   {
     "text": "aspirin",
     "position": [1010, 1017],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "folic acid",
     "position": [1092, 1102],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4511", "105658"]
   },
   {
     "text": "vitamin D",
     "position": [1177, 1186],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["97016"]
   },
   {
     "text": "calcium carbonate",

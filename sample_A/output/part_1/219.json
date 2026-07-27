@@ -4,27 +4,31 @@
     "position": [488, 498],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6069"]
   },
   {
     "text": "aspirin",
     "position": [359, 366],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "sốt",
     "position": [105, 108],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
   },
   {
     "text": "buồn nôn",
     "position": [144, 152],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["R11"]
   }
 ]

@@ -4,14 +4,18 @@
     "position": [53, 66],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Atenolol",
     "position": [106, 114],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1202"]
   },
   {
     "text": "đau đầu",
@@ -39,7 +43,7 @@
     "position": [433, 443],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "điện tâm đồ",

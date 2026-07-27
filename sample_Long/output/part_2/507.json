@@ -4,7 +4,7 @@
     "position": [529, 539],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "buồn nôn",
@@ -32,20 +32,20 @@
     "position": [2545, 2626],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N06.0"]
   },
   {
     "text": "Enalapril",
     "position": [2806, 2815],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3827"]
   },
   {
     "text": "Prednisolone",
     "position": [3015, 3027],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   }
 ]

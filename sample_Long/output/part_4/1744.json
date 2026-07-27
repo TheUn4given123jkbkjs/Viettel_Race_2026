@@ -4,7 +4,7 @@
     "position": [65, 82],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["D63.0", "D63.0*"]
   },
   {
     "text": "dị cảm tứ chi",
@@ -32,13 +32,17 @@
     "position": [348, 361],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M47.11",
+      "M47.12",
+      "M47.13"
+    ]
   },
   {
     "text": "Hydroxocobalamin",
     "position": [388, 404],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5514"]
   }
 ]

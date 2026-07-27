@@ -4,7 +4,11 @@
     "position": [596, 617],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "H05.8",
+      "H06",
+      "H06*"
+    ]
   },
   {
     "text": "không sốt",
@@ -25,6 +29,10 @@
     "position": [129, 143],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   }
 ]

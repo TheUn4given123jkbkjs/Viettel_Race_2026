@@ -4,21 +4,25 @@
     "position": [281, 339],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L85.1"]
   },
   {
     "text": "Salicylic acid",
     "position": [496, 510],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "9525",
+      "91292",
+      "466470"
+    ]
   },
   {
     "text": "Urea",
     "position": [516, 520],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["11002"]
   },
   {
     "text": "tiền sử bệnh tim",

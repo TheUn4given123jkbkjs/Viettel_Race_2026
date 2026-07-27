@@ -32,20 +32,20 @@
     "position": [245, 325],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O34.9"]
   },
   {
     "text": "Acetaminophen",
     "position": [352, 365],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Alverine",
     "position": [369, 377],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17627"]
   }
 ]

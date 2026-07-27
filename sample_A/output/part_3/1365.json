@@ -4,21 +4,25 @@
     "position": [229, 239],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Z22.0",
+      "Z27.0",
+      "Z27.2"
+    ]
   },
   {
     "text": "Acetaminophen",
     "position": [264, 277],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Albendazole",
     "position": [302, 313],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["430"]
   },
   {
     "text": "mệt mỏi",

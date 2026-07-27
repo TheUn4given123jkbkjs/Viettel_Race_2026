@@ -4,7 +4,7 @@
     "position": [53, 92],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O24.0", "O24.1"]
   },
   {
     "text": "tiền sử đái tháo đường 10 năm",
@@ -32,6 +32,10 @@
     "position": [381, 398],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "H28.1*",
+      "H28.2*",
+      "H25"
+    ]
   }
 ]

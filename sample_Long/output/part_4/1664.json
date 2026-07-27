@@ -39,7 +39,7 @@
     "position": [1950, 1968],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["Z82.6"]
   },
   {
     "text": "X-quang bàn chân",
@@ -53,13 +53,13 @@
     "position": [2327, 2340],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Meloxicam",
     "position": [2491, 2500],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["41493"]
   }
 ]

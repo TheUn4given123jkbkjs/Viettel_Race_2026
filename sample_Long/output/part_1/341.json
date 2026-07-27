@@ -4,14 +4,18 @@
     "position": [63, 85],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["O11"]
   },
   {
     "text": "đái tháo đường",
     "position": [96, 110],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "khó thở",
@@ -46,13 +50,13 @@
     "position": [315, 324],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3827"]
   },
   {
     "text": "Furosemide",
     "position": [332, 342],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4603"]
   }
 ]

@@ -4,7 +4,11 @@
     "position": [28, 35],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Z86.13",
+      "T37.2",
+      "Y41.2"
+    ]
   },
   {
     "text": "sốt cao",
@@ -32,6 +36,6 @@
     "position": [297, 321],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["711398"]
   }
 ]

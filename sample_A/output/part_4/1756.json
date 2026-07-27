@@ -4,21 +4,21 @@
     "position": [0, 53],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["B02.35"]
   },
   {
     "text": "Acyclovir",
     "position": [885, 894],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "Prednisolone",
     "position": [992, 1004],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Tiền sử THA 5 năm",

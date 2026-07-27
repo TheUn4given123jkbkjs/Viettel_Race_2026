@@ -4,7 +4,7 @@
     "position": [0, 36],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L23.6", "L23.7"]
   },
   {
     "text": "Cetirizine",
@@ -18,7 +18,7 @@
     "position": [834, 844],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["28889"]
   },
   {
     "text": "Diphenhydramine",
@@ -39,6 +39,6 @@
     "position": [916, 930],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5492", "27197"]
   }
 ]

@@ -4,21 +4,21 @@
     "position": [0, 7],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M25.1", "D48.0"]
   },
   {
     "text": "Acetaminophen",
     "position": [348, 361],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ibuprofen",
     "position": [367, 376],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Glucosamine",

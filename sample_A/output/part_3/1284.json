@@ -11,14 +11,14 @@
     "position": [276, 285],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "aspirin",
     "position": [1103, 1110],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "troponin",

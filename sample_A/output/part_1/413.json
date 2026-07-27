@@ -4,63 +4,67 @@
     "position": [95, 117],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "G06",
+      "G06.1",
+      "G07"
+    ]
   },
   {
     "text": "Acetaminophen",
     "position": [278, 291],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Allopurinol",
     "position": [319, 330],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["519"]
   },
   {
     "text": "Aspirin",
     "position": [358, 365],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Acyclovir",
     "position": [546, 555],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "Cimetidine",
     "position": [583, 593],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2541"]
   },
   {
     "text": "Metronidazole",
     "position": [621, 634],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6922"]
   },
   {
     "text": "Ibuprofen",
     "position": [908, 917],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Ondansetron",
     "position": [945, 956],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["26225"]
   },
   {
     "text": "Paracetamol",

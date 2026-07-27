@@ -4,14 +4,14 @@
     "position": [189, 202],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2002"]
   },
   {
     "text": "aspirin",
     "position": [608, 615],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "troponin",
@@ -25,13 +25,17 @@
     "position": [125, 133],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["R11"]
   },
   {
     "text": "sốt",
     "position": [137, 140],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
   }
 ]

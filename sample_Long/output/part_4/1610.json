@@ -4,7 +4,7 @@
     "position": [448, 458],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8687"]
   },
   {
     "text": "ĐTĐ tuýp 2",
@@ -46,13 +46,13 @@
     "position": [802, 823],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I20.0"]
   },
   {
     "text": "Nitroglycerin",
     "position": [853, 866],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4917"]
   }
 ]

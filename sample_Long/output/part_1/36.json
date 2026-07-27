@@ -4,14 +4,14 @@
     "position": [48, 74],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E24.2"]
   },
   {
     "text": "Fluocinolone acetonide",
     "position": [459, 481],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4461"]
   },
   {
     "text": "bộ mặt tròn như mặt trăng",
@@ -39,7 +39,11 @@
     "position": [1158, 1169],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
   },
   {
     "text": "không sốt",

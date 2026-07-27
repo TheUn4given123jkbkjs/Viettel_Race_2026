@@ -4,14 +4,18 @@
     "position": [893, 916],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L90.9"]
   },
   {
     "text": "tăng huyết áp",
     "position": [118, 131],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "đái tháo đường typ 2",

@@ -32,7 +32,11 @@
     "position": [332, 335],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M10.0",
+      "M10.1",
+      "M10.2"
+    ]
   },
   {
     "text": "loãng xương dạng đốm",
@@ -46,6 +50,6 @@
     "position": [582, 616],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M89.0"]
   }
 ]

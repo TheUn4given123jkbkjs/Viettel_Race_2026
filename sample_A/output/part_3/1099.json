@@ -4,21 +4,25 @@
     "position": [544, 553],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6387", "107602"]
   },
   {
     "text": "Rung nhĩ",
     "position": [451, 459],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I48",
+      "I48.0",
+      "I48.1"
+    ]
   },
   {
     "text": "THA",
     "position": [463, 466],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "Đái tháo đường tuýp 2",

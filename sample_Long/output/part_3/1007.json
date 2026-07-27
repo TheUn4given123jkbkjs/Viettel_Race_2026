@@ -4,7 +4,11 @@
     "position": [21, 34],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Sốt kéo dài",
@@ -25,7 +29,7 @@
     "position": [250, 294],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M49.12*"]
   },
   {
     "text": "Doxycycline 100mg",

@@ -4,21 +4,21 @@
     "position": [125, 148],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["214671", "687428"]
   },
   {
     "text": "THA",
     "position": [48, 51],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "Amlodipine",
     "position": [85, 95],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Đau bụng cấp",

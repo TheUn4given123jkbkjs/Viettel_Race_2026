@@ -25,20 +25,20 @@
     "position": [359, 393],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["J15.0"]
   },
   {
     "text": "Amikacin",
     "position": [1085, 1093],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["641"]
   },
   {
     "text": "Acetaminophen",
     "position": [1180, 1193],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

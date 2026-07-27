@@ -25,27 +25,31 @@
     "position": [384, 398],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["K83.5"]
   },
   {
     "text": "viêm đường mật",
     "position": [514, 528],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.3"
+    ]
   },
   {
     "text": "Acetaminophen",
     "position": [988, 1001],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Scopolamine butylbromide",
     "position": [1079, 1103],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1851"]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [118, 130],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D02.2"]
   },
   {
     "text": "đau ngực âm ỉ",
@@ -46,6 +46,6 @@
     "position": [369, 426],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["D15"]
   }
 ]

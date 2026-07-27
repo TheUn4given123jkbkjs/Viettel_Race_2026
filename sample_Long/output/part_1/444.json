@@ -4,14 +4,18 @@
     "position": [0, 17],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E24",
+      "E24.2",
+      "E24.4"
+    ]
   },
   {
     "text": "Hydrocortisone",
     "position": [121, 135],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["5492", "27197"]
   },
   {
     "text": "triệuchứng",

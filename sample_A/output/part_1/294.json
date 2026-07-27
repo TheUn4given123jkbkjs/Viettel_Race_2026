@@ -4,7 +4,7 @@
     "position": [693, 746],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["H72.2"]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -18,7 +18,7 @@
     "position": [811, 818],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "chủ quan sốt",
@@ -32,6 +32,10 @@
     "position": [173, 186],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "B05.3†",
+      "H65",
+      "H65.0"
+    ]
   }
 ]

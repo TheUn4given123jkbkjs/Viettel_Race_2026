@@ -11,7 +11,11 @@
     "position": [100, 107],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "B06.02",
+      "B06.81",
+      "B06.82"
+    ]
   },
   {
     "text": "không sốt",
@@ -25,20 +29,20 @@
     "position": [256, 278],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O83.4"]
   },
   {
     "text": "Mifepristone / Misoprostol",
     "position": [306, 332],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6964"]
   },
   {
     "text": "Amoxicillin",
     "position": [359, 370],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["723", "19711"]
   }
 ]

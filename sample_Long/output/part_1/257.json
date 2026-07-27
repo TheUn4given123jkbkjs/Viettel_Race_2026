@@ -4,27 +4,27 @@
     "position": [0, 20],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J30.2", "J30.3"]
   },
   {
     "text": "Loratadine",
     "position": [334, 344],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["28889"]
   },
   {
     "text": "Beclomethasone",
     "position": [379, 393],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1347"]
   },
   {
     "text": "Acetaminophen",
     "position": [456, 469],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

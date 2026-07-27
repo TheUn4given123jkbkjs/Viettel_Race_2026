@@ -4,14 +4,18 @@
     "position": [537, 568],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F38.8",
+      "F34.8",
+      "F38"
+    ]
   },
   {
     "text": "Fluoxetine",
     "position": [418, 428],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4493"]
   },
   {
     "text": "Tiền sử THA",

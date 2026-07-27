@@ -4,7 +4,7 @@
     "position": [0, 24],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K72.10"]
   },
   {
     "text": "mệt mỏi",
@@ -25,13 +25,13 @@
     "position": [479, 492],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Acetylcysteine",
     "position": [496, 510],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["197"]
   }
 ]

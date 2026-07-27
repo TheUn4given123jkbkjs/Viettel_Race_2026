@@ -4,21 +4,25 @@
     "position": [595, 606],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["26225"]
   },
   {
     "text": "Ung thư đại tràng",
     "position": [256, 273],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["D01.0", "D01.1"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [906, 919],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Táo bón kéo dài",

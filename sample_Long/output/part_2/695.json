@@ -4,7 +4,7 @@
     "position": [89, 96],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "cao huyết áp",
@@ -18,7 +18,11 @@
     "position": [146, 153],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E88.31",
+      "G46.3*",
+      "G46.4*"
+    ]
   },
   {
     "text": "nội soi đại tràng",
@@ -39,13 +43,21 @@
     "position": [2014, 2033],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K32",
+      "K32.0",
+      "K32.1"
+    ]
   },
   {
     "text": "loét dạ dày",
     "position": [2984, 2995],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
   }
 ]

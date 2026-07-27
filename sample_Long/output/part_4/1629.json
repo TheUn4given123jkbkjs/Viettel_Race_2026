@@ -4,14 +4,18 @@
     "position": [53, 73],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L43.0"]
   },
   {
     "text": "viêm da cơ địa",
     "position": [798, 812],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L20",
+      "L20.8",
+      "L20.9"
+    ]
   },
   {
     "text": "ung thư biểu mô tế bào vảy",

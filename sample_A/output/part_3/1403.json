@@ -4,21 +4,21 @@
     "position": [185, 220],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["D06.0", "D07.0"]
   },
   {
     "text": "Abacavir",
     "position": [285, 293],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Acetaminophen",
     "position": [297, 310],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "BỆNH_VIÊN_NGHIỆN bị suy tim",

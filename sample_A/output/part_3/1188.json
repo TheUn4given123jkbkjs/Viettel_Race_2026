@@ -11,7 +11,7 @@
     "position": [313, 336],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D51.2"]
   },
   {
     "text": "thiếu máu hồng cầu to",
@@ -39,6 +39,6 @@
     "position": [313, 336],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["D51.2"]
   }
 ]

@@ -4,7 +4,11 @@
     "position": [128, 142],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "L20",
+      "L20.8",
+      "L20.9"
+    ]
   },
   {
     "text": "ngứa ngáy",
@@ -39,20 +43,20 @@
     "position": [2450, 2459],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L28.2", "L29.8"]
   },
   {
     "text": "Loratadine",
     "position": [2731, 2741],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["28889"]
   },
   {
     "text": "Alimemazine",
     "position": [2840, 2851],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10825"]
   }
 ]

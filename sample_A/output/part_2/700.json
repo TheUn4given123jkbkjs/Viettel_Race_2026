@@ -4,7 +4,7 @@
     "position": [91, 101],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["28889"]
   },
   {
     "text": "viêm mũi dị ứng",
@@ -18,34 +18,46 @@
     "position": [185, 194],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "viêm da cơ địa",
     "position": [198, 212],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L20",
+      "L20.8",
+      "L20.9"
+    ]
   },
   {
     "text": "Aspirin",
     "position": [646, 653],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "bệnh tim mạch",
     "position": [552, 565],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "tiểu đường",
     "position": [598, 608],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   }
 ]

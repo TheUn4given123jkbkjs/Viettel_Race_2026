@@ -4,7 +4,11 @@
     "position": [80, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M31.30",
+      "M31.31",
+      "C79.0"
+    ]
   },
   {
     "text": "mệt mỏi",
@@ -25,7 +29,7 @@
     "position": [176, 216],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["N16.1*"]
   },
   {
     "text": "khối tân sinh",
@@ -39,6 +43,10 @@
     "position": [708, 714],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E88.3",
+      "Z80",
+      "Z80.0"
+    ]
   }
 ]

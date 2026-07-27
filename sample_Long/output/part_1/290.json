@@ -4,14 +4,14 @@
     "position": [48, 84],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J38.1"]
   },
   {
     "text": "Acetaminophen",
     "position": [201, 214],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "tiền sử THA 5 năm",
@@ -25,6 +25,6 @@
     "position": [224, 234],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4816"]
   }
 ]

@@ -4,7 +4,11 @@
     "position": [22, 32],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   },
   {
     "text": "chảy máu nướu",
@@ -32,20 +36,20 @@
     "position": [295, 308],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K05.1"]
   },
   {
     "text": "Chlorhexidine",
     "position": [332, 345],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2358"]
   },
   {
     "text": "Metronidazole",
     "position": [376, 389],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6922"]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [301, 337],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["F16.12"]
   },
   {
     "text": "Troponin",
@@ -39,7 +39,7 @@
     "position": [763, 770],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "325 mg",

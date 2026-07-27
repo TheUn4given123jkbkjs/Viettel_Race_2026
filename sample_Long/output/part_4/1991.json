@@ -4,21 +4,25 @@
     "position": [500, 509],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "L55",
+      "L55.0",
+      "L55.1"
+    ]
   },
   {
     "text": "aspirin",
     "position": [260, 267],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceft",
     "position": [269, 273],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "ECG",

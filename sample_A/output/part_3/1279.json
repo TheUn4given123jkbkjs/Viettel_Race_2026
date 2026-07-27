@@ -39,13 +39,21 @@
     "position": [1212, 1220],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.74",
+      "A54.43",
+      "A18.03"
+    ]
   },
   {
     "text": "bệnh tim mạch",
     "position": [139, 152],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   }
 ]

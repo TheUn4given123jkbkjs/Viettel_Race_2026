@@ -4,7 +4,7 @@
     "position": [42, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P24.9"]
   },
   {
     "text": "sốt cao",
@@ -32,13 +32,13 @@
     "position": [268, 281],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Oxygen",
     "position": [285, 291],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7806"]
   }
 ]

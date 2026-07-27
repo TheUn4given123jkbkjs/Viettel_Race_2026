@@ -4,20 +4,24 @@
     "position": [10, 38],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M23.16",
+      "M23.17",
+      "M23.19"
+    ]
   },
   {
     "text": "Acetazolamide",
     "position": [260, 273],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "Albuterol",
     "position": [402, 411],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["435"]
   }
 ]

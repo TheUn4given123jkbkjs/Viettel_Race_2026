@@ -4,20 +4,20 @@
     "position": [162, 222],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P70.0"]
   },
   {
     "text": "Metformin",
     "position": [671, 680],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "Insulin",
     "position": [686, 693],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["253182", "317235"]
   }
 ]

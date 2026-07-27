@@ -4,13 +4,13 @@
     "position": [0, 25],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["B00.7"]
   },
   {
     "text": "Acyclovir",
     "position": [384, 393],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   }
 ]

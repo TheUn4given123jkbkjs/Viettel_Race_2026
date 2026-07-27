@@ -4,21 +4,29 @@
     "position": [326, 380],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I62.9"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [768, 781],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "đột quỵ não",
     "position": [913, 924],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E88.31",
+      "G46.3*",
+      "G46.4*"
+    ]
   },
   {
     "text": "đau đầu dữ dội",
@@ -53,13 +61,13 @@
     "position": [2179, 2187],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6628"]
   },
   {
     "text": "Tranexamic acid",
     "position": [2266, 2281],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10691"]
   }
 ]

@@ -4,14 +4,18 @@
     "position": [231, 244],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1514"]
   },
   {
     "text": "Bệnh nhân",
     "position": [105, 114],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.15",
+      "A51.46",
+      "Z86.11"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -25,21 +29,25 @@
     "position": [419, 428],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "Y45.9",
+      "X60"
+    ]
   },
   {
     "text": "aspirin",
     "position": [496, 503],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [507, 518],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Troponin",

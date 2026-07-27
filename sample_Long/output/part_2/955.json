@@ -4,14 +4,18 @@
     "position": [0, 27],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M89.6"]
   },
   {
     "text": "bại liệt",
     "position": [40, 48],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Z86.12",
+      "G14",
+      "G80.0"
+    ]
   },
   {
     "text": "liệt mềm",

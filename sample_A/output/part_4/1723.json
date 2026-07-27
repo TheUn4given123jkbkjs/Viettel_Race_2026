@@ -32,14 +32,14 @@
     "position": [661, 686],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["6964"]
   },
   {
     "text": "Misoprostol ************",
     "position": [689, 713],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["6964", "42331"]
   },
   {
     "text": "Phủ nhận buồn nôn",

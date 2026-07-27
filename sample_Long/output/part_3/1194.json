@@ -4,14 +4,14 @@
     "position": [130, 151],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I05.1"]
   },
   {
     "text": "Aspirin",
     "position": [1227, 1234],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Bisoprolol",
@@ -25,6 +25,6 @@
     "position": [1251, 1260],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3827"]
   }
 ]

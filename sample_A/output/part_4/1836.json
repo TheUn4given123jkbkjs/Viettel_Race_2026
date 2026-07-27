@@ -4,7 +4,11 @@
     "position": [51, 54],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "A17.81",
+      "A17.82",
+      "A17.83"
+    ]
   },
   {
     "text": "sụt cân",
@@ -46,6 +50,6 @@
     "position": [240, 276],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B39.3"]
   }
 ]

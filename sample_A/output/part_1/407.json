@@ -4,21 +4,21 @@
     "position": [168, 187],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["E31.1"]
   },
   {
     "text": "Acetazolamide",
     "position": [280, 293],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "Spironolactone",
     "position": [521, 535],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["9997"]
   },
   {
     "text": "tăng huyết áp",
@@ -32,13 +32,13 @@
     "position": [521, 535],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["9997"]
   },
   {
     "text": "Nitroglycerin",
     "position": [695, 708],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4917"]
   }
 ]

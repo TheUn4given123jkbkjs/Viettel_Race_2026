@@ -39,20 +39,24 @@
     "position": [1178, 1197],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M63.0*",
+      "M63.2*",
+      "M60.0"
+    ]
   },
   {
     "text": "Cloxacillin",
     "position": [1289, 1300],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2625"]
   },
   {
     "text": "Acetaminophen",
     "position": [1337, 1350],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

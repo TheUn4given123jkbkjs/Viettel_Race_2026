@@ -4,7 +4,11 @@
     "position": [49, 62],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Đau ngực",
@@ -39,6 +43,6 @@
     "position": [1781, 1813],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I28.8"]
   }
 ]

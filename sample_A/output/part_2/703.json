@@ -4,21 +4,25 @@
     "position": [373, 405],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "G06",
+      "G07",
+      "G07*"
+    ]
   },
   {
     "text": "Doxycycline",
     "position": [434, 445],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3640"]
   },
   {
     "text": "Metronidazole",
     "position": [491, 504],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6922"]
   },
   {
     "text": "tiền sử THA",

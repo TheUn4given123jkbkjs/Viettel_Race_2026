@@ -4,7 +4,11 @@
     "position": [17, 30],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Tím tái đầu ngón tay",
@@ -46,6 +50,6 @@
     "position": [504, 521],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M34.1"]
   }
 ]

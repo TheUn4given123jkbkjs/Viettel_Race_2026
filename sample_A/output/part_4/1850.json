@@ -4,14 +4,18 @@
     "position": [5, 17],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["C46.3"]
   },
   {
     "text": "tế bào lympho",
     "position": [91, 104],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "C81.2",
+      "C83.0",
+      "C83.1"
+    ]
   },
   {
     "text": "hạch bạch huyết",
@@ -25,7 +29,7 @@
     "position": [804, 816],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8702"]
   },
   {
     "text": "sưng hạch bạch huyết",

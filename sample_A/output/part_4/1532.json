@@ -11,7 +11,7 @@
     "position": [1093, 1104],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["11198"]
   },
   {
     "text": "buồn nôn",
@@ -39,20 +39,32 @@
     "position": [450, 459],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E85.0",
+      "E85.1",
+      "E85.2"
+    ]
   },
   {
     "text": "chấn thương đầu",
     "position": [461, 476],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G44.3",
+      "M93.0",
+      "W16"
+    ]
   },
   {
     "text": "nhiễm trùng",
     "position": [478, 489],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A54.86",
+      "E76.29",
+      "J95.02"
+    ]
   }
 ]

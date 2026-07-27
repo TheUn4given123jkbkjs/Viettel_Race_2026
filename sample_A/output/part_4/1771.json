@@ -4,20 +4,20 @@
     "position": [50, 67],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["C69.1", "C54.1"]
   },
   {
     "text": "Acetaminophen",
     "position": [419, 432],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Acetylcysteine",
     "position": [434, 448],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["197"]
   }
 ]

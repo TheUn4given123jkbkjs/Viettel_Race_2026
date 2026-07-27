@@ -4,20 +4,20 @@
     "position": [266, 282],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["G90.2"]
   },
   {
     "text": "Acetaminophen",
     "position": [303, 316],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Atorvastatin",
     "position": [345, 357],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["83367"]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [38, 47],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["55672"]
   },
   {
     "text": "tiêu chảy",
@@ -32,6 +32,6 @@
     "position": [236, 249],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J65"]
   }
 ]

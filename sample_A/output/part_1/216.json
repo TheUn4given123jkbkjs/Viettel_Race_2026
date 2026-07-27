@@ -11,14 +11,18 @@
     "position": [335, 382],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["834765", "2368450"]
   },
   {
     "text": "nhồi máu cơ tim cấp",
     "position": [574, 593],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "buồn nôn",
@@ -32,7 +36,7 @@
     "position": [1395, 1402],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "troponin T",

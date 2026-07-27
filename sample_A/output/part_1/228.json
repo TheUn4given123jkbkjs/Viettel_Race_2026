@@ -4,7 +4,11 @@
     "position": [106, 133],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "C94",
+      "C94.7",
+      "C95.7"
+    ]
   },
   {
     "text": "chủ quan sốt",
@@ -53,6 +57,10 @@
     "position": [106, 133],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "C94",
+      "C94.7",
+      "C95.7"
+    ]
   }
 ]

@@ -4,21 +4,29 @@
     "position": [54, 76],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2003201", "2003222"]
   },
   {
     "text": "viêm gan B",
     "position": [90, 100],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "B16",
+      "B16.0",
+      "B16.1"
+    ]
   },
   {
     "text": "statin",
     "position": [614, 620],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "83367",
+      "34482",
+      "7597"
+    ]
   },
   {
     "text": "triglyceride",

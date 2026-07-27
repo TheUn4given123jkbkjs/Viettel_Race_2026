@@ -4,7 +4,7 @@
     "position": [318, 341],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["705030", "705031"]
   },
   {
     "text": "mệt mỏi",
@@ -25,7 +25,11 @@
     "position": [627, 635],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E20",
+      "E89.0",
+      "E89.2"
+    ]
   },
   {
     "text": "Xét nghiệm định lượng kháng thể IgG",
@@ -39,7 +43,11 @@
     "position": [1984, 1993],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "D63.0",
+      "D63.8",
+      "G45"
+    ]
   },
   {
     "text": "Paracetamol",
@@ -53,6 +61,6 @@
     "position": [2686, 2696],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4511", "105658"]
   }
 ]

@@ -4,14 +4,14 @@
     "position": [0, 19],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L13.0"]
   },
   {
     "text": "acyclovir",
     "position": [743, 752],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "paracetamol",
@@ -32,6 +32,6 @@
     "position": [1314, 1327],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2358"]
   }
 ]

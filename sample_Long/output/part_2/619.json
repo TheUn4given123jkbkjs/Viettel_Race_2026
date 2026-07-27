@@ -4,7 +4,7 @@
     "position": [155, 168],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["I68.8*", "N03.6"]
   },
   {
     "text": "đau hông lưng",
@@ -46,6 +46,6 @@
     "position": [648, 691],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N13.8"]
   }
 ]

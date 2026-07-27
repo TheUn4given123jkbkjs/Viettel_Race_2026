@@ -18,14 +18,14 @@
     "position": [104, 113],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "Biến chứng hệ thống thần kinh trung ương của gây mê trong chuyển dạ, trong đẻ",
     "position": [158, 235],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O74.3"]
   },
   {
     "text": "Caffeine citrate 20mg/ml",

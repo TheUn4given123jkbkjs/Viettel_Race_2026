@@ -4,20 +4,20 @@
     "position": [44, 106],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["N08*", "N08"]
   },
   {
     "text": "Acetazolamide",
     "position": [358, 371],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "Hydrochlorothiazide",
     "position": [621, 640],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5487"]
   }
 ]

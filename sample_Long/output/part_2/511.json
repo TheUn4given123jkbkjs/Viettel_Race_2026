@@ -4,20 +4,24 @@
     "position": [0, 13],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K26",
+      "K26.0",
+      "K26.1"
+    ]
   },
   {
     "text": "Ranitidine",
     "position": [785, 795],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["9143"]
   },
   {
     "text": "Omeprazole",
     "position": [799, 809],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7646"]
   }
 ]

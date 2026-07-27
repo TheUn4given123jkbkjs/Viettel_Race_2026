@@ -11,14 +11,18 @@
     "position": [632, 644],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["214662", "8987"]
   },
   {
     "text": "Isoniazid",
     "position": [646, 655],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
   },
   {
     "text": "Rifampicin",

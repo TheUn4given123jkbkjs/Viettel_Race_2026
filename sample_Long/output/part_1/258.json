@@ -4,7 +4,11 @@
     "position": [40, 59],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J04",
+      "J04.0",
+      "J04.2"
+    ]
   },
   {
     "text": "khàn tiếng",
@@ -39,13 +43,13 @@
     "position": [358, 387],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["19711"]
   },
   {
     "text": "Dexamethasone",
     "position": [417, 430],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   }
 ]

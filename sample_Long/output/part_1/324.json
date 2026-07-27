@@ -25,20 +25,20 @@
     "position": [521, 578],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M49.23*"]
   },
   {
     "text": "Ciprofloxacin",
     "position": [899, 912],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2551"]
   },
   {
     "text": "Ceftriaxone",
     "position": [918, 929],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

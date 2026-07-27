@@ -4,7 +4,7 @@
     "position": [428, 438],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4493"]
   },
   {
     "text": "buồn nôn",
@@ -25,7 +25,11 @@
     "position": [546, 559],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Trầm cảm chủ yếu",

@@ -4,7 +4,11 @@
     "position": [21, 34],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Đau bụng",
@@ -39,6 +43,6 @@
     "position": [237, 269],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K92.9"]
   }
 ]

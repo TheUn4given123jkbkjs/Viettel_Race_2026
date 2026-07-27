@@ -4,20 +4,24 @@
     "position": [604, 637],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "G21.1",
+      "G21.2",
+      "G21.8"
+    ]
   },
   {
     "text": "Acenocoumarol",
     "position": [487, 500],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["154"]
   },
   {
     "text": "Amoxicillin",
     "position": [553, 564],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["723", "19711"]
   }
 ]

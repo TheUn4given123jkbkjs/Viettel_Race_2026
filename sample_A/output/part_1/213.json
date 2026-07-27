@@ -4,7 +4,11 @@
     "position": [335, 345],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "K50",
+      "K50.0",
+      "K50.8"
+    ]
   },
   {
     "text": "vết loét",
@@ -39,13 +43,13 @@
     "position": [1095, 1110],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A06.7"]
   },
   {
     "text": "Metronidazole",
     "position": [1216, 1229],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6922"]
   }
 ]

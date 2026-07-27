@@ -4,7 +4,11 @@
     "position": [442, 449],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L40.50",
+      "L40.51",
+      "L40.52"
+    ]
   },
   {
     "text": "ngứa",
@@ -53,6 +57,6 @@
     "position": [2568, 2590],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L41.4"]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [55, 77],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L10.0"]
   },
   {
     "text": "bọng nước",
@@ -53,6 +53,10 @@
     "position": [1398, 1405],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L40.50",
+      "L40.51",
+      "L40.52"
+    ]
   }
 ]

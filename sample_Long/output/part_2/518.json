@@ -4,14 +4,18 @@
     "position": [59, 68],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F19.10",
+      "F19.12",
+      "F19.14"
+    ]
   },
   {
     "text": "Phenytoin",
     "position": [108, 117],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8183"]
   },
   {
     "text": "sưng lợi",
@@ -39,7 +43,11 @@
     "position": [386, 398],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "K04.4",
+      "K04.5",
+      "K05"
+    ]
   },
   {
     "text": "quá sản lợi",

@@ -4,14 +4,22 @@
     "position": [63, 76],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "suy tim",
     "position": [162, 169],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I11.0",
+      "I11.9",
+      "I13.0"
+    ]
   },
   {
     "text": "khó thở khi gắng sức",
@@ -60,6 +68,6 @@
     "position": [1278, 1311],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I34.8"]
   }
 ]

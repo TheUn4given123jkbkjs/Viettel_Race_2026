@@ -18,14 +18,18 @@
     "position": [105, 109],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["90176", "105658"]
   },
   {
     "text": "Biến chứng của gây mê trong thời kỳ sau đẻ",
     "position": [158, 200],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O89",
+      "O89.0",
+      "O89.1"
+    ]
   },
   {
     "text": "Acetaminophen 500mg",

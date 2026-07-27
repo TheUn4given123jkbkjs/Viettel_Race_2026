@@ -4,28 +4,32 @@
     "position": [2516, 2631],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E89.41"]
   },
   {
     "text": "Ethinylestradiol",
     "position": [2667, 2683],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4124", "214558"]
   },
   {
     "text": "Medroxyprogesterone",
     "position": [2726, 2745],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2647996", "6691"]
   },
   {
     "text": "ung thư vú",
     "position": [1506, 1516],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
   },
   {
     "text": "nóng mặt",

@@ -4,28 +4,32 @@
     "position": [135, 149],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G22",
+      "G22*",
+      "G21.4"
+    ]
   },
   {
     "text": "Procaine",
     "position": [357, 365],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7983", "8701"]
   },
   {
     "text": "Levodopa",
     "position": [334, 342],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["103990"]
   },
   {
     "text": "Carbidopa",
     "position": [344, 353],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["103990"]
   },
   {
     "text": "tổn thương gan",

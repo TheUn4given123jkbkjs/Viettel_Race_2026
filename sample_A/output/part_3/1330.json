@@ -4,7 +4,7 @@
     "position": [784, 798],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1331"]
   },
   {
     "text": "IBS",
@@ -46,13 +46,21 @@
     "position": [167, 175],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E89.6",
+      "E89.8",
+      "E89.9"
+    ]
   },
   {
     "text": "hội chứng ruột kích thích",
     "position": [122, 147],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K58",
+      "K58.0",
+      "K58.9"
+    ]
   }
 ]

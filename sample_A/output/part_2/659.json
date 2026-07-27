@@ -4,7 +4,11 @@
     "position": [517, 548],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G56",
+      "G56.8",
+      "G56.9"
+    ]
   },
   {
     "text": "Bệnh tim mạch",
@@ -32,7 +36,7 @@
     "position": [373, 380],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Troponin",

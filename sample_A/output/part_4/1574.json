@@ -4,21 +4,21 @@
     "position": [73, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["A18.14"]
   },
   {
     "text": "Acetaminophen",
     "position": [196, 209],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ibuprofen",
     "position": [240, 249],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Vi khuẩn gây hại",

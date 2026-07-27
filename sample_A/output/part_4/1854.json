@@ -4,27 +4,27 @@
     "position": [37, 115],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F17.4"]
   },
   {
     "text": "Aspirin",
     "position": [306, 313],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Ceftriaxone",
     "position": [333, 344],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Ondansetron",
     "position": [361, 372],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["26225"]
   }
 ]

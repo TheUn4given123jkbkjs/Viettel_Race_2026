@@ -4,21 +4,21 @@
     "position": [98, 137],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E74.3"]
   },
   {
     "text": "Metformin",
     "position": [719, 728],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "Acarbose",
     "position": [920, 928],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["16681"]
   },
   {
     "text": "SGLT2 ức chế",
@@ -32,6 +32,6 @@
     "position": [98, 137],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E74.3"]
   }
 ]

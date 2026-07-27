@@ -4,14 +4,18 @@
     "position": [769, 791],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L10.0"]
   },
   {
     "text": "bệnh vảy nến",
     "position": [1226, 1238],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L40.51",
+      "L40.54",
+      "L40.59"
+    ]
   },
   {
     "text": "bóng nước",
@@ -39,20 +43,20 @@
     "position": [2531, 2543],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Amlodipine",
     "position": [2879, 2889],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Chlorhexidine",
     "position": [2969, 2982],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2358"]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [33, 47],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1347"]
   },
   {
     "text": "hypertension",
@@ -39,13 +39,13 @@
     "position": [305, 312],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [316, 327],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

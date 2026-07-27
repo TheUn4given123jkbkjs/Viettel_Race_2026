@@ -4,7 +4,7 @@
     "position": [161, 174],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "triệu chứng",
@@ -25,13 +25,17 @@
     "position": [161, 174],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "bệnh nhân",
     "position": [41, 50],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "A52.15",
+      "A51.46",
+      "Z86.11"
+    ]
   }
 ]

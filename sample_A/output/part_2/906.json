@@ -4,14 +4,14 @@
     "position": [132, 142],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "lạm dụng chất gây nghiện",
     "position": [261, 285],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["F55"]
   },
   {
     "text": "kích động",
@@ -46,20 +46,20 @@
     "position": [1456, 1526],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F19.90"]
   },
   {
     "text": "Diazepam",
     "position": [1611, 1619],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3322"]
   },
   {
     "text": "Haloperidol",
     "position": [1681, 1692],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5093"]
   }
 ]

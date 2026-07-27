@@ -25,34 +25,34 @@
     "position": [799, 859],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P70.0"]
   },
   {
     "text": "hạ đường huyết sơ sinh",
     "position": [1738, 1760],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P70.3", "P70.4"]
   },
   {
     "text": "Glucose",
     "position": [2380, 2387],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4850"]
   },
   {
     "text": "Calcium gluconate",
     "position": [2721, 2738],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1908"]
   },
   {
     "text": "Oxygen",
     "position": [2921, 2927],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7806"]
   }
 ]

@@ -4,27 +4,27 @@
     "position": [211, 251],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J20.4"]
   },
   {
     "text": "Albuterol",
     "position": [78, 87],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["435"]
   },
   {
     "text": "Acetaminophen",
     "position": [91, 104],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Oseltamivir",
     "position": [293, 304],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["260101"]
   }
 ]

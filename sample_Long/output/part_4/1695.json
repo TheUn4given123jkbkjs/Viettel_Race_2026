@@ -4,21 +4,29 @@
     "position": [164, 184],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["103990"]
   },
   {
     "text": "Parkinson",
     "position": [125, 134],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.19",
+      "G21.1",
+      "G21.2"
+    ]
   },
   {
     "text": "Alzheimer",
     "position": [430, 439],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "G30",
+      "G30.0",
+      "G30.1"
+    ]
   },
   {
     "text": "run tay chân",

@@ -4,14 +4,14 @@
     "position": [288, 295],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["9071"]
   },
   {
     "text": "aspirin",
     "position": [192, 199],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "troponin",
@@ -32,14 +32,22 @@
     "position": [161, 174],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "sốt rét",
     "position": [313, 320],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Z86.13",
+      "T37.2",
+      "Y41.2"
+    ]
   },
   {
     "text": "bệnh nhân",

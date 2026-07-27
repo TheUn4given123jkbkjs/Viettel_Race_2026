@@ -4,7 +4,7 @@
     "position": [74, 87],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["11118"]
   },
   {
     "text": "Đau liên tục vùng hố chậu phải",
@@ -46,6 +46,10 @@
     "position": [1005, 1023],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K35",
+      "K35.1",
+      "K35.2"
+    ]
   }
 ]

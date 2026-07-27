@@ -4,20 +4,24 @@
     "position": [0, 64],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M14.2*",
+      "M14.20*",
+      "M14.21*"
+    ]
   },
   {
     "text": "Metformin",
     "position": [320, 329],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "Acarbose",
     "position": [333, 341],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["16681"]
   }
 ]

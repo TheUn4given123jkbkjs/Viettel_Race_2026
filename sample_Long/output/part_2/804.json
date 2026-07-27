@@ -4,7 +4,7 @@
     "position": [70, 87],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D01.0", "D01.1"]
   },
   {
     "text": "đau hố chậu trái",
@@ -32,20 +32,20 @@
     "position": [813, 828],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N83.6"]
   },
   {
     "text": "Ceftriaxone",
     "position": [855, 866],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Doxycycline",
     "position": [903, 914],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3640"]
   }
 ]

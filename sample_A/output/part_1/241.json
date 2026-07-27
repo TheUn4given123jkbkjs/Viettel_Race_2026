@@ -4,14 +4,18 @@
     "position": [1444, 1458],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["9097"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [1126, 1139],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Đái tháo đường tuýp 2",

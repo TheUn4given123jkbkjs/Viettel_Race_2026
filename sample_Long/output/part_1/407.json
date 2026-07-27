@@ -4,7 +4,7 @@
     "position": [36, 45],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "ĐTĐ tuýp 2",
@@ -46,6 +46,6 @@
     "position": [759, 791],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K04.3"]
   }
 ]

@@ -4,7 +4,11 @@
     "position": [471, 484],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "đau bụng",
@@ -18,7 +22,7 @@
     "position": [888, 897],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K56.2"]
   },
   {
     "text": "Ceftriaxone 1g: 2 lọ/ngày, truyền tĩnh mạch",
@@ -39,6 +43,10 @@
     "position": [1122, 1139],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "H28.1*",
+      "H28.2*",
+      "H25"
+    ]
   }
 ]

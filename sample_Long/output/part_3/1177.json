@@ -4,7 +4,7 @@
     "position": [494, 560],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M09.23*"]
   },
   {
     "text": "Bệnh nhân",
@@ -18,13 +18,21 @@
     "position": [494, 510],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M09.1*",
+      "M09.10*",
+      "M09.11*"
+    ]
   },
   {
     "text": "Viêm khớp trẻ em",
     "position": [494, 510],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M09.1*",
+      "M09.10*",
+      "M09.11*"
+    ]
   }
 ]

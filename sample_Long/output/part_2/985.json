@@ -4,21 +4,29 @@
     "position": [70, 83],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "viêm xoang",
     "position": [233, 243],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J01.00",
+      "J01.01",
+      "J01.11"
+    ]
   },
   {
     "text": "viêm phổi",
     "position": [245, 254],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
   },
   {
     "text": "bệnh tiểu đường",
@@ -32,14 +40,18 @@
     "position": [368, 381],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "suy thượng thận",
     "position": [383, 398],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E89.6"]
   },
   {
     "text": "tăng nguy cơ nhiễm trùng",

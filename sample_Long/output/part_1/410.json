@@ -11,7 +11,11 @@
     "position": [215, 228],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "buồn nôn",
@@ -25,20 +29,24 @@
     "position": [761, 773],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O99",
+      "O30.8",
+      "O31.8"
+    ]
   },
   {
     "text": "Progesterone",
     "position": [797, 809],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8727"]
   },
   {
     "text": "Folic acid",
     "position": [825, 835],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4511", "105658"]
   }
 ]

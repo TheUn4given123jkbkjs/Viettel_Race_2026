@@ -4,7 +4,7 @@
     "position": [240, 252],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["18631"]
   },
   {
     "text": "COPD",
@@ -18,7 +18,11 @@
     "position": [415, 434],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "đau ngực",
@@ -39,7 +43,7 @@
     "position": [969, 976],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Troponin",

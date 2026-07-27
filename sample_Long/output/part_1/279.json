@@ -4,21 +4,25 @@
     "position": [310, 317],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["5956"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [416, 429],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Amlodipine",
     "position": [441, 451],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Đái tháo đường tuýp 2",
@@ -32,7 +36,11 @@
     "position": [549, 561],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "N18",
+      "N18.1",
+      "N18.2"
+    ]
   },
   {
     "text": "đau ngực trái",

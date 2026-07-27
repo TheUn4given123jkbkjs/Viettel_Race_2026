@@ -18,7 +18,7 @@
     "position": [138, 147],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2101271"]
   },
   {
     "text": "bố bệnh nhân",
@@ -32,13 +32,13 @@
     "position": [542, 551],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "Enalapril",
     "position": [578, 587],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3827"]
   }
 ]

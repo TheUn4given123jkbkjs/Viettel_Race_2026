@@ -4,7 +4,7 @@
     "position": [36, 51],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I47.1", "I47.2"]
   },
   {
     "text": "đánh trống ngực",
@@ -32,13 +32,13 @@
     "position": [349, 359],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["703"]
   },
   {
     "text": "Lidocaine",
     "position": [365, 374],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6387", "107602"]
   }
 ]

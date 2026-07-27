@@ -4,14 +4,18 @@
     "position": [0, 22],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "A50.01",
+      "A50.03",
+      "A50.04"
+    ]
   },
   {
     "text": "Acyclovir",
     "position": [422, 431],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "Ganciclovir",

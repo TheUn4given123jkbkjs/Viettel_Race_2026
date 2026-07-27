@@ -11,14 +11,18 @@
     "position": [108, 118],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1429947", "6694"]
   },
   {
     "text": "Artesunate",
     "position": [541, 551],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "18346",
+      "711398",
+      "1429947"
+    ]
   },
   {
     "text": "BVĐK TPHCM",

@@ -4,14 +4,18 @@
     "position": [489, 552],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "H58",
+      "H58*",
+      "H58.8*"
+    ]
   },
   {
     "text": "aspirin",
     "position": [291, 298],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "troponin",

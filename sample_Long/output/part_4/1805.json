@@ -4,7 +4,11 @@
     "position": [243, 256],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "buồn nôn",
@@ -25,20 +29,24 @@
     "position": [659, 682],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O12",
+      "O12.1",
+      "O12.2"
+    ]
   },
   {
     "text": "Methyldopa",
     "position": [813, 823],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6876"]
   },
   {
     "text": "Aspirin",
     "position": [839, 846],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   }
 ]

@@ -4,21 +4,21 @@
     "position": [23, 44],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["B02"]
   },
   {
     "text": "Acyclovir",
     "position": [146, 155],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "prednisolone",
     "position": [159, 171],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "herpes zoster",
@@ -46,20 +46,20 @@
     "position": [23, 44],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["B02"]
   },
   {
     "text": "Acyclovir",
     "position": [146, 155],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "prednisolone",
     "position": [159, 171],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   }
 ]

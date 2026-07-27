@@ -4,34 +4,42 @@
     "position": [43, 54],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["5093"]
   },
   {
     "text": "động kinh",
     "position": [401, 410],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F19.10",
+      "F19.12",
+      "F19.14"
+    ]
   },
   {
     "text": "suy nhược thần kinh",
     "position": [414, 433],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F48.0"]
   },
   {
     "text": "bệnh tâm thần phân liệt",
     "position": [198, 221],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F23.0", "F23.1"]
   },
   {
     "text": "tác dụng phụ",
     "position": [26, 38],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Y88.2",
+      "T88.6",
+      "T88.7"
+    ]
   }
 ]

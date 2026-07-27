@@ -4,14 +4,14 @@
     "position": [304, 313],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "albuterol",
     "position": [357, 366],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["435"]
   },
   {
     "text": "chủ quan sốt",
@@ -25,21 +25,21 @@
     "position": [2011, 2049],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O46"]
   },
   {
     "text": "Tranexamic acid",
     "position": [2151, 2166],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10691"]
   },
   {
     "text": "Magnesium sulfate",
     "position": [2230, 2247],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6585"]
   },
   {
     "text": "lactate",

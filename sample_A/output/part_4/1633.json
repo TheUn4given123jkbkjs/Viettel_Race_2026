@@ -4,7 +4,7 @@
     "position": [274, 289],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4452"]
   },
   {
     "text": "tăng huyết áp",
@@ -32,13 +32,21 @@
     "position": [127, 136],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.75",
+      "N18.0",
+      "M31.30"
+    ]
   },
   {
     "text": "bệnh tim mạch",
     "position": [229, 242],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   }
 ]

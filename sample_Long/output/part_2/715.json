@@ -39,13 +39,17 @@
     "position": [1295, 1313],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O80",
+      "O80.8",
+      "O80.9"
+    ]
   },
   {
     "text": "Oxytocin",
     "position": [1453, 1461],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7824"]
   }
 ]

@@ -4,7 +4,11 @@
     "position": [637, 650],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "đau rát khi đi tiểu",
@@ -25,28 +29,28 @@
     "position": [2027, 2067],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O23.1"]
   },
   {
     "text": "Nitrofurantoin",
     "position": [2332, 2346],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7454"]
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
     "position": [2709, 2738],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["19711"]
   },
   {
     "text": "Acetaminophen",
     "position": [2787, 2800],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Nitrite dương tính",

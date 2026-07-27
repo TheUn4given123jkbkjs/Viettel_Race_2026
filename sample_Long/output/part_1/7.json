@@ -4,7 +4,7 @@
     "position": [368, 380],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3100"]
   },
   {
     "text": "đau thượng vị",
@@ -18,7 +18,7 @@
     "position": [533, 553],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K29.0"]
   },
   {
     "text": "Buồn nôn",
@@ -32,7 +32,7 @@
     "position": [874, 884],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7646"]
   },
   {
     "text": "Paracetamol",

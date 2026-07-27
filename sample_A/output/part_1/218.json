@@ -32,20 +32,24 @@
     "position": [2482, 2513],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A22.7"]
   },
   {
     "text": "Ciprofloxacin",
     "position": [2668, 2681],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2551"]
   },
   {
     "text": "Penicillin G",
     "position": [2719, 2731],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "7982",
+      "7980",
+      "7983"
+    ]
   }
 ]

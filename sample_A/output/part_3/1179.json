@@ -25,20 +25,20 @@
     "position": [516, 583],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["F14.5"]
   },
   {
     "text": "Haloperidol",
     "position": [850, 861],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5093"]
   },
   {
     "text": "Diazepam",
     "position": [1018, 1026],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3322"]
   }
 ]

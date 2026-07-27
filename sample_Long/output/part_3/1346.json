@@ -4,7 +4,11 @@
     "position": [126, 133],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L40.50",
+      "L40.51",
+      "L40.52"
+    ]
   },
   {
     "text": "ngón chân hình khúc dồi",
@@ -25,20 +29,20 @@
     "position": [2733, 2774],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M07.16*"]
   },
   {
     "text": "Methotrexate",
     "position": [2993, 3005],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6851"]
   },
   {
     "text": "Diclofenac",
     "position": [3081, 3091],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   }
 ]

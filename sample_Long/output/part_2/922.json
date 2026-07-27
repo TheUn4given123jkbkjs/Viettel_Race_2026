@@ -4,14 +4,14 @@
     "position": [72, 117],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O02.9"]
   },
   {
     "text": "Clomiphene",
     "position": [344, 354],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2596"]
   },
   {
     "text": "Letrozole",
@@ -25,13 +25,13 @@
     "position": [453, 460],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Ibuprofen",
     "position": [466, 475],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   }
 ]

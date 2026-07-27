@@ -4,7 +4,11 @@
     "position": [696, 714],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M17",
+      "M17.0",
+      "M17.1"
+    ]
   },
   {
     "text": "đau khớp gối phải",
@@ -46,6 +50,6 @@
     "position": [3139, 3212],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M23.03", "M23.09"]
   }
 ]

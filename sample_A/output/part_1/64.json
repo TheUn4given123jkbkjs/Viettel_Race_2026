@@ -32,20 +32,24 @@
     "position": [907, 927],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "H02",
+      "H02.5",
+      "H02.7"
+    ]
   },
   {
     "text": "Dexamethasone",
     "position": [973, 986],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "Gentamicin",
     "position": [1057, 1067],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1596450"]
   }
 ]

@@ -4,14 +4,14 @@
     "position": [153, 173],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["103990"]
   },
   {
     "text": "aspirin",
     "position": [362, 369],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "troponin",
@@ -25,7 +25,7 @@
     "position": [535, 546],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Bệnh Parkinson",

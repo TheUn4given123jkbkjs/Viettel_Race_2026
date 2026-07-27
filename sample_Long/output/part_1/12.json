@@ -4,14 +4,22 @@
     "position": [353, 365],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "7982",
+      "7980",
+      "7983"
+    ]
   },
   {
     "text": "viêm phế quản cấp",
     "position": [448, 465],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J40",
+      "J20",
+      "J20.0"
+    ]
   },
   {
     "text": "ho khan",

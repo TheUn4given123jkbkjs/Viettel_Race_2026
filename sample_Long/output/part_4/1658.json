@@ -4,7 +4,11 @@
     "position": [34, 72],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N50",
+      "N50.8",
+      "N51.8*"
+    ]
   },
   {
     "text": "không sốt",
@@ -18,6 +22,6 @@
     "position": [137, 150],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

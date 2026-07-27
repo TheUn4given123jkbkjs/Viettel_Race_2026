@@ -4,34 +4,42 @@
     "position": [119, 158],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M01.17*"]
   },
   {
     "text": "aspirin",
     "position": [259, 266],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [270, 281],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "rifampin",
     "position": [664, 672],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
   },
   {
     "text": "isoniazid",
     "position": [676, 685],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
   }
 ]

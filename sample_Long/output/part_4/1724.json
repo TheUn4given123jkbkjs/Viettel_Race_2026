@@ -25,7 +25,7 @@
     "position": [156, 217],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M49.20*"]
   },
   {
     "text": "hạ sôt",
@@ -39,13 +39,13 @@
     "position": [258, 271],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2551"]
   },
   {
     "text": "Ceftriaxone",
     "position": [302, 313],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

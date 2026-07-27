@@ -11,14 +11,18 @@
     "position": [0, 30],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "C04.9",
+      "C06.9",
+      "C10.9"
+    ]
   },
   {
     "text": "Acetazolamide",
     "position": [1179, 1192],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "************",

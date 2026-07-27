@@ -4,34 +4,42 @@
     "position": [721, 743],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8604"]
   },
   {
     "text": "nhồi máu cơ tim",
     "position": [153, 168],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "aspirin",
     "position": [223, 230],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "statin",
     "position": [234, 240],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "83367",
+      "34482",
+      "7597"
+    ]
   },
   {
     "text": "ceftriaxone",
     "position": [460, 471],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

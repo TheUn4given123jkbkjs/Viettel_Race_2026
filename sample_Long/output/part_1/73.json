@@ -4,34 +4,46 @@
     "position": [0, 23],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N33.0"]
   },
   {
     "text": "Isoniazid",
     "position": [425, 434],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
   },
   {
     "text": "Rifampin",
     "position": [438, 446],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
   },
   {
     "text": "Pyrazinamide",
     "position": [573, 585],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["214662", "8987"]
   },
   {
     "text": "Ethambutol",
     "position": [589, 599],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "4110"
+    ]
   }
 ]

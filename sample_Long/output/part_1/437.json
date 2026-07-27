@@ -4,7 +4,7 @@
     "position": [93, 107],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["A52.06", "I25.0"]
   },
   {
     "text": "đánh trống ngực",
@@ -53,6 +53,6 @@
     "position": [1224, 1260],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I47.9"]
   }
 ]

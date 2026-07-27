@@ -4,14 +4,14 @@
     "position": [203, 213],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6468"]
   },
   {
     "text": "Aspirin",
     "position": [522, 529],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "C-reactive protein",
@@ -32,20 +32,24 @@
     "position": [451, 462],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "buồn nôn",
     "position": [317, 325],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["R11"]
   },
   {
     "text": "sốt",
     "position": [618, 621],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [221, 230],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "đái tháo đường típ 2",
@@ -46,6 +46,6 @@
     "position": [2488, 2600],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O03.5"]
   }
 ]

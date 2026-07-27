@@ -4,7 +4,11 @@
     "position": [0, 19],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J01.81",
+      "J01.80",
+      "J01.8"
+    ]
   },
   {
     "text": "đau đầu",
@@ -32,7 +36,7 @@
     "position": [150, 232],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J01.81", "J01.80"]
   },
   {
     "text": "theo dõi lối sống",

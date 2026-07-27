@@ -4,7 +4,7 @@
     "position": [0, 33],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F43.20"]
   },
   {
     "text": "tiền sử THA 5 năm",
@@ -18,13 +18,13 @@
     "position": [383, 396],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Amlodipine",
     "position": [400, 410],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   }
 ]

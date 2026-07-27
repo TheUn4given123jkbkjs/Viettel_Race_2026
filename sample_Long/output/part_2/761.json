@@ -4,14 +4,18 @@
     "position": [184, 195],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
   },
   {
     "text": "Diazepam",
     "position": [1045, 1053],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3322"]
   },
   {
     "text": "Alendronate",

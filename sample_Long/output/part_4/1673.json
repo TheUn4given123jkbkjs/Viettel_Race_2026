@@ -4,7 +4,11 @@
     "position": [180, 194],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G22",
+      "G22*",
+      "G21.4"
+    ]
   },
   {
     "text": "rối loạn vận động",
@@ -18,14 +22,18 @@
     "position": [67, 87],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G96",
+      "G96.8",
+      "G96.9"
+    ]
   },
   {
     "text": "Levodopa",
     "position": [444, 452],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["103990"]
   },
   {
     "text": "Choleravaccine",

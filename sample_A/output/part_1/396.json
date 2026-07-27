@@ -4,21 +4,25 @@
     "position": [5, 15],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   },
   {
     "text": "Desmopressin",
     "position": [433, 445],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3251"]
   },
   {
     "text": "Metformin",
     "position": [345, 354],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "đa niệu",

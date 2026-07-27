@@ -4,14 +4,18 @@
     "position": [82, 99],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": []
+    "candidates": ["M54.6"]
   },
   {
     "text": "thoái hóa đốt sống",
     "position": [707, 725],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G55.2*",
+      "M51.3",
+      "M50.3"
+    ]
   },
   {
     "text": "rò rỉ đĩa đệm",
@@ -25,13 +29,17 @@
     "position": [707, 725],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G55.2*",
+      "M51.3",
+      "M50.3"
+    ]
   },
   {
     "text": "đau cột sống ngực",
     "position": [82, 99],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": []
+    "candidates": ["M54.6"]
   }
 ]

@@ -4,7 +4,11 @@
     "position": [28, 49],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M32",
+      "M32.0",
+      "M32.1†"
+    ]
   },
   {
     "text": "đau ngực",
@@ -25,7 +29,11 @@
     "position": [185, 239],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I32",
+      "I32*",
+      "I32.0*"
+    ]
   },
   {
     "text": "chèn ép tim cấp",

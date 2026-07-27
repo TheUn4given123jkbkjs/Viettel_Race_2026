@@ -4,7 +4,7 @@
     "position": [0, 88],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["H94.0*"]
   },
   {
     "text": "Mất thính giác",
@@ -18,6 +18,10 @@
     "position": [1583, 1593],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
   }
 ]

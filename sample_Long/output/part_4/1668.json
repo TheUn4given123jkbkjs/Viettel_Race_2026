@@ -4,14 +4,18 @@
     "position": [34, 42],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O04",
+      "O04.0",
+      "O04.1"
+    ]
   },
   {
     "text": "phá thai chưa xác định rõ (Không hoàn toàn, không có biến chứng)",
     "position": [193, 259],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O06.4"]
   },
   {
     "text": "không sốt",
@@ -25,13 +29,13 @@
     "position": [296, 322],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6964"]
   },
   {
     "text": "Acetaminophen",
     "position": [326, 339],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

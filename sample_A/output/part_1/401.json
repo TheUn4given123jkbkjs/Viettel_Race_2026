@@ -4,21 +4,25 @@
     "position": [105, 122],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "C70",
+      "C70.0",
+      "C70.9"
+    ]
   },
   {
     "text": "Acetazolamide",
     "position": [244, 257],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "Chlorpromazine",
     "position": [296, 310],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2403"]
   },
   {
     "text": "Protein trong nước não",

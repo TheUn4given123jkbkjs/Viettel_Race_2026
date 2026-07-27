@@ -4,7 +4,7 @@
     "position": [26, 29],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "ĐTĐ",
@@ -39,6 +39,6 @@
     "position": [209, 234],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M21.6", "M95.3"]
   }
 ]

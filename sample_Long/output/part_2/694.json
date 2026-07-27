@@ -4,20 +4,28 @@
     "position": [159, 213],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N03.1"]
   },
   {
     "text": "suy thận mạn",
     "position": [46, 58],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N18",
+      "N18.1",
+      "N18.2"
+    ]
   },
   {
     "text": "tăng huyết áp",
     "position": [113, 126],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   }
 ]

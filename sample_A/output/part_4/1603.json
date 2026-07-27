@@ -4,7 +4,7 @@
     "position": [134, 158],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A36.82"]
   },
   {
     "text": "đỏ mắt",
@@ -32,6 +32,10 @@
     "position": [45, 53],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A36.81",
+      "A36.82",
+      "A36.83"
+    ]
   }
 ]

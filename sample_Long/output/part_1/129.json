@@ -4,7 +4,7 @@
     "position": [77, 132],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P11.5"]
   },
   {
     "text": "cơ nhão",
@@ -39,13 +39,13 @@
     "position": [1169, 1187],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6902"]
   },
   {
     "text": "Vitamin A",
     "position": [1323, 1332],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["11246", "97016"]
   }
 ]

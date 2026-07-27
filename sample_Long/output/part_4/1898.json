@@ -4,7 +4,11 @@
     "position": [26, 39],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "đau cổ trái",
@@ -39,6 +43,6 @@
     "position": [264, 292],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I72.0"]
   }
 ]

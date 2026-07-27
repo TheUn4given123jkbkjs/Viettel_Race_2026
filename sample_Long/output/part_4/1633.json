@@ -4,7 +4,7 @@
     "position": [421, 435],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7454"]
   },
   {
     "text": "không sốt",
@@ -18,7 +18,7 @@
     "position": [896, 912],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["M51.2", "M50.2"]
   },
   {
     "text": "đau thắt lưng",

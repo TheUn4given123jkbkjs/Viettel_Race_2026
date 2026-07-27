@@ -4,20 +4,20 @@
     "position": [296, 309],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["E75.01"]
   },
   {
     "text": "Aspirin",
     "position": [600, 607],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Acetazolamide",
     "position": [583, 596],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   }
 ]

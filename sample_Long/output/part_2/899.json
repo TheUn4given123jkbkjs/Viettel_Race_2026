@@ -4,27 +4,27 @@
     "position": [0, 38],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O91.2"]
   },
   {
     "text": "Amoxicillin",
     "position": [339, 350],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["723", "19711"]
   },
   {
     "text": "Cephalexin",
     "position": [356, 366],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2231"]
   },
   {
     "text": "Acetaminophen",
     "position": [441, 454],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

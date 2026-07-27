@@ -4,21 +4,29 @@
     "position": [45, 98],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isHistorical"],
-    "candidates": []
+    "candidates": ["N60.80"]
   },
   {
     "text": "Loạn sản lành tính vú khác",
     "position": [45, 71],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N60.80",
+      "N60.81",
+      "N60.83"
+    ]
   },
   {
     "text": "vú nữ",
     "position": [73, 78],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N60.00",
+      "N60.01",
+      "N60.02"
+    ]
   },
   {
     "text": "THA",

@@ -4,7 +4,11 @@
     "position": [56, 67],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
   },
   {
     "text": "Ê buốt",
@@ -25,7 +29,7 @@
     "position": [639, 670],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K08.0"]
   },
   {
     "text": "Calcium gluconate 500mg",

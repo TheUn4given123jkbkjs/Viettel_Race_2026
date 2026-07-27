@@ -4,7 +4,7 @@
     "position": [31, 40],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O31.0"]
   },
   {
     "text": "xuất huyết âm đạo",
@@ -32,13 +32,13 @@
     "position": [1223, 1234],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6964", "42331"]
   },
   {
     "text": "Amoxicillin",
     "position": [1398, 1409],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["723", "19711"]
   }
 ]

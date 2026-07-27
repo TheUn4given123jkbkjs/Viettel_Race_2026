@@ -11,14 +11,14 @@
     "position": [805, 848],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I74.3"]
   },
   {
     "text": "Thuyên tắc và huyết khối động mạch chi dưới",
     "position": [805, 848],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["I74.3"]
   },
   {
     "text": "Thuyên tắcc và huyết khối động mạc chi dưới",
@@ -32,20 +32,20 @@
     "position": [2793, 2800],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Acenocoumarol",
     "position": [2885, 2898],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["154"]
   },
   {
     "text": "Heparin",
     "position": [2674, 2681],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["235473"]
   }
 ]

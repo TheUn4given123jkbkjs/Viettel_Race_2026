@@ -4,20 +4,24 @@
     "position": [41, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "D32",
+      "D32.0",
+      "D32.1"
+    ]
   },
   {
     "text": "Acetazolamide",
     "position": [112, 125],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "Dexamethasone",
     "position": [129, 142],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   }
 ]

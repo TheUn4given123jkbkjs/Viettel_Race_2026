@@ -4,7 +4,7 @@
     "position": [89, 139],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["A80.3"]
   },
   {
     "text": "phẫu thuật",
@@ -32,6 +32,10 @@
     "position": [550, 557],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "705030",
+      "834765",
+      "309949"
+    ]
   }
 ]

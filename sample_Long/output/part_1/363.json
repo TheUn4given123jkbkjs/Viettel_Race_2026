@@ -4,34 +4,34 @@
     "position": [451, 508],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["N98.9"]
   },
   {
     "text": "Acetaminophen",
     "position": [339, 352],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Metformin",
     "position": [356, 365],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "Atorvastatin",
     "position": [531, 543],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["83367"]
   },
   {
     "text": "Ibuprofen",
     "position": [547, 556],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   }
 ]

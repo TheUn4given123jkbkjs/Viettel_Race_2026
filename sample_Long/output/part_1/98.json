@@ -4,7 +4,11 @@
     "position": [37, 53],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L23",
+      "L23.0",
+      "L23.1"
+    ]
   },
   {
     "text": "phản ứng viêm",
@@ -18,7 +22,7 @@
     "position": [179, 187],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7299"]
   },
   {
     "text": "ngứa",

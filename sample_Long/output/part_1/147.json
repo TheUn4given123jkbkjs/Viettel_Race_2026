@@ -4,7 +4,11 @@
     "position": [0, 45],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L59.9",
+      "L92.9",
+      "L98.9"
+    ]
   },
   {
     "text": "ngứa",
@@ -32,20 +36,20 @@
     "position": [257, 260],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "Terbinafine",
     "position": [291, 302],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["37801"]
   },
   {
     "text": "Cephalexin",
     "position": [306, 316],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2231"]
   }
 ]

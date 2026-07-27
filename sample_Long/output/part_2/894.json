@@ -4,14 +4,14 @@
     "position": [270, 318],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K73.1"]
   },
   {
     "text": "aspirin",
     "position": [194, 201],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "THA",
@@ -25,13 +25,13 @@
     "position": [570, 581],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "acetaminophen",
     "position": [585, 598],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

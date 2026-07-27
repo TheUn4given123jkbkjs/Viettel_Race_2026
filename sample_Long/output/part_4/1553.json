@@ -4,21 +4,25 @@
     "position": [482, 503],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L40.53",
+      "M07.2*",
+      "M07.20*"
+    ]
   },
   {
     "text": "Ceftriaxone",
     "position": [633, 644],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Diclofenac",
     "position": [666, 676],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   },
   {
     "text": "Viêm da do vảy nến",

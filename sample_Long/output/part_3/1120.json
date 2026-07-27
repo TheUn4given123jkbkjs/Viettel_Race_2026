@@ -4,14 +4,18 @@
     "position": [40, 59],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M05",
+      "M05.3†",
+      "M05.8"
+    ]
   },
   {
     "text": "Methotrexate",
     "position": [146, 158],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6851"]
   },
   {
     "text": "cứng khớp buổi sáng",

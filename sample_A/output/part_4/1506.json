@@ -46,13 +46,17 @@
     "position": [2599, 2611],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "7982",
+      "7980",
+      "7983"
+    ]
   },
   {
     "text": "Ceftriaxone",
     "position": [3012, 3023],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

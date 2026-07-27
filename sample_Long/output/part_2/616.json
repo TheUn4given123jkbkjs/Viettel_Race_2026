@@ -4,7 +4,11 @@
     "position": [185, 195],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
   },
   {
     "text": "tiết sữa tự nhiên từ hai bên vú",
@@ -53,6 +57,6 @@
     "position": [688, 724],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N64.3"]
   }
 ]

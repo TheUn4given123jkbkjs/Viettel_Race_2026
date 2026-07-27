@@ -4,7 +4,7 @@
     "position": [125, 133],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["11289"]
   },
   {
     "text": "Đái tháo đường type 2",
@@ -18,14 +18,22 @@
     "position": [78, 91],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Rung nhĩ",
     "position": [102, 110],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I48",
+      "I48.0",
+      "I48.1"
+    ]
   },
   {
     "text": "Đau bụng cấp vùng thượng vị",
@@ -39,7 +47,7 @@
     "position": [1041, 1057],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K80.0", "K81.0"]
   },
   {
     "text": "WBC",
@@ -60,6 +68,6 @@
     "position": [1273, 1284],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

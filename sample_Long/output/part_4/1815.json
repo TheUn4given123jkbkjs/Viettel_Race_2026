@@ -4,7 +4,11 @@
     "position": [114, 127],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "sốt",
@@ -39,6 +43,6 @@
     "position": [574, 596],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N99.0"]
   }
 ]

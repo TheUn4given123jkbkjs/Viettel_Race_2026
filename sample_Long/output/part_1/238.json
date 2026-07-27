@@ -11,21 +11,21 @@
     "position": [150, 161],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L94.4"]
   },
   {
     "text": "Methotrexate",
     "position": [190, 202],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6851"]
   },
   {
     "text": "Prednisolone",
     "position": [226, 238],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "ho",
@@ -53,6 +53,10 @@
     "position": [351, 368],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "H28.1*",
+      "H28.2*",
+      "H25"
+    ]
   }
 ]

@@ -4,21 +4,29 @@
     "position": [163, 176],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Hydrochlorothiazide",
     "position": [292, 311],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["5487"]
   },
   {
     "text": "đái tháo đường",
     "position": [843, 857],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "buồn nôn",
@@ -46,7 +54,7 @@
     "position": [2692, 2702],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "135/80 mmHg",

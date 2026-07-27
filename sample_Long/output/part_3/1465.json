@@ -4,7 +4,11 @@
     "position": [344, 359],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "chủ quan sốt",
@@ -32,7 +36,7 @@
     "position": [1148, 1155],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Prednisolne",
@@ -46,6 +50,6 @@
     "position": [265, 275],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["17767"]
   }
 ]

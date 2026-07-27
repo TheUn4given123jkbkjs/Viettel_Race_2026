@@ -4,7 +4,7 @@
     "position": [269, 279],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Ung thư biểu mô tế bào vảy",
@@ -46,20 +46,24 @@
     "position": [2438, 2453],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L72.1"]
   },
   {
     "text": "Clindamycin",
     "position": [2671, 2682],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2582"]
   },
   {
     "text": "điều tri",
     "position": [2562, 2570],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E89.6",
+      "E89.8",
+      "E89.9"
+    ]
   }
 ]

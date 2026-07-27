@@ -18,7 +18,7 @@
     "position": [588, 610],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D01.1"]
   },
   {
     "text": "Bệnh khác của ruộtt",
@@ -32,13 +32,13 @@
     "position": [1957, 1965],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17627"]
   },
   {
     "text": "Attapulgite",
     "position": [2204, 2215],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["18516"]
   }
 ]

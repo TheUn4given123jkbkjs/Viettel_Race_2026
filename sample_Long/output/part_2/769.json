@@ -4,7 +4,11 @@
     "position": [475, 485],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K50",
+      "K50.0",
+      "K50.8"
+    ]
   },
   {
     "text": "tiêu chảy",
@@ -18,6 +22,10 @@
     "position": [535, 543],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "D13.39",
+      "D13.30",
+      "E74.3"
+    ]
   }
 ]

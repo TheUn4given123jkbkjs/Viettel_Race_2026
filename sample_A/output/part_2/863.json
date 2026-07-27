@@ -4,7 +4,7 @@
     "position": [897, 919],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F95.0"]
   },
   {
     "text": "nháy mắt liên tục",
@@ -25,20 +25,20 @@
     "position": [1252, 1263],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5093"]
   },
   {
     "text": "Risperidone",
     "position": [1267, 1278],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["35636"]
   },
   {
     "text": "hội chứng Tourette",
     "position": [276, 294],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["F95.2"]
   }
 ]

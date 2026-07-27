@@ -18,7 +18,11 @@
     "position": [250, 258],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I20",
+      "I20.0",
+      "I20.1"
+    ]
   },
   {
     "text": "tiền sử sử dụng chất kích thích",
@@ -32,6 +36,10 @@
     "position": [605, 615],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
   }
 ]

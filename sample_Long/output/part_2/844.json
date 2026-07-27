@@ -4,7 +4,7 @@
     "position": [39, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N18"]
   },
   {
     "text": "gút mãn tính",
@@ -39,20 +39,24 @@
     "position": [1187, 1233],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M90",
+      "M90*",
+      "M90.2*"
+    ]
   },
   {
     "text": "Calcium gluconate",
     "position": [1256, 1273],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1908"]
   },
   {
     "text": "Vitamin A / Vitamin D",
     "position": [1311, 1332],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["97016"]
   }
 ]

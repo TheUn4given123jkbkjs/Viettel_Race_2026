@@ -39,13 +39,17 @@
     "position": [1448, 1500],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P37.9"]
   },
   {
     "text": "Ung thư gan",
     "position": [678, 689],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "C22.0",
+      "C22.1",
+      "C22.3"
+    ]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [49, 99],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["H54"]
   },
   {
     "text": "tiền sử tăng nhãn áp 3 năm",
@@ -46,13 +46,13 @@
     "position": [1018, 1025],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10600"]
   },
   {
     "text": "Vitamin A",
     "position": [1073, 1082],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["11246", "97016"]
   }
 ]

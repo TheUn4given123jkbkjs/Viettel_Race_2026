@@ -4,7 +4,11 @@
     "position": [21, 28],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "B06.02",
+      "B06.81",
+      "B06.82"
+    ]
   },
   {
     "text": "sưng đau khớp cổ tay",
@@ -39,6 +43,6 @@
     "position": [374, 434],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M01.49*"]
   }
 ]

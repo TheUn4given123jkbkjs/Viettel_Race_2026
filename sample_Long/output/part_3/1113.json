@@ -4,7 +4,7 @@
     "position": [150, 163],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6922"]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -18,14 +18,18 @@
     "position": [638, 645],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "viêm dạ dày",
     "position": [340, 351],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K29",
+      "K29.0",
+      "K29.1"
+    ]
   },
   {
     "text": "nội soi dạ dày",

@@ -25,20 +25,24 @@
     "position": [312, 322],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A60.04",
+      "N77.8",
+      "N76.6"
+    ]
   },
   {
     "text": "Acyclovir",
     "position": [350, 359],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "Acetaminophen",
     "position": [369, 382],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

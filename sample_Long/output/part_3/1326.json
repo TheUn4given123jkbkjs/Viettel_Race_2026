@@ -4,21 +4,25 @@
     "position": [116, 130],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M24.2",
+      "M76",
+      "M76.8"
+    ]
   },
   {
     "text": "Acetaminophen",
     "position": [201, 214],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ibuprofen",
     "position": [218, 227],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "tiền sử THA 5 năm",

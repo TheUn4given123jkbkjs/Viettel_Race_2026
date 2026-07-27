@@ -4,7 +4,11 @@
     "position": [457, 479],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "J40",
+      "J41",
+      "J41.0"
+    ]
   },
   {
     "text": "corticosteroid",
@@ -18,7 +22,11 @@
     "position": [559, 577],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "J12",
+      "J12.1",
+      "J12.2"
+    ]
   },
   {
     "text": "creatini",

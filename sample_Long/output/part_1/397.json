@@ -11,34 +11,42 @@
     "position": [177, 184],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [484, 495],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "đau đầu",
     "position": [101, 108],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G44",
+      "G44.0",
+      "G44.2"
+    ]
   },
   {
     "text": "buồn nôn",
     "position": [112, 120],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["R11"]
   },
   {
     "text": "sốt",
     "position": [288, 291],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
   }
 ]

@@ -4,35 +4,35 @@
     "position": [52, 91],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["D63.0", "D63.0*"]
   },
   {
     "text": "Abacavir",
     "position": [752, 760],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Acetaminophen",
     "position": [764, 777],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Albendazole",
     "position": [864, 875],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["430"]
   },
   {
     "text": "Allopurinol",
     "position": [879, 890],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["519"]
   },
   {
     "text": "tiền sử THA 5 năm",

@@ -4,7 +4,7 @@
     "position": [51, 71],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["B60.1"]
   },
   {
     "text": "vi khuẩn Acanthamoeba",
@@ -18,6 +18,6 @@
     "position": [51, 71],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["B60.1"]
   }
 ]

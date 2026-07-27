@@ -11,28 +11,28 @@
     "position": [63, 72],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "Các bệnh lý xác định khác của đường hô hấp trên",
     "position": [128, 175],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J39.8"]
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
     "position": [192, 221],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["19711"]
   },
   {
     "text": "Chlorpheniramine",
     "position": [245, 261],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2400"]
   },
   {
     "text": "Gãy xương đốt ngón chân cái",

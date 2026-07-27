@@ -4,7 +4,7 @@
     "position": [185, 207],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O86.0"]
   },
   {
     "text": "không sốt",
@@ -18,20 +18,20 @@
     "position": [447, 458],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Acetaminophen",
     "position": [464, 477],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Metformin",
     "position": [370, 379],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   }
 ]

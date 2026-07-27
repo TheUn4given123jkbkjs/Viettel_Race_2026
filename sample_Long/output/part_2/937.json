@@ -4,14 +4,18 @@
     "position": [87, 100],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Amlodipine",
     "position": [171, 181],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "hồi hộp",
@@ -46,13 +50,13 @@
     "position": [1013, 1030],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I49.1"]
   },
   {
     "text": "Atenolol",
     "position": [1157, 1165],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1202"]
   }
 ]

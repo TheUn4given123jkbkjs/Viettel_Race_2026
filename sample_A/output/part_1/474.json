@@ -4,20 +4,20 @@
     "position": [242, 265],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["G24.8", "P94.8"]
   },
   {
     "text": "Amlodipine",
     "position": [308, 318],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Prednisolone",
     "position": [330, 342],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   }
 ]

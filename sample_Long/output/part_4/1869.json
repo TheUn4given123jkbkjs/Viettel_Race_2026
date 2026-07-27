@@ -25,14 +25,18 @@
     "position": [197, 205],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
   },
   {
     "text": "Viêm khớp do lao (A18.0†), cánh tay",
     "position": [526, 561],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M01.12*"]
   },
   {
     "text": "hủy hoại khớp",

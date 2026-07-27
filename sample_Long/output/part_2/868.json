@@ -4,27 +4,27 @@
     "position": [0, 29],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L51.0", "L51.1"]
   },
   {
     "text": "Acetaminophen",
     "position": [291, 304],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Hydrocortisone",
     "position": [330, 344],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5492", "27197"]
   },
   {
     "text": "Prednisolone",
     "position": [422, 434],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   }
 ]

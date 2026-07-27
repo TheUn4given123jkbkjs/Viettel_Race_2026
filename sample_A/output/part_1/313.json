@@ -4,14 +4,14 @@
     "position": [642, 652],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3272"]
   },
   {
     "text": "metformin",
     "position": [352, 361],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "hội chứng tiểu đường",
@@ -25,13 +25,17 @@
     "position": [427, 440],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "insulin",
     "position": [788, 795],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["253182", "317235"]
   }
 ]

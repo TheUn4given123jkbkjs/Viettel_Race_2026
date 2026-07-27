@@ -11,7 +11,11 @@
     "position": [512, 531],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M05",
+      "M05.3†",
+      "M05.8"
+    ]
   },
   {
     "text": "đau bụng quặn cơn",
@@ -32,27 +36,31 @@
     "position": [1153, 1205],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M09.1*",
+      "M09.10*",
+      "M09.11*"
+    ]
   },
   {
     "text": "Prednisolone",
     "position": [1226, 1238],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Azathioprine",
     "position": [1278, 1290],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1256"]
   },
   {
     "text": "Aminosalicylic acid",
     "position": [1312, 1331],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7833"]
   }
 ]

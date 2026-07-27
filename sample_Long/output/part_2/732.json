@@ -4,7 +4,11 @@
     "position": [74, 93],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "M05",
+      "M05.3†",
+      "M05.8"
+    ]
   },
   {
     "text": "Hen phế quản",
@@ -53,6 +57,10 @@
     "position": [864, 914],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J99",
+      "J99*",
+      "J99.8*"
+    ]
   }
 ]

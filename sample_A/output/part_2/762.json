@@ -4,7 +4,11 @@
     "position": [10, 32],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "G95",
+      "M51.0†",
+      "M51.1†"
+    ]
   },
   {
     "text": "sốt",
@@ -25,13 +29,13 @@
     "position": [104, 117],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Abacavir",
     "position": [263, 271],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   }
 ]

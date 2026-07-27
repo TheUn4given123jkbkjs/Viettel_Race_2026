@@ -4,62 +4,74 @@
     "position": [67, 96],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A18.84"]
   },
   {
     "text": "Abacavir",
     "position": [467, 475],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Albendazole",
     "position": [608, 619],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["430"]
   },
   {
     "text": "Amoxicillin",
     "position": [685, 696],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["723", "19711"]
   },
   {
     "text": "Clarithromycin",
     "position": [769, 783],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["21212"]
   },
   {
     "text": "Cycloserine",
     "position": [863, 874],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3007"]
   },
   {
     "text": "Ethambutol",
     "position": [940, 950],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "4110"
+    ]
   },
   {
     "text": "Isoniazid",
     "position": [1016, 1025],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
   },
   {
     "text": "Rifampin",
     "position": [1091, 1099],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
   }
 ]

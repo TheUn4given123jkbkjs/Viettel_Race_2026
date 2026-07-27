@@ -4,7 +4,7 @@
     "position": [87, 96],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["632"]
   },
   {
     "text": "Không nôn",
@@ -39,13 +39,17 @@
     "position": [1111, 1127],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K80.0", "K81.0"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [216, 229],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   }
 ]

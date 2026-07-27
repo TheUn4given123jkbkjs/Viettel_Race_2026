@@ -4,27 +4,31 @@
     "position": [864, 877],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ceftriaxone",
     "position": [900, 911],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Abacavir",
     "position": [1483, 1491],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Lamivudine",
     "position": [1517, 1527],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "68244",
+      "2003201",
+      "2003222"
+    ]
   }
 ]

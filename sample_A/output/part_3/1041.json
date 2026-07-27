@@ -4,14 +4,18 @@
     "position": [103, 113],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7880"]
   },
   {
     "text": "túi mật",
     "position": [180, 187],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K87"
+    ]
   },
   {
     "text": "triglyceride",
@@ -25,7 +29,11 @@
     "position": [473, 481],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E20",
+      "E89.0",
+      "E89.2"
+    ]
   },
   {
     "text": "gan",

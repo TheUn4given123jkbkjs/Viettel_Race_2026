@@ -11,7 +11,7 @@
     "position": [280, 287],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["5956"]
   },
   {
     "text": "đái tháo đường týp 2",
@@ -25,7 +25,7 @@
     "position": [933, 948],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K29.0", "K29.1"]
   },
   {
     "text": "Nội soi dạ dày thực quản",

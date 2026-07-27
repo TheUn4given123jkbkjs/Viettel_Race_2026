@@ -4,7 +4,11 @@
     "position": [97, 123],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F31.64",
+      "F31.3",
+      "F31.4"
+    ]
   },
   {
     "text": "hỗn hợp",
@@ -18,6 +22,10 @@
     "position": [7, 15],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F31.75",
+      "F31.76",
+      "F33.40"
+    ]
   }
 ]

@@ -18,7 +18,7 @@
     "position": [446, 458],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["K76.3"]
   },
   {
     "text": "men gan tăng",
@@ -32,13 +32,13 @@
     "position": [702, 709],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["235473"]
   },
   {
     "text": "Warfarin",
     "position": [714, 722],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["11289"]
   }
 ]

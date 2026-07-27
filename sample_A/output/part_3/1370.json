@@ -11,14 +11,18 @@
     "position": [657, 678],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A02",
+      "A02.8",
+      "A02.9"
+    ]
   },
   {
     "text": "aspirin",
     "position": [545, 552],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "thay đổi lối sống",

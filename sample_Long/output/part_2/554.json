@@ -4,21 +4,21 @@
     "position": [2401, 2420],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L88"]
   },
   {
     "text": "Prednisolone",
     "position": [2558, 2570],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Cyclosporine",
     "position": [2693, 2705],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3008"]
   },
   {
     "text": "nhanhchóng",
@@ -53,6 +53,10 @@
     "position": [374, 384],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "K50",
+      "K50.0",
+      "K50.8"
+    ]
   }
 ]

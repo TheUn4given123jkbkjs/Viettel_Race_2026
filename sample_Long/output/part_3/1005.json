@@ -11,14 +11,18 @@
     "position": [158, 175],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D01.0", "D01.1"]
   },
   {
     "text": "Viêm phế quản cấp",
     "position": [390, 407],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J40",
+      "J20",
+      "J20.0"
+    ]
   },
   {
     "text": "ran ẩm",
@@ -46,6 +50,6 @@
     "position": [882, 891],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K64.1"]
   }
 ]

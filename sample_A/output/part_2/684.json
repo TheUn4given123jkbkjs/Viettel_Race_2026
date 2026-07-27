@@ -4,35 +4,35 @@
     "position": [264, 306],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["H57.8", "H58.8*"]
   },
   {
     "text": "Aspirin",
     "position": [321, 328],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Ceftriaxone",
     "position": [352, 363],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Acetaminophen",
     "position": [794, 807],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Atropine",
     "position": [831, 839],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1223"]
   },
   {
     "text": "Bác sĩ",

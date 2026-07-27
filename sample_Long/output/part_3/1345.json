@@ -4,7 +4,11 @@
     "position": [66, 81],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "J30",
+      "J30.1",
+      "J30.2"
+    ]
   },
   {
     "text": "hen phế quản",
@@ -46,7 +50,7 @@
     "position": [1106, 1129],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L50.2"]
   },
   {
     "text": "phù mạch",

@@ -4,7 +4,11 @@
     "position": [56, 90],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F01",
+      "F01.0",
+      "F01.2"
+    ]
   },
   {
     "text": "suy giảm khả năng thực hiện",
@@ -46,13 +50,13 @@
     "position": [2846, 2853],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Atorvastatin",
     "position": [2952, 2964],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["83367"]
   }
 ]

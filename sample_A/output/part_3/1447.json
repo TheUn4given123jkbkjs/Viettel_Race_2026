@@ -4,27 +4,31 @@
     "position": [0, 44],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M01.39*",
+      "M03.29*",
+      "A49.8"
+    ]
   },
   {
     "text": "Abacavir",
     "position": [717, 725],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Amoxicillin",
     "position": [795, 806],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["723", "19711"]
   },
   {
     "text": "Ceftriaxone",
     "position": [886, 897],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

@@ -4,7 +4,11 @@
     "position": [111, 148],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "2388452",
+      "50937",
+      "2368450"
+    ]
   },
   {
     "text": "Sốt cao",
@@ -25,7 +29,11 @@
     "position": [272, 285],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J00",
+      "J02",
+      "J02.8"
+    ]
   },
   {
     "text": "Paracetamoll",

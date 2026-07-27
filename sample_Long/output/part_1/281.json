@@ -4,7 +4,7 @@
     "position": [0, 10],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B17.1", "B18.2"]
   },
   {
     "text": "mệt mỏi",
@@ -32,6 +32,6 @@
     "position": [360, 369],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["9344"]
   }
 ]

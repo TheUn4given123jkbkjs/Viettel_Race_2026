@@ -25,20 +25,24 @@
     "position": [262, 280],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J93.1",
+      "J93.8",
+      "J93.9"
+    ]
   },
   {
     "text": "Oxygen",
     "position": [310, 316],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7806"]
   },
   {
     "text": "Acetaminophen",
     "position": [334, 347],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

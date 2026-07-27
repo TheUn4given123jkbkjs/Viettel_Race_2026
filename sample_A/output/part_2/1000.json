@@ -4,7 +4,7 @@
     "position": [184, 226],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["G99.2*"]
   },
   {
     "text": "troponin",
@@ -18,14 +18,14 @@
     "position": [472, 479],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [483, 494],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "phủ nhận buồn nôn",

@@ -4,21 +4,25 @@
     "position": [230, 237],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "statin",
     "position": [241, 247],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "83367",
+      "34482",
+      "7597"
+    ]
   },
   {
     "text": "ceftriaxone",
     "position": [563, 574],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "10 ng/mL",

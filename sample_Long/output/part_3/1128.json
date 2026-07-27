@@ -11,14 +11,18 @@
     "position": [175, 204],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["91292"]
   },
   {
     "text": "đái tháo đường",
     "position": [329, 343],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "mụn mủ",

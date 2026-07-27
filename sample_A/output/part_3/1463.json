@@ -4,21 +4,21 @@
     "position": [0, 11],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["C10.4"]
   },
   {
     "text": "Prednisolone",
     "position": [706, 718],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Ceftriaxone",
     "position": [797, 808],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Prednisolone 20mg/lần",
@@ -39,7 +39,7 @@
     "position": [797, 808],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Prednisolone 20mg/lần",

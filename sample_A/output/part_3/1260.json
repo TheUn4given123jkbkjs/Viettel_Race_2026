@@ -4,34 +4,34 @@
     "position": [237, 266],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["A36.83"]
   },
   {
     "text": "Prednisolone",
     "position": [293, 305],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Ribavirin",
     "position": [309, 318],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["9344"]
   },
   {
     "text": "Acetaminophen",
     "position": [117, 130],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "ibuprofen",
     "position": [134, 143],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   }
 ]

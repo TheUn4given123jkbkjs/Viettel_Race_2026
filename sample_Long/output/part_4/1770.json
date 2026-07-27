@@ -4,21 +4,21 @@
     "position": [162, 173],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7883"]
   },
   {
     "text": "aspirin",
     "position": [372, 379],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [383, 394],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "tăng huyết áp",
@@ -39,14 +39,22 @@
     "position": [289, 298],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
   },
   {
     "text": "viêm gan",
     "position": [302, 310],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.74",
+      "A54.43",
+      "A18.03"
+    ]
   },
   {
     "text": "troponin",

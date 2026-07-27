@@ -4,14 +4,14 @@
     "position": [83, 93],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3355"]
   },
   {
     "text": "THA",
     "position": [417, 420],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "sốt cao",
@@ -32,7 +32,7 @@
     "position": [847, 861],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J18.1", "B01.2†"]
   },
   {
     "text": "võng mạc tiểu đường",

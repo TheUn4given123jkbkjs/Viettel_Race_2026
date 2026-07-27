@@ -4,7 +4,7 @@
     "position": [46, 58],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["10379"]
   },
   {
     "text": "thiếu hụt hormone nam",
@@ -46,13 +46,17 @@
     "position": [672, 685],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "rối loạn lipid máu",
     "position": [689, 707],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E78"]
   }
 ]

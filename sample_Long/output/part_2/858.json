@@ -39,27 +39,27 @@
     "position": [977, 1030],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O68.3"]
   },
   {
     "text": "Ringer's lactate",
     "position": [1092, 1108],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["35629"]
   },
   {
     "text": "Oxytocin",
     "position": [1132, 1140],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7824"]
   },
   {
     "text": "Ceftriaxone",
     "position": [1221, 1232],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

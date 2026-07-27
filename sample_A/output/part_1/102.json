@@ -4,27 +4,31 @@
     "position": [46, 75],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E25",
+      "E25.0",
+      "E25.8"
+    ]
   },
   {
     "text": "Abacavir",
     "position": [223, 231],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Dexamethasone",
     "position": [262, 275],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "Fluconazole",
     "position": [309, 320],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4450"]
   }
 ]

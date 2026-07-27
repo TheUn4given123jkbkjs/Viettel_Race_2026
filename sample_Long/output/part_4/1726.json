@@ -4,7 +4,7 @@
     "position": [147, 164],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1908"]
   },
   {
     "text": "bệnh thận mãn tính",
@@ -18,7 +18,11 @@
     "position": [64, 80],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
   },
   {
     "text": "bệnh tiểu đường loại 2",

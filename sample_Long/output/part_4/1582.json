@@ -11,14 +11,14 @@
     "position": [704, 711],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4716"]
   },
   {
     "text": "Ceftriaxone",
     "position": [818, 829],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Troponin",
@@ -32,7 +32,7 @@
     "position": [866, 873],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Xét nghiệm máu toàn phần",

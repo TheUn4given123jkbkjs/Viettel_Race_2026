@@ -4,34 +4,34 @@
     "position": [0, 43],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L92.8"]
   },
   {
     "text": "Acetaminophen",
     "position": [667, 680],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ibuprofen",
     "position": [686, 695],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Ciprofloxacin",
     "position": [750, 763],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2551"]
   },
   {
     "text": "Doxycycline",
     "position": [769, 780],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3640"]
   }
 ]

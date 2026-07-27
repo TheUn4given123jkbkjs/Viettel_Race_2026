@@ -4,14 +4,18 @@
     "position": [175, 187],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8702"]
   },
   {
     "text": "Hodgkin không Hodgkin",
     "position": [53, 74],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "B21.2",
+      "C81.9",
+      "C83.0"
+    ]
   },
   {
     "text": "tăng huyết áp",

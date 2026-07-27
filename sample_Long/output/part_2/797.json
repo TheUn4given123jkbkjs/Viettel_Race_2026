@@ -4,14 +4,18 @@
     "position": [290, 340],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M01.41*"]
   },
   {
     "text": "Rubella",
     "position": [91, 98],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "705030",
+      "705031",
+      "9486"
+    ]
   },
   {
     "text": "B06.8†",

@@ -4,7 +4,7 @@
     "position": [888, 897],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "đau bụng dưới",
@@ -25,27 +25,27 @@
     "position": [82, 132],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P96.4"]
   },
   {
     "text": "Mifepristone / Misoprostol",
     "position": [1710, 1736],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6964"]
   },
   {
     "text": "Oxytocin",
     "position": [1844, 1852],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7824"]
   },
   {
     "text": "Acetaminophen",
     "position": [1989, 2002],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

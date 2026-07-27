@@ -4,7 +4,7 @@
     "position": [327, 367],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O22.3"]
   },
   {
     "text": "bệnh tim bẩm sinh",
@@ -18,7 +18,11 @@
     "position": [173, 186],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "đau chân",

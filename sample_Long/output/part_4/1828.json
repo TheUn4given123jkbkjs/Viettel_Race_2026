@@ -4,7 +4,7 @@
     "position": [118, 130],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D02.2"]
   },
   {
     "text": "Khó thở",
@@ -53,6 +53,6 @@
     "position": [1310, 1342],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J70.4", "J84.9"]
   }
 ]

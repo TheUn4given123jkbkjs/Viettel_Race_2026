@@ -32,13 +32,17 @@
     "position": [181, 194],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O11",
+      "O14",
+      "O14.0"
+    ]
   },
   {
     "text": "Magnesium sulfate",
     "position": [294, 311],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6585"]
   }
 ]

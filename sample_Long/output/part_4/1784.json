@@ -4,20 +4,24 @@
     "position": [93, 123],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M07.2*",
+      "M07.20*",
+      "M07.21*"
+    ]
   },
   {
     "text": "Ibuprofen",
     "position": [863, 872],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Prednisolone",
     "position": [910, 922],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   }
 ]

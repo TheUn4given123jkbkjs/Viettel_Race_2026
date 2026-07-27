@@ -4,7 +4,11 @@
     "position": [75, 94],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M23.0",
+      "M23.00",
+      "M23.01"
+    ]
   },
   {
     "text": "không sốt",
@@ -18,7 +22,11 @@
     "position": [845, 859],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M15",
+      "M15.0",
+      "M15.3"
+    ]
   },
   {
     "text": "đau khu trú",
@@ -39,20 +47,20 @@
     "position": [2151, 2164],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Diclofenac",
     "position": [2225, 2235],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   },
   {
     "text": "vết rách sụn chêm",
     "position": [270, 287],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["S83.2"]
   }
 ]

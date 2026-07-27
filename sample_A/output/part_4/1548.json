@@ -25,14 +25,14 @@
     "position": [970, 977],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Bệnh ấu trùng sán lợn ở vị trí khác",
     "position": [2278, 2313],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B69.8"]
   },
   {
     "text": "Albendazle",
@@ -46,6 +46,6 @@
     "position": [2550, 2562],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8628"]
   }
 ]

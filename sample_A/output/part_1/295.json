@@ -4,28 +4,28 @@
     "position": [11, 79],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["F04"]
   },
   {
     "text": "Abacavir",
     "position": [358, 366],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Acetaminophen",
     "position": [403, 416],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Acetate hemodialysis solution",
     "position": [454, 483],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["226504"]
   },
   {
     "text": "bệnh nhân nữ",

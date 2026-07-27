@@ -4,14 +4,18 @@
     "position": [13, 26],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "J31",
+      "J31.1",
+      "J31.2"
+    ]
   },
   {
     "text": "Amoxicillin",
     "position": [38, 49],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["723", "19711"]
   },
   {
     "text": "đau cổ chân",

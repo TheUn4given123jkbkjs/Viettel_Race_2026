@@ -4,35 +4,35 @@
     "position": [289, 328],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["H70", "H70.8"]
   },
   {
     "text": "Aspirin ************",
     "position": [349, 369],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Ceftriaxone ************",
     "position": [385, 409],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Furosemide",
     "position": [425, 435],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4603"]
   },
   {
     "text": "Ibuprofen",
     "position": [451, 460],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Tiền sử THA 5 năm",

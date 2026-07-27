@@ -4,7 +4,7 @@
     "position": [460, 471],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3319"]
   },
   {
     "text": "Troponin",
@@ -18,21 +18,25 @@
     "position": [610, 621],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Aspirin",
     "position": [594, 601],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "bệnh nhân",
     "position": [21, 30],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "A52.15",
+      "A51.46",
+      "Z86.11"
+    ]
   },
   {
     "text": "Echocardiogram",

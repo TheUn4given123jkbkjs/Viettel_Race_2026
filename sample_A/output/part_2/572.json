@@ -4,27 +4,27 @@
     "position": [154, 196],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F42.9"]
   },
   {
     "text": "Acetaminophen",
     "position": [318, 331],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Aspirin",
     "position": [356, 363],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Abacavir",
     "position": [420, 428],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   }
 ]

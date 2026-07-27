@@ -4,28 +4,32 @@
     "position": [95, 110],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2348"]
   },
   {
     "text": "buồn nôn",
     "position": [440, 448],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["R11"]
   },
   {
     "text": "sốt",
     "position": [35, 38],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
   },
   {
     "text": "Amoxicillin",
     "position": [298, 309],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["723", "19711"]
   },
   {
     "text": "Paracetamol",

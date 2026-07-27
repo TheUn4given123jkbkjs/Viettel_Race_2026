@@ -4,7 +4,11 @@
     "position": [2956, 2990],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K21",
+      "K21.0",
+      "K21.9"
+    ]
   },
   {
     "text": "tiền sử THA 5 năm",
@@ -18,7 +22,7 @@
     "position": [520, 545],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D00.1", "D00"]
   },
   {
     "text": "nóng rát sau xương ức",
@@ -53,6 +57,10 @@
     "position": [2096, 2103],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E65",
+      "E66",
+      "E66.0"
+    ]
   }
 ]

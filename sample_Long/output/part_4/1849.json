@@ -25,27 +25,27 @@
     "position": [850, 925],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N08.2*"]
   },
   {
     "text": "Prednisolone",
     "position": [974, 986],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Furosemide",
     "position": [1175, 1185],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4603"]
   },
   {
     "text": "Enalapril",
     "position": [1248, 1257],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3827"]
   }
 ]

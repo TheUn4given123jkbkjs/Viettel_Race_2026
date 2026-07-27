@@ -25,20 +25,24 @@
     "position": [953, 975],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M14.60",
+      "M14.61",
+      "M14.62"
+    ]
   },
   {
     "text": "Amitriptyline",
     "position": [1107, 1120],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["704"]
   },
   {
     "text": "Insulin",
     "position": [1237, 1244],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["253182", "317235"]
   }
 ]

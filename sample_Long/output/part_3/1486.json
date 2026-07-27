@@ -4,14 +4,14 @@
     "position": [136, 145],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7623"]
   },
   {
     "text": "bệnh thận mạn tính",
     "position": [42, 60],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I68.8*"]
   },
   {
     "text": "tiểu đường loại 2",

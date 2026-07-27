@@ -4,27 +4,31 @@
     "position": [0, 38],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "E10.6",
+      "E10.7",
+      "E10.8"
+    ]
   },
   {
     "text": "Insulin",
     "position": [703, 710],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["253182", "317235"]
   },
   {
     "text": "Acetazolamide",
     "position": [826, 839],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "Furosemide",
     "position": [843, 853],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4603"]
   }
 ]

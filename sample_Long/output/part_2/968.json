@@ -4,21 +4,21 @@
     "position": [25, 76],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I41.2*", "I43.0*"]
   },
   {
     "text": "Acetaminophen",
     "position": [142, 155],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ampicillin",
     "position": [159, 169],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["733"]
   },
   {
     "text": "Không sốt",

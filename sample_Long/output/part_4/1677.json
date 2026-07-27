@@ -4,7 +4,11 @@
     "position": [547, 560],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "chủ quan sốt",
@@ -39,20 +43,20 @@
     "position": [3277, 3285],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7597"]
   },
   {
     "text": "Amoxicillin",
     "position": [3427, 3438],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["723", "19711"]
   },
   {
     "text": "Albuterol",
     "position": [360, 369],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["435"]
   }
 ]

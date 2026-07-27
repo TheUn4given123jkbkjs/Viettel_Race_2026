@@ -4,27 +4,27 @@
     "position": [583, 627],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M76.9", "M77.9"]
   },
   {
     "text": "aspirin",
     "position": [672, 679],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "acetaminophen",
     "position": [180, 193],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "ibuprofen",
     "position": [415, 424],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   }
 ]

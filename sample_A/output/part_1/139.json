@@ -4,7 +4,7 @@
     "position": [195, 226],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A52.02"]
   },
   {
     "text": "đau ngực",
@@ -25,7 +25,11 @@
     "position": [72, 85],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "chẩn đoán hình ảnh",

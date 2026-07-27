@@ -4,14 +4,18 @@
     "position": [49, 62],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Rối loạn lipid máu",
     "position": [99, 117],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E78"]
   },
   {
     "text": "Đau khớp gối phải",
@@ -53,6 +57,6 @@
     "position": [1683, 1717],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F41.2"]
   }
 ]

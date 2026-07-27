@@ -4,7 +4,7 @@
     "position": [219, 222],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "sốt",
@@ -25,20 +25,20 @@
     "position": [729, 744],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O62.3"]
   },
   {
     "text": "Oxytocin",
     "position": [827, 835],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7824"]
   },
   {
     "text": "Misoprostol",
     "position": [889, 900],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6964", "42331"]
   }
 ]

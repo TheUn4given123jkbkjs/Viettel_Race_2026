@@ -18,7 +18,11 @@
     "position": [257, 268],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
   },
   {
     "text": "đầy bụng",
@@ -39,13 +43,13 @@
     "position": [1193, 1222],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K82.4"]
   },
   {
     "text": "Atorvastatin",
     "position": [1330, 1342],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["83367"]
   }
 ]

@@ -4,14 +4,18 @@
     "position": [217, 241],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1851"]
   },
   {
     "text": "viêm dạ dày",
     "position": [48, 59],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K29",
+      "K29.0",
+      "K29.1"
+    ]
   },
   {
     "text": "đau bụng",

@@ -4,21 +4,25 @@
     "position": [573, 598],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A22.2"]
   },
   {
     "text": "statin",
     "position": [237, 243],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "83367",
+      "34482",
+      "7597"
+    ]
   },
   {
     "text": "aspirin",
     "position": [247, 254],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "buồn nôn",

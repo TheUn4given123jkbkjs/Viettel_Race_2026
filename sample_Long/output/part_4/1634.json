@@ -4,14 +4,18 @@
     "position": [156, 175],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7833"]
   },
   {
     "text": "nhồi máu cơ tim",
     "position": [256, 271],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -25,7 +29,7 @@
     "position": [557, 564],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ran ẩm",

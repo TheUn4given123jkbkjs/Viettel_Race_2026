@@ -4,35 +4,43 @@
     "position": [481, 492],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A19.8"]
   },
   {
     "text": "Isoniazid",
     "position": [255, 264],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
   },
   {
     "text": "Rifampin",
     "position": [268, 276],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
   },
   {
     "text": "Acetylcysteine",
     "position": [535, 549],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["197"]
   },
   {
     "text": "Amoxicillin",
     "position": [553, 564],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["723", "19711"]
   },
   {
     "text": "phủ nhận buồn nôn",

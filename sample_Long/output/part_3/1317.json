@@ -25,7 +25,7 @@
     "position": [661, 675],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D00"]
   },
   {
     "text": "bụng gồng cứng như gỗ",
@@ -46,6 +46,10 @@
     "position": [1124, 1152],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K26.1",
+      "K26.3",
+      "K27.1"
+    ]
   }
 ]

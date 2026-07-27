@@ -4,7 +4,7 @@
     "position": [1498, 1518],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J35.0"]
   },
   {
     "text": "đau họng",
@@ -53,7 +53,11 @@
     "position": [718, 733],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "J30",
+      "J30.1",
+      "J30.2"
+    ]
   },
   {
     "text": "chưa ghi nhận co giật",

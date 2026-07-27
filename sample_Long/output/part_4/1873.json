@@ -4,7 +4,7 @@
     "position": [287, 313],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D09.3"]
   },
   {
     "text": "khàn tiếng",
@@ -53,6 +53,10 @@
     "position": [1079, 1110],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J38.00",
+      "J38.02",
+      "J38.01"
+    ]
   }
 ]

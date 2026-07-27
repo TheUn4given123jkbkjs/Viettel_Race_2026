@@ -18,7 +18,7 @@
     "position": [354, 366],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D02.2"]
   },
   {
     "text": "thở rít thanh quản",
@@ -46,6 +46,6 @@
     "position": [834, 903],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J05"]
   }
 ]

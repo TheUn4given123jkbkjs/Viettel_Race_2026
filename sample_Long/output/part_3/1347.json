@@ -4,13 +4,17 @@
     "position": [176, 192],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L30",
+      "L27.8",
+      "L24.5"
+    ]
   },
   {
     "text": "Betamethasone",
     "position": [251, 264],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1514"]
   }
 ]

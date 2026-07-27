@@ -4,7 +4,11 @@
     "position": [5, 16],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K29",
+      "K29.0",
+      "K29.1"
+    ]
   },
   {
     "text": "đau bụng",
@@ -25,6 +29,6 @@
     "position": [213, 226],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2551"]
   }
 ]

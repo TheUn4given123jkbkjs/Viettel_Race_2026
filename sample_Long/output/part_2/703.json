@@ -4,7 +4,7 @@
     "position": [0, 35],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P75", "P75*"]
   },
   {
     "text": "tiền sử THA 5 năm",
@@ -25,6 +25,6 @@
     "position": [269, 282],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [25, 109],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F31.1", "F31.2"]
   },
   {
     "text": "buồn nôn",
@@ -32,13 +32,17 @@
     "position": [172, 185],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2002"]
   },
   {
     "text": "Rối loạn cảm xúc lưỡng cực",
     "position": [25, 51],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "F31.64",
+      "F31.3",
+      "F31.4"
+    ]
   }
 ]

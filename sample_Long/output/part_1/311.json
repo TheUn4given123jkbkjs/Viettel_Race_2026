@@ -11,27 +11,31 @@
     "position": [319, 335],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I13",
+      "I13.0",
+      "I13.1"
+    ]
   },
   {
     "text": "Amlodipine",
     "position": [703, 713],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Enalapril",
     "position": [719, 728],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3827"]
   },
   {
     "text": "Acetazolamide",
     "position": [612, 625],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["167"]
   }
 ]

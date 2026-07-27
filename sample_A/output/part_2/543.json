@@ -11,7 +11,7 @@
     "position": [118, 128],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "buồn bã",
@@ -39,20 +39,20 @@
     "position": [1390, 1412],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F32.1", "F33.1"]
   },
   {
     "text": "Fluoxetine",
     "position": [1463, 1473],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4493"]
   },
   {
     "text": "Amitriptyline",
     "position": [1501, 1514],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["704"]
   }
 ]

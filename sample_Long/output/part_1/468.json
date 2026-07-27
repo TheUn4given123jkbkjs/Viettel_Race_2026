@@ -4,7 +4,7 @@
     "position": [224, 240],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O43.1"]
   },
   {
     "text": "triệu chưngs",
@@ -53,6 +53,10 @@
     "position": [2634, 2645],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "P03.4",
+      "O75.7",
+      "O82"
+    ]
   }
 ]

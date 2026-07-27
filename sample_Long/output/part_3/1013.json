@@ -4,14 +4,18 @@
     "position": [173, 182],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "ung thư vú",
     "position": [223, 233],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
   },
   {
     "text": "buồn nôn",
@@ -46,6 +50,6 @@
     "position": [765, 776],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

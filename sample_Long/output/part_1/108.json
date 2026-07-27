@@ -4,7 +4,7 @@
     "position": [150, 160],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["10391"]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -25,7 +25,11 @@
     "position": [250, 260],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J01.00",
+      "J01.01",
+      "J01.11"
+    ]
   },
   {
     "text": "************",

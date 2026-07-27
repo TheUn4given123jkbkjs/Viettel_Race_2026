@@ -4,28 +4,32 @@
     "position": [129, 145],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.2",
+      "I70",
+      "I70.0"
+    ]
   },
   {
     "text": "aspirin",
     "position": [171, 178],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "atorvastatin",
     "position": [182, 194],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["83367"]
   },
   {
     "text": "ceftriaxone",
     "position": [415, 426],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "tăng huyết áp",

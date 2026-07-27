@@ -4,20 +4,24 @@
     "position": [44, 79],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "F13.21",
+      "F13.22",
+      "F13.23"
+    ]
   },
   {
     "text": "Acetaminophen",
     "position": [408, 421],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Clomipramine",
     "position": [425, 437],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2597"]
   }
 ]

@@ -4,27 +4,27 @@
     "position": [0, 35],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L23.0"]
   },
   {
     "text": "Hydrocortisone",
     "position": [329, 343],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5492", "27197"]
   },
   {
     "text": "Acetaminophen",
     "position": [363, 376],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ibuprofen",
     "position": [382, 391],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   }
 ]

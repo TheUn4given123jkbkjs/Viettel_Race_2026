@@ -18,14 +18,18 @@
     "position": [816, 844],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M02.8"]
   },
   {
     "text": "loét dạ dày tá tràng",
     "position": [907, 927],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K27",
+      "K27.0",
+      "K27.1"
+    ]
   },
   {
     "text": "Diclofenac 75mg",

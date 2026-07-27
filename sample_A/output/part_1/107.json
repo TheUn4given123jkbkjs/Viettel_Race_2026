@@ -4,21 +4,29 @@
     "position": [741, 830],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F18.4"]
   },
   {
     "text": "dung môi dễ bay hơi",
     "position": [60, 79],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F18",
+      "F18.0",
+      "F18.1"
+    ]
   },
   {
     "text": "Trạng thái cai với mê sảng",
     "position": [802, 829],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F12.4",
+      "F13.4",
+      "F15.4"
+    ]
   },
   {
     "text": "lo âu",

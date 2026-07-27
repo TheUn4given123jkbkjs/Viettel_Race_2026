@@ -4,7 +4,11 @@
     "position": [74, 84],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "K50",
+      "K50.0",
+      "K50.8"
+    ]
   },
   {
     "text": "đau sưng nhiều ở vùng cẳng chân hai bên",
@@ -39,6 +43,6 @@
     "position": [439, 509],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M09.16*"]
   }
 ]

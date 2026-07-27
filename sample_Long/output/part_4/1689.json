@@ -4,14 +4,18 @@
     "position": [378, 388],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "loãng xương",
     "position": [308, 319],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
   },
   {
     "text": "không sốt",
@@ -39,27 +43,27 @@
     "position": [1161, 1210],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M80.0"]
   },
   {
     "text": "Calcium gluconate",
     "position": [1239, 1256],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1908"]
   },
   {
     "text": "Vitamin A / Vitamin D",
     "position": [1301, 1322],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["97016"]
   },
   {
     "text": "Meloxicam",
     "position": [1349, 1358],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["41493"]
   }
 ]

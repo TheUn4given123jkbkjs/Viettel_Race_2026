@@ -4,14 +4,18 @@
     "position": [61, 117],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O98.0"]
   },
   {
     "text": "Isoniazid",
     "position": [155, 164],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
   },
   {
     "text": "tiền sử THA 5 năm",

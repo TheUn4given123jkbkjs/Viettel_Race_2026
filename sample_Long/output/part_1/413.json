@@ -4,7 +4,11 @@
     "position": [167, 177],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "4110"
+    ]
   },
   {
     "text": "ĐTĐ tuýp 2",
@@ -39,14 +43,14 @@
     "position": [831, 846],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K29.0", "K29.1"]
   },
   {
     "text": "Omeprazole",
     "position": [871, 881],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7646"]
   },
   {
     "text": "Paracetamol",

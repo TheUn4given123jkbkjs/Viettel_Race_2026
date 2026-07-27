@@ -4,14 +4,14 @@
     "position": [43, 64],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M32.0"]
   },
   {
     "text": "Hydralazine",
     "position": [490, 501],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["5470"]
   },
   {
     "text": "đau khớp",

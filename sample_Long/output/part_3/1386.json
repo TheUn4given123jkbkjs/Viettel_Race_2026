@@ -4,21 +4,21 @@
     "position": [176, 184],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Prednisolone",
     "position": [422, 434],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Metronidazole",
     "position": [443, 456],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6922"]
   },
   {
     "text": "THA",
@@ -32,13 +32,17 @@
     "position": [672, 682],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "18346",
+      "711398",
+      "1429947"
+    ]
   },
   {
     "text": "Mefloquine",
     "position": [686, 696],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1429947", "6694"]
   }
 ]

@@ -4,7 +4,11 @@
     "position": [130, 143],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "bệnh thận mạn giai đoạn 3",
@@ -32,7 +36,7 @@
     "position": [1163, 1178],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["9863"]
   },
   {
     "text": "Creatinine",
@@ -53,6 +57,6 @@
     "position": [602, 619],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["N18"]
   }
 ]

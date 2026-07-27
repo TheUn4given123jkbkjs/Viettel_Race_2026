@@ -4,27 +4,27 @@
     "position": [18, 24],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["G24.3", "M43.6"]
   },
   {
     "text": "Acetaminophen",
     "position": [508, 521],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Acetylcysteine",
     "position": [547, 561],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["197"]
   },
   {
     "text": "Activated charcoal",
     "position": [587, 605],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["272"]
   }
 ]

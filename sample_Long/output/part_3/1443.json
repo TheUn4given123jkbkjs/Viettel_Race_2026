@@ -32,20 +32,24 @@
     "position": [2434, 2447],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A18.03",
+      "M87",
+      "M87.0"
+    ]
   },
   {
     "text": "Ibuprofen",
     "position": [2651, 2660],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Calcium gluconate",
     "position": [2789, 2806],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1908"]
   }
 ]

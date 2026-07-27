@@ -4,14 +4,18 @@
     "position": [10, 33],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1429947"]
   },
   {
     "text": "sốt rét",
     "position": [59, 66],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Z86.13",
+      "T37.2",
+      "Y41.2"
+    ]
   },
   {
     "text": "bác sĩ",
@@ -25,6 +29,6 @@
     "position": [173, 183],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["Y63"]
   }
 ]

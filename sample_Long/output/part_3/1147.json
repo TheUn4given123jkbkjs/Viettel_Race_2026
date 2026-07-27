@@ -4,7 +4,7 @@
     "position": [57, 92],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M49.00*"]
   },
   {
     "text": "đau lưng",
@@ -46,6 +46,10 @@
     "position": [1578, 1586],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
   }
 ]

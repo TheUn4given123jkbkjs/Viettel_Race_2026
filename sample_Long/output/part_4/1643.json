@@ -4,7 +4,11 @@
     "position": [248, 255],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I11.0",
+      "I11.9",
+      "I13.0"
+    ]
   },
   {
     "text": "mệt mỏiq",
@@ -32,13 +36,17 @@
     "position": [1150, 1199],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I98.1*",
+      "I32",
+      "I32*"
+    ]
   },
   {
     "text": "Propylthiouracil",
     "position": [1284, 1300],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8794"]
   }
 ]

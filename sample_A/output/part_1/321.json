@@ -4,14 +4,14 @@
     "position": [314, 328],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["E67.0"]
   },
   {
     "text": "Vitamin A",
     "position": [389, 398],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["11246", "97016"]
   },
   {
     "text": "buồn nôn",

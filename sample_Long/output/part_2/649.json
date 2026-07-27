@@ -4,7 +4,7 @@
     "position": [0, 51],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J99.1*"]
   },
   {
     "text": "khó thở",
@@ -25,13 +25,13 @@
     "position": [284, 297],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Azithromycin",
     "position": [303, 315],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["18631"]
   }
 ]

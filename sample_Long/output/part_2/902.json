@@ -18,7 +18,7 @@
     "position": [434, 468],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["J84.0"]
   },
   {
     "text": "rale nổ",
@@ -32,20 +32,20 @@
     "position": [837, 849],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Azathioprine",
     "position": [905, 917],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1256"]
   },
   {
     "text": "Bệnh lý phế nang và thành phế nang",
     "position": [434, 468],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J84.0"]
   }
 ]

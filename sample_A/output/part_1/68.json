@@ -4,21 +4,21 @@
     "position": [38, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A27", "A27.0"]
   },
   {
     "text": "ACETAMINOPHEN",
     "position": [91, 104],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "FLUCYTOSINE",
     "position": [116, 127],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4451"]
   },
   {
     "text": "BỆNH_VIÊN_ĐIỂM_ĐƠN",

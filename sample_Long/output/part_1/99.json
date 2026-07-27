@@ -32,20 +32,24 @@
     "position": [1285, 1297],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I27.1",
+      "M41",
+      "M41.0"
+    ]
   },
   {
     "text": "Acetaminophen",
     "position": [2662, 2675],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Calcium gluconate",
     "position": [3103, 3120],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1908"]
   }
 ]

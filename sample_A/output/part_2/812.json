@@ -4,27 +4,27 @@
     "position": [0, 113],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["F19.97"]
   },
   {
     "text": "Abacavir",
     "position": [617, 625],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Acetaminophen",
     "position": [642, 655],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Activated charcoal",
     "position": [672, 690],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["272"]
   }
 ]

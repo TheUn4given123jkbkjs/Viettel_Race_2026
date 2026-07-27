@@ -4,14 +4,18 @@
     "position": [858, 904],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["G09"]
   },
   {
     "text": "Bệnh tim mạch",
     "position": [156, 169],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "Bệnh tiểu đường",

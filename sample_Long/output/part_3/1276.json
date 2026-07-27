@@ -4,28 +4,40 @@
     "position": [40, 58],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A41.0",
+      "A41.1",
+      "A41.2"
+    ]
   },
   {
     "text": "nhiễm khuẩn huyết",
     "position": [335, 352],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O88.3",
+      "A39.2",
+      "A39.3"
+    ]
   },
   {
     "text": "Cloxacillin",
     "position": [749, 760],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2625"]
   },
   {
     "text": "viêm da mủ",
     "position": [790, 800],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L08.0",
+      "L13.1",
+      "L88"
+    ]
   },
   {
     "text": "tấy đỏ",

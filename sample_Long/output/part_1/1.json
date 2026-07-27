@@ -18,7 +18,7 @@
     "position": [373, 376],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "rong kinh",
@@ -32,14 +32,14 @@
     "position": [498, 524],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N92.5"]
   },
   {
     "text": "Ethinylestradiol / Levonorgestrel",
     "position": [559, 592],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["214558"]
   },
   {
     "text": "ran ẩm",

@@ -4,21 +4,21 @@
     "position": [31, 55],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L98.5"]
   },
   {
     "text": "Acetaminophen",
     "position": [111, 124],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Diclofenac",
     "position": [128, 138],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   },
   {
     "text": "sưng và đau",
@@ -39,20 +39,24 @@
     "position": [311, 319],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "A36.81",
+      "E74.00"
+    ]
   },
   {
     "text": "Acetazolamide",
     "position": [451, 464],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "Acetylcysteine",
     "position": [468, 482],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["197"]
   }
 ]

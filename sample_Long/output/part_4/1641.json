@@ -4,14 +4,18 @@
     "position": [82, 95],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "bệnh tim mạn tính",
     "position": [135, 152],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["B57.2"]
   },
   {
     "text": "đau ngực kiểu màng phổi",
@@ -53,6 +57,10 @@
     "position": [357, 381],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I31",
+      "I31.8",
+      "I32"
+    ]
   }
 ]

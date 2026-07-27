@@ -4,7 +4,11 @@
     "position": [57, 85],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J44",
+      "J44.0",
+      "J44.1"
+    ]
   },
   {
     "text": "khó thở",
@@ -18,7 +22,7 @@
     "position": [652, 658],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7806"]
   },
   {
     "text": "phủ nhận buồn nôn",

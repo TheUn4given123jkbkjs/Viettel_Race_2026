@@ -4,7 +4,11 @@
     "position": [35, 48],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K71.6",
+      "K71.8",
+      "M67"
+    ]
   },
   {
     "text": "nhiễm mỡõ",
@@ -18,7 +22,11 @@
     "position": [35, 48],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "K71.6",
+      "K71.8",
+      "M67"
+    ]
   },
   {
     "text": "mệt mỏi",
@@ -39,13 +47,13 @@
     "position": [1036, 1050],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["197"]
   },
   {
     "text": "Methionine",
     "position": [1131, 1141],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6837"]
   }
 ]

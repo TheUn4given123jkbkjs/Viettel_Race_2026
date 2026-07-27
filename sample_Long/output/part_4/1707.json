@@ -4,14 +4,14 @@
     "position": [234, 255],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J45.0"]
   },
   {
     "text": "THA",
     "position": [311, 314],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "cắt bỏ túi mật",

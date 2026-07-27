@@ -4,7 +4,7 @@
     "position": [5, 14],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "ho",
@@ -46,6 +46,6 @@
     "position": [728, 737],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2101271"]
   }
 ]

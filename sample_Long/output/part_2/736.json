@@ -4,14 +4,22 @@
     "position": [106, 119],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "nhồi máu cơ tim",
     "position": [325, 340],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "khó thở khi gắng sức",
@@ -32,20 +40,20 @@
     "position": [1149, 1185],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I06.9", "I35"]
   },
   {
     "text": "Furosemide",
     "position": [1426, 1436],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4603"]
   },
   {
     "text": "Digoxin",
     "position": [1510, 1517],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3407"]
   }
 ]

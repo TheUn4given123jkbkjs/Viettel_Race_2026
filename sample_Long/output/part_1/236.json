@@ -32,13 +32,17 @@
     "position": [435, 449],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "Sâu răng, không đặc hiệu",
     "position": [810, 834],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K02.9"]
   }
 ]

@@ -4,7 +4,11 @@
     "position": [21, 35],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "Đau âm ỉ thượng vị",
@@ -32,20 +36,20 @@
     "position": [186, 207],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K86.1"]
   },
   {
     "text": "Pancreatin",
     "position": [219, 229],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7880"]
   },
   {
     "text": "Omeprazole",
     "position": [231, 241],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7646"]
   }
 ]

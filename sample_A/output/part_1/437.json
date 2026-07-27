@@ -4,7 +4,7 @@
     "position": [0, 26],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["H02.9", "H21.9"]
   },
   {
     "text": "phẫu thuật",
@@ -18,7 +18,11 @@
     "position": [828, 838],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
   },
   {
     "text": "phẫu thuật",

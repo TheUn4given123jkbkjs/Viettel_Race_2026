@@ -4,7 +4,7 @@
     "position": [166, 179],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2551"]
   },
   {
     "text": "viêm màng não",
@@ -25,13 +25,21 @@
     "position": [488, 498],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "7982",
+      "7980",
+      "7983"
+    ]
   },
   {
     "text": "viêm phổi",
     "position": [217, 226],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
   }
 ]

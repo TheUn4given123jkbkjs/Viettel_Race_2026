@@ -4,7 +4,11 @@
     "position": [61, 80],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M05",
+      "M05.3†",
+      "M05.8"
+    ]
   },
   {
     "text": "Đau nhức vùng cổ tay và bàn ngón tay",
@@ -25,7 +29,7 @@
     "position": [693, 745],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M70.0"]
   },
   {
     "text": "Meloxicam 15mg",

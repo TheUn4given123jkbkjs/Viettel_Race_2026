@@ -39,20 +39,20 @@
     "position": [2211, 2293],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P02.9"]
   },
   {
     "text": "Ampicillin",
     "position": [2525, 2535],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["733"]
   },
   {
     "text": "Gentamicin",
     "position": [2577, 2587],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1596450"]
   }
 ]

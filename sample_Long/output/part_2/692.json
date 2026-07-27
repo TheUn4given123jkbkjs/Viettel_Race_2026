@@ -4,7 +4,7 @@
     "position": [106, 155],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P70.0", "P70.1"]
   },
   {
     "text": "bệnh đái tháo đường",
@@ -18,7 +18,7 @@
     "position": [371, 378],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["253182", "317235"]
   },
   {
     "text": "troponin",

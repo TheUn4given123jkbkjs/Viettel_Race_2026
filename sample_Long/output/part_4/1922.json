@@ -4,7 +4,7 @@
     "position": [100, 108],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["11289"]
   },
   {
     "text": "tăng huyết áp",
@@ -25,14 +25,14 @@
     "position": [356, 367],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "aspirin",
     "position": [371, 378],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "nhiễm trùng đường tiết niệu",

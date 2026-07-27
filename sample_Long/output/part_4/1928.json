@@ -11,7 +11,11 @@
     "position": [192, 211],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M05",
+      "M05.3†",
+      "M05.8"
+    ]
   },
   {
     "text": "sưng đau các khớp ngón xa",
@@ -46,6 +50,6 @@
     "position": [1080, 1146],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M07.08*"]
   }
 ]

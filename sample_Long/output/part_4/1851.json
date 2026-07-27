@@ -4,7 +4,7 @@
     "position": [53, 62],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["10324"]
   },
   {
     "text": "đau đầu",
@@ -32,13 +32,21 @@
     "position": [302, 315],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "tiểu đường",
     "position": [319, 329],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   }
 ]

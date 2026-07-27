@@ -4,14 +4,14 @@
     "position": [1029, 1034],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I61.0", "I61.1"]
   },
   {
     "text": "Các thủ thuật hủy thai",
     "position": [1202, 1224],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O83.4"]
   },
   {
     "text": "ra máu âm đạo",
@@ -32,27 +32,27 @@
     "position": [1830, 1856],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6964"]
   },
   {
     "text": "Misoprostol",
     "position": [1845, 1856],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6964", "42331"]
   },
   {
     "text": "Acetaminophen",
     "position": [2770, 2783],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Oxytocin",
     "position": [2989, 2997],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7824"]
   }
 ]

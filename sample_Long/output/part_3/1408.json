@@ -4,14 +4,22 @@
     "position": [30, 43],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "bệnh đái tháo đường",
     "position": [200, 219],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "Sưng nóng đỏ đau khớp bàn ngón I chân trái và khớp cổ chân trái",
@@ -32,7 +40,7 @@
     "position": [1592, 1629],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M10.3"]
   },
   {
     "text": "Colchicine 1mg: 1 viên/ngày, uống sau ăn sáng",

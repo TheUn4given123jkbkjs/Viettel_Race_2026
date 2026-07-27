@@ -4,7 +4,7 @@
     "position": [50, 66],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["A06.1"]
   },
   {
     "text": "bệnh lý phụ khoa",
@@ -25,20 +25,20 @@
     "position": [1822, 1844],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N91.3"]
   },
   {
     "text": "Ethinylestradiol / Levonorgestrel",
     "position": [1961, 1994],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["214558"]
   },
   {
     "text": "Medroxyprogesterone",
     "position": [2071, 2090],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2647996", "6691"]
   }
 ]

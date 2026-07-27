@@ -11,7 +11,11 @@
     "position": [571, 585],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L20",
+      "L20.8",
+      "L20.9"
+    ]
   },
   {
     "text": "ban đỏ",
@@ -32,20 +36,24 @@
     "position": [1356, 1363],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L56.3",
+      "L50",
+      "L50.0"
+    ]
   },
   {
     "text": "Alimemazine",
     "position": [1406, 1417],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10825"]
   },
   {
     "text": "Chlorpheniramine",
     "position": [1500, 1516],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2400"]
   }
 ]

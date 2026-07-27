@@ -4,21 +4,21 @@
     "position": [0, 60],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["G54.4"]
   },
   {
     "text": "Acetaminophen",
     "position": [321, 334],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Aspirin",
     "position": [338, 345],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "MRI",

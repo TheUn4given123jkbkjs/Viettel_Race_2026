@@ -4,14 +4,14 @@
     "position": [122, 125],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "Sỏi túi mật có viêm túi mật khác",
     "position": [198, 230],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K80.1"]
   },
   {
     "text": "cao huyết áp",

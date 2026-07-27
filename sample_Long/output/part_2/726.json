@@ -4,7 +4,11 @@
     "position": [362, 375],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M23.2",
+      "M23.20",
+      "M23.21"
+    ]
   },
   {
     "text": "đau âm ỉ vùng khớp gối",
@@ -39,20 +43,20 @@
     "position": [2068, 2109],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M23.10"]
   },
   {
     "text": "Diclofenac",
     "position": [2890, 2900],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   },
   {
     "text": "Acetaminophen",
     "position": [3052, 3065],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

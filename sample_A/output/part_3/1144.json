@@ -4,7 +4,7 @@
     "position": [268, 279],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["5093"]
   },
   {
     "text": "cao huyết áp",
@@ -25,13 +25,21 @@
     "position": [650, 664],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G22",
+      "G22*",
+      "G21.4"
+    ]
   },
   {
     "text": "bệnh Alzheimer",
     "position": [668, 682],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G30",
+      "G30.0",
+      "G30.1"
+    ]
   }
 ]

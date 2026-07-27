@@ -25,20 +25,24 @@
     "position": [159, 170],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "K29",
+      "K29.0",
+      "K29.1"
+    ]
   },
   {
     "text": "Bệnh tăng sinh miễn dịch ác tính khác",
     "position": [706, 743],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["C88.7"]
   },
   {
     "text": "ung thư đại trực tràng",
     "position": [264, 286],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D01.1"]
   }
 ]

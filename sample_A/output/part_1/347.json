@@ -4,14 +4,18 @@
     "position": [67, 79],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2346"]
   },
   {
     "text": "bạch cầu",
     "position": [174, 182],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L98.2",
+      "L98.3",
+      "Z80.6"
+    ]
   },
   {
     "text": "lymphoma",
@@ -25,7 +29,11 @@
     "position": [169, 182],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L98.2",
+      "Z80.6",
+      "I42.3"
+    ]
   },
   {
     "text": "bệnh lymphoma",
@@ -46,13 +54,21 @@
     "position": [149, 156],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M36.1*",
+      "M36.10*",
+      "M36.11*"
+    ]
   },
   {
     "text": "tác dụng phụ",
     "position": [251, 263],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Y88.2",
+      "T88.6",
+      "T88.7"
+    ]
   }
 ]

@@ -4,14 +4,18 @@
     "position": [71, 93],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4461"]
   },
   {
     "text": "bệnh vảy nến",
     "position": [107, 119],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L40.51",
+      "L40.54",
+      "L40.59"
+    ]
   },
   {
     "text": "dị ứng",
@@ -25,13 +29,17 @@
     "position": [724, 733],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "tiểu đường",
     "position": [752, 762],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   }
 ]

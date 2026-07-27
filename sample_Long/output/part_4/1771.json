@@ -4,21 +4,25 @@
     "position": [25, 34],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L10",
+      "L10.0",
+      "L10.1"
+    ]
   },
   {
     "text": "Acarbose",
     "position": [113, 121],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["16681"]
   },
   {
     "text": "Acenocoumarol",
     "position": [125, 138],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["154"]
   },
   {
     "text": "tự miễn",

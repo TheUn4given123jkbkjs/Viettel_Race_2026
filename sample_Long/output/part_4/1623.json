@@ -4,7 +4,7 @@
     "position": [250, 264],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D00"]
   },
   {
     "text": "nuốt khó",
@@ -46,6 +46,6 @@
     "position": [1344, 1370],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K23.0*"]
   }
 ]

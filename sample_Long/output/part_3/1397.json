@@ -4,20 +4,28 @@
     "position": [78, 90],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2346"]
   },
   {
     "text": "sốt",
     "position": [25, 28],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
   },
   {
     "text": "đau đầu",
     "position": [48, 55],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "G44",
+      "G44.0",
+      "G44.2"
+    ]
   }
 ]

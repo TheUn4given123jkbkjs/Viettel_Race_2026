@@ -4,21 +4,21 @@
     "position": [0, 51],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["M05.1†"]
   },
   {
     "text": "Clarithromycin",
     "position": [267, 281],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["21212"]
   },
   {
     "text": "Acetaminophen",
     "position": [303, 316],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "THA",

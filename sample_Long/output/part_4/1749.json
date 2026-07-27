@@ -4,7 +4,7 @@
     "position": [377, 455],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2368450"]
   },
   {
     "text": "không sốt",
@@ -25,7 +25,11 @@
     "position": [527, 537],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "B16",
+      "B16.0",
+      "B16.1"
+    ]
   },
   {
     "text": "mệt mỏi",

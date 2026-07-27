@@ -4,14 +4,14 @@
     "position": [65, 97],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I87.2"]
   },
   {
     "text": "suy tĩnh mạch (mạn) (ngoại biên)",
     "position": [588, 620],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I87.2"]
   },
   {
     "text": "sốt",
@@ -25,7 +25,7 @@
     "position": [725, 749],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["O87.3"]
   },
   {
     "text": "Diosmin 500mg",

@@ -4,21 +4,21 @@
     "position": [0, 50],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["C34.8"]
   },
   {
     "text": "Acetazolamide",
     "position": [1073, 1086],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "Prednisolone",
     "position": [1090, 1102],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "phế quản",

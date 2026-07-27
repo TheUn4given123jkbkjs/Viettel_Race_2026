@@ -4,7 +4,7 @@
     "position": [104, 116],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["39954"]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -18,13 +18,13 @@
     "position": [176, 183],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [187, 198],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

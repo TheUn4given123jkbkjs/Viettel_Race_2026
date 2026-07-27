@@ -4,27 +4,27 @@
     "position": [48, 85],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M20.3"]
   },
   {
     "text": "Ibuprofen",
     "position": [263, 272],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Acetaminophen",
     "position": [278, 291],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Allopurinol",
     "position": [357, 368],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["519"]
   }
 ]

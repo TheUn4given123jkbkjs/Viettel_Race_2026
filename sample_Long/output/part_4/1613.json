@@ -4,7 +4,7 @@
     "position": [184, 193],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2101271"]
   },
   {
     "text": "đau vùng thượng vị",
@@ -32,7 +32,11 @@
     "position": [1126, 1153],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K21",
+      "K21.0",
+      "K21.9"
+    ]
   },
   {
     "text": "Nội soi dạ dày thực quản",

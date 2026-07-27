@@ -4,21 +4,29 @@
     "position": [79, 87],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I48",
+      "I48.0",
+      "I48.1"
+    ]
   },
   {
     "text": "Amiodarone",
     "position": [203, 213],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["703"]
   },
   {
     "text": "tăng huyết áp",
     "position": [282, 295],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "khó thở",
@@ -46,6 +54,6 @@
     "position": [1360, 1372],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B22.1"]
   }
 ]

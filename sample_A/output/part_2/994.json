@@ -4,28 +4,32 @@
     "position": [128, 149],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["89886"]
   },
   {
     "text": "aspirin",
     "position": [410, 417],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [494, 505],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "sốt xuất huyết",
     "position": [204, 218],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A91",
+      "A96",
+      "A96.0"
+    ]
   },
   {
     "text": "troponin",

@@ -4,42 +4,42 @@
     "position": [22, 63],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["C11.8"]
   },
   {
     "text": "Acetaminophen",
     "position": [419, 432],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Omeprazole",
     "position": [486, 496],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7646"]
   },
   {
     "text": "Metformin",
     "position": [713, 722],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "Amlodipine",
     "position": [767, 777],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Albuterol",
     "position": [851, 860],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["435"]
   },
   {
     "text": "Fluticasone",

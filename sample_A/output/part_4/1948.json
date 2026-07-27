@@ -4,14 +4,18 @@
     "position": [228, 256],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "H65.9",
+      "H66",
+      "H66.4"
+    ]
   },
   {
     "text": "aspirin",
     "position": [506, 513],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "buồn nôn",

@@ -11,7 +11,7 @@
     "position": [679, 692],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily", "isNegated"],
-    "candidates": []
+    "candidates": ["E88.09", "G71.0"]
   },
   {
     "text": "yếu cơ",
@@ -53,6 +53,6 @@
     "position": [2442, 2474],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["G70.1"]
   }
 ]

@@ -4,21 +4,25 @@
     "position": [92, 109],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N18"]
   },
   {
     "text": "Imipenem / Cilastatin",
     "position": [206, 227],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["34482"]
   },
   {
     "text": "nhồi máu cơ tim",
     "position": [346, 361],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "buồn nôn",
@@ -39,13 +43,13 @@
     "position": [812, 819],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [970, 981],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

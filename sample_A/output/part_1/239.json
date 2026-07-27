@@ -4,7 +4,7 @@
     "position": [33, 44],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M10.1"]
   },
   {
     "text": "đau bụng",
@@ -25,7 +25,7 @@
     "position": [808, 832],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1903"]
   },
   {
     "text": "sốt",

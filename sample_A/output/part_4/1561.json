@@ -4,7 +4,7 @@
     "position": [73, 81],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7824"]
   },
   {
     "text": "loãng xương",
@@ -18,20 +18,28 @@
     "position": [197, 204],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G44",
+      "G44.0",
+      "G44.2"
+    ]
   },
   {
     "text": "buồn nôn",
     "position": [208, 216],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["R11"]
   },
   {
     "text": "Bệnh nhân",
     "position": [0, 9],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.15",
+      "A51.46",
+      "Z86.11"
+    ]
   }
 ]

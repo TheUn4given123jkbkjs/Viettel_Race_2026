@@ -4,7 +4,11 @@
     "position": [269, 279],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "D47",
+      "D47.7",
+      "D47.9"
+    ]
   },
   {
     "text": "Tuyến giáp",
@@ -18,13 +22,13 @@
     "position": [187, 194],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Ceftriaxone",
     "position": [220, 231],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

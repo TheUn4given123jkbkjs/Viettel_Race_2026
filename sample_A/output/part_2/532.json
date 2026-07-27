@@ -11,7 +11,11 @@
     "position": [341, 356],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "Soi đáy mắt",
@@ -39,14 +43,18 @@
     "position": [1715, 1747],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["H34.1"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [126, 139],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Đái tháo đường tuýp 2",

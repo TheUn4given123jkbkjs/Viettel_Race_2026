@@ -4,28 +4,32 @@
     "position": [364, 369],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["44"]
   },
   {
     "text": "aspirin",
     "position": [997, 1004],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [1008, 1019],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Tai nạn giao thông",
     "position": [2425, 2443],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Y85.9",
+      "V49.0",
+      "V49.1"
+    ]
   },
   {
     "text": "Sốt",

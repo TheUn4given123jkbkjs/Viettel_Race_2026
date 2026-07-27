@@ -4,7 +4,11 @@
     "position": [31, 39],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L68",
+      "L68.0",
+      "L68.1"
+    ]
   },
   {
     "text": "mụn trứng cá",
@@ -25,20 +29,24 @@
     "position": [381, 389],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L68",
+      "L68.0",
+      "L68.1"
+    ]
   },
   {
     "text": "Ethinylestradiol / Levonorgestrel",
     "position": [2507, 2540],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["214558"]
   },
   {
     "text": "Spironolactone",
     "position": [2803, 2817],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["9997"]
   }
 ]

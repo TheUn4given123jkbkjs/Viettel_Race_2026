@@ -25,7 +25,7 @@
     "position": [790, 803],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "buồn nôn",
@@ -39,20 +39,24 @@
     "position": [1283, 1301],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J31",
+      "J31.1",
+      "J31.2"
+    ]
   },
   {
     "text": "Amoxicillin",
     "position": [1358, 1369],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["723", "19711"]
   },
   {
     "text": "Betamethasone",
     "position": [1413, 1426],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1514"]
   }
 ]

@@ -4,14 +4,18 @@
     "position": [179, 191],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3008"]
   },
   {
     "text": "tăng huyết áp",
     "position": [228, 241],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "đau ngực",
@@ -46,6 +50,6 @@
     "position": [976, 983],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   }
 ]

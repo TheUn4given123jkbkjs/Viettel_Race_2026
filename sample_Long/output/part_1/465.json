@@ -18,13 +18,17 @@
     "position": [100, 113],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K92",
+      "K92.8",
+      "K92.9"
+    ]
   },
   {
     "text": "Bệnh khác của hệ tiêu hóa",
     "position": [191, 216],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K92"]
   }
 ]

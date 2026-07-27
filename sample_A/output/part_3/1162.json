@@ -4,7 +4,11 @@
     "position": [22, 49],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "K21",
+      "K21.0",
+      "K21.9"
+    ]
   },
   {
     "text": "tự vang tiếng nói",
@@ -39,6 +43,6 @@
     "position": [331, 348],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["H69.0"]
   }
 ]

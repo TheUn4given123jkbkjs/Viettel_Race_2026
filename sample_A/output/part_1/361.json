@@ -4,21 +4,25 @@
     "position": [147, 162],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8703"]
   },
   {
     "text": "Fenofibrate",
     "position": [147, 158],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8703"]
   },
   {
     "text": "béo phì",
     "position": [58, 65],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E65",
+      "E66",
+      "E66.0"
+    ]
   },
   {
     "text": "đau đầu",

@@ -11,7 +11,11 @@
     "position": [855, 870],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "đau ngực dữ dội",
@@ -25,7 +29,11 @@
     "position": [1612, 1623],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "A36.81",
+      "I11.0"
+    ]
   },
   {
     "text": "Albendazole 400mg",

@@ -18,7 +18,7 @@
     "position": [448, 451],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "đau tức ngực sau xương ức",
@@ -39,13 +39,17 @@
     "position": [693, 731],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I25.0"]
   },
   {
     "text": "Viêm ruột thừa cấp",
     "position": [967, 985],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K35",
+      "K35.1",
+      "K35.2"
+    ]
   }
 ]

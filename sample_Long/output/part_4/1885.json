@@ -4,7 +4,11 @@
     "position": [35, 49],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "hen phế quản",
@@ -46,6 +50,6 @@
     "position": [339, 365],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M95.0"]
   }
 ]

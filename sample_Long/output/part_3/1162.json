@@ -4,28 +4,28 @@
     "position": [0, 97],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["O35.9"]
   },
   {
     "text": "Abacavir",
     "position": [787, 795],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Acarbose",
     "position": [838, 846],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["16681"]
   },
   {
     "text": "Dexamethasone",
     "position": [1087, 1100],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "Bà mẹ có tiền sử THA 5 năm trước",

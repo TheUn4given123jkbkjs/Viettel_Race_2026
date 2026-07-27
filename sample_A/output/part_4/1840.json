@@ -4,7 +4,11 @@
     "position": [180, 195],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "khó thở khi gắng sức",
@@ -53,6 +57,6 @@
     "position": [1005, 1034],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A52.03"]
   }
 ]

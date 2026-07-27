@@ -4,21 +4,21 @@
     "position": [481, 498],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["C69.1", "C54.1"]
   },
   {
     "text": "aspirin",
     "position": [431, 438],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceft",
     "position": [447, 451],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "troponin tăng cao",
@@ -32,7 +32,11 @@
     "position": [114, 116],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "18343",
+      "282448",
+      "1256"
+    ]
   },
   {
     "text": "thalassemia",

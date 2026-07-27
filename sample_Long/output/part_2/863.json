@@ -4,7 +4,7 @@
     "position": [161, 195],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O82.2"]
   },
   {
     "text": "không sốt",
@@ -25,13 +25,13 @@
     "position": [409, 422],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Warfarin",
     "position": [521, 529],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["11289"]
   }
 ]

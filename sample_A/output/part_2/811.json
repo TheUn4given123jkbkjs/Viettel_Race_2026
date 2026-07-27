@@ -4,7 +4,11 @@
     "position": [0, 18],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F31.71",
+      "F31.72",
+      "F31.73"
+    ]
   },
   {
     "text": "Lítium",
@@ -18,14 +22,14 @@
     "position": [1380, 1391],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5093"]
   },
   {
     "text": "Fluoxetine",
     "position": [1474, 1484],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4493"]
   },
   {
     "text": "Triệu chứng lâm sàng",

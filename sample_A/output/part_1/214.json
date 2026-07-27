@@ -4,7 +4,11 @@
     "position": [61, 77],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F50.00",
+      "F50.01",
+      "F50.02"
+    ]
   },
   {
     "text": "Sertraline",
@@ -18,6 +22,6 @@
     "position": [464, 474],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4493"]
   }
 ]

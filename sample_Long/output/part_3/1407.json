@@ -4,14 +4,18 @@
     "position": [26, 34],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "E20",
+      "E89.0",
+      "E89.2"
+    ]
   },
   {
     "text": "Potassium iodide",
     "position": [52, 68],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8597"]
   },
   {
     "text": "đau cẳng chân P",
@@ -46,6 +50,10 @@
     "position": [288, 302],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K12.2",
+      "N73.0",
+      "N73.1"
+    ]
   }
 ]

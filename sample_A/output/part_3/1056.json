@@ -4,41 +4,41 @@
     "position": [0, 15],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["C16.1"]
   },
   {
     "text": "Acetaminophen",
     "position": [1242, 1255],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ibuprofen",
     "position": [1257, 1266],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Morphine",
     "position": [1270, 1278],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7052"]
   },
   {
     "text": "Acetate hemodialysis solution",
     "position": [1616, 1645],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["226504"]
   },
   {
     "text": "Dextran 40",
     "position": [1651, 1661],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3272"]
   }
 ]

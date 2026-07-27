@@ -4,7 +4,11 @@
     "position": [136, 143],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I11.0",
+      "I11.9",
+      "I13.0"
+    ]
   },
   {
     "text": "khó thở",
@@ -32,20 +36,20 @@
     "position": [726, 764],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I08.0"]
   },
   {
     "text": "Furosemide",
     "position": [789, 799],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4603"]
   },
   {
     "text": "Enalapril",
     "position": [816, 825],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3827"]
   }
 ]

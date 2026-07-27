@@ -4,7 +4,7 @@
     "position": [152, 176],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["9603"]
   },
   {
     "text": "tăng huyết áp",
@@ -25,7 +25,11 @@
     "position": [196, 207],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
   },
   {
     "text": "buồn nôn",

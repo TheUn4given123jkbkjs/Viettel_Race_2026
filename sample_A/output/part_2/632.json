@@ -4,20 +4,24 @@
     "position": [0, 36],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["A15.5", "A16.4"]
   },
   {
     "text": "Acetaminophen",
     "position": [507, 520],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Isoniazid",
     "position": [576, 585],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
   }
 ]

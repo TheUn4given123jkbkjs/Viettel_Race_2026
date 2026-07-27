@@ -4,21 +4,29 @@
     "position": [32, 42],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4278"]
   },
   {
     "text": "viêm dạ dày",
     "position": [77, 88],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "K29",
+      "K29.0",
+      "K29.1"
+    ]
   },
   {
     "text": "Tăng huyết áp",
     "position": [171, 184],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Đau ngực trái",
@@ -32,6 +40,10 @@
     "position": [230, 249],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [207, 211],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["90176", "105658"]
   },
   {
     "text": "thiếu máu",
@@ -53,6 +53,10 @@
     "position": [144, 166],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "D50",
+      "D50.0",
+      "D64.1"
+    ]
   }
 ]

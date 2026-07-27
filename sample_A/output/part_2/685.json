@@ -4,7 +4,11 @@
     "position": [177, 225],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "H13.1*",
+      "H13.2*",
+      "H19.2*"
+    ]
   },
   {
     "text": "bệnh tiểu đường",
@@ -25,6 +29,10 @@
     "position": [367, 375],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "A36.81",
+      "E74.00"
+    ]
   }
 ]

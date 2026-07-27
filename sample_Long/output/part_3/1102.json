@@ -4,7 +4,11 @@
     "position": [5, 14],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
   },
   {
     "text": "sốt",
@@ -25,7 +29,7 @@
     "position": [275, 289],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7984"]
   },
   {
     "text": "khó thở",

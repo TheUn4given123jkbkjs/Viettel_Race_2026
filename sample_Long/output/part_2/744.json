@@ -4,7 +4,7 @@
     "position": [230, 239],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "bệnh gan mạn tính",
@@ -18,7 +18,11 @@
     "position": [469, 482],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "B05.3†",
+      "H65",
+      "H65.0"
+    ]
   },
   {
     "text": "sốt cao",

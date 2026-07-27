@@ -4,7 +4,7 @@
     "position": [400, 427],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["203218"]
   },
   {
     "text": "Đái tháo đường tuýp 2",
@@ -18,7 +18,11 @@
     "position": [840, 853],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "xuất huyết dưới da",

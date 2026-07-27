@@ -4,7 +4,11 @@
     "position": [606, 616],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "N99.3",
+      "N81.2",
+      "N81.3"
+    ]
   },
   {
     "text": "táo bón mãn tính",
@@ -32,20 +36,20 @@
     "position": [2340, 2370],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N81.9"]
   },
   {
     "text": "Acetaminophen",
     "position": [2669, 2682],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Bisacodyl",
     "position": [2788, 2797],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1596"]
   }
 ]

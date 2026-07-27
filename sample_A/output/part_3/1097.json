@@ -4,14 +4,22 @@
     "position": [316, 332],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "B16.0",
+      "B16.1",
+      "B16.9"
+    ]
   },
   {
     "text": "xơ gan",
     "position": [430, 436],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K71.7",
+      "K74",
+      "K74.0"
+    ]
   },
   {
     "text": "vàng da",
@@ -32,7 +40,7 @@
     "position": [972, 982],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6837"]
   },
   {
     "text": "AST",

@@ -4,21 +4,21 @@
     "position": [0, 10],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["I49.02", "I49.0"]
   },
   {
     "text": "Acenocoumarol",
     "position": [490, 503],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["154"]
   },
   {
     "text": "Acetaminophen",
     "position": [505, 518],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "THA",

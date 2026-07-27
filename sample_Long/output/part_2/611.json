@@ -4,7 +4,11 @@
     "position": [191, 204],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "ung thư buồng trứng",
@@ -32,7 +36,11 @@
     "position": [1349, 1373],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N80.4",
+      "N80.5",
+      "N80.6"
+    ]
   },
   {
     "text": "sốt",

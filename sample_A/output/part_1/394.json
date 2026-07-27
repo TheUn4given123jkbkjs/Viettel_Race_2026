@@ -4,41 +4,45 @@
     "position": [0, 55],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["D77", "D77*"]
   },
   {
     "text": "Acenocoumarol",
     "position": [483, 496],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["154"]
   },
   {
     "text": "Albendazole",
     "position": [557, 568],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["430"]
   },
   {
     "text": "Cefazolin",
     "position": [629, 638],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2180"]
   },
   {
     "text": "Prednisolone",
     "position": [699, 711],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Rifampin",
     "position": [779, 787],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
   }
 ]

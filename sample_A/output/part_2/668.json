@@ -4,20 +4,24 @@
     "position": [279, 318],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "Z13.0",
+      "N16.2*",
+      "D89"
+    ]
   },
   {
     "text": "Abacavir",
     "position": [373, 381],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Ceftriaxone",
     "position": [399, 410],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

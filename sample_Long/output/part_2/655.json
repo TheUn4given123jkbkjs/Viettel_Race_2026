@@ -4,7 +4,7 @@
     "position": [32, 40],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["10454"]
   },
   {
     "text": "sốt",
@@ -18,13 +18,13 @@
     "position": [180, 187],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [191, 202],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

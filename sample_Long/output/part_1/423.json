@@ -4,14 +4,18 @@
     "position": [263, 272],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["41493"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [116, 129],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "khó thởđột",
@@ -32,7 +36,7 @@
     "position": [916, 925],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["435"]
   },
   {
     "text": "Troponin",
@@ -46,13 +50,17 @@
     "position": [1188, 1199],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Viêm phổi",
     "position": [1245, 1254],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
   }
 ]

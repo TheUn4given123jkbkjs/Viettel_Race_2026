@@ -4,7 +4,11 @@
     "position": [0, 12],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "P02.0",
+      "O44",
+      "O44.0"
+    ]
   },
   {
     "text": "chảy máu âm đạo",
@@ -25,7 +29,7 @@
     "position": [634, 647],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "thiếu oxy",

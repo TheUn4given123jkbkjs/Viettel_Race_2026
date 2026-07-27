@@ -4,14 +4,14 @@
     "position": [51, 66],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["T45.2", "T45.7"]
   },
   {
     "text": "Vitamin A / Vitamin D",
     "position": [299, 320],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["97016"]
   },
   {
     "text": "đau đầu",
@@ -46,6 +46,10 @@
     "position": [911, 919],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N13.2",
+      "N20",
+      "N20.0"
+    ]
   }
 ]

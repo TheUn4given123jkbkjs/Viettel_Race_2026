@@ -4,20 +4,24 @@
     "position": [63, 81],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "C62",
+      "C62.0",
+      "C62.1"
+    ]
   },
   {
     "text": "Acetazolamide",
     "position": [172, 185],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "Ceftriaxone",
     "position": [210, 221],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

@@ -4,14 +4,14 @@
     "position": [342, 349],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Ceftriaxone",
     "position": [351, 362],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Troponin",
@@ -25,6 +25,10 @@
     "position": [227, 305],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M14.80*",
+      "M14.88*",
+      "M14.89*"
+    ]
   }
 ]

@@ -18,20 +18,24 @@
     "position": [844, 863],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L84"]
   },
   {
     "text": "Benzoic acid / Salicylic acid",
     "position": [1879, 1908],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["91292"]
   },
   {
     "text": "Salicylic acid",
     "position": [1894, 1908],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "9525",
+      "91292",
+      "466470"
+    ]
   }
 ]

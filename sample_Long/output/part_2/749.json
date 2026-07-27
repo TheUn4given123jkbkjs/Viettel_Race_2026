@@ -4,7 +4,7 @@
     "position": [358, 408],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N85.9", "N88.9"]
   },
   {
     "text": "tiểu đường type 2",
@@ -25,14 +25,14 @@
     "position": [651, 658],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "metoclopramide",
     "position": [754, 768],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6915"]
   },
   {
     "text": "troponin",

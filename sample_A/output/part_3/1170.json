@@ -4,21 +4,29 @@
     "position": [0, 28],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "J06",
+      "J06.8",
+      "J06.9"
+    ]
   },
   {
     "text": "Amoxicillin",
     "position": [1040, 1051],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["723", "19711"]
   },
   {
     "text": "Penicillin",
     "position": [1239, 1249],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "7982",
+      "7980",
+      "7983"
+    ]
   },
   {
     "text": "Buồn nôn",

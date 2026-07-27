@@ -4,21 +4,33 @@
     "position": [49, 65],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M96",
+      "M96.9",
+      "M02.1"
+    ]
   },
   {
     "text": "viêm khớp phản ứng",
     "position": [100, 118],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "T84.5",
+      "M02",
+      "M02.8"
+    ]
   },
   {
     "text": "nhiễm trùng đường ruột",
     "position": [170, 192],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "A04.8",
+      "A04.9",
+      "A07.8"
+    ]
   },
   {
     "text": "sưng đau khớp gối",

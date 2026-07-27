@@ -4,7 +4,7 @@
     "position": [126, 138],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D02.2"]
   },
   {
     "text": "Sưng đỏ quanh chân canun",
@@ -39,6 +39,6 @@
     "position": [659, 685],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J95.02"]
   }
 ]

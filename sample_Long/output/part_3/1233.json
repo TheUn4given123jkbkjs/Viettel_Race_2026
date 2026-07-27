@@ -4,14 +4,18 @@
     "position": [563, 578],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L44.3"]
   },
   {
     "text": "Viêm da cơ địa",
     "position": [1321, 1335],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L20",
+      "L20.8",
+      "L20.9"
+    ]
   },
   {
     "text": "sẩn dẹt",
@@ -46,6 +50,10 @@
     "position": [2709, 2720],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
   }
 ]

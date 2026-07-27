@@ -4,14 +4,18 @@
     "position": [64, 85],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "M32",
+      "M32.0",
+      "M32.1†"
+    ]
   },
   {
     "text": "Cyclophosphamide",
     "position": [105, 121],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3002"]
   },
   {
     "text": "ho khan",
@@ -53,6 +57,6 @@
     "position": [404, 415],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

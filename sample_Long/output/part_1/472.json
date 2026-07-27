@@ -4,20 +4,24 @@
     "position": [469, 522],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K04.9"]
   },
   {
     "text": "sâu răng",
     "position": [104, 112],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K02",
+      "K02.3",
+      "K02.5"
+    ]
   },
   {
     "text": "viêm tủy răng",
     "position": [116, 129],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K04.4"]
   }
 ]

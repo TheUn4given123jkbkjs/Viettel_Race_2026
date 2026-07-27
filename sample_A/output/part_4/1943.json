@@ -4,14 +4,14 @@
     "position": [5, 17],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I15.0", "Q15.0"]
   },
   {
     "text": "Acetazolamide",
     "position": [815, 828],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "buồn nôn",

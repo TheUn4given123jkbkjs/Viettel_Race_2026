@@ -4,34 +4,42 @@
     "position": [78, 85],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3489"]
   },
   {
     "text": "buồn nôn",
     "position": [378, 386],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["R11"]
   },
   {
     "text": "nôn mửa",
     "position": [388, 395],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["K91.0"]
   },
   {
     "text": "tiêu chảy",
     "position": [397, 406],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "K90.1",
+      "K90.3",
+      "K92.2"
+    ]
   },
   {
     "text": "đau bụng",
     "position": [411, 419],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "R10",
+      "R10.1",
+      "R10.3"
+    ]
   }
 ]

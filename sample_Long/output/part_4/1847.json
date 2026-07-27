@@ -18,20 +18,20 @@
     "position": [239, 305],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O06.4"]
   },
   {
     "text": "Misoprostol",
     "position": [331, 342],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6964", "42331"]
   },
   {
     "text": "Amoxicillin",
     "position": [381, 392],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["723", "19711"]
   }
 ]

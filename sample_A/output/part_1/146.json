@@ -4,20 +4,24 @@
     "position": [94, 117],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["A18.54"]
   },
   {
     "text": "Isoniazid",
     "position": [294, 303],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
   },
   {
     "text": "Pyrazinamide",
     "position": [307, 319],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["214662", "8987"]
   }
 ]

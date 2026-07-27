@@ -4,28 +4,32 @@
     "position": [347, 365],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["272"]
   },
   {
     "text": "bố",
     "position": [649, 651],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["Z65.4"]
   },
   {
     "text": "mẹ",
     "position": [672, 674],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "B00.89",
+      "K72.00",
+      "K72.01"
+    ]
   },
   {
     "text": "aspirin",
     "position": [422, 429],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceft",

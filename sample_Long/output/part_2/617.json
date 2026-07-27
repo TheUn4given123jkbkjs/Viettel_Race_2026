@@ -4,7 +4,7 @@
     "position": [225, 233],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7824"]
   },
   {
     "text": "Đái tháo đường týp 2",
@@ -46,6 +46,10 @@
     "position": [1884, 1902],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K35",
+      "K35.1",
+      "K35.2"
+    ]
   }
 ]

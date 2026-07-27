@@ -11,7 +11,7 @@
     "position": [230, 239],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical", "isFamily"],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "suy hô hấp cấp",
@@ -25,7 +25,7 @@
     "position": [645, 695],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P01.6"]
   },
   {
     "text": "Poractant alfa 80mg/ml",

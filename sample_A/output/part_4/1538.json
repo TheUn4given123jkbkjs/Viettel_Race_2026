@@ -25,34 +25,34 @@
     "position": [2104, 2139],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["C63.10"]
   },
   {
     "text": "Doxorubicin",
     "position": [2314, 2325],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3639"]
   },
   {
     "text": "Cyclophosphamide",
     "position": [2381, 2397],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3002"]
   },
   {
     "text": "Acetaminophen",
     "position": [1173, 1186],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Amlodipine",
     "position": [165, 175],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["17767"]
   }
 ]

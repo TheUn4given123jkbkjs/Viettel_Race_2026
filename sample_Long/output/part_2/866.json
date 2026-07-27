@@ -11,14 +11,14 @@
     "position": [147, 154],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [158, 169],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -32,21 +32,21 @@
     "position": [457, 475],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M85.4"]
   },
   {
     "text": "acetaminophen",
     "position": [512, 525],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "ibuprofen",
     "position": [529, 538],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "troponin",

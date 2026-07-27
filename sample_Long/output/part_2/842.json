@@ -4,14 +4,22 @@
     "position": [145, 158],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "đột quỵ não",
     "position": [559, 570],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E88.31",
+      "G46.3*",
+      "G46.4*"
+    ]
   },
   {
     "text": "khó thở khi gắng sức",
@@ -32,21 +40,29 @@
     "position": [2421, 2445],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I01.9",
+      "I09.9",
+      "I13.9"
+    ]
   },
   {
     "text": "suy tim sung huyết",
     "position": [2466, 2484],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I11.0",
+      "I11.9",
+      "I13.0"
+    ]
   },
   {
     "text": "Digoxin",
     "position": [2720, 2727],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3407"]
   },
   {
     "text": "phù hai chi dưới",

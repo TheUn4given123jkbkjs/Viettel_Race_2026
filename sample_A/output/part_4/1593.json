@@ -4,14 +4,18 @@
     "position": [174, 195],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "B50",
+      "B50.0",
+      "B50.8"
+    ]
   },
   {
     "text": "Sốt rét Plasmodium falciparum thể nặng và biến chứng khác",
     "position": [166, 223],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["B50.8"]
   },
   {
     "text": "phẫu thuật",

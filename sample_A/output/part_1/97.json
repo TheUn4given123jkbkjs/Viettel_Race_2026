@@ -4,7 +4,7 @@
     "position": [0, 50],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["D28"]
   },
   {
     "text": "chẩn đoán tự động",
@@ -46,6 +46,10 @@
     "position": [11, 27],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A60.02",
+      "A18.13",
+      "A18.15"
+    ]
   }
 ]

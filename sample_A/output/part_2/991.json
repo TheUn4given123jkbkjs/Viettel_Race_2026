@@ -4,7 +4,11 @@
     "position": [77, 82],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F43.22",
+      "F43.23",
+      "F60.6"
+    ]
   },
   {
     "text": "buồn nôn",
@@ -18,7 +22,7 @@
     "position": [254, 287],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F40.8"]
   },
   {
     "text": "chấn thương đầu",

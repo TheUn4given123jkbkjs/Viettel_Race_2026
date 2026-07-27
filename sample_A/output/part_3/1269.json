@@ -4,20 +4,24 @@
     "position": [0, 13],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "B71",
+      "B71.8",
+      "B71.9"
+    ]
   },
   {
     "text": "Albendazole",
     "position": [374, 385],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["430"]
   },
   {
     "text": "Mebendazole",
     "position": [391, 402],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6672"]
   }
 ]

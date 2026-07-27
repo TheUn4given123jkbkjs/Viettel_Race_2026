@@ -11,28 +11,32 @@
     "position": [323, 366],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["D07.0"]
   },
   {
     "text": "Aspirin",
     "position": [430, 437],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Ceftriaxone",
     "position": [455, 466],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "bệnh nhân",
     "position": [26, 35],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "A52.15",
+      "A51.46",
+      "Z86.11"
+    ]
   },
   {
     "text": "[Tên bác sĩ]",

@@ -11,7 +11,7 @@
     "position": [562, 630],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M03.64*"]
   },
   {
     "text": "bệnh về đường tiêu hóa",
@@ -25,7 +25,11 @@
     "position": [289, 302],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "sưng, đau và cứng",

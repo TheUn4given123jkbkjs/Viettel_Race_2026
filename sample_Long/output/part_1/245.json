@@ -11,7 +11,11 @@
     "position": [393, 400],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80"
+    ]
   },
   {
     "text": "đau bụng vùng hạ sườn phải",
@@ -46,6 +50,10 @@
     "position": [2714, 2726],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
   }
 ]

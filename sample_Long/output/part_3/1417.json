@@ -18,20 +18,20 @@
     "position": [226, 278],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M01.25*"]
   },
   {
     "text": "Doxycycline",
     "position": [319, 330],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3640"]
   },
   {
     "text": "Ceftriaxone",
     "position": [362, 373],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

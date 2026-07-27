@@ -4,21 +4,25 @@
     "position": [683, 697],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2403"]
   },
   {
     "text": "Tâm thần phân liệt",
     "position": [574, 592],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "F20.81",
+      "F20.89",
+      "F06.2"
+    ]
   },
   {
     "text": "THA",
     "position": [753, 756],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "ĐTĐ type 2",
@@ -32,7 +36,7 @@
     "position": [864, 881],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D01.0", "D01.1"]
   },
   {
     "text": "đau chói",
@@ -53,6 +57,6 @@
     "position": [1410, 1425],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["H40.2"]
   }
 ]

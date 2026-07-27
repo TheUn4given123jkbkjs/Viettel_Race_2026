@@ -4,14 +4,14 @@
     "position": [0, 38],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["B38.0"]
   },
   {
     "text": "Fluconazole",
     "position": [1235, 1246],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4450"]
   },
   {
     "text": "Itraconazole",

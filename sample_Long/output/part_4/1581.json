@@ -4,21 +4,21 @@
     "position": [216, 225],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "amlodipine",
     "position": [365, 375],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "hen suyễn",
     "position": [443, 452],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "salbutamol",
@@ -32,7 +32,11 @@
     "position": [158, 168],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   },
   {
     "text": "kết quả xét nghiệm",

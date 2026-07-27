@@ -4,7 +4,7 @@
     "position": [347, 359],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D02.2"]
   },
   {
     "text": "bí tiểu",
@@ -39,20 +39,20 @@
     "position": [2076, 2103],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["G95.2"]
   },
   {
     "text": "Methylprednisolone",
     "position": [2259, 2277],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6902"]
   },
   {
     "text": "Acetaminophen",
     "position": [2320, 2333],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

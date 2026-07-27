@@ -4,7 +4,7 @@
     "position": [146, 163],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["Q61.1", "Q61.2"]
   },
   {
     "text": "đau ngực",
@@ -39,6 +39,6 @@
     "position": [1157, 1197],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I15.1"]
   }
 ]

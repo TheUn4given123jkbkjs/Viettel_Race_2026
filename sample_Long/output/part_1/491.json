@@ -11,7 +11,7 @@
     "position": [166, 183],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D01.0", "D01.1"]
   },
   {
     "text": "đau bụng âm ỉ",
@@ -46,13 +46,13 @@
     "position": [964, 971],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K59.0"]
   },
   {
     "text": "tào bón",
     "position": [1391, 1398],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K59.0"]
   }
 ]

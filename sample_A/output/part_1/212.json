@@ -4,34 +4,42 @@
     "position": [361, 369],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1202"]
   },
   {
     "text": "đau ngực",
     "position": [50, 58],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I20",
+      "I20.0",
+      "I20.1"
+    ]
   },
   {
     "text": "khó thở",
     "position": [62, 69],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["R06.0", "R06.2"]
   },
   {
     "text": "không sốt",
     "position": [745, 754],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "Y45.9",
+      "X60"
+    ]
   },
   {
     "text": "buồn nôn",
     "position": [779, 787],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["R11"]
   }
 ]

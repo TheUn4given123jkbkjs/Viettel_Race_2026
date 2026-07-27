@@ -4,7 +4,7 @@
     "position": [249, 260],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["10869"]
   },
   {
     "text": "nhìn mờ",
@@ -25,13 +25,13 @@
     "position": [147, 163],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B00.54"]
   },
   {
     "text": "co đồng tử",
     "position": [273, 283],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O62.4"]
   }
 ]

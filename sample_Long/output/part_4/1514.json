@@ -32,20 +32,20 @@
     "position": [279, 327],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M07.15*"]
   },
   {
     "text": "Methotrexate",
     "position": [367, 379],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6851"]
   },
   {
     "text": "Diclofenac",
     "position": [383, 393],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   }
 ]

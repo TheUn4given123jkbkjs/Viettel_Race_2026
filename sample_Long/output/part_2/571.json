@@ -4,14 +4,22 @@
     "position": [0, 34],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N05",
+      "N05.0",
+      "N05.1"
+    ]
   },
   {
     "text": "Viêm cầu thận màng lan tỏa",
     "position": [206, 232],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N02.2",
+      "N03.2",
+      "N04.2"
+    ]
   },
   {
     "text": "mệt mỏi",

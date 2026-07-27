@@ -4,7 +4,7 @@
     "position": [51, 64],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -25,7 +25,11 @@
     "position": [84, 93],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A18.03",
+      "B26.85",
+      "B06.82"
+    ]
   },
   {
     "text": "bệnh tiểu đường loại 2",

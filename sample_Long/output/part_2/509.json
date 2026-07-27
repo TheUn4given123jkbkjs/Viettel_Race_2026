@@ -4,21 +4,21 @@
     "position": [26, 55],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L05.9"]
   },
   {
     "text": "Acetaminophen",
     "position": [113, 126],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Acetylcysteine",
     "position": [147, 161],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["197"]
   },
   {
     "text": "không sốt",
@@ -32,6 +32,10 @@
     "position": [216, 226],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   }
 ]

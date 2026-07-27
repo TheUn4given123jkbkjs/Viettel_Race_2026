@@ -4,21 +4,29 @@
     "position": [819, 840],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L30.8",
+      "L25.3",
+      "L25.8"
+    ]
   },
   {
     "text": "Amlodipine",
     "position": [1407, 1417],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Viêm dạ dày",
     "position": [1531, 1542],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "K29",
+      "K29.0",
+      "K29.1"
+    ]
   },
   {
     "text": "sẩn đỏ",
@@ -39,13 +47,13 @@
     "position": [2629, 2642],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1514"]
   },
   {
     "text": "Povidone-iodine",
     "position": [2765, 2780],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8611"]
   }
 ]

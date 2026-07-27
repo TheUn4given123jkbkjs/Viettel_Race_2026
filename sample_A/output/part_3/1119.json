@@ -4,14 +4,18 @@
     "position": [60, 70],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "68244",
+      "2003201",
+      "2003222"
+    ]
   },
   {
     "text": "gan nhiễm mỡ",
     "position": [201, 213],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K76.0", "K70.0"]
   },
   {
     "text": "viêm gan B mãn tính",

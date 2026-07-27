@@ -4,21 +4,21 @@
     "position": [374, 432],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N33.8"]
   },
   {
     "text": "Acetaminophen",
     "position": [242, 255],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Amlodipine",
     "position": [259, 269],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "không sốt",
@@ -32,6 +32,6 @@
     "position": [467, 478],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["519"]
   }
 ]

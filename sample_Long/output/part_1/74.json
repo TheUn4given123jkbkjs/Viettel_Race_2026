@@ -11,14 +11,18 @@
     "position": [402, 412],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "viêm khớp dạng thấp",
     "position": [457, 476],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M05",
+      "M05.3†",
+      "M05.8"
+    ]
   },
   {
     "text": "cứng khớp",
@@ -39,20 +43,20 @@
     "position": [1234, 1263],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M15.3"]
   },
   {
     "text": "Diclofenac",
     "position": [1296, 1306],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   },
   {
     "text": "Acetaminophen",
     "position": [1359, 1372],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

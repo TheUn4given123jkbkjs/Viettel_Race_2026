@@ -4,14 +4,14 @@
     "position": [132, 145],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7975"]
   },
   {
     "text": "bệnh Wilson",
     "position": [159, 170],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E83.0"]
   },
   {
     "text": "đau nhức toàn thân",

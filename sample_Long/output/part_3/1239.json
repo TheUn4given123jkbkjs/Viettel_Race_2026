@@ -4,7 +4,11 @@
     "position": [46, 71],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I69.0",
+      "I60",
+      "I60.0"
+    ]
   },
   {
     "text": "đau đầu",
@@ -32,13 +36,13 @@
     "position": [360, 368],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6628"]
   },
   {
     "text": "Acetaminophen",
     "position": [394, 407],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

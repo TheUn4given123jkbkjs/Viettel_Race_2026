@@ -11,14 +11,18 @@
     "position": [28, 41],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Oxygen",
     "position": [75, 81],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7806"]
   },
   {
     "text": "khó thở",

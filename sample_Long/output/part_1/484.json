@@ -4,42 +4,46 @@
     "position": [2130, 2145],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K38.1"]
   },
   {
     "text": "Ceftriaxone",
     "position": [2770, 2781],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Metronidazole",
     "position": [2824, 2837],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6922"]
   },
   {
     "text": "Acetaminophen",
     "position": [2997, 3010],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ringer's lactate",
     "position": [2635, 2651],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["35629"]
   },
   {
     "text": "sỏi mật",
     "position": [420, 427],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80"
+    ]
   },
   {
     "text": "bệnh lý mạch vành",

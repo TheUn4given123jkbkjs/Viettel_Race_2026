@@ -4,7 +4,7 @@
     "position": [176, 188],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4053"]
   },
   {
     "text": "CHF",
@@ -39,7 +39,7 @@
     "position": [776, 795],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["I25.0"]
   },
   {
     "text": "troponin",
@@ -53,6 +53,6 @@
     "position": [959, 966],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   }
 ]

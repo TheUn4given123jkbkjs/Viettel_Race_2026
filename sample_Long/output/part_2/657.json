@@ -11,7 +11,7 @@
     "position": [272, 284],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M51.4"]
   },
   {
     "text": "không tê chân",
@@ -32,20 +32,20 @@
     "position": [440, 456],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["M51.2", "M50.2"]
   },
   {
     "text": "Diclofenac",
     "position": [1039, 1049],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   },
   {
     "text": "Acetaminophen",
     "position": [1158, 1171],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

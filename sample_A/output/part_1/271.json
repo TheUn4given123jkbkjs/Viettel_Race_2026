@@ -4,27 +4,27 @@
     "position": [0, 52],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["D21.0"]
   },
   {
     "text": "Tetracycline",
     "position": [517, 529],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10395"]
   },
   {
     "text": "Dexamethasone",
     "position": [615, 628],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "Prednisolone",
     "position": [698, 710],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   }
 ]

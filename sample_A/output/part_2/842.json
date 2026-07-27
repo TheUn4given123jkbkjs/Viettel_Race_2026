@@ -4,21 +4,21 @@
     "position": [214, 235],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["7983"]
   },
   {
     "text": "amlodipine",
     "position": [148, 158],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "bệnh mạch vành",
     "position": [314, 328],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["A52.06", "I25.0"]
   },
   {
     "text": "chủ quan sốt",
@@ -46,13 +46,13 @@
     "position": [874, 881],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [1024, 1035],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

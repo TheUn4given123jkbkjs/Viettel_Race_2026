@@ -4,20 +4,24 @@
     "position": [0, 55],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "H06",
+      "H06*",
+      "H06.1*"
+    ]
   },
   {
     "text": "acetaminophen",
     "position": [511, 524],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "hydrocortisone",
     "position": [526, 540],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5492", "27197"]
   }
 ]

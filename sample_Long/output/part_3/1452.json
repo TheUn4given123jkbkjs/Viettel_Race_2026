@@ -4,7 +4,11 @@
     "position": [409, 419],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
   },
   {
     "text": "ban đỏ",
@@ -39,14 +43,18 @@
     "position": [1995, 2008],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1514"]
   },
   {
     "text": "Salicylic acid",
     "position": [2186, 2200],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "9525",
+      "91292",
+      "466470"
+    ]
   },
   {
     "text": "đièu trị",

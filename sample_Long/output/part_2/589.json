@@ -4,27 +4,27 @@
     "position": [141, 160],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isHistorical"],
-    "candidates": []
+    "candidates": ["N89.0"]
   },
   {
     "text": "Acetaminophen",
     "position": [814, 827],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Estradiol cypionate / Medroxyprogesterone acetate",
     "position": [867, 916],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2647996"]
   },
   {
     "text": "Fluoxetine",
     "position": [990, 1000],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4493"]
   }
 ]

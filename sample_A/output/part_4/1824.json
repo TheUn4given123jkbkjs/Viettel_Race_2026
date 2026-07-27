@@ -4,7 +4,11 @@
     "position": [160, 174],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "sốt",
@@ -46,6 +50,6 @@
     "position": [1017, 1046],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["G54.1"]
   }
 ]

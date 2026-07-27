@@ -11,7 +11,11 @@
     "position": [699, 735],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "834765",
+      "309949",
+      "2388452"
+    ]
   },
   {
     "text": "sốt",
@@ -39,13 +43,21 @@
     "position": [384, 392],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A54.80",
+      "A54.87",
+      "A52.03"
+    ]
   },
   {
     "text": "viêm phổi",
     "position": [394, 403],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
   }
 ]

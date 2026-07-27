@@ -25,14 +25,18 @@
     "position": [1339, 1352],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Các bệnh của móng trong các bệnh khác đã phân loại ở phần khác",
     "position": [1940, 2002],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L62.8*"]
   },
   {
     "text": "Prednisolone 5mg",

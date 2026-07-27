@@ -4,7 +4,11 @@
     "position": [98, 111],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "suy hô hấp",
@@ -25,20 +29,20 @@
     "position": [268, 279],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P07.2"]
   },
   {
     "text": "Poractant alfa",
     "position": [304, 318],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["236381"]
   },
   {
     "text": "Caffeine citrate",
     "position": [343, 359],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["20033"]
   }
 ]

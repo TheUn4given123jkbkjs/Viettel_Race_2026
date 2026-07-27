@@ -4,7 +4,7 @@
     "position": [0, 26],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E89.3"]
   },
   {
     "text": "phẫu thuật tuyến yên",
@@ -18,7 +18,11 @@
     "position": [180, 186],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L56",
+      "K52.0",
+      "K62.7"
+    ]
   },
   {
     "text": "thuốc điều trị tuyến yên",

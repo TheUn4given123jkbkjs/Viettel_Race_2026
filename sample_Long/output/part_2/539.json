@@ -4,14 +4,18 @@
     "position": [435, 445],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6069"]
   },
   {
     "text": "bệnh Parkinson",
     "position": [263, 277],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G22",
+      "G22*",
+      "G21.4"
+    ]
   },
   {
     "text": "dopamine",

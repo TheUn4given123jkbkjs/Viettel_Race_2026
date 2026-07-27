@@ -46,13 +46,13 @@
     "position": [451, 464],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10582"]
   },
   {
     "text": "Pyridostigmine",
     "position": [523, 537],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["9000"]
   }
 ]

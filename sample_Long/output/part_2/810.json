@@ -4,14 +4,14 @@
     "position": [115, 118],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "hen suyễn",
     "position": [195, 204],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["J45"]
   },
   {
     "text": "nghẹt mũimạn tính",
@@ -53,6 +53,6 @@
     "position": [1103, 1116],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J34.2"]
   }
 ]

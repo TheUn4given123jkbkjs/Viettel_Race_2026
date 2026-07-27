@@ -4,7 +4,7 @@
     "position": [94, 117],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["107602"]
   },
   {
     "text": "răng",
@@ -18,7 +18,11 @@
     "position": [194, 202],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F45.21",
+      "F45.29",
+      "F45.20"
+    ]
   },
   {
     "text": "thuốc giảm đau",
@@ -46,6 +50,10 @@
     "position": [585, 598],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   }
 ]

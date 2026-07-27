@@ -25,7 +25,11 @@
     "position": [39, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N04",
+      "N04.0",
+      "N04.1"
+    ]
   },
   {
     "text": "bệnh lý về cầu thận",
@@ -39,14 +43,14 @@
     "position": [2051, 2063],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Furosemide",
     "position": [2360, 2370],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4603"]
   },
   {
     "text": "albumin máu",

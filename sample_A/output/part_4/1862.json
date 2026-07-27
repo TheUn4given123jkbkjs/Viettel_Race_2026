@@ -4,7 +4,11 @@
     "position": [5, 13],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E89.6",
+      "I12.0",
+      "I12.9"
+    ]
   },
   {
     "text": "mệt mỏi",
@@ -18,7 +22,7 @@
     "position": [479, 488],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["27781"]
   },
   {
     "text": "chụp CT",

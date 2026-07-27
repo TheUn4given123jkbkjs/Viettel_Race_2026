@@ -4,14 +4,18 @@
     "position": [0, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["H65.4", "H66.3"]
   },
   {
     "text": "phẫu thuật",
     "position": [946, 956],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
   },
   {
     "text": "Theo dõi lối sống",

@@ -11,14 +11,18 @@
     "position": [237, 274],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "2388452",
+      "50937",
+      "2368450"
+    ]
   },
   {
     "text": "Ceftriaxone",
     "position": [428, 439],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "bệnh tim",

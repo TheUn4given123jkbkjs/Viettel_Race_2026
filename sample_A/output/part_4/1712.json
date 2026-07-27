@@ -4,14 +4,14 @@
     "position": [470, 503],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A92.30"]
   },
   {
     "text": "sốt vùng West Nile NOS",
     "position": [805, 827],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A92.30"]
   },
   {
     "text": "troponin",
@@ -46,13 +46,13 @@
     "position": [859, 870],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "aspirin",
     "position": [902, 909],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   }
 ]

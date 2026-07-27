@@ -4,21 +4,21 @@
     "position": [132, 174],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["F31.9"]
   },
   {
     "text": "Acenocoumarol",
     "position": [476, 489],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["154"]
   },
   {
     "text": "Amitriptyline",
     "position": [493, 506],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["704"]
   },
   {
     "text": "Bipolar Disorder",

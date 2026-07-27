@@ -4,7 +4,7 @@
     "position": [371, 385],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D00"]
   },
   {
     "text": "sụt cân không chủ ý",
@@ -39,13 +39,13 @@
     "position": [1707, 1764],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E46"]
   },
   {
     "text": "thoát vị bẹn trái",
     "position": [2497, 2514],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K40.6"]
   }
 ]

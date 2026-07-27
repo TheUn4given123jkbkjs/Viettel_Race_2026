@@ -4,7 +4,11 @@
     "position": [17, 30],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "yếu nửa người trái",
@@ -39,13 +43,13 @@
     "position": [360, 368],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6628"]
   },
   {
     "text": "Aspirin",
     "position": [399, 406],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   }
 ]

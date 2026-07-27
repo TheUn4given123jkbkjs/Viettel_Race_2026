@@ -4,7 +4,7 @@
     "position": [404, 419],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["H30.2"]
   },
   {
     "text": "nhìn mờ",
@@ -32,7 +32,7 @@
     "position": [139, 155],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["B00.54"]
   },
   {
     "text": "thể mi cương tụ",

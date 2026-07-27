@@ -11,7 +11,7 @@
     "position": [121, 133],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["18631"]
   },
   {
     "text": "Đau bụng vùng thượng vị",
@@ -53,6 +53,6 @@
     "position": [1549, 1564],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K29.0", "K29.1"]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [117, 126],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6218"]
   },
   {
     "text": "buồn nôn",
@@ -46,7 +46,7 @@
     "position": [1175, 1199],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I98.2*"]
   },
   {
     "text": "đau bụng",

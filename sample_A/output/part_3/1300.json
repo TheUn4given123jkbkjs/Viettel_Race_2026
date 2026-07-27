@@ -4,20 +4,20 @@
     "position": [35, 61],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B53.1"]
   },
   {
     "text": "Acetaminophen",
     "position": [255, 268],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Artemether / Lumefantrine",
     "position": [272, 297],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["282448"]
   }
 ]

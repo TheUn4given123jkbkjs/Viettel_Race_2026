@@ -4,7 +4,11 @@
     "position": [75, 89],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "đau bụng dữ dội",
@@ -39,6 +43,6 @@
     "position": [309, 354],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O69.5"]
   }
 ]

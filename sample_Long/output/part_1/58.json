@@ -11,20 +11,24 @@
     "position": [260, 267],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [271, 282],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Các bệnh lý khác trong các bệnh đã phân loại nơi khác",
     "position": [497, 550],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F02.8*",
+      "I52",
+      "I52*"
+    ]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [420, 435],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["10953"]
   },
   {
     "text": "Viêm loét dạ dày tá tràng",
@@ -46,6 +46,6 @@
     "position": [1126, 1147],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A91", "A97"]
   }
 ]

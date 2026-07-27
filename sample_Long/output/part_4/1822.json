@@ -4,14 +4,18 @@
     "position": [32, 40],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8984"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [225, 238],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Đau bụng dữ dội vùng thượng vị",
@@ -32,7 +36,11 @@
     "position": [2119, 2131],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G37.3",
+      "G37.4",
+      "K85.2"
+    ]
   },
   {
     "text": "bệnh lý mạch vành",
@@ -46,7 +54,7 @@
     "position": [287, 297],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "NaCl 0.9%",

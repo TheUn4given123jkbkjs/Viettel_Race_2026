@@ -4,7 +4,7 @@
     "position": [101, 122],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["89886"]
   },
   {
     "text": "bệnh gan mãn tính",
@@ -32,6 +32,10 @@
     "position": [292, 305],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.13",
+      "A54.81",
+      "A50.41"
+    ]
   }
 ]

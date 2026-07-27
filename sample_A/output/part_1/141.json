@@ -4,14 +4,18 @@
     "position": [0, 33],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B20.1", "B20.8"]
   },
   {
     "text": "Lamivudine",
     "position": [294, 304],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "68244",
+      "2003201",
+      "2003222"
+    ]
   },
   {
     "text": "Cotrimoxazole",

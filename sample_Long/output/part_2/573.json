@@ -4,7 +4,7 @@
     "position": [144, 154],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "ngứa",
@@ -39,20 +39,24 @@
     "position": [1374, 1396],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L41.4"]
   },
   {
     "text": "Betamethasone",
     "position": [1436, 1449],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1514"]
   },
   {
     "text": "Salicylic acid",
     "position": [1474, 1488],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "9525",
+      "91292",
+      "466470"
+    ]
   }
 ]

@@ -4,34 +4,42 @@
     "position": [452, 491],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L91.9"]
   },
   {
     "text": "Acyclovir",
     "position": [297, 306],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "Dexamethasone",
     "position": [331, 344],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "tăng lipid máu",
     "position": [158, 172],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "E78",
+      "E78.2",
+      "E78.4"
+    ]
   },
   {
     "text": "vảy nến",
     "position": [416, 423],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L40.50",
+      "L40.51",
+      "L40.52"
+    ]
   }
 ]

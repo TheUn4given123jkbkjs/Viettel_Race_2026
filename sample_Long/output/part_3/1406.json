@@ -4,14 +4,14 @@
     "position": [142, 159],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["99"]
   },
   {
     "text": "amlodipine",
     "position": [205, 215],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "đái tháo đường type 2",
@@ -39,13 +39,17 @@
     "position": [761, 775],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K12.2",
+      "N73.0",
+      "N73.1"
+    ]
   },
   {
     "text": "ceftriaxone",
     "position": [879, 890],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

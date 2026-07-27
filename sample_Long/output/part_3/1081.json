@@ -11,7 +11,11 @@
     "position": [489, 503],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "không sốt",
@@ -25,21 +29,21 @@
     "position": [968, 1008],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M01.61*"]
   },
   {
     "text": "Fluconazole",
     "position": [1130, 1141],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4450"]
   },
   {
     "text": "Amphotericin B",
     "position": [1231, 1245],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["732"]
   },
   {
     "text": "phủ nhận buồn nôn",

@@ -4,34 +4,38 @@
     "position": [10, 112],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F19.94",
+      "F19.96",
+      "F19.99"
+    ]
   },
   {
     "text": "Ceftriaxone",
     "position": [465, 476],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Fluoxetine",
     "position": [480, 490],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4493"]
   },
   {
     "text": "Abacavir",
     "position": [959, 967],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Acetazolamide",
     "position": [987, 1000],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   }
 ]

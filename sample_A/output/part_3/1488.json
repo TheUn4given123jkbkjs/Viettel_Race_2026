@@ -4,7 +4,7 @@
     "position": [219, 235],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8794"]
   },
   {
     "text": "bệnh lý tuyến giáp",
@@ -53,6 +53,10 @@
     "position": [1411, 1419],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I48",
+      "I48.0",
+      "I48.1"
+    ]
   }
 ]

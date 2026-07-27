@@ -4,7 +4,7 @@
     "position": [96, 179],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I32.1*"]
   },
   {
     "text": "************",
@@ -18,13 +18,13 @@
     "position": [231, 244],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Albendazole",
     "position": [284, 295],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["430"]
   }
 ]

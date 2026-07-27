@@ -4,7 +4,11 @@
     "position": [630, 643],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "Cao huyết áp",
@@ -18,6 +22,10 @@
     "position": [993, 1002],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "B87",
+      "B87.0",
+      "B87.1"
+    ]
   }
 ]

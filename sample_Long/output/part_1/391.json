@@ -4,20 +4,20 @@
     "position": [0, 80],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M36.10*"]
   },
   {
     "text": "**Dexamethasone**",
     "position": [475, 492],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "**Methotrexate**",
     "position": [513, 529],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6851"]
   }
 ]

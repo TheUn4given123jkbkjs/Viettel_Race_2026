@@ -4,14 +4,14 @@
     "position": [104, 140],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I06.9", "I35"]
   },
   {
     "text": "Aspirin",
     "position": [387, 394],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "tăng huyết áp",
@@ -25,7 +25,7 @@
     "position": [308, 326],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E78"]
   },
   {
     "text": "troponin",

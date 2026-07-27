@@ -4,13 +4,17 @@
     "position": [58, 81],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P35.3"]
   },
   {
     "text": "bệnh gan",
     "position": [25, 33],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K70.9",
+      "K71",
+      "K71.0"
+    ]
   }
 ]

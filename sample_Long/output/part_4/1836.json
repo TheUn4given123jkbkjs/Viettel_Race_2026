@@ -4,7 +4,11 @@
     "position": [3055, 3073],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I11.0",
+      "I11.9",
+      "I13.0"
+    ]
   },
   {
     "text": "khó thở khi nằm",
@@ -32,7 +36,7 @@
     "position": [376, 390],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["A52.06", "I25.0"]
   },
   {
     "text": "bóng tim to",

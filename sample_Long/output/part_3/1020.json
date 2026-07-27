@@ -4,7 +4,7 @@
     "position": [152, 155],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "đau đè nặng vùng sau xương ức",
@@ -39,6 +39,6 @@
     "position": [758, 794],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I21.4"]
   }
 ]

@@ -4,14 +4,18 @@
     "position": [57, 72],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J30",
+      "J30.1",
+      "J30.2"
+    ]
   },
   {
     "text": "Loratadine",
     "position": [124, 134],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["28889"]
   },
   {
     "text": "hắt hơi",

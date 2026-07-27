@@ -4,21 +4,21 @@
     "position": [32, 80],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["M07.15*"]
   },
   {
     "text": "Atenolol",
     "position": [596, 604],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1202"]
   },
   {
     "text": "Acetaminophen",
     "position": [633, 646],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "************",

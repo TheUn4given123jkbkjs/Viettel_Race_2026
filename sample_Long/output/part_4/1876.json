@@ -4,14 +4,18 @@
     "position": [946, 956],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B17.1", "B18.2"]
   },
   {
     "text": "vảy nến",
     "position": [1121, 1128],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L40.50",
+      "L40.51",
+      "L40.52"
+    ]
   },
   {
     "text": "ngứa",
@@ -32,13 +36,13 @@
     "position": [2744, 2772],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L43.9"]
   },
   {
     "text": "Betamethasone",
     "position": [2801, 2814],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1514"]
   }
 ]

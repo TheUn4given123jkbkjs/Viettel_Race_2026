@@ -4,7 +4,7 @@
     "position": [0, 46],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K43.5"]
   },
   {
     "text": "răng miệng",
@@ -32,7 +32,11 @@
     "position": [764, 775],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K43.0",
+      "K43.1",
+      "K43.2"
+    ]
   },
   {
     "text": "Chăm sóc răng miệng",

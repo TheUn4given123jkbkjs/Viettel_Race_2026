@@ -4,14 +4,14 @@
     "position": [299, 329],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["G21.0"]
   },
   {
     "text": "Acetaminophen",
     "position": [361, 374],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "không sốt",
@@ -32,6 +32,6 @@
     "position": [378, 391],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   }
 ]

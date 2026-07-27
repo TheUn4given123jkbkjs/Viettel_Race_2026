@@ -4,7 +4,11 @@
     "position": [85, 88],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F02.4*",
+      "Z21",
+      "Z11.4"
+    ]
   },
   {
     "text": "[Tên thuốc]",
@@ -25,6 +29,10 @@
     "position": [198, 207],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I84.7",
+      "Y88.2",
+      "Z00"
+    ]
   }
 ]

@@ -11,7 +11,7 @@
     "position": [351, 414],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["P00.3", "P00.8"]
   },
   {
     "text": "nhẹ cân",
@@ -39,7 +39,7 @@
     "position": [671, 681],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6876"]
   },
   {
     "text": "co giật",
@@ -53,6 +53,6 @@
     "position": [913, 930],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6585"]
   }
 ]

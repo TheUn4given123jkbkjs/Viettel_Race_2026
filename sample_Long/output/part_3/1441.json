@@ -11,7 +11,7 @@
     "position": [434, 445],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3639"]
   },
   {
     "text": "Amlodipine5mg",
@@ -46,13 +46,17 @@
     "position": [1202, 1220],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I11.0",
+      "I11.9",
+      "I13.0"
+    ]
   },
   {
     "text": "Furosemide",
     "position": [1315, 1325],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4603"]
   }
 ]

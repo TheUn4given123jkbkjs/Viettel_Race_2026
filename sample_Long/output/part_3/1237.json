@@ -4,7 +4,11 @@
     "position": [200, 219],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M05",
+      "M05.3†",
+      "M05.8"
+    ]
   },
   {
     "text": "Sưng nề khớp gối hai bên",
@@ -39,7 +43,7 @@
     "position": [2503, 2577],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M36.40*"]
   },
   {
     "text": "dấu hiệu bập bềnh xương bánh chè dương tính",

@@ -11,7 +11,7 @@
     "position": [451, 470],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["797752", "2368450"]
   },
   {
     "text": "phủ nhận sốt",
@@ -39,7 +39,11 @@
     "position": [1893, 1906],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Glucose 5%",

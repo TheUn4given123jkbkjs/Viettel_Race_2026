@@ -4,7 +4,7 @@
     "position": [316, 334],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D09.0"]
   },
   {
     "text": "đau vùng hạ vị",
@@ -39,20 +39,20 @@
     "position": [2389, 2403],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N21.0"]
   },
   {
     "text": "Ciprofloxacin",
     "position": [2588, 2601],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2551"]
   },
   {
     "text": "Ibuprofen",
     "position": [2698, 2707],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   }
 ]

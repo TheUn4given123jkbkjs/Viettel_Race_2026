@@ -4,7 +4,11 @@
     "position": [323, 379],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "G32",
+      "G32*",
+      "G99"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",

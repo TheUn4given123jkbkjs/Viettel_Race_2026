@@ -4,7 +4,7 @@
     "position": [2203, 2216],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L70.8", "L71.8"]
   },
   {
     "text": "đái tháo đường tuýp 2",
@@ -39,7 +39,11 @@
     "position": [19, 30],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
   },
   {
     "text": "Siêu âm bụng",

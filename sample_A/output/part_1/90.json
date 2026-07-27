@@ -4,7 +4,11 @@
     "position": [42, 68],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "B41",
+      "B41.0",
+      "B41.7"
+    ]
   },
   {
     "text": "tiền sử THA",

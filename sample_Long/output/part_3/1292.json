@@ -4,14 +4,18 @@
     "position": [250, 262],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4496"]
   },
   {
     "text": "tâm thần phân liệt",
     "position": [134, 152],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F20.81",
+      "F20.89",
+      "F06.2"
+    ]
   },
   {
     "text": "đau ngực",
@@ -32,7 +36,7 @@
     "position": [1288, 1295],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "loạn vận động muộn",
@@ -60,6 +64,6 @@
     "position": [2609, 2620],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

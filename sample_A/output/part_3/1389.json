@@ -18,28 +18,28 @@
     "position": [1192, 1200],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E89.41", "G44.1"]
   },
   {
     "text": "aspirin",
     "position": [898, 905],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Dexamethasone",
     "position": [1074, 1087],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "ceftriaxone",
     "position": [664, 675],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "troponin",

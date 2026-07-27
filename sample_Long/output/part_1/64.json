@@ -4,14 +4,18 @@
     "position": [298, 343],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N83.2"]
   },
   {
     "text": "viêm vùng chậu",
     "position": [96, 110],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A18.16",
+      "A56.11",
+      "M01.05*"
+    ]
   },
   {
     "text": "đau bụng dưới",

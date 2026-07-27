@@ -4,13 +4,13 @@
     "position": [361, 386],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["D18", "D18.0"]
   },
   {
     "text": "Abacavir",
     "position": [442, 450],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   }
 ]

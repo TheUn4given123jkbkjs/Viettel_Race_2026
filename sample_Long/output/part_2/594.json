@@ -4,21 +4,25 @@
     "position": [73, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "I07.0",
+      "I07.2",
+      "I36.0"
+    ]
   },
   {
     "text": "aspirin",
     "position": [317, 324],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [336, 347],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "buồn nôn",

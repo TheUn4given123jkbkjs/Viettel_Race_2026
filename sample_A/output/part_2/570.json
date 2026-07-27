@@ -4,7 +4,7 @@
     "position": [79, 96],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["99"]
   },
   {
     "text": "troponin",
@@ -39,7 +39,7 @@
     "position": [385, 392],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftiaxone",

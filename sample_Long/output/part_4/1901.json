@@ -4,7 +4,7 @@
     "position": [0, 33],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M67.0"]
   },
   {
     "text": "đau ở phía sau gót chân",
@@ -25,7 +25,11 @@
     "position": [673, 683],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
   },
   {
     "text": "thay đổi lối sống",

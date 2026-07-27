@@ -4,7 +4,11 @@
     "position": [140, 148],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Z20.7",
+      "B77",
+      "B77.0"
+    ]
   },
   {
     "text": "đau bụng",
@@ -39,7 +43,7 @@
     "position": [1371, 1382],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["430"]
   },
   {
     "text": "nhiễm sán gan",

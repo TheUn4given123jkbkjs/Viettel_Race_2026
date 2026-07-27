@@ -4,7 +4,7 @@
     "position": [390, 457],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M09.26*"]
   },
   {
     "text": "không sốt",
@@ -18,6 +18,10 @@
     "position": [138, 157],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K51",
+      "K51.1",
+      "K51.3"
+    ]
   }
 ]

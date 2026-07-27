@@ -4,7 +4,7 @@
     "position": [126, 136],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["343047"]
   },
   {
     "text": "nhiễm HIV",
@@ -18,21 +18,25 @@
     "position": [208, 225],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A54.86",
+      "I89",
+      "I89.8"
+    ]
   },
   {
     "text": "ceftriaxone",
     "position": [417, 428],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "aspirin",
     "position": [462, 469],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "troponin",

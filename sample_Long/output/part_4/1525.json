@@ -39,20 +39,24 @@
     "position": [885, 907],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L58",
+      "L58.0",
+      "L58.1"
+    ]
   },
   {
     "text": "Betamethasone",
     "position": [938, 951],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1514"]
   },
   {
     "text": "Chlorpheniramine",
     "position": [1027, 1043],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2400"]
   }
 ]

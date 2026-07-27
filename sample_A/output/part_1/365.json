@@ -4,42 +4,62 @@
     "position": [162, 170],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["10454"]
   },
   {
     "text": "Statin",
     "position": [986, 992],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "83367",
+      "34482",
+      "7597"
+    ]
   },
   {
     "text": "bệnh tim mạch",
     "position": [243, 256],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "tiểu đường",
     "position": [260, 270],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   },
   {
     "text": "suy dinh dưỡng",
     "position": [1546, 1560],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E41",
+      "E43"
+    ]
   },
   {
     "text": "tăng huyết áp",
     "position": [336, 349],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "bệnh beriberi",

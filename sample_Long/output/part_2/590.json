@@ -11,7 +11,11 @@
     "position": [0, 12],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M36.0*",
+      "M36.00*",
+      "M36.01*"
+    ]
   },
   {
     "text": "Prednisone",
@@ -25,7 +29,7 @@
     "position": [2228, 2240],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6851"]
   },
   {
     "text": "Hydroxychloroquine",
@@ -46,7 +50,7 @@
     "position": [2280, 2292],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1256"]
   },
   {
     "text": "**********",

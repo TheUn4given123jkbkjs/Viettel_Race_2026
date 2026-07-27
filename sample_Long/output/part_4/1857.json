@@ -4,14 +4,18 @@
     "position": [193, 217],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O88.0"]
   },
   {
     "text": "tăng huyết áp",
     "position": [108, 121],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "đau bụng",

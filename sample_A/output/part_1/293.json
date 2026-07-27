@@ -11,20 +11,20 @@
     "position": [101, 156],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["G63.4*"]
   },
   {
     "text": "Acetaminophen",
     "position": [225, 238],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Vitamin A",
     "position": [242, 251],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["11246", "97016"]
   }
 ]

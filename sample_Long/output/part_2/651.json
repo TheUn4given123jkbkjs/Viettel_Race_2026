@@ -4,14 +4,14 @@
     "position": [69, 82],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["Q33.4"]
   },
   {
     "text": "Azithromycin",
     "position": [167, 179],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["18631"]
   },
   {
     "text": "ho khạc đờm mủ",
@@ -46,7 +46,7 @@
     "position": [1061, 1072],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Salbutamol",

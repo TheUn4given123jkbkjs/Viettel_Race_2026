@@ -4,21 +4,21 @@
     "position": [78, 120],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": []
+    "candidates": ["A50.07"]
   },
   {
     "text": "Abacavir",
     "position": [437, 445],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Acyclovir",
     "position": [588, 597],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "THA 5 năm",

@@ -4,7 +4,7 @@
     "position": [481, 484],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "ĐTĐ type 2",
@@ -39,13 +39,13 @@
     "position": [987, 1032],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M20.2"]
   },
   {
     "text": "Viêm túi mật cấp",
     "position": [1318, 1334],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K80.0", "K81.0"]
   }
 ]

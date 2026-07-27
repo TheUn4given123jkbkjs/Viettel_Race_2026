@@ -4,7 +4,7 @@
     "position": [0, 26],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N99.2"]
   },
   {
     "text": "không sốt",
@@ -25,13 +25,13 @@
     "position": [314, 327],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ibuprofen",
     "position": [331, 340],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   }
 ]

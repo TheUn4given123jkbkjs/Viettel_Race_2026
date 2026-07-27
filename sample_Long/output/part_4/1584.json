@@ -4,7 +4,7 @@
     "position": [49, 62],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "đau dạ dày",
@@ -18,13 +18,13 @@
     "position": [267, 279],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["Z86.13", "B52.0"]
   },
   {
     "text": "Acetaminophen",
     "position": [49, 62],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

@@ -4,7 +4,11 @@
     "position": [21, 29],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
   },
   {
     "text": "Đau cột sống thắt lưng",
@@ -32,20 +36,32 @@
     "position": [219, 298],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M49.3*",
+      "M49.30*",
+      "M49.31*"
+    ]
   },
   {
     "text": "Ethambutol",
     "position": [338, 348],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "4110"
+    ]
   },
   {
     "text": "Rifampin",
     "position": [352, 360],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
   }
 ]

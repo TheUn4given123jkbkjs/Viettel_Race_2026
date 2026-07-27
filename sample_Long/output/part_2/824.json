@@ -4,7 +4,7 @@
     "position": [48, 63],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K29.0", "K29.1"]
   },
   {
     "text": "đau bụng vùng thượng vị",
@@ -18,7 +18,7 @@
     "position": [441, 461],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["103990"]
   },
   {
     "text": "phủ nhận buồn nôn",

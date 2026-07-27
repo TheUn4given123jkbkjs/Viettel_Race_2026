@@ -4,14 +4,14 @@
     "position": [0, 62],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["O03.2"]
   },
   {
     "text": "Abacavir",
     "position": [276, 284],
     "type": "THUỐC",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["190521"]
   },
   {
     "text": "Tiền sử THA 5 năm",

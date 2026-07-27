@@ -4,7 +4,7 @@
     "position": [84, 87],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "chủ quan sốt",
@@ -32,20 +32,20 @@
     "position": [985, 1011],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M00.11"]
   },
   {
     "text": "Ceftriaxone",
     "position": [1100, 1111],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Acetaminophen",
     "position": [1154, 1167],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

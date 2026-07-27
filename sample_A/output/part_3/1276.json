@@ -4,21 +4,21 @@
     "position": [302, 331],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["B26.83"]
   },
   {
     "text": "Acetaminophen",
     "position": [393, 406],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Aspirin",
     "position": [416, 423],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "[Tên bệnh nhân]",

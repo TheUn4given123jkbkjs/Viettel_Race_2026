@@ -4,7 +4,11 @@
     "position": [207, 214],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Z30.0",
+      "Z70",
+      "Z70.0"
+    ]
   },
   {
     "text": "đau bụng",
@@ -39,6 +43,10 @@
     "position": [182, 192],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   }
 ]

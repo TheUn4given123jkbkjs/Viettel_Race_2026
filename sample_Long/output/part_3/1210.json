@@ -11,7 +11,11 @@
     "position": [606, 619],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "buồn nôn",
@@ -25,7 +29,7 @@
     "position": [1713, 1781],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N31"]
   },
   {
     "text": "Pyridostigmine 60mg",

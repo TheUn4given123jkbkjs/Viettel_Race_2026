@@ -25,13 +25,17 @@
     "position": [601, 617],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N71.0"]
   },
   {
     "text": "Viêm tử cung",
     "position": [601, 613],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A54.03",
+      "A56.00",
+      "A18.16"
+    ]
   }
 ]

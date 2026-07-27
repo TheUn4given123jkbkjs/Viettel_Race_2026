@@ -11,14 +11,18 @@
     "position": [102, 113],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["317235"]
   },
   {
     "text": "Sởi",
     "position": [135, 138],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "Z27.4",
+      "Z24.4",
+      "B05"
+    ]
   },
   {
     "text": "nôn mửa",
@@ -32,6 +36,10 @@
     "position": [246, 263],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K91",
+      "K91.8",
+      "K91.9"
+    ]
   }
 ]

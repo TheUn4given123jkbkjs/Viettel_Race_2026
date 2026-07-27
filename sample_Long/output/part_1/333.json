@@ -4,14 +4,18 @@
     "position": [170, 182],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Hoại tử xương",
     "position": [250, 263],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "A18.03",
+      "M87",
+      "M87.0"
+    ]
   },
   {
     "text": "buồn nôn",
@@ -25,7 +29,7 @@
     "position": [758, 767],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Hoại tử xưogn",
@@ -46,13 +50,17 @@
     "position": [250, 263],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A18.03",
+      "M87",
+      "M87.0"
+    ]
   },
   {
     "text": "Diclofena",
     "position": [1204, 1213],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   }
 ]

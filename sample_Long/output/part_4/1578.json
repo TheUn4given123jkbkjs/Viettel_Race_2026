@@ -4,14 +4,14 @@
     "position": [205, 256],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["O64.0"]
   },
   {
     "text": "Aspirin",
     "position": [282, 289],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "bệnh tim mạch",

@@ -4,7 +4,7 @@
     "position": [0, 64],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N22"]
   },
   {
     "text": "đau bụng",
@@ -32,13 +32,13 @@
     "position": [241, 254],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ibuprofen",
     "position": [279, 288],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   }
 ]

@@ -4,21 +4,21 @@
     "position": [351, 375],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I28.0"]
   },
   {
     "text": "aspirin",
     "position": [202, 209],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "ceftriaxone",
     "position": [213, 224],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -46,7 +46,7 @@
     "position": [415, 428],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "troponin",

@@ -11,7 +11,11 @@
     "position": [237, 243],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "83367",
+      "34482",
+      "7597"
+    ]
   },
   {
     "text": "ECG",
@@ -32,7 +36,7 @@
     "position": [616, 623],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "tiểu đường",
@@ -46,7 +50,7 @@
     "position": [414, 423],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "bệnh động mạch vành",

@@ -11,21 +11,25 @@
     "position": [303, 310],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "test",
     "position": [261, 265],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "D15.098",
+      "Z01.5",
+      "R76.1"
+    ]
   },
   {
     "text": "ceftriaxone",
     "position": [322, 333],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "bệnh nhân nữ",

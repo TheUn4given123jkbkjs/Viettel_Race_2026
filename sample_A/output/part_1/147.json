@@ -4,7 +4,7 @@
     "position": [283, 302],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A92.4"]
   },
   {
     "text": "Aspirin 325mg",
@@ -39,14 +39,22 @@
     "position": [283, 286],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
   },
   {
     "text": "Đau đầu",
     "position": [1551, 1558],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G44",
+      "G44.0",
+      "G44.2"
+    ]
   },
   {
     "text": "Thuốc chống nôn",

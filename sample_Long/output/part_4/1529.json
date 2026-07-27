@@ -4,7 +4,11 @@
     "position": [176, 195],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "D68.2",
+      "D58",
+      "D58.8"
+    ]
   },
   {
     "text": "đau dữ dội vùng xương đùi trái",
@@ -32,20 +36,20 @@
     "position": [948, 987],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M86.5"]
   },
   {
     "text": "Clindamycin",
     "position": [1199, 1210],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2582"]
   },
   {
     "text": "Ciprofloxacin",
     "position": [1314, 1327],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2551"]
   }
 ]

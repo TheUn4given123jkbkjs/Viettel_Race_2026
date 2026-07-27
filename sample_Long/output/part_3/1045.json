@@ -4,35 +4,39 @@
     "position": [93, 106],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Các bệnh tuyến mồ hôi, không điển hình",
     "position": [1433, 1471],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L74.9", "L75.9"]
   },
   {
     "text": "Clindamycin",
     "position": [1945, 1956],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2582"]
   },
   {
     "text": "Metronidazole",
     "position": [2102, 2115],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6922"]
   },
   {
     "text": "Acetaminophen",
     "position": [2245, 2258],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "nốt đỏ",

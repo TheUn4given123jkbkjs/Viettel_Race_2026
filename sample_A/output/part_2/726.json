@@ -4,7 +4,11 @@
     "position": [10, 35],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "C91",
+      "C91.0",
+      "C91.1"
+    ]
   },
   {
     "text": "Rituximab",
@@ -25,20 +29,20 @@
     "position": [755, 768],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "Acyclovir",
     "position": [843, 852],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "Fluconazole",
     "position": [935, 946],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4450"]
   }
 ]

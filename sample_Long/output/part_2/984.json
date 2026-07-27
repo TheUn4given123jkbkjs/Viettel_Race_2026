@@ -4,7 +4,7 @@
     "position": [64, 74],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4278"]
   },
   {
     "text": "viên dạ dày",
@@ -18,7 +18,11 @@
     "position": [412, 421],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.15",
+      "A51.46",
+      "Z86.11"
+    ]
   },
   {
     "text": "bố bệnh nhân",

@@ -4,7 +4,7 @@
     "position": [77, 86],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["435"]
   },
   {
     "text": "hen suyễn",
@@ -18,7 +18,11 @@
     "position": [281, 290],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
   },
   {
     "text": "kháng sinh",

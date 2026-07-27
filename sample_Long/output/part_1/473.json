@@ -4,20 +4,24 @@
     "position": [0, 27],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M01.6*",
+      "M01.60*",
+      "M01.61*"
+    ]
   },
   {
     "text": "Amphotericin B",
     "position": [268, 282],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["732"]
   },
   {
     "text": "Acetaminophen",
     "position": [369, 382],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

@@ -4,21 +4,21 @@
     "position": [804, 843],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["I82", "I82.8"]
   },
   {
     "text": "Aspirin",
     "position": [1734, 1741],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Ceftriaxone",
     "position": [1744, 1755],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Bác sĩ [Tên bác sĩ]",

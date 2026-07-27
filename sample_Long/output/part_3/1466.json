@@ -4,14 +4,18 @@
     "position": [0, 20],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O71",
+      "O71.8",
+      "O71.9"
+    ]
   },
   {
     "text": "Chấn thương sản khoa, chưa xác định rõ",
     "position": [120, 158],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O71.9"]
   },
   {
     "text": "đau bụng",

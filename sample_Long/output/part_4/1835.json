@@ -4,7 +4,11 @@
     "position": [19, 32],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Đau xé vùng thượng vị",
@@ -32,7 +36,7 @@
     "position": [1173, 1206],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I71.5", "I71.6"]
   },
   {
     "text": "Morphine 5mg iv",

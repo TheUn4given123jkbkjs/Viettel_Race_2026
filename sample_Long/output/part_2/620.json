@@ -4,14 +4,18 @@
     "position": [94, 155],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M09.14*", "M07.44*"]
   },
   {
     "text": "tăng huyết áp",
     "position": [315, 328],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Sưng đau khớp bàn tay",

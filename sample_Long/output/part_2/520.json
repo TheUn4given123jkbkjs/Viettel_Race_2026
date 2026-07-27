@@ -18,21 +18,21 @@
     "position": [295, 367],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M03", "M03*"]
   },
   {
     "text": "Bệnh khớp sau nhiễm khuẩn và bệnh khớp phản ứng được xếp loại ở mục khác",
     "position": [295, 367],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["M03", "M03*"]
   },
   {
     "text": "Diclofenac",
     "position": [1111, 1121],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   },
   {
     "text": "sưng đau khớp",

@@ -4,28 +4,32 @@
     "position": [764, 796],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E30.9"]
   },
   {
     "text": "THA",
     "position": [100, 103],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "tăng huyết áp",
     "position": [193, 206],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "rối loạn lipid máu",
     "position": [210, 228],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E78"]
   },
   {
     "text": "tiểu đường loại 2",
@@ -46,6 +50,6 @@
     "position": [636, 643],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [1149, 1182],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I49.9"]
   },
   {
     "text": "hồi hộp",
@@ -25,7 +25,11 @@
     "position": [546, 553],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E88.31",
+      "G46.3*",
+      "G46.4*"
+    ]
   },
   {
     "text": "điện tâm đồ",

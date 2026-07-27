@@ -4,21 +4,21 @@
     "position": [32, 60],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["N18.9"]
   },
   {
     "text": "Sulfamethoxazole / Trimethoprim",
     "position": [150, 181],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10831"]
   },
   {
     "text": "Aspirin",
     "position": [206, 213],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Suy thận mạn",

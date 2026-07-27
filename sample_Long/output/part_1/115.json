@@ -39,20 +39,20 @@
     "position": [903, 942],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J21.9"]
   },
   {
     "text": "Albuterol",
     "position": [1102, 1111],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["435"]
   },
   {
     "text": "Acetaminophen",
     "position": [1273, 1286],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

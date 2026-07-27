@@ -32,27 +32,27 @@
     "position": [1730, 1761],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B58.1†"]
   },
   {
     "text": "Pyrimethamine",
     "position": [1823, 1836],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["9010", "203218"]
   },
   {
     "text": "Sulfadiazine",
     "position": [1889, 1901],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["9793", "10171"]
   },
   {
     "text": "Calcium folinate",
     "position": [1955, 1971],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["225852"]
   }
 ]

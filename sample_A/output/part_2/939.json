@@ -4,7 +4,7 @@
     "position": [136, 150],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["9997"]
   },
   {
     "text": "Valsartan",
@@ -18,14 +18,18 @@
     "position": [344, 347],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
   },
   {
     "text": "buồn nôn",
     "position": [1971, 1979],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["R11"]
   },
   {
     "text": "huyết áp cao",
@@ -46,6 +50,10 @@
     "position": [441, 454],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.13",
+      "A54.81",
+      "A50.41"
+    ]
   }
 ]

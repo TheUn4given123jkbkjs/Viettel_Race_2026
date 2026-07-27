@@ -4,7 +4,11 @@
     "position": [472, 490],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M17",
+      "M17.0",
+      "M17.1"
+    ]
   },
   {
     "text": "đau khớp gối trái",
@@ -39,7 +43,7 @@
     "position": [2750, 2786],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M23.8"]
   },
   {
     "text": "kẹt khớp",

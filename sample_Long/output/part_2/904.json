@@ -4,14 +4,18 @@
     "position": [173, 185],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3008"]
   },
   {
     "text": "ghép thận",
     "position": [80, 89],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "N16.5*",
+      "T86.1",
+      "Z94.0"
+    ]
   },
   {
     "text": "đau ngực",
@@ -46,6 +50,6 @@
     "position": [961, 968],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   }
 ]

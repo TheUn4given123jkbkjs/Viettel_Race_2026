@@ -4,7 +4,7 @@
     "position": [383, 390],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "[TÊN BỆNH]",
@@ -25,7 +25,11 @@
     "position": [117, 121],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.72",
+      "A50.04",
+      "B06.81"
+    ]
   },
   {
     "text": "buồn nôn",

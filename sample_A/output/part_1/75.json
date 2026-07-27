@@ -4,7 +4,7 @@
     "position": [228, 249],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["34482"]
   },
   {
     "text": "tiểu đường loại 2",
@@ -18,7 +18,11 @@
     "position": [154, 167],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
   },
   {
     "text": "xét nghiệm máu",

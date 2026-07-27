@@ -4,7 +4,11 @@
     "position": [178, 191],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "aspirinn",
@@ -18,14 +22,14 @@
     "position": [510, 537],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["203218"]
   },
   {
     "text": "ung thư phổi",
     "position": [737, 749],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D02.2"]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -53,6 +57,6 @@
     "position": [2155, 2166],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

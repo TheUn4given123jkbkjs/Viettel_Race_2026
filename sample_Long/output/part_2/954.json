@@ -18,14 +18,22 @@
     "position": [440, 446],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "K71.7",
+      "K74",
+      "K74.0"
+    ]
   },
   {
     "text": "Viêm gan mãn, không phân loại nơi khác",
     "position": [568, 606],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K73",
+      "K73.0",
+      "K73.1"
+    ]
   },
   {
     "text": "xétnghiệm",

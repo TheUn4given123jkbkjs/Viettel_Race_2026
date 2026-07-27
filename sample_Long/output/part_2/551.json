@@ -4,7 +4,11 @@
     "position": [44, 63],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "khó thở kịch phát",
@@ -39,6 +43,6 @@
     "position": [241, 270],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I51.0"]
   }
 ]

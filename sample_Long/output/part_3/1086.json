@@ -4,21 +4,25 @@
     "position": [252, 292],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N21.9"]
   },
   {
     "text": "Acetaminophen",
     "position": [316, 329],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "tiểu đường",
     "position": [92, 102],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   },
   {
     "text": "huyết áp cao",

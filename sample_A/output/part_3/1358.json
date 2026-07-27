@@ -11,7 +11,7 @@
     "position": [318, 336],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["H49.8"]
   },
   {
     "text": "đau đầu",
@@ -25,7 +25,11 @@
     "position": [472, 482],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
   },
   {
     "text": "theo dõi lối sống",

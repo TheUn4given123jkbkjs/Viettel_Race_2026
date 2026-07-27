@@ -4,7 +4,7 @@
     "position": [72, 105],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L51.9"]
   },
   {
     "text": "không sốt",
@@ -25,13 +25,13 @@
     "position": [238, 251],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Acyclovir",
     "position": [255, 264],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   }
 ]

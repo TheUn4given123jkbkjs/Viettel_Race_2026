@@ -4,7 +4,11 @@
     "position": [86, 96],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
   },
   {
     "text": "Đau căng tức vú hai bên",
@@ -25,7 +29,11 @@
     "position": [647, 662],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N60.10",
+      "N60.12",
+      "N60.13"
+    ]
   },
   {
     "text": "Ibuprofen 400mg",
@@ -39,6 +47,6 @@
     "position": [768, 780],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8727"]
   }
 ]

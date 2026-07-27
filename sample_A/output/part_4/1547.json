@@ -11,13 +11,17 @@
     "position": [195, 232],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["F45.29"]
   },
   {
     "text": "tim",
     "position": [108, 111],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "A54.80",
+      "A54.87",
+      "A18.82"
+    ]
   }
 ]

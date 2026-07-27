@@ -4,7 +4,11 @@
     "position": [0, 8],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
   },
   {
     "text": "Mycobacterium tuberculosis",
@@ -18,7 +22,7 @@
     "position": [361, 421],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A15.3"]
   },
   {
     "text": "chụp X-quang ngực",

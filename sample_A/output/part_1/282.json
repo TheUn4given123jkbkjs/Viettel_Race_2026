@@ -4,14 +4,18 @@
     "position": [69, 77],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E89.6",
+      "I12.0",
+      "I12.9"
+    ]
   },
   {
     "text": "Acetate hemodialysis solution",
     "position": [99, 128],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["226504"]
   },
   {
     "text": "buồn nôn",

@@ -4,7 +4,7 @@
     "position": [205, 212],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["3489"]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -18,7 +18,11 @@
     "position": [372, 382],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "Y45.9",
+      "X60"
+    ]
   },
   {
     "text": "troponin",
@@ -32,13 +36,13 @@
     "position": [623, 634],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "aspirin",
     "position": [638, 645],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   }
 ]

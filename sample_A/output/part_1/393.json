@@ -4,7 +4,7 @@
     "position": [74, 82],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["11289"]
   },
   {
     "text": "táo",
@@ -32,6 +32,10 @@
     "position": [436, 444],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F62.0",
+      "F62.1",
+      "F62.8"
+    ]
   }
 ]

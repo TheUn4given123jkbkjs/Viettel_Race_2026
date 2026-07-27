@@ -4,7 +4,7 @@
     "position": [653, 671],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["I68.8*"]
   },
   {
     "text": "cao huyết áp",
@@ -18,21 +18,21 @@
     "position": [1213, 1251],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I15.0"]
   },
   {
     "text": "hẹp động mạch thận",
     "position": [1473, 1491],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["Q27.1"]
   },
   {
     "text": "Captopril",
     "position": [2160, 2169],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1998"]
   },
   {
     "text": "siêu âm Doppler động mạch thận",

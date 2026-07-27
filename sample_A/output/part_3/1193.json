@@ -4,14 +4,18 @@
     "position": [0, 3],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F02.4*",
+      "Z21",
+      "Z11.4"
+    ]
   },
   {
     "text": "Ritonavir",
     "position": [112, 121],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["284640", "85762"]
   },
   {
     "text": "sốt",

@@ -25,14 +25,18 @@
     "position": [1292, 1305],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Tăng huyết áp động mạch phổi thứ phát",
     "position": [1791, 1828],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I27.2"]
   },
   {
     "text": "Amlodipine 5mg",

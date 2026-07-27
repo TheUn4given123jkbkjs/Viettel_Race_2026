@@ -4,7 +4,11 @@
     "position": [1235, 1273],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N50",
+      "N50.8",
+      "N51.8*"
+    ]
   },
   {
     "text": "Testosterone 250mg IM",
@@ -25,7 +29,7 @@
     "position": [297, 320],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D07.5"]
   },
   {
     "text": "biến đổi khác của cơ quan sinh dụcna m",

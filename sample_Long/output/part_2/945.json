@@ -4,7 +4,11 @@
     "position": [34, 39],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "K50",
+      "K50.0",
+      "K50.1"
+    ]
   },
   {
     "text": "đau nhức",
@@ -32,6 +36,6 @@
     "position": [243, 305],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M09.12*", "M07.42*"]
   }
 ]

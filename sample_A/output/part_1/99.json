@@ -4,20 +4,20 @@
     "position": [0, 27],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["G03.0"]
   },
   {
     "text": "Mannitol",
     "position": [945, 953],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6628"]
   },
   {
     "text": "Ibuprofen",
     "position": [880, 889],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   }
 ]

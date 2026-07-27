@@ -11,7 +11,11 @@
     "position": [554, 565],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
   },
   {
     "text": "Siêu âm tuyến vú",
@@ -25,20 +29,24 @@
     "position": [789, 815],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N60.80",
+      "N60.81",
+      "N60.83"
+    ]
   },
   {
     "text": "Tamoxifen",
     "position": [844, 853],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10324"]
   },
   {
     "text": "Ibuprofen",
     "position": [895, 904],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   }
 ]

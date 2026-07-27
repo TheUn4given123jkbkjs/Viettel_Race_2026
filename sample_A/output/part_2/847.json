@@ -4,14 +4,14 @@
     "position": [190, 205],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2118525"]
   },
   {
     "text": "aspirin",
     "position": [301, 308],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "đau hạ sườn fải",
@@ -53,6 +53,6 @@
     "position": [1116, 1127],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

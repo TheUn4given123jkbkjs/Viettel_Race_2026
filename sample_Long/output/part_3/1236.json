@@ -4,21 +4,21 @@
     "position": [55, 75],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K29.0"]
   },
   {
     "text": "H. pylori",
     "position": [217, 226],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["B98.0"]
   },
   {
     "text": "Scopolamine butylbromide",
     "position": [489, 513],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1851"]
   },
   {
     "text": "Đau vùng thượng vị",
@@ -39,7 +39,11 @@
     "position": [1011, 1030],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K32",
+      "K32.0",
+      "K32.1"
+    ]
   },
   {
     "text": "nội soi",

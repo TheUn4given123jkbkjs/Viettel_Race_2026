@@ -4,7 +4,7 @@
     "position": [240, 266],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["H02.9", "H21.9"]
   },
   {
     "text": "aspirin",

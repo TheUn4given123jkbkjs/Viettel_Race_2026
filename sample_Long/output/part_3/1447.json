@@ -4,7 +4,11 @@
     "position": [226, 237],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
   },
   {
     "text": "chủ quan sốt",
@@ -25,27 +29,27 @@
     "position": [975, 998],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M86.1", "M86.8"]
   },
   {
     "text": "Ciprofloxacin",
     "position": [1204, 1217],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2551"]
   },
   {
     "text": "Clindamycin",
     "position": [1263, 1274],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2582"]
   },
   {
     "text": "Acetaminophen",
     "position": [1374, 1387],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   }
 ]

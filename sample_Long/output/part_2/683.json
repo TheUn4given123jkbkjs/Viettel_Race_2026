@@ -18,34 +18,38 @@
     "position": [499, 534],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L63.9"]
   },
   {
     "text": "Betamethasone",
     "position": [882, 895],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1514"]
   },
   {
     "text": "Zinc sulfate",
     "position": [1082, 1094],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["39954"]
   },
   {
     "text": "nấm da đầu",
     "position": [1312, 1322],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["B35.0"]
   },
   {
     "text": "Lupus ban đỏ",
     "position": [1328, 1340],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "L93",
+      "L93.0",
+      "L93.1"
+    ]
   }
 ]

@@ -4,21 +4,21 @@
     "position": [46, 64],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["H11.3", "B30.3†"]
   },
   {
     "text": "Aspirin",
     "position": [335, 342],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Acetazolamide",
     "position": [353, 366],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "tiểu đường",

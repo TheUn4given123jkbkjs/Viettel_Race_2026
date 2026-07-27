@@ -11,7 +11,7 @@
     "position": [970, 1008],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["D09.0"]
   },
   {
     "text": "tiền sử cao huyết áp",
@@ -32,6 +32,10 @@
     "position": [873, 900],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "P39.3",
+      "O86.3",
+      "O23"
+    ]
   }
 ]

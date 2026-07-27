@@ -4,7 +4,7 @@
     "position": [324, 346],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["D01.1"]
   },
   {
     "text": "vật chất phân qua âm đạo",
@@ -46,6 +46,6 @@
     "position": [2125, 2161],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N82.4"]
   }
 ]

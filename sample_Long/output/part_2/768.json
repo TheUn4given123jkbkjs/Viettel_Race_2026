@@ -4,21 +4,21 @@
     "position": [0, 84],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M36.82*"]
   },
   {
     "text": "Methylprednisolone",
     "position": [780, 798],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6902"]
   },
   {
     "text": "Prednisolone",
     "position": [803, 815],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Tramadol",
@@ -32,13 +32,13 @@
     "position": [833, 844],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Cefazolin",
     "position": [849, 858],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2180"]
   }
 ]

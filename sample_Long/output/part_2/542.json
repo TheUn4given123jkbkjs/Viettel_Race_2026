@@ -11,7 +11,7 @@
     "position": [421, 435],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["A52.06", "I25.0"]
   },
   {
     "text": "đau mũi dữ dội",
@@ -32,7 +32,7 @@
     "position": [1782, 1815],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J34.0"]
   },
   {
     "text": "phù nề khu trú",

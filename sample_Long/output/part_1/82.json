@@ -4,7 +4,11 @@
     "position": [167, 196],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M92",
+      "M92.3",
+      "M92.8"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -18,7 +22,11 @@
     "position": [141, 151],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   },
   {
     "text": "không sốt",

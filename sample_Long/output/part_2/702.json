@@ -18,7 +18,11 @@
     "position": [165, 177],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "N18",
+      "N18.1",
+      "N18.2"
+    ]
   },
   {
     "text": "đau thắt lưng",
@@ -46,13 +50,17 @@
     "position": [918, 929],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E87.6"]
   },
   {
     "text": "Rối loạn do suy giảm chức năng ống thận",
     "position": [1063, 1102],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N25",
+      "N25.8",
+      "N25.9"
+    ]
   }
 ]

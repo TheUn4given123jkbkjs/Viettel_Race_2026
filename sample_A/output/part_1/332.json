@@ -4,21 +4,21 @@
     "position": [57, 139],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["D83.0"]
   },
   {
     "text": "Acyclovir",
     "position": [1691, 1700],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["281"]
   },
   {
     "text": "Prednisolone",
     "position": [1704, 1716],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Cảm ơn bạn đã đọc bài viết này.",

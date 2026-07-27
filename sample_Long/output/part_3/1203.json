@@ -4,14 +4,18 @@
     "position": [49, 65],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "H10.1",
+      "H10.2",
+      "H10.3"
+    ]
   },
   {
     "text": "Argyrol",
     "position": [331, 338],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2711625"]
   },
   {
     "text": "đỏ mắt",

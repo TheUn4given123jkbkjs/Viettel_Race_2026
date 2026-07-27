@@ -4,7 +4,11 @@
     "position": [154, 161],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L40.50",
+      "L40.51",
+      "L40.52"
+    ]
   },
   {
     "text": "sưng các khớp nhỏ bàn tay",
@@ -39,6 +43,6 @@
     "position": [1047, 1097],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M09.04*"]
   }
 ]

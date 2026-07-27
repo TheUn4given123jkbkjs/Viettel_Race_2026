@@ -4,21 +4,21 @@
     "position": [193, 240],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J38.00"]
   },
   {
     "text": "Acetaminophen",
     "position": [396, 409],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Aspirin",
     "position": [437, 444],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -32,6 +32,6 @@
     "position": [538, 549],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

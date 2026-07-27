@@ -11,7 +11,11 @@
     "position": [248, 255],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80"
+    ]
   },
   {
     "text": "đau bụng âm ỉ vùng thượng vị",
@@ -46,6 +50,6 @@
     "position": [924, 934],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K82.3"]
   }
 ]

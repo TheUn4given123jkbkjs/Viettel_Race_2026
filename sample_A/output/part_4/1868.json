@@ -4,7 +4,11 @@
     "position": [308, 355],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F11.9",
+      "F12.9",
+      "F14.9"
+    ]
   },
   {
     "text": "caffeine",
@@ -18,13 +22,21 @@
     "position": [716, 733],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I98.1*",
+      "Z13.6",
+      "P29"
+    ]
   },
   {
     "text": "Rối loạn giấc ngủ",
     "position": [756, 773],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F51.8",
+      "F51.9",
+      "G47"
+    ]
   }
 ]

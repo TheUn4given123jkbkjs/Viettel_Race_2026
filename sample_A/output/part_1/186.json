@@ -4,7 +4,7 @@
     "position": [109, 122],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["E06.0", "E06.1"]
   },
   {
     "text": "phẫu thuật",

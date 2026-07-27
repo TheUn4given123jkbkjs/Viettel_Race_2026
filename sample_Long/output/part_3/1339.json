@@ -4,7 +4,11 @@
     "position": [36, 54],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O80",
+      "O80.8",
+      "O80.9"
+    ]
   },
   {
     "text": "sốt cao",
@@ -32,14 +36,18 @@
     "position": [368, 381],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Đẻ thường một thai",
     "position": [582, 600],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O80",
+      "O80.8",
+      "O80.9"
+    ]
   },
   {
     "text": "băng huyết sau sinh",

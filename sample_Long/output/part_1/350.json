@@ -18,7 +18,11 @@
     "position": [420, 438],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M47.11",
+      "M47.12",
+      "M47.13"
+    ]
   },
   {
     "text": "đau nhức",
@@ -32,7 +36,7 @@
     "position": [1016, 1057],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M99.0"]
   },
   {
     "text": "hạn chế vận động",

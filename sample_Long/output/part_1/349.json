@@ -4,21 +4,21 @@
     "position": [47, 72],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I20.0"]
   },
   {
     "text": "Bệnh mạch vành",
     "position": [400, 414],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["A52.06", "I25.0"]
   },
   {
     "text": "Nitroglycerin",
     "position": [507, 520],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4917"]
   },
   {
     "text": "đè nén",
@@ -46,7 +46,7 @@
     "position": [1201, 1208],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "can thiệp mạch vành qua da",

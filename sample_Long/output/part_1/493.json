@@ -4,7 +4,7 @@
     "position": [2499, 2568],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M03.63*"]
   },
   {
     "text": "sưng và cứng khớp",
@@ -25,7 +25,11 @@
     "position": [1391, 1410],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "K51",
+      "K51.1",
+      "K51.3"
+    ]
   },
   {
     "text": "Tiểu đường type 2",

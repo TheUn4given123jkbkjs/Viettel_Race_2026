@@ -4,14 +4,18 @@
     "position": [80, 87],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I11.0",
+      "I11.9",
+      "I13.0"
+    ]
   },
   {
     "text": "Furosemide",
     "position": [201, 211],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4603"]
   },
   {
     "text": "chuột rút",
@@ -25,7 +29,11 @@
     "position": [589, 607],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I11.0",
+      "I11.9",
+      "I13.0"
+    ]
   },
   {
     "text": "không sốt",
@@ -53,6 +61,6 @@
     "position": [1590, 1601],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E87.6"]
   }
 ]

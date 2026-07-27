@@ -11,7 +11,7 @@
     "position": [738, 749],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["8328"]
   },
   {
     "text": "đau đầu",
@@ -32,6 +32,10 @@
     "position": [816, 826],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
   }
 ]

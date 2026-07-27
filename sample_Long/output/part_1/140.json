@@ -4,7 +4,11 @@
     "position": [35, 44],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F19.10",
+      "F19.12",
+      "F19.14"
+    ]
   },
   {
     "text": "co giật",
@@ -32,7 +36,7 @@
     "position": [321, 334],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2002"]
   },
   {
     "text": "cơn co giật",

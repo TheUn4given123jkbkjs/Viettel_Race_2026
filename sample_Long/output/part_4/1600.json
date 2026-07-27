@@ -11,7 +11,7 @@
     "position": [130, 151],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I20.0"]
   },
   {
     "text": "ECG",
@@ -39,20 +39,20 @@
     "position": [1030, 1037],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "atorvastatin",
     "position": [1105, 1117],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["83367"]
   },
   {
     "text": "allopurinol",
     "position": [1184, 1195],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["519"]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [28, 41],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["11118"]
   },
   {
     "text": "Sốt cao 39°C",
@@ -39,6 +39,6 @@
     "position": [328, 342],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J18.1", "B01.2†"]
   }
 ]

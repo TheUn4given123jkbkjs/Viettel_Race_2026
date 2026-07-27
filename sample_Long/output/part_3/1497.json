@@ -4,7 +4,11 @@
     "position": [38, 51],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K71.6",
+      "K71.8",
+      "M67"
+    ]
   },
   {
     "text": "xơ ganh",
@@ -39,20 +43,20 @@
     "position": [1063, 1075],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["K76.0", "K70.0"]
   },
   {
     "text": "Acetylcysteine",
     "position": [1388, 1402],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["197"]
   },
   {
     "text": "Lactulose",
     "position": [1553, 1562],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6218"]
   }
 ]

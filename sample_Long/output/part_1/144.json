@@ -4,21 +4,25 @@
     "position": [731, 784],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M07.07*",
+      "M07.08*",
+      "M07.09*"
+    ]
   },
   {
     "text": "methotrexate",
     "position": [857, 869],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6851"]
   },
   {
     "text": "ibuprofen",
     "position": [894, 903],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "không sốt",

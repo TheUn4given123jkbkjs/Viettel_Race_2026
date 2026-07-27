@@ -4,14 +4,18 @@
     "position": [1096, 1112],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["A83.6"]
   },
   {
     "text": "Sốt rét",
     "position": [233, 240],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "Z86.13",
+      "T37.2",
+      "Y41.2"
+    ]
   },
   {
     "text": "sốt cao",
@@ -46,13 +50,13 @@
     "position": [1305, 1318],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Mannitol",
     "position": [1384, 1392],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6628"]
   }
 ]

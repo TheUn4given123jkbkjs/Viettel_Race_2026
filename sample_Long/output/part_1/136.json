@@ -32,20 +32,20 @@
     "position": [1110, 1138],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I36.1", "I36.2"]
   },
   {
     "text": "Furosemide",
     "position": [1295, 1305],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4603"]
   },
   {
     "text": "Spironolactone",
     "position": [1334, 1348],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["9997"]
   }
 ]

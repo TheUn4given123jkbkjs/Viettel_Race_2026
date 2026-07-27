@@ -11,14 +11,14 @@
     "position": [422, 436],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5492", "27197"]
   },
   {
     "text": "Amoxicillin",
     "position": [720, 731],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["723", "19711"]
   },
   {
     "text": "bong tróc da",
@@ -32,21 +32,29 @@
     "position": [566, 574],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["R11"]
   },
   {
     "text": "viêm da",
     "position": [317, 324],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M33.3",
+      "B00.50",
+      "L08.0"
+    ]
   },
   {
     "text": "ngứa",
     "position": [326, 330],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L20.0",
+      "L28.2",
+      "L29"
+    ]
   },
   {
     "text": "phấn hoa",

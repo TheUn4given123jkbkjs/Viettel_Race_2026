@@ -4,7 +4,11 @@
     "position": [427, 449],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J40",
+      "J41",
+      "J41.0"
+    ]
   },
   {
     "text": "ho",
@@ -25,14 +29,18 @@
     "position": [652, 665],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Các dấu hiệu bất thường của bà mẹ phát hiện khi khám thai",
     "position": [844, 901],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O28"]
   },
   {
     "text": "Methyldopa 250mg: 2 viên/ngày, uống",

@@ -4,34 +4,38 @@
     "position": [638, 669],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G08",
+      "I80",
+      "I80.0"
+    ]
   },
   {
     "text": "Amlodipine",
     "position": [231, 241],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Acetaminophen",
     "position": [409, 422],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Heparin",
     "position": [676, 683],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["235473"]
   },
   {
     "text": "Warfarin",
     "position": [739, 747],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["11289"]
   }
 ]

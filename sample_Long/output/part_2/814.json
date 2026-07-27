@@ -4,7 +4,11 @@
     "position": [18, 31],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "Đau nhói khớp háng phải",
@@ -32,7 +36,7 @@
     "position": [1618, 1674],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["M16.31"]
   },
   {
     "text": "Meloxicam 15mg: 1 viên/ngày, uống sau ăn sáng",

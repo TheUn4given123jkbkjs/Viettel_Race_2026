@@ -39,20 +39,24 @@
     "position": [1000, 1009],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A20.81",
+      "A20.82",
+      "A20.83"
+    ]
   },
   {
     "text": "Gentamicin",
     "position": [1087, 1097],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1596450"]
   },
   {
     "text": "Doxycycline",
     "position": [1126, 1137],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3640"]
   }
 ]

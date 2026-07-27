@@ -4,14 +4,18 @@
     "position": [470, 477],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["9071"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [738, 751],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
   },
   {
     "text": "buồn nôn",
@@ -46,6 +50,6 @@
     "position": [2353, 2370],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6902"]
   }
 ]

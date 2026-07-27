@@ -4,7 +4,11 @@
     "position": [418, 428],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "821005",
+      "814321",
+      "4110"
+    ]
   },
   {
     "text": "ĐTĐ type 2",
@@ -18,7 +22,11 @@
     "position": [645, 660],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
   },
   {
     "text": "đau ngực trái (",
@@ -39,7 +47,7 @@
     "position": [1244, 1251],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Troponin",

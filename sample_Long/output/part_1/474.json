@@ -4,7 +4,7 @@
     "position": [53, 111],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L59", "L59.8"]
   },
   {
     "text": "không sốt",
@@ -25,13 +25,13 @@
     "position": [238, 251],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Hydrocortisone",
     "position": [255, 269],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5492", "27197"]
   }
 ]

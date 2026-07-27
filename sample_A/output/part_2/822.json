@@ -4,20 +4,24 @@
     "position": [641, 696],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "H65",
+      "H65.1",
+      "H65.4"
+    ]
   },
   {
     "text": "Acetazolamide",
     "position": [277, 290],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["167"]
   },
   {
     "text": "Acetylcysteine",
     "position": [294, 308],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["197"]
   }
 ]

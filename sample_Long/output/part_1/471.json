@@ -4,14 +4,18 @@
     "position": [5, 24],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K32",
+      "K32.0",
+      "K32.1"
+    ]
   },
   {
     "text": "Carbazochrome",
     "position": [450, 463],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["2011"]
   },
   {
     "text": "loét dạ dày",

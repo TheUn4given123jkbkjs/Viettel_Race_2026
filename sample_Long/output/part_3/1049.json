@@ -4,7 +4,7 @@
     "position": [97, 106],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["1998"]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -18,7 +18,7 @@
     "position": [336, 343],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "troponin",
@@ -32,13 +32,17 @@
     "position": [442, 450],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "A36.81",
+      "E74.00"
+    ]
   },
   {
     "text": "ceftriaxone",
     "position": [502, 513],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

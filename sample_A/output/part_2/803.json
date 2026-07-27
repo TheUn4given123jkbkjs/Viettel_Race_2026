@@ -4,14 +4,18 @@
     "position": [116, 131],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4452"]
   },
   {
     "text": "tiểu đường",
     "position": [78, 88],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   },
   {
     "text": "bệnh lý về thận",

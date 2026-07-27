@@ -4,20 +4,20 @@
     "position": [0, 31],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["K60.2"]
   },
   {
     "text": "Dexamethasone",
     "position": [498, 511],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3264"]
   },
   {
     "text": "Metoclopramide",
     "position": [515, 529],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["6915"]
   }
 ]

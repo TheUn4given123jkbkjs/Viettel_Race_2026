@@ -4,27 +4,31 @@
     "position": [46, 61],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M62.6",
+      "S13",
+      "S13.4"
+    ]
   },
   {
     "text": "Acetaminophen",
     "position": [545, 558],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Ibuprofen",
     "position": [773, 782],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Diazepam",
     "position": [786, 794],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3322"]
   }
 ]

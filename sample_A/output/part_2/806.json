@@ -4,14 +4,14 @@
     "position": [271, 293],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["4461"]
   },
   {
     "text": "aspirin",
     "position": [422, 429],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "troponin",
@@ -32,6 +32,10 @@
     "position": [374, 387],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.13",
+      "A54.81",
+      "A50.41"
+    ]
   }
 ]

@@ -39,20 +39,20 @@
     "position": [1004, 1029],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O02", "O02.8"]
   },
   {
     "text": "Acetaminophen",
     "position": [1128, 1141],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "Amoxicillin / Clavulanic acid",
     "position": [1196, 1225],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["19711"]
   }
 ]

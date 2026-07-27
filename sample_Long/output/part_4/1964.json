@@ -4,7 +4,7 @@
     "position": [149, 164],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["10691"]
   },
   {
     "text": "bệnh máu khó đông",
@@ -18,14 +18,18 @@
     "position": [234, 242],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K70.9",
+      "K71",
+      "K71.0"
+    ]
   },
   {
     "text": "Tranexamic acid",
     "position": [149, 164],
     "type": "THUỐC",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["10691"]
   },
   {
     "text": "chảy máu cam",

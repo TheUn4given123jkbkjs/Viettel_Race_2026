@@ -4,27 +4,27 @@
     "position": [59, 86],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["L56.0"]
   },
   {
     "text": "THA",
     "position": [159, 162],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["Y06"]
   },
   {
     "text": "Loratadine",
     "position": [233, 243],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["28889"]
   },
   {
     "text": "Betamethasone",
     "position": [275, 288],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1514"]
   }
 ]

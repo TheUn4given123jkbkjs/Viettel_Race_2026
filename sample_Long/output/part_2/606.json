@@ -4,7 +4,7 @@
     "position": [325, 337],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["82122"]
   },
   {
     "text": "Đái tháo đường tuýp 2",
@@ -39,13 +39,17 @@
     "position": [1970, 1988],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K35",
+      "K35.1",
+      "K35.2"
+    ]
   },
   {
     "text": "Ceftriaxone",
     "position": [2134, 2145],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   }
 ]

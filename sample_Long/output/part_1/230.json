@@ -18,7 +18,7 @@
     "position": [104, 193],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["O99.3"]
   },
   {
     "text": "Magnesium sulfate 15% 10ml",
@@ -39,6 +39,10 @@
     "position": [284, 304],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K27",
+      "K27.0",
+      "K27.1"
+    ]
   }
 ]

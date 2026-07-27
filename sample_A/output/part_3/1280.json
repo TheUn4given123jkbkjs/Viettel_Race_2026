@@ -4,6 +4,10 @@
     "position": [0, 30],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "H45",
+      "H45*",
+      "H45.8*"
+    ]
   }
 ]

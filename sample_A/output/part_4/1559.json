@@ -4,14 +4,18 @@
     "position": [111, 130],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["253174"]
   },
   {
     "text": "bệnh gan",
     "position": [75, 83],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K70.9",
+      "K71",
+      "K71.0"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",

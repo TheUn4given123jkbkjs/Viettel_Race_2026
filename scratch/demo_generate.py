@@ -88,26 +88,55 @@ def generate_sample(api_key):
     print("--- Đang gọi API Gemini để sinh văn bản bệnh án mẫu ---")
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     
-    # System Prompt hướng dẫn sinh dữ liệu có định dạng cấu trúc
+    # System Prompt hướng dẫn sinh dữ liệu mô phỏng chính xác 3 loại văn phong trong đề thi
     prompt = """
-Hãy sinh ra một ca bệnh án lâm sàng tiếng Việt ngẫu nhiên kèm theo danh sách các thực thể y khoa xuất hiện trong đó.
-Bệnh án phải tự nhiên, phản ánh đúng cách viết của bác sĩ Việt Nam (có thể viết tắt nhẹ, có chỉ số xét nghiệm, chẩn đoán, triệu chứng và đơn thuốc).
+Hãy sinh ra một văn bản y khoa tiếng Việt ngẫu nhiên mô phỏng theo một trong ba phong cách thực tế dưới đây (chọn ngẫu nhiên một phong cách):
 
+PHONG CÁCH 1: Bệnh án lâm sàng bán cấu trúc (Case Report)
+Định dạng mẫu:
+1.  Tiền sử bệnh
+    Các bệnh lý mạn tính:
+    - [Tên bệnh hoặc thuốc]
+2.  Bệnh sử hiện tại / Tiền sử bệnh hiện tại
+    Lý do nhập viện: [Lý do]
+    Triệu chứng hiện tại:
+    - [Triệu chứng]
+    Diễn biến bệnh:
+    - ...
+    Triệu chứng khi nhập viện:
+    - ...
+3.  Đánh giá tại bệnh viện / Điều trị
+
+PHONG CÁCH 2: Diễn đàn Q&A y khoa (Hỏi & Trả lời tư vấn)
+Định dạng mẫu:
+Hỏi : [Câu hỏi của người bệnh, kể về triệu chứng, thuốc đang dùng, tình trạng mang thai...]
+Trả lời : Chào em, [Lời khuyên của bác sĩ, giải thích thuốc, tác dụng phụ...]
+
+PHONG CÁCH 3: Bài viết thông tin y khoa giáo dục
+Định dạng mẫu:
+[TÊN BỆNH] LÀ GÌ?
+1. [Tên bệnh] là bệnh gì?
+[Đoạn văn mô tả...]
+2. Dấu hiệu và triệu chứng
+- [Dấu hiệu 1]
+- [Dấu hiệu 2]
+
+--- YÊU CẦU ĐẦU RA ---
 Đầu ra của bạn PHẢI là một đối tượng JSON có cấu trúc chính xác như sau:
 {
-  "text": "Đoạn văn bản bệnh án lâm sàng tiếng Việt dài khoảng 100-150 từ...",
+  "text": "Đoạn văn bản y khoa thô sinh ra (giữ nguyên toàn bộ các dấu xuống dòng \\n, dấu đầu dòng • hoặc -, căn lề khoảng trắng thụt lề thụ động giống hệt định dạng thực tế của phong cách đã chọn)",
   "entities": [
     {
-      "text": "cụm từ y khoa chính xác xuất hiện trong text trên",
+      "text": "cụm từ y khoa trích xuất chính xác 100% từng ký tự xuất hiện trong text trên",
       "type": "TRIỆU_CHỨNG" hoặc "CHẨN_ĐOÁN" hoặc "THUỐC" hoặc "TÊN_XÉT_NGHIỆM" hoặc "KẾT_QUẢ_XÉT_NGHIỆM",
       "assertions": ["isNegated" hoặc "isFamily" hoặc "isHistorical"] (hoặc để mảng rỗng [] nếu không có ngữ cảnh đặc biệt này)
     }
   ]
 }
 
-LƯU Ý QUAN TRỌNG:
-1. Trường "text" trong các đối tượng thuộc "entities" phải trùng khớp 100% với một cụm từ con nằm trong văn bản bệnh án gốc.
-2. Các nhãn "type" chỉ được phép nhận 1 trong 5 giá trị: 'TRIỆU_CHỨNG', 'CHẨN_ĐOÁN', 'THUỐC', 'TÊN_XÉT_NGHIỆM', 'KẾT_QUẢ_XÉT_NGHIỆM'.
+LƯU Ý LỚN:
+1. Văn phong tiếng Việt tự nhiên, có thể chứa một số thuật ngữ tiếng Anh viết tắt (ví dụ: THA, ĐTĐ, COPD, WBC, ct sọ, ran ẩm, x-quang, paracetamol, amlodipine...) y hệt thực tế lâm sàng Việt Nam.
+2. Trường 'text' trong 'entities' phải khớp hoàn hảo (phân biệt cả hoa thường) với cụm từ con trong trường 'text' gốc của bệnh án để tránh lỗi không tìm thấy.
 3. Chỉ trích xuất tối đa 6-8 thực thể tiêu biểu để làm mẫu.
 """
 
@@ -194,23 +223,28 @@ def main():
     # Tính toán vị trí và ánh xạ mã offline
     final_entities = process_and_align(raw_sample)
     
-    # Output kết quả cuối cùng
-    output_data = {
-        "text": raw_sample.get("text", ""),
-        "annotations": final_entities
-    }
-    
+    # Tách biệt tệp đầu ra tương tự như định dạng của cuộc thi
     output_dir = "input_private"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    output_file = os.path.join(output_dir, "sample_output.json")
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(output_data, f, ensure_ascii=False, indent=2)
+        
+    text_content = raw_sample.get("text", "").strip()
+    
+    # 1. Ghi tệp .txt chứa văn bản thô (giữ nguyên xuống dòng)
+    txt_file = os.path.join(output_dir, "sample_output.txt")
+    with open(txt_file, "w", encoding="utf-8") as f:
+        f.write(text_content)
+        
+    # 2. Ghi tệp .json chứa danh sách phẳng (flat list) của annotations y hệt định dạng Question.md
+    json_file = os.path.join(output_dir, "sample_output.json")
+    with open(json_file, "w", encoding="utf-8") as f:
+        json.dump(final_entities, f, ensure_ascii=False, indent=2)
         
     print(f"\n=== ĐÃ TẠO THÀNH CÔNG MẪU THỬ NGHIỆM ===")
-    print(f"Kết quả lưu tại: {output_file}")
-    print("\nChi tiết dữ liệu JSON mẫu sinh ra:")
-    print(json.dumps(output_data, ensure_ascii=False, indent=2))
+    print(f"1. Văn bản bệnh án thô (LF) lưu tại: {txt_file}")
+    print(f"2. Thực thể phẳng mẫu lưu tại: {json_file}")
+    print("\nChi tiết danh sách thực thể JSON phẳng:")
+    print(json.dumps(final_entities, ensure_ascii=False, indent=2))
 
 if __name__ == "__main__":
     main()

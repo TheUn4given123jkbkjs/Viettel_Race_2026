@@ -1,89 +1,88 @@
-{
-  "text": "Bệnh nhân nữ, 55 tuổi, nhập viện vì ho khạc đờm vàng, khó thở liên tục 3 ngày, kèm sốt cao (39°C), đau tức ngực phải. Tiền sử THA 5 năm, đang uống Amlodipine 5mg/ngày. Khám: Bn tỉnh, tiếp xúc tốt. Huyết áp 140/90 mmHg, nhịp thở 28 lần/phút, SpO2 92%. Phổi có ran ẩm rải rác đáy phổi phải. Cận lâm sàng: X-quang ngực thẳng thấy đám mờ đồng nhất vùng đáy phổi phải. CRP 65 mg/L (tăng cao). Chẩn đoán: Viêm phổi thuỳ phải. Xử trí: IV Ceftriaxone 1g TM mỗi 12h, Paracetamol 500mg uống khi sốt >38.5°C.",
-  "annotations": [
-    {
-      "text": "ho khạc đờm vàng",
-      "position": [
-        36,
-        52
-      ],
-      "type": "TRIỆU_CHỨNG",
-      "assertions": [],
-      "candidates": []
-    },
-    {
-      "text": "khó thở",
-      "position": [
-        54,
-        61
-      ],
-      "type": "TRIỆU_CHỨNG",
-      "assertions": [],
-      "candidates": []
-    },
-    {
-      "text": "sốt cao (39°C)",
-      "position": [
-        83,
-        97
-      ],
-      "type": "TRIỆU_CHỨNG",
-      "assertions": [],
-      "candidates": []
-    },
-    {
-      "text": "THA",
-      "position": [
-        126,
-        129
-      ],
-      "type": "CHẨN_ĐOÁN",
-      "assertions": [
-        "isHistorical"
-      ],
-      "candidates": [
-        "Y06"
-      ]
-    },
-    {
-      "text": "X-quang ngực thẳng",
-      "position": [
-        303,
-        321
-      ],
-      "type": "TÊN_XÉT_NGHIỆM",
-      "assertions": [],
-      "candidates": []
-    },
-    {
-      "text": "đám mờ đồng nhất vùng đáy phổi phải",
-      "position": [
-        327,
-        362
-      ],
-      "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-      "assertions": [],
-      "candidates": []
-    },
-    {
-      "text": "Viêm phổi thuỳ phải",
-      "position": [
-        399,
-        418
-      ],
-      "type": "CHẨN_ĐOÁN",
-      "assertions": [],
-      "candidates": []
-    },
-    {
-      "text": "Ceftriaxone 1g TM mỗi 12h",
-      "position": [
-        431,
-        456
-      ],
-      "type": "THUỐC",
-      "assertions": [],
-      "candidates": []
-    }
-  ]
-}
+[
+  {
+    "text": "Tăng huyết áp (THA)",
+    "position": [
+      51,
+      70
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường type 2 (ĐTĐ type 2)",
+    "position": [
+      79,
+      113
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Đau ngực trái",
+    "position": [
+      234,
+      247
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      251,
+      258
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ran ẩm hai đáy",
+    "position": [
+      750,
+      764
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng vành cấp (ACS)",
+    "position": [
+      825,
+      849
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T hs",
+    "position": [
+      943,
+      956
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [
+      1042,
+      1049
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  }
+]

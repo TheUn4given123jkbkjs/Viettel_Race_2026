@@ -1,0 +1,65 @@
+[
+  {
+    "text": "THA",
+    "position": [49, 52],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [74, 84],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "ĐTĐ type 2",
+    "position": [101, 111],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau ngực trái dữ dội",
+    "position": [205, 225],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở",
+    "position": [365, 372],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ran ẩm",
+    "position": [835, 841],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ST chênh lên",
+    "position": [891, 903],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhồi máu cơ tim cấp thành dưới",
+    "position": [996, 1026],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I21.1"]
+  },
+  {
+    "text": "Troponin I tăng cao",
+    "position": [1101, 1120],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

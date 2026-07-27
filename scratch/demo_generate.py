@@ -236,27 +236,38 @@ def main():
     # Tính toán vị trí và ánh xạ mã offline
     final_entities = process_and_align(raw_sample)
     
-    # Tách biệt tệp đầu ra tương tự như định dạng của cuộc thi
-    output_dir = "input_private"
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-        
+    # Tách biệt tệp đầu ra tương tự như định dạng của cuộc thi dưới thư mục 'sample'
+    input_dir = os.path.join("sample", "input")
+    output_dir = os.path.join("sample", "output")
+    os.makedirs(input_dir, exist_ok=True)
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Tự động tính số thứ tự tiếp theo (1.txt, 2.txt...)
+    existing_indices = []
+    if os.path.exists(input_dir):
+        for f in os.listdir(input_dir):
+            if f.endswith(".txt"):
+                name = f[:-4]
+                if name.isdigit():
+                    existing_indices.append(int(name))
+    next_idx = max(existing_indices) + 1 if existing_indices else 1
+    
     text_content = raw_sample.get("text", "").strip()
     
-    # 1. Ghi tệp .txt chứa văn bản thô (giữ nguyên xuống dòng)
-    txt_file = os.path.join(output_dir, "sample_output.txt")
+    # 1. Ghi tệp .txt chứa văn bản thô (giữ nguyên xuống dòng) vào sample/input/
+    txt_file = os.path.join(input_dir, f"{next_idx}.txt")
     with open(txt_file, "w", encoding="utf-8") as f:
         f.write(text_content)
         
-    # 2. Ghi tệp .json chứa danh sách phẳng (flat list) của annotations y hệt định dạng Question.md
-    json_file = os.path.join(output_dir, "sample_output.json")
+    # 2. Ghi tệp .json chứa danh sách phẳng của annotations vào sample/output/
+    json_file = os.path.join(output_dir, f"{next_idx}.json")
     formatted_json = compact_json_format(final_entities)
     with open(json_file, "w", encoding="utf-8") as f:
         f.write(formatted_json)
         
     print(f"\n=== ĐÃ TẠO THÀNH CÔNG MẪU THỬ NGHIỆM ===")
-    print(f"1. Văn bản bệnh án thô (LF) lưu tại: {txt_file}")
-    print(f"2. Thực thể phẳng mẫu lưu tại: {json_file}")
+    print(f"1. Văn bản bệnh án thô ({next_idx}.txt) lưu tại: {txt_file}")
+    print(f"2. Thực thể phẳng mẫu ({next_idx}.json) lưu tại: {json_file}")
     print("\nChi tiết danh sách thực thể JSON phẳng:")
     print(formatted_json)
 

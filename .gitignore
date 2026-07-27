@@ -1,9 +1,40 @@
+# ==============================================================================
+# VIETTEL AI RACE 2026 - GITIGNORE CONFIGURATION
+# ==============================================================================
+
+# 1. Environment & Sensitive Key Files
 .env
+.env.*
+
+
+custom_scripts/
+docs_Long/
+bin/
+
+# 3. Batch Launchers & Execution Scripts
+*.bat
+*.cmd
+*.ps1
+
+# 4. Python Bytecode & Caches
 __pycache__/
-*.pyc
-*.db-journal
-*.db-wal
-*.db-shm
-inspect_excel.txt
-~$*
-*~$*
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# 5. Logs & IDE Artifacts
+*.log
+.system_generated/
+.idea/
+.vscode/
+
+# 6. Scratch Temporary Test Files
+scratch/test_*.py
+scratch/debug_*.py
+scratch/inspect_*.py
+scratch/extract_*.py
+scratch/populate_*.py
+
+# 7. OS Generated Files
+.DS_Store
+Thumbs.db

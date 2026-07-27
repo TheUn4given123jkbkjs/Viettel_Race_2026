@@ -162,7 +162,7 @@ def compact_json_format(data):
 
 def generate_llm_call(api_key, scenario_id, style_id, disease, drugs_list):
     """Sinh prompt theo kịch bản lâm sàng và phong cách được chỉ định, sau đó gọi API Gemini"""
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
     
     # 1. Định nghĩa phong cách văn bản
     sec1_titles = ["Tiền sử bệnh", "Tiền sử bệnh nội khoa", "Bệnh nền", "Các bệnh mãn tính"]
@@ -171,13 +171,13 @@ def generate_llm_call(api_key, scenario_id, style_id, disease, drugs_list):
     s1, s2, s3 = random.choice(sec1_titles), random.choice(sec2_titles), random.choice(sec3_titles)
 
     if style_id == 1:
-        prompt_style = f"PHONG CÁCH YÊU CẦU: Bệnh án lâm sàng bán cấu trúc (Case Report).\n1. {s1}\n2. {s2}\n3. {s3}"
+        prompt_style = f"PHONG CÁCH YÊU CẦU: Bệnh án lâm sàng bán cấu trúc (Case Report) chi tiết.\n1. {s1}\n2. {s2}\n3. {s3}"
     elif style_id == 2:
-        prompt_style = "PHONG CÁCH YÊU CẦU: Diễn đàn Q&A y khoa (Hỏi & Trả lời tư vấn).\nHỏi : [Nội dung câu hỏi]\nTrả lời : Chào bạn, [Nội dung tư vấn]"
+        prompt_style = "PHONG CÁCH YÊU CẦU: Diễn đàn Q&A y khoa (Hỏi & Trả lời tư vấn chuyên sâu).\nHỏi : [Nội dung câu hỏi dài của người bệnh mô tả đầy đủ triệu chứng, tiền sử]\nTrả lời : Chào bạn, [Nội dung tư vấn chi tiết từ bác sĩ giải thích cặn kẽ]"
     elif style_id == 3:
-        prompt_style = "PHONG CÁCH YÊU CẦU: Bài viết thông tin y khoa giáo dục (Medical Article).\n[TÊN BỆNH] LÀ GÌ?\n1. Khái niệm\n2. Triệu chứng và cách điều trị"
+        prompt_style = "PHONG CÁCH YÊU CẦU: Bài viết thông tin y khoa giáo dục sức khỏe (Medical Article).\n[TÊN BỆNH] LÀ GÌ?\n1. Khái niệm và nguyên nhân gây bệnh\n2. Triệu chứng lâm sàng và các phương án điều trị tây y"
     elif style_id == 4:
-        prompt_style = f"PHONG CÁCH YÊU CẦU: Văn bản y khoa hỗn hợp (Hybrid/Mixed Document).\nGhép nối đoạn Hỏi & Đáp với ghi chú bệnh án cấu trúc (1. {s1} ... 2. {s2} ... 3. {s3}). Có thể chèn 1 đoạn dán nhầm không liên quan."
+        prompt_style = f"PHONG CÁCH YÊU CẦU: Văn bản y khoa hỗn hợp (Hybrid/Mixed Document).\nGhép nối đoạn Hỏi & Đáp với ghi chú bệnh án cấu trúc (1. {s1} ... 2. {s2} ... 3. {s3}). Có thể chèn 1 đoạn dán nhầm không liên quan để tạo độ nhiễu thực tế."
     else:
         prompt_style = f"PHONG CÁCH YÊU CẦU: Bệnh án lâm sàng dịch từ tiếng Anh (Translated Clinical Note).\nDùng placeholder [Date], [Ngày], [Tên bác sĩ]. Giữ nguyên tên thuốc tiếng Anh (aspirin, ceftriaxone, troponin...). Hành văn dịch gượng ('phủ nhận buồn nôn', 'chủ quan sốt').\n1. {s1}\n2. {s2}\n3. {s3}"
 
@@ -186,9 +186,9 @@ def generate_llm_call(api_key, scenario_id, style_id, disease, drugs_list):
     inject_historical = random.random() < 0.20
     assertion_hint = ""
     if inject_negation:
-        assertion_hint += "\nVăn bản PHẢI chứa ít nhất 1 thực thể bị phủ định (isNegated), ví dụ: 'phủ nhận buồn nôn', 'không sốt'."
+        assertion_hint += "\nVăn bản PHẢI chứa ít nhất 1 thực thể bị phủ định (isNegated), ví dụ: 'phủ nhận buồn nôn', 'không sốt', 'không đau đầu'."
     if inject_historical and scenario_id != 4:
-        assertion_hint += "\nVăn bản PHẢI chứa ít nhất 1 thực thể tiền sử (isHistorical), ví dụ: 'tiền sử THA 5 năm'."
+        assertion_hint += "\nVăn bản PHẢI chứa ít nhất 1 thực thể tiền sử (isHistorical), ví dụ: 'tiền sử THA 5 năm', 'đã mổ ruột thừa cách đây 2 năm'."
 
     if scenario_id == 1:
         prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Sơ khám & cận lâm sàng. Bác sĩ chỉ định xét nghiệm cận lâm sàng. CHƯA có chẩn đoán bệnh xác định, CHƯA kê đơn thuốc. Định dạng xét nghiệm đa dạng.\nEntities: CHỈ trích xuất 'TRIỆU_CHỨNG', 'TÊN_XÉT_NGHIỆM', 'KẾT_QUẢ_XÉT_NGHIỆM'. TUYỆT ĐỐI không trích xuất CHẨN_ĐOÁN hay THUỐC.\n{assertion_hint}"
@@ -200,8 +200,9 @@ def generate_llm_call(api_key, scenario_id, style_id, disease, drugs_list):
         hist_drug = random.choice(drugs_list)
         prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Ghi nhận tiền sử dùng thuốc dài hạn '{hist_drug}'.\nEntities: Trích xuất '{hist_drug}' nhãn THUỐC với assertions=['isHistorical'].\n{assertion_hint}"
 
+    # Tăng độ dài để giống turn2 thực tế (trung bình 436 từ)
     rand_len = random.random()
-    length_hint = "ĐỘ DÀI: NGẮN (50-100 từ)" if rand_len < 0.20 else ("ĐỘ DÀI: TRUNG BÌNH (200-400 từ)" if rand_len < 0.70 else "ĐỘ DÀI: DÀI (400-800 từ)")
+    length_hint = "ĐỘ DÀI: TRUNG BÌNH (300-500 từ)" if rand_len < 0.40 else "ĐỘ DÀI: DÀI (500-800 từ)"
 
     mask_drug_hint = "\nMÔ PHỎNG ẨN DANH HÓA THUỐC: Ngẫu nhiên che 1-2 tên thuốc bằng dấu sao (************). Thuốc bị che KHÔNG trích xuất." if random.random() < 0.20 else ""
     typo_hint = "\nBƠM NHIỄU LỖI GÕ: Tạo 1-2 lỗi gõ (dính chữ, lỗi dấu). Cụm trích xuất phải khớp chính xác text chứa lỗi." if random.random() < 0.20 else ""
@@ -215,8 +216,8 @@ Hãy sinh ra một văn bản y khoa tiếng Việt theo phong cách y khoa đư
 
 {prompt_scenario}
 
---- YÊU CẦU ĐẦU RA ---
-Đầu ra PHẢI là một đối tượng JSON chuẩn (chỉ trả về duy nhất chuỗi JSON, không kèm bất kỳ lời giải thích nào khác):
+--- YÊU CẦU ĐẦU RA BẮT BUỘC ---
+Đầu ra PHẢI là một đối tượng JSON chuẩn (chỉ trả về duy nhất chuỗi JSON, không kèm bất kỳ lời giải thích markdown nào khác):
 {{
   "text": "Nội dung đoạn văn bản y khoa thô sinh ra (giữ nguyên toàn bộ các dấu xuống dòng \\n)",
   "entities": [
@@ -228,14 +229,14 @@ Hãy sinh ra một văn bản y khoa tiếng Việt theo phong cách y khoa đư
   ]
 }}
 
-LƯU Ý:
-1. Trường 'text' trong 'entities' phải khớp hoàn hảo (phân biệt cả hoa thường) với cụm từ con trong 'text' gốc.
-2. Trích xuất tối đa 5-8 thực thể tiêu biểu nhất.
-3. Nếu nhắc bệnh/thuốc của NGƯỜI THÂN (bố, mẹ, anh chị em), gắn assertions=['isFamily'].
+🛑 LƯU Ý QUAN TRỌNG VỀ NHÃN (ENTITIES):
+1. Trường 'type' của thực thể CHỈ ĐƯỢC PHÉP chứa 1 trong 5 giá trị: 'CHẨN_ĐOÁN', 'THUỐC', 'TRIỆU_CHỨNG', 'TÊN_XÉT_NGHIỆM', 'KẾT_QUẢ_XÉT_NGHIỆM'.
+2. TUYỆT ĐỐI không tự tạo nhãn mới (như 'BỆNH', 'TÊN_BỆNH', 'isNegated', 'isHistorical').
+3. Các thuộc tính như 'isNegated', 'isHistorical', 'isFamily' PHẢI đặt trong danh sách 'assertions', TUYỆT ĐỐI không đặt vào trường 'type'.
+4. Trích xuất tối đa 5-8 thực thể tiêu biểu nhất xuất hiện trong văn bản.
 {mask_drug_hint}
 {typo_hint}
 """
-
 
     headers = {"Content-Type": "application/json"}
     payload = {
@@ -259,7 +260,15 @@ LƯU Ý:
                 
             res_data = response.json()
             content_text = res_data["candidates"][0]["content"]["parts"][0]["text"]
-            return json.loads(content_text)
+            
+            # Parse JSON siêu bền bỉ bằng regex bóc tách khối {...}
+            match = re.search(r'\{.*\}', content_text, re.DOTALL)
+            if match:
+                cleaned_text = match.group(0)
+            else:
+                cleaned_text = content_text.strip()
+                
+            return json.loads(cleaned_text)
         except Exception as e:
             print(f"Lỗi gọi LLM hoặc parse JSON (lần {attempt+1}/3):", e)
             if attempt < 2:
@@ -267,24 +276,72 @@ LƯU Ý:
     return None
 
 def process_and_align(generated_data):
-    """Tính toán position và tra cứu mã candidates offline từ CSDL SQLite"""
+    """Tính toán position, chuẩn hóa nhãn thực thể và tra cứu mã candidates offline"""
+    if not generated_data or not isinstance(generated_data, dict):
+        return []
     clinical_text = generated_data.get("text", "")
+    if not isinstance(clinical_text, str):
+        clinical_text = ""
     entities = generated_data.get("entities", [])
+    if not isinstance(entities, list):
+        entities = []
     aligned_entities = []
     
     for item in entities:
+        if not item or not isinstance(item, dict):
+            continue
         text = item.get("text", "")
-        etype = item.get("type", "")
+        etype = str(item.get("type", "")).strip()
         assertions = item.get("assertions", [])
-        
-        # Tính position [start, end]
+        if not isinstance(assertions, list):
+            assertions = []
+            
+        if not text or not isinstance(text, str):
+            continue
+            
+        # Tìm vị trí trong văn bản thô
         start_idx = clinical_text.find(text)
         if start_idx == -1:
             continue
         end_idx = start_idx + len(text)
         position = [start_idx, end_idx]
         
-        # Tra cứu mã offline
+        # 1. Sửa lỗi nhãn bị gán nhầm thuộc tính assertion (isNegated, isHistorical, isFamily) làm nhãn type
+        if etype in ["isNegated", "isHistorical", "isFamily"]:
+            if etype not in assertions:
+                assertions.append(etype)
+            etype = "TRIỆU_CHỨNG"  # default fallback
+            
+        # 2. Chuẩn hóa nhãn tự do về 5 nhóm hợp lệ theo đề bài
+        etype_upper = etype.upper().replace(" ", "_")
+        
+        if etype_upper in ["CHẨN_ĐOÁN", "CHAN_DOAN", "BỆNH", "BENH", "BỆNH_LÝ", "BENH_LY", "CHẨN_ĐOÁN_LÂM_SÀNG", "TÊN_BỆNH", "TEN_BENH"]:
+            etype = "CHẨN_ĐOÁN"
+        elif etype_upper in ["THUỐC", "THUOC", "TÊN_THUỐC", "TEN_THUOC", "DƯỢC_PHẨM"]:
+            etype = "THUỐC"
+        elif etype_upper in ["TRIỆU_CHỨNG", "TRIEU_CHUNG", "TRIỆU CHỨNG", "TRÍỆU_CHỨNG", "LÂM_SÀNG"]:
+            etype = "TRIỆU_CHỨNG"
+        elif etype_upper in ["TÊN_XÉT_NGHIỆM", "TEN_XET_NGHIEM", "XÉT_NGHIỆM", "XET_NGHIEM"]:
+            etype = "TÊN_XÉT_NGHIỆM"
+        elif etype_upper in ["KẾT_QUẢ_XÉT_NGHIỆM", "KET_QUA_XET_NGHIEM", "KẾT_QUẢ", "KET_QUA"]:
+            etype = "KẾT_QUẢ_XÉT_NGHIỆM"
+        else:
+            # Đoán nhãn sơ bộ
+            if "bệnh" in text.lower() or "viêm" in text.lower() or "hội chứng" in text.lower():
+                etype = "CHẨN_ĐOÁN"
+            elif "sốt" in text.lower() or "đau" in text.lower() or "mệt" in text.lower() or "ho" in text.lower():
+                etype = "TRIỆU_CHỨNG"
+            else:
+                etype = "TRIỆU_CHỨNG"  # Fallback
+                
+        # Loại bỏ các nhãn trùng lặp trong assertions
+        clean_assertions = []
+        for ass in assertions:
+            ass_str = str(ass).strip()
+            if ass_str in ["isNegated", "isHistorical", "isFamily"] and ass_str not in clean_assertions:
+                clean_assertions.append(ass_str)
+                
+        # Tra cứu mã candidates
         candidates = []
         if etype in ["CHẨN_ĐOÁN", "THUỐC"]:
             candidates = query_local_db(text, etype)
@@ -293,7 +350,7 @@ def process_and_align(generated_data):
             "text": text,
             "position": position,
             "type": etype,
-            "assertions": assertions,
+            "assertions": clean_assertions,
             "candidates": candidates
         })
         

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "chậm phát triển vận động thô",
+    "position": [154, 182],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chậm phát triển vận động tinh",
+    "position": [188, 217],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chậm lẫy",
+    "position": [444, 452],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điệu bộ lóng ngóng",
+    "position": [497, 515],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất thăng bằng nhẹ",
+    "position": [815, 833],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "EEG",
+    "position": [902, 905],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI sọ não",
+    "position": [930, 940],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không ghi nhận bất thường",
+    "position": [944, 969],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn đặc hiệu sự phát triển chứcnăng vận động",
+    "position": [998, 1052],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F82"]
+  }
+]

@@ -189,7 +189,7 @@ Văn bản PHẢI được định dạng theo cấu trúc đối thoại sau:
 Hỏi : [Câu hỏi của người bệnh, kể về triệu chứng, thuốc đang dùng, tình trạng bệnh...]
 Trả lời : Chào bạn, [Lời khuyên của bác sĩ, giải thích thuốc, chẩn đoán, tác dụng phụ...]
 """
-    else:
+    elif style_id == 3:
         prompt_style = """
 PHONG CÁCH YÊU CẦU: Bài viết thông tin y khoa giáo dục (Medical Article).
 Văn bản PHẢI được định dạng theo cấu trúc chia sẻ kiến thức sau:
@@ -198,6 +198,15 @@ Văn bản PHẢI được định dạng theo cấu trúc chia sẻ kiến th�
 [Đoạn văn mô tả khái niệm bệnh hoặc thuốc liên quan...]
 2. Dấu hiệu và triệu chứng / Cách điều trị và thuốc sử dụng
 - [Gạch đầu dòng dấu hiệu hoặc thuốc sử dụng]
+"""
+    else:
+        prompt_style = """
+PHONG CÁCH YÊU CẦU: Văn bản y khoa hỗn hợp (Hybrid/Mixed Document).
+Văn bản PHẢI ghép nối ít nhất 2 phong cách khác nhau trong cùng 1 đoạn văn, giống y hệt thực tế hồ sơ bệnh viện bị dán chồng dữ liệu từ nhiều nguồn. Ví dụ:
+- Phần đầu là đoạn Hỏi & Đáp giữa bệnh nhân và bác sĩ trên diễn đàn (Câu hỏi từ người dùng: ... / Câu trả lời của bác sĩ: ...)
+- Phần sau đột ngột chuyển sang ghi chú bệnh án cấu trúc (1. Tiền sử bệnh ... 2. Bệnh sử hiện tại ... 3. Đánh giá tại bệnh viện)
+- Hoặc ngược lại: bệnh án cấu trúc rồi ghép thêm đoạn bài viết giáo dục.
+Đây là phong cách văn bản lộn xộn thực tế, KHÔNG cần mạch lạc logic giữa các phần.
 """
 
     # 2. Định nghĩa kịch bản lâm sàng
@@ -273,18 +282,26 @@ LƯU Ý LỚN:
         }
     }
     
-    try:
-        response = requests.post(url, headers=headers, json=payload, timeout=30)
-        if response.status_code != 200:
-            print(f"Lỗi gọi API Gemini: Mã lỗi {response.status_code}")
-            return None
-            
-        res_data = response.json()
-        content_text = res_data["candidates"][0]["content"]["parts"][0]["text"]
-        return json.loads(content_text)
-    except Exception as e:
-        print("Lỗi gọi LLM hoặc parse JSON:", e)
-        return None
+    for attempt in range(3):
+        try:
+            response = requests.post(url, headers=headers, json=payload, timeout=60)
+            if response.status_code == 429:
+                wait = 30 * (attempt + 1)
+                print(f"Lỗi 429 Rate Limit. Đợi {wait}s rồi thử lại (lần {attempt+1}/3)...")
+                time.sleep(wait)
+                continue
+            if response.status_code != 200:
+                print(f"Lỗi gọi API Gemini: Mã lỗi {response.status_code}")
+                return None
+                
+            res_data = response.json()
+            content_text = res_data["candidates"][0]["content"]["parts"][0]["text"]
+            return json.loads(content_text)
+        except Exception as e:
+            print(f"Lỗi gọi LLM hoặc parse JSON (lần {attempt+1}/3):", e)
+            if attempt < 2:
+                time.sleep(10)
+    return None
 
 def process_and_align(generated_data):
     """Tính toán position và tra cứu mã candidates offline từ CSDL SQLite"""
@@ -361,14 +378,34 @@ def main():
             if name.isdigit():
                 existing_indices.append(int(name))
     start_idx = max(existing_indices) + 1 if existing_indices else 1
+    already_done = len(existing_indices)
+    remaining = max(0, args.num_samples - already_done)
+    
+    if already_done > 0:
+        print(f"\n * [CHECKPOINT] Đã phát hiện {already_done} mẫu đã sinh (file 1..{start_idx - 1}).")
+        print(f" * Tiếp tục sinh {remaining} mẫu còn lại (bắt đầu từ file #{start_idx}).")
+    
+    if remaining == 0:
+        print(f"\n=== Đã đủ {args.num_samples} mẫu. Không cần sinh thêm. ===")
+        sys.exit(0)
     
     success_count = 0
     fail_count = 0
+    consecutive_fails = 0
+    MAX_CONSECUTIVE_FAILS = 15  # Dừng sớm nếu liên tục thất bại (hết quota)
     
     # Chạy vòng lặp sinh dữ liệu
-    for i in range(args.num_samples):
+    for i in range(remaining):
         current_file_idx = start_idx + success_count
-        print(f"[{success_count + 1}/{args.num_samples}] Đang sinh mẫu #{current_file_idx}...")
+        total_done = already_done + success_count
+        print(f"[{total_done + 1}/{args.num_samples}] Đang sinh mẫu #{current_file_idx}...")
+        
+        # Kiểm tra liên tục thất bại → dừng sớm
+        if consecutive_fails >= MAX_CONSECUTIVE_FAILS:
+            print(f"\n⚠️  ĐÃ THẤT BẠI LIÊN TỤC {MAX_CONSECUTIVE_FAILS} LẦN. Có thể hết quota API.")
+            print(f"    Đã lưu checkpoint: {already_done + success_count} mẫu.")
+            print(f"    Chạy lại lệnh tương tự để tiếp tục từ checkpoint.")
+            break
         
         # 1. Quyết định kịch bản lâm sàng (Phân bổ tỷ lệ)
         # Kịch bản 1: 20%, Kịch bản 2: 25%, Kịch bản 3: 40%, Kịch bản 4: 15%
@@ -383,14 +420,16 @@ def main():
             scenario_id = 4
             
         # 1.5. Quyết định phong cách văn bản (Phân bổ tỷ lệ)
-        # Phong cách 1: 50% (Bệnh án cấu trúc), Phong cách 2: 30% (Q&A), Phong cách 3: 20% (Bài viết giáo dục)
+        # Phong cách 1: 40%, Phong cách 2: 25%, Phong cách 3: 20%, Phong cách 4: 15% (Hybrid)
         rand_style = random.random()
-        if rand_style < 0.50:
+        if rand_style < 0.40:
             style_id = 1
-        elif rand_style < 0.80:
+        elif rand_style < 0.65:
             style_id = 2
-        else:
+        elif rand_style < 0.85:
             style_id = 3
+        else:
+            style_id = 4
             
         # 2. Quyết định chọn bệnh (70% ngẫu nhiên/hiếm, 30% phổ biến)
         target_disease = None
@@ -406,7 +445,8 @@ def main():
         if not raw_sample:
             print(f" -> Thất bại ở bước gọi LLM hoặc parse JSON. Đang bỏ qua...")
             fail_count += 1
-            time.sleep(2) # Sleep ngắn rồi thử lại mẫu sau
+            consecutive_fails += 1
+            time.sleep(10)
             continue
             
         # 4. Xử lý căn chỉnh vị trí và candidates offline
@@ -416,6 +456,7 @@ def main():
         if not text_content:
             print(f" -> Tệp văn bản sinh ra bị rỗng. Đang bỏ qua...")
             fail_count += 1
+            consecutive_fails += 1
             continue
             
         # 5. Ghi tệp kết quả
@@ -430,15 +471,26 @@ def main():
             f.write(formatted_json)
             
         success_count += 1
+        consecutive_fails = 0  # Reset khi thành công
+        
+        # In checkpoint mỗi 50 mẫu
+        if success_count % 50 == 0:
+            total_done = already_done + success_count
+            print(f"\n📊 [CHECKPOINT] {total_done}/{args.num_samples} mẫu hoàn tất. Có thể dừng và chạy lại bất cứ lúc nào.\n")
         
         # Tránh vượt quá giới hạn API Gemini (Free Tier: 15 RPM -> Sleep 5 giây giữa các yêu cầu)
         time.sleep(5)
         
+    total_done = already_done + success_count
     print(f"\n=== HOÀN TẤT TIẾN TRÌNH SINH DỮ LIỆU ===")
-    print(f" - Tổng số tệp sinh thành công: {success_count}")
-    print(f" - Số tệp thất bại/bỏ qua: {fail_count}")
+    print(f" - Tổng mẫu đã có (bao gồm checkpoint trước): {total_done}/{args.num_samples}")
+    print(f" - Mẫu sinh mới trong phiên này: {success_count}")
+    print(f" - Số lần thất bại/bỏ qua: {fail_count}")
     print(f" - Dữ liệu thô lưu tại: {input_dir}")
     print(f" - Dữ liệu thực thể lưu tại: {output_dir}")
+    if total_done < args.num_samples:
+        print(f"\n💡 Chạy lại lệnh tương tự để sinh tiếp {args.num_samples - total_done} mẫu còn lại.")
 
 if __name__ == "__main__":
     main()
+

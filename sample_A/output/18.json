@@ -1,0 +1,58 @@
+[
+  {
+    "text": "U ác của đáy bàng quang",
+    "position": [1679, 1702],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C67.1"]
+  },
+  {
+    "text": "Cisplatin",
+    "position": [1777, 1786],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Doxorubicin",
+    "position": [1821, 1832],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3639"]
+  },
+  {
+    "text": "Tiểu máu đại thể",
+    "position": [252, 268],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau tức vùng hạ vị",
+    "position": [407, 425],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm bụng",
+    "position": [1264, 1276],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan hệ tiết niệu",
+    "position": [1385, 1405],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Carcinoma tế bào chuyển dạng",
+    "position": [1617, 1645],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

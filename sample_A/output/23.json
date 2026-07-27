@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [49, 62],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Rối loạn lipid máu",
+    "position": [99, 117],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E78"]
+  },
+  {
+    "text": "Đau khớp gối phải",
+    "position": [439, 456],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lo lắng",
+    "position": [539, 546],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó ngủ",
+    "position": [632, 639],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [641, 648],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Giảm hứng thú",
+    "position": [713, 726],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn hỗn hợp lo âu và trầm cảm",
+    "position": [1683, 1717],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F41.2"]
+  }
+]

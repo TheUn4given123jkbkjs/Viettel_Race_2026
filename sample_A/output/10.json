@@ -1,0 +1,65 @@
+[
+  {
+    "text": "U ác buồng trứng",
+    "position": [1391, 1407],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C79.6", "C56"]
+  },
+  {
+    "text": "Cisplatin",
+    "position": [1552, 1561],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Cyclophosphamide",
+    "position": [1596, 1612],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3002"]
+  },
+  {
+    "text": "Đau bụng dưới",
+    "position": [195, 208],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chướng bụng",
+    "position": [210, 221],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụt cân",
+    "position": [225, 232],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [317, 324],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối u vùng tiểu khung",
+    "position": [682, 704],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dịch báng",
+    "position": [964, 973],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

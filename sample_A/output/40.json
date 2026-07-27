@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Viêm gan B mạn tính",
+    "position": [49, 68],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [317, 324],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [192, 199],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nước tiểu sẫm màu",
+    "position": [203, 220],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST tăng",
+    "position": [1084, 1092],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT tăng",
+    "position": [1104, 1112],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HDV RNA dương tính",
+    "position": [1279, 1297],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm gan D cấp tính bội nhiễm trên người mang viêm gan B",
+    "position": [1393, 1449],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B17.0"]
+  }
+]

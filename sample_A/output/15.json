@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau đầu dữ dội",
+    "position": [68, 82],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mờ mắt",
+    "position": [180, 186],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "choáng váng",
+    "position": [208, 219],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu nhẹ tay phải",
+    "position": [228, 244],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "U tân sinh không chắc chắn hoặc không biết tính chất của Hệ thần kinh trung ương, không đặc hiệu",
+    "position": [831, 927],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D43.9"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1402, 1415],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Valproic acid",
+    "position": [1498, 1511],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11118"]
+  }
+]

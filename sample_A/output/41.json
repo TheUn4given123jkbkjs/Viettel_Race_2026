@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Sốt cao",
+    "position": [196, 203],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu dữ dội",
+    "position": [214, 228],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lơ mơ",
+    "position": [232, 237],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co giật toàn thân",
+    "position": [610, 627],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng gáy",
+    "position": [1154, 1162],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm não do Adenovirus (G05.1*)",
+    "position": [1627, 1658],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A85.1†"]
+  },
+  {
+    "text": "Ribavirin",
+    "position": [1682, 1691],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9344"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1798, 1811],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  }
+]

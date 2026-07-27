@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Rối loạn chuyển hoá calci không xác định",
+    "position": [0, 40],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E83.50"]
+  },
+  {
+    "text": "nồng độ calci trong máu",
+    "position": [177, 200],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng calci huyết",
+    "position": [677, 693],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạ calci huyết",
+    "position": [710, 724],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [944, 951],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu cơ",
+    "position": [953, 959],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau xương khớp",
+    "position": [961, 975],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu định kỳ",
+    "position": [1163, 1185],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

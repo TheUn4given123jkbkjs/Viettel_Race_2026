@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau nhức xương",
+    "position": [86, 100],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối u",
+    "position": [146, 152],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "x-quang",
+    "position": [713, 720],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI khớp gối",
+    "position": [722, 734],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh thiết",
+    "position": [748, 758],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tế bào ung thư xương",
+    "position": [1942, 1962],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "U ác của xương và sụn khớp của các chi",
+    "position": [2007, 2045],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C40", "C40.8"]
+  }
+]

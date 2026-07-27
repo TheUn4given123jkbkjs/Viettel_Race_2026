@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [49, 62],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Rối loạn lipid máu",
+    "position": [111, 129],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E78"]
+  },
+  {
+    "text": "Nghe kém",
+    "position": [235, 243],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ù tai",
+    "position": [266, 271],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [275, 284],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh do thoái hóa và do mạch máu của tai",
+    "position": [1128, 1168],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["H93.0"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1256, 1268],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [1317, 1324],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

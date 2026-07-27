@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Các bệnh xác định khác của não",
+    "position": [64, 94],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G94.8*", "G93.8"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1065, 1078],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Thiamine",
+    "position": [1239, 1247],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10454"]
+  },
+  {
+    "text": "Rối loạn ý thức",
+    "position": [780, 795],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau đầu dữ dội",
+    "position": [835, 849],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Co giật",
+    "position": [876, 883],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù não",
+    "position": [1101, 1108],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

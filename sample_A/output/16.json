@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Kích động",
+    "position": [241, 250],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn ý thức",
+    "position": [252, 267],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mạch nhanh",
+    "position": [406, 416],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp tăng",
+    "position": [418, 431],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co giật nhẹ",
+    "position": [447, 458],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sử dụng chất hít, không xác định có rối loạn không đặc hiệu do chất hít",
+    "position": [1549, 1620],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F18.99"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [1670, 1678],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Haloperidol",
+    "position": [1843, 1854],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5093"]
+  }
+]

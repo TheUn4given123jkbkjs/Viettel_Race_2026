@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Niacinamide",
+    "position": [44, 55],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7405"]
+  },
+  {
+    "text": "vitamin B3",
+    "position": [103, 113],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "flushing",
+    "position": [340, 348],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn trứng cá",
+    "position": [890, 902],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rosacea",
+    "position": [906, 913],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "pellagra",
+    "position": [1164, 1172],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cholesterol",
+    "position": [1252, 1263],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư da",
+    "position": [1503, 1513],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C46.0",
+      "D04",
+      "D04.0"
+    ]
+  }
+]

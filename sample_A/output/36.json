@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Đau nhức vùng khớp gối phải kéo dài",
+    "position": [249, 284],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nhẹ và hạn chế vận động khớp gối phải",
+    "position": [534, 576],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang khớp gối phải",
+    "position": [1320, 1341],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hình ảnh khuyết xương không đều, bờ không rõ ở đầu dưới xương đùi",
+    "position": [1351, 1416],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI khớp gối phải",
+    "position": [1465, 1482],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "U tân sinh không xác định, không chắc chắn hoặc không biết rõ tính chất của xương và sụn khớp",
+    "position": [1911, 2004],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D48.0"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2134, 2143],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [2186, 2199],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  }
+]

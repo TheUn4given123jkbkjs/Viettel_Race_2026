@@ -1,0 +1,30 @@
+[
+  {
+    "text": "U ác của mô liên kết và mô mềm của lồng ngực",
+    "position": [77, 121],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C49.3"]
+  },
+  {
+    "text": "sarcoma mô mềm vùng lồng ngực",
+    "position": [139, 168],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Doxorubicin",
+    "position": [1452, 1463],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3639"]
+  },
+  {
+    "text": "Ifosfamide",
+    "position": [1614, 1624],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5657"]
+  }
+]

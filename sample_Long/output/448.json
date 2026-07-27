@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Viêm phế quản cấp do virus parainfluenza",
+    "position": [211, 251],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J20.4"]
+  },
+  {
+    "text": "Albuterol",
+    "position": [78, 87],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [91, 104],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Oseltamivir",
+    "position": [293, 304],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["260101"]
+  }
+]

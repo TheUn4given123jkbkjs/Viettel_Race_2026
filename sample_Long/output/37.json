@@ -1,0 +1,55 @@
+[
+  {
+    "text": "suy thận",
+    "position": [239, 247],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "E89.6",
+      "I12.0",
+      "I12.9"
+    ]
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [379, 391],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [539, 547],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Biến đổi cầu thận trong đái tháo đường (nhóm E10-E14 với ký tự thứ tư là  .2†)",
+    "position": [1208, 1286],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N08.3*"]
+  },
+  {
+    "text": "Insulin",
+    "position": [1344, 1351],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["253182", "317235"]
+  },
+  {
+    "text": "Enalapril",
+    "position": [1397, 1406],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3827"]
+  },
+  {
+    "text": "albumin niệu đại thể",
+    "position": [919, 939],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

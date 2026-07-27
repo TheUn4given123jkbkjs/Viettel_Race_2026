@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Các rối loạn điều nhiệt được định rõ khác của trẻ sơ sinh",
+    "position": [0, 57],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P81.8"]
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [156, 163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [171, 188],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt cao",
+    "position": [192, 205],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

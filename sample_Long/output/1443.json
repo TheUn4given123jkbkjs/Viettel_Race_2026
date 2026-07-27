@@ -1,0 +1,55 @@
+[
+  {
+    "text": "phẫu thuật thay khớp háng",
+    "position": [571, 596],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau âm ỉ vùng bẹn",
+    "position": [736, 753],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1399, 1408],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "hình ảnh vỏ trứng",
+    "position": [2073, 2090],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hoại tử xương",
+    "position": [2434, 2447],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A18.03",
+      "M87",
+      "M87.0"
+    ]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2651, 2660],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Calcium gluconate",
+    "position": [2789, 2806],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1908"]
+  }
+]

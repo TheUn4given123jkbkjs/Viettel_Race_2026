@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Viêm da dị ứng tiếp xúc do kim loại",
+    "position": [0, 35],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L23.0"]
+  },
+  {
+    "text": "Hydrocortisone",
+    "position": [329, 343],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5492", "27197"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [363, 376],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [382, 391],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

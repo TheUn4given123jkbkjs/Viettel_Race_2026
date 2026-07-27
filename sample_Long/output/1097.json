@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Amlodipine",
+    "position": [369, 379],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "đau nhức dữ dội",
+    "position": [1060, 1075],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dấu hiệu bập bềnh",
+    "position": [1901, 1918],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm vùng khuỷu",
+    "position": [2471, 2489],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các chứng viêm túi thanh mạc khác không được xếp loại ở mục khác",
+    "position": [2676, 2740],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M71.5"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2945, 2954],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

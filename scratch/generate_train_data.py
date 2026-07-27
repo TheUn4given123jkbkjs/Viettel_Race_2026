@@ -165,112 +165,75 @@ def generate_llm_call(api_key, scenario_id, style_id, disease, drugs_list):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     
     # 1. Định nghĩa phong cách văn bản
+    sec1_titles = ["Tiền sử bệnh", "Tiền sử bệnh nội khoa", "Bệnh nền", "Các bệnh mãn tính"]
+    sec2_titles = ["Tiền sử bệnh hiện tại", "Bệnh sử hiện tại", "Bệnh sử", "Diễn biến bệnh"]
+    sec3_titles = ["Đánh giá tại bệnh viện", "Khám lúc vào viện", "Đã xử trí thuốc và thủ thuật", "Y lệnh Điều trị", "Điều trị tại bệnh viện"]
+    s1, s2, s3 = random.choice(sec1_titles), random.choice(sec2_titles), random.choice(sec3_titles)
+
     if style_id == 1:
-        prompt_style = """
-PHONG CÁCH YÊU CẦU: Bệnh án lâm sàng bán cấu trúc (Case Report).
-Văn bản PHẢI được định dạng đúng theo cấu trúc từng phần sau (giữ nguyên tiêu đề và dấu xuống dòng):
-1.  Tiền sử bệnh
-    Các bệnh lý mạn tính:
-    - [Tên bệnh hoặc thuốc]
-2.  Bệnh sử hiện tại / Tiền sử bệnh hiện tại
-    Lý do nhập viện: [Lý do]
-    Triệu chứng hiện tại:
-    - [Triệu chứng]
-    Diễn biến bệnh:
-    - ...
-    Triệu chứng khi nhập viện:
-    - ...
-3.  Đánh giá tại bệnh viện / Điều trị
-"""
+        prompt_style = f"PHONG CÁCH YÊU CẦU: Bệnh án lâm sàng bán cấu trúc (Case Report).\n1. {s1}\n2. {s2}\n3. {s3}"
     elif style_id == 2:
-        prompt_style = """
-PHONG CÁCH YÊU CẦU: Diễn đàn Q&A y khoa (Hỏi & Trả lời tư vấn).
-Văn bản PHẢI được định dạng theo cấu trúc đối thoại sau:
-Hỏi : [Câu hỏi của người bệnh, kể về triệu chứng, thuốc đang dùng, tình trạng bệnh...]
-Trả lời : Chào bạn, [Lời khuyên của bác sĩ, giải thích thuốc, chẩn đoán, tác dụng phụ...]
-"""
+        prompt_style = "PHONG CÁCH YÊU CẦU: Diễn đàn Q&A y khoa (Hỏi & Trả lời tư vấn).\nHỏi : [Nội dung câu hỏi]\nTrả lời : Chào bạn, [Nội dung tư vấn]"
     elif style_id == 3:
-        prompt_style = """
-PHONG CÁCH YÊU CẦU: Bài viết thông tin y khoa giáo dục (Medical Article).
-Văn bản PHẢI được định dạng theo cấu trúc chia sẻ kiến thức sau:
-[TÊN BỆNH/CHỦ ĐỀ] LÀ GÌ?
-1. Định nghĩa khái niệm
-[Đoạn văn mô tả khái niệm bệnh hoặc thuốc liên quan...]
-2. Dấu hiệu và triệu chứng / Cách điều trị và thuốc sử dụng
-- [Gạch đầu dòng dấu hiệu hoặc thuốc sử dụng]
-"""
+        prompt_style = "PHONG CÁCH YÊU CẦU: Bài viết thông tin y khoa giáo dục (Medical Article).\n[TÊN BỆNH] LÀ GÌ?\n1. Khái niệm\n2. Triệu chứng và cách điều trị"
+    elif style_id == 4:
+        prompt_style = f"PHONG CÁCH YÊU CẦU: Văn bản y khoa hỗn hợp (Hybrid/Mixed Document).\nGhép nối đoạn Hỏi & Đáp với ghi chú bệnh án cấu trúc (1. {s1} ... 2. {s2} ... 3. {s3}). Có thể chèn 1 đoạn dán nhầm không liên quan."
     else:
-        prompt_style = """
-PHONG CÁCH YÊU CẦU: Văn bản y khoa hỗn hợp (Hybrid/Mixed Document).
-Văn bản PHẢI ghép nối ít nhất 2 phong cách khác nhau trong cùng 1 đoạn văn, giống y hệt thực tế hồ sơ bệnh viện bị dán chồng dữ liệu từ nhiều nguồn. Ví dụ:
-- Phần đầu là đoạn Hỏi & Đáp giữa bệnh nhân và bác sĩ trên diễn đàn (Câu hỏi từ người dùng: ... / Câu trả lời của bác sĩ: ...)
-- Phần sau đột ngột chuyển sang ghi chú bệnh án cấu trúc (1. Tiền sử bệnh ... 2. Bệnh sử hiện tại ... 3. Đánh giá tại bệnh viện)
-- Hoặc ngược lại: bệnh án cấu trúc rồi ghép thêm đoạn bài viết giáo dục.
-Đây là phong cách văn bản lộn xộn thực tế, KHÔNG cần mạch lạc logic giữa các phần.
-"""
+        prompt_style = f"PHONG CÁCH YÊU CẦU: Bệnh án lâm sàng dịch từ tiếng Anh (Translated Clinical Note).\nDùng placeholder [Date], [Ngày], [Tên bác sĩ]. Giữ nguyên tên thuốc tiếng Anh (aspirin, ceftriaxone, troponin...). Hành văn dịch gượng ('phủ nhận buồn nôn', 'chủ quan sốt').\n1. {s1}\n2. {s2}\n3. {s3}"
 
-    # 2. Định nghĩa kịch bản lâm sàng
+    # 2. Định nghĩa kịch bản lâm sàng & thuộc tính bổ sung
+    inject_negation = random.random() < 0.30
+    inject_historical = random.random() < 0.20
+    assertion_hint = ""
+    if inject_negation:
+        assertion_hint += "\nVăn bản PHẢI chứa ít nhất 1 thực thể bị phủ định (isNegated), ví dụ: 'phủ nhận buồn nôn', 'không sốt'."
+    if inject_historical and scenario_id != 4:
+        assertion_hint += "\nVăn bản PHẢI chứa ít nhất 1 thực thể tiền sử (isHistorical), ví dụ: 'tiền sử THA 5 năm'."
+
     if scenario_id == 1:
-        prompt_scenario = """
-KỊCH BẢN LÂM SÀNG: Sơ khám & cận lâm sàng. 
-Yêu cầu văn bản sinh ra kể về một bệnh nhân mới đến khám vì một số triệu chứng (triệu chứng cơ năng/thực thể). Bác sĩ chỉ định làm xét nghiệm cận lâm sàng (chỉ số xét nghiệm, chẩn đoán hình ảnh như siêu âm, X-quang, CT sọ...) nhưng ĐANG ĐỢI KẾT QUẢ hoặc có kết quả xét nghiệm nhưng CHƯA kết luận chẩn đoán xác định bệnh và CHƯA kê đơn thuốc.
-Trong phần trích xuất thực thể 'entities':
-- CHỈ trích xuất các loại: 'TRIỆU_CHỨNG', 'TÊN_XÉT_NGHIỆM', 'KẾT_QUẢ_XÉT_NGHIỆM'.
-- TUYỆT ĐỐI không trích xuất loại 'CHẨN_ĐOÁN' hay 'THUỐC'.
-"""
+        prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Sơ khám & cận lâm sàng. Bác sĩ chỉ định xét nghiệm cận lâm sàng. CHƯA có chẩn đoán bệnh xác định, CHƯA kê đơn thuốc. Định dạng xét nghiệm đa dạng.\nEntities: CHỈ trích xuất 'TRIỆU_CHỨNG', 'TÊN_XÉT_NGHIỆM', 'KẾT_QUẢ_XÉT_NGHIỆM'. TUYỆT ĐỐI không trích xuất CHẨN_ĐOÁN hay THUỐC.\n{assertion_hint}"
     elif scenario_id == 2:
-        prompt_scenario = f"""
-KỊCH BẢN LÂM SÀNG: Có chẩn đoán bệnh nhưng không điều trị bằng thuốc.
-Yêu cầu văn bản sinh ra kết luận bệnh nhân mắc bệnh sau: '{disease["name"]}'. 
-Tuy nhiên, bệnh nhân không được kê đơn thuốc điều trị trong ca này. Lý do có thể là: bệnh nhân có chỉ định phẫu thuật ngoại khoa khẩn/chương trình (nhập viện mổ), hoặc chỉ cần theo dõi lối sống/chế độ ăn uống, hoặc đây là bệnh di truyền bẩm sinh chỉ phát hiện chứ chưa có thuốc điều trị đặc trị.
-Trong phần trích xuất thực thể 'entities':
-- Bắt buộc trích xuất bệnh '{disease["name"]}' với nhãn 'CHẨN_ĐOÁN'.
-- TUYỆT ĐỐI không trích xuất thực thể loại 'THUỐC'.
-"""
+        prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Có chẩn đoán bệnh '{disease['name']}' nhưng KHÔNG kê đơn thuốc (chỉ định phẫu thuật/theo dõi lối sống).\nEntities: Bắt buộc trích xuất '{disease['name']}' nhãn CHẨN_ĐOÁN. TUYỆT ĐỐI không trích xuất THUỐC.\n{assertion_hint}"
     elif scenario_id == 3:
-        prompt_scenario = f"""
-KỊCH BẢN LÂM SÀNG: Chẩn đoán bệnh kèm đơn thuốc điều trị nội khoa hợp lý.
-Yêu cầu văn bản sinh ra kết luận bệnh nhân mắc bệnh sau: '{disease["name"]}'.
-Đồng thời, bác sĩ kê đơn thuốc điều trị phù hợp cho bệnh này. Bạn hãy sử dụng tri thức y khoa để LỰA CHỌN ra 1-2 loại thuốc phù hợp nhất điều trị bệnh này từ danh sách 348 hoạt chất được hỗ trợ dưới đây:
-{", ".join(drugs_list)}
-
-Trong phần trích xuất thực thể 'entities':
-- Bắt buộc trích xuất bệnh '{disease["name"]}' với nhãn 'CHẨN_ĐOÁN'.
-- Trích xuất 1-2 loại thuốc bạn đã chọn để điều trị bệnh đó với nhãn 'THUỐC'.
-"""
+        prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Chẩn đoán bệnh '{disease['name']}' kèm đơn thuốc điều trị nội khoa hợp lý chọn từ: {', '.join(drugs_list)}.\nEntities: Trích xuất '{disease['name']}' nhãn CHẨN_ĐOÁN và 1-2 thuốc chọn nhãn THUỐC.\n{assertion_hint}"
     else:
         hist_drug = random.choice(drugs_list)
-        prompt_scenario = f"""
-KỊCH BẢN LÂM SÀNG: Ghi nhận tiền sử dùng thuốc dài hạn.
-Yêu cầu văn bản sinh ra ghi nhận bệnh nhân có tiền sử đang sử dụng dài hạn hoạt chất thuốc sau: '{hist_drug}'. Lưu ý ở phần kết luận bệnh án hiện tại, bác sĩ khám vì lý do khác và không kết luận chẩn đoán bệnh liên quan đến thuốc này.
-Trong phần trích xuất thực thể 'entities':
-- Bắt buộc trích xuất thuốc '{hist_drug}' với nhãn 'THUỐC' và thuộc tính assertions chứa nhãn 'isHistorical'.
-"""
+        prompt_scenario = f"KỊCH BẢN LÂM SÀNG: Ghi nhận tiền sử dùng thuốc dài hạn '{hist_drug}'.\nEntities: Trích xuất '{hist_drug}' nhãn THUỐC với assertions=['isHistorical'].\n{assertion_hint}"
+
+    rand_len = random.random()
+    length_hint = "ĐỘ DÀI: NGẮN (50-100 từ)" if rand_len < 0.20 else ("ĐỘ DÀI: TRUNG BÌNH (200-400 từ)" if rand_len < 0.70 else "ĐỘ DÀI: DÀI (400-800 từ)")
+
+    mask_drug_hint = "\nMÔ PHỎNG ẨN DANH HÓA THUỐC: Ngẫu nhiên che 1-2 tên thuốc bằng dấu sao (************). Thuốc bị che KHÔNG trích xuất." if random.random() < 0.20 else ""
+    typo_hint = "\nBƠM NHIỄU LỖI GÕ: Tạo 1-2 lỗi gõ (dính chữ, lỗi dấu). Cụm trích xuất phải khớp chính xác text chứa lỗi." if random.random() < 0.20 else ""
 
     prompt = f"""
 Hãy sinh ra một văn bản y khoa tiếng Việt theo phong cách y khoa được chỉ định dưới đây:
+
+{length_hint}
 
 {prompt_style}
 
 {prompt_scenario}
 
 --- YÊU CẦU ĐẦU RA ---
-Đầu ra của bạn PHẢI là một đối tượng JSON có cấu trúc chính xác như sau:
+Đầu ra PHẢI là một đối tượng JSON chuẩn (chỉ trả về duy nhất chuỗi JSON, không kèm bất kỳ lời giải thích nào khác):
 {{
-  "text": "Đoạn văn bản y khoa thô sinh ra (giữ nguyên toàn bộ các dấu xuống dòng \\n, dấu đầu dòng • hoặc -, căn lề khoảng trắng thụt lề giống hệt định dạng thực tế của phong cách đã chọn)",
+  "text": "Nội dung đoạn văn bản y khoa thô sinh ra (giữ nguyên toàn bộ các dấu xuống dòng \\n)",
   "entities": [
     {{
-      "text": "cụm từ y khoa trích xuất chính xác 100% từng ký tự xuất hiện trong text trên",
+      "text": "cụm từ y khoa trích xuất chính xác 100% từng ký tự xuất hiện trong text",
       "type": "TRIỆU_CHỨNG" hoặc "CHẨN_ĐOÁN" hoặc "THUỐC" hoặc "TÊN_XÉT_NGHIỆM" hoặc "KẾT_QUẢ_XÉT_NGHIỆM",
-      "assertions": ["isNegated" hoặc "isFamily" hoặc "isHistorical"] (hoặc để mảng rỗng [] nếu không có ngữ cảnh đặc biệt này)
+      "assertions": ["isNegated" hoặc "isFamily" hoặc "isHistorical"] (hoặc mảng rỗng [])
     }}
   ]
 }}
 
-LƯU Ý LỚN:
-1. Văn phong tiếng Việt tự nhiên, có thể chứa một số thuật ngữ tiếng Anh viết tắt (ví dụ: THA, ĐTĐ, COPD, WBC, ct sọ, ran ẩm, x-quang, paracetamol, amlodipine...) y hệt thực tế lâm sàng Việt Nam.
-2. Trường 'text' trong 'entities' phải khớp hoàn hảo (phân biệt cả hoa thường) với cụm từ con trong trường 'text' gốc của bệnh án để tránh lỗi không tìm thấy.
-3. Chỉ trích xuất tối đa 5-8 thực thể tiêu biểu nhất xuất hiện trong văn bản.
+LƯU Ý:
+1. Trường 'text' trong 'entities' phải khớp hoàn hảo (phân biệt cả hoa thường) với cụm từ con trong 'text' gốc.
+2. Trích xuất tối đa 5-8 thực thể tiêu biểu nhất.
+3. Nếu nhắc bệnh/thuốc của NGƯỜI THÂN (bố, mẹ, anh chị em), gắn assertions=['isFamily'].
+{mask_drug_hint}
+{typo_hint}
 """
 
 

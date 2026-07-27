@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đau đầu dữ dội",
+    "position": [81, 95],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [176, 185],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tách thành động mạch脑, không vỡ",
+    "position": [1910, 1941],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tách thành động mạch não, không vỡ",
+    "position": [362, 396],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I67.0"]
+  },
+  {
+    "text": "Aspirin 81mg: 1 viên/ngày, uống sau ăn",
+    "position": [2354, 2392],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine 5mg",
+    "position": [2568, 2582],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

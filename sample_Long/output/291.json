@@ -1,0 +1,30 @@
+[
+  {
+    "text": "sưng đau khớp",
+    "position": [222, 235],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm khớp trẻ em trong bệnh viêm loét đại tràng (K51.-†), cẳng tay",
+    "position": [288, 354],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M09.23*"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [392, 401],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [419, 431],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  }
+]

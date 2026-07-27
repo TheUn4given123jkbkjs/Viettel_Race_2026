@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Viêm amydan mãn tính",
+    "position": [1498, 1518],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J35.0"]
+  },
+  {
+    "text": "đau họng",
+    "position": [257, 265],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nuốt vướng",
+    "position": [292, 302],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hơi thở có mùi hôi",
+    "position": [416, 434],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạt bã đậu",
+    "position": [532, 542],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [620, 629],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không ho",
+    "position": [638, 646],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "viêm mũi dị ứng",
+    "position": [718, 733],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J30",
+      "J30.1",
+      "J30.2"
+    ]
+  },
+  {
+    "text": "chưa ghi nhận co giật",
+    "position": [2504, 2525],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

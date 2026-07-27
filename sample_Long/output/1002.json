@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm cân hoại tử",
+    "position": [49, 65],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M72.6"]
+  },
+  {
+    "text": "sốc nhiễm trùng",
+    "position": [332, 347],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không co giật",
+    "position": [392, 405],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sốt cao",
+    "position": [714, 721],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vancomycin 1g: 2 lọ/ngày, truyền tĩnh mạch",
+    "position": [928, 970],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Clindamycin 600mg iv",
+    "position": [981, 1001],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

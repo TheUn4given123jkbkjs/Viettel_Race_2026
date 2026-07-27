@@ -1,0 +1,51 @@
+[
+  {
+    "text": "nhiễmtrùng đường tiểu",
+    "position": [539, 560],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cefuroxime",
+    "position": [597, 607],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2194"]
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [920, 929],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu rắt",
+    "position": [931, 939],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu máu",
+    "position": [1126, 1134],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích nước tiểu",
+    "position": [1228, 1252],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm thận - bể thận cấp",
+    "position": [1685, 1708],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

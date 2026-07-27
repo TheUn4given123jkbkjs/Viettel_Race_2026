@@ -1,0 +1,44 @@
+[
+  {
+    "text": "THA",
+    "position": [219, 222],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "sốt",
+    "position": [410, 413],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [424, 432],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Chuyển dạ nhanh",
+    "position": [729, 744],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O62.3"]
+  },
+  {
+    "text": "Oxytocin",
+    "position": [827, 835],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7824"]
+  },
+  {
+    "text": "Misoprostol",
+    "position": [889, 900],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6964", "42331"]
+  }
+]

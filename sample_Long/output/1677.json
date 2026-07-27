@@ -1,0 +1,62 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [547, 560],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [1180, 1192],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1399, 1407],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "lớp phủ màu đen",
+    "position": [898, 913],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh khác của lưởi",
+    "position": [2783, 2801],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nystatin",
+    "position": [3277, 3285],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7597"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [3427, 3438],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Albuterol",
+    "position": [360, 369],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  }
+]

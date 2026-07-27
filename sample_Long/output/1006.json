@@ -1,0 +1,51 @@
+[
+  {
+    "text": "ung thư phổi",
+    "position": [302, 314],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D02.2"]
+  },
+  {
+    "text": "ho mạn tính",
+    "position": [483, 494],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho ra đờm màu đen",
+    "position": [518, 535],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan khó thở",
+    "position": [558, 574],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SpO2",
+    "position": [704, 708],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rale nổ",
+    "position": [756, 763],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh bụi phổi của công nhân ngành than",
+    "position": [944, 982],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J60"]
+  }
+]

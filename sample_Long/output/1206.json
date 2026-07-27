@@ -1,0 +1,48 @@
+[
+  {
+    "text": "loãng xương",
+    "position": [56, 67],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
+  },
+  {
+    "text": "Ê buốt",
+    "position": [206, 212],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tê bì đầu ngón tay",
+    "position": [242, 260],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mẻ răng do nguyên nhân hệ thống",
+    "position": [639, 670],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K08.0"]
+  },
+  {
+    "text": "Calcium gluconate 500mg",
+    "position": [690, 713],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ascorbic acid 500mg",
+    "position": [733, 752],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

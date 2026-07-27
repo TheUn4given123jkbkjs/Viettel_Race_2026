@@ -1,0 +1,48 @@
+[
+  {
+    "text": "đau đầu",
+    "position": [49, 56],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [66, 69],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Iron",
+    "position": [105, 109],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["90176", "105658"]
+  },
+  {
+    "text": "Biến chứng của gây mê trong thời kỳ sau đẻ",
+    "position": [158, 200],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O89",
+      "O89.0",
+      "O89.1"
+    ]
+  },
+  {
+    "text": "Acetaminophen 500mg",
+    "position": [226, 245],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Metoclopramide 10mg: 3 viên/ngày, uống sau ăn",
+    "position": [249, 294],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đột quỵ",
+    "position": [114, 121],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "loannhip",
+    "position": [144, 152],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loạn nhip",
+    "position": [216, 225],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rung nhĩ mãn tính",
+    "position": [248, 265],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I48.2"]
+  },
+  {
+    "text": "Digoxin",
+    "position": [278, 285],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  },
+  {
+    "text": "Acenocoumarol",
+    "position": [287, 300],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["154"]
+  }
+]

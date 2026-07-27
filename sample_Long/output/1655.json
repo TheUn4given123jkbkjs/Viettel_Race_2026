@@ -1,0 +1,51 @@
+[
+  {
+    "text": "ngứa",
+    "position": [122, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sẩn phù",
+    "position": [207, 214],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hen phế quản",
+    "position": [1276, 1288],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "IgE toàn phần",
+    "position": [2438, 2451],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng nhẹ",
+    "position": [2470, 2478],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mày đay, không đặc hiệu",
+    "position": [2653, 2676],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L50.9"]
+  },
+  {
+    "text": "sinh thiết da",
+    "position": [2872, 2885],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

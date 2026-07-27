@@ -1,0 +1,44 @@
+[
+  {
+    "text": "ĐTĐ týp 2",
+    "position": [27, 36],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đau nhức xương đùi",
+    "position": [74, 92],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [140, 143],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Loãng xương không đặc hiệu có kèm gãy xương bệnh lý",
+    "position": [243, 294],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M80.9"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [317, 326],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Calcium gluconate",
+    "position": [334, 351],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1908"]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Dextran 40",
+    "position": [427, 437],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3272"]
+  },
+  {
+    "text": "nhồi máu cơ tim",
+    "position": [643, 658],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "position": [2668, 2676],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ST chênh lên",
+    "position": [1426, 1438],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [1572, 1580],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [1910, 1917],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [2155, 2166],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "đái tháo đường type 2",
+    "position": [290, 311],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

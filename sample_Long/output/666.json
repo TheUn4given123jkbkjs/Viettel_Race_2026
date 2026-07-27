@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [162, 175],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đột quỵ não",
+    "position": [624, 635],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "E88.31",
+      "G46.3*",
+      "G46.4*"
+    ]
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [1070, 1090],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồi hộp đánh tróng ngực",
+    "position": [1467, 1490],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phân suất tống máuu",
+    "position": [2998, 3017],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "35%",
+    "position": [3059, 3062],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vô động",
+    "position": [2989, 2996],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phình thành tim",
+    "position": [3242, 3257],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I25.3"]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Bệnh tiểu đường type 2",
+    "position": [79, 101],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh khớp trong các bệnh nội tiết, dinh dưỡng và các bệnh chuyển hóa khác, bàn tay",
+    "position": [520, 602],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M14.54*"]
+  },
+  {
+    "text": "đau nhức ở các khớp",
+    "position": [157, 176],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [257, 264],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [268, 275],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

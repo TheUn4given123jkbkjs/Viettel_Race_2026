@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Edetate calcium disodium",
+    "position": [72, 96],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1903"]
+  },
+  {
+    "text": "đau ngực",
+    "position": [166, 174],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [199, 207],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [226, 229],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [238, 246],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [299, 306],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

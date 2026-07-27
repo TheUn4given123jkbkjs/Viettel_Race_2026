@@ -1,0 +1,55 @@
+[
+  {
+    "text": "đái tháo đường",
+    "position": [21, 35],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
+  },
+  {
+    "text": "Đau âm ỉ thượng vị",
+    "position": [69, 87],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụtcân",
+    "position": [92, 98],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bụngmềm",
+    "position": [153, 160],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm tụy mạn thể khác",
+    "position": [186, 207],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K86.1"]
+  },
+  {
+    "text": "Pancreatin",
+    "position": [219, 229],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7880"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [231, 241],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  }
+]

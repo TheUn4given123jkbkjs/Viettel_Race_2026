@@ -1,0 +1,66 @@
+[
+  {
+    "text": "ung thư vú",
+    "position": [409, 419],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "position": [769, 775],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù nề",
+    "position": [1141, 1147],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bong vảy",
+    "position": [1204, 1212],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các bệnh khác ở da và tổ chức dưới da liên quan đến bứcc xạ",
+    "position": [1667, 1726],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Betamethasone",
+    "position": [1995, 2008],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1514"]
+  },
+  {
+    "text": "Salicylic acid",
+    "position": [2186, 2200],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "9525",
+      "91292",
+      "466470"
+    ]
+  },
+  {
+    "text": "đièu trị",
+    "position": [2515, 2523],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

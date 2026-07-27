@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Di chứng đột quỵ, không xác định là xuất huyết hay nhồi máu",
+    "position": [81, 140],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I69.4"]
+  },
+  {
+    "text": "tiền sử tăng huyết áp 10 năm",
+    "position": [509, 537],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "yếu nửa người trái",
+    "position": [733, 751],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó nói",
+    "position": [770, 777],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1096, 1103],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [1138, 1148],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  }
+]

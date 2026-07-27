@@ -1,0 +1,52 @@
+[
+  {
+    "text": "u thận",
+    "position": [80, 86],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "M31.30",
+      "M31.31",
+      "C79.0"
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [104, 111],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đêm nhiều lần",
+    "position": [113, 131],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Biến đổi kẽ ống thận trong bệnh tân sinh",
+    "position": [176, 216],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["N16.1*"]
+  },
+  {
+    "text": "khối tân sinh",
+    "position": [479, 492],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "khối u",
+    "position": [708, 714],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "E88.3",
+      "Z80",
+      "Z80.0"
+    ]
+  }
+]

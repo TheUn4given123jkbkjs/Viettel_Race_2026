@@ -1,0 +1,37 @@
+[
+  {
+    "text": "đau mỏi khớp vai",
+    "position": [12, 28],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [47, 68],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sưng đỏ",
+    "position": [86, 93],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh khớp do đái tháo đường đường (E10-E14 với ký tự thứ tư chung .6†), vị trí khác",
+    "position": [147, 230],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M14.28*"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [276, 285],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "text": "đau khớp gối trái",
+    "position": [121, 138],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm xoang mạn tính",
+    "position": [274, 293],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J32",
+      "J32.0",
+      "J32.1"
+    ]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [318, 347],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "đầy bụng",
+    "position": [596, 604],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thoái hóa khớp gối",
+    "position": [823, 841],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M17",
+      "M17.0",
+      "M17.1"
+    ]
+  },
+  {
+    "text": "Chụp X-quang khớp gối",
+    "position": [1393, 1414],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [1497, 1508],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó tiêu",
+    "position": [606, 614],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

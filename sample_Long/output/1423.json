@@ -1,0 +1,58 @@
+[
+  {
+    "text": "bệnh thận mãn tính",
+    "position": [151, 169],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I68.8*"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [467, 474],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu máu đại thể",
+    "position": [487, 503],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [549, 552],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SpO2",
+    "position": [650, 654],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "96%",
+    "position": [655, 658],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù nhẹ ở chi dưới",
+    "position": [698, 716],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh thận di truyền, chưa được phân loại nơi khác, Viêm cầu thận hình liềm lan tỏa",
+    "position": [1068, 1150],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N07.7"]
+  }
+]

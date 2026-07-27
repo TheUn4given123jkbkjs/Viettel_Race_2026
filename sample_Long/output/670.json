@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Cảm cúm do virus cúm được định danh khác",
+    "position": [864, 904],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J10"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [529, 541],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Oseltamivir",
+    "position": [1061, 1072],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["260101"]
+  },
+  {
+    "text": "Bromhexine",
+    "position": [1154, 1164],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1753"]
+  },
+  {
+    "text": "sốt cao",
+    "position": [84, 91],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [411, 418],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm nhẹ",
+    "position": [390, 397],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "họng xung huyết đỏ",
+    "position": [720, 738],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

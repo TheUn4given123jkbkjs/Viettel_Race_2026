@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Meperidine",
+    "position": [420, 430],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6754"]
+  },
+  {
+    "text": "myocardial infarction",
+    "position": [798, 819],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [1037, 1045],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1318, 1326],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "nôn mửa",
+    "position": [1344, 1351],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [1937, 1944],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "troponin",
+    "position": [2324, 2332],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.5 ng/mL",
+    "position": [2355, 2364],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

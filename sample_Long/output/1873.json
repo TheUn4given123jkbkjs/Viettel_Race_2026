@@ -1,0 +1,62 @@
+[
+  {
+    "text": "ung thư biểu mô tuyến giáp",
+    "position": [287, 313],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D09.3"]
+  },
+  {
+    "text": "khàn tiếng",
+    "position": [378, 388],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó nuốt",
+    "position": [498, 506],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [567, 574],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [629, 641],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi thanh quản ống mềm",
+    "position": [871, 897],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dây thanh bên trái cố định",
+    "position": [907, 933],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Liệt dây thanh âm và thanh quản",
+    "position": [1079, 1110],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J38.00",
+      "J38.02",
+      "J38.01"
+    ]
+  }
+]

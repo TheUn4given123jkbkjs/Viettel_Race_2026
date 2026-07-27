@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Các bệnh điểm bám gân - dây chằng khác, không được xếp loại ở mục khác",
+    "position": [94, 164],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M77.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [183, 196],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "không sốt",
+    "position": [41, 50],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [218, 227],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [13, 30],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

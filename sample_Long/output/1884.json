@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bệnh thoái hóa nhày ở da",
+    "position": [31, 55],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L98.5"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [111, 124],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [128, 138],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "sưng và đau",
+    "position": [185, 196],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [297, 307],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim",
+    "position": [311, 319],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [451, 464],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [468, 482],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  }
+]

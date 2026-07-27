@@ -1,0 +1,51 @@
+[
+  {
+    "text": "ung thư đại trực tràng",
+    "position": [324, 346],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D01.1"]
+  },
+  {
+    "text": "vật chất phân qua âm đạo",
+    "position": [767, 791],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [1012, 1015],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1339, 1347],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "WBC count",
+    "position": [1848, 1857],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan ổ bụng",
+    "position": [1906, 1920],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các rò đường sinh dục nữ - ruột khác",
+    "position": [2125, 2161],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N82.4"]
+  }
+]

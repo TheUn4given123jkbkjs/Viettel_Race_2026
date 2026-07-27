@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Hội chứng viêm thận mạn, tổn thương cầu thận ổ và thùy",
+    "position": [0, 54],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N03.1"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [335, 352],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "protein niệu",
+    "position": [266, 278],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết niệu",
+    "position": [280, 290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [295, 308],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

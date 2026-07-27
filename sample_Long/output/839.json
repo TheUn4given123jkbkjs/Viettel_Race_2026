@@ -1,0 +1,58 @@
+[
+  {
+    "text": "viêm màng ối",
+    "position": [230, 242],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "lờ đờ",
+    "position": [599, 604],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bú kém",
+    "position": [608, 614],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [795, 801],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bụng trướng",
+    "position": [907, 918],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC",
+    "position": [967, 970],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [994, 997],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm khuẩn sơ sinh do vi khuẩn kỵ khí",
+    "position": [1191, 1229],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P36.5"]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Viêm khớp trẻ em trong bệnh Crohn (viêm ruột đoạn)",
+    "position": [0, 50],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M09.1*",
+      "M09.10*",
+      "M09.11*"
+    ]
+  },
+  {
+    "text": "cẳng tay",
+    "position": [287, 295],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [618, 635],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau khớp",
+    "position": [244, 252],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng và cứng khớp",
+    "position": [254, 271],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

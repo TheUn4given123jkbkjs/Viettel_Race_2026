@@ -1,0 +1,30 @@
+[
+  {
+    "text": "tăng huyết áp có sẵn gây biến chứng cho thai nghén, cuộc đẻ và sau khi đẻ",
+    "position": [148, 221],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O10"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [510, 520],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Hydrochlorothiazide",
+    "position": [526, 545],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5487"]
+  },
+  {
+    "text": "không sốt",
+    "position": [373, 382],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

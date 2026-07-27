@@ -1,0 +1,56 @@
+[
+  {
+    "text": "ngứa âm hộ",
+    "position": [360, 370],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm xoang mạn tính",
+    "position": [906, 925],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J32",
+      "J32.0",
+      "J32.1"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [1352, 1365],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "ung thư vú",
+    "position": [1471, 1481],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
+  },
+  {
+    "text": "Biến đổi không do viêm xác định khác của âm hộ và tầng sinh môn",
+    "position": [2071, 2134],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N90.8"]
+  },
+  {
+    "text": "Viêm xoang hàm mạn tính",
+    "position": [1055, 1078],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J32.0"]
+  }
+]

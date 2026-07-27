@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Aminosalicylic acid",
+    "position": [156, 175],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7833"]
+  },
+  {
+    "text": "nhồi máu cơ tim",
+    "position": [256, 271],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [400, 417],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [557, 564],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ran ẩm",
+    "position": [780, 786],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [910, 918],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng mạch vành cấp",
+    "position": [986, 1009],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đỡ đau  (có thể ngủ",
+    "position": [1036, 1055],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

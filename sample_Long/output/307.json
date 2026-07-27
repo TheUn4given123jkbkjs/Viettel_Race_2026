@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Clindamycin",
+    "position": [68, 79],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2582"]
+  },
+  {
+    "text": "viêm dạ dày",
+    "position": [286, 297],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [299, 308],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vấn đề về gan",
+    "position": [320, 333],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

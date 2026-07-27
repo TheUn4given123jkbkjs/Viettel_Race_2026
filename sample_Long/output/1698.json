@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Bệnh gan nhiễm độc có xơ hóa và xơ gan",
+    "position": [0, 38],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K71.7"]
+  },
+  {
+    "text": "vàng da",
+    "position": [191, 198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [219, 228],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [544, 557],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [561, 575],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "text": "rối loạn mỡ máu",
+    "position": [138, 153],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau tức hạ sườn phải",
+    "position": [87, 107],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sỏi túi mật",
+    "position": [257, 268],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
+  },
+  {
+    "text": "đầy bụng",
+    "position": [397, 405],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm ổ bụng",
+    "position": [897, 911],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tích tụ Cholesterol ở túi mật",
+    "position": [1193, 1222],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K82.4"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1330, 1342],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  }
+]

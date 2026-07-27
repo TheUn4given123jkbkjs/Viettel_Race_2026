@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Chuyển dạ giả",
+    "position": [85, 98],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O47",
+      "O47.0",
+      "O47.1"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [188, 201],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Oxytocin",
+    "position": [205, 213],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7824"]
+  },
+  {
+    "text": "động kinh",
+    "position": [24, 33],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co thắt bụng",
+    "position": [125, 137],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau lưng",
+    "position": [141, 149],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

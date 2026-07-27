@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Primaquine",
+    "position": [448, 458],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8687"]
+  },
+  {
+    "text": "ĐTĐ tuýp 2",
+    "position": [521, 531],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực trái cấptính",
+    "position": [597, 618],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [703, 706],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [727, 738],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhịp xoang đều",
+    "position": [740, 754],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau thắt ngực ổn định",
+    "position": [802, 823],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I20.0"]
+  },
+  {
+    "text": "Nitroglycerin",
+    "position": [853, 866],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4917"]
+  }
+]

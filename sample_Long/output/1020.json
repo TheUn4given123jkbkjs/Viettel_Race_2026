@@ -1,0 +1,44 @@
+[
+  {
+    "text": "THA",
+    "position": [152, 155],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "đau đè nặng vùng sau xương ức",
+    "position": [361, 390],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [428, 436],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin T",
+    "position": [606, 616],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng dương tính cao",
+    "position": [617, 636],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhồi máu cơ tim dưới nội tâm mạc cấp",
+    "position": [758, 794],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I21.4"]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm họng liên cầu",
+    "position": [40, 58],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J02.0"]
+  },
+  {
+    "text": "nhiễm trùng cổ họng",
+    "position": [73, 92],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Penicillin V",
+    "position": [155, 167],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7984"]
+  },
+  {
+    "text": "sưng hạchcổ",
+    "position": [231, 242],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau rát họng",
+    "position": [246, 258],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [290, 298],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "kháng sinh",
+    "position": [345, 355],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

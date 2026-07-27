@@ -1,0 +1,37 @@
+[
+  {
+    "text": "bệnh não thiếu máu cục bộ do giảm oxy ở trẻ sơ sinh",
+    "position": [375, 426],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P91.6"]
+  },
+  {
+    "text": "khó thở",
+    "position": [101, 108],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sản giật",
+    "position": [192, 205],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "giảm oxy",
+    "position": [266, 274],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh não thiếu máu cục bộ",
+    "position": [326, 351],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P91.6"]
+  }
+]

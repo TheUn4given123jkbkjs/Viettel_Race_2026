@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Đau nhức khớp gối",
+    "position": [82, 99],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau âm ỉ",
+    "position": [160, 168],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các bệnh xương sụn không đặc hiệu",
+    "position": [195, 228],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M93.9"]
+  },
+  {
+    "text": "Meloxicam 15mg",
+    "position": [263, 277],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen 500mg",
+    "position": [280, 299],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

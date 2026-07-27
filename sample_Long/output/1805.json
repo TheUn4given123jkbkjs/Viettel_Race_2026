@@ -1,0 +1,52 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [243, 256],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [277, 285],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phù nhẹ hai chân",
+    "position": [394, 410],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Protein niệu thai nghén",
+    "position": [659, 682],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O12",
+      "O12.1",
+      "O12.2"
+    ]
+  },
+  {
+    "text": "Methyldopa",
+    "position": [813, 823],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6876"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [839, 846],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

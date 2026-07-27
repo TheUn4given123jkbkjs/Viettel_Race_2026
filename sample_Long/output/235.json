@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Vàng da sơ sinh do huyết tán quá mức không được định rõ",
+    "position": [2065, 2120],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P58.9"]
+  },
+  {
+    "text": "ngạt nhẹ khi sinh",
+    "position": [933, 950],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bướu cổ đơn thuần",
+    "position": [297, 314],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "da vàng từ mặt xuống chân",
+    "position": [149, 174],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gan lách to",
+    "position": [1256, 1267],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bilirubin TP",
+    "position": [1414, 1426],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồngi cầu",
+    "position": [1528, 1537],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầutăng",
+    "position": [1581, 1593],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

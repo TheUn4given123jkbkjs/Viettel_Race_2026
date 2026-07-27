@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Rối loạn của cơ quan tiêu hóa khác đã được phân loại ở nơi khác",
+    "position": [268, 331],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K93", "K93*"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [367, 374],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [378, 391],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [458, 472],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [101, 109],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

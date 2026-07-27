@@ -1,0 +1,37 @@
+[
+  {
+    "text": "THA",
+    "position": [145, 148],
+    "type": "TIỀN_SỬ_BỆNH",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bố bị nhồi máu cơ tim",
+    "position": [281, 302],
+    "type": "TIỀN_SỬ_GIA_ĐÌNH",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [381, 384],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [386, 393],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thai chết vì nguyên nhân không được định rõ",
+    "position": [500, 543],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P95"]
+  }
+]

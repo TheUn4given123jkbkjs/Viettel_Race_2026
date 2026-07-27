@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Rối loạn mạch máu ở ruột, không đặc hiệu",
+    "position": [101, 141],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K55.9"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [259, 272],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [276, 290],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "không sốt",
+    "position": [155, 164],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [203, 211],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [338, 348],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  }
+]

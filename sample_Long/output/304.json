@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Ung thư dạ dày",
+    "position": [731, 745],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D00"]
+  },
+  {
+    "text": "đau bụng dữ dội vùng thượng vị",
+    "position": [1043, 1073],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bụng cứng như gỗ",
+    "position": [1485, 1501],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang bụng đứng",
+    "position": [1853, 1870],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "liềm hơi dưới hoành",
+    "position": [1889, 1908],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loét dạ dày (Mạn hay không đặc hiệu có xuất huyết hay thủng)",
+    "position": [2155, 2218],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K25.6"]
+  },
+  {
+    "text": "phẫu thuật nội soi khâu lỗ thủng",
+    "position": [2435, 2467],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

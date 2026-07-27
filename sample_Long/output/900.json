@@ -1,0 +1,44 @@
+[
+  {
+    "text": "bệnh tăng huyết áp",
+    "position": [142, 160],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh sắc tố đặc hiệu khác",
+    "position": [338, 363],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L81.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [396, 409],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [241, 258],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không có tiêu chảy",
+    "position": [262, 280],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [490, 498],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

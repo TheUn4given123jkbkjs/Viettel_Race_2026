@@ -1,0 +1,41 @@
+[
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [225, 246],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [606, 619],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [910, 918],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn chức năng thần kinh cơ bàng quang, không phân loại nơi khác",
+    "position": [1713, 1781],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N31"]
+  },
+  {
+    "text": "Pyridostigmine 60mg",
+    "position": [2598, 2617],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

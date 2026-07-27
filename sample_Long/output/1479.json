@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Biến chứng xác định khác do đa thai",
+    "position": [0, 35],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O31.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [319, 332],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Atenolol",
+    "position": [393, 401],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1202"]
+  }
+]

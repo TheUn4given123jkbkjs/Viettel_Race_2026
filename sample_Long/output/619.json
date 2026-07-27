@@ -1,0 +1,51 @@
+[
+  {
+    "text": "bệnh thận mạn",
+    "position": [155, 168],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I68.8*", "N03.6"]
+  },
+  {
+    "text": "đau hông lưng",
+    "position": [278, 291],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [390, 398],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt chủ quan",
+    "position": [409, 421],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [590, 600],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.4 mg/dL",
+    "position": [602, 611],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh tiết niệu trào ngược và tắc nghẽn khác",
+    "position": [648, 691],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N13.8"]
+  }
+]

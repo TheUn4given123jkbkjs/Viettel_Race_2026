@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Viêm khớp do não mô cầu (A39.8†)",
+    "position": [233, 265],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M01.0*",
+      "M01.00*",
+      "M01.01*"
+    ]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [317, 328],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "acetaminophen",
+    "position": [332, 345],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [146, 163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

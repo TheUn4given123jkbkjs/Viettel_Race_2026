@@ -1,0 +1,37 @@
+[
+  {
+    "text": "tiểu đường thai kỳ",
+    "position": [39, 57],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Song thai",
+    "position": [145, 154],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O30.0"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [213, 221],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [333, 340],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chế độ ăn uống",
+    "position": [460, 474],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

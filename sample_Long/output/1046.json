@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Các gù không đặc hiệu khác",
+    "position": [364, 390],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M40.2"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [155, 172],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [491, 498],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [474, 487],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "troponin",
+    "position": [572, 580],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

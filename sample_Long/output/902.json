@@ -1,0 +1,51 @@
+[
+  {
+    "text": "khó thở",
+    "position": [38, 45],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [67, 74],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh lý phế nang và thành phế nang",
+    "position": [434, 468],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["J84.0"]
+  },
+  {
+    "text": "rale nổ",
+    "position": [633, 640],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Prednisolone",
+    "position": [837, 849],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Azathioprine",
+    "position": [905, 917],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1256"]
+  },
+  {
+    "text": "Bệnh lý phế nang và thành phế nang",
+    "position": [434, 468],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J84.0"]
+  }
+]

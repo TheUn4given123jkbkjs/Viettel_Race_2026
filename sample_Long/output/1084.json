@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Biến đổi không do viêm khác của âm hộ và tầng sinh môn",
+    "position": [236, 290],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N90", "N90.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [339, 352],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [356, 370],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  }
+]

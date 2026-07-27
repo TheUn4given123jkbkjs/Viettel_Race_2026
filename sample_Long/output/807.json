@@ -1,0 +1,37 @@
+[
+  {
+    "text": "đau quặn hông lưng phải",
+    "position": [41, 64],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [84, 87],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "ĐTĐ tuýp 2",
+    "position": [151, 161],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [194, 202],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Cơn đau quặn thận không xác định",
+    "position": [217, 249],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N23"]
+  }
+]

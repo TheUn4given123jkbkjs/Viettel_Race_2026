@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Bệnh viêm cột sống dính khớp",
+    "position": [50, 78],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M45"]
+  },
+  {
+    "text": "viêm mạntính",
+    "position": [202, 214],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau lưng mạn tính",
+    "position": [579, 596],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng khớp",
+    "position": [600, 609],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm màng bồ đào",
+    "position": [893, 909],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Diclofenacc",
+    "position": [1148, 1159],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methotrexate",
+    "position": [1361, 1373],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6851"]
+  }
+]

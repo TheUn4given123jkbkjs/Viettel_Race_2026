@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Chảy máu sau tiếp xúc và giao hợp",
+    "position": [481, 514],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N93.0"]
+  },
+  {
+    "text": "mẹ bị ung thư cổ tử cung",
+    "position": [308, 332],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [638, 655],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [721, 733],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nghiệmpháp",
+    "position": [882, 892],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm dạo",
+    "position": [975, 981],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Azithromycin",
+    "position": [1148, 1160],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "Tranexamic acid",
+    "position": [1220, 1235],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10691"]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [22, 35],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [170, 177],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp timchậm",
+    "position": [185, 197],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SpO2 giảm",
+    "position": [208, 217],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Biến chứng của gây mê trong chuyển dạ, trong đẻ, chưa xác định rõ",
+    "position": [243, 308],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O74.9"]
+  }
+]

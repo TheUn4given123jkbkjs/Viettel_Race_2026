@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Huyết tán do bất đồng nhóm máu Rh của mẹ và thai nhi / trẻ sơ sinh",
+    "position": [0, 66],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P55.0"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [314, 327],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Immunoglobulin",
+    "position": [368, 382],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["89886", "1727875"]
+  }
+]

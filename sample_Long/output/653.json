@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh mạch máu não do thoái hóa dạng bột E85.-",
+    "position": [466, 511],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I68.0*"]
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [170, 183],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi cộng đồng",
+    "position": [222, 241],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [335, 346],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "aspirin",
+    "position": [350, 357],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "troponin",
+    "position": [435, 443],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

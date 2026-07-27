@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Sulfadiazine",
+    "position": [539, 551],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9793", "10171"]
+  },
+  {
+    "text": "sưng đau khớp cổ chân",
+    "position": [456, 477],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [634, 637],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm khớp gút cấp",
+    "position": [50, 67],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acid uric",
+    "position": [993, 1002],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Colchicine",
+    "position": [1120, 1130],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2683"]
+  }
+]

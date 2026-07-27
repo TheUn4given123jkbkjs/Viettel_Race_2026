@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Rối loạn mạch máu của ruột",
+    "position": [108, 134],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K55", "K55.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [257, 270],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [274, 284],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [202, 210],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [207, 210],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [179, 182],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

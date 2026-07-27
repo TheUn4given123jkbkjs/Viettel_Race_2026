@@ -1,0 +1,55 @@
+[
+  {
+    "text": "THA",
+    "position": [151, 154],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "amlodipine",
+    "position": [188, 198],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "ngứa",
+    "position": [895, 899],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [910, 913],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Dày sừng da dầu",
+    "position": [1122, 1137],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L82"]
+  },
+  {
+    "text": "Salicylic acid",
+    "position": [1180, 1194],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "9525",
+      "91292",
+      "466470"
+    ]
+  },
+  {
+    "text": "Urea",
+    "position": [1257, 1261],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11002"]
+  }
+]

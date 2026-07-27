@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Viêm cơ",
+    "position": [416, 423],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.80",
+      "A54.87",
+      "A51.45"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [132, 135],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [139, 146],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [249, 266],
+    "type": "ĐIỀU_TRỊ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tập thể dục",
+    "position": [270, 281],
+    "type": "ĐIỀU_TRỊ",
+    "assertions": [],
+    "candidates": []
+  }
+]

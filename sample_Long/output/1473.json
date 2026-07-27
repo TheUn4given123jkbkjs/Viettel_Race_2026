@@ -1,0 +1,58 @@
+[
+  {
+    "text": "mụn trứng cá",
+    "position": [129, 141],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Clindamycin",
+    "position": [203, 214],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2582"]
+  },
+  {
+    "text": "đau bụng quặn",
+    "position": [347, 360],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [391, 400],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm đại tràng giả mạc",
+    "position": [1590, 1612],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm tìm độc tố Clostridium difficile",
+    "position": [1845, 1888],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi đại tràng",
+    "position": [1995, 2012],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [2141, 2155],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

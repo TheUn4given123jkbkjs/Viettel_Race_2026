@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Hội chứng hít của trẻ sơ sinh, chưa xác định",
+    "position": [42, 86],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P24.9"]
+  },
+  {
+    "text": "sốt cao",
+    "position": [93, 100],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [108, 125],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không có tiêu chảy",
+    "position": [127, 145],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [268, 281],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Oxygen",
+    "position": [285, 291],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7806"]
+  }
+]

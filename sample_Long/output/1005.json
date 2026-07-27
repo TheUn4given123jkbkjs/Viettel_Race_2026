@@ -1,0 +1,55 @@
+[
+  {
+    "text": "đi ngoài ra máu đỏ tươi",
+    "position": [58, 81],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư đại tràng",
+    "position": [158, 175],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D01.0", "D01.1"]
+  },
+  {
+    "text": "Viêm phế quản cấp",
+    "position": [390, 407],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J40",
+      "J20",
+      "J20.0"
+    ]
+  },
+  {
+    "text": "ran ẩm",
+    "position": [478, 484],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đại tiệnkhó",
+    "position": [583, 594],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "búi trĩ sa ra ngoài",
+    "position": [617, 636],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trĩ độ II",
+    "position": [882, 891],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K64.1"]
+  }
+]

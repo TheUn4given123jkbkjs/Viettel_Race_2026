@@ -1,0 +1,37 @@
+[
+  {
+    "text": "viêm lợi",
+    "position": [38, 46],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đau nhức",
+    "position": [93, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nướu",
+    "position": [122, 131],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [187, 194],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Răng mọc kẹt và răng ngầm",
+    "position": [215, 240],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K01"]
+  }
+]

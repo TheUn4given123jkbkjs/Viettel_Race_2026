@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Vỡ ối sớm, chưa xác định rõ",
+    "position": [51, 78],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O42.9"]
+  },
+  {
+    "text": "THA",
+    "position": [100, 103],
+    "type": "BỆNH_NỀN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [130, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [144, 152],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

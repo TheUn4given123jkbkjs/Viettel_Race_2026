@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [68, 88],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau dữ dội",
+    "position": [127, 137],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [263, 270],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đaunhiều",
+    "position": [387, 395],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cột sống",
+    "position": [725, 741],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh khuyết xương, hẹp khe đốt sống C7-T1",
+    "position": [743, 788],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh cột sống trong các bệnh nhiễm khuẩn và ký sinh vật, đã xếp loại ở mục khác, vùng bả vai",
+    "position": [803, 895],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M49.31*"]
+  }
+]

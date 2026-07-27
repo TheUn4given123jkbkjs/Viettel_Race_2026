@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Hư điểm cốt hóa khác ở trẻ em",
+    "position": [167, 196],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M92",
+      "M92.3",
+      "M92.8"
+    ]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [224, 241],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [141, 151],
+    "type": "BỆNH_NỀN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [243, 252],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu kinh niên",
+    "position": [273, 290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "text": "suy nhược cơ thể",
+    "position": [179, 195],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Sterile water for injection",
+    "position": [294, 321],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2467748"]
+  },
+  {
+    "text": "đau mỏi vai gáy",
+    "position": [465, 480],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì tay chân",
+    "position": [509, 523],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hội chứng cổ vai cánh tay",
+    "position": [1474, 1499],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thoái hóa cột sống cổ",
+    "position": [1516, 1537],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M47.12",
+      "M47.13",
+      "M47.22"
+    ]
+  },
+  {
+    "text": "X-quang",
+    "position": [1715, 1722],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

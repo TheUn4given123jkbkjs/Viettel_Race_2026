@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Sưng đau nướu",
+    "position": [84, 97],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hôi miệng",
+    "position": [99, 108],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chảy máu chân răng",
+    "position": [133, 151],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nướu sưng đỏ",
+    "position": [226, 238],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm nha chu mãn",
+    "position": [268, 284],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K04.5", "K05.3"]
+  },
+  {
+    "text": "Metronidazole 250mg",
+    "position": [294, 313],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chlorhexidine 0.12%",
+    "position": [317, 336],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

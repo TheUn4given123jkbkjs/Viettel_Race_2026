@@ -1,0 +1,37 @@
+[
+  {
+    "text": "siêu âm",
+    "position": [13, 20],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bánh rau có dấu hiệu xơ hóa",
+    "position": [35, 62],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cử động thai giảm",
+    "position": [126, 143],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù nề",
+    "position": [151, 157],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Thai nhi và trẻ sơ sinh bị ảnh hưởng do các bất thường về hình thái và chức năng khác chưa xác định của bánh rau",
+    "position": [215, 327],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P02.2"]
+  }
+]

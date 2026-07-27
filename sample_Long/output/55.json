@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm xương sụn cột sống thanh thiếu niên",
+    "position": [221, 261],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M42.0"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [487, 500],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [508, 517],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

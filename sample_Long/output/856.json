@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau cột sống thắt lưnng",
+    "position": [148, 171],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "ung thư xương",
+    "position": [509, 522],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau nhói vùng lưng",
+    "position": [811, 829],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI",
+    "position": [1417, 1420],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xẹp D12, L1",
+    "position": [1448, 1459],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loãng xương trong bệnh đa u tủy xương (C90.0†)",
+    "position": [1776, 1822],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M82.0*"]
+  },
+  {
+    "text": "triệu chứng lâm sàn",
+    "position": [1124, 1143],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

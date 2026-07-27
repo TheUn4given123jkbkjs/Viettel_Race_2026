@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Mày đay, không đặc hiệu",
+    "position": [0, 23],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L50.9"]
+  },
+  {
+    "text": "ngứa",
+    "position": [107, 111],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đỏ",
+    "position": [101, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng da",
+    "position": [189, 196],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [358, 367],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

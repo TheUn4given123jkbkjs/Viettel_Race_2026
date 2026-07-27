@@ -1,0 +1,58 @@
+[
+  {
+    "text": "đau nhức",
+    "position": [49, 57],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng khớp",
+    "position": [460, 469],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "cứng khớp gối",
+    "position": [564, 577],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [587, 594],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng đậm độ xương",
+    "position": [630, 647],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhiễm Fluo xương",
+    "position": [991, 1012],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M85.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1052, 1065],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1108, 1117],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "text": "cao huyết áp",
+    "position": [51, 63],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "hụt hơi",
+    "position": [117, 124],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [184, 191],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [495, 507],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy tim sung huyết",
+    "position": [642, 660],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I11.0",
+      "I11.9",
+      "I13.0"
+    ]
+  },
+  {
+    "text": "Furosemide 40mg",
+    "position": [914, 929],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Digoxin 0.25mg",
+    "position": [998, 1012],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

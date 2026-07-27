@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [28, 41],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "ĐTĐ type 2",
+    "position": [170, 180],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đỏda",
+    "position": [352, 356],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngứa ngáy (không gãi",
+    "position": [533, 553],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm kẽ",
+    "position": [1646, 1653],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.31",
+      "A18.52",
+      "H16.3"
+    ]
+  },
+  {
+    "text": "Soi tươi tìm nấm",
+    "position": [1350, 1366],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1379, 1386],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

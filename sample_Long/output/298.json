@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Sâu ngà",
+    "position": [301, 308],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "W66",
+      "W68",
+      "W70"
+    ]
+  },
+  {
+    "text": "tiểu đường",
+    "position": [106, 116],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [120, 132],
+    "type": "BỆNH_MÃN_TÍNH",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau răng",
+    "position": [35, 43],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

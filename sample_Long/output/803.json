@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Đái tháo nhạt do thận",
+    "position": [614, 635],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N25.1"]
+  },
+  {
+    "text": "Hydrochlorothiazide 25mg PO BID",
+    "position": [822, 853],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen 400mg PO TID",
+    "position": [856, 878],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu nhiều",
+    "position": [284, 294],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "uống nhiều",
+    "position": [298, 308],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [357, 365],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [376, 379],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

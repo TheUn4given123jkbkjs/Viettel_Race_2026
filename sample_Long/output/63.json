@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Hư điểm cốt hóa ở xương cổ chân",
+    "position": [54, 85],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M92.6"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [213, 226],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [230, 239],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

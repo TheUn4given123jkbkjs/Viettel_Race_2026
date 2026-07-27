@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Amlodipine 5mg",
+    "position": [62, 76],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sẩn đỏ",
+    "position": [152, 158],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngứa",
+    "position": [296, 300],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [374, 377],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Các bệnh ly gai, không đặc hiệu",
+    "position": [908, 939],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L11.9"]
+  },
+  {
+    "text": "Betamethasone 0.1%",
+    "position": [967, 985],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chlorpheniramine 4mg",
+    "position": [1040, 1060],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Các dị tật điển hình khác của cột sống được xác định",
+    "position": [0, 52],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M43.8"]
+  },
+  {
+    "text": "đau lưng",
+    "position": [389, 397],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [461, 470],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "acetic acid",
+    "position": [44, 55],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["168"]
+  },
+  {
+    "text": "bệnh thận mạn tính",
+    "position": [83, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [205, 213],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [215, 223],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [227, 236],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

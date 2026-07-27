@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Đau lưng",
+    "position": [92, 100],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M54",
+      "M54.4",
+      "M54.5"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [231, 238],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "acetaminophen",
+    "position": [389, 402],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Tích tụ Cholesterol ở túi mật",
+    "position": [62, 91],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K82.4"]
+  },
+  {
+    "text": "đau hạ sườn phải",
+    "position": [498, 514],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chướng bụng",
+    "position": [558, 569],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầy bụng khó tiêu",
+    "position": [575, 592],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm bụng",
+    "position": [925, 937],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

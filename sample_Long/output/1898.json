@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [26, 39],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau cổ trái",
+    "position": [108, 119],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [161, 169],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [179, 182],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng Horner",
+    "position": [216, 232],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phình và tách động mạch cảnh",
+    "position": [264, 292],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I72.0"]
+  }
+]

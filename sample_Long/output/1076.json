@@ -1,0 +1,62 @@
+[
+  {
+    "text": "lượng máu kinh ra rất nhiều",
+    "position": [161, 188],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng âm ỉ",
+    "position": [304, 317],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [465, 472],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [474, 483],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xanh xao",
+    "position": [493, 501],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kinh nguyệt nhiều và hay xảy ra với chu kỳ không đều",
+    "position": [794, 846],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N92.1"]
+  },
+  {
+    "text": "thiếu máu mãn tính",
+    "position": [939, 957],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D63.8",
+      "D50.0",
+      "D63"
+    ]
+  },
+  {
+    "text": "huyết sắc tố",
+    "position": [1500, 1512],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

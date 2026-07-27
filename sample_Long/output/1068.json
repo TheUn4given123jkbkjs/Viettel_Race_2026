@@ -1,0 +1,58 @@
+[
+  {
+    "text": "đái tháo đường type 2",
+    "position": [195, 216],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng hạ vị",
+    "position": [311, 325],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ra máu âm đạo",
+    "position": [340, 353],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [484, 492],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "beta-hCG",
+    "position": [767, 775],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bất thường khác của trứng",
+    "position": [1004, 1029],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O02", "O02.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1128, 1141],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [1196, 1225],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  }
+]

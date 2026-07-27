@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Niệu quản gấp khúc và chít hẹp không gây ứ nước thận",
+    "position": [38, 90],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N13.5"]
+  },
+  {
+    "text": "không sốt",
+    "position": [96, 105],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không bị buồn nôn",
+    "position": [109, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

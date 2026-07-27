@@ -1,0 +1,30 @@
+[
+  {
+    "text": "sốt",
+    "position": [48, 51],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [53, 70],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tiêu hóa",
+    "position": [100, 113],
+    "type": "BỆNH_SỬ",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh khác của hệ tiêu hóa",
+    "position": [191, 216],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K92"]
+  }
+]

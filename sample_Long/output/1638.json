@@ -1,0 +1,58 @@
+[
+  {
+    "text": "ung thư đại tràng",
+    "position": [290, 307],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực vùng dưới xương ức",
+    "position": [523, 550],
+    "type": "TRI_ỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [700, 708],
+    "type": "TRI_ỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "155/90 mmHg",
+    "position": [981, 992],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rale nổ",
+    "position": [1067, 1074],
+    "type": "TRI_ỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [1848, 1856],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu 14.5",
+    "position": [1681, 1694],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầunhẹ",
+    "position": [2114, 2124],
+    "type": "TRI_ỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "dị cảm",
+    "position": [103, 109],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nặng chân",
+    "position": [111, 120],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưngnhiều",
+    "position": [124, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm Doppler mạch máu",
+    "position": [163, 187],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn khác của tĩnh mạch",
+    "position": [418, 445],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I87"]
+  }
+]

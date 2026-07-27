@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Chuyển dạ đình trệ do đẻ khó do vai",
+    "position": [203, 238],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O66.0"]
+  },
+  {
+    "text": "tiểu đường thai kỳ",
+    "position": [393, 411],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [446, 458],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "dấu hiệu \"rùa thụt\"",
+    "position": [594, 613],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lidocaine",
+    "position": [840, 849],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6387", "107602"]
+  },
+  {
+    "text": "Oxytocin",
+    "position": [935, 943],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7824"]
+  }
+]

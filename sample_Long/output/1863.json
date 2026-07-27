@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Amlodipine",
+    "position": [269, 279],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Ung thư biểu mô tế bào vảy",
+    "position": [366, 392],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1281, 1290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1675, 1683],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [1859, 1867],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuât",
+    "position": [2067, 2077],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kén ở chân lông",
+    "position": [2438, 2453],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L72.1"]
+  },
+  {
+    "text": "Clindamycin",
+    "position": [2671, 2682],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2582"]
+  },
+  {
+    "text": "điều tri",
+    "position": [2562, 2570],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E89.6",
+      "E89.8",
+      "E89.9"
+    ]
+  }
+]

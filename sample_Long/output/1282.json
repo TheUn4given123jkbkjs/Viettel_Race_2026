@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Mắt cá và chai chân",
+    "position": [25, 44],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L84"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [266, 275],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  },
+  {
+    "text": "Acetic acid",
+    "position": [395, 406],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["168"]
+  }
+]

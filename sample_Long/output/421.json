@@ -1,0 +1,44 @@
+[
+  {
+    "text": "lơ mơ",
+    "position": [364, 369],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm trương lực cơ",
+    "position": [373, 391],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [421, 424],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "co giật",
+    "position": [435, 442],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "MRI sọ",
+    "position": [726, 732],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn khác của tình trạng não trẻ sơ sinh",
+    "position": [812, 856],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P91", "P91.8"]
+  }
+]

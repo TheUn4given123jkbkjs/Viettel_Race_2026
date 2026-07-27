@@ -1,0 +1,51 @@
+[
+  {
+    "text": "li bì",
+    "position": [71, 76],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thóp phồng",
+    "position": [126, 136],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co giậtt",
+    "position": [162, 170],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [229, 238],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chảy máu dưới màng cứng do chấn thương khi sinh",
+    "position": [290, 337],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P10.0"]
+  },
+  {
+    "text": "Phytonadione 1mg",
+    "position": [351, 367],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tranexamic acid 500mg",
+    "position": [378, 399],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

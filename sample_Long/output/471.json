@@ -1,0 +1,51 @@
+[
+  {
+    "text": "xuất huyết tiêu hóa",
+    "position": [5, 24],
+    "type": "TÊN_BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Carbazochrome",
+    "position": [450, 463],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2011"]
+  },
+  {
+    "text": "loét dạ dày",
+    "position": [150, 161],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm dạ dày",
+    "position": [163, 174],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "NSAID",
+    "position": [221, 226],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn ra máu",
+    "position": [309, 319],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phân đen",
+    "position": [321, 329],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

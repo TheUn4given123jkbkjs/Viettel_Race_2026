@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Lichen phẳng phì đại",
+    "position": [53, 73],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L43.0"]
+  },
+  {
+    "text": "viêm da cơ địa",
+    "position": [798, 812],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "L20",
+      "L20.8",
+      "L20.9"
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tế bào vảy",
+    "position": [1042, 1068],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ngứa",
+    "position": [1284, 1288],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sẩn",
+    "position": [1465, 1468],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mảng da dày",
+    "position": [1192, 1203],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giải phẫu bệnh lý",
+    "position": [2319, 2336],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

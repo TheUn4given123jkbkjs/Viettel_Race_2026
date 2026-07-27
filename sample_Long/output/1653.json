@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Thận teo nhỏ, không đặc hiệu",
+    "position": [152, 180],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N27.9"]
+  },
+  {
+    "text": "THA",
+    "position": [32, 35],
+    "type": "BỆNH_NỀN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Cao huyết áp",
+    "position": [100, 112],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường loại 2",
+    "position": [114, 131],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  }
+]

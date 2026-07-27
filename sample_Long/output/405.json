@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm đốt sống do vi khuẩn đường ruột (A01-A04†), cánh tay",
+    "position": [89, 146],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M49.22*"]
+  },
+  {
+    "text": "Ceftriaxone 1g: 2 lọ/ngày, truyền tĩnh mạch",
+    "position": [343, 386],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ciprofloxacin 500mg: 2 viên/ngày, uống",
+    "position": [389, 427],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

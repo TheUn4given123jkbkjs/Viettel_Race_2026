@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Bệnh khớp trong bệnh Crohn [Viêm đoạn ruột] (K50.-†), bàn tay",
+    "position": [94, 155],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M09.14*", "M07.44*"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [315, 328],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Sưng đau khớp bàn tay",
+    "position": [605, 626],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cứng khớp buổi sáng",
+    "position": [664, 683],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau bụng",
+    "position": [707, 715],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [723, 732],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

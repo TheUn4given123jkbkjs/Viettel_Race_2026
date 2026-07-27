@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tiền sử đái tháo đường typ 2",
+    "position": [203, 231],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [845, 852],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khạc đờm",
+    "position": [1020, 1031],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ran nổ",
+    "position": [1554, 1560],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu tăng cao",
+    "position": [1761, 1778],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phổi do tụ cầu Staphylococcus",
+    "position": [2387, 2421],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J15.2"]
+  },
+  {
+    "text": "Vancomycin",
+    "position": [2808, 2818],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11124"]
+  },
+  {
+    "text": "Amikacin",
+    "position": [3085, 3093],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["641"]
+  }
+]

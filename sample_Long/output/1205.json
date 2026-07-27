@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [23, 43],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Phù mềm ấn lõm hai cẳng chân",
+    "position": [130, 158],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mệt mỏi",
+    "position": [172, 179],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng thận hư, bệnh lắng đọng đậm đặc",
+    "position": [644, 685],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N04.6"]
+  },
+  {
+    "text": "Prednisolone 5mg: 12 viên/ngày, uống sáng sau ăn",
+    "position": [721, 769],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Furosemide 40mg: 1 viên/ngày, uống sáng",
+    "position": [772, 811],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

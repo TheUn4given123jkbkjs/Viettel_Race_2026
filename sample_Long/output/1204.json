@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đau nhức vùng gò má",
+    "position": [82, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nghẹt mũi",
+    "position": [141, 150],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy dịch mũi màu vàng xanh",
+    "position": [154, 181],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hen suyễn",
+    "position": [206, 215],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J45"]
+  },
+  {
+    "text": "CT scan mũi xoang",
+    "position": [269, 286],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm xoang hàm cấp, không xác định",
+    "position": [601, 635],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J01.00"]
+  }
+]

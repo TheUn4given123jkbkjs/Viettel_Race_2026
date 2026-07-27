@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đái tháo đường typ 2",
+    "position": [474, 494],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "quấy khóc",
+    "position": [765, 774],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bilirubin toàn phần",
+    "position": [1472, 1491],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chấn thương da đầu khác khi sinh",
+    "position": [1651, 1683],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P12.8"]
+  },
+  {
+    "text": "povidone-iodine",
+    "position": [1896, 1911],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8611"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2006, 2019],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Penicillin G",
+    "position": [353, 365],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "7982",
+      "7980",
+      "7983"
+    ]
+  },
+  {
+    "text": "viêm phế quản cấp",
+    "position": [448, 465],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J40",
+      "J20",
+      "J20.0"
+    ]
+  },
+  {
+    "text": "ho khan",
+    "position": [273, 280],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [742, 751],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "paracetamol",
+    "position": [873, 884],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau họng",
+    "position": [889, 897],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

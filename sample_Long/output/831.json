@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Pemphigus thông thường",
+    "position": [55, 77],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["L10.0"]
+  },
+  {
+    "text": "bọng nước",
+    "position": [184, 193],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vết trợt da",
+    "position": [1026, 1037],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dấu hiệu Nikolsky",
+    "position": [1105, 1122],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [1210, 1217],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1230, 1238],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [755, 757],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "vảy nến",
+    "position": [1398, 1405],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "L40.50",
+      "L40.51",
+      "L40.52"
+    ]
+  }
+]

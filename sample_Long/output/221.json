@@ -1,0 +1,41 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [378, 391],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Thiếu máu cơ tim thầm lặng",
+    "position": [850, 876],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I25.6"]
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [1147, 1160],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin 100mg: 1 viên/ngày, uống sau ăn sáng",
+    "position": [2019, 2063],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atenolol 50mg: 1/2 đến 1 viên/ngày, uống buổi sáng",
+    "position": [2148, 2198],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

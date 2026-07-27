@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Tắc mạch phổi",
+    "position": [44, 57],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I26"]
+  },
+  {
+    "text": "khó thở",
+    "position": [681, 688],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [690, 698],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [702, 709],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [807, 816],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

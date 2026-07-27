@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đau mỏi vùng thắt lưng",
+    "position": [193, 215],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vai lệch",
+    "position": [269, 277],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không tê chân",
+    "position": [310, 323],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Các biến dạng khác của cột sống",
+    "position": [693, 724],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M43"]
+  },
+  {
+    "text": "Meloxicam 15mg",
+    "position": [850, 864],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen 500mg",
+    "position": [903, 922],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

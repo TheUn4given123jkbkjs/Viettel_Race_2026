@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Đái tháo đường tuýp 1",
+    "position": [27, 48],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Phù nhẹ hai mi mắt",
+    "position": [125, 143],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [152, 155],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Biến đổi cầu thận trong đái tháo đường (nhóm E10-E14 với ký tự thứ tư là  .2†)",
+    "position": [184, 262],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N08.3*"]
+  }
+]

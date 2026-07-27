@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Viêm cơ tim đơn thuần",
+    "position": [289, 310],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I40.1"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [335, 352],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [314, 323],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [105, 117],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [121, 131],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "vú trái của em bị căng cứng",
+    "position": [60, 87],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [161, 170],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "áp xe vú",
+    "position": [344, 352],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Các rối loạn khác của vú và tiết sữa phối hợp với đẻ",
+    "position": [824, 876],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O92"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [1760, 1789],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2081, 2094],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

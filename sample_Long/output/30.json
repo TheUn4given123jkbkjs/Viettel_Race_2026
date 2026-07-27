@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Chân răng còn sót",
+    "position": [1971, 1988],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K08.3"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [2220, 2249],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2327, 2336],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1328, 1345],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "ĐTĐ",
+    "position": [430, 433],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [1605, 1611],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SpO2",
+    "position": [1456, 1460],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

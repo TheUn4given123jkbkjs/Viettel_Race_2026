@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Đau hạ vị",
+    "position": [217, 226],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ra máu âm đạo",
+    "position": [245, 258],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phá thai nội khoa thất bại, gây biến chứng tắc mạch",
+    "position": [837, 888],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O07.2", "O07.7"]
+  },
+  {
+    "text": "Heparin 5000 UI tiêm dưới da",
+    "position": [1010, 1038],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Warfarin 5mg uống 1 lần/ngày",
+    "position": [1082, 1110],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

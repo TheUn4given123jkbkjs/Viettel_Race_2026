@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Nitrofurantoin",
+    "position": [421, 435],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7454"]
+  },
+  {
+    "text": "không sốt",
+    "position": [784, 793],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "thoát vị đĩa đệm",
+    "position": [896, 912],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["M51.2", "M50.2"]
+  },
+  {
+    "text": "đau thắt lưng",
+    "position": [127, 140],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI cột sống thắt lưng",
+    "position": [2847, 2869],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Căng cơ thắt lưng",
+    "position": [1942, 1959],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [813, 822],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [3112, 3123],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

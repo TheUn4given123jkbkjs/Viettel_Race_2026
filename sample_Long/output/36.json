@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Hội chứng Cushing do thuốc",
+    "position": [48, 74],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E24.2"]
+  },
+  {
+    "text": "Fluocinolone acetonide",
+    "position": [459, 481],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4461"]
+  },
+  {
+    "text": "bộ mặt tròn như mặt trăng",
+    "position": [783, 808],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rạn dda bụng màu đỏ tím",
+    "position": [940, 963],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1070, 1078],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "loãng xương",
+    "position": [1158, 1169],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M80",
+      "M80.0",
+      "M80.1"
+    ]
+  },
+  {
+    "text": "không sốt",
+    "position": [1244, 1253],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "suy tuyến thượngthận",
+    "position": [1439, 1459],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

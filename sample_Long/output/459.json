@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Các rối loạn huyết học sơ sinh được định rõ khác",
+    "position": [64, 112],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P61.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [210, 223],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [227, 237],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  }
+]

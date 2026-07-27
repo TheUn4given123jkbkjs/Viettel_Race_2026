@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Gestational Diabetes",
+    "position": [237, 257],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "hạ đường huyết nhẹ",
+    "position": [310, 328],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "SpO2",
+    "position": [708, 712],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "88%",
+    "position": [724, 727],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co giật",
+    "position": [832, 839],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Thở nhanh thoáng qua của trẻ sơ sinh",
+    "position": [994, 1030],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P22.1"]
+  },
+  {
+    "text": "Oxygen",
+    "position": [1157, 1163],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7806"]
+  },
+  {
+    "text": "Glucose 10%",
+    "position": [1236, 1247],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

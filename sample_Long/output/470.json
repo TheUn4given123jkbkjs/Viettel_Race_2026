@@ -1,0 +1,58 @@
+[
+  {
+    "text": "cao huyết áp",
+    "position": [26, 38],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Thai nhi và trẻ sơ sinh bị ảnh hưởng do các bệnh lý khác của mẹ",
+    "position": [351, 414],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P00.3", "P00.8"]
+  },
+  {
+    "text": "nhẹ cân",
+    "position": [517, 524],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạ đường huyết",
+    "position": [526, 540],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy hô hấp",
+    "position": [546, 556],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methyldopa",
+    "position": [671, 681],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6876"]
+  },
+  {
+    "text": "co giật",
+    "position": [827, 834],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Magnesium sulfate",
+    "position": [913, 930],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6585"]
+  }
+]

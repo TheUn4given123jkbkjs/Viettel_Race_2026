@@ -1,0 +1,44 @@
+[
+  {
+    "text": "không sốt",
+    "position": [298, 307],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "u xơ tử cung",
+    "position": [579, 591],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "rong kinh",
+    "position": [683, 692],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kinh nguyệt nhiều và hay xảy ra với chu kỳ không đều",
+    "position": [1205, 1257],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N92.1"]
+  },
+  {
+    "text": "Tranexamic acid",
+    "position": [1291, 1306],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10691"]
+  },
+  {
+    "text": "Medroxyprogesterone",
+    "position": [1387, 1406],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2647996", "6691"]
+  }
+]

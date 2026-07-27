@@ -1,0 +1,51 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [755, 772],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường tuýp 2",
+    "position": [1031, 1052],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "khối u vùng cẳng tay trái",
+    "position": [1165, 1190],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [446, 455],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1511, 1528],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm phần mềm",
+    "position": [1590, 1606],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "U hạt mô mềm do dị vật, không được xếp loại ở mục khác",
+    "position": [2133, 2187],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M60.2"]
+  }
+]

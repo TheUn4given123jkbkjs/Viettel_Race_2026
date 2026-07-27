@@ -1,0 +1,62 @@
+[
+  {
+    "text": "khớpvai",
+    "position": [18, 25],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường",
+    "position": [489, 503],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
+  },
+  {
+    "text": "không sốt",
+    "position": [794, 803],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm khớp do nấm (B35-B49†), vùng bả vai",
+    "position": [968, 1008],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M01.61*"]
+  },
+  {
+    "text": "Fluconazole",
+    "position": [1130, 1141],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4450"]
+  },
+  {
+    "text": "Amphotericin B",
+    "position": [1231, 1245],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["732"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1275, 1292],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "thuốcc",
+    "position": [1123, 1129],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

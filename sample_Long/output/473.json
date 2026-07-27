@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Viêm khớp do nấm (B35-B49†)",
+    "position": [0, 27],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M01.6*",
+      "M01.60*",
+      "M01.61*"
+    ]
+  },
+  {
+    "text": "Amphotericin B",
+    "position": [268, 282],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["732"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [369, 382],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Bệnh gan khác",
+    "position": [38, 51],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K71.6",
+      "K71.8",
+      "M67"
+    ]
+  },
+  {
+    "text": "xơ ganh",
+    "position": [545, 552],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triêu trứng",
+    "position": [618, 629],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi kéo dài",
+    "position": [785, 800],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [854, 861],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gan nhiễm mỡ",
+    "position": [1063, 1075],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["K76.0", "K70.0"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [1388, 1402],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "Lactulose",
+    "position": [1553, 1562],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6218"]
+  }
+]

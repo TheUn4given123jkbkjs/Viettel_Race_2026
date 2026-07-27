@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Rối loạn tiêu hóa không được định rõ của giai đoạn sơ sinh",
+    "position": [195, 253],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P78.9"]
+  },
+  {
+    "text": "quấy khóc",
+    "position": [92, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn trớ",
+    "position": [103, 110],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đi nặng",
+    "position": [114, 121],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [775, 778],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [789, 797],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

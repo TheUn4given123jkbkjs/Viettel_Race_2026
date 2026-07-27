@@ -1,0 +1,30 @@
+[
+  {
+    "text": "tắc mạch sản khoa do khí",
+    "position": [193, 217],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O88.0"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [108, 121],
+    "type": "BỆNH_NỀN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [48, 56],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [67, 74],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

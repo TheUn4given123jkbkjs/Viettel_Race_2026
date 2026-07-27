@@ -1,0 +1,51 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [135, 152],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau tái diễn ở vùng góc hàm dưới phía sau bên trái",
+    "position": [711, 761],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó khăn khi há miệng",
+    "position": [1037, 1058],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm quanh thân răng",
+    "position": [1629, 1649],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Răng mọc kẹt và răng ngầm",
+    "position": [1702, 1727],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K01"]
+  },
+  {
+    "text": "Lidocaine",
+    "position": [2093, 2102],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6387", "107602"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [2578, 2607],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  }
+]

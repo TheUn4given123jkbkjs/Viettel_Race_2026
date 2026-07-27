@@ -1,0 +1,48 @@
+[
+  {
+    "text": "co giật",
+    "position": [23, 30],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [32, 39],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn tâm thần và bệnh lý hệ thần kinh gây biến chứng cho thai nghén, khi đẻ và sau đẻ",
+    "position": [104, 193],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O99.3"]
+  },
+  {
+    "text": "Magnesium sulfate 15% 10ml",
+    "position": [205, 231],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Diazepam 5mg",
+    "position": [253, 265],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loét dạ dày tá tràng",
+    "position": [284, 304],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K27",
+      "K27.0",
+      "K27.1"
+    ]
+  }
+]

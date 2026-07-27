@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [231, 252],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "ngứa âm hộ",
+    "position": [1023, 1033],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau rát khi đi tiểu",
+    "position": [1047, 1066],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các viêm khác của âm đạo và âm hộ",
+    "position": [1303, 1336],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N76"]
+  },
+  {
+    "text": "Metronidazole 500mg",
+    "position": [1374, 1393],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Clotrimazole 100mg",
+    "position": [1426, 1444],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine 5mg",
+    "position": [1789, 1803],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

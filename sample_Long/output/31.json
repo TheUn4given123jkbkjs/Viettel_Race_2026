@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Rách màng hoạt dịch",
+    "position": [1957, 1976],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M66", "M66.1"]
+  },
+  {
+    "text": "Đau nhức dữ dội vùng khoeo chân",
+    "position": [321, 352],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sưng nề toàn bộ vùng cẳng chân trái",
+    "position": [356, 391],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường (ĐTĐ) type 2",
+    "position": [168, 195],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "MRI khớp gối",
+    "position": [1502, 1514],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC",
+    "position": [1679, 1682],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bình thường",
+    "position": [1158, 1169],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

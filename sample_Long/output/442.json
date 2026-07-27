@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Xuất Huyết Tiêu Hóa Thấp",
+    "position": [574, 598],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K32.1"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [1014, 1024],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "ung thư đại tràng",
+    "position": [1171, 1188],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D01.0", "D01.1"]
+  },
+  {
+    "text": "Ringer's lactate",
+    "position": [2432, 2448],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35629"]
+  },
+  {
+    "text": "Tranexamic acid",
+    "position": [2513, 2528],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10691"]
+  },
+  {
+    "text": "Diosmin",
+    "position": [2609, 2616],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3489"]
+  },
+  {
+    "text": "Bisacodyl",
+    "position": [2726, 2735],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1596"]
+  }
+]

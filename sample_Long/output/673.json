@@ -1,0 +1,51 @@
+[
+  {
+    "text": "hen suyễn",
+    "position": [5, 14],
+    "type": "TÊN_BỆNH",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [140, 142],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [144, 151],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [156, 164],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bụi",
+    "position": [347, 350],
+    "type": "YẾU_TỐ_KÍCH_HOẠT",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phấn hoa",
+    "position": [352, 360],
+    "type": "YẾU_TỐ_KÍCH_HOẠT",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Antivenom",
+    "position": [728, 737],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2101271"]
+  }
+]

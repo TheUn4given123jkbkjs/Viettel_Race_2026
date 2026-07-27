@@ -1,0 +1,30 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [116, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương các dây thần kinh sọ khác do chấn thương khi sinh",
+    "position": [356, 416],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P11.4"]
+  },
+  {
+    "text": "khó khăn khi nói",
+    "position": [210, 226],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu thường xuyên",
+    "position": [255, 275],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

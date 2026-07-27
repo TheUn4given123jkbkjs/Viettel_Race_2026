@@ -1,0 +1,23 @@
+[
+  {
+    "text": "giảm bạch cầu đa nhân trung tính thoáng qua của sơ sinh",
+    "position": [306, 361],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P61.5"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [513, 526],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1023, 1032],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

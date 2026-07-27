@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Polyp của dây thanh âm và thanh quản",
+    "position": [48, 84],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J38.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [201, 214],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [112, 129],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Gliclazide",
+    "position": [224, 234],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4816"]
+  }
+]

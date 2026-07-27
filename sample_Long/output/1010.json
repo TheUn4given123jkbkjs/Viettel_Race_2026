@@ -1,0 +1,23 @@
+[
+  {
+    "text": "đau mỏi cột sống",
+    "position": [13, 29],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm đốt sống do Brucella (A23.-†), cánh tay",
+    "position": [70, 114],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M49.12*"]
+  },
+  {
+    "text": "chèn ép thần kinh",
+    "position": [256, 273],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

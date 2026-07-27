@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Clomiphene",
+    "position": [108, 118],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2596"]
+  },
+  {
+    "text": "aspirin",
+    "position": [158, 165],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [360, 371],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "không sốt",
+    "position": [208, 217],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [348, 356],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

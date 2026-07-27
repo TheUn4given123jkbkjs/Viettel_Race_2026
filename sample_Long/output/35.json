@@ -1,0 +1,48 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [98, 111],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "suy hô hấp",
+    "position": [186, 196],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "li bì",
+    "position": [200, 205],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trẻ cực non",
+    "position": [268, 279],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["P07.2"]
+  },
+  {
+    "text": "Poractant alfa",
+    "position": [304, 318],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["236381"]
+  },
+  {
+    "text": "Caffeine citrate",
+    "position": [343, 359],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["20033"]
+  }
+]

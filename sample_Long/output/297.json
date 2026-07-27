@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Neostigmine",
+    "position": [70, 81],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7315"]
+  },
+  {
+    "text": "suy giảm cơ bắp",
+    "position": [248, 263],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh myasthenia gravis",
+    "position": [265, 287],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [365, 373],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn mửa",
+    "position": [375, 382],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Mitomycin",
+    "position": [87, 96],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["632"]
+  },
+  {
+    "text": "Không nôn",
+    "position": [440, 449],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đau tức vùng gan",
+    "position": [389, 405],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không ho",
+    "position": [690, 698],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [793, 804],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm túi mật cấp",
+    "position": [1111, 1127],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K80.0", "K81.0"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [216, 229],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  }
+]

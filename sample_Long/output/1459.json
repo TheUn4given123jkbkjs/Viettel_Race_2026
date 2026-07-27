@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau tinh hoàn trái",
+    "position": [689, 707],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [999, 1016],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [1100, 1112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phản xạ cơ bìu (cremasteric reflex) bên trái biến mất",
+    "position": [2239, 2292],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xoắn tinh hoàn",
+    "position": [2891, 2905],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N44"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [3137, 3150],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [3199, 3208],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

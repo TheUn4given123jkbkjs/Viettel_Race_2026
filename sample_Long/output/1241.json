@@ -1,0 +1,51 @@
+[
+  {
+    "text": "sảy thai",
+    "position": [132, 140],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thai ngoài tử cung",
+    "position": [146, 164],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trễ kinh",
+    "position": [235, 243],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng dưới",
+    "position": [245, 258],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [275, 284],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Có thai khi mang dụng cụ tử cung",
+    "position": [309, 341],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["O26.3"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [362, 375],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

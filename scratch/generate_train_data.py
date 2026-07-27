@@ -16,7 +16,11 @@ if sys.stdout.encoding != 'utf-8':
         pass
 
 def load_api_key():
-    """Đọc GEMINI_API_KEY từ file .env"""
+    """Đọc GEMINI_API_KEY từ biến môi trường OS trước, sau đó là file .env"""
+    env_key = os.environ.get("GEMINI_API_KEY")
+    if env_key:
+        return env_key
+        
     if not os.path.exists(".env"):
         print("Lỗi: Không tìm thấy file .env")
         return None
@@ -156,58 +160,15 @@ def compact_json_format(data):
     json_str = re.sub(r'\[\s*\n\s*"([^"]+)",\s*\n\s*"([^"]+)"\s*\n\s*\]', r'["\1", "\2"]', json_str)
     return json_str
 
-def generate_llm_call(api_key, scenario_id, disease, drugs_list):
-    """Sinh prompt theo kịch bản lâm sàng được chỉ định và gọi API Gemini"""
+def generate_llm_call(api_key, scenario_id, style_id, disease, drugs_list):
+    """Sinh prompt theo kịch bản lâm sàng và phong cách được chỉ định, sau đó gọi API Gemini"""
     url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}"
     
-    # 1. Định nghĩa kịch bản
-    if scenario_id == 1:
-        # Kịch bản 1: Sơ khám & Xét nghiệm (Không bệnh, không thuốc)
-        prompt_scenario = """
-KỊCH BẢN LÂM SÀNG: Sơ khám & cận lâm sàng. 
-Yêu cầu văn bản sinh ra kể về một bệnh nhân mới đến khám vì một số triệu chứng (triệu chứng cơ năng/thực thể). Bác sĩ chỉ định làm xét nghiệm cận lâm sàng (chỉ số xét nghiệm, chẩn đoán hình ảnh như siêu âm, X-quang, CT sọ...) nhưng ĐANG ĐỢI KẾT QUẢ hoặc có kết quả xét nghiệm nhưng CHƯA kết luận chẩn đoán xác định bệnh và CHƯA kê đơn thuốc.
-Trong phần trích xuất thực thể 'entities':
-- CHỈ trích xuất các loại: 'TRIỆU_CHỨNG', 'TÊN_XÉT_NGHIỆM', 'KẾT_QUẢ_XÉT_NGHIỆM'.
-- TUYỆT ĐỐI không trích xuất loại 'CHẨN_ĐOÁN' hay 'THUỐC'.
-"""
-    elif scenario_id == 2:
-        # Kịch bản 2: Có chẩn đoán bệnh nhưng không dùng thuốc
-        prompt_scenario = f"""
-KỊCH BẢN LÂM SÀNG: Có chẩn đoán bệnh nhưng không điều trị bằng thuốc.
-Yêu cầu văn bản sinh ra kết luận bệnh nhân mắc bệnh sau: '{disease["name"]}'. 
-Tuy nhiên, bệnh nhân không được kê đơn thuốc điều trị trong ca này. Lý do có thể là: bệnh nhân có chỉ định phẫu thuật ngoại khoa khẩn/chương trình (nhập viện mổ), hoặc chỉ cần theo dõi lối sống/chế độ ăn uống, hoặc đây là bệnh di truyền bẩm sinh chỉ phát hiện chứ chưa có thuốc điều trị đặc trị.
-Trong phần trích xuất thực thể 'entities':
-- Bắt buộc trích xuất bệnh '{disease["name"]}' với nhãn 'CHẨN_ĐOÁN'.
-- TUYỆT ĐỐI không trích xuất thực thể loại 'THUỐC'.
-"""
-    elif scenario_id == 3:
-        # Kịch bản 3: Chẩn đoán & Điều trị nội khoa (Có chẩn đoán và thuốc hợp lý)
-        prompt_scenario = f"""
-KỊCH BẢN LÂM SÀNG: Chẩn đoán bệnh kèm đơn thuốc điều trị nội khoa hợp lý.
-Yêu cầu văn bản sinh ra kết luận bệnh nhân mắc bệnh sau: '{disease["name"]}'.
-Đồng thời, bác sĩ kê đơn thuốc điều trị phù hợp cho bệnh này. Bạn hãy sử dụng tri thức y khoa để LỰA CHỌN ra 1-2 loại thuốc phù hợp nhất điều trị bệnh này từ danh sách 348 hoạt chất được hỗ trợ dưới đây:
-{", ".join(drugs_list)}
-
-Trong phần trích xuất thực thể 'entities':
-- Bắt buộc trích xuất bệnh '{disease["name"]}' với nhãn 'CHẨN_ĐOÁN'.
-- Trích xuất 1-2 loại thuốc bạn đã chọn để điều trị bệnh đó với nhãn 'THUỐC'.
-"""
-    else:
-        # Kịch bản 4: Tiền sử dùng thuốc (Không chẩn đoán bệnh đó ở hiện tại)
-        # Chọn ngẫu nhiên 1 thuốc trong danh sách làm tiền sử
-        hist_drug = random.choice(drugs_list)
-        prompt_scenario = f"""
-KỊCH BẢN LÂM SÀNG: Ghi nhận tiền sử dùng thuốc dài hạn.
-Yêu cầu văn bản sinh ra ghi nhận bệnh nhân có tiền sử đang sử dụng dài hạn hoạt chất thuốc sau: '{hist_drug}'. Lưu ý ở phần kết luận bệnh án hiện tại, bác sĩ khám vì lý do khác và không kết luận chẩn đoán bệnh liên quan đến thuốc này.
-Trong phần trích xuất thực thể 'entities':
-- Bắt buộc trích xuất thuốc '{hist_drug}' với nhãn 'THUỐC' và thuộc tính assertions chứa nhãn 'isHistorical'.
-"""
-
-    prompt = f"""
-Hãy sinh ra một văn bản y khoa tiếng Việt ngẫu nhiên mô phỏng theo một trong ba phong cách thực tế dưới đây (chọn ngẫu nhiên một phong cách để viết nội dung văn bản):
-
-PHONG CÁCH 1: Bệnh án lâm sàng bán cấu trúc (Case Report)
-Định dạng mẫu:
+    # 1. Định nghĩa phong cách văn bản
+    if style_id == 1:
+        prompt_style = """
+PHONG CÁCH YÊU CẦU: Bệnh án lâm sàng bán cấu trúc (Case Report).
+Văn bản PHẢI được định dạng đúng theo cấu trúc từng phần sau (giữ nguyên tiêu đề và dấu xuống dòng):
 1.  Tiền sử bệnh
     Các bệnh lý mạn tính:
     - [Tên bệnh hoặc thuốc]
@@ -220,20 +181,67 @@ PHONG CÁCH 1: Bệnh án lâm sàng bán cấu trúc (Case Report)
     Triệu chứng khi nhập viện:
     - ...
 3.  Đánh giá tại bệnh viện / Điều trị
+"""
+    elif style_id == 2:
+        prompt_style = """
+PHONG CÁCH YÊU CẦU: Diễn đàn Q&A y khoa (Hỏi & Trả lời tư vấn).
+Văn bản PHẢI được định dạng theo cấu trúc đối thoại sau:
+Hỏi : [Câu hỏi của người bệnh, kể về triệu chứng, thuốc đang dùng, tình trạng bệnh...]
+Trả lời : Chào bạn, [Lời khuyên của bác sĩ, giải thích thuốc, chẩn đoán, tác dụng phụ...]
+"""
+    else:
+        prompt_style = """
+PHONG CÁCH YÊU CẦU: Bài viết thông tin y khoa giáo dục (Medical Article).
+Văn bản PHẢI được định dạng theo cấu trúc chia sẻ kiến thức sau:
+[TÊN BỆNH/CHỦ ĐỀ] LÀ GÌ?
+1. Định nghĩa khái niệm
+[Đoạn văn mô tả khái niệm bệnh hoặc thuốc liên quan...]
+2. Dấu hiệu và triệu chứng / Cách điều trị và thuốc sử dụng
+- [Gạch đầu dòng dấu hiệu hoặc thuốc sử dụng]
+"""
 
-PHONG CÁCH 2: Diễn đàn Q&A y khoa (Hỏi & Trả lời tư vấn)
-Định dạng mẫu:
-Hỏi : [Câu hỏi của người bệnh, kể về triệu chứng, thuốc đang dùng, tình trạng mang thai...]
-Trả lời : Chào em, [Lời khuyên của bác sĩ, giải thích thuốc, tác dụng phụ...]
+    # 2. Định nghĩa kịch bản lâm sàng
+    if scenario_id == 1:
+        prompt_scenario = """
+KỊCH BẢN LÂM SÀNG: Sơ khám & cận lâm sàng. 
+Yêu cầu văn bản sinh ra kể về một bệnh nhân mới đến khám vì một số triệu chứng (triệu chứng cơ năng/thực thể). Bác sĩ chỉ định làm xét nghiệm cận lâm sàng (chỉ số xét nghiệm, chẩn đoán hình ảnh như siêu âm, X-quang, CT sọ...) nhưng ĐANG ĐỢI KẾT QUẢ hoặc có kết quả xét nghiệm nhưng CHƯA kết luận chẩn đoán xác định bệnh và CHƯA kê đơn thuốc.
+Trong phần trích xuất thực thể 'entities':
+- CHỈ trích xuất các loại: 'TRIỆU_CHỨNG', 'TÊN_XÉT_NGHIỆM', 'KẾT_QUẢ_XÉT_NGHIỆM'.
+- TUYỆT ĐỐI không trích xuất loại 'CHẨN_ĐOÁN' hay 'THUỐC'.
+"""
+    elif scenario_id == 2:
+        prompt_scenario = f"""
+KỊCH BẢN LÂM SÀNG: Có chẩn đoán bệnh nhưng không điều trị bằng thuốc.
+Yêu cầu văn bản sinh ra kết luận bệnh nhân mắc bệnh sau: '{disease["name"]}'. 
+Tuy nhiên, bệnh nhân không được kê đơn thuốc điều trị trong ca này. Lý do có thể là: bệnh nhân có chỉ định phẫu thuật ngoại khoa khẩn/chương trình (nhập viện mổ), hoặc chỉ cần theo dõi lối sống/chế độ ăn uống, hoặc đây là bệnh di truyền bẩm sinh chỉ phát hiện chứ chưa có thuốc điều trị đặc trị.
+Trong phần trích xuất thực thể 'entities':
+- Bắt buộc trích xuất bệnh '{disease["name"]}' với nhãn 'CHẨN_ĐOÁN'.
+- TUYỆT ĐỐI không trích xuất thực thể loại 'THUỐC'.
+"""
+    elif scenario_id == 3:
+        prompt_scenario = f"""
+KỊCH BẢN LÂM SÀNG: Chẩn đoán bệnh kèm đơn thuốc điều trị nội khoa hợp lý.
+Yêu cầu văn bản sinh ra kết luận bệnh nhân mắc bệnh sau: '{disease["name"]}'.
+Đồng thời, bác sĩ kê đơn thuốc điều trị phù hợp cho bệnh này. Bạn hãy sử dụng tri thức y khoa để LỰA CHỌN ra 1-2 loại thuốc phù hợp nhất điều trị bệnh này từ danh sách 348 hoạt chất được hỗ trợ dưới đây:
+{", ".join(drugs_list)}
 
-PHONG CÁCH 3: Bài viết thông tin y khoa giáo dục
-Định dạng mẫu:
-[TÊN BỆNH] LÀ GÌ?
-1. [Tên bệnh] là bệnh gì?
-[Đoạn văn mô tả...]
-2. Dấu hiệu và triệu chứng
-- [Dấu hiệu 1]
-- [Dấu hiệu 2]
+Trong phần trích xuất thực thể 'entities':
+- Bắt buộc trích xuất bệnh '{disease["name"]}' với nhãn 'CHẨN_ĐOÁN'.
+- Trích xuất 1-2 loại thuốc bạn đã chọn để điều trị bệnh đó với nhãn 'THUỐC'.
+"""
+    else:
+        hist_drug = random.choice(drugs_list)
+        prompt_scenario = f"""
+KỊCH BẢN LÂM SÀNG: Ghi nhận tiền sử dùng thuốc dài hạn.
+Yêu cầu văn bản sinh ra ghi nhận bệnh nhân có tiền sử đang sử dụng dài hạn hoạt chất thuốc sau: '{hist_drug}'. Lưu ý ở phần kết luận bệnh án hiện tại, bác sĩ khám vì lý do khác và không kết luận chẩn đoán bệnh liên quan đến thuốc này.
+Trong phần trích xuất thực thể 'entities':
+- Bắt buộc trích xuất thuốc '{hist_drug}' với nhãn 'THUỐC' và thuộc tính assertions chứa nhãn 'isHistorical'.
+"""
+
+    prompt = f"""
+Hãy sinh ra một văn bản y khoa tiếng Việt theo phong cách y khoa được chỉ định dưới đây:
+
+{prompt_style}
 
 {prompt_scenario}
 
@@ -255,6 +263,7 @@ LƯU Ý LỚN:
 2. Trường 'text' trong 'entities' phải khớp hoàn hảo (phân biệt cả hoa thường) với cụm từ con trong trường 'text' gốc của bệnh án để tránh lỗi không tìm thấy.
 3. Chỉ trích xuất tối đa 5-8 thực thể tiêu biểu nhất xuất hiện trong văn bản.
 """
+
 
     headers = {"Content-Type": "application/json"}
     payload = {
@@ -338,9 +347,9 @@ def main():
     print(f"   - Mã bệnh phổ biến: {len(common_codes)}")
     print(f"   - Số lượng hoạt chất hỗ trợ gợi ý: {len(drugs_list)}")
     
-    # Định nghĩa cấu trúc thư mục lưu trữ
-    input_dir = os.path.join("sample", "input")
-    output_dir = os.path.join("sample", "output")
+    # Định nghĩa cấu trúc thư mục lưu trữ chia theo thành viên (tránh xung đột ghi đè khi chạy song song)
+    input_dir = os.path.join(f"sample_{args.member}", "input")
+    output_dir = os.path.join(f"sample_{args.member}", "output")
     os.makedirs(input_dir, exist_ok=True)
     os.makedirs(output_dir, exist_ok=True)
     
@@ -373,6 +382,16 @@ def main():
         else:
             scenario_id = 4
             
+        # 1.5. Quyết định phong cách văn bản (Phân bổ tỷ lệ)
+        # Phong cách 1: 50% (Bệnh án cấu trúc), Phong cách 2: 30% (Q&A), Phong cách 3: 20% (Bài viết giáo dục)
+        rand_style = random.random()
+        if rand_style < 0.50:
+            style_id = 1
+        elif rand_style < 0.80:
+            style_id = 2
+        else:
+            style_id = 3
+            
         # 2. Quyết định chọn bệnh (70% ngẫu nhiên/hiếm, 30% phổ biến)
         target_disease = None
         if scenario_id in [2, 3]:
@@ -383,7 +402,7 @@ def main():
                 target_disease = random.choice(all_codes)
                 
         # 3. Gọi LLM sinh mẫu
-        raw_sample = generate_llm_call(api_key, scenario_id, target_disease, drugs_list)
+        raw_sample = generate_llm_call(api_key, scenario_id, style_id, target_disease, drugs_list)
         if not raw_sample:
             print(f" -> Thất bại ở bước gọi LLM hoặc parse JSON. Đang bỏ qua...")
             fail_count += 1

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "ho khan",
+    "position": [32, 39],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Erythromycin",
+    "position": [111, 123],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4053"]
+  },
+  {
+    "text": "X-quang phổi",
+    "position": [562, 574],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [615, 628],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC",
+    "position": [630, 633],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [708, 715],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm xoang mạn tính",
+    "position": [901, 920],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J32",
+      "J32.0",
+      "J32.1"
+    ]
+  },
+  {
+    "text": "ran ẩm",
+    "position": [1209, 1215],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

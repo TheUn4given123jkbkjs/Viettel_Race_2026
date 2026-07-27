@@ -1,0 +1,66 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [57, 64],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụt cân nhẹ",
+    "position": [83, 94],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rifampin",
+    "position": [646, 654],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
+  },
+  {
+    "text": "THA",
+    "position": [760, 763],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "đau họng",
+    "position": [844, 852],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [856, 863],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [885, 892],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm họng cấp",
+    "position": [1161, 1174],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J00",
+      "J02",
+      "J02.8"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Lamivudine / Zidovudine",
+    "position": [125, 148],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["214671", "687428"]
+  },
+  {
+    "text": "THA",
+    "position": [48, 51],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [85, 95],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Đau bụng cấp",
+    "position": [245, 257],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [261, 270],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [520, 527],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiếng ruột tăng",
+    "position": [995, 1010],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm trùng đường tiêu hóa cấp",
+    "position": [1097, 1127],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

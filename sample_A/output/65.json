@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tiền sử dùng thuốc",
+    "position": [83, 101],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh lý nền",
+    "position": [477, 488],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tương tác thuốc",
+    "position": [500, 515],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dextran 40",
+    "position": [799, 809],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3272"]
+  },
+  {
+    "text": "vi tuần hoàn",
+    "position": [858, 870],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phòng ngừa huyết khối",
+    "position": [876, 897],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tương tác thuốc nguy hiểm",
+    "position": [1164, 1189],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tác dụng phụ không mong muốn",
+    "position": [1199, 1227],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "khó thở nhẹ",
+    "position": [65, 76],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức ngực",
+    "position": [94, 106],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan ngực",
+    "position": [142, 154],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "một khối ở vùng tuyến ức",
+    "position": [176, 200],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "U tân sinh chưa rõ tính chất của tuyến ức",
+    "position": [238, 279],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D38.4"]
+  },
+  {
+    "text": "khối u",
+    "position": [699, 705],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

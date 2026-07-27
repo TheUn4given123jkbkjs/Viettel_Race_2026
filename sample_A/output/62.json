@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Sốt cao",
+    "position": [171, 178],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu dữ dội",
+    "position": [180, 194],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co giật toàn thân",
+    "position": [565, 582],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn tri giác",
+    "position": [613, 630],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng gáy",
+    "position": [1143, 1151],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh do virus không điển hình ở hệ thần kinh trung ương",
+    "position": [1693, 1748],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A81"]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [1776, 1785],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["281"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1839, 1852],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  }
+]

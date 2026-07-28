@@ -226,7 +226,7 @@ def generate_call_gemini(api_key, prompt, model_name=None):
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.8}
     }
-    res = requests.post(url, headers=headers, json=payload, timeout=90)
+    res = requests.post(url, headers=headers, json=payload, timeout=25)
     return res, model_name
 
 def generate_call_groq(api_key, prompt, model_name=None):
@@ -248,7 +248,7 @@ def generate_call_groq(api_key, prompt, model_name=None):
         "response_format": {"type": "json_object"},
         "temperature": 0.8
     }
-    res = requests.post(url, headers=headers, json=payload, timeout=90)
+    res = requests.post(url, headers=headers, json=payload, timeout=25)
     return res, model_name
 
 def generate_call_sambanova(api_key, prompt, model_name=None):
@@ -269,7 +269,7 @@ def generate_call_sambanova(api_key, prompt, model_name=None):
         ],
         "temperature": 0.8
     }
-    res = requests.post(url, headers=headers, json=payload, timeout=90)
+    res = requests.post(url, headers=headers, json=payload, timeout=25)
     return res, model_name
 
 def generate_call_ninerouter(api_key, prompt, model_name=None):
@@ -290,7 +290,7 @@ def generate_call_ninerouter(api_key, prompt, model_name=None):
         ],
         "temperature": 0.8
     }
-    res = requests.post(url, headers=headers, json=payload, timeout=120)
+    res = requests.post(url, headers=headers, json=payload, timeout=25)
     return res, model_name
 
 global_provider_toggle = "groq"

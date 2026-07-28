@@ -1,0 +1,93 @@
+[
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [137, 157],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đau ngực trái",
+    "position": [250, 263],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Abacavir",
+    "position": [589, 597],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Albuterol",
+    "position": [630, 639],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [678, 685],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Erythrocyte Sedimentation Rate (ESR)",
+    "position": [358, 394],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "30 mm/h",
+    "position": [396, 403],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nitrogen monoxide (NO)",
+    "position": [469, 491],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10 ppm",
+    "position": [493, 499],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nitrogen dioxide (NO2)",
+    "position": [504, 526],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5 ppm",
+    "position": [528, 533],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tâm nhĩ trái",
+    "position": [561, 573],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3 cm",
+    "position": [575, 579],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

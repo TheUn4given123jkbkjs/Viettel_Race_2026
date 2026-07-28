@@ -1,0 +1,43 @@
+Nội dung bệnh án lâm sàng của bệnh nhân được trình bày như sau:
+
+Ngày [Date]: Bệnh nhân được chuyển đến khoa nội với biểu hiện ngộ độc thuốc tác động phân hủy fibrin. Bệnh nhân được kiểm tra và có kết quả xét nghiệm như sau:
+
+Xét nghiệm fibrinogen: [Kết quả xét nghiệm]
+Xét nghiệm d-dimer: [Kết quả xét nghiệm]
+
+Bệnh sử: Bệnh nhân có tiền sử bệnh mãn tính bao gồm:
+
+- Bệnh tim mạch: bệnh nhân có tiền sử đau thắt ngực
+- Bệnh tiểu đường: bệnh nhân có tiền sử bệnh tiểu đường
+
+Khám bệnh lúc vào viện:
+
+- Tình trạng chung: bệnh nhân có biểu hiện sốt, buồn nôn
+- Tình trạng tim mạch: bệnh nhân có biểu hiện nhịp tim nhanh, huyết áp cao
+- Tình trạng hô hấp: bệnh nhân có biểu hiện khó thở
+- Tình trạng tiêu hóa: bệnh nhân có biểu hiện buồn nôn
+
+Cập nhật tình trạng bệnh nhân từ 3-5 ngày trước:
+
+- Bệnh nhân được cấp cứu tại bệnh viện [Tên bệnh viện] vào ngày [Ngày]
+- Bệnh nhân được chuyển đến khoa nội và được kiểm tra kỹ lưỡng
+- Bệnh nhân được điều trị bằng thuốc [Tên thuốc] và được theo dõi chặt chẽ
+
+Cập nhật tình trạng bệnh nhân từ ngày [Ngày] đến ngày [Ngày]:
+
+- Bệnh nhân được điều trị bằng thuốc [Tên thuốc] và được theo dõi chặt chẽ
+- Bệnh nhân có biểu hiện sốt, buồn nôn
+- Bệnh nhân có biểu hiện nhịp tim nhanh, huyết áp cao
+
+Chẩn đoán: Ngộ độc Thuốc tác động phân hủy fibrin.
+
+TRIỆU_CHỨNG: Ngộ độc Thuốc tác động phân hủy fibrin
+TÊN_XÉT_NGHIỆM: xét nghiệm fibrinogen
+KẾT_QUẢ_XÉT_NGHIỆM: [Kết quả xét nghiệm]
+TÊN_BỆNH: bệnh nhân [Tên bệnh nhân]
+
+Hành vi: 'phủ nhận buồn nôn'
+
+Lưu ý: Bệnh nhân cần được theo dõi chặt chẽ và được điều trị bằng thuốc [Tên thuốc] để tránh tình trạng nặng hơn.
+
+Nguồn: [Nguồn]

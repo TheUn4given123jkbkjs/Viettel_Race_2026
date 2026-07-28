@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Nhiễm khuẩn huyết",
+    "position": [978, 995],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O88.3",
+      "A39.2",
+      "A39.3"
+    ]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1012, 1023],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1038, 1051],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [841, 851],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12 g/dl",
+    "position": [852, 859],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

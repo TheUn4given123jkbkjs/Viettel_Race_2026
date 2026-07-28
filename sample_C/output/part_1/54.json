@@ -1,0 +1,73 @@
+[
+  {
+    "text": "chấn thương sọ não",
+    "position": [112, 130],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [253, 266],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "position": [487, 494],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [534, 543],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1363, 1376],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cắt lớp vi tính sọ não",
+    "position": [1565, 1592],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Di chứng tổn thương đầu",
+    "position": [1744, 1767],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "T90",
+      "T90.0",
+      "T90.8"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1831, 1844],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Carbamazepine",
+    "position": [1886, 1899],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2002"]
+  }
+]

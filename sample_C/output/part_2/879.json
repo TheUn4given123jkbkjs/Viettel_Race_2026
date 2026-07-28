@@ -1,0 +1,62 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [140, 153],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [224, 244],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [407, 416],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [548, 565],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin T",
+    "position": [1579, 1589],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1610, 1617],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khám và theo dõi vì lý do không xác định",
+    "position": [2508, 2548],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z04.9"]
+  },
+  {
+    "text": "theo dõ i",
+    "position": [2825, 2834],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

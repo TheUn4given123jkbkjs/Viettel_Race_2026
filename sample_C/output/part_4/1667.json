@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Gẫy thân xương quay",
+    "position": [1325, 1344],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S52.3",
+      "S52.30",
+      "S52.31"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [539, 552],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [451, 459],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1390, 1403],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1425, 1441],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cẳng tay thẳng nghiêng",
+    "position": [1482, 1512],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1626, 1639],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

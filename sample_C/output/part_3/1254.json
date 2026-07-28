@@ -1,0 +1,65 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [66, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau tức ngực trái",
+    "position": [240, 257],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [479, 486],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1686, 1699],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa máu",
+    "position": [1827, 1839],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp X-quang ngực thẳng",
+    "position": [1954, 1977],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm tim Doppler màu",
+    "position": [2070, 2093],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tâm đồ ECG",
+    "position": [2271, 2286],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chức năng tâm thu thất trái EF đạt 60%",
+    "position": [2156, 2194],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

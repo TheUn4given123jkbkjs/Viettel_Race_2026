@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Aspirin",
+    "position": [1947, 1954],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "hydrocortisone",
+    "position": [1983, 1997],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5492", "27197"]
+  },
+  {
+    "text": " Công thức máu toàn phần",
+    "position": [1208, 1232],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa",
+    "position": [1388, 1396],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang (ngực và bụng)",
+    "position": [1244, 1266],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm (tim và tĩnh mạch cảnh)",
+    "position": [1474, 1505],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1301, 1304],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "160/90 mmHg",
+    "position": [384, 395],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hơi thở nông",
+    "position": [462, 474],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dấu hiệu suy nhược cơ thể",
+    "position": [877, 902],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

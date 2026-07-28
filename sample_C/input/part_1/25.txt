@@ -1,0 +1,33 @@
+Nội dung đoạn văn bản y khoa thô sinh ra:
+
+Bệnh nhân nữ, 25 tuổi, đến khám vì thấy có biểu hiện suy dinh dưỡng và đau bụng. Quá trình bệnh lý bắt đầu từ 3 ngày trước khi có dấu hiệu đầy hơi, buồn nôn và đau bụng. Bệnh nhân nói rằng có tiền sử THA 5 năm trước và đã mổ ruột thừa cách đây 2 năm. Quá trình khám lâm sàng cho thấy bệnh nhân có biểu hiện suy dinh dưỡng, đau bụng và đầy hơi.
+
+Kết quả khám lâm sàng:
+
+- Thần kinh: bình thường
+- Hô hấp: bình thường
+- Tiêu hóa: có biểu hiện suy dinh dưỡng
+- Tuần hoàn: bình thường
+
+Kết quả xét nghiệm cận lâm sàng:
+
+- Xét nghiệm máu: Hb 10,5 g/dL, MCV 70 fL
+- Xét nghiệm phân: ESR 30 mm/h
+
+Chẩn đoán: Các dị tật bẩm sinh đặc hiệu khác của dạ dày (CHẨN_ĐOÁN). Bệnh nhân cần được theo dõi chặt chẽ và có thể cần phẫu thuật.
+
+Đánh giá tại bệnh viện:
+
+Bệnh nhân được bác sĩ khám và cho biết có biểu hiện suy dinh dưỡng và đau bụng. Quá trình khám lâm sàng và xét nghiệm cận lâm sàng đã khẳng định chẩn đoán là Các dị tật bẩm sinh đặc hiệu khác của dạ dày (CHẨN_ĐOÁN). Bệnh nhân cần được theo dõi chặt chẽ và có thể cần phẫu thuật.
+
+Các thực thể trích xuất:
+
+- Các dị tật bẩm sinh đặc hiệu khác của dạ dày (CHẨN_ĐOÁN)
+- Suy dinh dưỡng (TRIỆU_CHỨNG)
+- Đầy hơi (KẾT_QUẢ_XÉT_NGHIỆM)
+- Buồn nôn (KẾT_QUẢ_XÉT_NGHIỆM)
+- Đau bụng (KẾT_QUẢ_XÉT_NGHIỆM)
+- THA 5 năm trước (isHistorical)
+- Mổ ruột thừa cách đây 2 năm (isHistorical)
+- Xét nghiệm máu (TÊN_XÉT_NGHIỆM)
+- Xét nghiệm phân (TÊN_XÉT_NGHIỆM)

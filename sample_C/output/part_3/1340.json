@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Hemoglobin",
+    "position": [594, 604],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Leukocyte",
+    "position": [644, 653],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1191, 1200],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [1250, 1261],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "O2",
+    "position": [1288, 1290],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "************",
+    "position": [1319, 1331],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "20",
+    "position": [416, 418],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "92",
+    "position": [465, 467],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10.500",
+    "position": [655, 661],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "90",
+    "position": [724, 726],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.2",
+    "position": [775, 778],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

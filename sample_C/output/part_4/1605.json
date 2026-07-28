@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Nhiễm độc Khí, khói hơi chưa xác định",
+    "position": [1154, 1191],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T59.9"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [239, 246],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [503, 511],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [453, 466],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [1348, 1362],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1408, 1421],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [914, 927],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu 10.5 G/L",
+    "position": [937, 954],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khí máu động mạch",
+    "position": [1056, 1073],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "PaO2 88 mmHg",
+    "position": [1083, 1095],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

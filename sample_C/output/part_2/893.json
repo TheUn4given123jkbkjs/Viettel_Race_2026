@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Ăn mòn độ ba tại háng và chi dưới, trừ cổ chân và bàn chân",
+    "position": [454, 512],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T24.7"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [550, 563],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [565, 576],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [581, 594],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [13, 30],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau háng và chi dưới",
+    "position": [134, 154],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [269, 283],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm nước tiểu",
+    "position": [285, 305],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [307, 314],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [318, 325],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

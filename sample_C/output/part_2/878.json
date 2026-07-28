@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Niacinamide",
+    "position": [180, 191],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7405"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [108, 115],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [119, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [303, 313],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
+  },
+  {
+    "text": "huyết áp cao",
+    "position": [317, 329],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm cận lâm sàng",
+    "position": [620, 643],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mức đường huyết cao",
+    "position": [667, 686],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

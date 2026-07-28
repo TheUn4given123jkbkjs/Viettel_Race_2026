@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Chấn thương cắt cụt một ngón chân",
+    "position": [943, 976],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["S98.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1112, 1125],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1163, 1172],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Cephalexin",
+    "position": [1224, 1234],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2231"]
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [829, 843],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [374, 394],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [420, 433],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

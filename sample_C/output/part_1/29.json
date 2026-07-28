@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Đa gẫy xương cẳng tay, gãy hở",
+    "position": [461, 490],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S52.71"]
+  },
+  {
+    "text": "đau nhức",
+    "position": [152, 160],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang xương cẳng tay",
+    "position": [1029, 1051],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bất thường",
+    "position": [1052, 1062],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

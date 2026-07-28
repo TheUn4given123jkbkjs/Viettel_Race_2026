@@ -1,0 +1,72 @@
+[
+  {
+    "text": "đau tức vùng hắt lưng",
+    "position": [169, 190],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu rắt",
+    "position": [552, 560],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích nước tiểu",
+    "position": [1523, 1547],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 25 tế bào/uL, hồng cầu 10 tế bào/uL",
+    "position": [1569, 1613],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinin máu",
+    "position": [1692, 1705],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "105 umol/L",
+    "position": [1727, 1737],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có thận không đặc hiệu",
+    "position": [1938, 1966],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q60.2"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [427, 437],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [2081, 2091],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2120, 2131],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

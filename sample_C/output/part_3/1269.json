@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Vết cắn, đốt hở ở vú, Vết cắn, đốt ở vú NOS",
+    "position": [355, 398],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S21.05"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [448, 459],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [463, 476],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [830, 843],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 12 g/dL",
+    "position": [845, 863],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

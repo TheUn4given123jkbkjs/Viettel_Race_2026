@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Tổn thương dây thần kinh giao cảm ngực",
+    "position": [929, 967],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S24.4"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [535, 548],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amitriptyline",
+    "position": [552, 565],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["704"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [169, 176],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [178, 181],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [185, 192],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm cho thấy bệnh nhân có tổn thương dây thần kinh giao cảm ngực",
+    "position": [414, 493],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

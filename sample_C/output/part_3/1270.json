@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Bong gân và căng cơ phần khác, chưa xác định của bàn chân",
+    "position": [986, 1043],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S93.6"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1058, 1071],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1112, 1121],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "đau và sưng tại phần bàn chân",
+    "position": [80, 109],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử cao huyết áp",
+    "position": [383, 403],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [821, 835],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 14 g/dl",
+    "position": [837, 855],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Myoglobin niệu",
+    "position": [958, 972],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R82.1"]
+  },
+  {
+    "text": "đau cơ",
+    "position": [403, 409],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatine kinase",
+    "position": [882, 897],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45.000 U/L",
+    "position": [916, 926],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sodium chloride",
+    "position": [1236, 1251],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9863"]
+  },
+  {
+    "text": "Sodium bicarbonate",
+    "position": [1314, 1332],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36676"]
+  },
+  {
+    "text": "Mannitol",
+    "position": [1381, 1389],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6628"]
+  },
+  {
+    "text": "nước tiểu màu nâu đỏ",
+    "position": [76, 96],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [1074, 1084],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.8 mg/dL",
+    "position": [1085, 1094],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

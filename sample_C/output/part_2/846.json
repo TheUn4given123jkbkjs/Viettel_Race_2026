@@ -1,0 +1,59 @@
+[
+  {
+    "text": "sốt cao",
+    "position": [55, 62],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [156, 176],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [180, 193],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "công thức máu",
+    "position": [272, 285],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu 15.000 tế bào/mm3",
+    "position": [417, 443],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [603, 615],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm gan B",
+    "position": [688, 698],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "B16",
+      "B16.0",
+      "B16.1"
+    ]
+  }
+]

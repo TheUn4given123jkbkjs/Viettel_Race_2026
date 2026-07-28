@@ -1,0 +1,58 @@
+[
+  {
+    "text": "THA",
+    "position": [92, 95],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [389, 397],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Rách xé nhãn cầu không có sa hay mất tổ chức trong nhãn cầu",
+    "position": [1167, 1226],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S05.3"]
+  },
+  {
+    "text": "CT Scan ổ mắt",
+    "position": [1135, 1148],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu 8.5 G/L",
+    "position": [1262, 1278],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm nhãn cầu",
+    "position": [1333, 1349],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T",
+    "position": [1435, 1445],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.01 ng/mL",
+    "position": [1458, 1468],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

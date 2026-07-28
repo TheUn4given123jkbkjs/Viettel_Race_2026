@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Acetaminophen",
+    "position": [919, 932],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [959, 968],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "đau và mất cảm giác tại vùng cánh tay trên",
+    "position": [91, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [640, 647],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dấu hiệu của tổn thương dây thần kinh giữa",
+    "position": [750, 792],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

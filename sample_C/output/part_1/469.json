@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Lamivudine",
+    "position": [196, 206],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "68244",
+      "2003201",
+      "2003222"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [249, 269],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [287, 300],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [716, 723],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [729, 740],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "troponin",
+    "position": [788, 796],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

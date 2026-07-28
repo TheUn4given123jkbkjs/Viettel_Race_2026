@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bệnh sử cá nhân có chế độ điều trị và chế độ ăn không thuận",
+    "position": [1418, 1477],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z91.1"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [226, 234],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Insulin",
+    "position": [1600, 1607],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["253182", "317235"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [1728, 1740],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Glucose máu",
+    "position": [1244, 1255],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "32.5 mmol/L",
+    "position": [1256, 1267],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cetone niệu",
+    "position": [1331, 1342],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính (3+)",
+    "position": [1343, 1358],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

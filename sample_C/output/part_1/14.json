@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Hội chứng hydantoin bào thai",
+    "position": [1506, 1534],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q86.1"]
+  },
+  {
+    "text": "Phenytoin",
+    "position": [105, 114],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8183"]
+  },
+  {
+    "text": "Phenobarbital",
+    "position": [1372, 1385],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8134"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [1609, 1619],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "chậm phát triển tâm thần vận động",
+    "position": [196, 229],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co giật",
+    "position": [388, 395],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cộng hưởng từ sọ não",
+    "position": [1092, 1117],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Giảm sản thể chai mức độ nhẹ",
+    "position": [1141, 1169],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện não đồ",
+    "position": [1189, 1200],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sóng nhọn khu trú ở thùy thái dương",
+    "position": [1227, 1262],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

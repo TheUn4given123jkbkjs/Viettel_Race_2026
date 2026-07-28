@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Phản ứng phụ khác của thực phẩm không xếp loại ở nơi khác",
+    "position": [1857, 1914],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T78.1"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [237, 245],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [247, 255],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [285, 294],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [359, 365],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chlorpheniramine",
+    "position": [2081, 2097],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2400"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [2137, 2149],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Bạch cầu tổng số",
+    "position": [1601, 1617],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 G/L",
+    "position": [1620, 1628],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

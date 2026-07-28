@@ -1,0 +1,44 @@
+[
+  {
+    "text": "gãy xương đơn thuần xương mác, gãy kín",
+    "position": [88, 126],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S82.40"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [865, 878],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [882, 891],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "đau và sưng",
+    "position": [198, 209],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp X-quang",
+    "position": [471, 483],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kết quả bình thường",
+    "position": [643, 662],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

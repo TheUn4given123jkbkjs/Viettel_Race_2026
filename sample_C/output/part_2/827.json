@@ -1,0 +1,51 @@
+[
+  {
+    "text": "vỡ nhiều mảnh của xương sọ và xương mặt, vỡ hở",
+    "position": [276, 322],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S02.71"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [359, 372],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ampicillin",
+    "position": [376, 386],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["733"]
+  },
+  {
+    "text": "số lượng bạch cầu cao",
+    "position": [500, 521],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ creatinine cao",
+    "position": [583, 605],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm huyết học",
+    "position": [457, 477],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm huyết thanh học",
+    "position": [534, 560],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

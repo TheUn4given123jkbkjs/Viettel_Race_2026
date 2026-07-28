@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Các dị tật bẩm sinh khác của động mạch phổi",
+    "position": [798, 841],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q22.3", "Q25.7"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [858, 871],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [895, 902],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "đau ngực trái",
+    "position": [58, 71],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [49, 56],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [603, 615],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Có dấu hiệu của các dị tật bẩm sinh khác của động mạch phổi",
+    "position": [617, 676],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đã mổ ruột thừa cách đây 2 năm",
+    "position": [91, 121],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

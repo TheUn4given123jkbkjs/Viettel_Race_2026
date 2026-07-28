@@ -1,0 +1,37 @@
+[
+  {
+    "text": "sụp mí bẩm sinh",
+    "position": [449, 464],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q10.0"]
+  },
+  {
+    "text": "sụp mí mắt",
+    "position": [83, 93],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "kiểm tra mắt toàn diện",
+    "position": [490, 512],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [898, 908],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "theo dõi lối sống",
+    "position": [982, 999],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

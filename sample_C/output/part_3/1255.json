@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Trật khớp háng bẩm sinh",
+    "position": [0, 23],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q65.00",
+      "Q65.01",
+      "Q65.02"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [791, 804],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [810, 819],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Allopurinol",
+    "position": [849, 860],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["519"]
+  },
+  {
+    "text": "Colchicine",
+    "position": [866, 876],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2683"]
+  },
+  {
+    "text": "X-quang",
+    "position": [578, 585],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [591, 598],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau háng",
+    "position": [395, 403],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

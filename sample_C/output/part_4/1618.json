@@ -1,0 +1,48 @@
+[
+  {
+    "text": "hội chứng đối xử sai trái",
+    "position": [103, 128],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "T74",
+      "T74.8",
+      "T74.9"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [175, 178],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [180, 187],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [261, 271],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [275, 287],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ troponin tăng cao",
+    "position": [697, 722],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

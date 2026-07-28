@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Phơi nhiễm tia xạ không rõ đặc điểm",
+    "position": [167, 202],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["W91"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [70, 77],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [79, 87],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [92, 99],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [1256, 1270],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 12 g/dl",
+    "position": [1272, 1290],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

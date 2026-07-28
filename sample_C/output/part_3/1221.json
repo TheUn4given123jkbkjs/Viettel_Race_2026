@@ -1,0 +1,87 @@
+[
+  {
+    "text": "vỡ nền sọ",
+    "position": [106, 115],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "S02.1",
+      "S02.10",
+      "S02.11"
+    ]
+  },
+  {
+    "text": "vỡ kín",
+    "position": [139, 145],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "S02.00",
+      "S02.10",
+      "S02.20"
+    ]
+  },
+  {
+    "text": "Abacavir",
+    "position": [734, 742],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "Acenocoumarol",
+    "position": [762, 775],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["154"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [577, 590],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [606, 615],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Oxytocin",
+    "position": [668, 676],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7824"]
+  },
+  {
+    "text": "creatinin",
+    "position": [442, 451],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ure",
+    "position": [464, 467],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [479, 482],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [491, 494],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

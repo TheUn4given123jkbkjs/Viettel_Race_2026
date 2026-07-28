@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [349, 368],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [872, 881],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [883, 900],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Hành khách xe điện bị thương khi va chạm với hay bị đập bởi khối hàng hóa bị lăn",
+    "position": [1799, 1879],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V82.2"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1497, 1510],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 140 g/L",
+    "position": [1530, 1548],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2057, 2070],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2113, 2122],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  }
+]

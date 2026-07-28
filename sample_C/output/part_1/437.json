@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Fluphenazine",
+    "position": [176, 188],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4496"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [308, 328],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [346, 359],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [920, 927],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [931, 942],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "troponin",
+    "position": [996, 1004],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

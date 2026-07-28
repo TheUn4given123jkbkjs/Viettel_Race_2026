@@ -1,0 +1,58 @@
+[
+  {
+    "text": "THA",
+    "position": [90, 93],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "khó thở",
+    "position": [114, 121],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực trái",
+    "position": [134, 147],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T",
+    "position": [779, 789],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [790, 797],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dị tật bẩm sinh của các buồng tim và các phần nối, không đặc hiệu",
+    "position": [1086, 1151],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q20.9"]
+  },
+  {
+    "text": "Siêu âm tim Doppler màu",
+    "position": [876, 899],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giãn nhĩ phải và thất phải",
+    "position": [912, 938],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Acetaminophen",
+    "position": [416, 429],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [477, 487],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "hen suyễn",
+    "position": [315, 324],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "suyễn nặng",
+    "position": [336, 346],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [564, 578],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ đường huyết trong máu cao",
+    "position": [682, 715],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Metformin",
+    "position": [760, 769],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  }
+]

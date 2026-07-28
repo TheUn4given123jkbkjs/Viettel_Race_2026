@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Khám cho người muốn hiến tạng và mô",
+    "position": [2158, 2193],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z00.5"]
+  },
+  {
+    "text": "không sốt",
+    "position": [321, 330],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Creatinin",
+    "position": [1022, 1031],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.9 mg/dL",
+    "position": [1035, 1044],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trừng",
+    "position": [1581, 1592],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "HBsAg",
+    "position": [1184, 1189],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [859, 866],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [161, 174],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Pneumococcal Vaccine",
+    "position": [339, 359],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["106467"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [432, 452],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [161, 174],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1286, 1299],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tăng cao 15.4 g/L",
+    "position": [1321, 1347],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T",
+    "position": [1387, 1397],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin âm tính",
+    "position": [1419, 1435],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [1705, 1716],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "aspirin",
+    "position": [1746, 1753],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

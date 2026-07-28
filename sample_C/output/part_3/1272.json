@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Triệt sản",
+    "position": [27, 36],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z30.2", "Z31.0"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [75, 83],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "sốt",
+    "position": [156, 159],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [176, 193],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm huyết học",
+    "position": [597, 617],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 14 g/dl",
+    "position": [619, 637],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

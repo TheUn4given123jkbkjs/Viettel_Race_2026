@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Ovarian streak 46, XX with streak gonads",
+    "position": [1141, 1181],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q50.32"]
+  },
+  {
+    "text": "************",
+    "position": [1231, 1243],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1247, 1254],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1333, 1346],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "đau bụng dưới",
+    "position": [143, 156],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy máu bất thường",
+    "position": [160, 179],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối u trong buồng trứng",
+    "position": [1019, 1043],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "sốt",
+    "position": [65, 68],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [165, 182],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đã mổ ruột thừa cách đây 2 năm",
+    "position": [186, 216],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ có tiền sử Đái tháo đường týp 2",
+    "position": [264, 301],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [305, 332],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [390, 403],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chỉ số bạch cầu tăng cao",
+    "position": [505, 529],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [405, 413],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chỉ số đường huyết tăng cao",
+    "position": [543, 570],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

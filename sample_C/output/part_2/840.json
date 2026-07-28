@@ -1,0 +1,69 @@
+[
+  {
+    "text": "sốt",
+    "position": [106, 109],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [113, 120],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [390, 403],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "tiểu đường loại 2",
+    "position": [407, 424],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1054, 1067],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [1069, 1077],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [1079, 1091],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm tim",
+    "position": [1095, 1106],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng nhẹ creatinine",
+    "position": [1179, 1198],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

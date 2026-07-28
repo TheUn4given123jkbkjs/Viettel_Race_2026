@@ -1,0 +1,51 @@
+[
+  {
+    "text": "biến chứng cơ học của thiết bị nhân tạo khác, cấy và ghép trong đường sinh dục",
+    "position": [161, 239],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T83.4"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [936, 949],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [998, 1011],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [1062, 1072],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [567, 577],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12 g/dl",
+    "position": [578, 585],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [450, 459],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

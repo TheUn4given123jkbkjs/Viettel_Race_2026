@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau thượng vị",
+    "position": [1775, 1788],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [543, 552],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không buồn nôn",
+    "position": [569, 583],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1200, 1213],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Số lượng bạch cầu 8.5 G/L",
+    "position": [1215, 1240],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu đói 5.8 mmol/L",
+    "position": [1325, 1351],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm ổ bụng tổng quát",
+    "position": [1474, 1498],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Acetaminophen",
+    "position": [651, 664],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [708, 721],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "Silver sulfadiazine",
+    "position": [767, 786],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9793"]
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [384, 394],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12g/dl",
+    "position": [395, 401],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

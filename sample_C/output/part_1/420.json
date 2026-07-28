@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Amiodarone",
+    "position": [470, 480],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["703"]
+  },
+  {
+    "text": "khó thở",
+    "position": [87, 94],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [76, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [363, 376],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Rung nhĩ",
+    "position": [385, 393],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I48",
+      "I48.0",
+      "I48.1"
+    ]
+  },
+  {
+    "text": "Creatinine",
+    "position": [1375, 1385],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "135 umol/L",
+    "position": [1386, 1396],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Furosemide",
+    "position": [1538, 1548],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  }
+]

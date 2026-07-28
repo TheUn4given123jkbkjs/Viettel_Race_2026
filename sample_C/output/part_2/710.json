@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Gãy các phần khác của xương ngực, gãy hở",
+    "position": [151, 191],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S22.81"]
+  },
+  {
+    "text": "bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [950, 984],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [1084, 1091],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực dữ dội",
+    "position": [1095, 1110],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bầm tím da",
+    "position": [1134, 1144],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp X-quang lồng ngực thẳng nghiêng",
+    "position": [1500, 1536],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hình ảnh gãy xương sườn số 4 và số 5 bên trái có ổ gãy hở di lệch nhiều",
+    "position": [1546, 1617],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm công thức máu",
+    "position": [1627, 1651],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu tăng cao",
+    "position": [1668, 1685],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

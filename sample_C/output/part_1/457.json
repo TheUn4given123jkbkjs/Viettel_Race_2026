@@ -1,0 +1,37 @@
+[
+  {
+    "text": "đau dữ dội và sưng tấy",
+    "position": [74, 96],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu toàn bộ",
+    "position": [316, 338],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ bạch cầu cao",
+    "position": [463, 483],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [196, 213],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đã mổ ruột thừa cách đây 2 năm",
+    "position": [217, 247],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

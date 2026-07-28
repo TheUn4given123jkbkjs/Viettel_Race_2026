@@ -1,0 +1,95 @@
+[
+  {
+    "text": "Deferoxamine",
+    "position": [279, 291],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3131"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [468, 476],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [478, 481],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [483, 490],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tuần hoàn",
+    "position": [1051, 1060],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I99",
+      "I97",
+      "I97.8"
+    ]
+  },
+  {
+    "text": "hô hấp",
+    "position": [1062, 1068],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.73",
+      "P28.11",
+      "J95"
+    ]
+  },
+  {
+    "text": "tiêu hóa",
+    "position": [1070, 1078],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K32",
+      "K32.0",
+      "K32.1"
+    ]
+  },
+  {
+    "text": "thần kinh",
+    "position": [1080, 1089],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.15",
+      "A52.19",
+      "B26.83"
+    ]
+  },
+  {
+    "text": "huyết áp",
+    "position": [1158, 1166],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim",
+    "position": [1168, 1176],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chức năng phổi",
+    "position": [1178, 1192],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

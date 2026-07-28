@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Vết thương nhiều cơ quan trong ổ bụng",
+    "position": [780, 817],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S36.7",
+      "S36.70",
+      "S36.71"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "position": [122, 130],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [132, 135],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [137, 146],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [520, 534],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 10 g/dl",
+    "position": [536, 554],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

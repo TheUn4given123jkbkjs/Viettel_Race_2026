@@ -1,0 +1,51 @@
+[
+  {
+    "text": "thông liên nhĩ",
+    "position": [122, 136],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Q21.1"]
+  },
+  {
+    "text": "Hẹp van động mạch chủ bẩm sinh",
+    "position": [1792, 1822],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q23.0", "Q24.4"]
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [435, 448],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [537, 544],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm tim",
+    "position": [1369, 1380],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "diện tích mở van trên siêu âm là 0.8 cm²",
+    "position": [1438, 1478],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm Doppler",
+    "position": [1527, 1542],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

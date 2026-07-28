@@ -1,0 +1,44 @@
+[
+  {
+    "text": "khó tiêu",
+    "position": [146, 154],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầy hơi",
+    "position": [156, 163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm giác nóng ở vùng thượng vị",
+    "position": [171, 201],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [353, 380],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm công thức máu",
+    "position": [1074, 1098],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu nhẹ",
+    "position": [1202, 1215],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

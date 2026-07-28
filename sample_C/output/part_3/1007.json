@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Rối loạn cảm giác da không xác định và các rối loạn khác của da",
+    "position": [803, 866],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R20.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [923, 936],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [954, 962],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [981, 991],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [48, 55],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "42%",
+    "position": [582, 585],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [489, 498],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

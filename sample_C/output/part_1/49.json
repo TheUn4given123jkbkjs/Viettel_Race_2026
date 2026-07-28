@@ -1,0 +1,51 @@
+[
+  {
+    "text": "gãy xương cẳng tay, phần chưa xác định, gãy kín",
+    "position": [48, 95],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S52.90"]
+  },
+  {
+    "text": "tiền sử chấn thương cột sống",
+    "position": [143, 171],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1071, 1084],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1088, 1097],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [1177, 1190],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "X-quang",
+    "position": [659, 666],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scans",
+    "position": [670, 678],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

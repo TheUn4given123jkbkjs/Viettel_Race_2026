@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [286, 299],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [369, 389],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [593, 601],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [609, 616],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1367, 1375],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18.5 G/L",
+    "position": [1399, 1407],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kháng các kháng sinh khác",
+    "position": [1467, 1492],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

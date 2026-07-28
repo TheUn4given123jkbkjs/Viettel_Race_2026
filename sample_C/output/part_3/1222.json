@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Doxorubicin",
+    "position": [227, 238],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3639"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [292, 312],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [331, 344],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [781, 794],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC: 3.000 tế bào/mm3",
+    "position": [828, 849],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ creatinin huyết thanh tăng",
+    "position": [881, 915],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

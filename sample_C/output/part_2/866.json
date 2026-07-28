@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Di chứng bỏng ăn mòn và tổn thương do cóng lạnh khác đã xác định",
+    "position": [178, 242],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T95.8"]
+  },
+  {
+    "text": "sẹo co rút",
+    "position": [257, 267],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì đầu ngón tay",
+    "position": [534, 552],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1156, 1164],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [1175, 1183],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1193, 1196],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "25 mg/L",
+    "position": [1207, 1214],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Silver sulfadiazine",
+    "position": [1339, 1358],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9793"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1411, 1424],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  }
+]

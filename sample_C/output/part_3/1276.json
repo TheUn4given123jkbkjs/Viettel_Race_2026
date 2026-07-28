@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Aspirin",
+    "position": [665, 672],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [680, 691],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [701, 714],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [416, 430],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm nước tiểu",
+    "position": [432, 452],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp X-quang ngực",
+    "position": [456, 473],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biểu hiện viêm phổi",
+    "position": [517, 536],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

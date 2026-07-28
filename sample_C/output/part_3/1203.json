@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Artesunate / Amodiaquine",
+    "position": [144, 168],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["711398"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [283, 300],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "40%",
+    "position": [724, 727],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [979, 990],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không có dấu hiệu của tác dụng phụ nghiêm trọng",
+    "position": [1029, 1076],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

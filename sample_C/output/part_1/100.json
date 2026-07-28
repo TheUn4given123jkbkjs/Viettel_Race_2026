@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Tổn thương khác đã xác định tại chi dưới, tầm chưa xác định",
+    "position": [910, 969],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T13.8"]
+  },
+  {
+    "text": "đau và sưng tại chi dưới",
+    "position": [59, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang chi dưới",
+    "position": [575, 591],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương tại xương chi dưới",
+    "position": [666, 695],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [381, 408],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

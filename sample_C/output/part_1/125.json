@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Chất ưu tiên cảm thụ  adrenergic, không xếp loại ở nơi khác",
+    "position": [774, 834],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y51.5", "Y51.4"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [204, 217],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [235, 255],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [885, 898],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [900, 910],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Metformin",
+    "position": [915, 924],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Xét nghiệm đường huyết",
+    "position": [576, 598],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12 mmol/L",
+    "position": [600, 609],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

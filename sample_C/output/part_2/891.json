@@ -1,0 +1,48 @@
+[
+  {
+    "text": "sốt cao",
+    "position": [51, 58],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [617, 630],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bình thường",
+    "position": [437, 448],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng đường huyết",
+    "position": [776, 792],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [472, 481],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
+  },
+  {
+    "text": "kháng sinh",
+    "position": [1033, 1043],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

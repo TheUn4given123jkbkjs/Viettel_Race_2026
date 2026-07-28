@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Tổn thương màng phổi",
+    "position": [1317, 1337],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C38.8",
+      "S27.6",
+      "S27.60"
+    ]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1483, 1494],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1529, 1542],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [161, 174],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [342, 362],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Troponin",
+    "position": [1171, 1179],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1198, 1205],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [104, 111],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Đa tổn thương nông khác cẳng tay",
+    "position": [2266, 2298],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S50.7"]
+  },
+  {
+    "text": "ngứa nhẹ",
+    "position": [583, 591],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng đỏ nhẹ",
+    "position": [881, 892],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức âm ỉ",
+    "position": [918, 931],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích tế bào máu ngoại vi",
+    "position": [1906, 1940],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 x 10^3/uL",
+    "position": [1959, 1973],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [2475, 2504],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2614, 2627],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Silver sulfadiazine",
+    "position": [2703, 2722],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9793"]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Ifosfamide",
+    "position": [206, 216],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["5657"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [375, 395],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [414, 427],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [143, 146],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [710, 720],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12 g/dL",
+    "position": [721, 728],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

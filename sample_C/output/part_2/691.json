@@ -1,0 +1,73 @@
+[
+  {
+    "text": "Biến chứng cơ học của van tim nhân tạo",
+    "position": [1873, 1911],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T82.0"]
+  },
+  {
+    "text": "Acenocoumarol",
+    "position": [1943, 1956],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["154"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [1995, 2005],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "khó thở",
+    "position": [360, 367],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [563, 571],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [151, 164],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [151, 164],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Siêu âm tim qua thành ngực",
+    "position": [1591, 1617],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạn chế cử động các cánh van",
+    "position": [1663, 1691],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Fentanyl",
+    "position": [326, 334],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4337"]
+  },
+  {
+    "text": "không sốt",
+    "position": [462, 471],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [473, 486],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không buồn nôn",
+    "position": [490, 504],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [1371, 1381],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 µmol/L",
+    "position": [1385, 1395],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "táo bón",
+    "position": [205, 212],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thoái hóa cột sống",
+    "position": [273, 291],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "M47.11",
+      "M47.12",
+      "M47.13"
+    ]
+  }
+]

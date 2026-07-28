@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [207, 220],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Vết cắn, đốt nông ở họng",
+    "position": [1233, 1257],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S10.17"]
+  },
+  {
+    "text": "đau rát họng",
+    "position": [374, 386],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1454, 1467],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tăng nhẹ: 11.5 G/L",
+    "position": [1477, 1504],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả CRP tăng cao: 15 mg/L",
+    "position": [1558, 1587],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả hình ảnh nội soi",
+    "position": [1619, 1643],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

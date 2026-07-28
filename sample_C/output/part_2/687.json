@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Vết thương hở chi trên, tầm chưa xác định",
+    "position": [1449, 1490],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T11.1"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2335, 2346],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2430, 2443],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [970, 978],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [793, 796],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1780, 1793],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tăng cao 16.5 G/L",
+    "position": [1819, 1845],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP 68 mg/L",
+    "position": [2057, 2068],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

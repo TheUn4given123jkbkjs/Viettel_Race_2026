@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Sinh đôi, một trẻ sinh ra sống, một trẻ chết khi sinh",
+    "position": [35, 88],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z37.3"]
+  },
+  {
+    "text": "đau bụng âm ỉ",
+    "position": [836, 849],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [1007, 1010],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mổ lấy thai cách đây 3 năm",
+    "position": [1075, 1101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [1138, 1151],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1527, 1540],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 110 g/L",
+    "position": [1568, 1586],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Oxytocin",
+    "position": [2131, 2139],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7824"]
+  },
+  {
+    "text": "Cefotaxime",
+    "position": [2219, 2229],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2186"]
+  }
+]

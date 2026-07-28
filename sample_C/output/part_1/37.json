@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Efavirenz",
+    "position": [362, 371],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["195085", "2003222"]
+  },
+  {
+    "text": "Atenolol",
+    "position": [484, 492],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1202"]
+  },
+  {
+    "text": "Lisinopril",
+    "position": [612, 622],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1726, 1733],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1758, 1769],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "protein và máu trong nước tiểu",
+    "position": [1565, 1595],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

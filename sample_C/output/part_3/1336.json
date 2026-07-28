@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Ngộ độc thuốc Giãn động mạch ngoại vi",
+    "position": [906, 943],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T46.7"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [656, 670],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [674, 692],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [747, 757],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Metoprolol",
+    "position": [793, 803],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [145, 152],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [154, 163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [167, 175],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [188, 197],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

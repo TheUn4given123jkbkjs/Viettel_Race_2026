@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tổn thương cơ bắp và gân ở tầm cẳng tay",
+    "position": [1176, 1215],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S56"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1283, 1292],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "đau và khó chịu ở cẳng tay",
+    "position": [47, 73],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [759, 773],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu bình thường",
+    "position": [775, 800],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật ruột thừa",
+    "position": [235, 255],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

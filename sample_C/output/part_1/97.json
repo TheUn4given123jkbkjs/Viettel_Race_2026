@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Tổn thương đa cơ và gân",
+    "position": [1197, 1220],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S76.7",
+      "S96.7",
+      "S86.7"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1319, 1332],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1372, 1381],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "X-quang",
+    "position": [395, 402],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương đa cơ và gân ở vùng háng và đùi",
+    "position": [1197, 1239],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1505, 1522],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử chấn thương đầu",
+    "position": [248, 271],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

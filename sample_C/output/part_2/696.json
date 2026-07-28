@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Người trên xe tải, xe kéo bị thương do va chạm với xe tải nặng hay xe buýt",
+    "position": [1387, 1461],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["V54"]
+  },
+  {
+    "text": "đau nhức cơ thể",
+    "position": [211, 226],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [228, 235],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "táo bón",
+    "position": [545, 552],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "huyết học",
+    "position": [892, 901],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chức năng thận",
+    "position": [952, 966],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chức năng gan",
+    "position": [1015, 1028],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hemoglobin",
+    "position": [920, 930],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinine",
+    "position": [985, 995],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bilirubin",
+    "position": [1047, 1056],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

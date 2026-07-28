@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Ngộ độc thuốc chống nhiễm trùng và chống ký sinh trùng khác dùng toàn thân đã xác định",
+    "position": [430, 516],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T37.8"]
+  },
+  {
+    "text": "sốt cao",
+    "position": [142, 149],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [151, 158],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau cơ",
+    "position": [162, 168],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "************",
+    "position": [775, 787],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [789, 802],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [806, 824],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  },
+  {
+    "text": "nồng độ thuốc trong máu",
+    "position": [570, 593],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cải thiện đáng kể",
+    "position": [966, 983],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

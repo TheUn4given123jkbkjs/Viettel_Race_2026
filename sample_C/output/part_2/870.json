@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bệnh sử cá nhân liên quan đến điều trị",
+    "position": [1330, 1368],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z92"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [244, 252],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [260, 263],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [271, 278],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [1042, 1050],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1051, 1058],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CK-MB",
+    "position": [1071, 1076],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "15 U/L",
+    "position": [1083, 1089],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

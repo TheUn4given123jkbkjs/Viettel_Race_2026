@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Các phát hiện bất thường về chẩn đoán hình ảnh của các cơ quan khác",
+    "position": [17, 84],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R93"]
+  },
+  {
+    "text": "đau tức vùng hạ sườn phải",
+    "position": [138, 163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [388, 401],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [417, 437],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm ổ bụng",
+    "position": [825, 839],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cấu trúc dạng nang không đồng nhất ở gan",
+    "position": [849, 889],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cắt lớp vi tính",
+    "position": [910, 930],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương khu trú tại hạ phân thùy VI, kích thước 45x50mm",
+    "position": [991, 1049],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

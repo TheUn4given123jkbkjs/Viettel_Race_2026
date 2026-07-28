@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Kháng (các) thuốc chống lao",
+    "position": [1256, 1283],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["U84.3"]
+  },
+  {
+    "text": "Levofloxacin",
+    "position": [1364, 1376],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["82122"]
+  },
+  {
+    "text": "Clofazimine",
+    "position": [1378, 1389],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2592"]
+  },
+  {
+    "text": "Cycloserine",
+    "position": [1393, 1404],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3007"]
+  },
+  {
+    "text": "ho ra đờm lẫn máu tươi",
+    "position": [108, 130],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [883, 890],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chỉ số bạch cầu",
+    "position": [983, 998],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng",
+    "position": [1029, 1033],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lao phổi",
+    "position": [291, 299],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
+  }
+]

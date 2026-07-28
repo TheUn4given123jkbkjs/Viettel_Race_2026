@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh vảy cá thông thường",
+    "position": [1165, 1189],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q80.0"]
+  },
+  {
+    "text": "ngứa da",
+    "position": [71, 78],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bong vảy",
+    "position": [80, 88],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đỏ da",
+    "position": [92, 97],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin (Hb)",
+    "position": [864, 879],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12,5 g/dl",
+    "position": [880, 889],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

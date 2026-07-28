@@ -1,0 +1,58 @@
+[
+  {
+    "text": "đau đầu",
+    "position": [197, 204],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [239, 248],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [47, 60],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1353, 1366],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1543, 1554],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần 6.2 mmol/L",
+    "position": [1481, 1513],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triglyceride 2.8 mmol/L",
+    "position": [1515, 1538],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồi hộp",
+    "position": [354, 361],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

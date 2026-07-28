@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Biến chứng của thiết bị nhân tạo bên trong, cấy và ghép không xác định khác",
+    "position": [622, 697],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T85.9"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [711, 724],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Azithromycin",
+    "position": [745, 757],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [778, 792],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [23, 40],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đã mổ ruột thừa cách đây 2 năm",
+    "position": [42, 72],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [110, 137],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp 120/80 mmHg",
+    "position": [385, 405],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinine 1,2 mg/dL",
+    "position": [516, 536],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

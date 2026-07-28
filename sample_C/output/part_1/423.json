@@ -1,0 +1,72 @@
+[
+  {
+    "text": "chủ quan sốt nhẹ",
+    "position": [167, 183],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau âm ỉ vùng cổ chân trái",
+    "position": [187, 213],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [292, 300],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [311, 319],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Chăm sóc theo dõi chỉnh hình không đặc hiệu",
+    "position": [1848, 1891],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z47.9"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1930, 1943],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2003, 2012],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [2062, 2072],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Bạch cầu máu ngoại vi",
+    "position": [1512, 1533],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.5 K/uL",
+    "position": [1546, 1554],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

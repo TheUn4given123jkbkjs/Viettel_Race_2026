@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương nông khác tại cẳng chân",
+    "position": [329, 363],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S80.8"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [204, 224],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [242, 255],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1114, 1127],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Cefixime",
+    "position": [1169, 1177],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["25033"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1224, 1233],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [766, 776],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14 g/dl",
+    "position": [777, 784],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

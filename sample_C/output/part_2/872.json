@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Tổn thương cơ bắp và gân tại tầm cẳng chân",
+    "position": [1910, 1952],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S86", "S86.3"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [337, 345],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [518, 538],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [557, 570],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1998, 2011],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2065, 2074],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1591, 1604],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatine kinase (CK)",
+    "position": [1714, 1734],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "280 U/L",
+    "position": [1756, 1763],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

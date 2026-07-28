@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Vết thương hở của các phần khác của cổ",
+    "position": [1261, 1299],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S11.80",
+      "S61.8",
+      "S11.8"
+    ]
+  },
+  {
+    "text": "THA",
+    "position": [135, 138],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1672, 1683],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1728, 1741],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Povidone-iodine",
+    "position": [1797, 1812],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8611"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1463, 1471],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "15.2 G/L",
+    "position": [1479, 1487],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1507, 1510],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 mg/L",
+    "position": [1512, 1519],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [501, 504],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

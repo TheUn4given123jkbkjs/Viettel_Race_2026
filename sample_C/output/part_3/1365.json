@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Người ở bên ngoài xe nông nghiệp bị thương trong tai nạn giao thông",
+    "position": [85, 152],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V84.2"]
+  },
+  {
+    "text": "không sốt",
+    "position": [1270, 1279],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1290, 1298],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [1300, 1313],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang xương cẳng chân thẳng nghiêng",
+    "position": [1476, 1513],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gãy kín xương chày và xương mác",
+    "position": [1523, 1554],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổng phân tích tế bào máu ngoại vi",
+    "position": [1575, 1609],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu tăng cao",
+    "position": [1626, 1643],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "vết thương hở ở khủyu tay",
+    "position": [84, 109],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["S51.0"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [1785, 1792],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1817, 1828],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1851, 1864],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1890, 1900],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1925, 1937],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Bilirubin",
+    "position": [1590, 1599],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol",
+    "position": [1685, 1696],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Urea",
+    "position": [1505, 1509],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinin",
+    "position": [1410, 1419],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Glyburide",
+    "position": [148, 157],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4815"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [71, 92],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hạ đường huyết",
+    "position": [1517, 1531],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Y42.3",
+      "T38.3",
+      "P70.3"
+    ]
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [385, 394],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đường huyết mao mạch",
+    "position": [1187, 1207],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.9 mmol/L",
+    "position": [1209, 1219],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [1230, 1235],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.2%",
+    "position": [1237, 1241],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xétnghiệm",
+    "position": [2347, 2356],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "THA 5 năm",
+    "position": [162, 171],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [298, 318],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [395, 402],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tế bào blast 15%",
+    "position": [1280, 1296],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hiến tủy xương",
+    "position": [1466, 1480],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z52.3"]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Tổn thương nông chi trên, tầm chưa xác định",
+    "position": [175, 218],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T11.0"]
+  },
+  {
+    "text": "sốt",
+    "position": [283, 286],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [336, 344],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [447, 467],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [479, 492],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [658, 666],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [785, 794],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Tổn thương cơ duỗi và gân ngón tay khác tại tầm cổ tay và bàn tay",
+    "position": [1381, 1446],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S66.3"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1570, 1579],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1647, 1657],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1707, 1717],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "viêm khớp dạng thấp",
+    "position": [378, 397],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "M05",
+      "M05.3†",
+      "M05.8"
+    ]
+  },
+  {
+    "text": "không sốt",
+    "position": [467, 476],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1252, 1255],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12 mg/L",
+    "position": [1269, 1276],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

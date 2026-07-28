@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Phơi nhiễm các yếu tố khác có biết đặc điểm",
+    "position": [753, 796],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["X58"]
+  },
+  {
+    "text": "đỏ rát",
+    "position": [296, 302],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nốt phồng rộp",
+    "position": [318, 331],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [393, 402],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1118, 1131],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 9.5 G/L",
+    "position": [1141, 1157],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP 5.2 mg/L",
+    "position": [1188, 1200],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không bị dị ứng thuốc hay thực phẩm",
+    "position": [456, 491],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
+  }
+]

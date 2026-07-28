@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Methyldopa",
+    "position": [620, 630],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6876"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [562, 575],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [500, 508],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [449, 458],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích tế bào máu",
+    "position": [1754, 1779],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine máu: 95 µmol/L",
+    "position": [1884, 1909],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đường huyết đói: 5.8 mmol/L",
+    "position": [1998, 2025],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đột quỵ não",
+    "position": [738, 749],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "E88.31",
+      "G46.3*",
+      "G46.4*"
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "text": "Dexamethasone",
+    "position": [117, 130],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "tim mạch",
+    "position": [194, 202],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.54",
+      "A52.00",
+      "A52.06"
+    ]
+  },
+  {
+    "text": "tiểu đường",
+    "position": [204, 214],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [406, 409],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [411, 418],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [422, 429],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [1108, 1122],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [1190, 1210],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng bạch cầu",
+    "position": [1137, 1150],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

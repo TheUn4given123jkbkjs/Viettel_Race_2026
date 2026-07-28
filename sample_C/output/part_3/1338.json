@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Loạn sản sụn từng đám nhỏ",
+    "position": [2035, 2060],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q77.3"]
+  },
+  {
+    "text": "đau nhức xương khớp",
+    "position": [282, 301],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạn chế vận động",
+    "position": [310, 326],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [437, 444],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tốc độ máu lắng ESR",
+    "position": [1721, 1740],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "38 mm/h",
+    "position": [1754, 1761],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2268, 2277],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2364, 2375],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

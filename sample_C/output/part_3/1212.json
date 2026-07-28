@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Sodium thiosulfate",
+    "position": [401, 419],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["36726"]
+  },
+  {
+    "text": "Tuần hoàn",
+    "position": [469, 478],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I99",
+      "I97",
+      "I97.8"
+    ]
+  },
+  {
+    "text": "Hô hấp",
+    "position": [523, 529],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.73",
+      "P28.11",
+      "J95"
+    ]
+  },
+  {
+    "text": "Tiêu hóa",
+    "position": [574, 582],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K32",
+      "K32.0",
+      "K32.1"
+    ]
+  },
+  {
+    "text": "Thần kinh",
+    "position": [661, 670],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.15",
+      "A52.19",
+      "B26.83"
+    ]
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [771, 782],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp X-quang",
+    "position": [828, 840],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

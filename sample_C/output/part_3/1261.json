@@ -1,0 +1,44 @@
+[
+  {
+    "text": "chảy máu họng",
+    "position": [95, 108],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R04.1"]
+  },
+  {
+    "text": "tiền sử đau nửa đầu",
+    "position": [144, 163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [282, 294],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm tiểu cầu",
+    "position": [596, 609],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng creatinin",
+    "position": [662, 676],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi họng",
+    "position": [687, 699],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

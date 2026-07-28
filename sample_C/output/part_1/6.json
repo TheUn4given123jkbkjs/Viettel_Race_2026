@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Tiêm chủng phòng uốn ván đơn độc",
+    "position": [147, 179],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z23.5"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1060, 1073],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1075, 1084],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [1090, 1097],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "sốt",
+    "position": [52, 55],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [57, 64],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [68, 75],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [1437, 1451],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm nước tiểu",
+    "position": [1453, 1473],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm hình ảnh",
+    "position": [1477, 1496],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiệt độ cơ thể",
+    "position": [796, 811],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

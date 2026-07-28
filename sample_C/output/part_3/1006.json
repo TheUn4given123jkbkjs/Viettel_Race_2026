@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Niệu quản đôi",
+    "position": [1297, 1310],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q62.5"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [1513, 1526],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1579, 1590],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1631, 1644],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "đau vùng hông lưng trái",
+    "position": [89, 112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [979, 987],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [993, 1001],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy thận mãn tính",
+    "position": [278, 295],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["N18"]
+  }
+]

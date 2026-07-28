@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tiêm chủng phòng ho gà đơn độc",
+    "position": [836, 866],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z23.7"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [907, 920],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ampicillin",
+    "position": [940, 950],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["733"]
+  },
+  {
+    "text": "sốt",
+    "position": [67, 70],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [76, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau cơ",
+    "position": [87, 93],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

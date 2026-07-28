@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Rabies Vaccine",
+    "position": [532, 546],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9097"]
+  },
+  {
+    "text": "viêm màng não",
+    "position": [85, 98],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.13",
+      "A54.81",
+      "A50.41"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [209, 212],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [216, 223],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn mửa",
+    "position": [289, 296],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose 100 mg/dl",
+    "position": [1294, 1311],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

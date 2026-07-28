@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Bỏng độ một tại cổ chân và bàn chân",
+    "position": [1646, 1681],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T24.1", "T25.1"]
+  },
+  {
+    "text": "đỏ rát",
+    "position": [661, 667],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nhẹ",
+    "position": [777, 785],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Silver sulfadiazine",
+    "position": [1822, 1841],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9793"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1921, 1934],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Povidone-iodine",
+    "position": [1982, 1997],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8611"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1469, 1482],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1484, 1500],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm CRP",
+    "position": [1587, 1601],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP: 5 mg/L",
+    "position": [1598, 1609],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

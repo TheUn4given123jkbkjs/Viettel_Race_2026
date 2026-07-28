@@ -1,0 +1,65 @@
+[
+  {
+    "text": "điều chỉnh và quản lý dụng cụ thính giác được cấy ghép",
+    "position": [230, 284],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z45.3"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [137, 154],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "*******************",
+    "position": [523, 542],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [544, 557],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [347, 361],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm nước tiểu",
+    "position": [363, 383],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [849, 858],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng gan",
+    "position": [932, 956],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng thận",
+    "position": [958, 983],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Antivenom",
+    "position": [336, 345],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2101271"]
+  },
+  {
+    "text": "hen suyễn",
+    "position": [156, 165],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dị ứng",
+    "position": [169, 175],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kháng sinh",
+    "position": [782, 792],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [609, 623],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng đường hô hấp",
+    "position": [710, 734],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J06",
+      "J06.8",
+      "J06.9"
+    ]
+  }
+]

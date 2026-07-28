@@ -1,0 +1,44 @@
+[
+  {
+    "text": "phẫu thuật tạo hình do vẻ bên ngoài xấu",
+    "position": [48, 87],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z41.1"]
+  },
+  {
+    "text": "không sốt",
+    "position": [155, 164],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [181, 198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "dị tật bẩm sinh ở mũi",
+    "position": [240, 261],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu bình thường",
+    "position": [582, 607],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp X-quang mũi",
+    "position": [688, 704],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

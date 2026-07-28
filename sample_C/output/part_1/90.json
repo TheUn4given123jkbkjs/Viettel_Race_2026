@@ -1,0 +1,90 @@
+[
+  {
+    "text": "Cấp giấy chứng nhận y học",
+    "position": [604, 629],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z02.7"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [668, 679],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [681, 694],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "sốt",
+    "position": [62, 65],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [67, 74],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [79, 86],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [159, 179],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [183, 196],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [437, 451],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 12 g/dL",
+    "position": [1195, 1213],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm nước tiểu",
+    "position": [453, 473],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Protein 1+",
+    "position": [1254, 1264],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

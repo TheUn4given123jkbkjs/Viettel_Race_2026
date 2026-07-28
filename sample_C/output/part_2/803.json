@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Sắp xếp lại cân bằng và dấu ấn cấu trúc, không xếp loại ở chỗ khác",
+    "position": [693, 759],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q95"]
+  },
+  {
+    "text": "sốt",
+    "position": [33, 36],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [38, 45],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [50, 57],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [808, 821],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [867, 877],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Metformin",
+    "position": [924, 933],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Xét nghiệm huyết học",
+    "position": [447, 467],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 12 g/dL",
+    "position": [469, 487],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

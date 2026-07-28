@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Gẫy xương phần khác của cẳng tay, gãy kín",
+    "position": [1324, 1365],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S52.80"]
+  },
+  {
+    "text": "Tăng huyết áp 5 năm",
+    "position": [479, 498],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [579, 599],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức dữ dội",
+    "position": [51, 66],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cẳng tay",
+    "position": [1146, 1162],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đường gãy chéo vát tại thân xương trụ",
+    "position": [1195, 1232],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cắt lớp vi tính",
+    "position": [1269, 1289],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "di lệch nhẹ chồng ngắn",
+    "position": [1237, 1259],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

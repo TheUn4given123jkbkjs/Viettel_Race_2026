@@ -1,0 +1,58 @@
+[
+  {
+    "text": "không sốt",
+    "position": [927, 936],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [947, 955],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [957, 970],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cắt lớp vi tính (CT Scanner) ngực bụng",
+    "position": [2134, 2177],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh gãy cung sau các xương sườn từ số 4 đến số 7 bên phải, có tràn dịch màng phổi lượng ít",
+    "position": [2223, 2318],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2397, 2410],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hồng cầu giảm nhẹ, bạch cầu tăng nhẹ",
+    "position": [2436, 2472],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Người của xe nông nghiệp không rõ đặc điểm bị thương trong tai nạn giao thông",
+    "position": [2572, 2649],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V84.3"]
+  }
+]

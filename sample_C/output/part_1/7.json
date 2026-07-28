@@ -1,0 +1,142 @@
+[
+  {
+    "text": "Các dị tật cố định bẩm sinh ở ruột",
+    "position": [681, 715],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["Q43.3"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [735, 748],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Loperamide",
+    "position": [766, 776],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6468"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [792, 799],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [816, 827],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "ECG",
+    "position": [455, 458],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG: bình thường",
+    "position": [455, 471],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lượng hồng cầu",
+    "position": [497, 511],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lượng hồng cầu: 4,0 x 10^12/L",
+    "position": [497, 526],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lượng bạch cầu",
+    "position": [532, 546],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lượng bạch cầu: 7,5 x 10^9/L",
+    "position": [532, 560],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lượng tiểu cầu",
+    "position": [566, 580],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lượng tiểu cầu: 200 x 10^9/L",
+    "position": [566, 594],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin",
+    "position": [600, 608],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin: 0,3 ng/mL",
+    "position": [600, 619],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [625, 628],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP: 50 mg/L",
+    "position": [625, 637],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bilirubin",
+    "position": [643, 652],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bilirubin: 1,0 mg/dL",
+    "position": [643, 663],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [162, 170],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

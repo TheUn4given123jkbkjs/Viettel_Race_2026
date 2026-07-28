@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Attapulgite",
+    "position": [104, 115],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["18516"]
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [41, 53],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường loại 2",
+    "position": [57, 74],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [297, 305],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu toàn bộ",
+    "position": [686, 708],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ đường huyết cao",
+    "position": [811, 834],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

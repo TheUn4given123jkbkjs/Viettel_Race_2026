@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Ăn mòn tại mi mắt và vùng quanh nhãn cầu",
+    "position": [235, 275],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T26.5"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [121, 141],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [159, 172],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [556, 569],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [573, 587],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "xét nghiệm nước mắt",
+    "position": [686, 705],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm lượng nước mắt",
+    "position": [780, 799],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ofloxacin",
+    "position": [925, 934],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7623"]
+  }
+]

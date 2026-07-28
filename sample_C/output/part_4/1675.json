@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tật não to",
+    "position": [1113, 1123],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q04.5"]
+  },
+  {
+    "text": "sốt",
+    "position": [213, 216],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhức đầu",
+    "position": [218, 226],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [237, 240],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [795, 809],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 12 g/dl",
+    "position": [811, 829],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

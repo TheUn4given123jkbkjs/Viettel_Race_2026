@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [140, 159],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường týp 2",
+    "position": [298, 318],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Khám và theo dõi sau tai nạn giao thông",
+    "position": [1813, 1852],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z04.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1887, 1900],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1937, 1947],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "CT sọ não",
+    "position": [1511, 1520],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không phát hiện xuất huyết não",
+    "position": [1521, 1551],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "choáng váng",
+    "position": [570, 581],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

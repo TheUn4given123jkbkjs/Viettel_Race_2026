@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Oxygen",
+    "position": [248, 254],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7806"]
+  },
+  {
+    "text": "khó thở",
+    "position": [314, 321],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [362, 375],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "ho khan",
+    "position": [566, 573],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [620, 627],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tức ngực",
+    "position": [963, 971],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1848, 1856],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 G/L",
+    "position": [1872, 1880],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đợt cấp bệnh phổi tắc nghẽn mạn tính",
+    "position": [2185, 2221],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J44.0", "J44.1"]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Edetate calcium disodium",
+    "position": [667, 691],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1903"]
+  },
+  {
+    "text": "Sốt cao",
+    "position": [147, 154],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy nhược",
+    "position": [186, 195],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy giảm trí nhớ",
+    "position": [445, 461],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tê nhốt",
+    "position": [296, 303],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ù tai",
+    "position": [332, 337],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [870, 888],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [893, 907],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng tế bào máu",
+    "position": [909, 924],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [928, 948],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng protein",
+    "position": [950, 962],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

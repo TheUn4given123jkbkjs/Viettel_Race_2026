@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Sinh nhiều con, trong đó một số trẻ sinh ra sống",
+    "position": [1003, 1051],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z37.6"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [118, 125],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [127, 136],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1133, 1140],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [797, 810],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 12 g/dl",
+    "position": [812, 830],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

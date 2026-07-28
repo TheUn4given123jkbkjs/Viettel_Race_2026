@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Artesunate / Mefloquine",
+    "position": [196, 219],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1429947"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [603, 611],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [133, 136],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [1255, 1265],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 g/dL",
+    "position": [1266, 1274],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [1432, 1440],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1441, 1448],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [1791, 1798],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [1836, 1847],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Thiếu máu tan máu",
+    "position": [1582, 1599],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D57.0",
+      "D57.1",
+      "D58"
+    ]
+  }
+]

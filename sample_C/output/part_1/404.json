@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Albumin",
+    "position": [253, 260],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["433"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [174, 181],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn",
+    "position": [183, 190],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [194, 202],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm men gan",
+    "position": [913, 931],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mức độ men gan tăng cao",
+    "position": [499, 522],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

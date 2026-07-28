@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Tổn thương dập nát phần khác, chưa xác định của cẳng chân",
+    "position": [81, 138],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S87.8"]
+  },
+  {
+    "text": "đau nhức",
+    "position": [346, 354],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [304, 321],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cẳng chân",
+    "position": [599, 616],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

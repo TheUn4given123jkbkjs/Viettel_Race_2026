@@ -1,0 +1,41 @@
+[
+  {
+    "text": "phù nề cơ thể",
+    "position": [518, 531],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [96, 104],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["R11"]
+  },
+  {
+    "text": "đau bụng",
+    "position": [84, 92],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R10",
+      "R10.1",
+      "R10.3"
+    ]
+  },
+  {
+    "text": "tăng",
+    "position": [548, 552],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm",
+    "position": [686, 690],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

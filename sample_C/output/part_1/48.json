@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Oseltamivir",
+    "position": [194, 205],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["260101"]
+  },
+  {
+    "text": "không sốt",
+    "position": [491, 500],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [502, 515],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [949, 966],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1013, 1021],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [1022, 1030],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [2090, 2099],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
+  }
+]

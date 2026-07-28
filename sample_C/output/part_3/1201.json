@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Phản ứng phụ khác của thực phẩm không xếp loại ở nơi khác",
+    "position": [230, 287],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T78.1"]
+  },
+  {
+    "text": "sốt",
+    "position": [118, 121],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [123, 131],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [135, 143],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [615, 623],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.05 ng/mL",
+    "position": [1080, 1090],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

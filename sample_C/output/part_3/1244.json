@@ -1,0 +1,44 @@
+[
+  {
+    "text": "sốt",
+    "position": [115, 118],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [615, 628],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bình thường",
+    "position": [753, 764],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [630, 638],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ đường huyết cao",
+    "position": [794, 817],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [1068, 1075],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

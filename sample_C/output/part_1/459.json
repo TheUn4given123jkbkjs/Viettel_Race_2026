@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Vết thương cơ quan vùng chậu khác, có vết thương hở vào ổ bụng",
+    "position": [1073, 1135],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S37.80", "S37.81"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [406, 414],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu",
+    "position": [902, 910],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18.5 G/L",
+    "position": [929, 937],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1626, 1637],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [1673, 1686],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1722, 1735],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "CRP",
+    "position": [946, 949],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 mg/L",
+    "position": [953, 960],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

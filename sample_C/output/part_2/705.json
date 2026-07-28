@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Khám sàng lọc đặc biệt u vú",
+    "position": [1451, 1478],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z12.3"]
+  },
+  {
+    "text": "Tamoxifen",
+    "position": [1533, 1542],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10324"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1575, 1588],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1657, 1670],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "khối u kích thước 2x3 cm",
+    "position": [905, 929],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm vú",
+    "position": [1147, 1157],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phân loại BIRADS 4",
+    "position": [1206, 1224],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin âm tính",
+    "position": [1330, 1346],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

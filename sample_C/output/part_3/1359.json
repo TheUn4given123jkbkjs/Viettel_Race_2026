@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Vết thương hở của cổ, phần không xác định",
+    "position": [107, 148],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S11.80",
+      "S61.9",
+      "S11.9"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [207, 210],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [212, 219],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [262, 270],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [295, 304],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "hen suyễn",
+    "position": [339, 348],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [381, 401],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [409, 422],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1354, 1361],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

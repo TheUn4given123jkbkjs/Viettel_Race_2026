@@ -1,0 +1,52 @@
+[
+  {
+    "text": "gẫy xương vai, gãy hở",
+    "position": [1381, 1402],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "S42.11",
+      "S42.71",
+      "S42.81"
+    ]
+  },
+  {
+    "text": "X-quang",
+    "position": [1248, 1255],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [1104, 1114],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "gãy hở",
+    "position": [538, 544],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm điện tâm đồ (ECG)",
+    "position": [959, 987],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [1436, 1446],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
+  }
+]

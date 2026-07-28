@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Hydrocortisone acetate",
+    "position": [720, 742],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["27197"]
+  },
+  {
+    "text": "Đái tháo đường típ 2",
+    "position": [211, 231],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [234, 247],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đường huyết bất kỳ",
+    "position": [2389, 2407],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 mmol/L",
+    "position": [2429, 2440],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cortisol máu buổi sáng",
+    "position": [2462, 2484],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "52 nmol/L",
+    "position": [2506, 2515],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [2599, 2604],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.8%",
+    "position": [2626, 2630],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

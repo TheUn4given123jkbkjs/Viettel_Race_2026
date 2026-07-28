@@ -1,0 +1,55 @@
+[
+  {
+    "text": "đau nhức dữ dội",
+    "position": [172, 187],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [451, 459],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [467, 470],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Gãy răng",
+    "position": [1494, 1502],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K03.7",
+      "S02.5",
+      "S02.50"
+    ]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1143, 1156],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 x 10^9/L",
+    "position": [1175, 1196],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1579, 1592],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

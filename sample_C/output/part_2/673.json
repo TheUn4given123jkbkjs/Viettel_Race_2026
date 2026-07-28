@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Daunorubicin",
+    "position": [375, 387],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3109"]
+  },
+  {
+    "text": "bệnh bạch cầu cấp dòng tủy",
+    "position": [280, 306],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["C92.8"]
+  },
+  {
+    "text": "mệt mỏi cực độ",
+    "position": [522, 536],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [573, 580],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức ngực",
+    "position": [713, 725],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tên xét nghiệm công thức máu toàn phần",
+    "position": [1542, 1580],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tên xét nghiệm Hemoglobin",
+    "position": [1639, 1664],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tên xét nghiệm Tiểu cầu",
+    "position": [1699, 1722],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Meropenem",
+    "position": [2131, 2140],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng huyết",
+    "position": [1993, 2010],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.86",
+      "I89",
+      "I89.8"
+    ]
+  }
+]

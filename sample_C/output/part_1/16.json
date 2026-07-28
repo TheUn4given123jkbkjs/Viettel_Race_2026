@@ -1,0 +1,51 @@
+[
+  {
+    "text": "tê bì ngón cái",
+    "position": [469, 483],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [687, 695],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [703, 706],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [714, 721],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "điện cơ đồ",
+    "position": [1799, 1809],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Giảm tốc độ dẫn truyền vận động và cảm giác dây thần kinh giữa qua vùng cổ tay phải",
+    "position": [1863, 1946],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương dây thần kinh chưa xác định tầm cổ tay và bàn tay",
+    "position": [2165, 2225],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S64.9"]
+  }
+]

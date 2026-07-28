@@ -1,0 +1,47 @@
+Nhiệm vụ hôm nay của tôi là khám bệnh ngoại trú và tư vấn y khoa chuyên sâu cho bệnh nhân [Tên bệnh nhân]. Bệnh nhân đã đến khám với [Ngày] và được tôi khám lần đầu tiên.
+
+Bệnh sử cá nhân của bệnh nhân như sau:
+- Bệnh nhân đã bị [CHẨN_ĐOÁN] từ [Ngày].
+- Bệnh nhân đã được chẩn đoán mắc bệnh [CHẨN_ĐOÁN] tại bệnh viện [Tên bệnh viện] vào [Ngày].
+- Bệnh nhân đã được điều trị bằng [THUỐC] từ [Ngày].
+
+Quá trình diễn biến bệnh lý:
+- Bệnh nhân đã có các triệu chứng [TRIỆU_CHỨNG] từ [Ngày].
+- Bệnh nhân đã có các xét nghiệm cận lâm sàng sau đây:
+  - [TÊN_XÉT_NGHIỆM]: [KẾT_QUẢ_XÉT_NGHIỆM]
+  - [TÊN_XÉT_NGHIỆM]: [KẾT_QUẢ_XÉT_NGHIỆM]
+- Bệnh nhân đã được kiểm tra toàn bộ cơ quan trong cơ thể và không có bất kỳ vấn đề gì khác.
+
+Kết quả khám từng cơ quan:
+- Tinh thần: Bệnh nhân có biểu hiện [TRIỆU_CHỨNG].
+- Tiêu hóa: Bệnh nhân có biểu hiện [TRIỆU_CHỨNG].
+- Hô hấp: Bệnh nhân có biểu hiện [TRIỆU_CHỨNG].
+- Tuần hoàn: Bệnh nhân có biểu hiện [TRIỆU_CHỨNG].
+
+Theo dõi và điều trị:
+- Bệnh nhân sẽ được theo dõi chặt chẽ trong thời gian dài hơn.
+- Bệnh nhân sẽ được điều trị bằng [THUỐC] trong thời gian dài hơn.
+
+Lưu ý:
+- Bệnh nhân cần phải tuân thủ lịch khám và điều trị theo lịch.
+- Bệnh nhân cần phải tuân thủ chế độ ăn uống và sinh hoạt hàng ngày.
+
+[Đơn thuốc]
+- [THUỐC]: [Liều lượng]
+- [THUỐC]: [Liều lượng]
+
+[Đoạn nhắc nhở]
+- Hãy theo dõi bệnh nhân chặt chẽ trong thời gian dài hơn.
+- Hãy điều trị bệnh nhân bằng [THUỐC] trong thời gian dài hơn.
+
+[Đoạn kết luận]
+- Bệnh nhân đã được chẩn đoán mắc bệnh [CHẨN_ĐOÁN].
+- Bệnh nhân sẽ được điều trị bằng [THUỐC] trong thời gian dài hơn.
+
+[Đoạn tham chiếu]
+- Bệnh nhân đã được chẩn đoán mắc bệnh [CHẨN_ĐOÁN] tại bệnh viện [Tên bệnh viện] vào [Ngày].
+- Bệnh nhân đã được điều trị bằng [THUỐC] từ [Ngày].
+
+[Đoạn kết thúc]
+- Bệnh nhân đã được khám bệnh ngoại trú và tư vấn y khoa chuyên sâu thành công.
+- Bệnh nhân sẽ được theo dõi chặt chẽ trong thời gian dài hơn.

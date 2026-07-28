@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Giai đoạn chờ đợi để kiểm tra và điều trị",
+    "position": [153, 194],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z75.2"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [892, 912],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [930, 943],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "mệt mỏi toàn thân",
+    "position": [1093, 1110],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tốc độ lắng máu",
+    "position": [1592, 1607],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu toàn phần",
+    "position": [1609, 1632],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2054, 2067],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [2118, 2126],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Vết thương bàng quang",
+    "position": [1335, 1356],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S37.2",
+      "S37.20",
+      "S37.21"
+    ]
+  },
+  {
+    "text": "tiểu máu đại thể",
+    "position": [487, 503],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng hạ vị",
+    "position": [80, 94],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan ổ bụng có tiêm cản quang",
+    "position": [945, 977],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh thoát thuốc cản quang ra khoang phúc mạc",
+    "position": [999, 1048],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích nước tiểu",
+    "position": [1099, 1123],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hồng cầu niệu 3+",
+    "position": [1145, 1161],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nồng độ Creatinine máu",
+    "position": [1205, 1227],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.9 mg/dL",
+    "position": [1249, 1258],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

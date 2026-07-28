@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tai biến do phẫu thuật ngoại khoa tái tạo khác",
+    "position": [607, 653],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y83.4"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [73, 80],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [82, 91],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất thăng bằng",
+    "position": [95, 109],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [715, 728],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [732, 739],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

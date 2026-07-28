@@ -1,0 +1,65 @@
+[
+  {
+    "text": "đau thắt ngực",
+    "position": [542, 555],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [699, 706],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [797, 806],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [810, 818],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I",
+    "position": [1584, 1594],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.85 ng/mL",
+    "position": [1618, 1628],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1667, 1678],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ST chênh lên",
+    "position": [1695, 1707],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [206, 213],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1191"]
+  }
+]

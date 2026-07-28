@@ -1,0 +1,41 @@
+[
+  {
+    "text": "sốt cao",
+    "position": [55, 62],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tetanus immunoglobulin",
+    "position": [327, 349],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1727875"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [75, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tăng bạch cầu",
+    "position": [769, 782],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [875, 884],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
+  }
+]

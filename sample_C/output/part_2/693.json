@@ -1,0 +1,178 @@
+[
+  {
+    "text": "chị Huyền",
+    "position": [126, 135],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm thấy mệt mỏi",
+    "position": [70, 86],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [90, 97],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ",
+    "position": [255, 260],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [280, 300],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ",
+    "position": [304, 306],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [318, 331],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [898, 911],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Số lượng tế bào trắng thấp",
+    "position": [1821, 1847],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa",
+    "position": [981, 989],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mức đường huyết cao",
+    "position": [1932, 1951],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [868, 875],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [2031, 2040],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm",
+    "position": [1101, 1108],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm tụy",
+    "position": [2097, 2105],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [888, 891],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn nhịp tim",
+    "position": [2158, 2175],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc giảm đau",
+    "position": [2189, 2203],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc chống buồn nôn",
+    "position": [2217, 2237],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc hạ huyết áp",
+    "position": [2251, 2268],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc chống viêm",
+    "position": [2282, 2298],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [2031, 2040],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
+  },
+  {
+    "text": "Viêm tụy",
+    "position": [2097, 2105],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.41",
+      "A17.83",
+      "A18.03"
+    ]
+  },
+  {
+    "text": "Rối loạn nhịp tim",
+    "position": [2158, 2175],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I49.9"]
+  }
+]

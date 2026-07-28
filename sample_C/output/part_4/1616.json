@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Đau bụng",
+    "position": [2008, 2016],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sốt",
+    "position": [2019, 2022],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [1026, 1036],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Urea",
+    "position": [1079, 1083],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Natri",
+    "position": [1123, 1128],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1,5 mg/dL",
+    "position": [1038, 1047],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "30 mg/dL",
+    "position": [1085, 1093],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "140 mmol/L",
+    "position": [1130, 1140],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các phát hiện bất thường khác về nước tiểu",
+    "position": [2428, 2470],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R82"]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Edetate calcium disodium",
+    "position": [460, 484],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1903"]
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [63, 72],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng đồng huyết",
+    "position": [532, 547],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc kháng sinh",
+    "position": [409, 425],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

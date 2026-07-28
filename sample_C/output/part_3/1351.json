@@ -1,0 +1,72 @@
+[
+  {
+    "text": "đau mỏi xương khớp",
+    "position": [207, 225],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì chân tay nhẹ",
+    "position": [321, 339],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dị tật bẩm sinh",
+    "position": [579, 594],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "chụp X-quang cột sống",
+    "position": [854, 875],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "định lượng canxi máu",
+    "position": [879, 899],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bất thường cấu trúc đốt sống, sụn tiếp cốt cốt hóa sớm",
+    "position": [935, 989],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.2 mmol/L",
+    "position": [1023, 1033],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các hội chứng dị tật bẩm sinh liên quan chủ yếu đến thân hình ngắn",
+    "position": [1542, 1608],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q87.1"]
+  },
+  {
+    "text": "Calcium gluconate",
+    "position": [2033, 2050],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1908"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2150, 2159],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

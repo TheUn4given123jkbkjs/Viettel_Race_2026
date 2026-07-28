@@ -1,0 +1,65 @@
+[
+  {
+    "text": "đụng giập ngón chân không có tổn thương móng",
+    "position": [1723, 1767],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S90.1"]
+  },
+  {
+    "text": "đau nhói dữ dội",
+    "position": [439, 454],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng to",
+    "position": [483, 490],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1851, 1860],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [1957, 1968],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang bàn chân",
+    "position": [1381, 1397],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không thấy hình ảnh gãy xương",
+    "position": [1480, 1509],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích tế bào máu",
+    "position": [1566, 1591],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1593, 1609],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

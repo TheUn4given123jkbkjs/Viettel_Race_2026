@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương dập nát tại phần khác của cổ chân và bàn chân",
+    "position": [1609, 1665],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S97.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2666, 2679],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [2733, 2743],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Tổng phân tích tế bào máu ngoại vi",
+    "position": [1167, 1201],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 11.5 g/l",
+    "position": [1261, 1278],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức dữ dội",
+    "position": [185, 200],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [219, 226],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bầm tím",
+    "position": [240, 247],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

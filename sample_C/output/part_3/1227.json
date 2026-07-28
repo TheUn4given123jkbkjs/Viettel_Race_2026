@@ -1,0 +1,101 @@
+[
+  {
+    "text": "suy giảm thính lực",
+    "position": [180, 198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [356, 369],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [373, 387],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [675, 678],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ù tai",
+    "position": [716, 721],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [878, 886],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [897, 906],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [911, 918],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Điều chỉnh và quản lý dụng cụ thính giác được cấy ghép",
+    "position": [2041, 2095],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z45.3"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2283, 2296],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Betamethasone",
+    "position": [2335, 2348],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1514"]
+  },
+  {
+    "text": "Đo thính lực đơn âm",
+    "position": [1809, 1828],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ngưỡng nghe qua đường khí tai phải cải thiện ở mức trung bình sau khi điều chỉnh",
+    "position": [1851, 1931],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

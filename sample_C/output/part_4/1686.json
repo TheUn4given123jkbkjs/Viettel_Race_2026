@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Khe hở phần giữa vòm miệng",
+    "position": [422, 448],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q35.6"]
+  },
+  {
+    "text": "Khe hở phần giữa vòm miệng",
+    "position": [422, 448],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["Q35.6"]
+  },
+  {
+    "text": "không sốt",
+    "position": [521, 530],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1136, 1149],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu trong giới hạn bình thường",
+    "position": [1175, 1210],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nystatin",
+    "position": [1473, 1481],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7597"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [1522, 1533],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "bú kém",
+    "position": [102, 108],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

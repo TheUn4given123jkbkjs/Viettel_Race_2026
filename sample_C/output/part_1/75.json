@@ -1,0 +1,58 @@
+[
+  {
+    "text": "chấn thương không xác định động mạch sống",
+    "position": [62, 103],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S15.10"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1087, 1100],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [1130, 1144],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [1169, 1179],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [443, 450],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "choáng váng",
+    "position": [452, 463],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [468, 475],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [742, 756],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

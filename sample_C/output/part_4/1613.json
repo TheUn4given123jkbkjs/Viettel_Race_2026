@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Người chờ đợi được thu nhận vào một cơ sở thích hợp nào đó",
+    "position": [106, 164],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z75.1"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [479, 487],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Diazepam",
+    "position": [1527, 1535],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Amitriptyline",
+    "position": [1615, 1628],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["704"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [995, 1008],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "số lượng bạch cầu 7.5 G/L",
+    "position": [1018, 1043],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kíp thời",
+    "position": [2422, 2430],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

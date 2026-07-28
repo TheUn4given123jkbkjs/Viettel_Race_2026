@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Biến chứng cơ học của ống thông thẩm tách huyết quản",
+    "position": [1227, 1279],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T82.4"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [303, 316],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "sưng nề",
+    "position": [87, 94],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [460, 463],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1095, 1103],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 G/L",
+    "position": [1105, 1113],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1129, 1132],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 mg/L",
+    "position": [1134, 1141],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1465, 1476],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

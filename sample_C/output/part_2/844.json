@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Benzoic acid / Salicylic acid",
+    "position": [170, 199],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["91292"]
+  },
+  {
+    "text": "sốt",
+    "position": [104, 107],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [450, 462],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [669, 683],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng bạch cầu",
+    "position": [702, 715],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [567, 576],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

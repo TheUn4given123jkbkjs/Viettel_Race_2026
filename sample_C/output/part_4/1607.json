@@ -1,0 +1,62 @@
+[
+  {
+    "text": "sốt cao",
+    "position": [65, 72],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [74, 81],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử sốt rét 5 năm",
+    "position": [138, 159],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng máu",
+    "position": [437, 452],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T80.2", "D76.2"]
+  },
+  {
+    "text": "công thức máu",
+    "position": [345, 358],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết sắc tố 100 g/l",
+    "position": [854, 874],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang phổi",
+    "position": [736, 748],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [1058, 1067],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Sai khớp của các phần không xác định khác của ngực",
+    "position": [1227, 1277],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S43.3",
+      "S23.1",
+      "S23.2"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "position": [365, 373],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [377, 384],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1383, 1396],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1418, 1434],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1490, 1508],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh trật khớp, sai khớp vùng ngực",
+    "position": [1530, 1568],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1864, 1873],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1919, 1932],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

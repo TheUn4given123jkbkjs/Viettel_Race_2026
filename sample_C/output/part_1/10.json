@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Chăm sóc chuẩn bị cho lọc máu",
+    "position": [1363, 1392],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z49.0"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [1605, 1615],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Calcium gluconate",
+    "position": [1703, 1720],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1908"]
+  },
+  {
+    "text": "phù nhẹ hai chi dưới",
+    "position": [481, 501],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine máu",
+    "position": [1190, 1204],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "680 µmol/L",
+    "position": [1205, 1215],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kali máu",
+    "position": [1236, 1244],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.8 mmol/L",
+    "position": [1245, 1255],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

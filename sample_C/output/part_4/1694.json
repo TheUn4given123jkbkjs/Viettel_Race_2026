@@ -1,0 +1,37 @@
+[
+  {
+    "text": "đau tại vùng đầu",
+    "position": [405, 421],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [292, 309],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Người đi xe đạp bị thương khi va chạm với xe tải hay xe buýt",
+    "position": [900, 960],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V14"]
+  },
+  {
+    "text": "Hemoglobin 12g/dl",
+    "position": [711, 728],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp X-quang vùng đầu",
+    "position": [791, 812],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

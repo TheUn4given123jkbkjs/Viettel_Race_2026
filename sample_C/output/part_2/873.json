@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Acetaminophen",
+    "position": [812, 825],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [419, 427],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [429, 432],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [439, 446],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [996, 1010],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chỉ số viêm cao",
+    "position": [1177, 1192],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [1280, 1291],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  }
+]

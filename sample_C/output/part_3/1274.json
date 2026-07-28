@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Cholera Vaccine",
+    "position": [90, 105],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2427"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [268, 285],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [289, 298],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "viêm dạ dày",
+    "position": [428, 439],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K29",
+      "K29.0",
+      "K29.1"
+    ]
+  },
+  {
+    "text": "Hemoglobin 14 g/dl",
+    "position": [846, 864],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [830, 844],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

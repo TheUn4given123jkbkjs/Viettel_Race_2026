@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Kháng Methicillin",
+    "position": [0, 17],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["U82.1"]
+  },
+  {
+    "text": "vết thương vùng cẳng chân phải sưng tấy",
+    "position": [377, 416],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu tăng cao 18.5 G/L",
+    "position": [1240, 1266],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP định lượng",
+    "position": [1320, 1334],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 mg/L",
+    "position": [1338, 1346],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cấy mủ vết thương",
+    "position": [1348, 1365],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [698, 718],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [734, 747],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  }
+]

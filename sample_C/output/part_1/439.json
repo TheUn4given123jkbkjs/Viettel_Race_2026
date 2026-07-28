@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương do cóng lạnh với hoại tử mô tại cổ tay và bàn tay",
+    "position": [0, 60],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T34.5"]
+  },
+  {
+    "text": "tê bì",
+    "position": [378, 383],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [679, 696],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1372, 1385],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu 12.5 G/L",
+    "position": [1398, 1415],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cắt lớp vi tính mạch máu",
+    "position": [1501, 1530],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tắc nghẽn hoàn toàn động mạch quay",
+    "position": [1566, 1600],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP là 45 mg/L",
+    "position": [1649, 1663],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

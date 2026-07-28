@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Vấn đề liên quan đến lối sống, không xác định",
+    "position": [1644, 1689],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z72.9"]
+  },
+  {
+    "text": "Pyridoxine",
+    "position": [1859, 1869],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["684879"]
+  },
+  {
+    "text": "Magnesium sulfate",
+    "position": [1918, 1935],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6585"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [353, 360],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [610, 613],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu đói",
+    "position": [1308, 1323],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.2 mmol/L",
+    "position": [1324, 1334],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [621, 628],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

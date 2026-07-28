@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Sai khớp của các phần không xác định và khác của ngực",
+    "position": [1059, 1112],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S43.3", "S23.2"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1171, 1184],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1230, 1239],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [1276, 1286],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [50, 58],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [62, 69],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

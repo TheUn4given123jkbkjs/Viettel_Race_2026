@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Tai nạn tầu lượn hay có động cơ gây thương tích cho hành khách đi tàu",
+    "position": [291, 360],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V95.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [432, 445],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [447, 454],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [458, 466],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [160, 167],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [202, 210],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [220, 227],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

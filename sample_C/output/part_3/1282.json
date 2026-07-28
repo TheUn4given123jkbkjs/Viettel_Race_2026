@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Người đi xe nông nghiệp bị thương không phải do tai nạn giao thông",
+    "position": [1767, 1833],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V84.6"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [555, 575],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [597, 610],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "X-quang khớp vai phải",
+    "position": [1564, 1585],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gãy xương bả vai không di lệch",
+    "position": [1596, 1626],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1964, 1977],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [2040, 2050],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Bromhexine",
+    "position": [2133, 2143],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1753"]
+  }
+]

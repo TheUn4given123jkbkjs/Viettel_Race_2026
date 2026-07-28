@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tăng huyết áp mạn tính",
+    "position": [141, 163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [577, 584],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức ngực",
+    "position": [605, 617],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu toàn phần",
+    "position": [1670, 1693],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "16.5 G/L",
+    "position": [1729, 1737],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khí máu động mạch (ABG)",
+    "position": [1822, 1845],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "PaO2 giảm nặng chỉ còn 55 mmHg",
+    "position": [1858, 1888],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng suy hô hấp cấp tính nặng [SARS], không đặc hiệu",
+    "position": [2121, 2178],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["U04.9"]
+  }
+]

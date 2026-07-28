@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Mất cảm giác da",
+    "position": [77, 92],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R20.0"]
+  },
+  {
+    "text": "THA",
+    "position": [153, 156],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [314, 334],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Metformin",
+    "position": [1537, 1546],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Glucose máu",
+    "position": [1227, 1238],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.2 mmol/L",
+    "position": [1240, 1250],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [1265, 1270],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.5%",
+    "position": [1272, 1276],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì",
+    "position": [433, 438],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

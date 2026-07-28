@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Acyclovir",
+    "position": [149, 158],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["281"]
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [270, 297],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 12 g/dl",
+    "position": [746, 764],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [730, 744],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1039, 1048],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

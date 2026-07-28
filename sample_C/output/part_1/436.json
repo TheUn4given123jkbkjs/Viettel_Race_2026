@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Những vấn đề liên quan đến nhà ở và hoàn cảnh kinh tế",
+    "position": [1247, 1300],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z59", "Z59.8"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [310, 323],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "mất ngủ",
+    "position": [115, 122],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [126, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [1459, 1469],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [1528, 1536],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Tổng phân tích tế bào máu",
+    "position": [1019, 1044],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu",
+    "position": [1081, 1092],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.2 mmol/L",
+    "position": [1101, 1111],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "145/90 mmHg",
+    "position": [740, 751],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Aspirin",
+    "position": [198, 205],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Sốt",
+    "position": [1881, 1884],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "A92.30",
+      "R50.0",
+      "R50.1"
+    ]
+  },
+  {
+    "text": "Đau đầu",
+    "position": [1926, 1933],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "G44",
+      "G44.0",
+      "G44.2"
+    ]
+  },
+  {
+    "text": "Viêm dạ dày",
+    "position": [1990, 2001],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc hô hấp",
+    "position": [2038, 2050],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [871, 885],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

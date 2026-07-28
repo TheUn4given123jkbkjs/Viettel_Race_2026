@@ -1,0 +1,72 @@
+[
+  {
+    "text": "các phát hiện bất thường về chẩn đoán hình ảnh của phổi không xác định",
+    "position": [253, 323],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R91"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [448, 461],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Azithromycin",
+    "position": [465, 477],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "ho",
+    "position": [68, 70],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [72, 75],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [79, 86],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết học",
+    "position": [1148, 1157],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hóa sinh",
+    "position": [1161, 1169],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chỉ số trắng máu cao",
+    "position": [1186, 1206],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ C-reactive protein (CRP) tăng",
+    "position": [1210, 1247],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

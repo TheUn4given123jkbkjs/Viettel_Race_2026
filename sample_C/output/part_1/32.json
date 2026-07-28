@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Thuốc chống huyết khối (ức chế ngưng tụ tiểu cầu)",
+    "position": [1124, 1173],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y44.4"]
+  },
+  {
+    "text": "đau ngực",
+    "position": [68, 76],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [78, 85],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [89, 98],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [1491, 1501],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12 g/dl",
+    "position": [1502, 1509],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Ăn mòn tổn thương 60-69% bề mặt cơ thể",
+    "position": [764, 802],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T32.6"]
+  },
+  {
+    "text": "sốt",
+    "position": [545, 548],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [564, 581],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [848, 856],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [860, 871],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không bình thường",
+    "position": [884, 901],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

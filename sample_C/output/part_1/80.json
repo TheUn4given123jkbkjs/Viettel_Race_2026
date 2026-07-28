@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Diphtheria-Tetanus-Pertussis Vaccine",
+    "position": [205, 241],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "834765",
+      "309949",
+      "2388452"
+    ]
+  },
+  {
+    "text": "viêm phổi cộng đồng",
+    "position": [308, 327],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [374, 385],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [1297, 1307],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12 g/dl",
+    "position": [1308, 1315],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Streptococcus pneumoniae",
+    "position": [1445, 1469],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

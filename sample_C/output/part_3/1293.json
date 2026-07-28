@@ -1,0 +1,52 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [151, 164],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau tức vùng hắt lưng",
+    "position": [438, 459],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu khó",
+    "position": [592, 600],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinine",
+    "position": [1750, 1760],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "135 umol/L",
+    "position": [1761, 1771],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các dị tật bẩm sinh khác của thận",
+    "position": [2244, 2277],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q27.2",
+      "Q63",
+      "Q63.8"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "di chứng tổn thương dây thần kinh chi trên",
+    "position": [127, 169],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T92.4"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [400, 413],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [417, 426],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "tiểu đường",
+    "position": [322, 332],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp",
+    "position": [340, 348],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp",
+    "position": [340, 348],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "140/90 mmHg",
+    "position": [620, 631],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương do cóng lạnh chưa xác định tác động nhiều vùng cơ thể",
+    "position": [110, 174],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T35", "T35.6"]
+  },
+  {
+    "text": "da tím tái",
+    "position": [977, 987],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất cảm giác",
+    "position": [989, 1001],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [898, 918],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1423, 1436],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 G/L",
+    "position": [1444, 1452],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1474, 1477],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 mg/L",
+    "position": [1479, 1486],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Vaccin Rickettsia",
+    "position": [1745, 1762],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y59.1"]
+  },
+  {
+    "text": "Doxycycline",
+    "position": [2716, 2727],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3640"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2931, 2944],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ringer's lactate",
+    "position": [3164, 3180],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35629"]
+  },
+  {
+    "text": "sốt",
+    "position": [255, 258],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [414, 421],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu dữ dội",
+    "position": [1378, 1392],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1534, 1547],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu tăng nhẹ",
+    "position": [1566, 1583],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

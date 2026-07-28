@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Gẫy nhiều xương đốt bàn tay, gãy hở",
+    "position": [110, 145],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S62.41"]
+  },
+  {
+    "text": "bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [869, 903],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau đớn dữ dội vùng bàn tay trái",
+    "position": [620, 652],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vết thương hở",
+    "position": [750, 763],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1218, 1231],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tăng cao 15.5 G/L",
+    "position": [1253, 1279],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang bàn tay thẳng nghiêng",
+    "position": [1299, 1328],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gẫy nhiều xương đốt bàn tay, gãy hở",
+    "position": [110, 145],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [1573, 1602],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1627, 1640],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

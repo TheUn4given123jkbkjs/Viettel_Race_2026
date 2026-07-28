@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Đặt sai ống nội khí quản trong gây mê",
+    "position": [160, 197],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y65.3"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [840, 853],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [868, 879],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "sốt",
+    "position": [313, 316],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1056, 1073],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [603, 617],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ creatinine 2,5 mg/dL",
+    "position": [693, 721],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

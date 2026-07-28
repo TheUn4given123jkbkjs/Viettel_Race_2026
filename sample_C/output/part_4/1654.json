@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Vết thương hở của vai",
+    "position": [1849, 1870],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S41",
+      "S41.0",
+      "S41.7"
+    ]
+  },
+  {
+    "text": "vùng vai phải bị rách da sâu",
+    "position": [365, 393],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề tăng lên",
+    "position": [534, 550],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ về chiều",
+    "position": [601, 617],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1590, 1603],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 14.5 K/uL",
+    "position": [1605, 1623],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [2025, 2054],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2101, 2114],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

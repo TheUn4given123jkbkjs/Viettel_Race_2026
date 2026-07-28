@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Chậm đạt các mốc phát triển",
+    "position": [2155, 2182],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R62.0"]
+  },
+  {
+    "text": "chậm đạt các mốc phát triển",
+    "position": [156, 183],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "quấy khóc ban đêm",
+    "position": [835, 852],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biếng ăn nhẹ",
+    "position": [854, 866],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu toàn phần",
+    "position": [1775, 1798],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1822, 1838],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện giải đồ",
+    "position": [1896, 1908],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Natri 138 mmol/L",
+    "position": [1932, 1948],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vitamin A",
+    "position": [2237, 2246],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11246", "97016"]
+  },
+  {
+    "text": "Ascorbic acid",
+    "position": [2331, 2344],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1151"]
+  }
+]

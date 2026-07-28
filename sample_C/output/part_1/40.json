@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Ngã, nhảy hay bị đẩy từ một chỗ cao, không rõ ý đồ",
+    "position": [1905, 1955],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y30"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2151, 2164],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2177, 2186],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2249, 2259],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "đau nhức các khớp",
+    "position": [439, 456],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau dữ dội vùng lưng và cột sống",
+    "position": [700, 732],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hồng cầu",
+    "position": [1555, 1563],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "4.2 triệu/uL",
+    "position": [1564, 1576],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

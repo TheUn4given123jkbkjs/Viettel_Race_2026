@@ -1,0 +1,58 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [90, 97],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì các đầu chi",
+    "position": [107, 124],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [420, 429],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Các kết quả miễn dịch bất thường đặc hiệu khác của huyết thanh",
+    "position": [1126, 1188],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R76.8"]
+  },
+  {
+    "text": "kháng thể kháng nhân (ANA)",
+    "position": [855, 881],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính",
+    "position": [882, 892],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kháng thể kháng DNA sợi kép (anti-dsDNA)",
+    "position": [944, 984],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính mạnh",
+    "position": [997, 1012],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

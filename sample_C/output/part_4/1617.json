@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Gẫy xương khác của cẳng chân, gãy kín",
+    "position": [1066, 1103],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S82.80"]
+  },
+  {
+    "text": "đau dữ dội cẳng chân trái",
+    "position": [50, 75],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [456, 463],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1333, 1344],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Calcium chloride",
+    "position": [1387, 1403],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1901"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1009, 1017],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 G/L",
+    "position": [1018, 1026],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Calcium",
+    "position": [1116, 1123],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.4 mmol/L",
+    "position": [1125, 1135],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

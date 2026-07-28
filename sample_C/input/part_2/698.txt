@@ -1,0 +1,65 @@
+Bệnh án lâm sàng số 12345
+
+Bệnh nhân: bà Nguyễn Thị A, nữ, 65 tuổi, địa chỉ: 123 đường A, quận B, thành phố C
+
+Tiền sử bệnh hiện tại:
+ - Bệnh nhân được báo cáo có tiền sử bệnh gan mạn tính, bệnh thận mạn tính và bệnh tim mạch
+ - Bệnh nhân được điều trị bằng Meglumine iotroxate ************ (thuốc giảm đau và hạ sốt) và ************ (thuốc hạ huyết áp) trong thời gian dài
+
+Kết quả khám từng cơ quan:
+ - Khám tuần hoàn: huyết áp 140/90 mmHg, nhịp tim 80 lần/phút
+ - Khám hô hấp: không có dấu hiệu bất thường
+ - Khám tiêu hóa: không có dấu hiệu bất thường
+ - Khám thần kinh: bệnh nhân có dấu hiệu bất thường về khả năng nhạy cảm
+
+Kết quả xét nghiệm cận lâm sàng:
+ - Nồng độ creatinine máu: 2,5 mg/dL
+ - Nồng độ ure máu: 120 mg/dL
+ - Nồng độ AST máu: 150 IU/L
+ - Nồng độ ALT máu: 180 IU/L
+
+Đơn thuốc:
+ - Meglumine iotroxate ************: 1 viên, 3 lần/ngày
+ - ************: 1 viên, 2 lần/ngày
+
+Lời giải:
+Bệnh án này được trình bày về một bệnh nhân nữ 65 tuổi có tiền sử bệnh gan mạn tính, bệnh thận mạn tính và bệnh tim mạch. Bệnh nhân được điều trị bằng Meglumine iotroxate ************ (thuốc giảm đau và hạ sốt) và ************ (thuốc hạ huyết áp) trong thời gian dài. Kết quả khám từng cơ quan và xét nghiệm cận lâm sàng được trình bày trong bệnh án này.
+
+
+
+
+
+
+
+
+
+
+
+Entities:
+[ 
+  {
+    "text": "Meglumine iotroxate", 
+    "type": "THUỐC", 
+    "assertions": ["isHistorical"]
+  },
+  {
+    "text": "creatine", 
+    "type": "TÊN_XÉT_NGHIỆM", 
+    "assertions": []
+  },
+  {
+    "text": "ure", 
+    "type": "TÊN_XÉT_NGHIỆM", 
+    "assertions": []
+  },
+  {
+    "text": "AST", 
+    "type": "TÊN_XÉT_NGHIỆM", 
+    "assertions": []
+  },
+  {
+    "text": "ALT", 
+    "type": "TÊN_XÉT_NGHIỆM", 
+    "assertions": []
+  }
+]

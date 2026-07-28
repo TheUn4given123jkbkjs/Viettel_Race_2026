@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Không có hoặc vô sản bộ phận liên quan đến nước mắt",
+    "position": [2314, 2365],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q10.4"]
+  },
+  {
+    "text": "khô mắt kéo dài",
+    "position": [667, 682],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cảm giác cộm xốn liên tục",
+    "position": [684, 709],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đỏ kết mạc mắt",
+    "position": [748, 762],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Test Schirmer",
+    "position": [2223, 2236],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Pilocarpine",
+    "position": [2560, 2571],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8328"]
+  }
+]

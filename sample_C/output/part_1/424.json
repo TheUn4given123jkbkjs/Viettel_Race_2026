@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Không có, teo và hẹp hỗng tràng bẩm sinh",
+    "position": [1966, 2006],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q41.1"]
+  },
+  {
+    "text": "nôn trớ dịch xanh vàng",
+    "position": [659, 681],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kali máu",
+    "position": [1671, 1679],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3.2 mmol/L",
+    "position": [1680, 1690],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ampicillin",
+    "position": [2193, 2203],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["733"]
+  },
+  {
+    "text": "Amino acids",
+    "position": [2084, 2095],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1873122"]
+  }
+]

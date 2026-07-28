@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tổn thương do cóng lạnh với hoại tử mô tại thành bụng, lưng dưới và khung chậu",
+    "position": [1331, 1409],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T34.3"]
+  },
+  {
+    "text": "đau bụng",
+    "position": [90, 98],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [100, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó chịu tại vùng lưng dưới",
+    "position": [108, 135],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [306, 326],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [338, 351],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin (Hb) giảm",
+    "position": [1059, 1079],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trắng máu (WBC) tăng",
+    "position": [1081, 1101],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "C-Reactive Protein (CRP) tăng",
+    "position": [1106, 1135],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

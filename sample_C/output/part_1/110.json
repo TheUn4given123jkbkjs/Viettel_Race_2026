@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Vết thương hở của các phần khác của đầu",
+    "position": [98, 137],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S01.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [212, 225],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [227, 238],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "X quang đầu",
+    "position": [289, 300],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu toàn bộ",
+    "position": [302, 324],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [13, 30],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

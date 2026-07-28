@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Chăm sóc các lỗ mở nhân tạo khác của đường tiết niệu",
+    "position": [167, 219],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z43.6"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [718, 729],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [731, 744],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [749, 759],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [294, 311],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ creatinine trong máu cao",
+    "position": [587, 619],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [537, 544],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [390, 397],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

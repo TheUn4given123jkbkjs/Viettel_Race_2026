@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Bất hoà với các nhà tư vấn",
+    "position": [1162, 1188],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["Z64.4"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1200, 1213],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Abacavir",
+    "position": [1270, 1278],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["190521"]
+  },
+  {
+    "text": "ESR",
+    "position": [520, 523],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "40 mm/giờ",
+    "position": [524, 533],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

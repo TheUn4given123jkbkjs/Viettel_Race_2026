@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau bụng",
+    "position": [58, 66],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn mửa",
+    "position": [68, 75],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [77, 86],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [90, 93],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các hội chứng dị tật bẩm sinh đặc hiệu khác, chưa phân loại",
+    "position": [819, 878],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q87.8"]
+  },
+  {
+    "text": "công thức máu bình thường",
+    "position": [589, 614],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "men gan tăng nhẹ",
+    "position": [642, 658],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

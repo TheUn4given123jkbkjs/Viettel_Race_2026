@@ -1,0 +1,62 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [97, 110],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "position": [605, 612],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm trùng và phản ứng viêm do van tim nhân tạo",
+    "position": [1764, 1812],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T82.6"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1434, 1447],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Số lượng bạch cầu 14.5 G/L",
+    "position": [1449, 1475],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP 85 mg/L",
+    "position": [1488, 1499],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm tim qua thành ngực",
+    "position": [1510, 1536],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cấy máu",
+    "position": [1655, 1662],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

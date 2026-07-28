@@ -1,0 +1,51 @@
+[
+  {
+    "text": "bú sặc",
+    "position": [193, 199],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sữa trào qua mũi",
+    "position": [201, 217],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở nhẹ",
+    "position": [481, 492],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khe hở vòm miệng, không đặc hiệu, hai bên",
+    "position": [1790, 1831],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q35.8"]
+  },
+  {
+    "text": "Công thức máu toàn phần",
+    "position": [1528, 1551],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 9.5 G/L, Hemoglobin 145 g/L",
+    "position": [1575, 1611],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [1878, 1907],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  }
+]

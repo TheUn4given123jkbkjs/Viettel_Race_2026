@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Neostigmine",
+    "position": [256, 267],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7315"]
+  },
+  {
+    "text": "sụp mi mắt",
+    "position": [81, 91],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhược cơ",
+    "position": [206, 214],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "G73.0*",
+      "G73.2*",
+      "G73.3*"
+    ]
+  },
+  {
+    "text": "điện cơ",
+    "position": [1413, 1420],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm biên độ đáp ứng",
+    "position": [1439, 1459],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đợt cấp của bệnh nhược cơ",
+    "position": [1813, 1838],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1661, 1673],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  }
+]

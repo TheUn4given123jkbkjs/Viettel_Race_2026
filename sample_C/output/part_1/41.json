@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Bệnh nhân có biểu hiện tiêu chảy, sốt cao, đau bụng",
+    "position": [284, 335],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bác sĩ đã kê đơn thuốc Acetaminophen 500mg, Metoclopramide 10mg và Ringer's lactate",
+    "position": [1118, 1201],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bác sĩ đã kê đơn thuốc Acetaminophen 500mg, Metoclopramide 10mg và Ringer's lactate",
+    "position": [1118, 1201],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bác sĩ đã kê đơn thuốc Acetaminophen 500mg, Metoclopramide 10mg và Ringer's lactate",
+    "position": [1118, 1201],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân đã không còn biểu hiện tiêu chảy, sốt cao, đau bụng sau 3 ngày điều trị",
+    "position": [1488, 1569],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân có biểu hiện tiêu chảy, sốt cao, đau bụng",
+    "position": [284, 335],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bác sĩ đã kê đơn thuốc Acetaminophen 500mg, Metoclopramide 10mg và Ringer's lactate",
+    "position": [1118, 1201],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bác sĩ đã kê đơn thuốc Acetaminophen 500mg, Metoclopramide 10mg và Ringer's lactate",
+    "position": [1118, 1201],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân đã không còn biểu hiện tiêu chảy, sốt cao, đau bụng sau 3 ngày điều trị",
+    "position": [1488, 1569],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

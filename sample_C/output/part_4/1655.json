@@ -1,0 +1,66 @@
+[
+  {
+    "text": "sốt",
+    "position": [77, 80],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [82, 89],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [228, 241],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "A52.06",
+      "I25.0",
+      "I25.1"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [299, 319],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [337, 350],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "công thức máu",
+    "position": [441, 454],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp cao",
+    "position": [539, 551],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [673, 680],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

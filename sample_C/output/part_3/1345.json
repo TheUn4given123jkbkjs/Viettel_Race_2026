@@ -1,0 +1,62 @@
+[
+  {
+    "text": "sốt cao",
+    "position": [135, 142],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [144, 161],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh mạch vành",
+    "position": [229, 243],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A52.06", "I25.0"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [247, 260],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "công thức máu",
+    "position": [951, 964],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồng cầu 4,5 triệu tế bào/mm3",
+    "position": [1045, 1074],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [1498, 1505],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [1509, 1520],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

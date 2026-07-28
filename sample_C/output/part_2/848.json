@@ -1,0 +1,44 @@
+[
+  {
+    "text": "sốt",
+    "position": [69, 72],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [76, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiêm chủng phòng bại liệt",
+    "position": [770, 795],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z27.3", "Z24.0"]
+  },
+  {
+    "text": "sốt xuất huyết",
+    "position": [219, 233],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [536, 549],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bình thường",
+    "position": [550, 561],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

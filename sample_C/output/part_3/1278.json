@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [182, 199],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau vùng chậu",
+    "position": [1450, 1463],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lo âu",
+    "position": [465, 470],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin",
+    "position": [1039, 1047],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1102, 1109],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Những vấn đề được xem là lạm dụng tình dục trẻ em của người lớn có quan hệ nương tựa chủ chốt",
+    "position": [1304, 1397],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z61.4"]
+  },
+  {
+    "text": "Cortisol huyết thanh",
+    "position": [1145, 1165],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "25 mcg/dL",
+    "position": [1177, 1186],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

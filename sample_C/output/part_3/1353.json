@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Bỏng dộp ở họng (không do nhiệt độ)",
+    "position": [1112, 1147],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S10.12"]
+  },
+  {
+    "text": "đau rát họng",
+    "position": [459, 471],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó nuốt",
+    "position": [482, 490],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1584, 1596],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Nystatin",
+    "position": [1690, 1698],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7597"]
+  },
+  {
+    "text": "Troponin I",
+    "position": [1297, 1307],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.01 ng/mL",
+    "position": [1309, 1319],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "C-reactive protein",
+    "position": [1350, 1368],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12 mg/L",
+    "position": [1376, 1383],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "text": "Ngộ độc Thuốc dùng chủ yếu toàn thân và huyết học khác",
+    "position": [0, 54],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["T45.8"]
+  },
+  {
+    "text": "Silymarin",
+    "position": [1525, 1534],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vitamin E",
+    "position": [1538, 1547],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Niacinamide",
+    "position": [1551, 1562],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7405"]
+  },
+  {
+    "text": "Magnesium hydroxide",
+    "position": [1566, 1585],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1009149"]
+  },
+  {
+    "text": "Calcium carbonate",
+    "position": [1589, 1606],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [954, 968],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [1002, 1022],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm điện giải",
+    "position": [1062, 1082],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm chức năng gan",
+    "position": [1120, 1144],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử mắc bệnh gan trong 5 năm qua",
+    "position": [1974, 2010],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử uống thuốc không đúng liều lượng",
+    "position": [2014, 2054],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử sử dụng thuốc không phù hợp",
+    "position": [2058, 2093],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Nồng độ thuốc trong máu 200 mcg / mL",
+    "position": [2156, 2192],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nồng độ thuốc trong nước tiểu 150 mcg / mL",
+    "position": [2218, 2260],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nồng độ điện giải trong máu 120 mmol / L",
+    "position": [2286, 2326],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chức năng gan 80% so với sức khỏe ban đầu",
+    "position": [2356, 2397],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

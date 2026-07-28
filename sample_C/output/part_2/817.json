@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bỏng độ ba của vai và chi trên, trừ cổ tay và bàn tay",
+    "position": [2090, 2143],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T22.3"]
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [674, 681],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau rát dữ dội",
+    "position": [692, 706],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1050, 1058],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1760, 1768],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 x 10^9/L",
+    "position": [1769, 1782],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2218, 2229],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2264, 2277],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "THA",
+    "position": [110, 113],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "đau nhức dữ dội",
+    "position": [257, 272],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì lan tỏa",
+    "position": [274, 287],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đường huyết lúc đói",
+    "position": [767, 786],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.2 mmol/L",
+    "position": [790, 800],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tốc độ dẫn truyền thần kinh",
+    "position": [823, 850],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương đa dây thần kinh tại tầm háng và đùi",
+    "position": [860, 907],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S74.7"]
+  },
+  {
+    "text": "Gabapentin",
+    "position": [1124, 1134],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [1768, 1773],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5%",
+    "position": [1838, 1842],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [109, 122],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau âm ỉ vùng cơ thể chưa xác định",
+    "position": [417, 451],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [549, 552],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [560, 567],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [575, 583],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Di chứng tổn thương và chưa xác định vùng cơ thể",
+    "position": [1617, 1665],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T94"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1259, 1272],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1294, 1310],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1717, 1730],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [1764, 1773],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  }
+]

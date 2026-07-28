@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Chán ăn",
+    "position": [881, 888],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F50.00",
+      "F50.01",
+      "F50.02"
+    ]
+  },
+  {
+    "text": "Aspirin",
+    "position": [918, 925],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [938, 949],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [962, 975],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "tiểu đường",
+    "position": [337, 347],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "90 g/l",
+    "position": [667, 673],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

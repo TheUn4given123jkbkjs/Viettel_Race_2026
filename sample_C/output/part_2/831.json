@@ -1,0 +1,62 @@
+[
+  {
+    "text": "đau ngực trái",
+    "position": [206, 219],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [229, 236],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [866, 879],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I 0.01 ng/mL",
+    "position": [1036, 1057],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1272, 1283],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ST chênh xuống nhẹ",
+    "position": [1315, 1333],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhồi máu cơ tim cấp",
+    "position": [1359, 1378],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [96, 106],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["17767"]
+  }
+]

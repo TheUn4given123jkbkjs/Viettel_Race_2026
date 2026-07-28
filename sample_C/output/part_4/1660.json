@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Nhiễm sắc thể có dấu ấn ngoài",
+    "position": [573, 602],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q92.6"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [632, 643],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [647, 660],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "sốt",
+    "position": [96, 99],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [681, 689],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [715, 722],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm huyết học",
+    "position": [1006, 1026],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tình trạng nhiễm trùng",
+    "position": [480, 502],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1212, 1219],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

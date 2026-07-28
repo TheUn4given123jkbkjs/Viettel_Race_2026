@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Budesonide",
+    "position": [159, 169],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "hen suyễn",
+    "position": [207, 216],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J45"]
+  },
+  {
+    "text": "ho",
+    "position": [256, 258],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [294, 301],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [305, 312],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [644, 658],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ bạch cầu tăng cao",
+    "position": [760, 785],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

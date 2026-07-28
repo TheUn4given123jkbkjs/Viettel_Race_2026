@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Hoàn cảnh cha hay mẹ không điển hình",
+    "position": [1072, 1108],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z60.1"]
+  },
+  {
+    "text": "sốt",
+    "position": [81, 84],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [86, 93],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [938, 946],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ troponin cao",
+    "position": [930, 950],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

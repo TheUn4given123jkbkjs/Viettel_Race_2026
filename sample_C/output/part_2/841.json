@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tai nạn ngộ do và phơi nhiễm dung môi hữu cơ và hydrat carbon halogen và các hơi của chúng",
+    "position": [953, 1043],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["X46"]
+  },
+  {
+    "text": "THA",
+    "position": [158, 161],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "chóng mặt",
+    "position": [307, 316],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [318, 326],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Định lượng men gan",
+    "position": [644, 662],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "150/120 U/L",
+    "position": [685, 696],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khí máu động mạch",
+    "position": [725, 742],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "pH 7.28, PaO2 75 mmHg",
+    "position": [767, 788],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ringer's lactate",
+    "position": [1290, 1306],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35629"]
+  }
+]

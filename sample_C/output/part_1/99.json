@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Biến dạng bẩm sinh của khớp háng",
+    "position": [2182, 2214],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q65",
+      "Q65.8",
+      "Q65.9"
+    ]
+  },
+  {
+    "text": "đau vùng khớp háng bên phải",
+    "position": [531, 558],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [283, 292],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [294, 307],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [360, 387],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cắt lớp vi tính khớp háng",
+    "position": [2127, 2157],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Biến dạng bẩm sinh của khớp háng phải kèm thiểu sản ổ cối và bán trật khớp chỏm xương đùi",
+    "position": [2182, 2271],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

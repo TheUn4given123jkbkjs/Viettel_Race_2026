@@ -1,0 +1,51 @@
+[
+  {
+    "text": "chấn thương đụng giập khác và phần chưa xác định khác của cẳng tay",
+    "position": [34, 100],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [875, 888],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [913, 922],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [950, 963],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "creatinine",
+    "position": [624, 634],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "albumin",
+    "position": [656, 663],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "calci",
+    "position": [717, 722],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

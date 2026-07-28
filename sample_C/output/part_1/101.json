@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Gây xương cụt",
+    "position": [1280, 1293],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S32.2",
+      "S32.20",
+      "S32.21"
+    ]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1413, 1423],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1457, 1470],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "đau vùng cùng cụt",
+    "position": [527, 544],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cột sống thắt lưng cùng cụt",
+    "position": [1172, 1207],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh gãy di lệch đầu xương cụt",
+    "position": [1231, 1265],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

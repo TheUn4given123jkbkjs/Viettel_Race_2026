@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Gelatin",
+    "position": [219, 226],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4716"]
+  },
+  {
+    "text": "aspirin",
+    "position": [1550, 1557],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [1654, 1665],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "troponin",
+    "position": [1155, 1163],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.5 ng/mL",
+    "position": [1174, 1183],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [126, 139],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "position": [408, 416],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [651, 658],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

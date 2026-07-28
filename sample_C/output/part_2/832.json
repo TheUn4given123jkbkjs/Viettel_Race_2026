@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Hành khách xe điện bị thương khi lên hay xuống xe",
+    "position": [1610, 1659],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V82.4"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1784, 1793],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1838, 1851],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1914, 1924],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [759, 767],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau nhói dữ dội",
+    "position": [456, 471],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp X-quang cẳng chân thẳng nghiêng",
+    "position": [1490, 1526],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đường nứt xương chày không di lệch",
+    "position": [1553, 1587],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

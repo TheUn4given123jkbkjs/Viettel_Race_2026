@@ -54,6 +54,10 @@ Dự án tổ chức tài liệu theo 4 tệp tin cốt lõi, có tính liên k�
 * **Nội dung:** Định nghĩa các nguyên lý Diátaxis, cấu trúc phân lớp tài liệu, quy định về hyperlinking tuyệt đối `file:///` và nguyên tắc bảo vệ tài nguyên an toàn.
 * **Mục đích:** Quy chuẩn hóa cách viết tài liệu của các AI Agent và cộng tác viên để duy trì hệ thống thông tin đồng bộ.
 
+### 6. [Báo cáo Phân tích Tác động Hiệu suất & Chất lượng (docs_Long/Performance_And_Quality_Impact_Analysis.md)](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/docs_Long/Performance_And_Quality_Impact_Analysis.md)
+* **Nội dung:** Phân tích định lượng tác động của Thuật toán Smart Idle-Account (LRU), Đổ hoả lực High-RPD Quota (Gemini 15.4K req/ngày) và Nâng cấp Prompt V5.1/V5.2 tới Tốc độ sinh dữ liệu và Chất lượng NER.
+* **Mục đích:** Báo cáo kỹ thuật tổng hợp phục vụ đánh giá hiệu quả tối ưu hóa hệ thống.
+
 ---
 
 ## 🛠️ BẢN ĐỒ THAM CHIẾU FILE CODE CHÍNH (CODE REFERENCE MAP)

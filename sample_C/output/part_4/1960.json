@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Sodium chloride",
+    "position": [422, 437],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9863"]
+  },
+  {
+    "text": "ho khan",
+    "position": [188, 195],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi cấp tính",
+    "position": [1685, 1703],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [746, 754],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [755, 763],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [765, 768],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 mg/L",
+    "position": [769, 776],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [982, 993],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  }
+]

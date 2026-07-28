@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Dị tật không não và các dị tật tương tự",
+    "position": [753, 792],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q00"]
+  },
+  {
+    "text": "không sốt",
+    "position": [118, 127],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [507, 520],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [851, 864],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bình thường",
+    "position": [992, 1003],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [876, 883],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

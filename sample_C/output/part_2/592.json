@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Niacinamide",
+    "position": [380, 391],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7405"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [474, 494],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [512, 525],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "AST",
+    "position": [1499, 1502],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 U/L",
+    "position": [1503, 1510],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [1519, 1522],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "155 U/L",
+    "position": [1523, 1530],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Silymarin",
+    "position": [1811, 1820],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loratadin",
+    "position": [1897, 1906],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["28889"]
+  },
+  {
+    "text": "ngứa da",
+    "position": [96, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

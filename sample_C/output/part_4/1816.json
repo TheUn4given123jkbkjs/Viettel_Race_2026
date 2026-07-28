@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Tổn thương khác của phổi, không có vết thương mở vào ổ ngực",
+    "position": [1569, 1628],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S27.30"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1726, 1737],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [1791, 1805],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [85, 102],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "WBC 12.5 G/L",
+    "position": [1203, 1215],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1188, 1201],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1352, 1370],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

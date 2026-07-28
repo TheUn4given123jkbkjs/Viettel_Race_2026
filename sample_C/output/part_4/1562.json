@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [254, 274],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [290, 303],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "sốt cao",
+    "position": [408, 415],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức nhẹ vùng ngực phải",
+    "position": [559, 585],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các thuốc đường toàn thân chống nhiễm khuẩn và ký sinh vật khác, có biết rõ đặc điểm",
+    "position": [2433, 2517],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y41.8"]
+  },
+  {
+    "text": "Cefotaxime",
+    "position": [2581, 2591],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2186"]
+  },
+  {
+    "text": "Levofloxacin",
+    "position": [2640, 2652],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["82122"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1939, 1952],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 16.5 G/L",
+    "position": [1974, 1991],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

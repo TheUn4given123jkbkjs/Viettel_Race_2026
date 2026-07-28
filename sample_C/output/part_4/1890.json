@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương mạch máu chưa xác định tại chi trên, tầm chưa xác định",
+    "position": [1795, 1860],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T11.4"]
+  },
+  {
+    "text": "đau nhức vùng cẳng tay trái",
+    "position": [499, 526],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [2014, 2021],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [2209, 2221],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1370, 1383],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1385, 1401],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm Doppler mạch máu chi trên",
+    "position": [1634, 1667],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dòng chảy hỗn loạn",
+    "position": [1687, 1705],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

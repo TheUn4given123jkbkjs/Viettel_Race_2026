@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Tấn công bằng thuốc, dược chất và chất sinh học",
+    "position": [916, 963],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["X85"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [1738, 1752],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1932, 1944],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2036, 2046],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "ngứa da",
+    "position": [225, 232],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [553, 566],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "AST",
+    "position": [1417, 1420],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "450 U/L",
+    "position": [1421, 1428],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [1430, 1433],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "520 U/L",
+    "position": [1434, 1441],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

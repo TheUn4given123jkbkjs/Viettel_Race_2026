@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [223, 243],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [261, 274],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau nhức dữ dội vùng khớp vai phải lan dọc xuống cánh tay trên",
+    "position": [458, 520],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đa tổn thương ở vai và cánh tay trên",
+    "position": [2620, 2656],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S49.7"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1740, 1753],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1755, 1771],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang khớp vai thẳng",
+    "position": [2191, 2213],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2847, 2856],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2904, 2917],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2980, 2990],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "không sốt",
+    "position": [583, 592],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [594, 607],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không buồn nôn",
+    "position": [609, 623],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Dị tật bẩm sinh dọc tủy sống",
+    "position": [1780, 1808],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q06.2"]
+  },
+  {
+    "text": "công thức máu",
+    "position": [1368, 1381],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp cộng hưởng từ (MRI) cột sống thắt lưng",
+    "position": [1702, 1745],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

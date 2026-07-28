@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tổn thương do cóng lạnh với hoại tử mô tại cánh tay",
+    "position": [1588, 1639],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T34.4"]
+  },
+  {
+    "text": "đau và tê ở cánh tay trái",
+    "position": [137, 162],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [689, 702],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [704, 712],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [714, 721],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [725, 728],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dấu hiệu của hoại tử mô",
+    "position": [841, 864],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử bị tắc nghẽn động mạch vành",
+    "position": [344, 379],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bố của tôi có tiền sử Đái tháo đường týp 2",
+    "position": [441, 483],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

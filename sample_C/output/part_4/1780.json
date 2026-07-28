@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Ofloxacin",
+    "position": [493, 502],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7623"]
+  },
+  {
+    "text": "đau tức vùng thượng vị",
+    "position": [98, 120],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm loét dạ dày tá tràng",
+    "position": [601, 626],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1494, 1507],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 10.5 G/L",
+    "position": [1509, 1521],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2258, 2268],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1753, 1764],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ợ hơi",
+    "position": [173, 178],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

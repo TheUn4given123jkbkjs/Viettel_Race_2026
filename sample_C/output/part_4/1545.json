@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [269, 289],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [327, 340],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [96, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [444, 451],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thiểu sản và loạn sản phổi",
+    "position": [1721, 1747],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q33.6"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1210, 1223],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1377, 1395],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Albuterol",
+    "position": [1871, 1880],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Budesonide",
+    "position": [1964, 1974],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  }
+]

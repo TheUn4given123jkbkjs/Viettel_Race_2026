@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Vitamin A",
+    "position": [192, 201],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11246", "97016"]
+  },
+  {
+    "text": "Viêm túi mật cấp",
+    "position": [2445, 2461],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K80.0", "K81.0"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1447, 1455],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 G/L",
+    "position": [1456, 1464],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bilirubin toàn phần",
+    "position": [1563, 1582],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 umol/L",
+    "position": [1583, 1592],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau âm ỉ vùng thượng vị",
+    "position": [443, 466],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [1993, 2006],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "aaaa",
+    "position": [1467, 1471],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T112233"]
+  },
+  {
+    "text": "đau quặn bụng",
+    "position": [665, 678],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đi ngoài phân đen",
+    "position": [604, 621],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1106, 1119],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 95 g/L",
+    "position": [1139, 1156],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang bụng đứng",
+    "position": [1270, 1287],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

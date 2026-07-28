@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương dây thần kinh và dây sống tại bụng, lưng và chậu hông",
+    "position": [1467, 1531],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S34"]
+  },
+  {
+    "text": "Amitriptyline",
+    "position": [1605, 1618],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["704"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [640, 657],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [139, 156],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [207, 241],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1155, 1168],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 8.5 G/L",
+    "position": [1170, 1181],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệtt mỏi",
+    "position": [1742, 1750],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

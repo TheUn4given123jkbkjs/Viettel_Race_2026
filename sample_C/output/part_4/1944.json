@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Diphtheria-Tetanus-Pertussis-Poliovirus Vaccine",
+    "position": [368, 415],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["834765", "2368450"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1051, 1064],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ondansetron",
+    "position": [1108, 1119],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["26225"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [1161, 1174],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [117, 124],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [126, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [137, 144],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [691, 699],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn mửa",
+    "position": [701, 708],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [874, 884],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14 g/dl",
+    "position": [885, 892],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

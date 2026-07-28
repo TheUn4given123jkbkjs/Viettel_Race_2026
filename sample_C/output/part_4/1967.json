@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Nhiễm độc Cyanid",
+    "position": [778, 794],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T65.0"]
+  },
+  {
+    "text": "co giật",
+    "position": [98, 105],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [688, 695],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [923, 941],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  },
+  {
+    "text": "Sodium thiosulfate",
+    "position": [974, 992],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36726"]
+  },
+  {
+    "text": "Lactate máu",
+    "position": [1219, 1230],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 mmol/L",
+    "position": [1232, 1243],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Levonorgestrel",
+    "position": [202, 216],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["214558", "6373"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [402, 422],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [467, 480],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1529, 1542],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 12.5 g/dL",
+    "position": [1598, 1618],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm ổ bụng",
+    "position": [1704, 1718],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội mạc tử cung dày 14mm",
+    "position": [1748, 1772],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tranexamic acid",
+    "position": [2011, 2026],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10691"]
+  }
+]

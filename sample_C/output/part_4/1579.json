@@ -1,0 +1,65 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [51, 64],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau tức vùng cổ trước",
+    "position": [319, 340],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nuốt vướng nhẹ",
+    "position": [342, 356],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rách bờ nham nhở không có dị vật ở tuyến giáp",
+    "position": [712, 757],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S11.11"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1705, 1718],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.8 G/L",
+    "position": [1720, 1736],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm tuyến giáp",
+    "position": [1909, 1927],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2209, 2222],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [2290, 2302],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  }
+]

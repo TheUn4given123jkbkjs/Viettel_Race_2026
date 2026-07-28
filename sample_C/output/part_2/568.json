@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Các tai nạn do phương tịên bay đặc biệt khác",
+    "position": [1788, 1832],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V97"]
+  },
+  {
+    "text": "đau dữ dội vùng cột sống thắt lưng",
+    "position": [563, 597],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [936, 949],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "X-quang cột sống thắt lưng",
+    "position": [1480, 1506],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vỡ lún đốt sống L2",
+    "position": [1517, 1535],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT Scan",
+    "position": [1585, 1592],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hẹp ống sống nặng",
+    "position": [1631, 1648],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

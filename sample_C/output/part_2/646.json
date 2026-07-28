@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Khám sàng lọc đặc biệt các rối loạn dinh dưỡng",
+    "position": [1530, 1576],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z13.2"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [1932, 1942],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "Zinc sulfate",
+    "position": [1982, 1994],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["39954"]
+  },
+  {
+    "text": "Vitamin A",
+    "position": [2035, 2044],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11246", "97016"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [144, 157],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Albumin",
+    "position": [1241, 1248],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "28 g/L",
+    "position": [1249, 1255],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [1137, 1147],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.5 g/dL",
+    "position": [1148, 1156],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

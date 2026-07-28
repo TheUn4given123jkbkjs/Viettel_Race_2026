@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [235, 248],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [286, 306],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [793, 801],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sai khớp, bong gân và giãn khớp và dây chằng cột sống thắt lưng và chậu",
+    "position": [2099, 2170],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S33"]
+  },
+  {
+    "text": "X-quang cột sống thắt lưng",
+    "position": [1733, 1759],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất đường cong ưỡn tự nhiên",
+    "position": [1825, 1852],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI cột sống thắt lưng",
+    "position": [1904, 1926],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù nề dây chằng dọc sau",
+    "position": [1967, 1991],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

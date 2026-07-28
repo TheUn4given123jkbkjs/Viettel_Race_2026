@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tổn thương cơ bắp và gân nhóm cơ trước tại tẩm cẳng chân",
+    "position": [2344, 2400],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhói dữ dội cẳng chân phải",
+    "position": [580, 610],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng to, bầm tím lan rộng",
+    "position": [742, 767],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Diclofenac",
+    "position": [2461, 2471],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2552, 2565],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1793, 1806],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tăng nhẹ 12.5 K/uL",
+    "position": [1808, 1835],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cẳng chân phải thẳng nghiêng",
+    "position": [2072, 2108],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không phát hiện hình ảnh gãy xương hay rạn xương cẳng chân",
+    "position": [2110, 2168],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

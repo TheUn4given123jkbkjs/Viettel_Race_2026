@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Khám đặc biệt và kiểm tra sức khỏe khác cho những người không có điều gì than phiền về sức khỏe hay đã có chẩn đoán trước",
+    "position": [1813, 1934],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z01"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [331, 339],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Folic acid",
+    "position": [2036, 2046],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "Ascorbic acid",
+    "position": [2132, 2145],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1151"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1321, 1334],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu 5.1 mmol/L",
+    "position": [1440, 1462],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1632, 1643],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1547, 1565],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

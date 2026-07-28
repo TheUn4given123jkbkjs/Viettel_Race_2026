@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Rifabutin",
+    "position": [895, 904],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["55672"]
+  },
+  {
+    "text": "Viêm loét dạ dày tá tràng",
+    "position": [407, 432],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức vùng thượng vị",
+    "position": [1303, 1325],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1657, 1670],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [1997, 2006],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2401, 2411],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [2480, 2491],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Không có thận không đặc hiệu",
+    "position": [1602, 1630],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q60.2"]
+  },
+  {
+    "text": "đau âm ỉ vùng thắt lưng",
+    "position": [218, 241],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu ít",
+    "position": [394, 401],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Furosemide",
+    "position": [1661, 1671],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1742, 1752],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Calcium chloride",
+    "position": [1806, 1822],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1901"]
+  },
+  {
+    "text": "Creatinine",
+    "position": [1353, 1363],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "220 µmol/L",
+    "position": [1364, 1374],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "eGFR",
+    "position": [1424, 1428],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "35 mL/phút/1.73m2",
+    "position": [1430, 1447],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

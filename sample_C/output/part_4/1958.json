@@ -1,0 +1,55 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [138, 151],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "position": [228, 235],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1122, 1130],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc trợ đẻ (oxytocin)",
+    "position": [2385, 2408],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y55.0"]
+  },
+  {
+    "text": "troponin",
+    "position": [2059, 2067],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1564, 1571],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1768, 1781],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

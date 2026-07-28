@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Khám cho người muốn hiến tạng và mô",
+    "position": [467, 502],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z00.5"]
+  },
+  {
+    "text": "Ascorbic acid",
+    "position": [2325, 2338],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1151"]
+  },
+  {
+    "text": "Iron",
+    "position": [2382, 2386],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["90176", "105658"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [2435, 2445],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [1079, 1086],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu",
+    "position": [1688, 1699],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.1 mmol/L",
+    "position": [1700, 1710],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [1712, 1722],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 µmol/L",
+    "position": [1723, 1732],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [709, 723],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
+  }
+]

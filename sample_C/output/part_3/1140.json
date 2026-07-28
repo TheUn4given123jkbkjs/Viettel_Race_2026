@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Hiến tim",
+    "position": [1559, 1567],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z52.7"]
+  },
+  {
+    "text": "suy tim độ IV",
+    "position": [114, 127],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [144, 151],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [525, 534],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [536, 549],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Ciclosporin",
+    "position": [1742, 1753],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Furosemide",
+    "position": [1832, 1842],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Bạch cầu 8.5 x 10^9/L",
+    "position": [1029, 1050],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

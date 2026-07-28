@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Nhiễm trùng và phản ứng viêm do thiết bị nhân tạo bên trong khác cấy và ghép",
+    "position": [1705, 1781],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T84.7", "T85.7"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [665, 673],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [684, 691],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Vancomycin",
+    "position": [1808, 1818],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11124"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [1856, 1869],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1357, 1365],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18.5 G/L",
+    "position": [1372, 1380],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1469, 1472],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 mg/L",
+    "position": [1473, 1481],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

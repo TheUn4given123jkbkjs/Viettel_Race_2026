@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Ivermectin",
+    "position": [284, 294],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6069"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1354, 1371],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [1658, 1672],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 K/uL",
+    "position": [1673, 1682],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST (GOT)",
+    "position": [1864, 1873],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "68 U/L",
+    "position": [1874, 1880],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2637, 2648],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

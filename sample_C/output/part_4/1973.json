@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Người cưỡi súc vật hay người trên xe bị thương do ngã từ hay ném đi từ súc vật hay xe súc vật kéo trong tai nạn không có va chạm",
+    "position": [2548, 2676],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V80.0"]
+  },
+  {
+    "text": "đau nhức dữ dội vùng ngực trái",
+    "position": [495, 525],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở nhẹ khi hít sâu",
+    "position": [625, 648],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2087, 2100],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hồng cầu 4.2 T/L, Hemoglobin 135 g/L, Bạch cầu 9.5 G/L, Tiểu cầu 240 G/L",
+    "position": [2111, 2183],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [2305, 2323],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gãy xương sườn 5 và sườn 6 bên trái, không thấy tràn khí màng phổi",
+    "position": [2334, 2400],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2776, 2789],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2848, 2857],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2923, 2933],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  }
+]

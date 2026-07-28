@@ -1,0 +1,62 @@
+[
+  {
+    "text": "THA",
+    "position": [131, 134],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "Cefuroxime",
+    "position": [1735, 1745],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2194"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1806, 1816],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Tetanus Vaccine",
+    "position": [1906, 1921],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "834765",
+      "309949",
+      "758475"
+    ]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1435, 1448],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 10.5 G/L",
+    "position": [1450, 1462],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang bàn tay phải",
+    "position": [1587, 1607],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất cảm giác",
+    "position": [914, 926],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

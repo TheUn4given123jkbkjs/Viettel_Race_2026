@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Tác động của chấn động",
+    "position": [2463, 2485],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T75.2"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2536, 2549],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2698, 2707],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [2838, 2850],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1102, 1110],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1864, 1872],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bình thường",
+    "position": [1938, 1949],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

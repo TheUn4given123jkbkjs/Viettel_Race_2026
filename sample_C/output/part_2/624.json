@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Basedow",
+    "position": [91, 98],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Propylthiouracil",
+    "position": [584, 600],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8794"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [661, 681],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "run tay",
+    "position": [807, 814],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "TSH",
+    "position": [1608, 1611],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "< 0.01 µIU/mL",
+    "position": [1612, 1625],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "FT4",
+    "position": [1639, 1642],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45.2 pmol/L",
+    "position": [1643, 1654],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Propranolol",
+    "position": [1915, 1926],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8787"]
+  }
+]

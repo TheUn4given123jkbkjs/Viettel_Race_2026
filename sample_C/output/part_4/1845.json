@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bất thường không xác định và các bất thường khác của nhịp tim",
+    "position": [1726, 1787],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R00.8"]
+  },
+  {
+    "text": "Atenolol",
+    "position": [1822, 1830],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1202"]
+  },
+  {
+    "text": "Digoxin",
+    "position": [1875, 1882],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [103, 113],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "hồi hộp đánh trống ngực",
+    "position": [378, 401],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [515, 524],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1523, 1526],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp xoang không đều",
+    "position": [1537, 1557],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

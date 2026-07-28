@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Các hội chứng dị tật bẩm sinh liên quan chủ yếu đến thân hình ngắn",
+    "position": [2352, 2418],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q87.1"]
+  },
+  {
+    "text": "đau nhức âm ỉ vùng cột sống thắt lưng",
+    "position": [356, 393],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạn chế vận động",
+    "position": [1537, 1553],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1838, 1851],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 13.5 g/dL",
+    "position": [1872, 1892],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cột sống và xương dài",
+    "position": [2012, 2041],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2497, 2510],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Calcium gluconate",
+    "position": [2577, 2594],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1908"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [2647, 2657],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  }
+]

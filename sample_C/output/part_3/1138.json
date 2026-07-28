@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Kích thích nhuận tràng",
+    "position": [1800, 1822],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y53.2", "T47.2"]
+  },
+  {
+    "text": "đi ngoài phân lỏng",
+    "position": [551, 569],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [725, 734],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Kali",
+    "position": [1541, 1545],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3.2 mmol/L",
+    "position": [1546, 1556],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Oral rehydration salts",
+    "position": [1881, 1903],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1431637"]
+  },
+  {
+    "text": "Loperamide",
+    "position": [1979, 1989],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6468"]
+  },
+  {
+    "text": "Potassium chloride",
+    "position": [2052, 2070],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8591"]
+  }
+]

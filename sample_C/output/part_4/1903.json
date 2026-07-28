@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Mang mầm bệnh các vi khuẩn xác định khác",
+    "position": [1910, 1950],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z22.3"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2035, 2046],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [2116, 2129],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [151, 168],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [286, 320],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 12.5 G/L",
+    "position": [1524, 1541],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [2398, 2411],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

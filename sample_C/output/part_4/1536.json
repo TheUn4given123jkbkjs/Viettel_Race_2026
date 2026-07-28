@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tiểu máu toàn bãi",
+    "position": [583, 600],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [961, 969],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Khám sàng lọc đặc biệt u bàng quang",
+    "position": [2144, 2179],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z12.6"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2323, 2333],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2410, 2423],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Tranexamic acid",
+    "position": [2468, 2483],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10691"]
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [1655, 1669],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.5 K/uL",
+    "position": [1671, 1679],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

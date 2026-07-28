@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Piroxicam",
+    "position": [507, 516],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8356"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [391, 399],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày tá tràng",
+    "position": [2174, 2194],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K29", "K29.9"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1299, 1312],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 135 g/L",
+    "position": [1332, 1350],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1541, 1552],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhịp xoang đều",
+    "position": [1560, 1574],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [1906, 1918],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

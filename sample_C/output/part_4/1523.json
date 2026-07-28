@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Tổn thương mạch máu chưa xác định tại tầm cổ tay và bàn tay",
+    "position": [1466, 1525],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S65.9"]
+  },
+  {
+    "text": "Tăng huyết áp 5 năm",
+    "position": [82, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Heparin",
+    "position": [2005, 2012],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["235473"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [2078, 2085],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Nifedipine",
+    "position": [2205, 2215],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7417"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1556, 1569],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm Doppler mạch máu",
+    "position": [1709, 1733],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm tưới máu vùng bàn tay trái",
+    "position": [1744, 1775],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [559, 566],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tím tái",
+    "position": [591, 598],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

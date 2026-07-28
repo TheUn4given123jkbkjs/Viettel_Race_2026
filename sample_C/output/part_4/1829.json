@@ -1,0 +1,83 @@
+[
+  {
+    "text": "Thay đổi công việc",
+    "position": [101, 119],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z56.1"]
+  },
+  {
+    "text": "mất ngủ",
+    "position": [1306, 1313],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [1461, 1474],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [1485, 1499],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
+  },
+  {
+    "text": "mổ ruột thừa",
+    "position": [1414, 1426],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1978, 1986],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1994, 2001],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Diazepam",
+    "position": [3040, 3048],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Sulpiride",
+    "position": [3139, 3148],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10239"]
+  },
+  {
+    "text": "đường huyết",
+    "position": [2388, 2399],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.1 mmol/L",
+    "position": [2411, 2421],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

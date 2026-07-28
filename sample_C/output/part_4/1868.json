@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương do cóng lạnh chưa xác định tại chi dưới",
+    "position": [2816, 2866],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T35.5"]
+  },
+  {
+    "text": "sốt",
+    "position": [726, 729],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [737, 744],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [3032, 3041],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Silver sulfadiazine",
+    "position": [3140, 3159],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9793"]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [3262, 3280],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [2229, 2237],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 K/uL",
+    "position": [2245, 2253],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

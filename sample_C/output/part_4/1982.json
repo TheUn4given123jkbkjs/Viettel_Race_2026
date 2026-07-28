@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Bệnh sử gia đình có bệnh bạch cầu",
+    "position": [685, 718],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["Z80.6"]
+  },
+  {
+    "text": "mệt mỏi kéo dài",
+    "position": [215, 230],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "da xanh xao",
+    "position": [232, 243],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vết bầm máu",
+    "position": [452, 463],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tổng số",
+    "position": [2136, 2152],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18.5 G/L",
+    "position": [2154, 2162],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hydroxyurea",
+    "position": [2487, 2498],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5552"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [2559, 2569],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "Allopurinol",
+    "position": [2611, 2622],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["519"]
+  }
+]

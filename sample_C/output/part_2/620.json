@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [370, 390],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [283, 291],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực trái",
+    "position": [302, 315],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Vết thương các mạch máu khác tại vai và cánh tay trên",
+    "position": [1912, 1965],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S45.8"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2006, 2019],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng cao",
+    "position": [2093, 2101],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang vai phải",
+    "position": [2303, 2319],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm Doppler mạch máu chi trên",
+    "position": [2468, 2501],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

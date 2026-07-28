@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Kiểm tra sức khỏe tổng quát thường quy cho nhóm dân cư xác định",
+    "position": [1983, 2046],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z10", "Z10.8"]
+  },
+  {
+    "text": "không sốt",
+    "position": [278, 287],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [304, 317],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [1543, 1564],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.2 mmol/L",
+    "position": [1565, 1575],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triglyceride",
+    "position": [1584, 1596],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.8 mmol/L",
+    "position": [1597, 1607],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Khám sức khỏe tổng quát",
+    "position": [68, 91],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z00", "Z00.0"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [606, 613],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [2181, 2193],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [2299, 2309],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "Glucose máu đói",
+    "position": [1391, 1406],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.4 mmol/L",
+    "position": [1407, 1417],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [1419, 1440],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "4.8 mmol/L",
+    "position": [1441, 1451],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "mất ngủ",
+    "position": [71, 78],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "căng thẳng",
+    "position": [80, 90],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thay đổi tâm trạng",
+    "position": [94, 112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử động kinh",
+    "position": [255, 272],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Theo dõi khi nghi ngờ các rối loạn tâm thần và hành vi",
+    "position": [895, 949],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z03.2"]
+  },
+  {
+    "text": "công thức máu",
+    "position": [716, 729],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bình thường",
+    "position": [628, 639],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

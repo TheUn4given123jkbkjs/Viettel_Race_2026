@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Các dị tật khác của các mạch máu não",
+    "position": [1647, 1683],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q28.1", "Q28.3"]
+  },
+  {
+    "text": "THA 5 năm",
+    "position": [177, 186],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [450, 457],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [1725, 1735],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1816, 1828],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1191, 1204],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1206, 1222],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cộng hưởng từ mạch máu não",
+    "position": [1458, 1489],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

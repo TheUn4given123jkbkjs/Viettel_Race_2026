@@ -1,0 +1,58 @@
+[
+  {
+    "text": "sốt nhẹ",
+    "position": [215, 222],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức",
+    "position": [234, 242],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Biến chứng khác chưa xác định của mỏm cắt cụt",
+    "position": [2978, 3023],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T87.6"]
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [2386, 2400],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 K/uL",
+    "position": [2402, 2411],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose",
+    "position": [2517, 2524],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.2 mmol/L",
+    "position": [2527, 2537],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang mỏm cắt cụt cẳng chân trái",
+    "position": [2577, 2611],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

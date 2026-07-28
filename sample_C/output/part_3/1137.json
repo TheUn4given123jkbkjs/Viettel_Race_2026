@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Kháng penicillin",
+    "position": [2672, 2688],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T36.0", "U82.0"]
+  },
+  {
+    "text": "đau họng",
+    "position": [638, 646],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vancomycin",
+    "position": [2788, 2798],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11124"]
+  },
+  {
+    "text": "Azithromycin",
+    "position": [2851, 2863],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2067, 2080],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 15.5 x 10^9/L",
+    "position": [2099, 2121],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

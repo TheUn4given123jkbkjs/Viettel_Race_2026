@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Thay đổi thói quen của ruột",
+    "position": [1687, 1714],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R19.4"]
+  },
+  {
+    "text": "táo bón xen kẽ tiêu chảy",
+    "position": [221, 245],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [450, 463],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [479, 499],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [983, 996],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP 3.2 mg/L",
+    "position": [1176, 1188],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi đại tràng",
+    "position": [1215, 1232],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "niêm mạc đại tràng sigma có vùng xung huyết nhẹ",
+    "position": [1259, 1306],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

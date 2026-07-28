@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Budesonide",
+    "position": [385, 395],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "ho khan",
+    "position": [96, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "COPD",
+    "position": [327, 331],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [834, 842],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [843, 851],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [886, 889],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 mg/L",
+    "position": [890, 897],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Augmentin",
+    "position": [1123, 1132],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

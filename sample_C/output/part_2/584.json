@@ -1,0 +1,62 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [209, 222],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "các phát hiện bất thường về chẩn đoán hình ảnh của các cấu trúc cơ thể xác định khác",
+    "position": [1573, 1657],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R93.8"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1896, 1906],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Metoclopramide",
+    "position": [2022, 2036],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6915"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [254, 264],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "đau bụng thượng vị",
+    "position": [574, 592],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1268, 1281],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1283, 1299],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

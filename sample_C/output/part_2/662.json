@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [116, 129],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [1837, 1847],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [1904, 1914],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1992, 2004],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1204, 1212],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "NT-proBNP",
+    "position": [1511, 1520],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2500 pg/mL",
+    "position": [1522, 1532],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp và suy tim",
+    "position": [1763, 1787],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I13.0",
+      "I13.1",
+      "I13.2"
+    ]
+  }
+]

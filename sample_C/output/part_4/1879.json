@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Quên thuận chiều",
+    "position": [1697, 1713],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R41.1"]
+  },
+  {
+    "text": "suy giảm trí nhớ gần",
+    "position": [92, 112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Donepezil",
+    "position": [1766, 1775],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Memantine",
+    "position": [1826, 1835],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1878, 1885],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "MRI sọ não",
+    "position": [1319, 1329],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "teo hồi hải mã nhẹ",
+    "position": [1339, 1357],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [337, 345],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

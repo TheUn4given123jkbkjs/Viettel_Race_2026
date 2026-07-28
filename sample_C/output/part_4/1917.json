@@ -1,0 +1,62 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [21, 34],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Tổn thương giập nát tác động nhiều vùng của chi trên",
+    "position": [2122, 2174],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T04.2"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [2234, 2263],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Morphine",
+    "position": [2304, 2312],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7052"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1391, 1404],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 14.5 G/L",
+    "position": [1426, 1443],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 92 g/L",
+    "position": [1445, 1462],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang chi trên phải",
+    "position": [1618, 1639],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

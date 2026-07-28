@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Hepatitis B Vaccine",
+    "position": [404, 423],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["797752", "2368450"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [89, 97],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [77, 84],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1225, 1238],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC: 7.2 G/L",
+    "position": [1240, 1252],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST: 35 U/L",
+    "position": [1312, 1323],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol 500mg",
+    "position": [1658, 1675],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Domperidone 10mg",
+    "position": [1720, 1736],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

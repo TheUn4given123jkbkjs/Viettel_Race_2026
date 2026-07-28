@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Thở rít",
+    "position": [597, 604],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R06.1"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [344, 357],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1216, 1229],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Budesonide",
+    "position": [1297, 1307],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Albuterol",
+    "position": [1399, 1408],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [926, 939],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC: 8.5 G/L",
+    "position": [941, 953],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang phổi",
+    "position": [1043, 1055],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không thấy tổn thương thâm nhiễm",
+    "position": [1057, 1089],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

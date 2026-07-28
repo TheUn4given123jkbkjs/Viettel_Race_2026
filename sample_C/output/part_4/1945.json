@@ -1,0 +1,69 @@
+[
+  {
+    "text": "bố đẻ tiền sử Đái th习o đường týp 2",
+    "position": [344, 378],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [416, 429],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily", "isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "khó bú",
+    "position": [584, 590],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [245, 253],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Khe hở vòm miệng mềm và môi, một bên",
+    "position": [2074, 2110],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q37.3", "Q37.5"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [2160, 2189],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2253, 2266],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1502, 1510],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 x 10^9/L",
+    "position": [1518, 1530],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

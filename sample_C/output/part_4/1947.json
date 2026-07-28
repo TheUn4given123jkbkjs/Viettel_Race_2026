@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Efavirenz",
+    "position": [252, 261],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["195085", "2003222"]
+  },
+  {
+    "text": "viêm phổi nặng",
+    "position": [2182, 2196],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm HIV",
+    "position": [139, 148],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F02.4*",
+      "Z21",
+      "Z20.6"
+    ]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2360, 2371],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Azithromycin",
+    "position": [2417, 2429],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2475, 2486],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [1675, 1689],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "16.5 x 10^3/uL",
+    "position": [1699, 1713],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin T",
+    "position": [1890, 1900],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1513, 1520],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

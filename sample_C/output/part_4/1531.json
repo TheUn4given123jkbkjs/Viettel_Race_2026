@@ -1,0 +1,65 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [98, 115],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Phát hiện các chất đặc hiệu khác mà bình thường không có trong máu",
+    "position": [1736, 1802],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R78.8"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [1876, 1890],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [1938, 1956],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [2016, 2026],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [470, 477],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1192, 1205],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1207, 1223],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [560, 567],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

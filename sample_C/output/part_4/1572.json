@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Vết bỏng dộp ở phần khác của cổ (không do nhiệt độ)",
+    "position": [1655, 1706],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S10.82"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [160, 180],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [196, 209],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Bạch cầu 12.5 G/L",
+    "position": [1200, 1217],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1185, 1198],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose 5.6 mmol/L",
+    "position": [1282, 1300],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nốt dộp",
+    "position": [537, 544],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa máu",
+    "position": [1268, 1280],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Vết thương do đâm có dị vật ở vú",
+    "position": [0, 32],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S21.03", "S21.04"]
+  },
+  {
+    "text": "mổ ruột thừa cách đây 2 năm",
+    "position": [609, 636],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau nhói vùng ngực trái",
+    "position": [247, 270],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu",
+    "position": [1292, 1300],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "15.2 G/L",
+    "position": [1316, 1324],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1933, 1944],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [2017, 2030],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2102, 2111],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "text": "không sốt",
+    "position": [955, 964],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [966, 983],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [985, 998],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Vết thương động mạch cánh tay",
+    "position": [2585, 2614],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S45.1"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2040, 2053],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hồng cầu (RBC)",
+    "position": [2076, 2090],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3.8 T/L",
+    "position": [2092, 2099],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin (HGB)",
+    "position": [2125, 2141],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "110 g/L",
+    "position": [2143, 2150],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2936, 2949],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Cefuroxime",
+    "position": [2997, 3007],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2194"]
+  },
+  {
+    "text": "Enalapril",
+    "position": [3053, 3062],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3827"]
+  }
+]

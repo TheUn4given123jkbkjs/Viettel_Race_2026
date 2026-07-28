@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Rách bờ nham nhở có dị vật ở phần không xác định ở cổ",
+    "position": [1140, 1193],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S11.91", "S11.92"]
+  },
+  {
+    "text": "đau nhức vùng cổ",
+    "position": [138, 154],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [424, 431],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1338, 1351],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tăng cao 14.5 G/L",
+    "position": [1353, 1379],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Metronidazole",
+    "position": [2003, 2016],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Povidone-iodine",
+    "position": [2186, 2201],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8611"]
+  },
+  {
+    "text": "X-quang vùng cổ",
+    "position": [1438, 1453],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

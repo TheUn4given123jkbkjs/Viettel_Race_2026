@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Vết thương do đâm có dị vật ở vú",
+    "position": [2833, 2865],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S21.03", "S21.04"]
+  },
+  {
+    "text": "sưng nề lan tỏa",
+    "position": [734, 749],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức tăng lên",
+    "position": [751, 767],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Số lượng bạch cầu tăng cao",
+    "position": [2075, 2101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2060, 2073],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 G/L",
+    "position": [2125, 2133],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm tuyến vú",
+    "position": [2546, 2562],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hình ảnh tổn thương thâm nhiễm mô mềm vùng vú phải",
+    "position": [2625, 2675],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [164, 191],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

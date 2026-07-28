@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Phenytoin",
+    "position": [395, 404],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8183"]
+  },
+  {
+    "text": "động kinh cục bộ toàn thể hóa thứ phát",
+    "position": [289, 327],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1044, 1052],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [1060, 1063],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1075, 1082],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [749, 758],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu",
+    "position": [1972, 1980],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.5 K/uL",
+    "position": [1984, 1992],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hoạt huyết dưỡng não",
+    "position": [4098, 4118],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

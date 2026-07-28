@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Cố tình tự đầu độc bằng và phơi nhiễm thuốc chống động kinh, an thần - gây ngủ, chống parkinson và thuốc tâm thần, không được xếp loại ở nơi khác",
+    "position": [1408, 1561],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["X61"]
+  },
+  {
+    "text": "tiền sử trầm cảm",
+    "position": [289, 305],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [1611, 1629],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [1680, 1688],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "lơ mơ",
+    "position": [142, 147],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1123, 1136],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1258, 1261],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 10.5 G/L",
+    "position": [1138, 1150],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

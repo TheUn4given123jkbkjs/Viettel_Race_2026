@@ -1,0 +1,55 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [229, 246],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Gẫy xương của xương thuyền bàn tay",
+    "position": [2034, 2068],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S62.0",
+      "S62.00",
+      "S62.01"
+    ]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1614, 1627],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang khớp cổ tay thẳng nghiêng",
+    "position": [1812, 1845],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 145 g/l",
+    "position": [1682, 1700],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2120, 2129],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2256, 2269],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

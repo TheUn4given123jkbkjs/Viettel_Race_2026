@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Dextromethorphan",
+    "position": [836, 852],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3289"]
+  },
+  {
+    "text": "công thức máu",
+    "position": [1009, 1022],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [1024, 1032],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [1034, 1041],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1046, 1049],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

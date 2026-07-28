@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Các dị tật bẩm sinh khác của xương sống, không liên quan đến vẹo cột sống",
+    "position": [1961, 2034],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q76.4"]
+  },
+  {
+    "text": "đau âm ỉ vùng thắt lưng",
+    "position": [593, 616],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2057, 2066],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2203, 2216],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "X-quang cột sống thắt lưng",
+    "position": [1646, 1672],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1497, 1510],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 7.5 G/L",
+    "position": [1512, 1523],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [244, 252],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

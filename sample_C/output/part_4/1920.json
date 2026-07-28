@@ -1,0 +1,58 @@
+[
+  {
+    "text": "gãy xương cẳng chân do tai nạn giao thông cách đây 3 năm",
+    "position": [48, 104],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức âm ỉ vùng cẳng chân trái",
+    "position": [187, 220],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạn chế vận động khớp gối và cổ chân trái",
+    "position": [336, 377],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì lan xuống bàn chân",
+    "position": [426, 450],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp X-quang cẳng chân trái thẳng nghiêng",
+    "position": [1731, 1772],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hình ảnh liền xương vững chắc ở vị trí gãy cũ",
+    "position": [1782, 1827],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Di chứng của tai nạn xe động cơ",
+    "position": [2005, 2036],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y85.0"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2231, 2240],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  }
+]

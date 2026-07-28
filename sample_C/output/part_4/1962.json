@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Vết nứt trên bàng quang của bàng quang",
+    "position": [1646, 1684],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q64.11"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [707, 715],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [560, 563],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1910, 1921],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [1975, 1987],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2049, 2062],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1218, 1231],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 11.2 G/L",
+    "position": [1233, 1250],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích nước tiểu",
+    "position": [1369, 1393],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hồng cầu (+++)",
+    "position": [1395, 1409],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

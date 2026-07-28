@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Bỏng độ ba của cổ tay và bàn tay",
+    "position": [0, 32],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T23.3", "T22.3"]
+  },
+  {
+    "text": "bạch cầu tăng cao",
+    "position": [1311, 1328],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Silver sulfadiazine",
+    "position": [1757, 1776],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9793"]
+  },
+  {
+    "text": "Morphine",
+    "position": [1828, 1836],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7052"]
+  },
+  {
+    "text": "sốt cao",
+    "position": [647, 654],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1288, 1301],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1411, 1414],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

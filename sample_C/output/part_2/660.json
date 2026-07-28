@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Clarithromycin",
+    "position": [855, 869],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["21212"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [417, 434],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1164, 1172],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [1174, 1182],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ure",
+    "position": [1338, 1341],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.8 mmol/L",
+    "position": [1343, 1353],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinin",
+    "position": [1370, 1379],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "88 umol/L",
+    "position": [1381, 1390],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phế quản mạn tính",
+    "position": [587, 609],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J40",
+      "J41",
+      "J41.0"
+    ]
+  }
+]

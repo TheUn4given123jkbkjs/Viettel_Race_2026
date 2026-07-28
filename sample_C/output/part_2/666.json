@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương mạch máu khác của ngực",
+    "position": [1953, 1986],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S25.8"]
+  },
+  {
+    "text": "đau tức ngực",
+    "position": [442, 454],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [608, 615],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [163, 173],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [2081, 2088],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [2138, 2150],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1654, 1672],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cắt lớp vi tính (CT) lồng ngực",
+    "position": [1760, 1795],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

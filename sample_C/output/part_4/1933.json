@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Levofloxacin",
+    "position": [231, 243],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["82122"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1537, 1548],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [1585, 1598],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1029, 1042],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 12 g/dl",
+    "position": [1044, 1062],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Vết thương nhiều dây thần kinh tại vai và cánh tay trên",
+    "position": [1125, 1180],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S44.7"]
+  },
+  {
+    "text": "tiền sử tăng huyết áp 5 năm nay",
+    "position": [141, 172],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [2489, 2518],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2612, 2625],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [2694, 2712],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [2050, 2058],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10.5 G/L",
+    "position": [2061, 2069],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ure máu",
+    "position": [2134, 2141],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

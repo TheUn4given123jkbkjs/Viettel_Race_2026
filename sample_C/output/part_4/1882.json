@@ -1,0 +1,58 @@
+[
+  {
+    "text": "ngứa ngáy",
+    "position": [477, 486],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nốt đỏ",
+    "position": [625, 631],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh cước",
+    "position": [1894, 1903],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T69.1"]
+  },
+  {
+    "text": "Công thức máu toàn phần",
+    "position": [1279, 1302],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu 7.5 G/L",
+    "position": [1304, 1320],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [721, 729],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1545, 1556],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp xoang đều 78 nhịp/phút",
+    "position": [1564, 1591],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

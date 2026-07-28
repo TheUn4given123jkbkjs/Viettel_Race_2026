@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau nhức nhiều vùng cơ thể",
+    "position": [572, 598],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương xác định khác tác động nhiều vùng cơ thể",
+    "position": [1813, 1864],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T06.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1993, 2006],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2061, 2070],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1410, 1423],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 11.5 G/L",
+    "position": [1443, 1460],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1599, 1617],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

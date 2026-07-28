@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Methotrexate",
+    "position": [934, 946],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6851"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [1045, 1065],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [1081, 1094],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Viêm khớp dạng thấp",
+    "position": [812, 831],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M05",
+      "M05.3†",
+      "M05.8"
+    ]
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [1950, 1964],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.5 G/L",
+    "position": [1987, 1994],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methylprednisolon 4mg",
+    "position": [2822, 2843],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Omeprazol 20mg",
+    "position": [3033, 3047],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

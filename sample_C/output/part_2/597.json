@@ -1,0 +1,72 @@
+[
+  {
+    "text": "tăng huyết áp nguyên phát",
+    "position": [127, 152],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Móng to và phì đại",
+    "position": [2804, 2822],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q84.5"]
+  },
+  {
+    "text": "sốt nhẹ về chiều",
+    "position": [674, 690],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [709, 716],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhức đầu",
+    "position": [728, 736],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1183, 1191],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực trái",
+    "position": [1202, 1215],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Colchicine",
+    "position": [2856, 2866],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2683"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2891, 2900],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2926, 2936],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  }
+]

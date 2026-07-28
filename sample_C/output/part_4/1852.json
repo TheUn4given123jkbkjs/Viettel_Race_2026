@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Các dị tật bẩm sinh của các buồng tim và bộ phận nối",
+    "position": [1386, 1438],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q20"]
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [570, 597],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [166, 173],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1223, 1234],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dày thất phải",
+    "position": [1253, 1266],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Digoxin",
+    "position": [1896, 1903],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [2030, 2040],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "th.uốc",
+    "position": [2640, 2646],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

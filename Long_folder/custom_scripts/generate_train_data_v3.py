@@ -358,9 +358,20 @@ def generate_with_smart_rotation(provider, prompt, max_attempts=15):
 
             # Xử lý khi bị Rate Limit (429)
             if res.status_code == 429:
-                print(f"  🛑 Key [{api_key[:12]}...] (TK: {account_id.upper()}) dính Rate Limit 429 với Model [{used_model}]. Đang đóng băng Key 120s...")
-                key_manager.mark_rate_limited(key_info, cooldown_seconds=120.0)
-                if "limit: 0" in res.text or "Quota exceeded" in res.text:
+                cooldown_sec = 120.0
+                is_daily_limit = False
+                
+                # Nhận diện lỗi Rate Limit TPD (Daily token/request limit) hoặc cạn hạn mức ngày
+                res_text_lower = res.text.lower()
+                if "tokens per day" in res_text_lower or "tpd" in res_text_lower or "daily limit" in res_text_lower or "quota exceeded" in res_text_lower or "limit 100000" in res_text_lower:
+                    cooldown_sec = 28800.0  # Đóng băng 8 tiếng để nhường cho tài khoản khác
+                    is_daily_limit = True
+                    print(f"  🚨 [DAILY LIMIT DETECTED] Tài khoản {account_id.upper()} đã hết hạn mức Token trong ngày (TPD/RPD Limit). Đóng băng tài khoản trong 8 giờ!")
+
+                print(f"  🛑 Key [{api_key[:12]}...] (TK: {account_id.upper()}) dính Rate Limit 429 với Model [{used_model}]. Đang đóng băng Key {cooldown_sec:.1f}s...")
+                key_manager.mark_rate_limited(key_info, cooldown_seconds=cooldown_sec)
+                
+                if not is_daily_limit and ("limit: 0" in res.text or "Quota exceeded" in res.text):
                     key_manager.mark_model_out_of_quota(current_provider, used_model)
                 continue
                 

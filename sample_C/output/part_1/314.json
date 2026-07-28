@@ -1,0 +1,65 @@
+[
+  {
+    "text": "tăng huyết áp nguyên phát",
+    "position": [177, 202],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [714, 722],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [757, 764],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau tức vùng hạ sườn phải",
+    "position": [652, 677],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1690, 1698],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 K/uL",
+    "position": [1699, 1707],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [1764, 1767],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "32 U/L",
+    "position": [1768, 1774],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các dị tật bẩm sinh của túi mật, đường mật và gan",
+    "position": [2049, 2098],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q44"]
+  }
+]

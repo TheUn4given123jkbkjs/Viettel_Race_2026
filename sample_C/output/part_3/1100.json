@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Người đi xe công nghiệp bị thương trong tai nạn giao thông",
+    "position": [2892, 2950],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V83", "V83.1"]
+  },
+  {
+    "text": "đau tức ngực bên phải",
+    "position": [895, 916],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [668, 676],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích tế bào máu ngoại vi",
+    "position": [2240, 2274],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 9.5 G/L",
+    "position": [2319, 2335],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cẳng chân phải thẳng nghiêng",
+    "position": [2689, 2725],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gãy xương sườn số 5 và số 6 bên phải",
+    "position": [2619, 2655],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

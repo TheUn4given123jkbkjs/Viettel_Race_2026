@@ -1,0 +1,51 @@
+[
+  {
+    "text": "tê bì ngón út và một phần ngón nhẫn bên tay phải",
+    "position": [341, 389],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau mỏi lan dọc vùng cổ tay và bàn tay phải",
+    "position": [556, 599],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương dây thần kinh xương trụ tầm cổ tay và bàn tay",
+    "position": [2061, 2117],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S64.0"]
+  },
+  {
+    "text": "Điện cơ đồ (EMG)",
+    "position": [1941, 1957],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Giảm dẫn truyền vận động và cảm giác của dây thần kinh trụ đoạn qua cổ tay phải",
+    "position": [1959, 2038],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [2148, 2166],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Gabapentin",
+    "position": [2284, 2294],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

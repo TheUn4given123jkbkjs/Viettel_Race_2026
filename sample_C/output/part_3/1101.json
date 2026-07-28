@@ -1,0 +1,69 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [254, 267],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau thắt bàng quang",
+    "position": [919, 938],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R30.1"]
+  },
+  {
+    "text": "tiểu rắt",
+    "position": [852, 860],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [862, 871],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1814, 1827],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC): 8.5 K/uL",
+    "position": [1833, 1857],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích nước tiểu",
+    "position": [2199, 2223],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Papaverine",
+    "position": [2792, 2802],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7895"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2932, 2943],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bong gân và căng cơ phần khác, chưa xác định của bàn chân",
+    "position": [75, 132],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S93.6"]
+  },
+  {
+    "text": "sưng nề",
+    "position": [1973, 1980],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bầm tím",
+    "position": [1186, 1193],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1744, 1754],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "X-quang bàn chân",
+    "position": [1397, 1413],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không thấy hình ảnh gãy xương",
+    "position": [1415, 1444],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1276, 1289],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1291, 1307],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

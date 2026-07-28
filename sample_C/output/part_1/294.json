@@ -1,0 +1,73 @@
+[
+  {
+    "text": "Carbamazepine",
+    "position": [174, 187],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2002"]
+  },
+  {
+    "text": "sốt",
+    "position": [417, 420],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [1154, 1165],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "aspirin",
+    "position": [1184, 1191],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "nhiễm trùng huyết",
+    "position": [804, 821],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.86",
+      "I89",
+      "I89.8"
+    ]
+  },
+  {
+    "text": "viêm gan",
+    "position": [1100, 1108],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.74",
+      "A54.43",
+      "A18.03"
+    ]
+  },
+  {
+    "text": "CRP",
+    "position": [860, 863],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Procalcitonin",
+    "position": [867, 880],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT và AST tăng cao",
+    "position": [951, 970],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

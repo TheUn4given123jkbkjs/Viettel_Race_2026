@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Bệnh sử cá nhân có có các dị ứng với ma túy, thuốc và các chất sinh vật khác",
+    "position": [429, 505],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z88"]
+  },
+  {
+    "text": "bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [679, 713],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [750, 777],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "ngứa da",
+    "position": [873, 880],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nổi các mẩn đỏ nhỏ",
+    "position": [912, 930],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù mạch nhẹ vùng môi và mí mắt",
+    "position": [1330, 1361],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [2802, 2816],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 G/L",
+    "position": [2818, 2826],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Định lượng IgE toàn phần",
+    "position": [3172, 3196],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "850 IU/mL",
+    "position": [3198, 3207],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

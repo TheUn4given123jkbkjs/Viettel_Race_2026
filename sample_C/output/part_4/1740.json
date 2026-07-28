@@ -1,0 +1,76 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [173, 186],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Vaccin tả",
+    "position": [1654, 1663],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y58.2"]
+  },
+  {
+    "text": "Oral rehydration salts",
+    "position": [1816, 1838],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1431637"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [1918, 1929],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loperamide",
+    "position": [1990, 2000],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6468"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1284, 1297],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 14.5 G/L",
+    "position": [1299, 1316],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Natri 130 mmol/L",
+    "position": [1393, 1409],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [630, 639],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [712, 719],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

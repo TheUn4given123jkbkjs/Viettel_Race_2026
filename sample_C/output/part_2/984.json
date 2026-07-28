@@ -1,0 +1,73 @@
+[
+  {
+    "text": "Chloramphenicol",
+    "position": [630, 645],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2348"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [523, 536],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Viêm phổi cộng đồng",
+    "position": [2126, 2145],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thiếu máu mạn tính",
+    "position": [2166, 2184],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D63.8",
+      "D50.0",
+      "D63"
+    ]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1661, 1669],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [1677, 1685],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết sắc tố",
+    "position": [1714, 1726],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "105 g/L",
+    "position": [1734, 1741],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxon",
+    "position": [2244, 2254],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

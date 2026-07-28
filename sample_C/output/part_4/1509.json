@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Tổn thương khí quản ngực, không có vết thương mở vào ổ ngực",
+    "position": [790, 849],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S27.50"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [487, 507],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [529, 542],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [1936, 1954],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [2121, 2133],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [1692, 1704],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1567, 1580],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hb 13.5 g/dL",
+    "position": [1600, 1612],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu 5.8 mmol/L",
+    "position": [1644, 1666],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [172, 179],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

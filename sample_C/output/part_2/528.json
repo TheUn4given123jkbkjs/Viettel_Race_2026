@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Phơi nhiễm nhiệt lạnh quá mức do con người tạo ra",
+    "position": [1600, 1649],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["W93"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1752, 1761],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "tê buốt dữ dội",
+    "position": [584, 598],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [210, 223],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1256, 1269],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 12.5 G/L",
+    "position": [1271, 1283],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP 45 mg/L",
+    "position": [1413, 1424],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [1521, 1533],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

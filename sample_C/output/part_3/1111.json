@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bỏng và ăn mòn nhiều vùng cơ thể",
+    "position": [545, 577],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T29"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2378, 2389],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Silver sulfadiazine",
+    "position": [2580, 2599],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9793"]
+  },
+  {
+    "text": "Morphine",
+    "position": [2472, 2480],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7052"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1807, 1820],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 15.2 x 10^9/L",
+    "position": [1822, 1839],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [2066, 2078],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi thùy dưới hai bên",
+    "position": [2089, 2116],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

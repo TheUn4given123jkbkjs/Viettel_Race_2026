@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Các dị tật bẩm sinh khác ở phần trước của mắt",
+    "position": [1787, 1832],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q13.8"]
+  },
+  {
+    "text": "nhìn mờ",
+    "position": [136, 143],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [324, 337],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [375, 395],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm mắt",
+    "position": [1665, 1676],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lệch tâm",
+    "position": [1337, 1345],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1465, 1478],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu 5.2 mmol/L",
+    "position": [1593, 1615],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

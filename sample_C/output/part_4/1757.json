@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Levonorgestrel",
+    "position": [191, 205],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["214558", "6373"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [265, 278],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "rối loạn lipid máu",
+    "position": [282, 300],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E78"]
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [728, 738],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12 g/dl",
+    "position": [739, 746],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

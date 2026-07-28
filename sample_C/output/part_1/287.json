@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Cắt cụt do chấn thương tai",
+    "position": [573, 599],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S08.1"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [870, 890],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [908, 921],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [2443, 2472],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2535, 2548],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Betamethasone",
+    "position": [2596, 2609],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1514"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1113, 1121],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1988, 2001],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hồng cầu 4.5 T/L, Bạch cầu 8.5 g/L, Tiểu cầu 250 g/L",
+    "position": [2003, 2055],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

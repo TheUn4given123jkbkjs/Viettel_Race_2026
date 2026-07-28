@@ -1,0 +1,58 @@
+[
+  {
+    "text": "căng tức ngực dữ dội",
+    "position": [159, 179],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [375, 384],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [386, 399],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [410, 418],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Chăm sóc và khám các bà mẹ cho con bú",
+    "position": [2217, 2254],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z39.1"]
+  },
+  {
+    "text": "Siêu âm vú tổng quát",
+    "position": [1719, 1739],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích tế bào máu ngoại vi",
+    "position": [1743, 1777],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh mô tuyến vú cương tụ huyết quản, giãn rộng các ống tuyến sữa, không có ổ tụ dịch hay áp xe vú khu trú",
+    "position": [1817, 1927],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

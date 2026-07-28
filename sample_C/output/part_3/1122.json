@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Nhu cầu Theo dõi liên tục",
+    "position": [1926, 1951],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z74.3"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [125, 138],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Furosemide",
+    "position": [1998, 2008],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [175, 185],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [2108, 2115],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [438, 451],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [497, 504],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1676, 1687],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu cơ tim cục bộ",
+    "position": [1704, 1727],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

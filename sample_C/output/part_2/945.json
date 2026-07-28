@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Artesunate",
+    "position": [96, 106],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "18346",
+      "711398",
+      "1429947"
+    ]
+  },
+  {
+    "text": "sốt cao",
+    "position": [55, 62],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [66, 73],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [365, 374],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
+  },
+  {
+    "text": "công thức máu",
+    "position": [470, 483],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [495, 502],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng huyết",
+    "position": [548, 565],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

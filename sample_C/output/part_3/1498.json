@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Người đi trên xe buýt (bus) bị thương khi va chạm với mô tô 2 hay 3 bánh",
+    "position": [2532, 2604],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V72"]
+  },
+  {
+    "text": "đau tức ngực",
+    "position": [755, 767],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở nhẹ",
+    "position": [774, 785],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề và bầm tím",
+    "position": [851, 869],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [2071, 2081],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 g/dL",
+    "position": [2103, 2112],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang lồng ngực thẳng",
+    "position": [2280, 2303],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2650, 2663],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2747, 2756],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [2827, 2839],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  }
+]

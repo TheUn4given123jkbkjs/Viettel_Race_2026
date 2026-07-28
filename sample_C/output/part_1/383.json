@@ -1,0 +1,62 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [126, 139],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "mổ ruột thừa",
+    "position": [222, 234],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Tai biến do Hút dịch",
+    "position": [2015, 2035],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y84.4"]
+  },
+  {
+    "text": "đau tức vùng bụng",
+    "position": [566, 583],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1538, 1546],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18.5 G/L",
+    "position": [1556, 1564],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1634, 1637],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "150 mg/L",
+    "position": [1648, 1656],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

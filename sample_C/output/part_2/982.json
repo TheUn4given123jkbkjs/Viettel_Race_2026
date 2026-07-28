@@ -1,0 +1,72 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [120, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "mờ mắt",
+    "position": [611, 617],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức âm ỉ vùng hốc mắt",
+    "position": [522, 548],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức dữ dội",
+    "position": [637, 652],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Biến chứng cơ học của thủy tinh thể trong nội nhãn cầu",
+    "position": [2450, 2504],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T85.2"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2060, 2073],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa máu",
+    "position": [2170, 2182],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [2254, 2265],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetazolamide",
+    "position": [2693, 2706],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["167"]
+  },
+  {
+    "text": "Timolol",
+    "position": [2750, 2757],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10600"]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Hồi lưu tĩnh mạch phổi bất thường",
+    "position": [1357, 1390],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q26.2",
+      "Q26.3",
+      "Q26.4"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [383, 390],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tím tái",
+    "position": [409, 416],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Digoxin",
+    "position": [1422, 1429],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [1458, 1468],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Siêu âm tim",
+    "position": [1325, 1336],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SpO2 88%",
+    "position": [624, 632],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

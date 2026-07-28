@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Loạn sản xương sụn không đặc hiệu",
+    "position": [1914, 1947],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q77.9", "Q78.9"]
+  },
+  {
+    "text": "đau nhức tại vùng khớp gối",
+    "position": [193, 219],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dáng đi khập khiễng",
+    "position": [854, 873],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mổ ruột thừa",
+    "position": [462, 474],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1412, 1425],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang xương chậu",
+    "position": [1672, 1690],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dẹt thân đốt sống",
+    "position": [1723, 1740],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biến dạng đầu xương đùi",
+    "position": [1744, 1767],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

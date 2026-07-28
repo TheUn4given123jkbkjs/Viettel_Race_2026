@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Khám sàng lọc đặc biệt các khối u",
+    "position": [2601, 2634],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z12"]
+  },
+  {
+    "text": "Tranexamic acid",
+    "position": [2802, 2817],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10691"]
+  },
+  {
+    "text": "Metformin",
+    "position": [437, 446],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [353, 363],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "sụt cân không rõ nguyên nhân",
+    "position": [189, 217],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phân có máu màu đen sệt",
+    "position": [1113, 1136],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1829, 1842],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hb: 9.8 g/dL",
+    "position": [1888, 1900],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi dạ dày",
+    "position": [2495, 2509],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

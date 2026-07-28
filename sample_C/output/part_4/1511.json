@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Trạng thái sốc cảm xúc và stress, không đặc hiệu",
+    "position": [2163, 2211],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R45.7"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [2257, 2265],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Fluoxetine",
+    "position": [2360, 2370],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4493"]
+  },
+  {
+    "text": "lo âu quá mức",
+    "position": [515, 528],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [530, 537],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tim đập nhanh",
+    "position": [766, 779],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1765, 1773],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.5 G/L",
+    "position": [1776, 1783],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

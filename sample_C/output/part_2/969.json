@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Vấn đề liên quan đến lệ thuộc của bản thân vào người chăm sóc, không đặc hiệu",
+    "position": [631, 708],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z74.9"]
+  },
+  {
+    "text": "trầm cảm",
+    "position": [152, 160],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [241, 261],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [277, 290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ đường huyết và lipid trong giới hạn cho phép",
+    "position": [966, 1018],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

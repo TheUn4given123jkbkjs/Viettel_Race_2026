@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Dị vật vào qua da",
+    "position": [1734, 1751],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["W45"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1814, 1825],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1883, 1893],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "sưng tấy",
+    "position": [677, 685],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức",
+    "position": [691, 699],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1457, 1465],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 G/L",
+    "position": [1472, 1480],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "C-reactive protein",
+    "position": [1521, 1539],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 mg/L",
+    "position": [1546, 1553],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

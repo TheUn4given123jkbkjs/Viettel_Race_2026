@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Tăng huyết áp 5 năm",
+    "position": [664, 683],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [778, 798],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức dữ dội vùng gáy",
+    "position": [175, 199],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng cổ",
+    "position": [210, 217],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gẫy khác của đốt sống cổ thứ 1",
+    "position": [2276, 2306],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S12.09"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2000, 2013],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 140 g/L",
+    "position": [2033, 2051],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2434, 2447],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [2500, 2518],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2635, 2645],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  }
+]

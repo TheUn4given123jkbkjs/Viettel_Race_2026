@@ -1,0 +1,65 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [123, 142],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [807, 815],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [823, 826],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [834, 841],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Thiểu sản và loạn sản thừng cột sống",
+    "position": [1796, 1832],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q06.1"]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [1887, 1905],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Pregabalin",
+    "position": [1943, 1953],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1406, 1419],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 140 g/L",
+    "position": [1459, 1477],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

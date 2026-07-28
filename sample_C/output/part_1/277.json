@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Tổn thương cơ chưa xác định và gân tầm cổ chân và bàn chân",
+    "position": [104, 162],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S96.9"]
+  },
+  {
+    "text": "sưng nề vùng cổ chân và bàn chân",
+    "position": [1680, 1712],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1812, 1821],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [1823, 1836],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đã mổ ruột thừa cách đây 2 năm",
+    "position": [1905, 1935],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [2099, 2112],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "số lượng bạch cầu trong giới hạn bình thường",
+    "position": [2122, 2166],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cổ chân thẳng nghiêng",
+    "position": [2176, 2205],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không phát hiện hình ảnh gãy xương",
+    "position": [2206, 2240],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chụp cộng hưởng từ (MRI) khớp cổ chân và bàn chân",
+    "position": [2336, 2385],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rách bán phần gân Achilles và viêm bao hoạt dịch",
+    "position": [2487, 2535],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tổn thương dây thần kinh khác tại tầm cổ tay và bàn tay",
+    "position": [2355, 2410],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S64.8"]
+  },
+  {
+    "text": "đau nhức vùng cổ tay phải",
+    "position": [192, 217],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì các ngón tay",
+    "position": [228, 246],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1811, 1824],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hemoglobin 140 g/l",
+    "position": [1856, 1874],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp X-quang",
+    "position": [2072, 2084],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [2602, 2620],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2698, 2711],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Pyridoxine",
+    "position": [2768, 2778],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["684879"]
+  }
+]

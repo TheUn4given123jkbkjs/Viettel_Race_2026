@@ -1,0 +1,51 @@
+[
+  {
+    "text": "mệt mỏi toàn thân",
+    "position": [463, 480],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn",
+    "position": [482, 489],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức hạ sườn phải",
+    "position": [654, 674],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [561, 569],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "AST (SGOT), ALT (SGPT), Bilirubin toàn phần",
+    "position": [1676, 1719],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST tăng cao 115 U/L, ALT tăng cao 142 U/L, Bilirubin toàn phần 18.5 umol/L",
+    "position": [1743, 1818],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả bất thường về thăm dò chức năng gan",
+    "position": [2009, 2052],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R94.5"]
+  }
+]

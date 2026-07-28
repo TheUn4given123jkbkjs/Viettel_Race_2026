@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Teo động mạch phổi",
+    "position": [1561, 1579],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q22.0", "Q25.5"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [253, 266],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Digoxin",
+    "position": [1886, 1893],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [1953, 1963],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "khó thở",
+    "position": [69, 76],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tím tái môi",
+    "position": [641, 652],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1190, 1203],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin đạt 165 g/L",
+    "position": [1220, 1242],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1449, 1460],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp xoang nhanh",
+    "position": [1476, 1492],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

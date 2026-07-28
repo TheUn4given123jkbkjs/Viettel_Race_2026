@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Artesunate / Mefloquine",
+    "position": [211, 234],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1429947"]
+  },
+  {
+    "text": "sốt",
+    "position": [118, 121],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [1028, 1039],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "aspirin",
+    "position": [1058, 1065],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "công thức máu",
+    "position": [501, 514],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [516, 524],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [526, 533],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [538, 541],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng huyết",
+    "position": [622, 639],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.86",
+      "I89",
+      "I89.8"
+    ]
+  },
+  {
+    "text": "sốc nhiễm khuẩn",
+    "position": [955, 970],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R57.2"]
+  }
+]

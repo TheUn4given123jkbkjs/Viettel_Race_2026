@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Ngã liên quan đến đồ đạc khác",
+    "position": [2783, 2812],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["W08"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2888, 2901],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Celecoxib",
+    "position": [2977, 2986],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1170, 1179],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1190, 1198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2166, 2179],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu cầu 250 G/L",
+    "position": [2312, 2328],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Lái xe bị thương khi va chạm với xe có động cơ khác không rõ đặc điểm không phải trong tai nạn giao thông",
+    "position": [2087, 2192],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "V59.0",
+      "V69.0",
+      "V19.0"
+    ]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2239, 2252],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2314, 2325],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2376, 2386],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [818, 852],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [868, 881],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1572, 1580],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 G/L",
+    "position": [1581, 1589],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin T",
+    "position": [1753, 1763],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1383, 1390],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

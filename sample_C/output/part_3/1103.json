@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Ngã liên quan trượt băng, ski, trượt bánh xe (patanh) hay trên thanh trượt",
+    "position": [400, 474],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["W02"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1418, 1426],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [1434, 1437],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1445, 1452],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1859, 1872],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "số lượng bạch cầu tăng nhẹ",
+    "position": [1882, 1908],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp X-quang",
+    "position": [1987, 1999],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hình ảnh đường gãy xương chéo vát",
+    "position": [2017, 2050],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

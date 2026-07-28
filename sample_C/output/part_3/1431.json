@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Levothyroxine",
+    "position": [305, 318],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10582"]
+  },
+  {
+    "text": "hypothyroid",
+    "position": [447, 458],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tuyến giáp",
+    "position": [268, 283],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E35.0*",
+      "E01",
+      "E01.8"
+    ]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [1953, 1964],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [1441, 1448],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1503, 1506],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

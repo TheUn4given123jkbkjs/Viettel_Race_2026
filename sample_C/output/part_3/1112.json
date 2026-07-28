@@ -1,0 +1,65 @@
+[
+  {
+    "text": "tiểu nhiều lần",
+    "position": [705, 719],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose niệu",
+    "position": [2577, 2589],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R81"]
+  },
+  {
+    "text": "Metformin",
+    "position": [212, 221],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Gliclazide",
+    "position": [2817, 2827],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4816"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [2884, 2891],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Glucose",
+    "position": [2128, 2135],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "245 mg/dL",
+    "position": [2137, 2146],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [2149, 2154],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.7%",
+    "position": [2156, 2160],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

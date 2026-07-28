@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Cạn kiệt",
+    "position": [1666, 1674],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z73.0"]
+  },
+  {
+    "text": "Amitriptyline",
+    "position": [1755, 1768],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["704"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [1870, 1880],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "Magnesium sulfate",
+    "position": [1923, 1940],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6585"]
+  },
+  {
+    "text": "mệt mỏi cực độ",
+    "position": [184, 198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T",
+    "position": [1625, 1635],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1645, 1652],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [1294, 1304],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 g/dL",
+    "position": [1305, 1314],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [170, 189],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi toàn thân",
+    "position": [406, 423],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kháng gonadotrophin, kháng estrogen, kháng androgen không được xếp loại ở nơi khác",
+    "position": [2089, 2171],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y42.6"]
+  },
+  {
+    "text": "Spironolactone",
+    "position": [2207, 2221],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [2273, 2285],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Metformin",
+    "position": [2343, 2352],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1707, 1720],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hồng cầu 4.5 T/L",
+    "position": [1739, 1755],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Typhoid Vaccine",
+    "position": [284, 299],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10953"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [805, 822],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [839, 852],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [1971, 1979],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1609, 1616],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [2370, 2381],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "aspirin",
+    "position": [2422, 2429],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "amlodipine",
+    "position": [193, 203],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  }
+]

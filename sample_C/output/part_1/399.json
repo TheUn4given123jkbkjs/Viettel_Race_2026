@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Thủy đậu",
+    "position": [54, 62],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L70.2",
+      "B01",
+      "B01.0†"
+    ]
+  },
+  {
+    "text": "Acyclovir",
+    "position": [500, 509],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["281"]
+  },
+  {
+    "text": "sốt 38.5 độ C",
+    "position": [853, 866],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nốt phỏng nước toàn thân",
+    "position": [929, 953],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tên xét nghiệm Bạch cầu tổng số",
+    "position": [1460, 1491],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 G/L",
+    "position": [1504, 1511],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [1888, 1899],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

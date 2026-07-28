@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Zidovudine",
+    "position": [568, 578],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "214671",
+      "687428",
+      "11413"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [663, 683],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [734, 747],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Hồng cầu",
+    "position": [1736, 1744],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3.8 T/l",
+    "position": [1756, 1763],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1782, 1790],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 G/l",
+    "position": [1802, 1810],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Levofloxacin",
+    "position": [2281, 2293],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["82122"]
+  }
+]

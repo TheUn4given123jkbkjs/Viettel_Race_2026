@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Người cưỡi súc vật hay người trên xe bị thương do va chạm với xe mô tô 2 hay 3 bánh",
+    "position": [834, 917],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V80.3"]
+  },
+  {
+    "text": "đau dữ dội vùng ngực phải",
+    "position": [298, 323],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [325, 332],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1496, 1509],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 11.5 G/L",
+    "position": [1511, 1528],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1671, 1689],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Diclofenac",
+    "position": [2012, 2022],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "ECG",
+    "position": [1781, 1784],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

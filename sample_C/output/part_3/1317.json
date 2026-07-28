@@ -1,0 +1,65 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [52, 69],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đã mổ ruột thừa cách đây 2 năm",
+    "position": [92, 122],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau tức vùng âm ỉ thắt lưng",
+    "position": [284, 311],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu buốt, tiểu rắt",
+    "position": [330, 349],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1132, 1145],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 11.5 G/L",
+    "position": [1164, 1181],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thận móng ngựa, thận dính, thận phân thùy",
+    "position": [1900, 1941],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q63.1"]
+  },
+  {
+    "text": "Cefotaxime",
+    "position": [2056, 2066],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2186"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2135, 2146],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

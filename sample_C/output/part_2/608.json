@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Pentamidine",
+    "position": [246, 257],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7994"]
+  },
+  {
+    "text": "Viêm phổi kẽ mạn tính",
+    "position": [156, 177],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1309, 1317],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1325, 1332],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2388, 2401],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 G/L",
+    "position": [2413, 2421],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [2917, 2935],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thâm nhiễm phế nang lan tỏa hai bên trường phổi",
+    "position": [2983, 3030],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Levofloxacin",
+    "position": [3391, 3403],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["82122"]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [3492, 3510],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  }
+]

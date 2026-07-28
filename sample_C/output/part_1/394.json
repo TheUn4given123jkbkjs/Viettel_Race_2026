@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Cisplatin",
+    "position": [167, 176],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "bệnh thận cấp tính",
+    "position": [93, 111],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "ung thư phổi",
+    "position": [195, 207],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D02.2"]
+  },
+  {
+    "text": "công thức máu",
+    "position": [807, 820],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [822, 830],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [832, 839],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

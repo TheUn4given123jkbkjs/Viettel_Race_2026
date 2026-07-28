@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Sốt rét",
+    "position": [0, 7],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Z86.13",
+      "T37.2",
+      "Y41.2"
+    ]
+  },
+  {
+    "text": "Artemether / Lumefantrine",
+    "position": [1066, 1091],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["282448"]
+  },
+  {
+    "text": "rét run",
+    "position": [1155, 1162],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [1164, 1171],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1185, 1192],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1698, 1711],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ký sinh trùng sốt rét dương tính",
+    "position": [1767, 1799],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

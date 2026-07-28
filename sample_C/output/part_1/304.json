@@ -1,0 +1,62 @@
+[
+  {
+    "text": "dị ứng với chất ma túy, thuốc các chất sinh học không đặc hiệu khác",
+    "position": [102, 169],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Z88.9"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [287, 300],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1752, 1762],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [1814, 1826],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "đi ngoài phân đen",
+    "position": [651, 668],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [1302, 1312],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 g/L",
+    "position": [1313, 1319],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau thượng vị",
+    "position": [522, 535],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

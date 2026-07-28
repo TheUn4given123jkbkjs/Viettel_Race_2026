@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Factor VIII",
+    "position": [294, 305],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4257"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [208, 215],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu năng lượng",
+    "position": [217, 233],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dễ bị kích động",
+    "position": [237, 252],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [913, 922],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [924, 937],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1427, 1434],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

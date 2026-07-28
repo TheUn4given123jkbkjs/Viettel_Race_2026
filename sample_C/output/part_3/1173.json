@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tổn thương nông của bụng, lưng dưới và chậu hông, phần không xác định",
+    "position": [2115, 2184],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S30.9"]
+  },
+  {
+    "text": "tiền sử tăng huyết áp 7 năm",
+    "position": [285, 312],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [332, 342],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2204, 2217],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2265, 2274],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1013, 1030],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1677, 1690],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu: 11.500/μL (tăng nhẹ)",
+    "position": [1746, 1776],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP: 15 mg/L (tăng)",
+    "position": [1908, 1927],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Nghề nghiệp tiếp xúc với không khí lây nhiễm khác",
+    "position": [215, 264],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z57.3"]
+  },
+  {
+    "text": "ho khan",
+    "position": [1170, 1177],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1260, 1268],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1276, 1283],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [1603, 1623],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [1639, 1652],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [2091, 2099],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 x 10^3/uL",
+    "position": [2105, 2119],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Azithromycin",
+    "position": [2614, 2626],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [2688, 2702],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  }
+]

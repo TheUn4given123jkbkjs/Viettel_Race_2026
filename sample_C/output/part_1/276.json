@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Thiếu đoạn khác của nhiễm sắc thể",
+    "position": [1259, 1292],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q93",
+      "Q93.5",
+      "Q93.8"
+    ]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [152, 169],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Diazepam",
+    "position": [1782, 1790],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [1850, 1860],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "Calcium gluconate",
+    "position": [1919, 1936],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1908"]
+  },
+  {
+    "text": "cơn co gật",
+    "position": [2038, 2048],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồng cầu",
+    "position": [1356, 1364],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3.5 T/L",
+    "position": [1365, 1372],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1511, 1522],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp xoang đều",
+    "position": [1538, 1552],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Vết thương thận, không có vết thương hở vào ổ bụng",
+    "position": [129, 179],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S37.00"]
+  },
+  {
+    "text": "tiểu ra máu đại thể",
+    "position": [1368, 1387],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức vùng thắt lưng",
+    "position": [1237, 1259],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp giảm",
+    "position": [1553, 1566],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồng cầu và hemoglobin giảm",
+    "position": [1887, 1914],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2797, 2810],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Tranexamic acid",
+    "position": [2826, 2841],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10691"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2862, 2873],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

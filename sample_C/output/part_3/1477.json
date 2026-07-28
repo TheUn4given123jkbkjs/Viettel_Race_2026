@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [460, 473],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Ofloxacin",
+    "position": [551, 560],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7623"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [704, 724],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [460, 473],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [2073, 2081],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 G/L",
+    "position": [2082, 2090],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose",
+    "position": [2181, 2188],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.2 mmol/L",
+    "position": [2189, 2199],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Augmentin 1g",
+    "position": [2611, 2623],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ofloxacin 400mg",
+    "position": [2823, 2838],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

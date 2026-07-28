@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Tổn thương nông của bụng, lưng dưới và chậu hông",
+    "position": [3090, 3138],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S30",
+      "S30.8",
+      "S30.9"
+    ]
+  },
+  {
+    "text": "đau và xây xát vùng lưng dưới",
+    "position": [539, 568],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bầm tím lan tỏa vùng thắt lưng và hông bên phải",
+    "position": [1016, 1063],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [2436, 2450],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 G/L",
+    "position": [2452, 2459],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin (HGB)",
+    "position": [2565, 2581],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "145 g/L",
+    "position": [2583, 2590],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [3276, 3289],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Povidone-iodine",
+    "position": [3418, 3433],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8611"]
+  }
+]

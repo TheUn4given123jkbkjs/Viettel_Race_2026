@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Không có thận một bên",
+    "position": [1981, 2002],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q60.0"]
+  },
+  {
+    "text": "đau âm ỉ vùng thắt lưng trái",
+    "position": [462, 490],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [1633, 1643],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "110 µmol/L",
+    "position": [1644, 1654],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lisinopril",
+    "position": [2052, 2062],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [2144, 2154],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [2188, 2198],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Siêu âm hệ tiết niệu",
+    "position": [1854, 1874],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

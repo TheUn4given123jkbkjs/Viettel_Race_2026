@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Ăn mòn tại phần trong của đường sinh dục, tiết niệu",
+    "position": [1305, 1356],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T28.8"]
+  },
+  {
+    "text": "Mẹ đẻ của bệnh nhân có tiền sử Tăng huyết áp",
+    "position": [398, 442],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [1751, 1764],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [1880, 1893],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [535, 544],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1378, 1391],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 10,2 G/L",
+    "position": [1393, 1410],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích nước tiểu",
+    "position": [1471, 1495],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nitrit dương tính",
+    "position": [1518, 1535],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

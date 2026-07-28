@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Sulfadoxine / Pyrimethamine",
+    "position": [314, 341],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["203218"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [188, 201],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [981, 989],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [294, 297],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [1669, 1672],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "145 U/L",
+    "position": [1673, 1680],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [1726, 1736],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "150 µmol/L",
+    "position": [1737, 1747],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

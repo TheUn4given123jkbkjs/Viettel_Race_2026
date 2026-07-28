@@ -1,0 +1,73 @@
+[
+  {
+    "text": "Tropicamide",
+    "position": [48, 59],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10869"]
+  },
+  {
+    "text": "viêm khớp dạng thấp",
+    "position": [274, 293],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh vẩy nến",
+    "position": [297, 309],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng",
+    "position": [674, 685],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.86",
+      "E76.29",
+      "J95.02"
+    ]
+  },
+  {
+    "text": "viêm",
+    "position": [274, 278],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.13",
+      "A52.14",
+      "A52.15"
+    ]
+  },
+  {
+    "text": "công thức máu",
+    "position": [578, 591],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [593, 601],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [603, 610],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [614, 617],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

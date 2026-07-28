@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Dẫn xuất acid propionic",
+    "position": [1619, 1642],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y45.2"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [236, 249],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "nôn ói",
+    "position": [105, 111],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "li bì",
+    "position": [98, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sodium bicarbonate",
+    "position": [1910, 1928],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36676"]
+  },
+  {
+    "text": "L-Carnitine",
+    "position": [1713, 1724],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "pH máu",
+    "position": [857, 863],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.15",
+    "position": [864, 868],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ammoniac",
+    "position": [1314, 1322],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "180 µmol/L",
+    "position": [1323, 1333],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

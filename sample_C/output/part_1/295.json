@@ -1,0 +1,37 @@
+[
+  {
+    "text": "khó thở",
+    "position": [79, 86],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bất thường không xác định và bất thường khác về nhịp thở",
+    "position": [926, 982],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R06.8"]
+  },
+  {
+    "text": "bình thường",
+    "position": [685, 696],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng đường huyết",
+    "position": [788, 804],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bất thường về nhịp thở",
+    "position": [816, 838],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

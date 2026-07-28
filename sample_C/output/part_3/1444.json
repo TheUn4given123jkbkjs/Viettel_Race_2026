@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Oseltamivir",
+    "position": [1226, 1237],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["260101"]
+  },
+  {
+    "text": "công thức máu",
+    "position": [854, 867],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [869, 877],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [879, 886],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [888, 891],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồng cầu 4,5 triệu tế bào/mm3",
+    "position": [1880, 1909],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu 7.000 tế bào/mm3",
+    "position": [1911, 1936],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu cầu 250.000 tế bào/mm3",
+    "position": [1938, 1965],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

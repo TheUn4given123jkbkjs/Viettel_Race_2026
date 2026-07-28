@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Sai khớp ngón chân",
+    "position": [1866, 1884],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S93.1"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1913, 1923],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2004, 2017],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Lidocaine",
+    "position": [2079, 2088],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6387", "107602"]
+  },
+  {
+    "text": "sưng nề",
+    "position": [819, 826],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau chói",
+    "position": [1325, 1333],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang bàn chân trái",
+    "position": [1677, 1698],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sai khớp bàn ngón I",
+    "position": [1726, 1745],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [145, 158],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [169, 183],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
+  }
+]

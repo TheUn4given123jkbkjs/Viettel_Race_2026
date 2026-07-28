@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Diltiazem",
+    "position": [646, 655],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3443"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [207, 220],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [928, 941],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [996, 1003],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1888, 1901],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1903, 1919],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipin 5mg",
+    "position": [2235, 2248],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atorvastatin 20mg",
+    "position": [2358, 2375],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

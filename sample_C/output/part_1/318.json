@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Lưỡi to",
+    "position": [720, 727],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q38.2"]
+  },
+  {
+    "text": "đái tháo đường typ 2",
+    "position": [409, 429],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1646, 1658],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Metformin",
+    "position": [1730, 1739],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Chlorhexidine",
+    "position": [1809, 1822],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2358"]
+  },
+  {
+    "text": "Glucose máu",
+    "position": [1326, 1337],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.2 mmol/L",
+    "position": [1338, 1348],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [1350, 1355],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.1%",
+    "position": [1356, 1360],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

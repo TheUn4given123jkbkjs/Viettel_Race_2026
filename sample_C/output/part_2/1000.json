@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Hydrocortisone",
+    "position": [297, 311],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["5492", "27197"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1177, 1185],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [170, 183],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2279, 2292],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.5 G/L",
+    "position": [2320, 2327],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa máu",
+    "position": [2408, 2420],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2959, 2970],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [3098, 3108],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  }
+]

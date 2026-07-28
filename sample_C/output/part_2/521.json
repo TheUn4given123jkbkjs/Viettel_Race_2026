@@ -1,0 +1,72 @@
+[
+  {
+    "text": "đụng giập các phần khác cổ tay và bàn tay",
+    "position": [2703, 2744],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S60.2"]
+  },
+  {
+    "text": "không sốt",
+    "position": [679, 688],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không buồn nôn",
+    "position": [690, 704],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [706, 719],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [2131, 2144],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu là 8.5 G/L",
+    "position": [2161, 2180],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang quy ước khớp cổ tay và bàn tay phải thẳng nghiêng",
+    "position": [2383, 2440],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không có hình ảnh gãy xương hay trật khớp",
+    "position": [2450, 2491],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "điện tâm đồ",
+    "position": [2537, 2548],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp xoang đều, tần số 75 lần/phút",
+    "position": [2564, 2598],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

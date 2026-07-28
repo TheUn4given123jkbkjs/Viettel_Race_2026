@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Ngộ độc Thuốc trợ đẻ",
+    "position": [1479, 1499],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T48.0"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [554, 562],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [581, 588],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1073, 1081],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [1088, 1096],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atropine",
+    "position": [1543, 1551],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1223"]
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [1619, 1637],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  },
+  {
+    "text": "Magnesium sulfate",
+    "position": [1699, 1716],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6585"]
+  }
+]

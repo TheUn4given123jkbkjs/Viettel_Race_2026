@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Ba nhiễm sắc thể và một phần ba nhiễm sắc thể của nhiễm sắc thể thường, không đặc hiệu",
+    "position": [1896, 1982],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q92.9"]
+  },
+  {
+    "text": "yếu cơ",
+    "position": [590, 596],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [833, 841],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm di truyền",
+    "position": [1838, 1858],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1496, 1509],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu 7.2 G/L",
+    "position": [1528, 1544],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [843, 852],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1766, 1769],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

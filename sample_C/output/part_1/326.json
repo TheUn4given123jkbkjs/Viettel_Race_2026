@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Đa tổn thương ở háng và đùi",
+    "position": [1821, 1848],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S79.7"]
+  },
+  {
+    "text": "đau nhức vùng háng và đùi",
+    "position": [146, 171],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [291, 311],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [327, 340],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "MRI khớp háng và đùi",
+    "position": [1588, 1608],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh phù nề cơ thắt lưng chậu",
+    "position": [1610, 1643],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang khớp háng",
+    "position": [1495, 1512],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hẹp khe khớp nhẹ",
+    "position": [1523, 1539],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Amlodipine",
+    "position": [523, 533],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [452, 464],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tai biến mạch máu",
+    "position": [599, 616],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I64", "Z82.3"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [168, 175],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức ngực trái",
+    "position": [349, 366],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp độ 1",
+    "position": [3091, 3109],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [2396, 2406],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "142 g/L",
+    "position": [2411, 2418],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

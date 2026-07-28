@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bàng quang lộn ra ngoài",
+    "position": [2068, 2091],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q64.19", "Q64.12"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2127, 2138],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2195, 2208],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Gentamicin",
+    "position": [2281, 2291],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1596450"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [858, 866],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "thoát vị bẹn trái",
+    "position": [271, 288],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K40.6"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1479, 1492],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 12.5 G/L",
+    "position": [1494, 1511],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

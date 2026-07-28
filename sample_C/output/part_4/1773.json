@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Vết thương buồng trứng, không có vết thương hở vào ổ bụng",
+    "position": [1146, 1203],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S37.40"]
+  },
+  {
+    "text": "đau âm ỉ vùng hạ vị",
+    "position": [232, 251],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu tăng nhẹ",
+    "position": [787, 804],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cefuroxime",
+    "position": [2037, 2047],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2194"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2150, 2159],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Tranexamic acid",
+    "position": [2317, 2332],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10691"]
+  },
+  {
+    "text": "không thấy dịch tự do trong ổ bụng",
+    "position": [976, 1010],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

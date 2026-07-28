@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Omeprazole",
+    "position": [424, 434],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "đau âm ỉ vùng thượng vị",
+    "position": [167, 190],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm loét dạ dày tá tràng",
+    "position": [351, 376],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [1639, 1649],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "105 g/L",
+    "position": [1650, 1657],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [2056, 2068],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư dạ dày",
+    "position": [499, 513],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D00"]
+  },
+  {
+    "text": "đi ngoài phân có màu sẫm đen",
+    "position": [609, 637],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

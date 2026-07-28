@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Chảy máu chưa được phân loại ở nơi khác",
+    "position": [1497, 1536],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R58"]
+  },
+  {
+    "text": "THA 5 năm",
+    "position": [90, 99],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [167, 187],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tiểu cầu",
+    "position": [1292, 1300],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 G/L",
+    "position": [1301, 1307],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết sắc tố",
+    "position": [1259, 1271],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "110 g/L",
+    "position": [1272, 1279],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tranexamic acid",
+    "position": [1564, 1579],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10691"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [1626, 1636],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  }
+]

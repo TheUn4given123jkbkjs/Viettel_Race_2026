@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Vết thương mạch máu không xác định tại vai và cánh tay trên",
+    "position": [2061, 2120],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S45.9"]
+  },
+  {
+    "text": "Bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [172, 206],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [925, 936],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Tranexamic acid",
+    "position": [970, 985],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10691"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1139, 1147],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 G/L",
+    "position": [1148, 1156],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức dữ dội",
+    "position": [401, 416],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [315, 335],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [383, 396],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "lú lẫn nhẹ",
+    "position": [506, 516],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [537, 546],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vã mồ hôi lạnh",
+    "position": [558, 572],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [1878, 1892],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 x 10^3/uL",
+    "position": [1893, 1907],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ngộ độc Thuốc tâm thần khác, không xếp loại phần nào",
+    "position": [2594, 2646],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T43.8"]
+  }
+]

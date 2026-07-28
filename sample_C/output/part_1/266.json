@@ -1,0 +1,58 @@
+[
+  {
+    "text": "yếu cơ",
+    "position": [440, 446],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đa niệu",
+    "position": [523, 530],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kali máu",
+    "position": [1535, 1543],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.8 mmol/L",
+    "position": [1544, 1554],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nồng độ Aldosteron huyết tương",
+    "position": [1662, 1692],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "35 ng/dL",
+    "position": [1693, 1701],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc đối kháng corticod chuyển hóa muối nước (đối kháng aldosteron)",
+    "position": [2036, 2104],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y54.1"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [243, 256],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

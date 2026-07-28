@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Khám theo dõi sau điều trị u ác tính",
+    "position": [101, 137],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Z08",
+      "Z08.1",
+      "Z08.7"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [450, 458],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "CEA",
+    "position": [1631, 1634],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.1 ng/mL",
+    "position": [1664, 1673],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Folic acid",
+    "position": [2179, 2189],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2259, 2269],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [466, 473],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "ung thư dạ dày",
+    "position": [820, 834],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D00"]
+  }
+]

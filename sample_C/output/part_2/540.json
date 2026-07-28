@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [270, 283],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Docusate sodium",
+    "position": [369, 384],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["71722"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [612, 632],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I",
+    "position": [2397, 2407],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.5 ng/mL",
+    "position": [2423, 2432],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [2926, 2933],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [2994, 3005],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [3070, 3082],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  }
+]

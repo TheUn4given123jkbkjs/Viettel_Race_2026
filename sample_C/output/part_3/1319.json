@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Các phát hiện bất thường về dịch não tủy",
+    "position": [1661, 1701],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R83"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [410, 417],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1729, 1740],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1798, 1811],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Mannitol",
+    "position": [1869, 1877],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6628"]
+  },
+  {
+    "text": "Dịch não tủy",
+    "position": [1505, 1517],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Áp lực mở 25 cmH2O",
+    "position": [1519, 1537],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 500 tế bào/mm3",
+    "position": [1545, 1568],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Protein 1.2 g/L",
+    "position": [1590, 1605],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose 2.0 mmol/L",
+    "position": [1614, 1632],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

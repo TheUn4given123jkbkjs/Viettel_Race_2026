@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Vết thương ruột non, có vết thương hở vào ổ bụng",
+    "position": [2549, 2597],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S36.40", "S36.41"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2611, 2622],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [2654, 2667],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [722, 733],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1287, 1304],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [854, 863],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử viêm dạ dày mãn tính 8 năm",
+    "position": [139, 173],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2091, 2104],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 18.500/μL",
+    "position": [2106, 2119],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang bụng",
+    "position": [2305, 2317],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Di chứng của nguyên nhân bên ngoài không xác định chính xác",
+    "position": [2573, 2632],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y89.9"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2742, 2755],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ascorbic acid",
+    "position": [2812, 2825],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1151"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2912, 2922],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "chóng mặt",
+    "position": [721, 730],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức vùng cơ xương khớp",
+    "position": [664, 691],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiểu cầu",
+    "position": [2157, 2165],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "95 x 10^3/uL",
+    "position": [2172, 2184],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

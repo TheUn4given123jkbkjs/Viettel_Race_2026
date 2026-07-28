@@ -1,0 +1,83 @@
+[
+  {
+    "text": "Nhiễm độc Nọc độc rắn",
+    "position": [2513, 2534],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T63.0"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [1021, 1034],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [1079, 1099],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [743, 751],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [780, 783],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [791, 798],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Antivenom",
+    "position": [3007, 3016],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2101271"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [3485, 3498],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [3552, 3581],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1224, 1237],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC) tăng cao đạt 15.5 x10^9/L",
+    "position": [1254, 1294],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

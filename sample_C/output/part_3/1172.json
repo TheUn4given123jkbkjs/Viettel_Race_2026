@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Người trên xe mô tô 3 bánh bị thương khi va chạm với mô tô 2 hay 3 bánh",
+    "position": [663, 734],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V32", "V72"]
+  },
+  {
+    "text": "đau ngực",
+    "position": [988, 996],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [998, 1005],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt 38.5°C",
+    "position": [1383, 1393],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2497, 2508],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1142, 1155],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [1303, 1315],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gãy xương sườn số 5,6 bên phải",
+    "position": [2276, 2306],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

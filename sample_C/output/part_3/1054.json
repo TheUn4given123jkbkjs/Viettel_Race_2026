@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Người thân sống lệ thuộc vào chăm sóc tại nhà",
+    "position": [9, 54],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z63.6"]
+  },
+  {
+    "text": "tiền sử THA 10 năm",
+    "position": [911, 929],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Folic acid",
+    "position": [1709, 1719],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "Calcium gluconate",
+    "position": [1751, 1768],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1908"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1802, 1812],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1370, 1383],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 110 g/L",
+    "position": [1403, 1421],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lú lẫn nhẹ",
+    "position": [737, 747],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "teo cơ",
+    "position": [840, 846],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "text": "tiền sử cá nhân có bệnh bạch cầu",
+    "position": [165, 197],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Z85.6"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [295, 308],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [944, 952],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [709, 716],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1936, 1949],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tổng số 3.5 G/L",
+    "position": [1971, 1995],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2571, 2584],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [2667, 2696],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2773, 2783],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  }
+]

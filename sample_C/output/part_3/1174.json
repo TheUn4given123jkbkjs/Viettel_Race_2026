@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Pneumococcal Vaccine",
+    "position": [283, 303],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["106467"]
+  },
+  {
+    "text": "đau ngực kiểu ép nặng",
+    "position": [711, 732],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở nhẹ",
+    "position": [945, 956],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận sốt",
+    "position": [1231, 1243],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I",
+    "position": [2059, 2069],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.5 ng/mL",
+    "position": [2071, 2080],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng vành cấp ST chênh lên",
+    "position": [2303, 2334],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [2400, 2407],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2806, 2817],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

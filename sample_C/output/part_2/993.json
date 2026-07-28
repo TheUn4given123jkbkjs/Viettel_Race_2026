@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương cơ gấp khác và gân ở tầm cẳng tay",
+    "position": [90, 134],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S56.2"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [907, 915],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1922, 1931],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1981, 1991],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2030, 2040],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "X-quang cẳng tay",
+    "position": [1627, 1643],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không thấy hình ảnh gãy xương",
+    "position": [1645, 1674],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề vùng cẳng tay",
+    "position": [865, 886],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

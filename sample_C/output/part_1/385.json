@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Chứng hôi miệng",
+    "position": [2880, 2895],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R19.6"]
+  },
+  {
+    "text": "hôi miệng",
+    "position": [874, 883],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đắng miệng",
+    "position": [980, 990],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khô miệng",
+    "position": [992, 1001],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy máu chân răng",
+    "position": [1252, 1270],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2485, 2498],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.8 g/L",
+    "position": [2547, 2563],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Metronidazole",
+    "position": [2965, 2978],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [3030, 3059],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Chlorhexidine",
+    "position": [3113, 3126],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2358"]
+  }
+]

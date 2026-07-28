@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bong gân và căng cơ của các phần không xác định và khác của ngực",
+    "position": [110, 174],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S23.5"]
+  },
+  {
+    "text": "đau nhói vùng ngực",
+    "position": [949, 967],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở nhẹ",
+    "position": [1109, 1120],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1499, 1508],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1876, 1889],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "số lượng bạch cầu 8.5 x 10^3/uL",
+    "position": [1899, 1930],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang lồng ngực",
+    "position": [2192, 2209],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khong có tổn thương xương sườn hay tràn dịch màng phổi",
+    "position": [2225, 2279],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

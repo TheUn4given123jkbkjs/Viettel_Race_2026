@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Vấn đề liên quan đến khó khăn về quản trị cuộc sống, không xác định",
+    "position": [1514, 1581],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z73.9"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [671, 679],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [700, 703],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Fluoxetine",
+    "position": [1735, 1745],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4493"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [1821, 1829],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "công thức máu",
+    "position": [1102, 1115],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.2 G/L",
+    "position": [1117, 1133],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1317, 1328],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp xoang đều",
+    "position": [1344, 1358],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Pyridoxine",
+    "position": [1935, 1945],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["684879"]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tổn thương các mạch máu của đầu, không xếp hạng nơi khác",
+    "position": [1611, 1667],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S09.0"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [543, 550],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu nhẹ nửa người",
+    "position": [787, 804],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [192, 202],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [1742, 1749],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1237, 1250],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 9.5 G/L",
+    "position": [1252, 1268],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I",
+    "position": [1366, 1376],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1378, 1385],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

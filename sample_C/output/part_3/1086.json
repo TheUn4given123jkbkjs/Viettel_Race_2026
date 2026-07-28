@@ -1,0 +1,62 @@
+[
+  {
+    "text": "đái tháo đường týp 2",
+    "position": [56, 76],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [248, 261],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [668, 676],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Kháng đa thuốc kháng vi sinh vật",
+    "position": [2135, 2167],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["U84.7"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1658, 1666],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18.5 x 10^3/uL",
+    "position": [1667, 1681],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vancomycin",
+    "position": [2257, 2267],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11124"]
+  },
+  {
+    "text": "Imipenem / Cilastatin",
+    "position": [2316, 2337],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["34482"]
+  }
+]

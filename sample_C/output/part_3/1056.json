@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Các hội chứng dị tật bẩm sinh do những nguyên nhân bên ngoài đã biết, chưa được phân loại",
+    "position": [2656, 2745],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q86"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2807, 2820],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Albuterol",
+    "position": [2872, 2881],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Ascorbic acid",
+    "position": [2936, 2949],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1151"]
+  },
+  {
+    "text": "mệt mỏi toàn thân",
+    "position": [709, 726],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tức ngực nhẹ",
+    "position": [867, 879],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [881, 888],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2110, 2123],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 9.5 x 10^9/L",
+    "position": [2142, 2163],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 110 g/L",
+    "position": [2231, 2249],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

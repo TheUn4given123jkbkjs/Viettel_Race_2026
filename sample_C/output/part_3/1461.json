@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Ăn mòn tổn thương 70-79% bề mặt cơ thể",
+    "position": [56, 94],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T32.7"]
+  },
+  {
+    "text": "sốt cao",
+    "position": [739, 746],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đớn dữ dội toàn thân",
+    "position": [766, 790],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu",
+    "position": [1307, 1315],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18.5 x 10^9/L",
+    "position": [1334, 1347],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinin máu",
+    "position": [1436, 1449],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "180 umol/L",
+    "position": [1450, 1460],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Albumin",
+    "position": [2326, 2333],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["433"]
+  },
+  {
+    "text": "Vancomycin",
+    "position": [2447, 2457],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11124"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2621, 2634],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

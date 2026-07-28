@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Các Vaccin và sinh chất đặc biệt khác",
+    "position": [1548, 1585],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y59.8"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [851, 859],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sưng hạch bạch huyết",
+    "position": [794, 814],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1202, 1215],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 11.5 G/L",
+    "position": [1217, 1234],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP 12 mg/L",
+    "position": [1302, 1313],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1462, 1473],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

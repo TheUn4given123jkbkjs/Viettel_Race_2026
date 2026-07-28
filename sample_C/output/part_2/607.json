@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Mebendazole",
+    "position": [216, 227],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6672"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [320, 340],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [727, 735],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1138, 1151],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 7.5 G/L",
+    "position": [1153, 1164],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [1665, 1677],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

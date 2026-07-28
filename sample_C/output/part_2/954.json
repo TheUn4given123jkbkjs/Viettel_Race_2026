@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Thận lạc chỗ",
+    "position": [3117, 3129],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q63.2"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [3228, 3241],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [3367, 3380],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [3466, 3476],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1030, 1047],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2233, 2246],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa máu",
+    "position": [2370, 2382],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine 92 umol/L",
+    "position": [2401, 2421],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

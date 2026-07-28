@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Acetaminophen",
+    "position": [2569, 2582],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2668, 2677],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "đau nhức dữ dội và mất hoàn toàn khả năng vận động vùng gót chân trái",
+    "position": [71, 140],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề lan rộng",
+    "position": [374, 390],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [1702, 1716],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 x 10^9/L",
+    "position": [1717, 1730],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

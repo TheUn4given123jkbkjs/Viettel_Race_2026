@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Can thiệp hợp pháp liên quan đến đạn súng tay",
+    "position": [2326, 2371],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y35.0"]
+  },
+  {
+    "text": "đau nhức dữ dội vùng đùi phải",
+    "position": [567, 596],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rỉ máu liên tục",
+    "position": [622, 637],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "choáng váng",
+    "position": [660, 671],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp tụt 90/60 mmHg",
+    "position": [1046, 1069],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu (CBC)",
+    "position": [1652, 1671],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 95 g/L",
+    "position": [1714, 1731],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang đùi phải thẳng nghiêng",
+    "position": [1906, 1936],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cefotaxime",
+    "position": [2602, 2612],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2186"]
+  },
+  {
+    "text": "Morphine",
+    "position": [2719, 2727],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7052"]
+  }
+]

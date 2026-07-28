@@ -1,0 +1,73 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [644, 657],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Kháng sinh toàn thân",
+    "position": [2514, 2534],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "T36",
+      "T36.7",
+      "T36.8"
+    ]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [2633, 2662],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Levofloxacin",
+    "position": [2735, 2747],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["82122"]
+  },
+  {
+    "text": "sốt cao",
+    "position": [295, 302],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [326, 333],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [402, 409],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [1664, 1678],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 x 10^9/L",
+    "position": [1701, 1714],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

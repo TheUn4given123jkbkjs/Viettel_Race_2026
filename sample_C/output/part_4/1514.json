@@ -1,0 +1,51 @@
+[
+  {
+    "text": "khó thở",
+    "position": [320, 327],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [503, 511],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiếng thổi tâm thu",
+    "position": [1049, 1067],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1897, 1908],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp xoang đều",
+    "position": [1924, 1938],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm tim",
+    "position": [2101, 2112],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các dị tật bẩm sinh của tim, không đặc hiệu",
+    "position": [2331, 2374],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q20.9", "Q24.9"]
+  }
+]

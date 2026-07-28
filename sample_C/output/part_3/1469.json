@@ -1,0 +1,72 @@
+[
+  {
+    "text": "vỡ chấn thương của đĩa liên đốt ngực",
+    "position": [2073, 2109],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S23.0"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [3065, 3074],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [3185, 3194],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [3325, 3333],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "không sốt",
+    "position": [1244, 1253],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [1255, 1268],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không buồn nôn",
+    "position": [1270, 1284],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Chụp X-quang cột sống ngực thẳng nghiêng",
+    "position": [1826, 1866],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cộng hưởng từ (MRI) cột sống ngực",
+    "position": [1975, 2013],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vỡ chấn thương của đĩa liên đốt ngực",
+    "position": [2073, 2109],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

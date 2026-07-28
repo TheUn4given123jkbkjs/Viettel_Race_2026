@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Mất khứu giác",
+    "position": [1825, 1838],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R43.0"]
+  },
+  {
+    "text": "mổ ruột thừa cách đây 5 năm",
+    "position": [456, 483],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Budesonide",
+    "position": [1998, 2008],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Loratadine",
+    "position": [2098, 2108],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["28889"]
+  },
+  {
+    "text": "X-quang xoang",
+    "position": [1682, 1695],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không có hình ảnh mờ xoang",
+    "position": [1697, 1723],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1565, 1578],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1580, 1596],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

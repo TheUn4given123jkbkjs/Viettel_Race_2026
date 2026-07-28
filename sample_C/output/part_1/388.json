@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Gẫy xương cẳng chân, phần chưa xác định, gãy kín",
+    "position": [96, 144],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S82.90"]
+  },
+  {
+    "text": "đau nhức dữ dội vùng cẳng chân trái",
+    "position": [952, 987],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [1022, 1029],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biến dạng trục chi",
+    "position": [1070, 1088],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu",
+    "position": [2034, 2042],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.5 G/L",
+    "position": [2046, 2053],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cẳng chân thẳng nghiêng",
+    "position": [2230, 2261],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2712, 2725],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2781, 2790],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2873, 2882],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  }
+]

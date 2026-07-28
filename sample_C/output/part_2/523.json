@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Thuốc hồi sức",
+    "position": [100, 113],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T50.7", "Y50.0"]
+  },
+  {
+    "text": "khó thở dữ dội",
+    "position": [649, 663],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tụt huyết áp nặng",
+    "position": [665, 682],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1018, 1027],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [1251, 1278],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [2114, 2128],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.5 K/uL",
+    "position": [2132, 2140],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Epinephrine",
+    "position": [2711, 2722],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3992", "107602"]
+  },
+  {
+    "text": "Dopamine",
+    "position": [2825, 2833],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3628"]
+  },
+  {
+    "text": "Atropine",
+    "position": [2934, 2942],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1223"]
+  }
+]

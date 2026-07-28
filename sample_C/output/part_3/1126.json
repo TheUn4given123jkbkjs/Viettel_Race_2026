@@ -1,0 +1,66 @@
+[
+  {
+    "text": "BCG Vaccine",
+    "position": [441, 452],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1344"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [649, 669],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [253, 266],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [253, 266],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "lao phổi cũ",
+    "position": [364, 375],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [2666, 2680],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 x 10^3/uL",
+    "position": [2681, 2695],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Levofloxacin 500mg",
+    "position": [3159, 3177],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

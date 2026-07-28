@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Tổn thương khí quản ngực",
+    "position": [2058, 2082],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S27.5",
+      "S27.50",
+      "S27.51"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [447, 454],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1729, 1747],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tràn khí trung thất nhẹ",
+    "position": [1791, 1814],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT Scan ngực",
+    "position": [1818, 1830],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rách niêm mạc khí quản",
+    "position": [1870, 1892],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận bệnh lý phổi tắc nghẽn mãn tính",
+    "position": [206, 246],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
+  }
+]

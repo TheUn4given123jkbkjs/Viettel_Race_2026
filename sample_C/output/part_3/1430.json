@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Sai khớp các phần không xác định và các phần khác của vòng ngực",
+    "position": [753, 816],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S43.3"]
+  },
+  {
+    "text": "đau ngực",
+    "position": [90, 98],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [100, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [107, 114],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [651, 663],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dấu hiệu của viêm phổi và tràn khí màng phổi",
+    "position": [676, 720],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

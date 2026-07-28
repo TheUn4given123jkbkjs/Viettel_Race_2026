@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Nam có cấu trúc nhiễm sắc thể giới tính bất thường",
+    "position": [1596, 1646],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q98.6"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [529, 537],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Testosterone",
+    "position": [1345, 1357],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10379"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [1764, 1774],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "Vitamin A / Vitamin D",
+    "position": [1823, 1844],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["97016"]
+  },
+  {
+    "text": "Phân tích nhiễm sắc thể đồ",
+    "position": [1530, 1556],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "47,XXY",
+    "position": [1575, 1581],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Testosterone toàn phần",
+    "position": [1345, 1367],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.2 nmol/L",
+    "position": [1368, 1378],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

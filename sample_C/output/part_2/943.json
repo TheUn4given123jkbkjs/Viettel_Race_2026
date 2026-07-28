@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đa gẫy xương, chưa xác định",
+    "position": [1268, 1295],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T02.9"]
+  },
+  {
+    "text": "đau nhức toàn thân",
+    "position": [76, 94],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh huyết áp cao",
+    "position": [301, 318],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tiểu đường loại 2",
+    "position": [359, 381],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [754, 767],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [973, 980],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "có nhiều vết gãy xương nhỏ",
+    "position": [1066, 1092],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

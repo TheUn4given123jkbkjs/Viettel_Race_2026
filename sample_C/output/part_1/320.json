@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Atropine",
+    "position": [1591, 1599],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1223"]
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [1674, 1692],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  },
+  {
+    "text": "Pralidoxime",
+    "position": [1741, 1752],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["34345"]
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [435, 444],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đồng tử co nhỏ",
+    "position": [479, 493],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1076, 1089],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 8.5 G/L",
+    "position": [1091, 1102],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1262, 1265],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhịp xoang chậm",
+    "position": [1267, 1282],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

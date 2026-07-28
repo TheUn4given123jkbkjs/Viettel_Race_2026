@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [698, 727],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "viêm phế quản phổi cấp",
+    "position": [2056, 2078],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Azithromycin",
+    "position": [2123, 2135],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2208, 2219],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetylcystein",
+    "position": [2293, 2306],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "Vitamin C",
+    "position": [2359, 2368],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1625, 1633],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.5 G/L",
+    "position": [1634, 1642],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

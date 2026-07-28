@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Nhiễm độc rượu nặng",
+    "position": [81, 100],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y91.2", "Y91.3"]
+  },
+  {
+    "text": "không sốt",
+    "position": [1312, 1321],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu",
+    "position": [1446, 1457],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.8 mmol/L",
+    "position": [1458, 1468],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose 30%",
+    "position": [1907, 1918],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thiamine",
+    "position": [2042, 2050],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10454"]
+  },
+  {
+    "text": "Natri bicarbonate",
+    "position": [2131, 2148],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

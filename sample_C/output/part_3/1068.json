@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Gẫy xương gót, gãy hở",
+    "position": [2160, 2181],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S92.01"]
+  },
+  {
+    "text": "đau nhức dữ dội vùng gót chân trái",
+    "position": [499, 533],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [815, 824],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [835, 843],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1659, 1672],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang xương gót",
+    "position": [1908, 1925],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đường gãy phức tạp qua thân xương gót trái",
+    "position": [1941, 1983],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

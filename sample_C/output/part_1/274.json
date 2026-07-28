@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Vật lạ do vô ý để lại trong khoang cơ thể hoặc vết mổ sau khi thủ thuật",
+    "position": [1668, 1739],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T81.5"]
+  },
+  {
+    "text": "THA",
+    "position": [112, 115],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [176, 196],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1858, 1869],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [1909, 1922],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1962, 1975],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1222, 1230],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 G/L",
+    "position": [1231, 1239],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1360, 1363],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 mg/L",
+    "position": [1364, 1371],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

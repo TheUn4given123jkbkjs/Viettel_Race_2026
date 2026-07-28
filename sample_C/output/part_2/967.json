@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tử cung đôi với cổ tử cung và âm đạo đôi không có tắt nghẽn, Tử cung đôi với cổ tử cung và âm đạo đôi NOS",
+    "position": [1189, 1294],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q51.10"]
+  },
+  {
+    "text": "đau bụng dưới",
+    "position": [74, 87],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy máu âm đạo",
+    "position": [91, 106],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [1014, 1021],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [989, 1002],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [586, 603],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

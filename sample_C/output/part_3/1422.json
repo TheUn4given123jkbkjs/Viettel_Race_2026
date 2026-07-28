@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Di chứng tổn thương khác đã xác định ở đầu",
+    "position": [902, 944],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T90.8"]
+  },
+  {
+    "text": "Bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [128, 162],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "nhức đầu dữ dội",
+    "position": [447, 462],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1556, 1569],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [1709, 1719],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [1810, 1822],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1093, 1106],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1108, 1124],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

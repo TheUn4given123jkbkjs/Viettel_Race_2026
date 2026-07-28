@@ -1,0 +1,62 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [127, 144],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [255, 275],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [293, 306],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau nhức vùng cổ gáy",
+    "position": [336, 356],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T",
+    "position": [1602, 1612],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1108, 1115],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp Cộng hưởng từ (MRI) cột sống cổ và ngực",
+    "position": [1829, 1873],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương dây thần kinh và cột sống tác động nhiều vùng khác",
+    "position": [2078, 2139],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T06.1"]
+  }
+]

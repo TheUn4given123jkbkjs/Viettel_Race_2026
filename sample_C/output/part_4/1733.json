@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tác động khác của nhiệt và ánh sáng",
+    "position": [1758, 1793],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T67.8"]
+  },
+  {
+    "text": "không sốt",
+    "position": [227, 236],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [461, 480],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1164, 1177],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1179, 1195],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vệt thương",
+    "position": [2415, 2425],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI da",
+    "position": [1579, 1585],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thâm nhiễm viêm",
+    "position": [1606, 1621],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

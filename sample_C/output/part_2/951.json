@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Những vấn đề liên quan đến các hoàn cảnh tâm lí xã hội không đặc hiệu",
+    "position": [2277, 2346],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z65.9"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [2381, 2389],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Amitriptyline",
+    "position": [2446, 2459],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["704"]
+  },
+  {
+    "text": "Ascorbic acid",
+    "position": [2500, 2513],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1151"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1006, 1014],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1022, 1029],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "THA",
+    "position": [128, 131],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1870, 1883],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 g/L",
+    "position": [1920, 1936],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

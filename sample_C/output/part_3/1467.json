@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Thiểu sản và loạn sản thừng cột sống",
+    "position": [84, 120],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q06.1"]
+  },
+  {
+    "text": "bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [1147, 1181],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [1185, 1212],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "tê bì ngọn chi",
+    "position": [1340, 1354],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bí tiểu",
+    "position": [1774, 1781],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [2674, 2682],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 G/L",
+    "position": [2683, 2690],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [3498, 3516],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Pregabalin",
+    "position": [3630, 3640],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mecobalamin",
+    "position": [3722, 3733],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Người bị thương trong va chạm giữa ô tô và xe tải thu góp hay xe tải (do giao thông)",
+    "position": [2565, 2649],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V88.2", "V87.2"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2830, 2843],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2890, 2899],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Cefuroxime",
+    "position": [2949, 2959],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2194"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1037, 1045],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [1053, 1056],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1064, 1071],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1807, 1820],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 110 g/l",
+    "position": [1841, 1859],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cẳng chân phải",
+    "position": [2282, 2304],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

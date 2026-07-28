@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bỏng độ ba tại đầu và cổ",
+    "position": [1218, 1242],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T20.3"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [779, 787],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Silver sulfadiazine",
+    "position": [1873, 1892],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9793"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2010, 2021],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1468, 1481],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 12.5 G/L",
+    "position": [1483, 1495],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin",
+    "position": [1626, 1634],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Âm tính",
+    "position": [1636, 1643],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

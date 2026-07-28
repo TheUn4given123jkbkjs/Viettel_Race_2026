@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [355, 375],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [391, 404],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [621, 628],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau buốt",
+    "position": [870, 878],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [985, 993],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương do cóng lạnh với hoại tử mô tác động nhiều vùng cơ thể",
+    "position": [1609, 1674],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T35.1"]
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [1902, 1916],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [1918, 1926],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T siêu nhạy",
+    "position": [2139, 2159],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 ng/L",
+    "position": [2161, 2169],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Streptokinase",
+    "position": [1133, 1146],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10106"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [2658, 2665],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [2726, 2737],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [2800, 2812],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Bisoprolol",
+    "position": [2891, 2901],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T siêu nhạy",
+    "position": [2326, 2346],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng vành cấp",
+    "position": [2568, 2586],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

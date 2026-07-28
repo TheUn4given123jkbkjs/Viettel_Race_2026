@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Iodine",
+    "position": [456, 462],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "466470",
+      "5933",
+      "8611"
+    ]
+  },
+  {
+    "text": "amlodipine",
+    "position": [221, 231],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "metformin",
+    "position": [358, 367],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "paracetamol",
+    "position": [907, 918],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [154, 167],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường tuýp 2",
+    "position": [300, 321],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức vùng cổ trước",
+    "position": [836, 857],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T siêu nhạy",
+    "position": [2073, 2093],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.04 ng/mL",
+    "position": [2095, 2105],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [2497, 2504],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

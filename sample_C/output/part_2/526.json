@@ -1,0 +1,87 @@
+[
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [520, 540],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [558, 571],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [414, 427],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [268, 276],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [337, 344],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gẫy xương tác động ngực với lưng dưới và khung chậu với chi",
+    "position": [2320, 2379],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T02.7"]
+  },
+  {
+    "text": "Công thức máu (CBC)",
+    "position": [1727, 1746],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC) 12.5 G/L, Hồng cầu (RBC) 3.8 triệu/uL, Hemoglobin (Hgb) 115 g/L, Tiểu cầu (PLT) 240 G/L",
+    "position": [1768, 1870],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng và khung chậu",
+    "position": [2003, 2035],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Morphine",
+    "position": [2586, 2594],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7052"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [2763, 2775],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  }
+]

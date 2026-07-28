@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Nội tiết tố và các chế phẩm tổng hợp của nó và thuốc đối kháng, không được xếp loại ở chỗ khác",
+    "position": [1981, 2075],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y42"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [2093, 2106],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Hydrocortisone",
+    "position": [2171, 2185],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5492", "27197"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [354, 364],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Cortisol 8h sáng 650 nmol/L",
+    "position": [1731, 1758],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ACTH 45 pg/mL",
+    "position": [1782, 1795],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose 5.8 mmol/L",
+    "position": [1638, 1656],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không nôn",
+    "position": [1355, 1364],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

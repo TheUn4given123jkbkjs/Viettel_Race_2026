@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Gẫy xương của vòng ngực, phần không xác định, gãy kín",
+    "position": [1609, 1662],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S42.90"]
+  },
+  {
+    "text": "đau chói",
+    "position": [935, 943],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [573, 580],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang lồng ngực",
+    "position": [1416, 1433],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT Scan lồng ngực",
+    "position": [1534, 1551],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I âm tính",
+    "position": [1345, 1363],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

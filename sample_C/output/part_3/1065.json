@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Clarithromycin",
+    "position": [130, 144],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["21212"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [285, 305],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [323, 336],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1264, 1281],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [929, 940],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [761, 773],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [177, 186],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
+  }
+]

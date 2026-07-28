@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Ngộ độc Sắt",
+    "position": [1614, 1625],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T45.4"]
+  },
+  {
+    "text": "Deferoxamine",
+    "position": [2050, 2062],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3131"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [2293, 2305],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Ondansetron",
+    "position": [2430, 2441],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["26225"]
+  },
+  {
+    "text": "nôn ra dịch có lẫn máu tươi",
+    "position": [320, 347],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sắt huyết thanh",
+    "position": [1072, 1087],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "850 mcg/dL",
+    "position": [1088, 1098],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

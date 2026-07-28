@@ -1,0 +1,69 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [177, 190],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Di chứng tổn thương dập nát và chấn thương cắt cụt chi dưới",
+    "position": [2409, 2468],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T93.6"]
+  },
+  {
+    "text": "không sốt cao",
+    "position": [1305, 1318],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không buồn nôn",
+    "position": [1320, 1334],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [1476, 1497],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1585, 1598],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu 11.5 x 10^3/uL",
+    "position": [1611, 1634],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang mỏm cụt cẳng chân phải",
+    "position": [1693, 1723],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hình ảnh cắt cụt 1/3 giữa xương chày xương mác, xương cắt phẳng, không thấy hình ảnh tiêu xương hay tụ khí",
+    "position": [1733, 1839],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

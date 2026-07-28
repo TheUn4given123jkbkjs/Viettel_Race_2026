@@ -1,0 +1,58 @@
+[
+  {
+    "text": "đau tức ngực",
+    "position": [378, 390],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [464, 471],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các thủ thuật vì những mục đích khác không phải phục hồi sức khỏe",
+    "position": [1448, 1513],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z41", "Z41.9"]
+  },
+  {
+    "text": "Troponin I",
+    "position": [1206, 1216],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.01 ng/mL",
+    "position": [1217, 1227],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "NT-proBNP",
+    "position": [1239, 1248],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "110 pg/mL",
+    "position": [1249, 1258],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [803, 811],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

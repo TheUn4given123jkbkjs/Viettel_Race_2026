@@ -1,0 +1,44 @@
+[
+  {
+    "text": "chấn thương cắt cụt cả hai bàn chân",
+    "position": [90, 125],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T05.3"]
+  },
+  {
+    "text": "đau nhức và sưng tấy",
+    "position": [183, 203],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [690, 703],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bình thường",
+    "position": [704, 715],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa máu",
+    "position": [717, 729],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng nhẹ men gan",
+    "position": [739, 755],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

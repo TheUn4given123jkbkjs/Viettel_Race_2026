@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Cố tình tự hại bằng nhẩy hay nằm ra trước vật đang chuyển động",
+    "position": [260, 325],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["X81"]
+  },
+  {
+    "text": "trầm cảm tái phát 3 năm nay",
+    "position": [501, 528],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn lo âu nặng",
+    "position": [622, 641],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Risperidone",
+    "position": [2034, 2045],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35636"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [2128, 2136],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Amitriptyline",
+    "position": [2212, 2225],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["704"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1538, 1551],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 9.5 G/L",
+    "position": [1553, 1569],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1809, 1820],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhịp xoang đều",
+    "position": [1828, 1842],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

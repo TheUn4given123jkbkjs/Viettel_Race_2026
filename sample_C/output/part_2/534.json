@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Gẫy xương giữa mắt cá chân, gãy kín",
+    "position": [1453, 1488],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S82.50"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [175, 188],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1015, 1023],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1754, 1767],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1821, 1830],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [1884, 1896],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "X-quang cổ chân",
+    "position": [1413, 1428],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đanh đi lại",
+    "position": [2462, 2473],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

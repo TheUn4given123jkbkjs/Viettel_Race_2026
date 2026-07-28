@@ -1,0 +1,58 @@
+[
+  {
+    "text": "đau nhói vùng cổ gáy",
+    "position": [292, 312],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì ngứa râm ran",
+    "position": [442, 460],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương không hoàn toàn của tủy sống cổ",
+    "position": [2677, 2719],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S14.15"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1989, 2002],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 140 g/L",
+    "position": [2031, 2049],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp Cộng hưởng từ (MRI) cột sống cổ",
+    "position": [2530, 2566],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [2756, 2774],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Gabapentin",
+    "position": [2844, 2854],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

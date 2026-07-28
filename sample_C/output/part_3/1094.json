@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tai nạn của máy bay thương mại cánh cố định, gây thương tổn cho người đi máy bay",
+    "position": [1787, 1867],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V95.3"]
+  },
+  {
+    "text": "đau nhức dữ dội vùng ngực trái",
+    "position": [465, 495],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [665, 672],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [741, 749],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cột sống thắt lưng",
+    "position": [1409, 1435],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gãy xẹp đốt sống L2",
+    "position": [1437, 1456],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT Scan ngực và bụng",
+    "position": [1679, 1699],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiều vết bầm tím mô mềm",
+    "position": [1710, 1734],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

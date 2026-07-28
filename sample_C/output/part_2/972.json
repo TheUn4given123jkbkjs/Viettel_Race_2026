@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Hydroxocobalamin",
+    "position": [225, 241],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["5514"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [325, 345],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [764, 773],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [805, 822],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1606, 1619],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MCV 108 fL",
+    "position": [1737, 1747],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thiếu máu nguyên bào khổng lồ",
+    "position": [2207, 2236],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1844, 1855],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

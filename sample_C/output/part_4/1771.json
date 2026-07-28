@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Chống sốt rét và thuốc tác dụng trên đơn bào khác trong máu",
+    "position": [1827, 1886],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y41.2"]
+  },
+  {
+    "text": "Artesunate",
+    "position": [1943, 1953],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "18346",
+      "711398",
+      "1429947"
+    ]
+  },
+  {
+    "text": "Artemether / Lumefantrine",
+    "position": [2064, 2089],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["282448"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [443, 451],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Hgb",
+    "position": [1446, 1449],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "95 g/L",
+    "position": [1450, 1456],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "PLT",
+    "position": [1470, 1473],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 G/L",
+    "position": [1474, 1480],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phết máu ngoại vi",
+    "position": [1614, 1631],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính",
+    "position": [1670, 1680],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -12,12 +12,12 @@
 Trong quá trình xây dựng tập dữ liệu y khoa tiếng Việt quy mô 2,000 mẫu (`sample_C`), hệ thống đã trải qua **3 giai đoạn tối ưu hóa cốt lõi**:
 1. **Giai đoạn 1 (Thuật toán cũ - V3.0):** Xoay vòng Round-Robin đơn thuần, dẫn tới nghẽn luồng 429 liên tục ở Groq, lặp từ vựng và văn bản quá ngắn (~240 từ).
 2. **Giai đoạn 2 (Smart Scheduler & Alignment Fix - V5.0):** Áp dụng thuật toán ưu tiên tài khoản rảnh (LRU Allocation), siết 5 Workers Sweet Spot, sửa lỗi lệch vị trí 100% và bổ sung thuộc tính `isFamily`.
-3. **Giai đoạn 3 (High-RPD Quota Engine & Prompt V5.1 - V5.2):** Dồn 100% hoả lực Gemini vào `Flash Lite` (500 RPD) & `Gemma 4 31B` (14.4K RPD), loại bỏ model 20 RPD nảy lỗi đỏ, nâng trần prompt lên 600-900 từ để kéo độ dài trung bình $\ge$ 436.7 từ gốc.
+3. **Giai đoạn 3 (High-RPD Quota Engine & Prompt V5.1 - V5.2):** Dồn 100% hoả lực Gemini vào `Flash Lite` (500 RPD) & `Gemma 4 31B` (14.4K RPD), loại bỏ model 20 RPD nảy lỗi đỏ, nâng trần prompt lên 600-900 từ để kéo độ dài trung bình $\ge$ 436.7 từ gốc. Nâng trần hệ thống lên **6 Silent Workers (Peak Capacity Sweet Spot)** giúp rút ngắn thời gian sinh 2,000 mẫu xuống ~2.5 - 3 giờ.
 
 ```mermaid
 graph LR
-    A[Giai đoạn 1: V3.0\nNghẽn 429, Văn bản ngắn ~240t] -->|Smart Scheduler & Fix Alignment| B[Giai đoạn 2: V5.0\n5 Workers LRU, Align 100%, 397t]
-    B -->|High-RPD Engine & Prompt V5.1| C[Giai đoạn 3: V5.2\nTải 230K req/ngày, Độ dài >= 436t]
+    A[Giai đoạn 1: V3.0\n3 Workers, Nghẽn 429, Văn bản ngắn ~240t] -->|Smart Scheduler & Fix Alignment| B[Giai đoạn 2: V5.0\n5 Workers LRU, Align 100%, 397t]
+    B -->|High-RPD Engine & 6 Workers| C[Giai đoạn 3: V5.2\n6 Workers Peak, Tải 230K req/ngày, 2.5h/2000 mẫu]
 ```
 
 ---

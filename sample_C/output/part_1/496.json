@@ -1,0 +1,76 @@
+[
+  {
+    "text": "bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [252, 286],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [302, 315],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "mệt mỏi kéo dài",
+    "position": [57, 72],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng vùng hạ sườn phải",
+    "position": [457, 483],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [76, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Có liên quan đến rượu, không đặc hiệu",
+    "position": [2037, 2074],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y91.9"]
+  },
+  {
+    "text": "AST (SGOT)",
+    "position": [1684, 1694],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "145 U/L",
+    "position": [1695, 1702],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thiamine",
+    "position": [2198, 2206],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10454"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [2258, 2270],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  }
+]

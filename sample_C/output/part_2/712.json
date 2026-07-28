@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Đa tổn thương nông tại háng và đùi",
+    "position": [1871, 1905],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S70.7"]
+  },
+  {
+    "text": "không sốt",
+    "position": [574, 583],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [670, 690],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Clotrimazole",
+    "position": [1931, 1943],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2623"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1538, 1551],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1553, 1569],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cetirizine",
+    "position": [2009, 2019],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Zinc sulfate",
+    "position": [2106, 2118],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["39954"]
+  }
+]

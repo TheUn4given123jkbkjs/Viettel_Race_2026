@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Zidovudine",
+    "position": [46, 56],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "214671",
+      "687428",
+      "11413"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [165, 168],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [170, 177],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm cân",
+    "position": [182, 190],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [444, 457],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồng cầu 4,5 triệu tế bào/mm3",
+    "position": [459, 488],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [609, 621],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [647, 656],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04",
+      "B06.81",
+      "A54.84"
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bỏng tác động thanh quản và khí quản với phổi",
+    "position": [1964, 2009],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T27.1"]
+  },
+  {
+    "text": "khó thở",
+    "position": [251, 258],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khàn tiếng",
+    "position": [694, 704],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi thanh quản",
+    "position": [1519, 1537],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Niêm mạc phù nề",
+    "position": [1539, 1554],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1429, 1447],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh mờ lan tỏa",
+    "position": [1449, 1468],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [314, 323],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

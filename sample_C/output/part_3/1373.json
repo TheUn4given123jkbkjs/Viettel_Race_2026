@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Chấn thương dây thần kinh xương quay ở tầm cẳng tay, bên phải",
+    "position": [1072, 1133],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S54.20"]
+  },
+  {
+    "text": "liệt cơ duỗi cổ tay",
+    "position": [974, 993],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [788, 796],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2398, 2407],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "X-quang cẳng tay phải",
+    "position": [2039, 2060],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không thấy hình ảnh gãy xương",
+    "position": [2062, 2091],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện cơ đồ",
+    "position": [2109, 2119],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Giảm dẫn truyền thần kinh quay",
+    "position": [2127, 2157],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

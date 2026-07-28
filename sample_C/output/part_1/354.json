@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Lái xe của xe công nghiệp bị thương không phải do tai nạn giao thông",
+    "position": [1772, 1840],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V83.5"]
+  },
+  {
+    "text": "đau nhức vùng thắt lưng",
+    "position": [150, 173],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì nhẹ dọc chân phải",
+    "position": [711, 734],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cột sống thắt lưng",
+    "position": [1566, 1592],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không thấy gãy xương",
+    "position": [1627, 1647],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1875, 1885],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1962, 1975],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [2041, 2049],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  }
+]

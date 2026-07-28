@@ -1,27 +1,30 @@
 {
   "member": "C",
-  "total_samples_with_metadata": 611,
+  "total_samples_with_metadata": 1064,
   "by_provider": {
-    "GROQ": 344,
-    "GEMINI": 267
+    "GROQ": 430,
+    "GEMINI": 634
   },
   "by_account": {
-    "ANIME_BLUE": 61,
-    "CHO_HONG": 82,
-    "TV": 38,
-    "LUNA": 10,
-    "CHO_NAU": 49,
-    "VY_GREEN": 10,
-    "CHO_VANG": 37,
-    "CHO_DO": 55,
-    "CHO_CAT": 35,
-    "TIN": 15,
-    "ANIME_VANG": 41,
-    "BL_TIM": 33,
-    "LL": 41,
-    "SV": 33,
-    "CHO_KHANG": 12,
-    "CHO_TRANG": 59
+    "ANIME_BLUE": 110,
+    "CHO_HONG": 166,
+    "TV": 61,
+    "LUNA": 19,
+    "CHO_NAU": 71,
+    "VY_GREEN": 18,
+    "CHO_VANG": 44,
+    "CHO_DO": 80,
+    "CHO_CAT": 59,
+    "TIN": 34,
+    "ANIME_VANG": 79,
+    "BL_TIM": 57,
+    "LL": 62,
+    "SV": 49,
+    "CHO_KHANG": 31,
+    "CHO_TRANG": 99,
+    "HOWL": 4,
+    "INKSAN": 17,
+    "MNBK": 4
   },
-  "last_updated": "2026-07-28 21:12:52"
+  "last_updated": "2026-07-29 00:25:50"
 }

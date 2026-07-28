@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Gãy cổ, phần không xác định, gãy hở",
+    "position": [1248, 1283],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S12.91"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [159, 172],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1642, 1653],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Morphine",
+    "position": [1736, 1744],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7052"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1334, 1347],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 14.5 G/L",
+    "position": [1349, 1361],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cột sống cổ",
+    "position": [1480, 1499],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sô t",
+    "position": [2079, 2083],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

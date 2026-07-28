@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Gãy xương cùng, gãy kín",
+    "position": [1519, 1542],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S32.10"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1559, 1572],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1676, 1685],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [329, 342],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [451, 471],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1320, 1333],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1335, 1351],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cột sống cùng",
+    "position": [1391, 1412],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

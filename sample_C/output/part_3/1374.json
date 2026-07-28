@@ -1,0 +1,73 @@
+[
+  {
+    "text": "Tổn thương bụng, dưới lưng và chậu",
+    "position": [1871, 1905],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "T33.3",
+      "T34.3",
+      "T35.3"
+    ]
+  },
+  {
+    "text": "đau vùng bụng dưới",
+    "position": [395, 413],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [272, 292],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [308, 321],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1937, 1947],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2002, 2012],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2062, 2075],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "CRP",
+    "position": [1703, 1706],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "15 mg/L",
+    "position": [1707, 1714],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

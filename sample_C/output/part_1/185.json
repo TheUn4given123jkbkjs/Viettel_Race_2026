@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [95, 112],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Tấn công bằng khí và hơi nước",
+    "position": [2011, 2040],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["X88"]
+  },
+  {
+    "text": "khó thở",
+    "position": [518, 525],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [604, 611],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1679, 1697],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thâm nhiễm phế nang lan tỏa hai bên",
+    "position": [1708, 1743],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I",
+    "position": [1657, 1667],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1668, 1675],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

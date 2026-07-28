@@ -1,0 +1,51 @@
+[
+  {
+    "text": "cúm A",
+    "position": [61, 66],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Oseltamivir",
+    "position": [792, 803],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["260101"]
+  },
+  {
+    "text": "sốt cao",
+    "position": [657, 664],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [666, 673],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1490, 1503],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang phổi",
+    "position": [1698, 1710],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2038, 2049],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

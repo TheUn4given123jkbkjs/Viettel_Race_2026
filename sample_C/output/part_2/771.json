@@ -1,0 +1,73 @@
+[
+  {
+    "text": "Measles Vaccine",
+    "position": [395, 410],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "705030",
+      "705031",
+      "6669"
+    ]
+  },
+  {
+    "text": "viêm phổi do vi khuẩn",
+    "position": [43, 64],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J14",
+      "J15",
+      "J15.6"
+    ]
+  },
+  {
+    "text": "sốt cao",
+    "position": [217, 224],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho có đờm",
+    "position": [226, 235],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [239, 246],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [696, 709],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [778, 786],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [862, 869],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [935, 938],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

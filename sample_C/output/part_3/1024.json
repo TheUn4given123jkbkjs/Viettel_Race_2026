@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Vết thương hở không xác định của thành sau ngực, không xuyên thấu vào lồng ngực",
+    "position": [1312, 1391],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S21.20"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [745, 753],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [761, 768],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1878, 1889],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Povidone-iodine",
+    "position": [2057, 2072],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8611"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1549, 1562],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 12.5 G/L",
+    "position": [1564, 1576],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1621, 1639],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1707, 1710],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

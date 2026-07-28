@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Ngộ độc Thuốc gây ngủ tổng hợp khác",
+    "position": [0, 35],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T40.4"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [410, 423],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "hôn mê sâu",
+    "position": [249, 259],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [1320, 1338],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  },
+  {
+    "text": "Naloxone",
+    "position": [1432, 1440],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7242"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [909, 922],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu 9.5 G/L",
+    "position": [935, 951],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1051, 1062],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp chậm xoang",
+    "position": [1072, 1087],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

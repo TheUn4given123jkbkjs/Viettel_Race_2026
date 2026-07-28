@@ -1,0 +1,58 @@
+[
+  {
+    "text": "mệt mỏi kéo dài",
+    "position": [182, 197],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ về chiều",
+    "position": [238, 254],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh sử gia đình có bệnh bạch cầu",
+    "position": [584, 617],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["Z80.6"]
+  },
+  {
+    "text": "tổng phân tích tế bào máu ngoại vi",
+    "position": [1365, 1399],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu tăng cao bất thường đạt 85.000/µL",
+    "position": [1412, 1454],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết sắc tố Hb đo được là 8.5 g/dL",
+    "position": [1531, 1566],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa máu",
+    "position": [1625, 1637],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "LDH tăng rất cao lên đến 850 U/L",
+    "position": [1654, 1686],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

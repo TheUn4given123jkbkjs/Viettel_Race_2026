@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Hành khách xe điện bị thương khi va chạm với xe có động cơ trong tai nạn giao thông",
+    "position": [1862, 1945],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V82.0", "V82.1"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [531, 539],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1970, 1983],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [2045, 2055],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2098, 2108],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1289, 1302],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 8.5 G/L",
+    "position": [1304, 1315],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [1436, 1443],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

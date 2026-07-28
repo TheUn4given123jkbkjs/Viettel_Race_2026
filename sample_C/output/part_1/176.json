@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Epinephrine",
+    "position": [979, 990],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3992", "107602"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2337, 2350],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 K/uL",
+    "position": [2375, 2392],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa máu",
+    "position": [2472, 2484],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ (ECG)",
+    "position": [2608, 2625],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhịp xoang đều",
+    "position": [2650, 2664],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hội chứng vành mạn",
+    "position": [1634, 1652],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin 81mg",
+    "position": [2990, 3002],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atorvastatin 20mg",
+    "position": [3065, 3082],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

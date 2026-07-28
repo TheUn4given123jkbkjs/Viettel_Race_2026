@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bệnh vảy cá dạng lá",
+    "position": [2250, 2269],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q80.2"]
+  },
+  {
+    "text": "vảy nến thể mảng",
+    "position": [145, 161],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["L41.3", "L41.4"]
+  },
+  {
+    "text": "sốt",
+    "position": [348, 351],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngứa",
+    "position": [608, 612],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu",
+    "position": [1657, 1665],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 G/L",
+    "position": [1684, 1692],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acitretin",
+    "position": [2453, 2462],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vitamin A",
+    "position": [2557, 2566],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11246", "97016"]
+  }
+]

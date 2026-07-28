@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Sai khớp, bong gân, căng cơ tác động của ngực với lưng dưới và khung chậu",
+    "position": [1802, 1875],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T03.1"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [974, 982],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1891, 1900],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1954, 1964],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [2020, 2028],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1529, 1542],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1544, 1560],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cột sống thắt lưng",
+    "position": [1644, 1670],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mất đường cong sinh lý",
+    "position": [1672, 1694],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

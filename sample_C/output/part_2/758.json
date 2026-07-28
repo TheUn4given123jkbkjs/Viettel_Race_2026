@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Vết thương hở ở tác động nhiều vùng của chi trên",
+    "position": [1660, 1708],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T01.2"]
+  },
+  {
+    "text": "đau nhức dữ dội",
+    "position": [405, 420],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1741, 1752],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1811, 1824],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [1865, 1878],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1344, 1357],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 12.5 G/L",
+    "position": [1359, 1371],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP 15 mg/L",
+    "position": [1493, 1504],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang chi trên",
+    "position": [1515, 1531],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không thấy hình ảnh gãy xương",
+    "position": [1533, 1562],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

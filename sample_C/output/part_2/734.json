@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Nhiễm độc do thuốc giảm đau không opioid, hạ nhiệt và chống thấp khớp",
+    "position": [1995, 2064],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T39"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [657, 670],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [2237, 2251],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [838, 846],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [1691, 1694],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "450 U/L",
+    "position": [1695, 1702],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [1704, 1707],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "520 U/L",
+    "position": [1708, 1715],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [2290, 2302],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  }
+]

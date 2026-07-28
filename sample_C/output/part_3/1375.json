@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Vết thương nhiều cơ quan vùng chậu",
+    "position": [2303, 2337],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S37.7",
+      "S37.70",
+      "S37.71"
+    ]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2374, 2385],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [2463, 2476],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2540, 2551],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [240, 248],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [259, 262],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [371, 405],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1840, 1848],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 K/uL",
+    "position": [1897, 1906],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Khám trẻ em thường quy",
+    "position": [84, 106],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z00.1"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [818, 831],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Zinc sulfate",
+    "position": [2233, 2245],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["39954"]
+  },
+  {
+    "text": "Vitamin A",
+    "position": [2187, 2196],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11246", "97016"]
+  },
+  {
+    "text": "Ascorbic acid",
+    "position": [2315, 2328],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1151"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1471, 1484],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu 4.8 mmol/L",
+    "position": [1579, 1601],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [548, 555],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

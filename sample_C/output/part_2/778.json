@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Melanoma",
+    "position": [191, 199],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dacarbazine",
+    "position": [1320, 1331],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3098"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1996, 2009],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hồng cầu 4.2 triệu/uL",
+    "position": [2031, 2052],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa máu",
+    "position": [2110, 2122],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ure 5.2 mmol/L",
+    "position": [2144, 2158],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol 500mg",
+    "position": [2530, 2547],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Celecoxib 200mg",
+    "position": [2612, 2627],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

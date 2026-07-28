@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Dextran 40",
+    "position": [268, 278],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3272"]
+  },
+  {
+    "text": "suy tim sung huyết",
+    "position": [99, 117],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I11.0",
+      "I11.9",
+      "I13.0"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [170, 183],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường loại 2",
+    "position": [185, 206],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh thận mãn tính",
+    "position": [210, 228],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [837, 850],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hb 12 g/dl",
+    "position": [852, 862],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [1008, 1020],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giãn tâm thất trái và phổi ứ nước",
+    "position": [1079, 1112],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

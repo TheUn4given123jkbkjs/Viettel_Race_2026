@@ -1,0 +1,58 @@
+[
+  {
+    "text": "mổ ruột thừa",
+    "position": [160, 172],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Lỗ đái lệnh thấp",
+    "position": [1817, 1833],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q54"]
+  },
+  {
+    "text": "tia nước tiểu lệch hướng",
+    "position": [484, 508],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức nhẹ khi đi tiểu",
+    "position": [566, 589],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1378, 1391],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 7.5 G/L",
+    "position": [1393, 1404],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm hệ tiết niệu",
+    "position": [1681, 1701],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích nước tiểu",
+    "position": [1544, 1568],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

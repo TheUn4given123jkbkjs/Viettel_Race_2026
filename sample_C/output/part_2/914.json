@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Bismuth",
+    "position": [392, 399],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1599"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [255, 268],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "đau dạ dày mạn tính",
+    "position": [350, 369],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường típ 2",
+    "position": [561, 581],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [839, 852],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [1926, 1936],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "95 g/L",
+    "position": [1937, 1943],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin T",
+    "position": [2067, 2077],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.08 ng/mL",
+    "position": [2103, 2113],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [2600, 2607],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

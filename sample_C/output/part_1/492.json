@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tổn thương khác của tim, không có vết thương mở vào ổ ngực",
+    "position": [1295, 1353],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S26.80"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [282, 290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [155, 168],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [869, 880],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ST chênh xuống nhẹ",
+    "position": [882, 900],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I",
+    "position": [977, 987],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.04 ng/mL",
+    "position": [989, 999],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1385, 1397],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [825, 832],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

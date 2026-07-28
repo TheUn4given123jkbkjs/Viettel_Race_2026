@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Người đi ô tô bị thương khi va chạm với xe đạp",
+    "position": [2164, 2210],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "V13",
+      "V15",
+      "V41"
+    ]
+  },
+  {
+    "text": "đau tức vùng ngực trái",
+    "position": [708, 730],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở nhẹ",
+    "position": [732, 743],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2287, 2298],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2405, 2415],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1720, 1733],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 140 g/L",
+    "position": [1753, 1771],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1918, 1936],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

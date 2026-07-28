@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Gẫy xương đốt khác bàn tay, gãy kín",
+    "position": [1683, 1718],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S62.30"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [209, 222],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1772, 1781],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Calcium gluconate",
+    "position": [1880, 1897],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1908"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1991, 2004],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "X-quang bàn tay phải",
+    "position": [1433, 1453],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gãy kín thân xương đốt ngón tay III",
+    "position": [1464, 1499],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [611, 618],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

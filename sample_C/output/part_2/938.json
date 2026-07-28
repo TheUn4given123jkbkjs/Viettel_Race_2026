@@ -1,0 +1,62 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [207, 214],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn",
+    "position": [216, 223],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [227, 234],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [296, 306],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [310, 322],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [596, 603],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "có sự thay đổi trong cấu trúc xương",
+    "position": [721, 756],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khám theo dõi sau xạ trị liệu các tình trạng khác",
+    "position": [915, 964],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z09.1"]
+  }
+]

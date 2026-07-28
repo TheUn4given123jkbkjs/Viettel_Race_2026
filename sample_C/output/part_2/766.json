@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Loratadine",
+    "position": [174, 184],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["28889"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [270, 283],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [287, 300],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đột quỵ",
+    "position": [357, 364],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [548, 551],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1025, 1042],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1497, 1504],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1543, 1554],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Troponin",
+    "position": [1589, 1597],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

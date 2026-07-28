@@ -1,0 +1,65 @@
+[
+  {
+    "text": "đau âm ỉ vùng thắt lưng",
+    "position": [612, 635],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [760, 768],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [776, 783],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1905, 1918],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1920, 1936],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cột sống thắt lưng thẳng/nghiêng",
+    "position": [2227, 2267],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cộng hưởng từ (MRI) cột sống thắt lưng",
+    "position": [2349, 2392],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phát hiện bất thường tủy sống vùng thấp, hình ảnh dính tủy và mỡ quanh tủy vùng cùng cụt",
+    "position": [2421, 2509],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Các dị tật bẩm sinh khác của tủy sống",
+    "position": [2548, 2585],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q06"]
+  }
+]

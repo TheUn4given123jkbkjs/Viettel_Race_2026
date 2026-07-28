@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Gẫy khác ở đốt sống cổ 5",
+    "position": [2592, 2616],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S12.49"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [190, 200],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [2680, 2698],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Morphine",
+    "position": [2741, 2749],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7052"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2802, 2812],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "đau nhức vùng cổ",
+    "position": [709, 725],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì vùng ngực trên",
+    "position": [952, 972],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [994, 1002],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2214, 2227],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [2229, 2245],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

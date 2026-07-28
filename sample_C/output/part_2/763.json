@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Giãn phế quản bẩm sinh",
+    "position": [99, 121],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q33.4"]
+  },
+  {
+    "text": "ho có đờm mủ",
+    "position": [790, 802],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [856, 859],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cắt lớp vi tính (CT) ngực độ phân giải cao",
+    "position": [1619, 1666],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [867, 874],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

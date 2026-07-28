@@ -1,0 +1,72 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [118, 137],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [906, 914],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [925, 932],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [2161, 2169],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 K/uL",
+    "position": [2191, 2200],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [2246, 2256],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.8 g/dL",
+    "position": [2278, 2286],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siệu âm Doppler mạch",
+    "position": [2576, 2596],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dòng chảy hỗn loạn, phổ vận tốc thay đổi bất thường",
+    "position": [2618, 2669],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vết thương mạch máu không xác định tại vai và cánh tay trên",
+    "position": [2854, 2913],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S45.9"]
+  }
+]

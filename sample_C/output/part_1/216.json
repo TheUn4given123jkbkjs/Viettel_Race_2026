@@ -1,0 +1,65 @@
+[
+  {
+    "text": "cáu gắt và tức giận",
+    "position": [86, 105],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R45.4"]
+  },
+  {
+    "text": "Tăng huyết áp 5 năm",
+    "position": [254, 273],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [412, 432],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [779, 786],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2035, 2048],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu cầu 250 G/L",
+    "position": [2114, 2130],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Haloperidol",
+    "position": [2629, 2640],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5093"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [2690, 2698],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Propranolol",
+    "position": [2758, 2769],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8787"]
+  }
+]

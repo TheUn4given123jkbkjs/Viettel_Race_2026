@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Vết cắn, đốt nông ở họng",
+    "position": [1818, 1842],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S10.17"]
+  },
+  {
+    "text": "đau nhói",
+    "position": [398, 406],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nuốt đau",
+    "position": [615, 623],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1476, 1484],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.5 G/L",
+    "position": [1485, 1492],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cổ nghiêng",
+    "position": [1676, 1694],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không thấy hình ảnh dị vật cản quang",
+    "position": [1696, 1732],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi họng thanh quản",
+    "position": [1775, 1798],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

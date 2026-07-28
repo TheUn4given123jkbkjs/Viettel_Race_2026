@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Biến chứng đã xác định của phẫu thuật và chăm sóc y tế không xếp loại ở nơi khác",
+    "position": [1514, 1594],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T88.8"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [171, 184],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [1762, 1775],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [1822, 1835],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1882, 1892],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1211, 1219],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18.5 G/L",
+    "position": [1229, 1237],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau âm ỉ vùng bụng",
+    "position": [474, 492],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1309, 1312],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 mg/L",
+    "position": [1313, 1321],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

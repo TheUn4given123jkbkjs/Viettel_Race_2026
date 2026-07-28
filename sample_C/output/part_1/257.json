@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Gẫy xương cẳng chân, bao gồm cổ chân",
+    "position": [17, 53],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S82"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [908, 921],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "sưng nề châm chít",
+    "position": [1358, 1376],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 14.2 G/L",
+    "position": [1456, 1473],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1441, 1454],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1807, 1816],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1878, 1889],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1954, 1964],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  }
+]

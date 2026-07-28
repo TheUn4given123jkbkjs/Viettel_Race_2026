@@ -1,0 +1,51 @@
+[
+  {
+    "text": "khe hở giữa môi",
+    "position": [58, 73],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q36.1"]
+  },
+  {
+    "text": "viêm họng",
+    "position": [214, 223],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [269, 277],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [281, 290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [808, 821],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [499, 513],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu nhẹ",
+    "position": [615, 628],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

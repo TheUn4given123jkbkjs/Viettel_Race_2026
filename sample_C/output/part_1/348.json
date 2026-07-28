@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Đa vết thương hở ở cẳng chân và bàn chân",
+    "position": [1360, 1400],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S91.7",
+      "S91.70",
+      "S91.71"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [543, 551],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [1459, 1488],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [1557, 1570],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1646, 1659],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1026, 1034],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.2 G/L",
+    "position": [1035, 1043],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dấuhệu",
+    "position": [2003, 2009],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

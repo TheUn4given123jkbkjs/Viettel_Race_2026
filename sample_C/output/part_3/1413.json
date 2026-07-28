@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bong gân và giãn khớp của các phần khác và không xác định của vòng ngực",
+    "position": [1802, 1873],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S43.6", "S43.7"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1899, 1908],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [1966, 1977],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhói dữ dội",
+    "position": [482, 497],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [177, 204],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1508, 1521],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1523, 1539],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1651, 1669],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

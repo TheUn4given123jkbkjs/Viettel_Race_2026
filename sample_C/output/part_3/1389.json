@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau thắt sau xương ức",
+    "position": [135, 156],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [529, 563],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "LDL-Cholesterol",
+    "position": [1405, 1420],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.4 mmol/L",
+    "position": [1421, 1431],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc chống tăng mỡ máu và chống xơ động mạch",
+    "position": [1638, 1683],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y52.6"]
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [1347, 1368],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.8 mmol/L",
+    "position": [1369, 1379],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

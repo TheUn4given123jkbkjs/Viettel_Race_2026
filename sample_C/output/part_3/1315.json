@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Misoprostol",
+    "position": [58, 69],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6964", "42331"]
+  },
+  {
+    "text": "đau bụng",
+    "position": [149, 157],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [159, 167],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn mửa",
+    "position": [171, 178],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [905, 915],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12 g/dl",
+    "position": [916, 923],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Di chứng tổn thương chưa xác định của chi dưới",
+    "position": [2267, 2313],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T93.9"]
+  },
+  {
+    "text": "tê bì",
+    "position": [427, 432],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [711, 719],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Điện cơ đồ",
+    "position": [1930, 1940],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm biên độ điện thế hoạt động cơ",
+    "position": [1957, 1991],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cộng hưởng từ",
+    "position": [2083, 2096],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xơ hóa mô mềm",
+    "position": [2127, 2140],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

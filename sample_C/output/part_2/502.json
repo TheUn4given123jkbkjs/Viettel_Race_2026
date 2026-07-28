@@ -1,0 +1,65 @@
+[
+  {
+    "text": "bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [454, 488],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ có tiền sử Tăng huyết áp",
+    "position": [512, 539],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "người than phiền lo sợ những việc không được chứng minh",
+    "position": [764, 819],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1770, 1783],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1802, 1818],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa máu",
+    "position": [1967, 1979],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [2168, 2186],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Risperidone",
+    "position": [2435, 2446],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35636"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [2505, 2513],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Người trên xe buýt (bus) không rõ đặc điểm bị thương khi va chạm với xe động cơ không rõ đặc điểm khác trong tai nạn giao thông",
+    "position": [1031, 1158],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V79.6"]
+  },
+  {
+    "text": "đau đầu dữ dội",
+    "position": [228, 242],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Diclofenac",
+    "position": [768, 778],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [796, 809],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [830, 839],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "X-quang cột sống thắt lưng",
+    "position": [641, 667],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trật nhẹ đốt sống L4-L5",
+    "position": [686, 709],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [711, 714],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp xoang nhanh 105 nhịp/phút",
+    "position": [718, 748],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

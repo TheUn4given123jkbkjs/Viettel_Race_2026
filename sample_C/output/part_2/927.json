@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Tổn thương khác của phổi",
+    "position": [2296, 2320],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S27.31",
+      "S27.3",
+      "S27.30"
+    ]
+  },
+  {
+    "text": "ho khan",
+    "position": [480, 487],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [763, 770],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [696, 703],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [2446, 2460],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [2502, 2520],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1651, 1664],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 x 10^3/uL",
+    "position": [1681, 1695],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1928, 1946],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh mờ không đồng nhất vùng đáy phổi phải",
+    "position": [1948, 1994],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

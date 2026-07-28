@@ -1,0 +1,72 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [178, 197],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đã mổ ruột thừa cách đây 2 năm",
+    "position": [237, 267],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau tức ngực âm ỉ",
+    "position": [458, 475],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Biến chứng sớm chưa xác định của chấn thương",
+    "position": [1760, 1804],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T79.9"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1294, 1307],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tăng 12.5 x 10^3/uL",
+    "position": [1329, 1357],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cẳng chân phải",
+    "position": [1644, 1666],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mô mềm xung quanh phù nề",
+    "position": [1713, 1737],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1844, 1857],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [1961, 1970],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  }
+]

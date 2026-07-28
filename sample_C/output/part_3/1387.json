@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Mất điều vận, không đặc hiệu",
+    "position": [1997, 2025],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R27.0"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [793, 806],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [896, 916],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Pyridoxine",
+    "position": [2341, 2351],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["684879"]
+  },
+  {
+    "text": "Magnesium sulfate",
+    "position": [2574, 2591],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6585"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1499, 1512],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1514, 1530],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lảo đảo",
+    "position": [351, 358],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [74, 93],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau dữ dội vùng cột sống thắt lưng",
+    "position": [355, 389],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gãy cột sống, mức độ chưa xác định",
+    "position": [1517, 1551],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T08.0", "T08.1"]
+  },
+  {
+    "text": "X-quang cột sống thắt lưng",
+    "position": [1312, 1338],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cộng hưởng từ (MRI) cột sống thắt lưng",
+    "position": [1468, 1506],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chèn ép ống sống và phù tủy xương",
+    "position": [1565, 1598],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

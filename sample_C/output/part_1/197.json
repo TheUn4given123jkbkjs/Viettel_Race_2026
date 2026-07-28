@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Phát hiện các chế phẩm thuốc phiện trong máu",
+    "position": [1062, 1106],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R78.1"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [379, 399],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [417, 430],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Naloxone",
+    "position": [1381, 1389],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7242"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [1657, 1665],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [165, 174],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim nhanh 115 lần/phút",
+    "position": [616, 643],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1948, 1951],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

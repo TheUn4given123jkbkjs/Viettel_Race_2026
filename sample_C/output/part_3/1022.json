@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Gãy xương sườn",
+    "position": [1364, 1378],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S22",
+      "S22.3",
+      "S22.30"
+    ]
+  },
+  {
+    "text": "đau nhói vùng ngực",
+    "position": [349, 367],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [519, 527],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [698, 718],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang lồng ngực",
+    "position": [1236, 1253],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gãy di lệch xương sườn số 6",
+    "position": [1264, 1291],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1468, 1477],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Bromhexine",
+    "position": [1518, 1528],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1753"]
+  }
+]

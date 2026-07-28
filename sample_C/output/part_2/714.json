@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Atorvastatin",
+    "position": [285, 297],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [203, 223],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [242, 255],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Propranolol",
+    "position": [1607, 1618],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8787"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [1675, 1685],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Enalapril",
+    "position": [1743, 1752],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3827"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [1804, 1811],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  }
+]

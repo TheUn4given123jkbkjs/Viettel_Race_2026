@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [131, 144],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [188, 208],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [617, 625],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Lợi tiểu vòng",
+    "position": [1800, 1813],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y54.4"]
+  },
+  {
+    "text": "NT-proBNP",
+    "position": [1395, 1404],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "4500 pg/mL",
+    "position": [1418, 1428],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [1319, 1329],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "95 umol/L",
+    "position": [1330, 1339],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "EF",
+    "position": [1573, 1575],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "38%",
+    "position": [1576, 1579],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

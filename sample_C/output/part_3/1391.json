@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tồn tại ổ nhớp",
+    "position": [1139, 1153],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q43.7"]
+  },
+  {
+    "text": "đi ngoài phân ra ngay tại lỗ tiểu",
+    "position": [124, 157],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dị tật đường tiết niệu bẩm sinh",
+    "position": [471, 502],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1595, 1606],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [1717, 1730],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Siêu âm ổ bụng",
+    "position": [950, 964],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 14.5 G/L",
+    "position": [1210, 1227],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP 25 mg/L",
+    "position": [1240, 1251],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

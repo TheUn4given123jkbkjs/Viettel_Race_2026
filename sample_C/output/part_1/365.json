@@ -1,0 +1,76 @@
+[
+  {
+    "text": "chấn thương cắt cụt ngón tay cái (toàn phần) (một phần)",
+    "position": [441, 496],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S68.0"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [257, 277],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [293, 306],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1940, 1951],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2025, 2034],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2083, 2096],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1623, 1631],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [1638, 1646],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu",
+    "position": [1713, 1724],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.6 mmol/L",
+    "position": [1725, 1735],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

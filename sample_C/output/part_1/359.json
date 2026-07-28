@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tổn thương cơ khép và gân đùi",
+    "position": [1669, 1698],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S76.2"]
+  },
+  {
+    "text": "THA",
+    "position": [137, 140],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [904, 912],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1846, 1856],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1960, 1970],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1363, 1376],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 8.5 G/L",
+    "position": [1378, 1389],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang đùi trái",
+    "position": [1504, 1520],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1586, 1589],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

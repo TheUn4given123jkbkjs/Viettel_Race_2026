@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Griseofulvin",
+    "position": [202, 214],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["5021"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [725, 733],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [1347, 1350],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "185 U/L",
+    "position": [1351, 1358],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [1360, 1363],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "210 U/L",
+    "position": [1364, 1371],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương tế bào gan cấp tính",
+    "position": [1618, 1648],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

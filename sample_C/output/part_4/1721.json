@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Các vấn đề khác liên quan đến lối sống",
+    "position": [2476, 2514],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z72.8"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [2576, 2588],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Metformin",
+    "position": [2628, 2637],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Simvastatin",
+    "position": [2688, 2699],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36567"]
+  },
+  {
+    "text": "mệt mỏi kéo dài",
+    "position": [154, 169],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn giấc ngủ",
+    "position": [173, 190],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu đói",
+    "position": [2146, 2161],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.1 mmol/L",
+    "position": [2162, 2172],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

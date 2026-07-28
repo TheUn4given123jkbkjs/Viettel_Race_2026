@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Các thuốc giải phó giao cảm (kháng cholinergic và kháng muscarin) và giảm co bóp khác, không xếp loại ở nơi khác",
+    "position": [1867, 1979],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y51.3"]
+  },
+  {
+    "text": "khô miệng",
+    "position": [467, 476],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "táo bón",
+    "position": [489, 496],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [712, 720],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [728, 731],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1452, 1465],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I âm tính",
+    "position": [1587, 1605],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm hệ tiết niệu",
+    "position": [1728, 1748],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bàng quang căng đầy nước tiểu",
+    "position": [1750, 1779],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

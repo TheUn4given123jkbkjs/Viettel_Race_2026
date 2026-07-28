@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Người đi ô tô không rõ đặc điểm -bị thương do va chạm với xe có động cơ khác không rõ đặc điểm trong tai nạn không phải tai nạn giao thông",
+    "position": [1675, 1813],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V49.1", "V49.2"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1943, 1953],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2043, 2053],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [198, 208],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "đau nhói vùng ngực trái",
+    "position": [673, 696],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I",
+    "position": [1465, 1475],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [1476, 1483],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [827, 830],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

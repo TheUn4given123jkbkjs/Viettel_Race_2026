@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương động mạch xương quay ở tầm cẳng tay",
+    "position": [75, 121],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S55.1"]
+  },
+  {
+    "text": "đau nhức tại vùng cẳng tay trái",
+    "position": [227, 258],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1107, 1120],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa máu",
+    "position": [1122, 1134],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cẳng tay",
+    "position": [1139, 1155],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [699, 708],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không buồn nôn",
+    "position": [710, 724],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "dấu hiệu của 'Tổn thương động mạch xương quay ở tầm cẳng tay'",
+    "position": [1328, 1389],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

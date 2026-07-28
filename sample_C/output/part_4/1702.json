@@ -1,0 +1,51 @@
+[
+  {
+    "text": "tiền sử nghiện rượu nặng lâu năm",
+    "position": [704, 736],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "hôn mê sâu",
+    "position": [638, 648],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1097, 1105],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2050, 2063],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 14.5 x 10^9/L",
+    "position": [2082, 2104],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose",
+    "position": [2203, 2210],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4850"]
+  },
+  {
+    "text": "Thiamine",
+    "position": [3348, 3356],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10454"]
+  }
+]

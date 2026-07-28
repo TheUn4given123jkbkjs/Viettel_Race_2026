@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [112, 129],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng vùng hạ vị",
+    "position": [492, 511],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vô kinh nguyên phát",
+    "position": [715, 734],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ovarian streak 46, XX with streak gonads",
+    "position": [1709, 1749],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q50.32"]
+  },
+  {
+    "text": "nồng độ FSH",
+    "position": [1522, 1533],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 mIU/mL",
+    "position": [1544, 1553],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hemoglobin",
+    "position": [1471, 1481],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.5 g/dL",
+    "position": [1482, 1490],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

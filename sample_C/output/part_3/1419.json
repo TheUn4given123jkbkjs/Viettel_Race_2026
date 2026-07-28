@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tổn thương cơ bắp và gân tại tầm cẳng chân",
+    "position": [1834, 1876],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S86", "S86.3"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1932, 1942],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2004, 2013],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [2082, 2094],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "sưng nề",
+    "position": [528, 535],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhói dữ dội",
+    "position": [454, 469],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatine Kinase",
+    "position": [1536, 1551],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "850 U/L",
+    "position": [1557, 1564],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gout",
+    "position": [257, 261],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

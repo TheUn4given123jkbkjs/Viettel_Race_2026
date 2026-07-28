@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Sử dụng mã U07.8 trong cấp cứu",
+    "position": [2245, 2275],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["U07.8"]
+  },
+  {
+    "text": "đau tức ngực trái",
+    "position": [507, 524],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [747, 754],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin I",
+    "position": [1811, 1821],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.01 ng/mL",
+    "position": [1847, 1857],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "THA",
+    "position": [147, 150],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [339, 359],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [409, 422],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  }
+]

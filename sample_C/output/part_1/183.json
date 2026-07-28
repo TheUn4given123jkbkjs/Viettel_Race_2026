@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Bệnh sử cá nhân có các khối u khác",
+    "position": [686, 720],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Z86.0"]
+  },
+  {
+    "text": "Methotrexate",
+    "position": [1805, 1817],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6851"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1876, 1889],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1934, 1944],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [156, 163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn",
+    "position": [289, 296],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1284, 1292],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [1293, 1301],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [1310, 1320],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.8 g/dL",
+    "position": [1321, 1329],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

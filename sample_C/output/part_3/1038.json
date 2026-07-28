@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Bệnh vảy cá bẩm sinh không đặc hiệu",
+    "position": [1947, 1982],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q80.9"]
+  },
+  {
+    "text": "Fluocinolone acetonide",
+    "position": [2005, 2027],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4461"]
+  },
+  {
+    "text": "Salicylic acid",
+    "position": [2087, 2101],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "9525",
+      "91292",
+      "466470"
+    ]
+  },
+  {
+    "text": "Vitamin A",
+    "position": [2167, 2176],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11246", "97016"]
+  },
+  {
+    "text": "da khô",
+    "position": [227, 233],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bong vảy",
+    "position": [235, 243],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1649, 1662],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 7.5 G/L",
+    "position": [1664, 1675],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

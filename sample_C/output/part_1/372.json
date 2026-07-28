@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Người đi xe chuyên dùng sử dụng trong nông nghiệp bị thương trong Tai nạn giao thông (Tai nạn xe cộ)",
+    "position": [1459, 1559],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V84"]
+  },
+  {
+    "text": "đau nhức vùng ngực trái",
+    "position": [391, 414],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [416, 423],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1621, 1631],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1699, 1712],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1135, 1148],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 9.5 G/L",
+    "position": [1150, 1166],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1262, 1280],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gãy 1/3 giữa xương đòn trái",
+    "position": [1282, 1309],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

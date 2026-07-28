@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Biến dạng bẩm sinh của khớp háng",
+    "position": [2082, 2114],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q65",
+      "Q65.8",
+      "Q65.9"
+    ]
+  },
+  {
+    "text": "đau âm ỉ vùng bẹn trái",
+    "position": [260, 282],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [657, 670],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "X-quang khớp háng",
+    "position": [1935, 1952],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ổ cối nông",
+    "position": [1977, 1987],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI khớp háng",
+    "position": [2118, 2131],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loạn sản ổ cối độ III",
+    "position": [2153, 2174],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

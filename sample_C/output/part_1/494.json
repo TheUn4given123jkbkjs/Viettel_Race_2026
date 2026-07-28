@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Sưng khu trú, khối và cục ở đầu",
+    "position": [215, 246],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R22.0"]
+  },
+  {
+    "text": "sốt",
+    "position": [198, 201],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức âm ỉ",
+    "position": [280, 293],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [471, 485],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tổng số",
+    "position": [1960, 1976],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng cao",
+    "position": [2010, 2018],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang sọ",
+    "position": [2234, 2244],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2855, 2866],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [2943, 2956],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [3000, 3013],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  }
+]

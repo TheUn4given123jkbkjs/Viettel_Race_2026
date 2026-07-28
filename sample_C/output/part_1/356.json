@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [231, 251],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [267, 280],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "tê bì vùng bàn chân",
+    "position": [428, 447],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương dây thần kinh khác tại tầm cổ chân và bàn chân",
+    "position": [1865, 1922],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S94.8"]
+  },
+  {
+    "text": "Điện cơ đồ",
+    "position": [1639, 1649],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tốc độ dẫn truyền thần kinh vận động và cảm giác giảm",
+    "position": [1666, 1719],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang khớp cổ chân",
+    "position": [1466, 1486],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không thấy hình ảnh gãy xương",
+    "position": [1488, 1517],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

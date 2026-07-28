@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Nhiễm độc Cyanid",
+    "position": [2791, 2807],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T65.0"]
+  },
+  {
+    "text": "đau đầu nhẹ",
+    "position": [615, 626],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tức ngực thoáng qua",
+    "position": [713, 732],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi gắng sức nhẹ",
+    "position": [734, 758],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sodium thiosulfate",
+    "position": [2858, 2876],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36726"]
+  },
+  {
+    "text": "Hydroxocobalamin",
+    "position": [2965, 2981],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5514"]
+  },
+  {
+    "text": "Oxygen",
+    "position": [3029, 3035],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7806"]
+  },
+  {
+    "text": "Lactate máu",
+    "position": [2365, 2376],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.2 mmol/L",
+    "position": [2394, 2405],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

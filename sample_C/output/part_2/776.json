@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Lỗ đái lệch thấp thể dương vật",
+    "position": [1425, 1455],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q54.1", "Q54.2"]
+  },
+  {
+    "text": "Cefixime",
+    "position": [2000, 2008],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["25033"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2072, 2085],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Zinc sulfate",
+    "position": [2175, 2187],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["39954"]
+  },
+  {
+    "text": "tia nước hướng xuống dưới",
+    "position": [295, 320],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1542, 1555],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 7.5 G/L",
+    "position": [1557, 1568],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose 4.8 mmol/L",
+    "position": [1621, 1639],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Người ở xe nông nghiệp không rõ đặc điểm bị thương không phải do tai nạn giao thông",
+    "position": [111, 194],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V84.9"]
+  },
+  {
+    "text": "đau nhức dữ dội",
+    "position": [776, 791],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [1145, 1152],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1722, 1730],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "16.5 G/L",
+    "position": [1746, 1754],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [2172, 2201],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [2273, 2283],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Tetanus Vaccine",
+    "position": [2356, 2371],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "834765",
+      "309949",
+      "758475"
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [199, 218],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Người ở mặt đất bị thương trong tai nạn hàng không",
+    "position": [2475, 2525],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V97.3"]
+  },
+  {
+    "text": "đau ngực",
+    "position": [867, 875],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [884, 891],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [1036, 1045],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1915, 1928],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 12.5 G/L",
+    "position": [1950, 1967],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [2206, 2224],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gãy xương sườn 4, 5 bên phải",
+    "position": [2246, 2274],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Morphine",
+    "position": [2648, 2656],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7052"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2714, 2725],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Ngắt và ngã quỵ",
+    "position": [1966, 1981],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R55"]
+  },
+  {
+    "text": "Atenolol",
+    "position": [2113, 2121],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1202"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [2168, 2178],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [2212, 2219],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "hoa mắt",
+    "position": [442, 449],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1691, 1702],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngoại tâm thu thất",
+    "position": [1750, 1768],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồi hộp đánh trống ngực",
+    "position": [760, 783],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

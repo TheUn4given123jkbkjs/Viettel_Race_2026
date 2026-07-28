@@ -1,0 +1,76 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [100, 113],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "không sử dụng được và không tiếp cận được các phương tiện chăm sóc",
+    "position": [289, 355],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z75.3"]
+  },
+  {
+    "text": "mệt mỏi toàn thân",
+    "position": [258, 275],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu âm ỉ",
+    "position": [470, 482],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [484, 493],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [147, 157],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1980, 1993],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Metformin",
+    "position": [2064, 2073],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Glucose máu",
+    "position": [1723, 1734],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 mmol/L",
+    "position": [1745, 1755],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

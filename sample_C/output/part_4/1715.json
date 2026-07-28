@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Diatrizoate",
+    "position": [287, 298],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3319"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [92, 105],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "suy thận mạn",
+    "position": [184, 196],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N18",
+      "N18.1",
+      "N18.2"
+    ]
+  },
+  {
+    "text": "suy thận cấp",
+    "position": [1062, 1074],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N17",
+      "N17.0",
+      "N17.1"
+    ]
+  },
+  {
+    "text": "Creatinine",
+    "position": [1959, 1969],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "450 µmol/L",
+    "position": [1970, 1980],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kali",
+    "position": [2002, 2006],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.8 mmol/L",
+    "position": [2007, 2017],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù",
+    "position": [765, 768],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [810, 817],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

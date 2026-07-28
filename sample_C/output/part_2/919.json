@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Khám trước khi nhận công tác",
+    "position": [1460, 1488],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z02.1"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [1632, 1642],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "Vitamin A",
+    "position": [1761, 1770],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11246", "97016"]
+  },
+  {
+    "text": "chóng mặt",
+    "position": [180, 189],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1042, 1055],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 14.2 g/dL",
+    "position": [1093, 1113],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose 5.1 mmol/L",
+    "position": [1149, 1167],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hoa mắt chóng mặt nhe",
+    "position": [1899, 1920],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

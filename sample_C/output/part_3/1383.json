@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Biến chứng khác của phẫu thuật và chăm sóc y tế không xếp loại ở nơi khác",
+    "position": [2756, 2829],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T88.8", "T88"]
+  },
+  {
+    "text": "đau nhức tăng dần vùng quanh vết mổ",
+    "position": [569, 604],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ khoảng 38 độ C",
+    "position": [615, 637],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vết mổ bắt đầu sưng nề đỏ",
+    "position": [744, 769],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2980, 2991],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [3103, 3116],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "số lượng bạch cầu",
+    "position": [2151, 2168],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18.5 G/L",
+    "position": [2182, 2190],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

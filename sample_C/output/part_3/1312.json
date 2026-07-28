@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Nhiễm độc Nọc độc của các tiết túc khác",
+    "position": [2234, 2273],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T63.4"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [577, 594],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Antivenom",
+    "position": [2308, 2317],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2101271"]
+  },
+  {
+    "text": "Cefotaxime",
+    "position": [2448, 2458],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2186"]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [2535, 2553],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1624, 1632],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 K/uL",
+    "position": [1655, 1664],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiểu cầu",
+    "position": [1712, 1720],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "95 K/uL",
+    "position": [1739, 1746],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

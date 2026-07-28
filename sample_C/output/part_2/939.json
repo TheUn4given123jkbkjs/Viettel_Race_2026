@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tác dụng phụ chưa xác định",
+    "position": [3349, 3375],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T88.7", "T78.9"]
+  },
+  {
+    "text": "Loratadine",
+    "position": [3420, 3430],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["28889"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [3497, 3509],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1581, 1589],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1651, 1658],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2644, 2657],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bình thường",
+    "position": [2741, 2752],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [3052, 3070],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

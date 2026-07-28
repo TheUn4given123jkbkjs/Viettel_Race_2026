@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Activated charcoal",
+    "position": [273, 291],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["272"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [165, 173],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [892, 903],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loperamide",
+    "position": [929, 939],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6468"]
+  },
+  {
+    "text": "công thức máu",
+    "position": [765, 778],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [780, 788],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [790, 797],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [802, 805],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

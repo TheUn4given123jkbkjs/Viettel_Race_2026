@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Sự có mặt của mảnh ghép nối thông động mạch chủ - vành (bypass)",
+    "position": [310, 373],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z95.1"]
+  },
+  {
+    "text": "THA",
+    "position": [113, 116],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [160, 180],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1825, 1832],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1883, 1895],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Troponin I",
+    "position": [1543, 1553],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.01 ng/mL",
+    "position": [1554, 1564],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [501, 514],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

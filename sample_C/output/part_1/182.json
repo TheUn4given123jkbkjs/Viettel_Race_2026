@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Levomepromazine",
+    "position": [250, 265],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6852"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1063, 1071],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [433, 446],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [492, 512],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1665, 1678],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1680, 1696],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1858, 1869],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn vận động ngoại tháp",
+    "position": [2068, 2096],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G25.8",
+      "G25.9",
+      "G26"
+    ]
+  }
+]

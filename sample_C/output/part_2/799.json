@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Gẫy xương phần khác của cẳng tay, gãy kín",
+    "position": [2641, 2682],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S52.80"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2731, 2744],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2791, 2800],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2853, 2863],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "đau nhói dữ dội",
+    "position": [706, 721],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [847, 854],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bầm tím",
+    "position": [868, 875],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [2239, 2247],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 K/uL",
+    "position": [2249, 2257],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [2259, 2269],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

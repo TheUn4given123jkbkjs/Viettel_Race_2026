@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Mercaptopurine",
+    "position": [340, 354],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["103"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [249, 266],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1405, 1418],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh hóa",
+    "position": [1420, 1428],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [1430, 1437],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1441, 1444],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

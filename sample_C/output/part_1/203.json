@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Dính lưỡi",
+    "position": [1372, 1381],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q38.1"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1650, 1663],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Nystatin",
+    "position": [1751, 1759],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7597"]
+  },
+  {
+    "text": "quấy khóc",
+    "position": [316, 325],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1417, 1430],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1432, 1448],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Người bị thương trong tai nạn xe không động cơ không biết rõ đặc điểm, giao thông",
+    "position": [226, 307],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "V88.8",
+      "V88.9",
+      "V89.0"
+    ]
+  },
+  {
+    "text": "đau nhức toàn thân",
+    "position": [854, 872],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1144, 1152],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1160, 1167],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [1208, 1215],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [2181, 2194],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang khớp vai trái",
+    "position": [2431, 2452],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh rạn xương bờ ngoài xương bả vai",
+    "position": [2454, 2494],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

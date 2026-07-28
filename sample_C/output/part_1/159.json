@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tiêm chủng phòng các bệnh virus đơn độc xác định khác",
+    "position": [104, 157],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z25.8"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1956, 1969],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ascorbic acid",
+    "position": [2039, 2052],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1151"]
+  },
+  {
+    "text": "Chlorpheniramine",
+    "position": [2121, 2137],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2400"]
+  },
+  {
+    "text": "sốt",
+    "position": [722, 725],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [857, 864],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1475, 1488],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1490, 1506],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

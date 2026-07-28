@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Diphtheria-Tetanus-Pertussis-Haemophilus influenzae type b Vaccine",
+    "position": [461, 527],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2388452", "2368450"]
+  },
+  {
+    "text": "amlodipine",
+    "position": [233, 243],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [180, 193],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "ho khan",
+    "position": [773, 780],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tức ngực",
+    "position": [878, 886],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [1662, 1676],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [1677, 1685],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phổi cộng đồng",
+    "position": [2128, 2147],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ceftriaxone",
+    "position": [2181, 2192],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "paracetamol",
+    "position": [2267, 2278],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

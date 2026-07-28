@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Vết thương hở tại ngón chân với tổn thương móng",
+    "position": [86, 133],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S91.2"]
+  },
+  {
+    "text": "đau và sưng tại ngón chân trái",
+    "position": [191, 221],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm đường huyết",
+    "position": [913, 935],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "180 mg/dl",
+    "position": [937, 946],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

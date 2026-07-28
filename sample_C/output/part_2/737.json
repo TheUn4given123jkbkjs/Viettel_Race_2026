@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Terbinafine",
+    "position": [219, 230],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["37801"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [876, 884],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [496, 504],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I",
+    "position": [1597, 1607],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.8 ng/mL",
+    "position": [1609, 1618],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1983, 1990],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2053, 2064],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "nhồi máu cơ tim",
+    "position": [1880, 1895],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
+  }
+]

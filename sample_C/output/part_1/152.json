@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Không có, teo và hẹp mọt phần tiểu tràng xác định khác bẩm sinh",
+    "position": [1696, 1759],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q41.8"]
+  },
+  {
+    "text": "Metoclopramide",
+    "position": [1806, 1820],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6915"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1887, 1897],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Ringer's lactate",
+    "position": [1960, 1976],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35629"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [612, 629],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đã mổ ruột thừa cách đây 2 năm",
+    "position": [147, 177],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1369, 1382],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 9.5 G/L",
+    "position": [1384, 1395],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang bụng đứng",
+    "position": [1518, 1535],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh mực nước hơi ở tiểu tràng",
+    "position": [1537, 1571],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

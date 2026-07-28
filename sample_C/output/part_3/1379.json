@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Bệnh sử gia đình có viêm khớp và các bệnh khác về hệ cơ xương và tổ chức liên kết",
+    "position": [1945, 2026],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["Z82.6"]
+  },
+  {
+    "text": "đau nhức các khớp bàn tay",
+    "position": [161, 186],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng khớp",
+    "position": [301, 310],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methotrexate",
+    "position": [2113, 2125],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6851"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [2217, 2227],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  },
+  {
+    "text": "CRP",
+    "position": [1625, 1628],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "25 mg/L",
+    "position": [1629, 1636],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "RF",
+    "position": [1694, 1696],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính",
+    "position": [1717, 1727],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

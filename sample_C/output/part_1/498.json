@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Thiếu thức ăn",
+    "position": [1145, 1158],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z59.4", "X53"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [218, 226],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chủ quan sốt",
+    "position": [228, 240],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử THA",
+    "position": [296, 307],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Glucose",
+    "position": [946, 953],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "100 mg/dl",
+    "position": [954, 963],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Tổn thương dập nát ở cẳng tay",
+    "position": [2580, 2609],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S57",
+      "S57.8",
+      "S57.9"
+    ]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2645, 2656],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2823, 2834],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức dữ dội vùng cẳng tay trái",
+    "position": [317, 351],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [799, 807],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [2223, 2231],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 K/uL",
+    "position": [2232, 2241],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cẳng tay trái",
+    "position": [1065, 1086],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

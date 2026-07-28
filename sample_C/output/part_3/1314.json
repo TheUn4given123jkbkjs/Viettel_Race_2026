@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [21, 34],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [687, 707],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [21, 34],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Diphtheria-Tetanus-Pertussis-Hepatitis B-Haemophilus influenzae type b Vaccine",
+    "position": [813, 891],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2368450"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [1133, 1140],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [1152, 1161],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1518, 1531],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa máu",
+    "position": [1613, 1625],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1751, 1762],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipin 5mg",
+    "position": [2036, 2049],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

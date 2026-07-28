@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Nhiễm độc Thuốc trừ sâu phosphat hữu cơ và carbamat",
+    "position": [1993, 2044],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T60.0"]
+  },
+  {
+    "text": "vã mồ hôi",
+    "position": [533, 542],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [586, 595],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [626, 634],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [198, 218],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Hoạt độ Cholinesterase",
+    "position": [1687, 1709],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 U/L",
+    "position": [1723, 1730],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1499, 1512],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

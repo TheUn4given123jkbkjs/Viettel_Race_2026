@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Mất (một phần) phổi mắc phải",
+    "position": [2157, 2185],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z90.2"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1641, 1653],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [1711, 1740],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "ho khan",
+    "position": [343, 350],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [516, 524],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [200, 220],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1137, 1155],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

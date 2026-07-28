@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tổn thương nông của các phần không xác định khác của ngực",
+    "position": [1940, 1997],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S20.8"]
+  },
+  {
+    "text": "THA",
+    "position": [192, 195],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["Y06"]
+  },
+  {
+    "text": "đau ngực",
+    "position": [799, 807],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2032, 2045],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [2101, 2111],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2163, 2173],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Troponin I",
+    "position": [1660, 1670],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.01 ng/mL",
+    "position": [1672, 1682],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1697, 1715],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

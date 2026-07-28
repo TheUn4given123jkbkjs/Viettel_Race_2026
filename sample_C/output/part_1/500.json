@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tai biến do chạy thận nhân tạo",
+    "position": [865, 895],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Y84.1"]
+  },
+  {
+    "text": "Epinephrine",
+    "position": [1965, 1976],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3992", "107602"]
+  },
+  {
+    "text": "Hydrocortisone",
+    "position": [2026, 2040],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5492", "27197"]
+  },
+  {
+    "text": "Calcium gluconate",
+    "position": [2086, 2103],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1908"]
+  },
+  {
+    "text": "tụt huyết áp",
+    "position": [774, 786],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kali máu",
+    "position": [1576, 1584],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.2 mmol/L",
+    "position": [1585, 1595],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ tiền sử Đái tháo đường týp 2",
+    "position": [322, 356],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

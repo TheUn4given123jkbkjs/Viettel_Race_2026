@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Tổn thương dây thần kinh tầm cổ tay và bàn tay",
+    "position": [2068, 2114],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S64",
+      "S64.0",
+      "S64.1"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [422, 442],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [215, 228],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [2194, 2204],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Pyridoxine",
+    "position": [2253, 2263],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["684879"]
+  },
+  {
+    "text": "Amitriptyline",
+    "position": [2315, 2328],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["704"]
+  },
+  {
+    "text": "Điện cơ đồ",
+    "position": [1887, 1897],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dẫn truyền thần kinh giữa bị chậm",
+    "position": [1922, 1955],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì",
+    "position": [547, 552],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu cơ vùng mô cái",
+    "position": [846, 864],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

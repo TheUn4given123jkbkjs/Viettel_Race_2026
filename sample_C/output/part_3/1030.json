@@ -1,0 +1,62 @@
+[
+  {
+    "text": "đau nhói dữ dội",
+    "position": [635, 650],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [961, 968],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bầm tím",
+    "position": [980, 987],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gẫy thân xương quay",
+    "position": [2441, 2460],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S52.3",
+      "S52.30",
+      "S52.31"
+    ]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1944, 1957],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cẳng tay phải",
+    "position": [2151, 2172],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gãy ngang thân xương quay",
+    "position": [2202, 2227],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "di lệch chồng ngắn khoảng 1cm",
+    "position": [2253, 2282],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

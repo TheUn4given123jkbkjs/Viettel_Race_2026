@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Hành khách đi tàu hoặc phương tiện chạy trên ray bị thương do ngã từ tầu hỏa hay phương tiện đi trên ray",
+    "position": [2094, 2198],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V81.6"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [147, 164],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau dữ dội",
+    "position": [688, 698],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề lớn",
+    "position": [1366, 1377],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang xương chày trái",
+    "position": [1857, 1880],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gãy chéo 1/3 giữa xương chày trái",
+    "position": [1891, 1924],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1663, 1676],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 10.5 G/L",
+    "position": [1678, 1690],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

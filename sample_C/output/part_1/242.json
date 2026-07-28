@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Bong gân và căng cơ cả khớp và dây chằng của các phân không đặc hiệu và khác của cổ",
+    "position": [2099, 2182],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S13.6"]
+  },
+  {
+    "text": "sốt",
+    "position": [644, 647],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [703, 711],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [722, 731],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1722, 1735],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 K/uL",
+    "position": [1737, 1754],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [2216, 2225],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2284, 2297],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [2336, 2354],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  }
+]

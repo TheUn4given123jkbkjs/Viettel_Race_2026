@@ -1,0 +1,51 @@
+[
+  {
+    "text": "buồn nôn",
+    "position": [202, 210],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [221, 228],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [271, 278],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy nước mắt sống",
+    "position": [954, 972],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sụp mí bẩm sinh",
+    "position": [2127, 2142],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q10.0"]
+  },
+  {
+    "text": "X-quang sọ não",
+    "position": [2058, 2072],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không thấy tổn thương xương",
+    "position": [2087, 2114],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Vết thương dây thần kinh tại vai và cánh tay trên",
+    "position": [2408, 2457],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "S44",
+      "S44.0",
+      "S44.5"
+    ]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [2673, 2691],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Pregabalin",
+    "position": [2744, 2754],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methylcobalamin",
+    "position": [2816, 2831],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhói vùng vai phải",
+    "position": [719, 741],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì",
+    "position": [813, 818],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [934, 942],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [967, 974],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tổng số",
+    "position": [1979, 1995],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 G/L",
+    "position": [2005, 2012],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Nhiễm độc Thuốc diệt côn trùng halogen",
+    "position": [1639, 1677],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T60.1"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [611, 618],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [620, 629],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atropine",
+    "position": [1703, 1711],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1223"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [1857, 1865],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1361, 1374],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 14.5 G/L",
+    "position": [1376, 1388],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST 85 U/L",
+    "position": [1441, 1451],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Bệnh sử gia đình có rối loạn tâm thần và hành vi",
+    "position": [1807, 1855],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["Z81", "Z81.8"]
+  },
+  {
+    "text": "Risperidone",
+    "position": [1926, 1937],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35636"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [1982, 1990],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Haloperidol",
+    "position": [2042, 2053],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5093"]
+  },
+  {
+    "text": "mất ngủ",
+    "position": [443, 450],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1479, 1492],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 7.5 G/L",
+    "position": [1494, 1510],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ (ECG)",
+    "position": [1704, 1721],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhịp xoang đều",
+    "position": [1723, 1737],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

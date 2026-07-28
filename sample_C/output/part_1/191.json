@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Barium sulfate",
+    "position": [250, 264],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1331"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [425, 445],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [495, 508],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1135, 1143],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1162, 1169],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Troponin I",
+    "position": [1902, 1912],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.01 ng/mL",
+    "position": [1913, 1923],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2124, 2134],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương nông do cóng lạnh tại thành bụng, lưng dưới và khung chậu",
+    "position": [2340, 2408],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T33.3"]
+  },
+  {
+    "text": "tê bì",
+    "position": [696, 701],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nóng rát",
+    "position": [847, 855],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [883, 891],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1807, 1820],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu 7.5 G/L",
+    "position": [1831, 1847],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cột sống thắt lưng",
+    "position": [2018, 2044],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không thấy tổn thương cấu trúc xương",
+    "position": [2046, 2082],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

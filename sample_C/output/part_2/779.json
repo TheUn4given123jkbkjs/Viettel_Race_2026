@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tổn thương do cóng lạnh với hoại tử mô tại cổ tay và bàn tay",
+    "position": [1797, 1857],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T34.5"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [698, 706],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Heparin",
+    "position": [1892, 1899],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["235473"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1991, 2000],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1322, 1330],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [1331, 1339],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1442, 1445],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 mg/L",
+    "position": [1446, 1453],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

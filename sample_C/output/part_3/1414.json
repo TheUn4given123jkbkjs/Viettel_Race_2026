@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tai nạn ngộ độc bởi và phơi nhiễm chất diệt xúc vật có hại",
+    "position": [5, 63],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["X48"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [879, 887],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co giật",
+    "position": [976, 983],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [2813, 2831],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  },
+  {
+    "text": "Atropine",
+    "position": [3015, 3023],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1223"]
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [2194, 2202],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "16.5 x10^9/L",
+    "position": [2212, 2224],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinin",
+    "position": [2284, 2293],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "130 micromol/L",
+    "position": [2294, 2308],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

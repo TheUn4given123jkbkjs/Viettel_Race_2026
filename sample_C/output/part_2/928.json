@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Bán trật và sai khớp của đốt sống cổ C7/T1",
+    "position": [1188, 1230],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S13.18"]
+  },
+  {
+    "text": "tiền sử THA 5 năm",
+    "position": [448, 465],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1400, 1410],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Diazepam",
+    "position": [1506, 1514],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3322"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1614, 1624],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1778, 1791],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu: 7.2 G/L",
+    "position": [1793, 1810],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang cột sống cổ",
+    "position": [1052, 1071],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hẹp khe khớp C7/T1",
+    "position": [1976, 1994],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì lan dọc theo cánh tay trái",
+    "position": [332, 364],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

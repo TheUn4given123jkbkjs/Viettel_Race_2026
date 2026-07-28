@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Tổn thương màng phổi, không có vết thương mở vào ổ ngực",
+    "position": [1640, 1695],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["S27.60"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1731, 1740],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [1791, 1803],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Bromhexine",
+    "position": [1860, 1870],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1753"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [507, 515],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [708, 728],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [776, 789],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1427, 1445],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dày màng phổi khu trú vùng đáy phổi trái",
+    "position": [1456, 1496],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

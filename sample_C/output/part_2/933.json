@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Thủng của vết mổ, không xếp loại ở nơi khác",
+    "position": [2145, 2188],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T81.3"]
+  },
+  {
+    "text": "đau âm ỉ",
+    "position": [553, 561],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [831, 839],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [862, 869],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Cefotaxime",
+    "position": [2242, 2252],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2186"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [2310, 2323],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1649, 1662],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tăng cao 14.5 K/uL",
+    "position": [1685, 1712],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa máu",
+    "position": [1776, 1788],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP tăng cao ở mức 48 mg/L",
+    "position": [1848, 1874],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

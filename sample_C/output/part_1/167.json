@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Vancomycin",
+    "position": [209, 219],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11124"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [853, 861],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [869, 876],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [467, 470],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1319, 1332],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC 14.5 G/L",
+    "position": [1334, 1346],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine 245 umol/L",
+    "position": [1406, 1427],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy thận mãn tính",
+    "position": [84, 101],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N18"]
+  }
+]

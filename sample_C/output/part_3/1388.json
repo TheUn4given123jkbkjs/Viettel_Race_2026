@@ -1,0 +1,37 @@
+[
+  {
+    "text": "sốt",
+    "position": [74, 77],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phơi nhiễm với các yếu tố môi trường không đặc hiệu khác do con người tạo ra",
+    "position": [921, 997],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["W99"]
+  },
+  {
+    "text": "công thức máu",
+    "position": [623, 636],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng bạch cầu",
+    "position": [646, 659],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [744, 751],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

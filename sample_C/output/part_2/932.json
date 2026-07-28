@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Biến chứng chảy máu và tụ máu do thủ thuật, không xếp loại ở nơi khác",
+    "position": [1332, 1401],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T81.0"]
+  },
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [364, 383],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [1130, 1140],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "112 g/L",
+    "position": [1154, 1161],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tranexamic acid",
+    "position": [1594, 1609],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10691"]
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [1702, 1715],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Phytonadione",
+    "position": [1820, 1832],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8308"]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Hydrogen peroxide",
+    "position": [398, 415],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["5499"]
+  },
+  {
+    "text": "đau rát họng",
+    "position": [1090, 1102],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1104, 1112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng dữ dội",
+    "position": [1145, 1160],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tụt huyết áp",
+    "position": [1164, 1176],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [2036, 2045],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [1947, 1960],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu",
+    "position": [2200, 2208],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng cao",
+    "position": [2209, 2217],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Omeprazole",
+    "position": [2714, 2724],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  }
+]

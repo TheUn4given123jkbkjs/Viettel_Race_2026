@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Ngộ độc do Dẫn xuất hydantoin",
+    "position": [1031, 1060],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T42.0"]
+  },
+  {
+    "text": "Phenytoin",
+    "position": [155, 164],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8183"]
+  },
+  {
+    "text": "Activated charcoal",
+    "position": [1353, 1371],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["272"]
+  },
+  {
+    "text": "chóng mặt",
+    "position": [374, 383],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thất điều",
+    "position": [480, 489],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [190, 203],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [1699, 1719],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Nồng độ Phenytoin huyết thanh",
+    "position": [699, 728],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "35 mcg/mL",
+    "position": [729, 738],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

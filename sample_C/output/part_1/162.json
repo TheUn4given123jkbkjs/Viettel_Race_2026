@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Hắt hơi",
+    "position": [572, 579],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["R06.7"]
+  },
+  {
+    "text": "ngứa mũi",
+    "position": [446, 454],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy nước mũi",
+    "position": [688, 701],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loratadine",
+    "position": [1941, 1951],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["28889"]
+  },
+  {
+    "text": "Beclomethasone",
+    "position": [2022, 2036],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1347"]
+  },
+  {
+    "text": "Ascorbic acid",
+    "position": [2128, 2141],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1151"]
+  },
+  {
+    "text": "Bạch cầu ái toan",
+    "position": [1476, 1492],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5%",
+    "position": [1511, 1515],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "IgE toàn phần",
+    "position": [1716, 1729],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "250 IU/mL",
+    "position": [1749, 1758],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

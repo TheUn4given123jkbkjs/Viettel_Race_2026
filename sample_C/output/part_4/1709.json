@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Người lái xe mô tô bị thương trong TNGT khác không rõ đặc điểm",
+    "position": [8, 70],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V29"]
+  },
+  {
+    "text": "đau nhức vùng ngực và chi dưới",
+    "position": [1053, 1083],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề mô mềm",
+    "position": [1097, 1111],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1971, 1984],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin đạt 13.5 g/dL",
+    "position": [2036, 2060],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [2316, 2323],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acetaminophen",
+    "position": [2844, 2857],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2907, 2916],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  }
+]

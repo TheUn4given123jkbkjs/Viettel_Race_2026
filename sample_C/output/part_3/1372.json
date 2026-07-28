@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Khám theo dõi sau hóa trị liệu u ác tính",
+    "position": [2660, 2700],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Z08.2"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [594, 601],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [644, 652],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hồng cầu",
+    "position": [2261, 2269],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3.2 T/L",
+    "position": [2271, 2278],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ondansetron",
+    "position": [2735, 2746],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["26225"]
+  },
+  {
+    "text": "Methylprednisolone",
+    "position": [2803, 2821],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6902"]
+  },
+  {
+    "text": "Folic acid",
+    "position": [2864, 2874],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4511", "105658"]
+  }
+]

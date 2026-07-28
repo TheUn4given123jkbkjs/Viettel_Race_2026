@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Các loạn sản xương sụn với các khuyết tật trưởng thành của các xương ống và cột sống không đặc hiệu",
+    "position": [693, 792],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q77.9"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [1660, 1669],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Calcium gluconate",
+    "position": [1744, 1761],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1908"]
+  },
+  {
+    "text": "Đái tháo đường týp 2",
+    "position": [407, 427],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức âm ỉ",
+    "position": [191, 204],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [475, 482],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xẹp các thân đốt sống",
+    "position": [1380, 1401],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [445, 458],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  }
+]

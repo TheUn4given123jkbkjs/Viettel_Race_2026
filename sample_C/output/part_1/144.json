@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Người trên xe tải, xe kéo bị thương do va chạm với vật cố định hay tĩnh vật",
+    "position": [882, 957],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["V57"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [495, 508],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "I67.4",
+      "I10",
+      "I11"
+    ]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1935, 1945],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [2030, 2042],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1652, 1670],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gãy cung sườn số 6 trái không di lệch",
+    "position": [1681, 1718],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -143,26 +143,38 @@ class AccountRoundRobinKeyManager:
                 self.key_indices_per_account[provider][acc] = val
 
             key_cooldowns = state.get("key_cooldowns", {}).get(provider, {})
+            key_stats = state.get("key_stats", {}).get(provider, {})
             accounts_dict = self.keys_by_provider.get(provider, {})
             for acc_name, keys in accounts_dict.items():
                 for k_info in keys:
                     if k_info.key in key_cooldowns:
                         k_info.cooldown_until = key_cooldowns[k_info.key]
+                    if k_info.key in key_stats:
+                        stats = key_stats[k_info.key]
+                        k_info.success_count = stats.get("success", 0)
+                        k_info.fail_count = stats.get("fail", 0)
 
     def _build_shared_state(self) -> dict:
         key_cooldowns = {}
+        key_stats = {}
         for provider, accounts in self.keys_by_provider.items():
             key_cooldowns[provider] = {}
+            key_stats[provider] = {}
             for acc_name, keys in accounts.items():
                 for k_info in keys:
                     if k_info.cooldown_until > 0:
                         key_cooldowns[provider][k_info.key] = k_info.cooldown_until
+                    key_stats[provider][k_info.key] = {
+                        "success": k_info.success_count,
+                        "fail": k_info.fail_count
+                    }
 
         return {
             "account_in_use": self.account_in_use,
             "account_last_used": self.account_last_used,
             "key_indices_per_account": self.key_indices_per_account,
-            "key_cooldowns": key_cooldowns
+            "key_cooldowns": key_cooldowns,
+            "key_stats": key_stats
         }
 
     def _load_models_registry(self):

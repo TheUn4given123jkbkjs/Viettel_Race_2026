@@ -81,7 +81,7 @@ def update_batch_files(num_workers):
         '@echo off',
         'cd /d "%~dp0"',
         'echo ==============================================================================',
-        'echo  STEP 1: AUTOMATED HEALTH CHECK & .ENV REFRESH',
+        'echo  STEP 1: AUTOMATED HEALTH CHECK AND .ENV REFRESH',
         'echo ==============================================================================',
         'python custom_scripts\\refresh_keys.py',
         '',
@@ -110,7 +110,7 @@ def update_batch_files(num_workers):
         '@echo off',
         'cd /d "%~dp0"',
         'echo ==============================================================================',
-        'echo  STEP 1: AUTOMATED HEALTH CHECK & .ENV REFRESH',
+        'echo  STEP 1: AUTOMATED HEALTH CHECK AND .ENV REFRESH',
         'echo ==============================================================================',
         'python custom_scripts\\refresh_keys.py',
         '',
@@ -133,13 +133,14 @@ def update_batch_files(num_workers):
         f.write("\n".join(lines_a))
     print(f"  ✅ Đã cập nhật '{bat_a_path}' -> {num_workers} CMD Workers")
 
-    # 3. Update run_v3_background.bat (Silent pythonw execution)
+    # 3. Update run_v3_background.bat (Silent python execution with log redirection and UTF-8 encoding)
     bat_bg_path = os.path.join(long_folder, "run_v3_background.bat")
     lines_bg = [
         '@echo off',
         'cd /d "%~dp0"',
+        'set PYTHONIOENCODING=utf-8',
         'echo ==============================================================================',
-        'echo  STEP 1: REFRESHING HEALTH CHECK & KEYS',
+        'echo  STEP 1: REFRESHING HEALTH CHECK AND KEYS',
         'echo ==============================================================================',
         'python custom_scripts\\refresh_keys.py',
         '',
@@ -150,20 +151,22 @@ def update_batch_files(num_workers):
         'echo ==============================================================================',
         f'echo  STEP 2: LAUNCHING {num_workers} SILENT BACKGROUND WORKERS FOR MEMBER C (Q-Z)',
         'echo ==============================================================================',
+        'mkdir logs >nul 2>&1',
         ''
     ]
     for idx, (s, e) in enumerate(ranges, 1):
-        lines_bg.append(f'start /b pythonw custom_scripts\\generate_train_data_v3.py --member C --provider auto --start_idx {s} --end_idx {e}')
+        lines_bg.append(f'start /b python -u custom_scripts\\generate_train_data_v3.py --member C --provider auto --start_idx {s} --end_idx {e} > logs\\worker_{idx}.log 2>&1')
     lines_bg.append(f'\necho.\necho  [SUCCESS] {num_workers} Workers are running SILENTLY in the background!')
     lines_bg.append('echo.')
     lines_bg.append('echo  - To view running python processes : tasklist ^| findstr python')
-    lines_bg.append('echo  - To STOP all background workers   : taskkill /F /IM pythonw.exe /IM python.exe')
+    lines_bg.append('echo  - To view logs of worker 1         : type logs\\worker_1.log')
+    lines_bg.append('echo  - To STOP all background workers   : taskkill /F /IM python.exe')
     lines_bg.append('echo.')
     lines_bg.append('pause\n')
 
     with open(bat_bg_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines_bg))
-    print(f"  ✅ Đã cập nhật '{bat_bg_path}' -> {num_workers} Silent Background Workers")
+    print(f"  ✅ Đã cập nhật '{bat_bg_path}' -> {num_workers} Silent Background Workers (with logs)")
 
 if __name__ == "__main__":
     opt_workers = calculate_optimal_workers()

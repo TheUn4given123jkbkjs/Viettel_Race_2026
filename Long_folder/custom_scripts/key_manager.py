@@ -3,6 +3,7 @@ import sys
 import time
 import random
 import threading
+import json
 from typing import Dict, List, Optional, Tuple
 
 # Đảm bảo unicode không lỗi
@@ -17,6 +18,35 @@ if os.path.basename(BASE_DIR) == "Long_folder":
     BASE_DIR = os.path.dirname(BASE_DIR)
 
 MODELS_REGISTRY_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "models_registry.json")
+STATE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "key_manager_state.json")
+LOCK_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "key_manager_state.lock")
+
+class FileLock:
+    """Lớp khóa tệp tin (File lock) atomic ở cấp độ OS để đồng bộ hóa giữa các tiến trình Workers độc lập"""
+    def __init__(self, lock_path: str, timeout: float = 12.0):
+        self.lock_path = lock_path
+        self.timeout = timeout
+
+    def __enter__(self):
+        start_time = time.time()
+        while True:
+            try:
+                os.mkdir(self.lock_path)
+                break
+            except FileExistsError:
+                if time.time() - start_time > self.timeout:
+                    # Tự động giải phóng lock bị treo nếu quá thời gian timeout
+                    try:
+                        os.rmdir(self.lock_path)
+                    except Exception:
+                        pass
+                time.sleep(0.05)
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        try:
+            os.rmdir(self.lock_path)
+        except Exception:
+            pass
 
 class KeyInfo:
     def __init__(self, key: str, account_id: str, provider: str):
@@ -74,6 +104,66 @@ class AccountRoundRobinKeyManager:
 
         self._load_models_registry()
         self._load_keys_from_env(self.env_path)
+
+    def _load_shared_state(self) -> dict:
+        if not os.path.exists(STATE_FILE):
+            return {}
+        try:
+            with open(STATE_FILE, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            return {}
+
+    def _save_shared_state(self, state: dict):
+        try:
+            tmp_file = STATE_FILE + ".tmp"
+            with open(tmp_file, "w", encoding="utf-8") as f:
+                json.dump(state, f, ensure_ascii=False, indent=2)
+            if os.path.exists(STATE_FILE):
+                try:
+                    os.remove(STATE_FILE)
+                except Exception:
+                    pass
+            os.rename(tmp_file, STATE_FILE)
+        except Exception as e:
+            print(f"❌ Lỗi ghi file trạng thái key: {e}")
+
+    def _sync_with_shared_state(self, state: dict):
+        for provider in ["gemini", "groq", "sambanova", "ninerouter"]:
+            saved_in_use = state.get("account_in_use", {}).get(provider, {})
+            for acc, val in saved_in_use.items():
+                self.account_in_use[provider][acc] = val
+                
+            saved_last_used = state.get("account_last_used", {}).get(provider, {})
+            for acc, val in saved_last_used.items():
+                self.account_last_used[provider][acc] = val
+
+            saved_indices = state.get("key_indices_per_account", {}).get(provider, {})
+            for acc, val in saved_indices.items():
+                self.key_indices_per_account[provider][acc] = val
+
+            key_cooldowns = state.get("key_cooldowns", {}).get(provider, {})
+            accounts_dict = self.keys_by_provider.get(provider, {})
+            for acc_name, keys in accounts_dict.items():
+                for k_info in keys:
+                    if k_info.key in key_cooldowns:
+                        k_info.cooldown_until = key_cooldowns[k_info.key]
+
+    def _build_shared_state(self) -> dict:
+        key_cooldowns = {}
+        for provider, accounts in self.keys_by_provider.items():
+            key_cooldowns[provider] = {}
+            for acc_name, keys in accounts.items():
+                for k_info in keys:
+                    if k_info.cooldown_until > 0:
+                        key_cooldowns[provider][k_info.key] = k_info.cooldown_until
+
+        return {
+            "account_in_use": self.account_in_use,
+            "account_last_used": self.account_last_used,
+            "key_indices_per_account": self.key_indices_per_account,
+            "key_cooldowns": key_cooldowns
+        }
 
     def _load_models_registry(self):
         """Nạp động danh sách Models từ models_registry.json"""
@@ -256,21 +346,29 @@ class AccountRoundRobinKeyManager:
         self.keys_by_provider[provider][account_id].append(key_info)
 
     def release_key(self, key_info: KeyInfo):
-        """Giải phóng trạng thái BẬN của tài khoản khi Worker hoàn thành request"""
+        """Giải phóng trạng thái BẬN của tài khoản khi Worker hoàn thành request (Đồng bộ đa tiến trình)"""
         if not key_info:
             return
         provider = key_info.provider.lower()
         acc_name = key_info.account_id.lower()
-        if provider in self.account_in_use and acc_name in self.account_in_use[provider]:
-            curr = self.account_in_use[provider][acc_name]
-            self.account_in_use[provider][acc_name] = max(0, curr - 1)
+        with FileLock(LOCK_DIR):
+            state = self._load_shared_state()
+            self._sync_with_shared_state(state)
+            
+            if provider in self.account_in_use and acc_name in self.account_in_use[provider]:
+                curr = self.account_in_use[provider][acc_name]
+                self.account_in_use[provider][acc_name] = max(0, curr - 1)
+                
+            new_state = self._build_shared_state()
+            self._save_shared_state(new_state)
 
     def get_next_key(self, provider: str = "gemini") -> Optional[Tuple[str, str, KeyInfo]]:
         """
-        Thuật toán Smart Idle-Account Priority Scheduler (LRU Account Allocation):
-        1. Lọc tất cả các Tài khoản đang HOÀN TOÀN RẢNH (in_use == 0) và không dính 429.
-        2. Sắp xếp ưu tiên chọn Tài khoản NGHỈ LÂU NHẤT (last_used_time nhỏ nhất).
-        3. Tự động đánh dấu BẬN (in_use += 1) để các Worker khác KHÔNG trùng vào cùng tài khoản này.
+        Thuật toán Smart Idle-Account Priority Scheduler (LRU Account Allocation) hỗ trợ ĐỒNG BỘ ĐA TIẾN TRÌNH:
+        1. Đọc và đồng bộ hóa trạng thái sử dụng từ file chia sẻ chung `key_manager_state.json`.
+        2. Lọc tất cả các Tài khoản đang HOÀN TOÀN RẢNH (in_use == 0) và không dính 429.
+        3. Sắp xếp ưu tiên chọn Tài khoản NGHỈ LÂU NHẤT (last_used_time nhỏ nhất).
+        4. Tự động đánh dấu BẬN (in_use += 1), ghi ngược trạng thái vào file chia sẻ, và trả về key.
         """
         with self._lock:
             self._check_and_reload_files()
@@ -283,82 +381,215 @@ class AccountRoundRobinKeyManager:
             now = time.time()
             account_stats = []
             
-            # Xáo trộn danh sách tài khoản ngẫu nhiên theo PID của tiến trình
-            # Tránh việc mọi tiến trình Worker song song đều chọn cùng tài khoản đầu tiên khi last_used bằng nhau
-            acc_names = list(accounts_dict.keys())
-            rng = random.Random(os.getpid() + int(time.time() * 1000) % 1000)
-            rng.shuffle(acc_names)
-            
-            for acc_name in acc_names:
-                keys_in_acc = accounts_dict[acc_name]
-                if not keys_in_acc:
-                    continue
-                # Tìm các key khả dụng trong tài khoản
-                available_keys = [k for k in keys_in_acc if k.is_available(min_spacing=1.0)]
-                if not available_keys:
-                    continue
+            with FileLock(LOCK_DIR):
+                # Đồng bộ trạng thái đa tiến trình trước khi tính toán chọn key
+                state = self._load_shared_state()
+                self._sync_with_shared_state(state)
                 
-                in_use = self.account_in_use[provider].get(acc_name, 0)
-                last_used = self.account_last_used[provider].get(acc_name, 0.0)
-                account_stats.append({
-                    "acc_name": acc_name,
-                    "in_use": in_use,
-                    "last_used": last_used,
-                    "available_keys": available_keys,
-                    "keys_in_acc": keys_in_acc
-                })
+                # Xáo trộn danh sách tài khoản ngẫu nhiên để tăng tính phân tán
+                acc_names = list(accounts_dict.keys())
+                rng = random.Random(os.getpid() + int(time.time() * 1000) % 1000)
+                rng.shuffle(acc_names)
+                
+                for acc_name in acc_names:
+                    keys_in_acc = accounts_dict[acc_name]
+                    if not keys_in_acc:
+                        continue
+                    # Tìm các key khả dụng trong tài khoản (đã đồng bộ cooldown ở bước sync)
+                    available_keys = [k for k in keys_in_acc if k.is_available(min_spacing=1.0)]
+                    if not available_keys:
+                        continue
+                    
+                    in_use = self.account_in_use[provider].get(acc_name, 0)
+                    last_used = self.account_last_used[provider].get(acc_name, 0.0)
+                    account_stats.append({
+                        "acc_name": acc_name,
+                        "in_use": in_use,
+                        "last_used": last_used,
+                        "available_keys": available_keys,
+                        "keys_in_acc": keys_in_acc
+                    })
+    
+                if not account_stats:
+                    # Nếu tất cả các Key đều đang bị dính Cooldown Rate-Limit
+                    min_cooldown = float("inf")
+                    best_key = None
+                    for acc_name, keys_in_acc in accounts_dict.items():
+                        for k_info in keys_in_acc:
+                            if k_info.cooldown_until < min_cooldown:
+                                min_cooldown = k_info.cooldown_until
+                                best_key = k_info
+    
+                    wait_time = max(1.0, min_cooldown - time.time())
+                    print(f"⚠️  TOÀN BỘ Key {provider.upper()} đang dính Cooldown. Cần chờ {wait_time:.1f}s...")
+                    return None if best_key is None else (best_key.key, best_key.account_id, best_key)
+    
+                # Sắp xếp ưu tiên tuyệt đối:
+                # Tier 1: in_use ASC (tài khoản rảnh 0 worker đang dùng được xếp đầu)
+                # Tier 2: last_used ASC (tài khoản nghỉ lâu nhất xếp đầu)
+                account_stats.sort(key=lambda x: (x["in_use"], x["last_used"]))
+                
+                chosen_acc = account_stats[0]
+                acc_name = chosen_acc["acc_name"]
+                available_keys = chosen_acc["available_keys"]
+                keys_in_acc = chosen_acc["keys_in_acc"]
+                
+                # Chọn key theo Round Robin trong tài khoản
+                start_key_idx = self.key_indices_per_account[provider].get(acc_name, 0)
+                k_idx = start_key_idx % len(available_keys)
+                key_info = available_keys[k_idx]
+                
+                # Cập nhật trạng thái bận & thời gian sử dụng
+                key_info.mark_used()
+                self.key_indices_per_account[provider][acc_name] = (start_key_idx + 1) % len(keys_in_acc)
+                self.account_in_use[provider][acc_name] = self.account_in_use[provider].get(acc_name, 0) + 1
+                self.account_last_used[provider][acc_name] = now
+                
+                # Ghi đè trạng thái mới ra file để các tiến trình khác nhìn thấy ngay lập tức
+                new_state = self._build_shared_state()
+                self._save_shared_state(new_state)
+                
+                return key_info.key, key_info.account_id, key_info
 
-            if not account_stats:
-                # Nếu tất cả các Key đều đang bị dính Cooldown Rate-Limit
-                min_cooldown = float("inf")
-                best_key = None
-                for acc_name, keys_in_acc in accounts_dict.items():
-                    for k_info in keys_in_acc:
-                        if k_info.cooldown_until < min_cooldown:
-                            min_cooldown = k_info.cooldown_until
-                            best_key = k_info
-
-                wait_time = max(1.0, min_cooldown - time.time())
-                print(f"⚠️  TOÀN BỘ Key {provider.upper()} đang dính Cooldown. Cần chờ {wait_time:.1f}s...")
-                return None if best_key is None else (best_key.key, best_key.account_id, best_key)
-
-            # Sắp xếp ưu tiên tuyệt đối:
-            # Tier 1: in_use ASC (tài khoản rảnh 0 worker đang dùng được xếp đầu)
-            # Tier 2: last_used ASC (tài khoản nghỉ lâu nhất xếp đầu)
-            account_stats.sort(key=lambda x: (x["in_use"], x["last_used"]))
+    def write_api_report(self):
+        """Xuất báo cáo hiệu suất gọi API dạng Markdown và JSON theo thời gian thực"""
+        try:
+            now_str = time.strftime("%Y-%m-%d %H:%M:%S")
+            report_lines = [
+                "# 📊 Báo Cáo Hiệu Suất Gọi API (API Performance & Health Report)",
+                f"*Cập nhật lúc: {now_str}*",
+                "",
+                "| Tài Khoản | Dịch Vụ | Thành Công | Thất Bại | Tỷ Lệ Sạch | Trạng Thái |",
+                "| :--- | :--- | :---: | :---: | :---: | :--- |"
+            ]
             
-            chosen_acc = account_stats[0]
-            acc_name = chosen_acc["acc_name"]
-            available_keys = chosen_acc["available_keys"]
-            keys_in_acc = chosen_acc["keys_in_acc"]
+            stats_by_acc = {}
+            now = time.time()
             
-            # Chọn key theo Round Robin trong tài khoản
-            start_key_idx = self.key_indices_per_account[provider].get(acc_name, 0)
-            k_idx = start_key_idx % len(available_keys)
-            key_info = available_keys[k_idx]
+            for provider, accounts in self.keys_by_provider.items():
+                for acc_name, keys in accounts.items():
+                    total_success = 0
+                    total_fail = 0
+                    active_keys_count = 0
+                    frozen_keys_count = 0
+                    longest_cooldown = 0.0
+                    
+                    for k_info in keys:
+                        total_success += k_info.success_count
+                        total_fail += k_info.fail_count
+                        if k_info.cooldown_until > now:
+                            frozen_keys_count += 1
+                            longest_cooldown = max(longest_cooldown, k_info.cooldown_until)
+                        else:
+                            active_keys_count += 1
+                            
+                    if total_success == 0 and total_fail == 0:
+                        continue
+                        
+                    stats_by_acc[(acc_name, provider)] = {
+                        "success": total_success,
+                        "fail": total_fail,
+                        "active_keys": active_keys_count,
+                        "frozen_keys": frozen_keys_count,
+                        "longest_cooldown": longest_cooldown
+                    }
             
-            # Cập nhật trạng thái bận & thời gian sử dụng
-            key_info.mark_used()
-            self.key_indices_per_account[provider][acc_name] = (start_key_idx + 1) % len(keys_in_acc)
-            self.account_in_use[provider][acc_name] = self.account_in_use[provider].get(acc_name, 0) + 1
-            self.account_last_used[provider][acc_name] = now
+            if not stats_by_acc:
+                return
+                
+            sorted_stats = sorted(stats_by_acc.items(), key=lambda x: x[1]["success"], reverse=True)
             
-            return key_info.key, key_info.account_id, key_info
+            for (acc_name, provider), stats in sorted_stats:
+                suc = stats["success"]
+                fail = stats["fail"]
+                tot = suc + fail
+                rate_str = f"{(suc / tot * 100):.1f}%" if tot > 0 else "100.0%"
+                
+                if stats["frozen_keys"] == 0:
+                    status = "🟢 SẴN SÀNG"
+                elif stats["active_keys"] > 0:
+                    remaining_sec = max(1.0, stats["longest_cooldown"] - now)
+                    if remaining_sec > 1800:
+                        status = f"🟡 COOLDOWN BÁN PHẦN (Khóa TPD: {remaining_sec/3600:.1f}h)"
+                    else:
+                        status = f"🟡 COOLDOWN BÁN PHẦN ({remaining_sec:.0f}s)"
+                else:
+                    remaining_sec = max(1.0, stats["longest_cooldown"] - now)
+                    if remaining_sec > 1800:
+                        status = f"🔴 ĐÓNG BĂNG TOÀN BỘ (Khóa TPD: {remaining_sec/3600:.1f}h)"
+                    else:
+                        status = f"🔴 ĐÓNG BĂNG TOÀN BỘ ({remaining_sec:.0f}s)"
+                
+                report_lines.append(
+                    f"| `{acc_name.upper()}` | {provider.upper()} | {suc} | {fail} | **{rate_str}** | {status} |"
+                )
+                
+            report_md = "\n".join(report_lines)
+            
+            report_file = os.path.join(BASE_DIR, "api_report.md")
+            with open(report_file, "w", encoding="utf-8") as f:
+                f.write(report_md)
+                
+            report_json_file = os.path.join(BASE_DIR, "api_report.json")
+            with open(report_json_file, "w", encoding="utf-8") as f:
+                import json
+                json.dump({
+                    "last_updated": now_str,
+                    "stats": [
+                        {
+                            "account": k[0],
+                            "provider": k[1],
+                            "success": v["success"],
+                            "fail": v["fail"],
+                            "active_keys": v["active_keys"],
+                            "frozen_keys": v["frozen_keys"]
+                        }
+                        for k, v in stats_by_acc.items()
+                    ]
+                }, f, indent=2, ensure_ascii=False)
+        except Exception as e:
+            print(f"⚠️ Không thể xuất báo cáo hiệu suất API: {e}")
 
     def mark_rate_limited(self, key_info: KeyInfo, cooldown_seconds: float = 120.0):
         with self._lock:
             provider = key_info.provider.lower()
             account_id = key_info.account_id.lower()
-            if provider in self.keys_by_provider and account_id in self.keys_by_provider[provider]:
-                for k_info in self.keys_by_provider[provider][account_id]:
-                    k_info.mark_rate_limited(cooldown_seconds)
-            print(f"  🛑 Đã đóng băng 429 toàn bộ Key thuộc Tài Khoản '{account_id.upper()}' trong {cooldown_seconds}s.")
-            self.release_key(key_info)
+            with FileLock(LOCK_DIR):
+                state = self._load_shared_state()
+                self._sync_with_shared_state(state)
+                
+                if provider in self.keys_by_provider and account_id in self.keys_by_provider[provider]:
+                    for k_info in self.keys_by_provider[provider][account_id]:
+                        k_info.mark_rate_limited(cooldown_seconds)
+                print(f"  🛑 Đã đóng băng 429 toàn bộ Key thuộc Tài Khoản '{account_id.upper()}' trong {cooldown_seconds}s.")
+                
+                # Giải phóng in_use
+                if provider in self.account_in_use and account_id in self.account_in_use[provider]:
+                    curr = self.account_in_use[provider][account_id]
+                    self.account_in_use[provider][account_id] = max(0, curr - 1)
+                
+                new_state = self._build_shared_state()
+                self._save_shared_state(new_state)
+                self.write_api_report()
 
     def mark_success(self, key_info: KeyInfo):
         with self._lock:
-            key_info.mark_success()
-            self.release_key(key_info)
+            provider = key_info.provider.lower()
+            account_id = key_info.account_id.lower()
+            with FileLock(LOCK_DIR):
+                state = self._load_shared_state()
+                self._sync_with_shared_state(state)
+                
+                key_info.mark_success()
+                
+                # Giải phóng in_use
+                if provider in self.account_in_use and account_id in self.account_in_use[provider]:
+                    curr = self.account_in_use[provider][account_id]
+                    self.account_in_use[provider][account_id] = max(0, curr - 1)
+                
+                new_state = self._build_shared_state()
+                self._save_shared_state(new_state)
+                self.write_api_report()
 
 # Khởi tạo Singleton Global Instance
 key_manager = AccountRoundRobinKeyManager()

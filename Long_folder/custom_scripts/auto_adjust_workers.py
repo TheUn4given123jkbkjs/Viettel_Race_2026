@@ -31,13 +31,40 @@ def calculate_optimal_workers():
     else:
         avg_rpm = 15.0
 
-    # Tính toán dựa trên 12 tài khoản Groq và 15 tài khoản Gemini độc lập
-    # Mỗi Worker chiếm dụng 1 Tài khoản rảnh độc lập (LRU Scheduler)
-    # 6 Workers < 12 tài khoản Groq -> Tỷ lệ trùng tài khoản đồng thời = 0%
-    min_accounts = min(gemini_accounts, groq_accounts) if groq_accounts > 0 else total_accounts
+    # Tính toán số Groq keys đang bị đóng băng dài hạn (> 600s) do cạn Quota ngày
+    total_groq_keys = sum(len(keys) for keys in manager.keys_by_provider.get("groq", {}).values())
+    frozen_groq_keys = 0
+    state_file = os.path.join(os.path.dirname(MODELS_REGISTRY_FILE), "key_manager_state.json")
+    groq_is_exhausted = False
+    
+    if os.path.exists(state_file):
+        try:
+            import time
+            now = time.time()
+            with open(state_file, "r", encoding="utf-8") as f:
+                state = json.load(f)
+            key_cooldowns = state.get("key_cooldowns", {}).get("groq", {})
+            for key, cd_until in key_cooldowns.items():
+                if cd_until - now > 600:
+                    frozen_groq_keys += 1
+        except Exception:
+            pass
+
+    if total_groq_keys > 0 and (frozen_groq_keys / total_groq_keys) >= 0.8:
+        groq_is_exhausted = True
+        groq_accounts = 0
+
+    # Tính toán dựa trên tài khoản hoạt động thực tế
+    min_accounts = min(gemini_accounts, groq_accounts) if groq_accounts > 0 else gemini_accounts
     target_rpm_per_acc = 2.0
     max_safe_system_rpm = min_accounts * target_rpm_per_acc * 1.5
     
+    if groq_is_exhausted:
+        # Khống chế RPM trần cho IP (Gemini Free Tier IP limit = 15 RPM) ở mức 13.0 RPM cực kỳ an toàn
+        max_safe_system_rpm = 13.0
+        print("  🚨 [TUNER DETECTED] Phát hiện >80% Groq Keys bị đóng băng dài hạn (Hết Quota Token ngày TPD).")
+        print("  👉 Kích hoạt chế độ bảo vệ IP: Khống chế tổng RPM toàn hệ thống ở mức 13.0 RPM.")
+
     # 1 Worker sinh mẫu 600-900 từ mất ~18s -> tốc độ ~3.3 req/phút
     worker_rpm = 3.3
     

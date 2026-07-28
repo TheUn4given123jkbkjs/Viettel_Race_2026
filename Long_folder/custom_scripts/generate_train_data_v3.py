@@ -676,7 +676,8 @@ def main():
         provider_counts_session[p_name] = provider_counts_session.get(p_name, 0) + 1
         
         # Lưu metadata & ghi file stats.json chung
-        cumul_provider, cumul_account, cumul_total = record_sample_stats(args.member, current_file_idx, p_name, acc_name)
+        stats_data = record_sample_stats(args.member, current_file_idx, p_name, acc_name)
+        cumul_provider = stats_data.get("by_provider", {})
         
         session_summary = " | ".join([f"{k}: {v}" for k, v in sorted(provider_counts_session.items())])
         cumul_summary = " | ".join([f"{k}: {v}" for k, v in sorted(cumul_provider.items())])
@@ -689,10 +690,17 @@ def main():
 
     print(f"\n=== HOÀN TẤT TIẾN TRÌNH V3 (Thành viên: {args.member}) ===")
     print(f" - Tổng đã hoàn thành trong dải: {already_done + success_count}/{total_in_range}")
-    cumul_p, cumul_a, cumul_tot = update_aggregated_stats(args.member)
-    print(f" - Báo cáo lưu trữ trong sample_{args.member}/stats.json:")
-    for k, v in sorted(cumul_p.items()):
-        print(f"    * {k}: {v} mẫu")
+    stats_file = os.path.join(BASE_DIR, f"sample_{args.member}", "stats.json")
+    if os.path.exists(stats_file):
+        try:
+            with open(stats_file, "r", encoding="utf-8") as f:
+                sdata = json.load(f)
+            cumul_p = sdata.get("by_provider", {})
+            print(f" - Báo cáo lưu trữ trong sample_{args.member}/stats.json (Tổng: {sdata.get('total_samples_with_metadata', 0)} mẫu):")
+            for k, v in sorted(cumul_p.items()):
+                print(f"    * {k}: {v} mẫu")
+        except Exception:
+            pass
 
 if __name__ == "__main__":
     main()

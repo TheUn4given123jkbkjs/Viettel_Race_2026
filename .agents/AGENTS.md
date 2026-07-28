@@ -60,6 +60,15 @@ For multi-step tasks, state a brief plan:
 
 Strong success criteria let you loop independently. Weak criteria ("make it work") require constant clarification.
 
+## 5. Mandatory Workflow & Synchronization Protocol
+
+**Always follow the Standard Operating Procedure in [.agents/AGENT_WORKFLOW_SOP.md](file:///d:/AI%20Race/Viettel_Race_2026/.agents/AGENT_WORKFLOW_SOP.md).**
+
+Whenever modifying code, prompts, models, or API key managers:
+1. **Prompt/Data Changes**: Run quantitative check -> Update code AND Markdown analysis in [diagnose_comparison.ipynb](file:///d:/AI%20Race/Viettel_Race_2026/diagnose_comparison.ipynb) -> Create log file in `logs/LOG-YYYYMMDD-Vx.md` -> Update [logs/README.md](file:///d:/AI%20Race/Viettel_Race_2026/logs/README.md) -> Relaunch 5 silent background workers.
+2. **Model/Key Changes**: Update [models_registry.json](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/models_registry.json) -> Run `auto_adjust_workers.py` to rewrite batch files -> Run `refresh_keys.py`.
+3. **Commiting**: Always commit new changelogs and updated notebooks to Git.
+
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.

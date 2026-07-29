@@ -538,7 +538,7 @@ def generate_with_smart_rotation(provider, prompt, max_attempts=15):
                 is_daily_limit = False
                 
                 res_text_lower = res.text.lower()
-                if "tokens per day" in res_text_lower or "tpd" in res_text_lower or "daily limit" in res_text_lower or "quota exceeded" in res_text_lower or "limit 100000" in res_text_lower:
+                if "tokens per day" in res_text_lower or "tpd" in res_text_lower or "daily limit" in res_text_lower or "requests per day" in res_text_lower or "limit 100000" in res_text_lower:
                     cooldown_sec = 28800.0  # Đóng băng 8 tiếng nếu hết hạn mức ngày
                     is_daily_limit = True
                     print(f"  🚨 [DAILY LIMIT DETECTED] Tài khoản {account_id.upper()} đã hết hạn mức Token trong ngày. Đóng băng 8 giờ!")

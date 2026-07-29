@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30 05:40:59",
+  "last_updated": "2026-07-30 05:51:38",
   "stats": [
     {
       "account": "cho_hong",
@@ -14,8 +14,8 @@
       "provider": "gemini",
       "success": 0,
       "fail": 0,
-      "active_keys": 0,
-      "frozen_keys": 5
+      "active_keys": 5,
+      "frozen_keys": 0
     },
     {
       "account": "cho_nau",
@@ -37,15 +37,15 @@
       "account": "cho_do",
       "provider": "gemini",
       "success": 0,
-      "fail": 3,
+      "fail": 0,
       "active_keys": 0,
       "frozen_keys": 3
     },
     {
       "account": "cho_cat",
       "provider": "gemini",
-      "success": 0,
-      "fail": 0,
+      "success": 2,
+      "fail": 3,
       "active_keys": 0,
       "frozen_keys": 3
     },
@@ -78,8 +78,8 @@
       "provider": "gemini",
       "success": 0,
       "fail": 0,
-      "active_keys": 0,
-      "frozen_keys": 3
+      "active_keys": 3,
+      "frozen_keys": 0
     },
     {
       "account": "ll",
@@ -93,7 +93,7 @@
       "account": "sv",
       "provider": "gemini",
       "success": 0,
-      "fail": 3,
+      "fail": 0,
       "active_keys": 0,
       "frozen_keys": 3
     },
@@ -124,7 +124,7 @@
     {
       "account": "inksan",
       "provider": "gemini",
-      "success": 0,
+      "success": 1,
       "fail": 0,
       "active_keys": 0,
       "frozen_keys": 3
@@ -132,8 +132,8 @@
     {
       "account": "howl",
       "provider": "gemini",
-      "success": 1,
-      "fail": 6,
+      "success": 0,
+      "fail": 0,
       "active_keys": 0,
       "frozen_keys": 3
     },
@@ -172,34 +172,34 @@
     {
       "account": "cho_nau",
       "provider": "groq",
-      "success": 1,
+      "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "cho_hong",
       "provider": "groq",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "anime_blue",
       "provider": "groq",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "cho_vang",
       "provider": "groq",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "cho_trang",
@@ -214,56 +214,56 @@
       "provider": "groq",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "cho_cat",
       "provider": "groq",
-      "success": 1,
-      "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "success": 0,
+      "fail": 3,
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "anime_vang",
       "provider": "groq",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "bl_tim",
       "provider": "groq",
       "success": 0,
       "fail": 0,
-      "active_keys": 2,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 2
     },
     {
       "account": "ll",
       "provider": "groq",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "sv",
       "provider": "groq",
       "success": 0,
-      "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "fail": 3,
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "tv",
       "provider": "groq",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     }
   ]
 }

@@ -91,6 +91,10 @@ def generate_worker_ranges(total_samples, num_workers):
             ranges.append((start_idx, end_idx))
     return ranges
 
+def update_batch_files(num_workers=None):
+    """Hàm tương thích ngược — số worker được tính toán và bật động theo master launcher"""
+    pass
+
 def launch_dynamic_workers(member, provider, num_samples):
     """Tính toán số worker tối ưu và mở dàn cửa sổ CMD khởi chạy song song"""
     num_workers = calculate_optimal_workers()

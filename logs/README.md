@@ -2,6 +2,18 @@
 
 ---
 
+### 📌 LOG-20260730-V6.0: Nâng cấp generate_train_data_v3.py & Cấu hình Worker Member C theo V6.0
+
+* **Ngày thực hiện:** `2026-07-30 02:49:00 (UTC+7)`
+* **Lý do:** Tích hợp bộ Smart ICD-10 Mapper, Cân bằng ma trận bệnh lý (kèm 5% bệnh hiếm), Ràng buộc thuốc lâm sàng và kịch bản V6.0 vào hạ tầng V3 của Long.
+* **Cách khắc phục:** 
+  * Tạo [icd10_mapper.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/icd10_mapper.py) trong `custom_scripts`.
+  * Nâng cấp [generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py) tích hợp `DISEASE_DISTRIBUTION`, `CLINICAL_DRUG_MATRIX`, `smart_icd10_lookup`, Scenarios 1-4, nâng timeout 60s.
+  * Xác minh và chuẩn hóa launcher [run_v3_member_C.bat](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/run_v3_member_C.bat).
+* **Chi tiết Log:** [LOG-20260730-V6.0-LONG-SCRIPT-UPGRADE.md](file:///d:/AI%20Race/Viettel_Race_2026/logs/LOG-20260730-V6.0-LONG-SCRIPT-UPGRADE.md)
+
+---
+
 ### 📌 LOG-20260729-V6.0: Khắc phục lỗi FTS, Smart Mapper & Cân bằng phân bổ V6.0
 
 * **Ngày thực hiện:** `2026-07-29 23:15:00 (UTC+7)`

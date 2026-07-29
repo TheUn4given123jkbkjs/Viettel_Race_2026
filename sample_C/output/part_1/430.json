@@ -11,14 +11,14 @@
     "position": [153, 156],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   },
   {
     "text": "Đái tháo đường týp 2",
     "position": [314, 334],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Metformin",

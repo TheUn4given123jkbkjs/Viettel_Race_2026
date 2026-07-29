@@ -4,25 +4,25 @@
     "position": [327, 367],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O22.3"]
+    "candidates": ["I10"]
   },
   {
     "text": "bệnh tim bẩm sinh",
     "position": [152, 169],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.06",
+      "A36.81",
+      "E74.00"
+    ]
   },
   {
     "text": "tăng huyết áp",
     "position": [173, 186],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đau chân",

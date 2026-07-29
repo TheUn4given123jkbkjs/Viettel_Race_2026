@@ -11,7 +11,11 @@
     "position": [122, 149],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "F31.71",
+      "F31.72",
+      "F31.73"
+    ]
   },
   {
     "text": "Chảy máu kéo dài",
@@ -46,6 +50,10 @@
     "position": [1144, 1167],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E64",
+      "E64.3",
+      "E64.8"
+    ]
   }
 ]

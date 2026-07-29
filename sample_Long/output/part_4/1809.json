@@ -11,25 +11,21 @@
     "position": [1240, 1250],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Metformin 500mg",
     "position": [1271, 1286],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [1339, 1352],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Các bệnh của móng trong các bệnh khác đã phân loại ở phần khác",
@@ -43,13 +39,13 @@
     "position": [2070, 2086],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Terbinafine 250mg",
     "position": [2143, 2160],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["37801"]
   }
 ]

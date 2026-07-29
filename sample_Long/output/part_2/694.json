@@ -11,21 +11,13 @@
     "position": [46, 58],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N18",
-      "N18.1",
-      "N18.2"
-    ]
+    "candidates": ["N18.9"]
   },
   {
     "text": "tăng huyết áp",
     "position": [113, 126],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   }
 ]

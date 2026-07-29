@@ -11,18 +11,14 @@
     "position": [265, 278],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "rối loạn lipid máu",
     "position": [282, 300],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E78"]
+    "candidates": ["E78.5"]
   },
   {
     "text": "Hemoglobin",

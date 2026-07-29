@@ -11,25 +11,21 @@
     "position": [255, 268],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đau dạ dày mạn tính",
     "position": [350, 369],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["O74.5"]
   },
   {
     "text": "đái tháo đường típ 2",
     "position": [561, 581],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "đau thắt ngực",

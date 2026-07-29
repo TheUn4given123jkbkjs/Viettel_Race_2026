@@ -151,11 +151,7 @@
     "position": [2031, 2040],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": ["J18.9"]
   },
   {
     "text": "Viêm tụy",
@@ -163,9 +159,9 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "A54.41",
       "A17.83",
-      "A18.03"
+      "A18.03",
+      "G36.0"
     ]
   },
   {

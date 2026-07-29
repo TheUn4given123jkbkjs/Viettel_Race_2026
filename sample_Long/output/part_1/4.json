@@ -4,7 +4,11 @@
     "position": [187, 218],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E89.5",
+      "I87.2",
+      "N18"
+    ]
   },
   {
     "text": "Tức nặng vùng tầng sinh môn",
@@ -39,6 +43,6 @@
     "position": [1857, 1898],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O22.1"]
+    "candidates": ["I10"]
   }
 ]

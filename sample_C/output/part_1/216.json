@@ -11,14 +11,14 @@
     "position": [254, 273],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "Đái tháo đường týp 2",
     "position": [412, 432],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "mất ngủ",

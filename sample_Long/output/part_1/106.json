@@ -25,17 +25,17 @@
     "position": [39, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K70.9",
+      "K71",
+      "K71.0"
+    ]
   },
   {
     "text": "bệnh tim mạch",
     "position": [60, 73],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   }
 ]

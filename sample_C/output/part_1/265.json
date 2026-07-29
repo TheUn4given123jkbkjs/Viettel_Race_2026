@@ -11,40 +11,28 @@
     "position": [383, 403],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [194, 207],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [194, 207],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "viêm phổi",
     "position": [2115, 2124],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": ["J18.9"]
   },
   {
     "text": "Bạch cầu (WBC)",

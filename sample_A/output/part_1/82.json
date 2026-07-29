@@ -4,11 +4,7 @@
     "position": [0, 8],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "L70.2",
-      "B01",
-      "B01.0†"
-    ]
+    "candidates": ["B01.9"]
   },
   {
     "text": "Sưng đỏ và đau trên da",
@@ -30,9 +26,9 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "A52.13",
-      "A54.81",
-      "A50.41"
+      "A32.12",
+      "A32.11",
+      "A39.53"
     ]
   },
   {

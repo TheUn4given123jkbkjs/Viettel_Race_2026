@@ -11,7 +11,11 @@
     "position": [158, 173],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "K43.0",
+      "K43.1",
+      "K43.2"
+    ]
   },
   {
     "text": "Hydrocortisone acetate",

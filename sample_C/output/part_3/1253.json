@@ -11,7 +11,7 @@
     "position": [313, 325],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["J45.9"]
   },
   {
     "text": "sốt cao",
@@ -53,6 +53,10 @@
     "position": [1778, 1805],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M00.10",
+      "M00.11",
+      "M00.12"
+    ]
   }
 ]

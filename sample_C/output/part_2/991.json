@@ -4,7 +4,11 @@
     "position": [194, 229],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J44",
+      "J44.0",
+      "J44.1"
+    ]
   },
   {
     "text": "Ipratropium",
@@ -18,18 +22,14 @@
     "position": [1467, 1487],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [1503, 1516],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "không sốt",

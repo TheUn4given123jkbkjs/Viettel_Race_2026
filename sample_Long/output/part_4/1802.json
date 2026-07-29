@@ -11,14 +11,14 @@
     "position": [1719, 1735],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Azathioprine 50mg: 1 viên/ngày, uống",
     "position": [1742, 1778],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1256"]
   },
   {
     "text": "buồn nôn",
@@ -32,7 +32,7 @@
     "position": [292, 313],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "ban đỏ",

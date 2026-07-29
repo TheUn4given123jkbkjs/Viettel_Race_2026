@@ -43,21 +43,13 @@
     "position": [552, 565],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   },
   {
     "text": "tiểu đường",
     "position": [598, 608],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": ["E11.9"]
   }
 ]

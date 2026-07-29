@@ -4,7 +4,7 @@
     "position": [135, 152],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "đau tái diễn ở vùng góc hàm dưới phía sau bên trái",
@@ -25,7 +25,11 @@
     "position": [1629, 1649],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A51.49",
+      "M30",
+      "M30.8"
+    ]
   },
   {
     "text": "Răng mọc kẹt và răng ngầm",

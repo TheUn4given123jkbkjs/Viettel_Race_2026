@@ -32,10 +32,6 @@
     "position": [218, 228],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": ["E11.9"]
   }
 ]

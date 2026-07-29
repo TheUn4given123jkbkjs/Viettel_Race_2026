@@ -4,14 +4,14 @@
     "position": [558, 578],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["Z82.1", "H54"]
   },
   {
     "text": "mẹ có tiền sử tăng huyết áp",
     "position": [623, 650],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "Bệnh sử gia đình có mù loà và mất thị giác",

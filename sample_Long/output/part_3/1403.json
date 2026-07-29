@@ -4,7 +4,7 @@
     "position": [1059, 1080],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "ran ẩm",
@@ -25,20 +25,20 @@
     "position": [1748, 1791],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Meloxicam 15mg",
     "position": [1797, 1811],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["41493"]
   },
   {
     "text": "Hen phế quản",
     "position": [2170, 2182],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["J45.9"]
   }
 ]

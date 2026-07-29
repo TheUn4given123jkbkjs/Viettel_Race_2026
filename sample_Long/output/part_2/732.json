@@ -4,18 +4,14 @@
     "position": [74, 93],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "M05",
-      "M05.3†",
-      "M05.8"
-    ]
+    "candidates": ["M06.9"]
   },
   {
     "text": "Hen phế quản",
     "position": [249, 261],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["J45.9"]
   },
   {
     "text": "khó thở",

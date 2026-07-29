@@ -11,14 +11,14 @@
     "position": [1179, 1213],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "mẹ có tiền sử Tăng huyết áp",
     "position": [1217, 1244],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "đau đớn dữ dội vùng tổn thương",

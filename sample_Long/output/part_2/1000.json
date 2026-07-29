@@ -4,13 +4,13 @@
     "position": [181, 260],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": ["M14.24*"]
+    "candidates": ["E10.9"]
   },
   {
     "text": "Aspirin 500mg 3 lần mỗi ngày",
     "position": [283, 311],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   }
 ]

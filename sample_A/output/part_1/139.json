@@ -25,11 +25,7 @@
     "position": [72, 85],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   },
   {
     "text": "chẩn đoán hình ảnh",

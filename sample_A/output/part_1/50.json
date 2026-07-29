@@ -29,7 +29,7 @@
     "position": [760, 763],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   },
   {
     "text": "đau họng",
@@ -57,10 +57,6 @@
     "position": [1161, 1174],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J00",
-      "J02",
-      "J02.8"
-    ]
+    "candidates": ["J02.9"]
   }
 ]

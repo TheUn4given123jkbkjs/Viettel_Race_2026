@@ -11,14 +11,14 @@
     "position": [234, 268],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "mẹ có tiền sử Tăng huyết áp",
     "position": [292, 319],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "Amoxicillin / Clavulanic acid",

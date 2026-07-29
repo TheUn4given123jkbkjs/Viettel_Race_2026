@@ -4,7 +4,7 @@
     "position": [110, 124],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "loãng xướng",
@@ -39,6 +39,6 @@
     "position": [2651, 2683],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M71.4"]
+    "candidates": ["I10"]
   }
 ]

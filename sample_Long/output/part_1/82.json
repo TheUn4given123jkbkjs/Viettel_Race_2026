@@ -22,11 +22,7 @@
     "position": [141, 151],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "không sốt",

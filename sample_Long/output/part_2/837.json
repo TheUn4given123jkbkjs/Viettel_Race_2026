@@ -11,7 +11,7 @@
     "position": [422, 432],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Bệnh viêm khớp phản ứng khác",
@@ -36,7 +36,7 @@
     "position": [1089, 1104],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   },
   {
     "text": "viêmkhớp",

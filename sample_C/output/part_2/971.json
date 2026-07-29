@@ -22,22 +22,14 @@
     "position": [356, 365],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": ["J18.9"]
   },
   {
     "text": "suy tim",
     "position": [367, 374],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I11.0",
-      "I11.9",
-      "I13.0"
-    ]
+    "candidates": ["I50.9"]
   },
   {
     "text": "troponin",

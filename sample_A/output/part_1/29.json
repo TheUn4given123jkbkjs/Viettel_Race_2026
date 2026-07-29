@@ -11,29 +11,21 @@
     "position": [39, 60],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [78, 91],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Rung nhĩ",
     "position": [102, 110],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I48",
-      "I48.0",
-      "I48.1"
-    ]
+    "candidates": ["I48"]
   },
   {
     "text": "Đau bụng cấp vùng thượng vị",

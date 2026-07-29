@@ -11,18 +11,14 @@
     "position": [1126, 1139],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Đái tháo đường tuýp 2",
     "position": [1254, 1275],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "buồn nôn",

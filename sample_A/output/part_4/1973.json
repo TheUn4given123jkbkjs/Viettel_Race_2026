@@ -4,18 +4,14 @@
     "position": [324, 333],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": ["J18.9"]
   },
   {
     "text": "Poractant alpha",
     "position": [142, 157],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["236381"]
   },
   {
     "text": "Bà A",

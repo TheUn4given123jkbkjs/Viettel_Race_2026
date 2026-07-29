@@ -11,18 +11,14 @@
     "position": [384, 404],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [446, 459],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đau bụng",
@@ -36,7 +32,11 @@
     "position": [2218, 2235],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K91.3",
+      "K56",
+      "K56.5"
+    ]
   },
   {
     "text": "Bạch cầu",

@@ -32,13 +32,17 @@
     "position": [1225, 1246],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I51.9"]
   },
   {
     "text": "Tiền sử bệnh thần kinh",
     "position": [1250, 1272],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "M14.60",
+      "M14.61",
+      "M14.62"
+    ]
   }
 ]

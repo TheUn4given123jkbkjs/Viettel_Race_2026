@@ -39,24 +39,20 @@
     "position": [147, 150],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   },
   {
     "text": "Đái tháo đường týp 2",
     "position": [339, 359],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [409, 422],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   }
 ]

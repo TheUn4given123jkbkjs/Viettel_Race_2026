@@ -11,7 +11,7 @@
     "position": [946, 962],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["253182", "317235"]
   },
   {
     "text": "WBC",
@@ -46,17 +46,13 @@
     "position": [87, 108],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "tăng huyết áp",
     "position": [134, 147],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   }
 ]

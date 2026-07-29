@@ -11,22 +11,14 @@
     "position": [356, 369],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đái tháo đường",
     "position": [373, 387],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "E12.9",
-      "E13",
-      "E13.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "sốt",

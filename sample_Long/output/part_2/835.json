@@ -18,11 +18,7 @@
     "position": [135, 138],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "Z27.4",
-      "Z24.4",
-      "B05"
-    ]
+    "candidates": ["B05.9"]
   },
   {
     "text": "nôn mửa",

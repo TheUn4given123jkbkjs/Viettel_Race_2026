@@ -26,9 +26,9 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "A54.86",
       "I89",
-      "I89.8"
+      "I89.8",
+      "I89.9"
     ]
   },
   {
@@ -36,17 +36,13 @@
     "position": [839, 848],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": ["J18.9"]
   },
   {
     "text": "nhiễm trùng đường tiết niệu",
     "position": [901, 928],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["N39.0"]
   }
 ]

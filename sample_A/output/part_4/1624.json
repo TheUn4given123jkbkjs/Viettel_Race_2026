@@ -32,10 +32,6 @@
     "position": [562, 569],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "E88.31",
-      "G46.3*",
-      "G46.4*"
-    ]
+    "candidates": ["I64"]
   }
 ]

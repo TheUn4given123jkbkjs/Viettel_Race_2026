@@ -33,9 +33,9 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "A52.75",
       "N18.0",
-      "M31.30"
+      "M31.30",
+      "M31.31"
     ]
   },
   {
@@ -43,10 +43,6 @@
     "position": [229, 242],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   }
 ]

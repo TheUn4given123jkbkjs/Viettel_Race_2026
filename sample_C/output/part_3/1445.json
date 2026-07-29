@@ -18,18 +18,14 @@
     "position": [191, 194],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [343, 356],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Thiamine",

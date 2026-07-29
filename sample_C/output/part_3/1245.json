@@ -25,7 +25,11 @@
     "position": [423, 435],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "N60.20",
+      "N60.21",
+      "N60.22"
+    ]
   },
   {
     "text": "Hemoglobin",

@@ -4,11 +4,7 @@
     "position": [460, 473],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Ofloxacin",
@@ -22,18 +18,14 @@
     "position": [704, 724],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [460, 473],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Bạch cầu",
@@ -75,6 +67,6 @@
     "position": [2823, 2838],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7623"]
   }
 ]

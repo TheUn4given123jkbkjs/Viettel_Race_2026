@@ -4,11 +4,7 @@
     "position": [22, 32],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "chảy máu nướu",

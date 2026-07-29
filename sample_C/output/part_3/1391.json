@@ -18,7 +18,11 @@
     "position": [471, 502],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "Q64.70",
+      "Q64.79",
+      "Q50.39"
+    ]
   },
   {
     "text": "Ceftriaxone",

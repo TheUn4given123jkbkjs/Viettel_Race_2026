@@ -11,11 +11,7 @@
     "position": [1764, 1777],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đau đầu",
@@ -57,6 +53,6 @@
     "position": [1806, 1824],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E78"]
+    "candidates": ["E78.5"]
   }
 ]

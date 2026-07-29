@@ -4,14 +4,14 @@
     "position": [232, 249],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "bệnh mạch vành",
     "position": [421, 435],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["A52.06", "I25.0"]
+    "candidates": ["I25.1"]
   },
   {
     "text": "đau mũi dữ dội",

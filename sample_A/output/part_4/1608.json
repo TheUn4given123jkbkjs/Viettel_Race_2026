@@ -39,17 +39,13 @@
     "position": [452, 465],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   },
   {
     "text": "bố của bệnh nhân",
     "position": [467, 483],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["Z65.4"]
   }
 ]

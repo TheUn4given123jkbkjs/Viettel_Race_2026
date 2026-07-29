@@ -5,9 +5,9 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "A54.03",
       "A56.00",
-      "A18.11"
+      "A18.11",
+      "A18.16"
     ]
   },
   {
@@ -29,7 +29,7 @@
     "position": [546, 551],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3443"]
   },
   {
     "text": "Mammography",

@@ -60,7 +60,11 @@
     "position": [206, 231],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "A60.04",
+      "N77.8",
+      "I83.2"
+    ]
   },
   {
     "text": "suy thận mãn tính",

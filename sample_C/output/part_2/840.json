@@ -18,18 +18,14 @@
     "position": [390, 403],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "tiểu đường loại 2",
     "position": [407, 424],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "công thức máu",

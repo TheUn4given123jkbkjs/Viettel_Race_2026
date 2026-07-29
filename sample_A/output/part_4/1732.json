@@ -4,7 +4,7 @@
     "position": [200, 217],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "Ung thư biểu mô tại chỗ của bàng quang",
@@ -18,7 +18,11 @@
     "position": [237, 257],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "Z35.0",
+      "Z35.1",
+      "Z35.3"
+    ]
   },
   {
     "text": "ung thư phổi",
@@ -32,10 +36,6 @@
     "position": [873, 900],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P39.3",
-      "O86.3",
-      "O23"
-    ]
+    "candidates": ["P39.3"]
   }
 ]

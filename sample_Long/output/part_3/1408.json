@@ -4,22 +4,14 @@
     "position": [30, 43],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "bệnh đái tháo đường",
     "position": [200, 219],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "E12.9",
-      "E13",
-      "E13.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "Sưng nóng đỏ đau khớp bàn ngón I chân trái và khớp cổ chân trái",
@@ -47,13 +39,13 @@
     "position": [1656, 1701],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2683"]
   },
   {
     "text": "Allopurinol 100mg: 1 viên/ngày, uống sau ăn sáng",
     "position": [1707, 1755],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["519"]
   }
 ]

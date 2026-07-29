@@ -4,18 +4,14 @@
     "position": [34, 42],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O04",
-      "O04.0",
-      "O04.1"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "phá thai chưa xác định rõ (Không hoàn toàn, không có biến chứng)",
     "position": [193, 259],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O06.4"]
+    "candidates": ["I10"]
   },
   {
     "text": "không sốt",

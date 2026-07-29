@@ -4,18 +4,14 @@
     "position": [260, 273],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đái tháo đường typ 2",
     "position": [644, 664],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "đau cổ gáy",
@@ -36,7 +32,11 @@
     "position": [2061, 2082],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E75.25",
+      "E76.01",
+      "E76.03"
+    ]
   },
   {
     "text": "Diclofenc",

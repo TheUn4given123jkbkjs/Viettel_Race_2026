@@ -25,14 +25,14 @@
     "position": [1299, 1333],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "mẹ có tiền sử Tăng huyết áp",
     "position": [1337, 1364],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "công thức máu",

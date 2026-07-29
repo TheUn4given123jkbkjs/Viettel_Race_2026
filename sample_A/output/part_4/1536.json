@@ -4,18 +4,14 @@
     "position": [13, 26],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "GERD",
     "position": [30, 34],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K21.9"]
   },
   {
     "text": "Ondansetron",
@@ -50,11 +46,7 @@
     "position": [287, 302],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I21",
-      "I21.0",
-      "I21.1"
-    ]
+    "candidates": ["I21.9"]
   },
   {
     "text": "Aspirin",

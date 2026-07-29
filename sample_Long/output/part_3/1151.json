@@ -18,11 +18,7 @@
     "position": [118, 127],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F19.10",
-      "F19.12",
-      "F19.14"
-    ]
+    "candidates": ["G40.9"]
   },
   {
     "text": "hội chứng Reye",
@@ -58,21 +54,13 @@
     "position": [386, 396],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P28.11",
-      "J80",
-      "P22"
-    ]
+    "candidates": ["J96.9"]
   },
   {
     "text": "tăng huyết áp",
     "position": [400, 413],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   }
 ]

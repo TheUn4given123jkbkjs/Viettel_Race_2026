@@ -4,7 +4,7 @@
     "position": [82, 91],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "chủ quan sốt",
@@ -32,6 +32,6 @@
     "position": [266, 284],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A22.1"]
+    "candidates": ["I10"]
   }
 ]

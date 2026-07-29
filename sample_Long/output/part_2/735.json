@@ -4,7 +4,11 @@
     "position": [89, 142],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "Z35.0",
+      "Z35.1",
+      "Z35.3"
+    ]
   },
   {
     "text": "đau ngực không điển hình",

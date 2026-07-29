@@ -11,7 +11,11 @@
     "position": [534, 555],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical", "isFamily"],
-    "candidates": []
+    "candidates": [
+      "Z35.0",
+      "Z35.1",
+      "Z35.3"
+    ]
   },
   {
     "text": "rách, vỡ và chảy máu nội sọ do chấn thương khi sinh chưa xác định",

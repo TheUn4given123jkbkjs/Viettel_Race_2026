@@ -44,9 +44,9 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "A54.80",
-      "A54.87",
-      "A52.03"
+      "A32.82",
+      "A36.81",
+      "A39.50"
     ]
   },
   {
@@ -54,10 +54,6 @@
     "position": [394, 403],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": ["J18.9"]
   }
 ]

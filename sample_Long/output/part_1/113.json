@@ -4,7 +4,11 @@
     "position": [279, 296],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": []
+    "candidates": [
+      "A52.15",
+      "A52.16",
+      "A50.08"
+    ]
   },
   {
     "text": "mệt mỏi",

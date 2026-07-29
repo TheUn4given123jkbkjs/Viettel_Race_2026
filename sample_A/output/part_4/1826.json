@@ -4,7 +4,11 @@
     "position": [35, 55],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.3"
+    ]
   },
   {
     "text": "Cefotaxime",
@@ -39,7 +43,11 @@
     "position": [993, 1014],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "N02.2",
+      "N02.3",
+      "N02.4"
+    ]
   },
   {
     "text": "Meropenem",

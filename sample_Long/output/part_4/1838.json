@@ -11,7 +11,11 @@
     "position": [308, 332],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "P70.0",
+      "P70.1",
+      "P00"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",

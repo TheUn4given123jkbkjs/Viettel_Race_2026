@@ -4,7 +4,7 @@
     "position": [23, 43],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Phù mềm ấn lõm hai cẳng chân",
@@ -32,13 +32,13 @@
     "position": [721, 769],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6902", "8638"]
   },
   {
     "text": "Furosemide 40mg: 1 viên/ngày, uống sáng",
     "position": [772, 811],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4603"]
   }
 ]

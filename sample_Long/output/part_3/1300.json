@@ -4,7 +4,7 @@
     "position": [190, 212],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["O24.4"]
   },
   {
     "text": "run rẩy chân tay",
@@ -25,7 +25,7 @@
     "position": [799, 859],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P70.0"]
+    "candidates": ["E11.9"]
   },
   {
     "text": "hạ đường huyết sơ sinh",

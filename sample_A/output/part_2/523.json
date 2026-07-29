@@ -11,11 +11,7 @@
     "position": [403, 411],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "F31.75",
-      "F31.76",
-      "F33.40"
-    ]
+    "candidates": ["F32.9"]
   },
   {
     "text": "Enalapril",

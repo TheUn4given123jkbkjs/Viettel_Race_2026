@@ -4,7 +4,11 @@
     "position": [335, 354],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": []
+    "candidates": [
+      "F40.23",
+      "F43.10",
+      "F43.11"
+    ]
   },
   {
     "text": "Abacavir",

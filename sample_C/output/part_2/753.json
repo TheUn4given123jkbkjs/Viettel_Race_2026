@@ -11,14 +11,18 @@
     "position": [308, 345],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "Z35.0",
+      "Z35.1",
+      "Z35.3"
+    ]
   },
   {
     "text": "tiền sử đái tháo đường tuýp 2",
     "position": [376, 405],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "phủ nhận buồn nôn",

@@ -4,7 +4,7 @@
     "position": [36, 39],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   },
   {
     "text": "đau nhức",
@@ -39,13 +39,13 @@
     "position": [1235, 1250],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3355"]
   },
   {
     "text": "Ibuprofen 400mg",
     "position": [1266, 1281],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   }
 ]

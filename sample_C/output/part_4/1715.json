@@ -11,33 +11,21 @@
     "position": [92, 105],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "suy thận mạn",
     "position": [184, 196],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N18",
-      "N18.1",
-      "N18.2"
-    ]
+    "candidates": ["N18.9"]
   },
   {
     "text": "suy thận cấp",
     "position": [1062, 1074],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N17",
-      "N17.0",
-      "N17.1"
-    ]
+    "candidates": ["N17.9"]
   },
   {
     "text": "Creatinine",

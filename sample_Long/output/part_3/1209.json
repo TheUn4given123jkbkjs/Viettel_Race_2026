@@ -4,7 +4,7 @@
     "position": [27, 48],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E10.9"]
   },
   {
     "text": "Phù nhẹ hai mi mắt",
@@ -25,6 +25,6 @@
     "position": [184, 262],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N08.3*"]
+    "candidates": ["E10.9"]
   }
 ]

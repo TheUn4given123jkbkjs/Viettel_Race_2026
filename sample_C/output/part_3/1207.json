@@ -11,7 +11,7 @@
     "position": [207, 223],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "metformin",
@@ -32,22 +32,14 @@
     "position": [345, 358],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   },
   {
     "text": "suy tim",
     "position": [391, 398],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I11.0",
-      "I11.9",
-      "I13.0"
-    ]
+    "candidates": ["I50.9"]
   },
   {
     "text": "Hemoglobin 12 g/dL",

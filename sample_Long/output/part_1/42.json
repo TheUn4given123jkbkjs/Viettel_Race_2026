@@ -15,7 +15,7 @@
     "position": [610, 622],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["J45.9"]
   },
   {
     "text": "ho khạc đờm mủ",
@@ -43,7 +43,7 @@
     "position": [1170, 1214],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J14"]
+    "candidates": ["J18.9"]
   },
   {
     "text": "Amoxicillin / Clavulanic acid",

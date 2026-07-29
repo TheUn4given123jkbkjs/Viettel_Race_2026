@@ -4,7 +4,7 @@
     "position": [139, 156],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "sỏi mật",
@@ -50,10 +50,6 @@
     "position": [2714, 2726],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K80.50",
-      "K80.51",
-      "K80.0"
-    ]
+    "candidates": ["K81.9"]
   }
 ]

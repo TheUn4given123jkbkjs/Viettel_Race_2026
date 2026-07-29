@@ -11,17 +11,17 @@
     "position": [78, 88],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "bệnh lý về thận",
     "position": [825, 840],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.15",
+      "A52.16",
+      "A50.08"
+    ]
   }
 ]

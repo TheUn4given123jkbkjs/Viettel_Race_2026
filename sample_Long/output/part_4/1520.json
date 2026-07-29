@@ -25,7 +25,11 @@
     "position": [337, 356],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "F31.71",
+      "F31.72",
+      "F31.73"
+    ]
   },
   {
     "text": "Các bệnh da bọng nước đặc hiệu khác",

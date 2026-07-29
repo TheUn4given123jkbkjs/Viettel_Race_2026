@@ -22,11 +22,7 @@
     "position": [339, 352],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Chóng mặt",
@@ -47,11 +43,7 @@
     "position": [802, 814],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N18",
-      "N18.1",
-      "N18.2"
-    ]
+    "candidates": ["N18.9"]
   },
   {
     "text": "Đo thính lực đồ",

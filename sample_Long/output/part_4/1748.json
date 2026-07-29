@@ -25,7 +25,11 @@
     "position": [1647, 1690],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "Z35.0",
+      "Z35.1",
+      "Z35.3"
+    ]
   },
   {
     "text": "chlorhexidine",

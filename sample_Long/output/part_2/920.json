@@ -4,7 +4,11 @@
     "position": [44, 60],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "O03.0",
+      "O03.5",
+      "O04.0"
+    ]
   },
   {
     "text": "vét loét",

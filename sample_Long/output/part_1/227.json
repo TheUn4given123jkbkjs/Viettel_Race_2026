@@ -4,18 +4,14 @@
     "position": [28, 41],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "ĐTĐ type 2",
     "position": [170, 180],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "đỏda",
@@ -37,9 +33,9 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "A50.31",
       "A18.52",
-      "H16.3"
+      "H16.3",
+      "L30.4"
     ]
   },
   {

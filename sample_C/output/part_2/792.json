@@ -18,18 +18,14 @@
     "position": [104, 117],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   },
   {
     "text": "bệnh tiểu đường loại 2",
     "position": [119, 141],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Hemoglobin 12 g/dl",

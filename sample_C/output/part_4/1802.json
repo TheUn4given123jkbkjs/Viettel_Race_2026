@@ -4,29 +4,21 @@
     "position": [112, 125],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đái tháo đường",
     "position": [305, 319],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "E12.9",
-      "E13",
-      "E13.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "tai biến mạch máu não",
     "position": [342, 363],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["I64", "Z82.3"]
+    "candidates": ["I64"]
   },
   {
     "text": "buồn nôn",

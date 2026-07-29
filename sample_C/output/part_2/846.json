@@ -11,18 +11,14 @@
     "position": [156, 176],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [180, 193],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "công thức máu",
@@ -50,10 +46,6 @@
     "position": [688, 698],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "B16",
-      "B16.0",
-      "B16.1"
-    ]
+    "candidates": ["B18.1"]
   }
 ]

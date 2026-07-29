@@ -4,14 +4,18 @@
     "position": [235, 251],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "vảy nến da đầu",
     "position": [500, 514],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "L40.50",
+      "L40.51",
+      "L40.52"
+    ]
   },
   {
     "text": "sưngđau",

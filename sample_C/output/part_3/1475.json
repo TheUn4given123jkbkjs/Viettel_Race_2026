@@ -32,25 +32,25 @@
     "position": [1054, 1074],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [1092, 1105],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Độc tính thần kinh do Fluorouracil",
     "position": [395, 429],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Z03.6",
+      "T41.1",
+      "Y12"
+    ]
   },
   {
     "text": "Uridine triacetate",

@@ -4,11 +4,7 @@
     "position": [294, 319],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I24",
-      "I24.8",
-      "I24.9"
-    ]
+    "candidates": ["I25.9"]
   },
   {
     "text": "troponin",
@@ -36,11 +32,7 @@
     "position": [110, 123],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   },
   {
     "text": "aspirin",

@@ -11,18 +11,14 @@
     "position": [659, 679],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [722, 735],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Công thức máu",
@@ -57,13 +53,13 @@
     "position": [2071, 2083],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Atorvastatin 20mg",
     "position": [2114, 2131],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["83367"]
   }
 ]

@@ -22,29 +22,21 @@
     "position": [245, 254],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": ["J18.9"]
   },
   {
     "text": "bệnh tiểu đường",
     "position": [258, 273],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "tăng huyết áp",
     "position": [368, 381],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "suy thượng thận",
@@ -65,6 +57,10 @@
     "position": [484, 502],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Z74.2",
+      "T43.6",
+      "K22.0"
+    ]
   }
 ]

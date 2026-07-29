@@ -11,7 +11,7 @@
     "position": [387, 397],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "hoa mắt",
@@ -39,13 +39,13 @@
     "position": [1060, 1110],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4452"]
   },
   {
     "text": "Heptaminol 187.8mg",
     "position": [1117, 1135],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5254"]
   }
 ]

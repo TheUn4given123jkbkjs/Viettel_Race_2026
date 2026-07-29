@@ -5,9 +5,9 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
     "candidates": [
-      "A52.15",
       "G61",
-      "G61.8"
+      "G61.8",
+      "G61.9"
     ]
   },
   {

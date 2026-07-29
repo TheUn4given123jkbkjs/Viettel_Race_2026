@@ -4,11 +4,7 @@
     "position": [163, 176],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Hydrochlorothiazide",
@@ -22,11 +18,7 @@
     "position": [843, 857],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "E12.9",
-      "E13",
-      "E13.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "buồn nôn",
@@ -47,7 +39,11 @@
     "position": [2342, 2363],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F01.1",
+      "I63.8",
+      "I63.9"
+    ]
   },
   {
     "text": "Amlodipine",

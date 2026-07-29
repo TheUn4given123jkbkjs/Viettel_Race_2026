@@ -4,7 +4,7 @@
     "position": [231, 252],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "ngứa âm hộ",
@@ -32,20 +32,20 @@
     "position": [1374, 1393],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6922"]
   },
   {
     "text": "Clotrimazole 100mg",
     "position": [1426, 1444],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2623"]
   },
   {
     "text": "Amlodipine 5mg",
     "position": [1789, 1803],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   }
 ]

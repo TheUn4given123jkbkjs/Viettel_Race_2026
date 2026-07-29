@@ -18,7 +18,11 @@
     "position": [1910, 1941],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I67.0",
+      "I71",
+      "I71.0"
+    ]
   },
   {
     "text": "Tách thành động mạch não, không vỡ",
@@ -32,13 +36,13 @@
     "position": [2354, 2392],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Amlodipine 5mg",
     "position": [2568, 2582],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   }
 ]

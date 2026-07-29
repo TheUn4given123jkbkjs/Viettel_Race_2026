@@ -4,7 +4,7 @@
     "position": [112, 129],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "đau bụng thượng vị",
@@ -25,7 +25,11 @@
     "position": [890, 922],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "D63.0",
+      "D63.8",
+      "G45"
+    ]
   },
   {
     "text": "số lượng bạch cầu ái toan tăng cao",

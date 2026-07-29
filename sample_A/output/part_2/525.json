@@ -4,14 +4,14 @@
     "position": [116, 125],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "bệnh mạch vành",
     "position": [201, 215],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["A52.06", "I25.0"]
+    "candidates": ["I25.1"]
   },
   {
     "text": "buồn nôn",

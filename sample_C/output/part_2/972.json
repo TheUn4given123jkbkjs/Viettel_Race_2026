@@ -11,7 +11,7 @@
     "position": [325, 345],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "không sốt",
@@ -46,7 +46,11 @@
     "position": [2207, 2236],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "D63.0",
+      "D63.8",
+      "G45"
+    ]
   },
   {
     "text": "Điện tâm đồ",

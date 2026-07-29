@@ -18,18 +18,18 @@
     "position": [240, 262],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F45.21",
+      "F45.29",
+      "F45.20"
+    ]
   },
   {
     "text": "bệnh tim mạch",
     "position": [289, 302],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   },
   {
     "text": "sưng, đau và cứng",

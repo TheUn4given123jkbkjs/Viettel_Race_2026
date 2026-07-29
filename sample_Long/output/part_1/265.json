@@ -4,7 +4,7 @@
     "position": [145, 148],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   },
   {
     "text": "bố bị nhồi máu cơ tim",
@@ -32,6 +32,6 @@
     "position": [500, 543],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P95"]
+    "candidates": ["I10"]
   }
 ]

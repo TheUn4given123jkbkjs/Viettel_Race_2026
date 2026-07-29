@@ -15,22 +15,14 @@
     "position": [260, 273],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Đột quỵ",
     "position": [719, 726],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "E88.31",
-      "G46.3*",
-      "G46.4*"
-    ]
+    "candidates": ["I64"]
   },
   {
     "text": "đau quặn từng cơn",
@@ -51,7 +43,11 @@
     "position": [1255, 1278],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
   },
   {
     "text": "đục thủy tinh thể",

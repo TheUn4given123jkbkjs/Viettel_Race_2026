@@ -4,21 +4,21 @@
     "position": [1027, 1102],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O03.9"]
+    "candidates": ["I10"]
   },
   {
     "text": "Misoprostol 200mcg",
     "position": [1241, 1259],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6964", "42331"]
   },
   {
     "text": "Acetaminophen 500mg",
     "position": [1300, 1319],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["161"]
   },
   {
     "text": "đau quặn bụng dưới",

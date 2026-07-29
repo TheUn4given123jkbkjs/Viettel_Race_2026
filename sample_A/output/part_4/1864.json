@@ -15,7 +15,11 @@
     "position": [115, 131],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Z86.13",
+      "T37.2",
+      "Y41.2"
+    ]
   },
   {
     "text": "khoa nội khoa",
@@ -40,6 +44,10 @@
     "position": [110, 131],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "Z86.13",
+      "L98.2",
+      "A92"
+    ]
   }
 ]

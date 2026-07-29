@@ -11,18 +11,14 @@
     "position": [620, 640],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [658, 671],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "ho khan",
@@ -43,11 +39,7 @@
     "position": [1766, 1783],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J40",
-      "J20",
-      "J20.0"
-    ]
+    "candidates": ["J20.9"]
   },
   {
     "text": "Bạch cầu 9.5 G/L",

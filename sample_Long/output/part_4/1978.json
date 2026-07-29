@@ -4,11 +4,7 @@
     "position": [84, 97],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   },
   {
     "text": "Troponin",
@@ -57,10 +53,6 @@
     "position": [84, 97],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   }
 ]

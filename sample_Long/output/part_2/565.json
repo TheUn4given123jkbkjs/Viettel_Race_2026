@@ -4,18 +4,14 @@
     "position": [126, 139],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "tiểu đường type 2",
     "position": [143, 160],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "phủ nhận buồn nôn",

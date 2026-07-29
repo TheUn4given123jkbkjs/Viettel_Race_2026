@@ -25,22 +25,14 @@
     "position": [363, 376],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Rung nhĩ",
     "position": [385, 393],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I48",
-      "I48.0",
-      "I48.1"
-    ]
+    "candidates": ["I48"]
   },
   {
     "text": "Creatinine",

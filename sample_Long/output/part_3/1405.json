@@ -4,11 +4,7 @@
     "position": [143, 156],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Sưng nề",
@@ -36,20 +32,20 @@
     "position": [1907, 1933],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M70.1"]
+    "candidates": ["I10"]
   },
   {
     "text": "Ibuprofen 400mg",
     "position": [1966, 1981],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Methylprednisolone 16mg",
     "position": [2015, 2038],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6902"]
   }
 ]

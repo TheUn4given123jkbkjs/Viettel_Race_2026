@@ -4,11 +4,7 @@
     "position": [239, 247],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "E89.6",
-      "I12.0",
-      "I12.9"
-    ]
+    "candidates": ["N18.9"]
   },
   {
     "text": "phù chi dưới",
@@ -29,7 +25,7 @@
     "position": [1208, 1286],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["N08.3*"]
+    "candidates": ["E10.9"]
   },
   {
     "text": "Insulin",

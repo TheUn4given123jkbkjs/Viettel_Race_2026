@@ -4,11 +4,7 @@
     "position": [62, 75],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "chóng mặt",
@@ -43,7 +39,11 @@
     "position": [256, 299],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I65",
+      "I65.0",
+      "I65.1"
+    ]
   },
   {
     "text": "aspirin",

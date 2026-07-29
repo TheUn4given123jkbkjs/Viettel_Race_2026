@@ -32,13 +32,17 @@
     "position": [1421, 1438],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3640"]
   },
   {
     "text": "Rifampin 600mg",
     "position": [1479, 1493],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
   }
 ]

@@ -4,7 +4,11 @@
     "position": [273, 291],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "S20.16",
+      "S20.36",
+      "S20.46"
+    ]
   },
   {
     "text": "bệnh tim mạch",

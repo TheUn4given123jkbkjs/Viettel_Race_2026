@@ -32,13 +32,17 @@
     "position": [726, 743],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3640"]
   },
   {
     "text": "Rifampin 300mg: 2 viên/ngày, uống buổi sáng lúc đói",
     "position": [782, 833],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
   }
 ]

@@ -4,7 +4,7 @@
     "position": [373, 387],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["A52.06", "I25.0"]
+    "candidates": ["I25.1"]
   },
   {
     "text": "mệt mỏi",
@@ -46,11 +46,7 @@
     "position": [1553, 1599],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I13.0",
-      "I13.1",
-      "I13.2"
-    ]
+    "candidates": ["I11"]
   },
   {
     "text": "dày thất trái đồng tâm",

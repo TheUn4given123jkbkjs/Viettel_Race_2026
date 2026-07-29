@@ -11,32 +11,28 @@
     "position": [100, 103],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   },
   {
     "text": "tăng huyết áp",
     "position": [193, 206],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "rối loạn lipid máu",
     "position": [210, 228],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["E78"]
+    "candidates": ["E78.5"]
   },
   {
     "text": "tiểu đường loại 2",
     "position": [127, 144],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "troponin",

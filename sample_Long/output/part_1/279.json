@@ -11,11 +11,7 @@
     "position": [416, 429],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Amlodipine",
@@ -29,18 +25,14 @@
     "position": [470, 491],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Suy thận mạn",
     "position": [549, 561],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "N18",
-      "N18.1",
-      "N18.2"
-    ]
+    "candidates": ["N18.9"]
   },
   {
     "text": "đau ngực trái",

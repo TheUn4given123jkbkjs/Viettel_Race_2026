@@ -11,18 +11,18 @@
     "position": [250, 269],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M36.1*",
+      "M36.10*",
+      "M36.11*"
+    ]
   },
   {
     "text": "tăng huyết áp",
     "position": [826, 839],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đái máu đại thể",

@@ -11,7 +11,11 @@
     "position": [2056, 2078],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "M00.10",
+      "M00.11",
+      "M00.12"
+    ]
   },
   {
     "text": "Azithromycin",
@@ -39,7 +43,7 @@
     "position": [2359, 2368],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["11246", "97016"]
   },
   {
     "text": "Bạch cầu",

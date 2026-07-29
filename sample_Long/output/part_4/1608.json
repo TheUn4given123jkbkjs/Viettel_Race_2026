@@ -4,7 +4,11 @@
     "position": [31, 47],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "E89.41",
+      "G47.0",
+      "G47.4"
+    ]
   },
   {
     "text": "Diazepam",

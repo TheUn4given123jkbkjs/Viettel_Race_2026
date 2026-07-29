@@ -4,7 +4,11 @@
     "position": [47, 63],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L40.50",
+      "L40.51",
+      "L40.52"
+    ]
   },
   {
     "text": "Benzoic acid / Salicylic acid",
@@ -18,11 +22,7 @@
     "position": [329, 343],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "E12.9",
-      "E13",
-      "E13.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "mụn mủ",

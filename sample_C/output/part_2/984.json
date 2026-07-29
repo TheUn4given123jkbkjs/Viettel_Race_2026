@@ -11,18 +11,14 @@
     "position": [523, 536],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Viêm phổi cộng đồng",
     "position": [2126, 2145],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J18.1"]
   },
   {
     "text": "Thiếu máu mạn tính",

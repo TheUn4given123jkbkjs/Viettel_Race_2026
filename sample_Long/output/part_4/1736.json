@@ -25,11 +25,7 @@
     "position": [627, 635],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "E20",
-      "E89.0",
-      "E89.2"
-    ]
+    "candidates": ["E03.9"]
   },
   {
     "text": "Xét nghiệm định lượng kháng thể IgG",

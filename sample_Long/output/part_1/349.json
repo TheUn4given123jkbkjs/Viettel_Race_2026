@@ -11,7 +11,7 @@
     "position": [400, 414],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": ["A52.06", "I25.0"]
+    "candidates": ["I25.1"]
   },
   {
     "text": "Nitroglycerin",
@@ -53,6 +53,10 @@
     "position": [1358, 1384],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J95",
+      "Y89.0",
+      "M96"
+    ]
   }
 ]

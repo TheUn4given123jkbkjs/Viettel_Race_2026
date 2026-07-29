@@ -18,11 +18,7 @@
     "position": [663, 676],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Tiểu cầu",
@@ -64,13 +60,13 @@
     "position": [1938, 1952],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7646"]
   },
   {
     "text": "Acetylcystein 200mg",
     "position": [1991, 2010],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["197"]
   }
 ]

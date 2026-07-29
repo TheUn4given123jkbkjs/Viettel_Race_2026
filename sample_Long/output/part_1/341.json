@@ -4,18 +4,14 @@
     "position": [63, 85],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["O11"]
+    "candidates": ["I10"]
   },
   {
     "text": "đái tháo đường",
     "position": [96, 110],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "E12.9",
-      "E13",
-      "E13.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "khó thở",
@@ -43,7 +39,7 @@
     "position": [240, 290],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I11"]
   },
   {
     "text": "Enalapril",

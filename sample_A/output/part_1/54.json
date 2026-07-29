@@ -4,11 +4,7 @@
     "position": [49, 62],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Doxycycline",
@@ -36,7 +32,11 @@
     "position": [628, 653],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "A54.86",
+      "E76.29",
+      "J95.02"
+    ]
   },
   {
     "text": "WBC 14.5 G/L",

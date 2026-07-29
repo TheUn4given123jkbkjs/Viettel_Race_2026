@@ -11,25 +11,25 @@
     "position": [118, 131],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đái tháo đường typ 2",
     "position": [135, 155],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "ung thư biểu mô tế bào đáy",
     "position": [272, 298],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "M36.1*",
+      "M36.10*",
+      "M36.11*"
+    ]
   },
   {
     "text": "sốt",

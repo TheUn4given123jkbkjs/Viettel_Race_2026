@@ -11,7 +11,7 @@
     "position": [958, 978],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "sốt",
@@ -32,7 +32,11 @@
     "position": [1452, 1470],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "T92.3",
+      "T93.3",
+      "S73"
+    ]
   },
   {
     "text": "Paracetamol",

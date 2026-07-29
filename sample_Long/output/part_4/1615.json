@@ -11,14 +11,14 @@
     "position": [108, 129],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "THA",
     "position": [448, 451],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   },
   {
     "text": "đau tức ngực sau xương ức",
@@ -46,10 +46,6 @@
     "position": [967, 985],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K35",
-      "K35.1",
-      "K35.2"
-    ]
+    "candidates": ["K35.8"]
   }
 ]

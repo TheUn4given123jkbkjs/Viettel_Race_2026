@@ -4,7 +4,7 @@
     "position": [166, 186],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "sinh thiết da",
@@ -25,7 +25,11 @@
     "position": [685, 727],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F01.1",
+      "I63.8",
+      "I63.9"
+    ]
   },
   {
     "text": "nốt sẩnn cứng",
@@ -46,13 +50,13 @@
     "position": [1630, 1646],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["8638"]
   },
   {
     "text": "Dapsone 100mg",
     "position": [1686, 1699],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3108"]
   }
 ]

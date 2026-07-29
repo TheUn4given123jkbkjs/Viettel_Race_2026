@@ -4,11 +4,7 @@
     "position": [61, 80],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "M05",
-      "M05.3†",
-      "M05.8"
-    ]
+    "candidates": ["M06.9"]
   },
   {
     "text": "Đau nhức vùng cổ tay và bàn ngón tay",
@@ -36,13 +32,13 @@
     "position": [773, 787],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["41493"]
   },
   {
     "text": "Methotrexate 2.5mg",
     "position": [818, 836],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6851"]
   }
 ]

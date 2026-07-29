@@ -4,7 +4,7 @@
     "position": [153, 163],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "xuất huyếtâm đạo",
@@ -39,24 +39,24 @@
     "position": [698, 733],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O20",
-      "O20.8",
-      "O20.9"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Progesterone 200mg: 2 viên/ngày, uống",
     "position": [809, 846],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "2647996",
+      "6691",
+      "8727"
+    ]
   },
   {
     "text": "Tranexamic acid 500mg",
     "position": [849, 870],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10691"]
   }
 ]

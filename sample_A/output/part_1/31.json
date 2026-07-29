@@ -4,7 +4,11 @@
     "position": [177, 199],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E41",
+      "E43"
+    ]
   },
   {
     "text": "sụt cân không rõ nguyên nhân khoảng 5kg trong 6 tháng gần đây",

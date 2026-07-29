@@ -4,14 +4,14 @@
     "position": [53, 92],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O24.0", "O24.1"]
+    "candidates": ["E11.9"]
   },
   {
     "text": "tiền sử đái tháo đường 10 năm",
     "position": [190, 219],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "sụt cân",

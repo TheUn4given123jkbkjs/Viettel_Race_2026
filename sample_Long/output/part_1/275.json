@@ -4,11 +4,7 @@
     "position": [153, 166],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Dextran 70",
@@ -47,7 +43,11 @@
     "position": [1839, 1865],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.05",
+      "G08",
+      "I65"
+    ]
   },
   {
     "text": "Heparin",

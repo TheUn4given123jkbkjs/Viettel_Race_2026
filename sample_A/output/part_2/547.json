@@ -4,7 +4,11 @@
     "position": [17, 28],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "F02.4*",
+      "Z21",
+      "Z11.4"
+    ]
   },
   {
     "text": "đau họng",

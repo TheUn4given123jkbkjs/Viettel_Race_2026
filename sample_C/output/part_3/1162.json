@@ -33,9 +33,9 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "A54.86",
       "I89",
-      "I89.8"
+      "I89.8",
+      "I89.9"
     ]
   },
   {
@@ -43,11 +43,7 @@
     "position": [1171, 1178],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I11.0",
-      "I11.9",
-      "I13.0"
-    ]
+    "candidates": ["I50.9"]
   },
   {
     "text": "công thức máu",

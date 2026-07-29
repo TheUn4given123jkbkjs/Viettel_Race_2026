@@ -15,11 +15,7 @@
     "position": [87, 97],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "huyết áp",
@@ -37,10 +33,6 @@
     "position": [134, 143],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": ["J18.9"]
   }
 ]

@@ -4,11 +4,7 @@
     "position": [0, 38],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "E10.6",
-      "E10.7",
-      "E10.8"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "Insulin",

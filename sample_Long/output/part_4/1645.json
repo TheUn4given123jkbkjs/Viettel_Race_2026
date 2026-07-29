@@ -4,7 +4,11 @@
     "position": [47, 63],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I11.0",
+      "I11.9",
+      "I13.0"
+    ]
   },
   {
     "text": "khó thở",

@@ -4,7 +4,11 @@
     "position": [32, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "E79.0",
+      "D72.1",
+      "D47.5"
+    ]
   },
   {
     "text": "Acetaminophen",

@@ -4,11 +4,7 @@
     "position": [471, 484],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đau bụng",
@@ -29,14 +25,14 @@
     "position": [961, 1004],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2193"]
   },
   {
     "text": "Metronidazole 500mg/100ml iv",
     "position": [1007, 1035],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6922"]
   },
   {
     "text": "đục thủy tinh thể",

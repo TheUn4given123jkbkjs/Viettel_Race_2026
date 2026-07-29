@@ -4,11 +4,7 @@
     "position": [21, 34],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Sốt kéo dài",
@@ -36,13 +32,17 @@
     "position": [333, 350],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3640"]
   },
   {
     "text": "Rifampin 300mg: 2 viên/ngày, uống",
     "position": [356, 389],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "814321",
+      "214662",
+      "9384"
+    ]
   }
 ]

@@ -4,18 +4,18 @@
     "position": [94, 126],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "F31.71",
+      "F31.72",
+      "F31.73"
+    ]
   },
   {
     "text": "Tăng huyết áp",
     "position": [217, 230],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Nạn nhân của tội ác và khủng bố",

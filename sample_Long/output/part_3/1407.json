@@ -4,11 +4,7 @@
     "position": [26, 34],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "E20",
-      "E89.0",
-      "E89.2"
-    ]
+    "candidates": ["E03.9"]
   },
   {
     "text": "Potassium iodide",

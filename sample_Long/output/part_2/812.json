@@ -4,7 +4,7 @@
     "position": [197, 201],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["J44.9"]
   },
   {
     "text": "khó thở",
@@ -39,7 +39,7 @@
     "position": [677, 714],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J67.8"]
+    "candidates": ["J18.9"]
   },
   {
     "text": "Prednisolone",

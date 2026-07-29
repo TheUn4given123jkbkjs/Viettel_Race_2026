@@ -4,7 +4,7 @@
     "position": [172, 193],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "đau bụng chuyển dạ",
@@ -39,7 +39,7 @@
     "position": [977, 1030],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O68.3"]
+    "candidates": ["I10"]
   },
   {
     "text": "Ringer's lactate",

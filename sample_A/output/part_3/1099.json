@@ -11,25 +11,21 @@
     "position": [451, 459],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I48",
-      "I48.0",
-      "I48.1"
-    ]
+    "candidates": ["I48"]
   },
   {
     "text": "THA",
     "position": [463, 466],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   },
   {
     "text": "Đái tháo đường tuýp 2",
     "position": [654, 675],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "chóng mặt",

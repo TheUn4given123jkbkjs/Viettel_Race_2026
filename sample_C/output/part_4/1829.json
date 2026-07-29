@@ -4,7 +4,7 @@
     "position": [101, 119],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["Z56.1"]
+    "candidates": ["I10"]
   },
   {
     "text": "mất ngủ",
@@ -25,11 +25,7 @@
     "position": [1485, 1499],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": [
-      "E12.9",
-      "E13",
-      "E13.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "mổ ruột thừa",

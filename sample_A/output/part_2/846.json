@@ -4,11 +4,7 @@
     "position": [127, 139],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "N18",
-      "N18.1",
-      "N18.2"
-    ]
+    "candidates": ["N18.9"]
   },
   {
     "text": "huyêt áp",
@@ -22,7 +18,7 @@
     "position": [307, 327],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Kali máu giảm",

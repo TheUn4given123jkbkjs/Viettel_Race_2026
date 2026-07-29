@@ -4,11 +4,7 @@
     "position": [116, 129],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Amlodipine",
@@ -57,10 +53,6 @@
     "position": [1763, 1787],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I13.0",
-      "I13.1",
-      "I13.2"
-    ]
+    "candidates": ["I11"]
   }
 ]

@@ -32,18 +32,14 @@
     "position": [525, 542],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Đẻ thường một thai",
     "position": [1295, 1313],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O80",
-      "O80.8",
-      "O80.9"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Oxytocin",

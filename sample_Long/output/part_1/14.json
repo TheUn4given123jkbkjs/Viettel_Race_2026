@@ -4,7 +4,7 @@
     "position": [34, 56],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["O24.4"]
   },
   {
     "text": "bú kém",
@@ -32,7 +32,7 @@
     "position": [1661, 1738],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P70.8"]
+    "candidates": ["I10"]
   },
   {
     "text": "Hydrocortisone",

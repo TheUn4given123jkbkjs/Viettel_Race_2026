@@ -4,11 +4,7 @@
     "position": [64, 80],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": [
-      "F06.8",
-      "F06.9",
-      "O99.3"
-    ]
+    "candidates": ["F06.8", "F06.9"]
   },
   {
     "text": "khó khăn lớn trong việc đọc, viết và làm toán",

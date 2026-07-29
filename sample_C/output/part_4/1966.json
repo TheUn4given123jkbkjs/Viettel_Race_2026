@@ -11,11 +11,7 @@
     "position": [166, 179],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "khó thở",
@@ -43,7 +39,7 @@
     "position": [2085, 2096],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["I50.9"]
   },
   {
     "text": "Furosemide",

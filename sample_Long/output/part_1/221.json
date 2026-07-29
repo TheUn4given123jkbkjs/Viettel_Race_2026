@@ -4,11 +4,7 @@
     "position": [378, 391],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Thiếu máu cơ tim thầm lặng",
@@ -29,13 +25,13 @@
     "position": [2019, 2063],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Atenolol 50mg: 1/2 đến 1 viên/ngày, uống buổi sáng",
     "position": [2148, 2198],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1202"]
   }
 ]

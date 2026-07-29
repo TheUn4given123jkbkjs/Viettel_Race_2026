@@ -4,7 +4,7 @@
     "position": [940, 1023],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P00.9"]
+    "candidates": ["I10"]
   },
   {
     "text": "chỉ số Apgar thấp",
@@ -25,7 +25,11 @@
     "position": [868, 885],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K91.3",
+      "K56",
+      "K56.5"
+    ]
   },
   {
     "text": "sốt",

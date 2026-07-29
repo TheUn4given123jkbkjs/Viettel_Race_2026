@@ -11,14 +11,14 @@
     "position": [18, 52],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["M06.9"]
   },
   {
     "text": "THA 5 năm",
     "position": [125, 134],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "Đau mắt đỏ",

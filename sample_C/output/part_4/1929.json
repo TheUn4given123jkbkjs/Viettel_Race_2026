@@ -11,11 +11,7 @@
     "position": [237, 250],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "sốt nhẹ",
@@ -57,7 +53,7 @@
     "position": [2719, 2738],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J18.1"]
   },
   {
     "text": "ceftriaxone",

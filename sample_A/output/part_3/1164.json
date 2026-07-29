@@ -4,11 +4,7 @@
     "position": [127, 136],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "A52.19",
-      "G21.1",
-      "G21.2"
-    ]
+    "candidates": ["G20"]
   },
   {
     "text": "sốt nhẹ",

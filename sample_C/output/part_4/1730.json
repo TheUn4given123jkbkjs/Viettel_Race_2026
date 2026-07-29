@@ -32,11 +32,7 @@
     "position": [1504, 1518],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G22",
-      "G22*",
-      "G21.4"
-    ]
+    "candidates": ["G20"]
   },
   {
     "text": "công thức máu",
@@ -57,6 +53,6 @@
     "position": [2632, 2663],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["103990"]
   }
 ]

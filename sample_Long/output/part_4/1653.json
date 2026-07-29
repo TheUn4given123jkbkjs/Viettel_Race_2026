@@ -11,7 +11,7 @@
     "position": [32, 35],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   },
   {
     "text": "Cao huyết áp",
@@ -25,6 +25,6 @@
     "position": [114, 131],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E11.9"]
   }
 ]

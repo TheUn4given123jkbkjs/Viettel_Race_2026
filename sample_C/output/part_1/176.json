@@ -46,20 +46,24 @@
     "position": [1634, 1652],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E75.25",
+      "E76.01",
+      "E76.03"
+    ]
   },
   {
     "text": "Aspirin 81mg",
     "position": [2990, 3002],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["1191"]
   },
   {
     "text": "Atorvastatin 20mg",
     "position": [3065, 3082],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["83367"]
   }
 ]

@@ -4,14 +4,22 @@
     "position": [47, 72],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F31.71",
+      "F31.72",
+      "F31.73"
+    ]
   },
   {
     "text": "Rối loạn trầm cảm chủ yếu",
     "position": [47, 72],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "F31.71",
+      "F31.72",
+      "F31.73"
+    ]
   },
   {
     "text": "mất ngủ",

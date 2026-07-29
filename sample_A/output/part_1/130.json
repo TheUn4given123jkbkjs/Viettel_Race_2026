@@ -11,14 +11,14 @@
     "position": [160, 181],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "tiền sử trầm cảm",
     "position": [199, 215],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["F32.9"]
   },
   {
     "text": "mệt mỏi",

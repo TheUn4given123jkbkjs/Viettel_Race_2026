@@ -25,17 +25,13 @@
     "position": [52, 69],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "thiếu máu cơ tim",
     "position": [350, 366],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I25.5",
-      "I25.6",
-      "Z82.4"
-    ]
+    "candidates": ["I25.9"]
   }
 ]

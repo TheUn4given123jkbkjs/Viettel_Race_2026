@@ -11,18 +11,18 @@
     "position": [79, 95],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "C43",
+      "C43.0",
+      "C43.1"
+    ]
   },
   {
     "text": "tăng huyết áp",
     "position": [105, 118],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đau bụng hạ sườn phải",

@@ -4,7 +4,7 @@
     "position": [41, 70],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "đau nhức",
@@ -25,20 +25,20 @@
     "position": [484, 568],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M14.27*"]
+    "candidates": ["E10.9"]
   },
   {
     "text": "Metformin 500mg",
     "position": [708, 723],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6809"]
   },
   {
     "text": "Meloxicam 15mg",
     "position": [763, 777],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["41493"]
   }
 ]

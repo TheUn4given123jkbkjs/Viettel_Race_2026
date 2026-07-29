@@ -4,7 +4,7 @@
     "position": [203, 231],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "sốt cao",
@@ -39,7 +39,7 @@
     "position": [2387, 2421],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J15.2"]
+    "candidates": ["J18.9"]
   },
   {
     "text": "Vancomycin",

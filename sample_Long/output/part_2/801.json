@@ -11,22 +11,14 @@
     "position": [77, 88],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "K29",
-      "K29.0",
-      "K29.1"
-    ]
+    "candidates": ["K29.7"]
   },
   {
     "text": "Tăng huyết áp",
     "position": [171, 184],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Đau ngực trái",

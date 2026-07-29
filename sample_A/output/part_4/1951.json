@@ -4,7 +4,11 @@
     "position": [90, 115],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "A18.16",
+      "Z86.11",
+      "A17.84"
+    ]
   },
   {
     "text": "Rifampin",

@@ -11,7 +11,7 @@
     "position": [264, 273],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "khó thở",
@@ -32,11 +32,7 @@
     "position": [889, 907],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "K35",
-      "K35.1",
-      "K35.2"
-    ]
+    "candidates": ["K35.8"]
   },
   {
     "text": "Paracetamol",

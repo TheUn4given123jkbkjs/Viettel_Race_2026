@@ -11,7 +11,7 @@
     "position": [417, 420],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   },
   {
     "text": "sốt cao",
@@ -32,13 +32,13 @@
     "position": [847, 861],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J18.1", "B01.2†"]
+    "candidates": ["J18.9"]
   },
   {
     "text": "võng mạc tiểu đường",
     "position": [926, 945],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E11.9"]
   }
 ]

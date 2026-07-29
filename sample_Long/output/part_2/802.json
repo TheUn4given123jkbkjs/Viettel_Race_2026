@@ -4,7 +4,7 @@
     "position": [187, 209],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "hen suyễn",
@@ -25,20 +25,20 @@
     "position": [645, 695],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P01.6"]
+    "candidates": ["I10"]
   },
   {
     "text": "Poractant alfa 80mg/ml",
     "position": [891, 913],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["236381"]
   },
   {
     "text": "Caffeine citrate 20mg/ml tiêm truyền tĩnh mạch",
     "position": [1029, 1075],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["20033"]
   }
 ]

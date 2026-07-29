@@ -11,18 +11,14 @@
     "position": [156, 169],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Viêm phổi cộng đồng",
     "position": [2307, 2326],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J18.1"]
   },
   {
     "text": "ceftriaxone",

@@ -15,7 +15,7 @@
     "position": [163, 180],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "ung thư biểu mô thực quản",
@@ -57,10 +57,6 @@
     "position": [2096, 2103],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E65",
-      "E66",
-      "E66.0"
-    ]
+    "candidates": ["E66.9"]
   }
 ]

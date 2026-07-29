@@ -11,7 +11,11 @@
     "position": [632, 651],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "A52.74",
+      "A54.43",
+      "A18.03"
+    ]
   },
   {
     "text": "Công thức máu",
@@ -46,7 +50,11 @@
     "position": [2277, 2318],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.74",
+      "A54.43",
+      "A18.03"
+    ]
   },
   {
     "text": "Ceftriaxon",

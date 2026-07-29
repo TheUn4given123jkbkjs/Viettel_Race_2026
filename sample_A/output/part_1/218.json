@@ -4,7 +4,7 @@
     "position": [1019, 1028],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "sốt cao",
@@ -32,7 +32,7 @@
     "position": [2482, 2513],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A22.7"]
+    "candidates": ["I10"]
   },
   {
     "text": "Ciprofloxacin",

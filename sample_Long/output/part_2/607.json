@@ -4,7 +4,7 @@
     "position": [88, 110],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical", "isNegated"],
-    "candidates": []
+    "candidates": ["O24.4"]
   },
   {
     "text": "Đau trằn nhẹ vùng hạ vị",
@@ -32,6 +32,6 @@
     "position": [980, 1018],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O84.2"]
+    "candidates": ["I10"]
   }
 ]

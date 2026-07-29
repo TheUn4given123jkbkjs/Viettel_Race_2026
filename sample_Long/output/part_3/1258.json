@@ -46,21 +46,13 @@
     "position": [147, 161],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "G22",
-      "G22*",
-      "G21.4"
-    ]
+    "candidates": ["G20"]
   },
   {
     "text": "tăng huyết áp",
     "position": [165, 178],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   }
 ]

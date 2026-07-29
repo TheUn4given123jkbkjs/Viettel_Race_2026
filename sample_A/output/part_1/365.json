@@ -22,22 +22,14 @@
     "position": [243, 256],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   },
   {
     "text": "tiểu đường",
     "position": [260, 270],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "suy dinh dưỡng",
@@ -55,11 +47,7 @@
     "position": [336, 349],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "bệnh beriberi",

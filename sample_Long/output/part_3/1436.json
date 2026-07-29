@@ -4,7 +4,7 @@
     "position": [155, 177],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["O24.4"]
   },
   {
     "text": "vàngda",
@@ -43,13 +43,13 @@
     "position": [1013, 1038],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["433"]
   },
   {
     "text": "Glucose 10% 500ml",
     "position": [1112, 1129],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4850"]
   }
 ]

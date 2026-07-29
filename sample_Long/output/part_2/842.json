@@ -4,22 +4,14 @@
     "position": [145, 158],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đột quỵ não",
     "position": [559, 570],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "E88.31",
-      "G46.3*",
-      "G46.4*"
-    ]
+    "candidates": ["I64"]
   },
   {
     "text": "khó thở khi gắng sức",

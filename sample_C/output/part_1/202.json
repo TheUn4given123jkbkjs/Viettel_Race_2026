@@ -18,11 +18,7 @@
     "position": [180, 193],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "ho khan",
@@ -57,7 +53,7 @@
     "position": [2128, 2147],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J18.1"]
   },
   {
     "text": "ceftriaxone",

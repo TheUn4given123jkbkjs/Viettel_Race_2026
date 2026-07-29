@@ -4,18 +4,14 @@
     "position": [49, 62],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Rối loạn lipid máu",
     "position": [111, 129],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["E78"]
+    "candidates": ["E78.5"]
   },
   {
     "text": "Nghe kém",

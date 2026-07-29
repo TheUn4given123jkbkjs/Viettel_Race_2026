@@ -33,9 +33,9 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "A54.86",
       "I89",
-      "I89.8"
+      "I89.8",
+      "I89.9"
     ]
   },
   {
@@ -43,11 +43,7 @@
     "position": [1100, 1108],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.74",
-      "A54.43",
-      "A18.03"
-    ]
+    "candidates": ["K75.9"]
   },
   {
     "text": "CRP",

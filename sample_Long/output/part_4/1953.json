@@ -20,8 +20,8 @@
     "assertions": [],
     "candidates": [
       "A18.86",
-      "A52.01",
-      "A52.04"
+      "M47.00",
+      "M47.01"
     ]
   },
   {
@@ -29,21 +29,13 @@
     "position": [64, 77],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "bệnh tim mạch",
     "position": [191, 204],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   }
 ]

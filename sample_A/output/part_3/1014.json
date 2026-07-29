@@ -25,17 +25,13 @@
     "position": [28, 43],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["T78.3"]
   },
   {
     "text": "tăng huyết áp",
     "position": [206, 219],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   }
 ]

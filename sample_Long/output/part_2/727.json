@@ -4,7 +4,11 @@
     "position": [2359, 2402],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F40.23",
+      "F43.10",
+      "F43.11"
+    ]
   },
   {
     "text": "Acetaminnophen",
@@ -25,7 +29,7 @@
     "position": [310, 332],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["O24.4"]
   },
   {
     "text": "giảm vận động",

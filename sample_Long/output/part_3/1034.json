@@ -4,7 +4,11 @@
     "position": [19, 42],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "F40.23",
+      "F43.10",
+      "F43.11"
+    ]
   },
   {
     "text": "kẹt khớp gối",

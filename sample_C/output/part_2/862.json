@@ -11,11 +11,7 @@
     "position": [84, 103],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "M05",
-      "M05.3†",
-      "M05.8"
-    ]
+    "candidates": ["M06.9"]
   },
   {
     "text": "Ceftriaxone",
@@ -71,6 +67,6 @@
     "position": [1205, 1224],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J18.1"]
   }
 ]

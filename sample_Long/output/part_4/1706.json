@@ -11,18 +11,18 @@
     "position": [69, 87],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F31.71",
+      "F31.72",
+      "F31.73"
+    ]
   },
   {
     "text": "rối loạn lo âu",
     "position": [91, 105],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "F43.22",
-      "F43.23",
-      "F60.6"
-    ]
+    "candidates": ["F41.9"]
   },
   {
     "text": "khô miệng",

@@ -4,7 +4,7 @@
     "position": [336, 356],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "chủ quansốt",
@@ -39,7 +39,11 @@
     "position": [2347, 2415],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.12",
+      "A52.13",
+      "A52.14"
+    ]
   },
   {
     "text": "Penicillin G",

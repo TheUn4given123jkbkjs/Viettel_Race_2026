@@ -39,18 +39,18 @@
     "position": [1709, 1791],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J94",
+      "J94.8",
+      "J94.9"
+    ]
   },
   {
     "text": "Phổi tắc nghẽn mãn tính",
     "position": [1805, 1828],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "J44",
-      "J44.0",
-      "J44.1"
-    ]
+    "candidates": ["J44.9"]
   },
   {
     "text": "Thuốc có chứa các chất gây kích ứng đường thở",

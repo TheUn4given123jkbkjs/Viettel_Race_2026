@@ -25,31 +25,27 @@
     "position": [1292, 1305],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Tăng huyết áp động mạch phổi thứ phát",
     "position": [1791, 1828],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["I27.2"]
+    "candidates": ["I10"]
   },
   {
     "text": "Amlodipine 5mg",
     "position": [1892, 1906],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["17767"]
   },
   {
     "text": "Furosemide 40mg",
     "position": [1950, 1965],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4603"]
   }
 ]

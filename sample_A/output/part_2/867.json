@@ -11,11 +11,7 @@
     "position": [526, 532],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "K71.7",
-      "K74",
-      "K74.0"
-    ]
+    "candidates": ["K74.6"]
   },
   {
     "text": "buồn nôn",
@@ -36,7 +32,11 @@
     "position": [2080, 2101],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "T81.0",
+      "P12.0",
+      "O71.7"
+    ]
   },
   {
     "text": "chụp CT não",

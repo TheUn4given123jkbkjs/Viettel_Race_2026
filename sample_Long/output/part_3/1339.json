@@ -4,11 +4,7 @@
     "position": [36, 54],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O80",
-      "O80.8",
-      "O80.9"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "sốt cao",
@@ -43,11 +39,7 @@
     "position": [582, 600],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O80",
-      "O80.8",
-      "O80.9"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "băng huyết sau sinh",

@@ -15,18 +15,14 @@
     "position": [269, 286],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "nhiễm khuẩn đường tiết niệu",
     "position": [684, 711],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "P39.3",
-      "O86.3",
-      "O23"
-    ]
+    "candidates": ["P39.3"]
   },
   {
     "text": "xét nghiệm đường huyết",

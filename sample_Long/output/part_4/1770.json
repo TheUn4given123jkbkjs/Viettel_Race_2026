@@ -39,22 +39,14 @@
     "position": [289, 298],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A50.04",
-      "B06.81",
-      "A54.84"
-    ]
+    "candidates": ["J18.9"]
   },
   {
     "text": "viêm gan",
     "position": [302, 310],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.74",
-      "A54.43",
-      "A18.03"
-    ]
+    "candidates": ["K75.9"]
   },
   {
     "text": "troponin",

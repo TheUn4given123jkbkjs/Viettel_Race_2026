@@ -4,14 +4,14 @@
     "position": [894, 939],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["J11.0"]
+    "candidates": ["J18.9"]
   },
   {
     "text": "Hen phế quản",
     "position": [552, 564],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["J45.9"]
   },
   {
     "text": "chưa ghi nhận co giật",
@@ -53,10 +53,6 @@
     "position": [462, 475],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   }
 ]

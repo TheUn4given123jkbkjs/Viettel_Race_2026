@@ -4,7 +4,11 @@
     "position": [115, 138],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "I00",
+      "I01",
+      "I01.0"
+    ]
   },
   {
     "text": "cha đẻ bị suy tim xung huyết",

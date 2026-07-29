@@ -11,7 +11,11 @@
     "position": [310, 328],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "E15",
+      "Y42.3",
+      "T38.3"
+    ]
   },
   {
     "text": "SpO2",
@@ -53,6 +57,6 @@
     "position": [1236, 1247],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["4850"]
   }
 ]

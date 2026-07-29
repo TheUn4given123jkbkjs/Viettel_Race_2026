@@ -18,7 +18,11 @@
     "position": [212, 235],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isFamily"],
-    "candidates": []
+    "candidates": [
+      "M36.1*",
+      "M36.10*",
+      "M36.11*"
+    ]
   },
   {
     "text": "giải phẫu bệnh",

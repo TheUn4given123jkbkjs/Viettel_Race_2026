@@ -4,7 +4,7 @@
     "position": [154, 210],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P60"]
+    "candidates": ["I10"]
   },
   {
     "text": "tăng huyết áp",
@@ -32,6 +32,6 @@
     "position": [112, 115],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": ["Y06"]
+    "candidates": ["I10"]
   }
 ]

@@ -16,9 +16,9 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "A50.54",
-      "A52.00",
-      "A52.06"
+      "I24.0",
+      "I25.0",
+      "I25.1"
     ]
   },
   {
@@ -26,11 +26,7 @@
     "position": [160, 170],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "ECG",

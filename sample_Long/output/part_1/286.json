@@ -18,22 +18,14 @@
     "position": [472, 485],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Nhồi máu cơ tim",
     "position": [566, 581],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I21",
-      "I21.0",
-      "I21.1"
-    ]
+    "candidates": ["I21.9"]
   },
   {
     "text": "Chụp X-quang ngực",

@@ -11,11 +11,7 @@
     "position": [740, 759],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "M05",
-      "M05.3†",
-      "M05.8"
-    ]
+    "candidates": ["M06.9"]
   },
   {
     "text": "đau và sưng đối xứng các khớp nhỏ ở bàn tay",
@@ -29,7 +25,7 @@
     "position": [2345, 2384],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M06.0"]
+    "candidates": ["I10"]
   },
   {
     "text": "Methotrexate",

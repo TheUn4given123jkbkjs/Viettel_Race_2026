@@ -4,18 +4,18 @@
     "position": [130, 143],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "bệnh thận mạn giai đoạn 3",
     "position": [425, 450],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "A52.75",
+      "N18.0",
+      "M31.30"
+    ]
   },
   {
     "text": "mệt mỏi",

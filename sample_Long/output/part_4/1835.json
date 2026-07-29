@@ -4,11 +4,7 @@
     "position": [19, 32],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Đau xé vùng thượng vị",
@@ -43,14 +39,14 @@
     "position": [1243, 1258],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["7052"]
   },
   {
     "text": "Tranexamic acid 500mg",
     "position": [1265, 1286],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10691"]
   },
   {
     "text": "Huyết áp: 75/40 mmHg",

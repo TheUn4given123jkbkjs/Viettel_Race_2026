@@ -15,14 +15,14 @@
     "position": [1429, 1450],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["10379"]
   },
   {
     "text": "Ibuprofen 400mg",
     "position": [1479, 1494],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "ung thư tuyến tiền liệt",
@@ -36,7 +36,11 @@
     "position": [628, 666],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "H04.6",
+      "F62",
+      "E77.0"
+    ]
   },
   {
     "text": "buồn nôn",

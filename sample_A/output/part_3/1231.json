@@ -4,18 +4,18 @@
     "position": [318, 331],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.06",
-      "I25.0",
-      "I25.1"
-    ]
+    "candidates": ["I51.9"]
   },
   {
     "text": "bệnh đường tiêu hóa",
     "position": [335, 354],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "acetic",

@@ -4,11 +4,7 @@
     "position": [547, 560],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "chủ quan sốt",
@@ -36,7 +32,11 @@
     "position": [2783, 2801],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "D63.8",
+      "E75.03",
+      "E76.29"
+    ]
   },
   {
     "text": "Nystatin",

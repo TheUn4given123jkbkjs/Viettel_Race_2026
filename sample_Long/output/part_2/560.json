@@ -36,6 +36,10 @@
     "position": [143, 165],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "K51",
+      "K51.1",
+      "K51.3"
+    ]
   }
 ]

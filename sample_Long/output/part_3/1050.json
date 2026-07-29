@@ -4,7 +4,7 @@
     "position": [52, 72],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "Rubella",
@@ -29,7 +29,7 @@
     "position": [256, 278],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O83.4"]
+    "candidates": ["I10"]
   },
   {
     "text": "Mifepristone / Misoprostol",

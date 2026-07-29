@@ -67,6 +67,10 @@
     "position": [305, 330],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "A52.15",
+      "A52.16",
+      "A50.08"
+    ]
   }
 ]

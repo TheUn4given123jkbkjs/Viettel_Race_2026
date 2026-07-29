@@ -25,11 +25,7 @@
     "position": [594, 602],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "P52",
-      "P52.0",
-      "P52.1"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "trẻ em",

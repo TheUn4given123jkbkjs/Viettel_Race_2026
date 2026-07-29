@@ -11,7 +11,11 @@
     "position": [442, 463],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "L40.50",
+      "L40.51",
+      "L40.52"
+    ]
   },
   {
     "text": "không sốt",
@@ -36,13 +40,13 @@
     "position": [2478, 2501],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6902"]
   },
   {
     "text": "methotrexate 2.5mg",
     "position": [2541, 2559],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6851"]
   }
 ]

@@ -4,14 +4,14 @@
     "position": [196, 214],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["O24.4"]
   },
   {
     "text": "tiểu đường type 2",
     "position": [518, 535],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "chủ quan giảm cử động thai",
@@ -39,6 +39,6 @@
     "position": [2042, 2110],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P02.5"]
+    "candidates": ["I10"]
   }
 ]

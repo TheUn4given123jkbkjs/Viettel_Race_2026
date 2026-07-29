@@ -18,20 +18,20 @@
     "position": [837, 888],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O07.2", "O07.7"]
+    "candidates": ["I10"]
   },
   {
     "text": "Heparin 5000 UI tiêm dưới da",
     "position": [1010, 1038],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["235473"]
   },
   {
     "text": "Warfarin 5mg uống 1 lần/ngày",
     "position": [1082, 1110],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["11289"]
   }
 ]

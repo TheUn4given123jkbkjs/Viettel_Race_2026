@@ -11,14 +11,14 @@
     "position": [679, 713],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "mẹ có tiền sử Tăng huyết áp",
     "position": [750, 777],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "ngứa da",

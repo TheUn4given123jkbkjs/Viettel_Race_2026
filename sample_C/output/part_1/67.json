@@ -11,7 +11,11 @@
     "position": [111, 141],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "E76.29",
+      "E88.01",
+      "F02.4*"
+    ]
   },
   {
     "text": "ho khan",
@@ -60,6 +64,6 @@
     "position": [2095, 2109],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J18.9"]
   }
 ]

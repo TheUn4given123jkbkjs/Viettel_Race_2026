@@ -4,11 +4,7 @@
     "position": [207, 214],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "Z30.0",
-      "Z70",
-      "Z70.0"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đau bụng",
@@ -36,17 +32,13 @@
     "position": [161, 178],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["A28.1"]
   },
   {
     "text": "tiểu đường",
     "position": [182, 192],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": ["E11.9"]
   }
 ]

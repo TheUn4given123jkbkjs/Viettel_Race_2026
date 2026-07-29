@@ -4,18 +4,18 @@
     "position": [13, 26],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "chấn thương ngực kín",
     "position": [76, 96],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F40.23",
+      "F43.10",
+      "F43.11"
+    ]
   },
   {
     "text": "khó thở",

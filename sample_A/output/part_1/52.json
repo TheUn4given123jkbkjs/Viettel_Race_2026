@@ -46,6 +46,10 @@
     "position": [844, 861],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "A52.15",
+      "A52.16",
+      "A50.08"
+    ]
   }
 ]

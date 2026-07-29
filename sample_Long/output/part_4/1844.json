@@ -4,22 +4,14 @@
     "position": [161, 174],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "tiểu đường",
     "position": [178, 188],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "O03.0",
-      "O03.5",
-      "O04.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "bệnh nướu",

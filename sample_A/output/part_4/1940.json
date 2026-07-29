@@ -18,14 +18,18 @@
     "position": [209, 226],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "A92.30",
+      "Y45.9",
+      "X60"
+    ]
   },
   {
     "text": "buồn nôn không đáng kể",
     "position": [230, 252],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": ["R11"]
   },
   {
     "text": "bệnh tăng bạch cầu đơn nhân do virus Herpes gamma",

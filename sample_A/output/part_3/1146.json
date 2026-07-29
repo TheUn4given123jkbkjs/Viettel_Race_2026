@@ -11,7 +11,11 @@
     "position": [80, 97],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E70.21",
+      "E79.0",
+      "I67.4"
+    ]
   },
   {
     "text": "phủ nhận buồn nôn",
@@ -25,7 +29,7 @@
     "position": [256, 278],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "không sốt",

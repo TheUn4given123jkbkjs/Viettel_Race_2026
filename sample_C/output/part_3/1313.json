@@ -11,18 +11,18 @@
     "position": [247, 260],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Đái thào đường týp 2",
     "position": [298, 318],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E12.9",
+      "E13",
+      "E13.0"
+    ]
   },
   {
     "text": "Oxytocin",

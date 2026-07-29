@@ -11,7 +11,7 @@
     "position": [954, 974],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "ho",
@@ -46,6 +46,10 @@
     "position": [1814, 1832],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "G93.2",
+      "E87.0",
+      "I67.4"
+    ]
   }
 ]

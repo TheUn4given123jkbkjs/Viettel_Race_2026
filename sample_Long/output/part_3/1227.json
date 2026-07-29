@@ -4,7 +4,11 @@
     "position": [212, 243],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "E89.5",
+      "I87.2",
+      "N18"
+    ]
   },
   {
     "text": "ra máu âm đạo kéo dài",
@@ -46,6 +50,6 @@
     "position": [2541, 2603],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O04.2"]
+    "candidates": ["I10"]
   }
 ]

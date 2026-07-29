@@ -11,22 +11,14 @@
     "position": [199, 212],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đái tháo đường",
     "position": [290, 304],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated", "isHistorical"],
-    "candidates": [
-      "E12.9",
-      "E13",
-      "E13.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "ho khan",

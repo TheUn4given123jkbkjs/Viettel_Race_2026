@@ -18,7 +18,7 @@
     "position": [1538, 1547],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["11246", "97016"]
   },
   {
     "text": "Niacinamide",
@@ -39,7 +39,11 @@
     "position": [1589, 1606],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "1901",
+      "225852",
+      "1908"
+    ]
   },
   {
     "text": "Xét nghiệm máu",
@@ -74,7 +78,11 @@
     "position": [1974, 2010],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "Z35.0",
+      "Z35.1",
+      "Z35.3"
+    ]
   },
   {
     "text": "Tiền sử uống thuốc không đúng liều lượng",

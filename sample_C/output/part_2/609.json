@@ -4,14 +4,18 @@
     "position": [340, 360],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "Rối loạn mỡ máu do lối sống",
     "position": [1966, 1993],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F31.71",
+      "F31.72",
+      "F31.73"
+    ]
   },
   {
     "text": "đau âm ỉ vùng thượng vị",
@@ -53,6 +57,10 @@
     "position": [1546, 1564],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "K71.0",
+      "K71.1",
+      "K71.2"
+    ]
   }
 ]

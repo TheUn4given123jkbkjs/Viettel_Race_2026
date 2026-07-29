@@ -25,11 +25,7 @@
     "position": [638, 651],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Công thức máu",
@@ -57,6 +53,10 @@
     "position": [2203, 2243],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "S72.00",
+      "S72.10",
+      "S72.20"
+    ]
   }
 ]

@@ -4,18 +4,14 @@
     "position": [22, 26],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["J44.9"]
   },
   {
     "text": "tăng huyết áp",
     "position": [28, 41],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Oxygen",

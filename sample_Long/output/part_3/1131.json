@@ -4,14 +4,14 @@
     "position": [107, 124],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "mẹ bệnh nhân có tiền sử đái tháo đường",
     "position": [343, 381],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "tình trạnh",
@@ -39,7 +39,7 @@
     "position": [2211, 2293],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["P02.9"]
+    "candidates": ["I10"]
   },
   {
     "text": "Ampicillin",

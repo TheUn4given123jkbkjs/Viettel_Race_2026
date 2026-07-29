@@ -4,22 +4,14 @@
     "position": [109, 122],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "đái tháo đường",
     "position": [126, 140],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "E12.9",
-      "E13",
-      "E13.0"
-    ]
+    "candidates": ["E11.9"]
   },
   {
     "text": "chủ quan sốt",

@@ -11,11 +11,7 @@
     "position": [114, 127],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "I67.4",
-      "I10",
-      "I11"
-    ]
+    "candidates": ["I10"]
   },
   {
     "text": "Amlodipin",
@@ -57,7 +53,11 @@
     "position": [1901, 1919],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E75.25",
+      "E76.01",
+      "E76.03"
+    ]
   },
   {
     "text": "Aspirin",

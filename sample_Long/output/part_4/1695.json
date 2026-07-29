@@ -11,22 +11,14 @@
     "position": [125, 134],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": [
-      "A52.19",
-      "G21.1",
-      "G21.2"
-    ]
+    "candidates": ["G20"]
   },
   {
     "text": "Alzheimer",
     "position": [430, 439],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": [
-      "G30",
-      "G30.0",
-      "G30.1"
-    ]
+    "candidates": ["G30.9"]
   },
   {
     "text": "run tay chân",

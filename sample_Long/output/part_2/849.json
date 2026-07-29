@@ -46,6 +46,10 @@
     "position": [1456, 1473],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "N22.0*",
+      "B65",
+      "B65.0"
+    ]
   }
 ]

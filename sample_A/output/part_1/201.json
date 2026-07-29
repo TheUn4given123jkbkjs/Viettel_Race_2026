@@ -11,14 +11,14 @@
     "position": [284, 309],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": ["K27.9"]
   },
   {
     "text": "Đái tháo đường tuýp 2",
     "position": [574, 595],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "sốt cao",
@@ -46,6 +46,6 @@
     "position": [1126, 1147],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["A91", "A97"]
+    "candidates": ["A91"]
   }
 ]

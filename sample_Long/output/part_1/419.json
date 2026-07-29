@@ -25,20 +25,20 @@
     "position": [777, 797],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O90.0"]
+    "candidates": ["I10"]
   },
   {
     "text": "Cefuroxime 500mg",
     "position": [926, 942],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["2194"]
   },
   {
     "text": "Metronidazole 250mg",
     "position": [978, 997],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6922"]
   }
 ]

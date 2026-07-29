@@ -11,7 +11,7 @@
     "position": [1049, 1070],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "MRI cột sống cổ",
@@ -32,20 +32,20 @@
     "position": [2202, 2216],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["41493"]
   },
   {
     "text": "Methylprednisolone 16mg",
     "position": [2263, 2286],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6902"]
   },
   {
     "text": "Amlodipine 5mg",
     "position": [954, 968],
     "type": "THUỐC",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["17767"]
   }
 ]

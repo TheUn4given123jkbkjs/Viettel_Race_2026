@@ -18,21 +18,21 @@
     "position": [104, 193],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["O99.3"]
+    "candidates": ["I10"]
   },
   {
     "text": "Magnesium sulfate 15% 10ml",
     "position": [205, 231],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6585"]
   },
   {
     "text": "Diazepam 5mg",
     "position": [253, 265],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["3322"]
   },
   {
     "text": "Loét dạ dày tá tràng",

@@ -4,14 +4,18 @@
     "position": [130, 149],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": ["I10"]
   },
   {
     "text": "viêm bao hoạt dịch gối phải",
     "position": [288, 315],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isHistorical"],
-    "candidates": []
+    "candidates": [
+      "A54.40",
+      "A54.43",
+      "A18.03"
+    ]
   },
   {
     "text": "sưng đau vùng khuỷu tay trái",
@@ -46,6 +50,6 @@
     "position": [1270, 1334],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": ["M71.5"]
+    "candidates": ["I10"]
   }
 ]

@@ -18,7 +18,11 @@
     "position": [519, 542],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": [
+      "F45.21",
+      "F45.29",
+      "F45.20"
+    ]
   },
   {
     "text": "Áp xe tuyến tiền liệt",

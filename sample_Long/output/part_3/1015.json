@@ -11,7 +11,7 @@
     "position": [257, 278],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isFamily"],
-    "candidates": []
+    "candidates": ["E11.9"]
   },
   {
     "text": "cứng khớp buổi sáng",
@@ -32,13 +32,13 @@
     "position": [899, 925],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["5640"]
   },
   {
     "text": "Methotrexate 7.5mg PO",
     "position": [939, 960],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": ["6851"]
   }
 ]

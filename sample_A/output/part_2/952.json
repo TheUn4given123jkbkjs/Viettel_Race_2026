@@ -32,7 +32,11 @@
     "position": [835, 853],
     "type": "CHẨN_ĐOÁN",
     "assertions": ["isNegated"],
-    "candidates": []
+    "candidates": [
+      "J70.4",
+      "J84.9",
+      "N11.9"
+    ]
   },
   {
     "text": "theo dõi tình trạng sức khỏe",

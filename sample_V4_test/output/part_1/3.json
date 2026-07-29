@@ -1,0 +1,72 @@
+[
+  {
+    "text": "đau thượng vị kéo dài",
+    "position": [74, 95],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn rõ rệt",
+    "position": [1615, 1629],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụt cân khoảng 3kg trong vòng 1 tháng",
+    "position": [1631, 1668],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận nôn ra máu",
+    "position": [1879, 1898],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Ấn đau nhẹ vùng thượng vị",
+    "position": [2899, 2924],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [3448, 3461],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa máu",
+    "position": [3531, 3543],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm tìm vi khuẩn H. Pylori",
+    "position": [3701, 3734],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm ổ bụng tổng quát",
+    "position": [3774, 3798],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ (ECG)",
+    "position": [3999, 4016],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

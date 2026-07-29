@@ -461,7 +461,19 @@ class AccountRoundRobinKeyManager:
                 new_state = self._build_shared_state()
                 self._save_shared_state(new_state)
                 
-                return key_info.key, key_info.account_id, key_info
+    def reset_api_stats(self):
+        """Làm sạch toàn bộ số liệu thống kê gọi API tích lũy (cả bộ nhớ lẫn file state)"""
+        with self._lock:
+            with FileLock(LOCK_DIR):
+                state = self._load_shared_state()
+                state["key_stats"] = {}
+                for provider, accounts in self.keys_by_provider.items():
+                    for acc_name, keys in accounts.items():
+                        for k_info in keys:
+                            k_info.success_count = 0
+                            k_info.fail_count = 0
+                self._save_shared_state(self._build_shared_state())
+                self.write_api_report()
 
     def write_api_report(self):
         """Xuất báo cáo hiệu suất gọi API dạng Markdown và JSON theo thời gian thực"""

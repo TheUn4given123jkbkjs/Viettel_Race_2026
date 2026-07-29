@@ -424,18 +424,8 @@ class AccountRoundRobinKeyManager:
                     })
     
                 if not account_stats:
-                    # Nếu tất cả các Key đều đang bị dính Cooldown Rate-Limit
-                    min_cooldown = float("inf")
-                    best_key = None
-                    for acc_name, keys_in_acc in accounts_dict.items():
-                        for k_info in keys_in_acc:
-                            if k_info.cooldown_until < min_cooldown:
-                                min_cooldown = k_info.cooldown_until
-                                best_key = k_info
-    
-                    wait_time = max(1.0, min_cooldown - time.time())
-                    print(f"⚠️  TOÀN BỘ Key {provider.upper()} đang dính Cooldown. Cần chờ {wait_time:.1f}s...")
-                    return None if best_key is None else (best_key.key, best_key.account_id, best_key)
+                    # Nếu tất cả các Key của provider này đều đang dính Cooldown, trả về None để chuyển provider
+                    return None
     
                 # Sắp xếp ưu tiên tuyệt đối:
                 # Tier 1: in_use ASC (tài khoản rảnh 0 worker đang dùng được xếp đầu)

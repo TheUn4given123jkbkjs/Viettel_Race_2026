@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30 05:31:14",
+  "last_updated": "2026-07-30 05:40:59",
   "stats": [
     {
       "account": "cho_hong",
@@ -37,7 +37,7 @@
       "account": "cho_do",
       "provider": "gemini",
       "success": 0,
-      "fail": 0,
+      "fail": 3,
       "active_keys": 0,
       "frozen_keys": 3
     },
@@ -53,7 +53,7 @@
       "account": "anime_vang",
       "provider": "gemini",
       "success": 0,
-      "fail": 6,
+      "fail": 0,
       "active_keys": 0,
       "frozen_keys": 3
     },
@@ -93,7 +93,7 @@
       "account": "sv",
       "provider": "gemini",
       "success": 0,
-      "fail": 0,
+      "fail": 3,
       "active_keys": 0,
       "frozen_keys": 3
     },
@@ -132,8 +132,8 @@
     {
       "account": "howl",
       "provider": "gemini",
-      "success": 0,
-      "fail": 0,
+      "success": 1,
+      "fail": 6,
       "active_keys": 0,
       "frozen_keys": 3
     },
@@ -172,7 +172,7 @@
     {
       "account": "cho_nau",
       "provider": "groq",
-      "success": 0,
+      "success": 1,
       "fail": 0,
       "active_keys": 3,
       "frozen_keys": 0
@@ -188,7 +188,7 @@
     {
       "account": "anime_blue",
       "provider": "groq",
-      "success": 1,
+      "success": 0,
       "fail": 0,
       "active_keys": 3,
       "frozen_keys": 0
@@ -206,8 +206,8 @@
       "provider": "groq",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "cho_do",
@@ -220,7 +220,7 @@
     {
       "account": "cho_cat",
       "provider": "groq",
-      "success": 0,
+      "success": 1,
       "fail": 0,
       "active_keys": 3,
       "frozen_keys": 0

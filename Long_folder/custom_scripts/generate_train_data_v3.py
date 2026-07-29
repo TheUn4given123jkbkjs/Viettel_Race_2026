@@ -546,8 +546,8 @@ def generate_with_smart_rotation(provider, prompt, max_attempts=15):
                 print(f"  🛑 Key [{api_key[:12]}...] (TK: {account_id.upper()}) dính Rate Limit 429 với Model [{used_model}]. Đang đóng băng Key {cooldown_sec:.1f}s...")
                 key_manager.mark_rate_limited(key_info, cooldown_seconds=cooldown_sec)
                 
-                if not is_daily_limit and ("limit: 0" in res.text or "Quota exceeded" in res.text):
-                    key_manager.mark_model_out_of_quota(current_provider, used_model)
+                if "groq" in available_providers and current_provider != "groq":
+                    global_provider_toggle = "groq"
                 continue
                 
             if res.status_code != 200:

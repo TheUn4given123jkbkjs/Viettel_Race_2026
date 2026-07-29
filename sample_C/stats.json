@@ -1,0 +1,40 @@
+{
+  "member": "C",
+  "total_samples_with_metadata": 2058,
+  "by_provider": {
+    "GROQ": 604,
+    "GEMINI": 1428,
+    "SAMBANOVA": 26
+  },
+  "by_account": {
+    "ANIME_BLUE": 153,
+    "CHO_HONG": 234,
+    "TV": 117,
+    "LUNA": 62,
+    "CHO_NAU": 118,
+    "VY_GREEN": 52,
+    "CHO_VANG": 59,
+    "CHO_DO": 132,
+    "CHO_CAT": 117,
+    "TIN": 70,
+    "ANIME_VANG": 128,
+    "BL_TIM": 114,
+    "LL": 117,
+    "SV": 100,
+    "CHO_KHANG": 78,
+    "CHO_TRANG": 152,
+    "HOWL": 46,
+    "INKSAN": 18,
+    "MNBK": 46,
+    "CHIEN_2": 34,
+    "CHIEN_1": 63,
+    "CHIEN_3": 48
+  },
+  "last_updated": "2026-07-29 05:22:39",
+  "by_model": {
+    "LLAMA-3.3-70B-VERSATILE": 154,
+    "GEMINI-3.1-FLASH-LITE": 334,
+    "GEMINI-3.5-FLASH-LITE": 341,
+    "DEEPSEEK-V3.1": 26
+  }
+}

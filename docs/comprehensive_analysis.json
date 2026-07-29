@@ -1,0 +1,645 @@
+{
+  "sample_A": {
+    "total_files": 2000,
+    "unique_text_count": 2000,
+    "duplicate_text_count": 0,
+    "char_len": {
+      "mean": 1133.3315,
+      "std": 802.6243714264787,
+      "min": 58,
+      "median": 925.0,
+      "max": 7203
+    },
+    "word_len": {
+      "mean": 240.798,
+      "std": 172.98371367270389,
+      "min": 14,
+      "median": 195.0,
+      "max": 1627
+    },
+    "line_len": {
+      "mean": 22.335,
+      "min": 1,
+      "max": 311
+    },
+    "total_entities": 9689,
+    "entities_per_doc": {
+      "mean": 4.8445,
+      "min": 0,
+      "median": 5.0,
+      "max": 19
+    },
+    "type_counts": {
+      "CHẨN_ĐOÁN": 1858,
+      "TRIỆU_CHỨNG": 3433,
+      "KẾT_QUẢ_XÉT_NGHIỆM": 585,
+      "TÊN_XÉT_NGHIỆM": 1317,
+      "THUỐC": 2496
+    },
+    "assertion_counts": {
+      "isNegated": 1032,
+      "isHistorical": 684,
+      "isFamily": 284
+    },
+    "assertion_by_type": {
+      "TRIỆU_CHỨNG": {
+        "isNegated": 581,
+        "isHistorical": 205,
+        "isFamily": 127
+      },
+      "CHẨN_ĐOÁN": {
+        "isNegated": 361,
+        "isHistorical": 108,
+        "isFamily": 120
+      },
+      "THUỐC": {
+        "isNegated": 50,
+        "isHistorical": 323,
+        "isFamily": 13
+      },
+      "TÊN_XÉT_NGHIỆM": {
+        "isNegated": 21,
+        "isFamily": 24,
+        "isHistorical": 42
+      },
+      "KẾT_QUẢ_XÉT_NGHIỆM": {
+        "isNegated": 19,
+        "isHistorical": 6
+      }
+    },
+    "candidates_diag": {
+      "total": 1858,
+      "mapped": 1608,
+      "coverage_pct": 86.54467168998924,
+      "unique_icd10_count": 1647,
+      "top_10_icd10": [
+        [
+          "A52.06",
+          36
+        ],
+        [
+          "R11",
+          31
+        ],
+        [
+          "I25.0",
+          30
+        ],
+        [
+          "I67.4",
+          29
+        ],
+        [
+          "I10",
+          29
+        ],
+        [
+          "I11",
+          29
+        ],
+        [
+          "A92.30",
+          26
+        ],
+        [
+          "I25.1",
+          26
+        ],
+        [
+          "R50.0",
+          20
+        ],
+        [
+          "R50.1",
+          20
+        ]
+      ]
+    },
+    "candidates_drug": {
+      "total": 2496,
+      "mapped": 2202,
+      "coverage_pct": 88.22115384615384,
+      "unique_rxnorm_count": 284,
+      "top_10_rxnorm": [
+        [
+          "1191",
+          366
+        ],
+        [
+          "161",
+          278
+        ],
+        [
+          "2193",
+          256
+        ],
+        [
+          "190521",
+          150
+        ],
+        [
+          "167",
+          75
+        ],
+        [
+          "8638",
+          45
+        ],
+        [
+          "281",
+          45
+        ],
+        [
+          "5640",
+          41
+        ],
+        [
+          "3264",
+          40
+        ],
+        [
+          "6809",
+          32
+        ]
+      ]
+    },
+    "candidate_array_lens": {
+      "1": 3052,
+      "0": 544,
+      "2": 205,
+      "3": 553
+    },
+    "position_checks": {
+      "total_checked": 9689,
+      "exact_matches": 9689,
+      "out_of_bounds": 0,
+      "match_rate_pct": 100.0,
+      "sample_mismatches": []
+    }
+  },
+  "sample_C": {
+    "total_files": 1995,
+    "unique_text_count": 1995,
+    "duplicate_text_count": 0,
+    "char_len": {
+      "mean": 2419.9664160401003,
+      "std": 714.2461061323684,
+      "min": 823,
+      "median": 2497.0,
+      "max": 5807
+    },
+    "word_len": {
+      "mean": 517.8827067669173,
+      "std": 155.2818612,
+      "min": 177,
+      "median": 533.0,
+      "max": 1262
+    },
+    "line_len": {
+      "mean": 23.50827067669173,
+      "min": 1,
+      "max": 154
+    },
+    "total_entities": 16143,
+    "entities_per_doc": {
+      "mean": 8.09172932330827,
+      "min": 0,
+      "median": 8.0,
+      "max": 26
+    },
+    "type_counts": {
+      "CHẨN_ĐOÁN": 2238,
+      "THUỐC": 2732,
+      "TRIỆU_CHỨNG": 4587,
+      "TÊN_XÉT_NGHIỆM": 3717,
+      "KẾT_QUẢ_XÉT_NGHIỆM": 2869
+    },
+    "assertion_counts": {
+      "isFamily": 675,
+      "isNegated": 993,
+      "isHistorical": 912
+    },
+    "assertion_by_type": {
+      "TRIỆU_CHỨNG": {
+        "isFamily": 169,
+        "isNegated": 931,
+        "isHistorical": 274
+      },
+      "CHẨN_ĐOÁN": {
+        "isHistorical": 298,
+        "isFamily": 503,
+        "isNegated": 24
+      },
+      "THUỐC": {
+        "isHistorical": 338,
+        "isNegated": 16,
+        "isFamily": 1
+      },
+      "KẾT_QUẢ_XÉT_NGHIỆM": {
+        "isNegated": 19,
+        "isFamily": 1,
+        "isHistorical": 1
+      },
+      "TÊN_XÉT_NGHIỆM": {
+        "isHistorical": 1,
+        "isNegated": 3,
+        "isFamily": 1
+      }
+    },
+    "candidates_diag": {
+      "total": 2238,
+      "mapped": 1740,
+      "coverage_pct": 77.7479892761394,
+      "unique_icd10_count": 1446,
+      "top_10_icd10": [
+        [
+          "I67.4",
+          350
+        ],
+        [
+          "I10",
+          350
+        ],
+        [
+          "I11",
+          350
+        ],
+        [
+          "A50.04",
+          34
+        ],
+        [
+          "B06.81",
+          34
+        ],
+        [
+          "A54.84",
+          34
+        ],
+        [
+          "Y06",
+          30
+        ],
+        [
+          "A52.06",
+          13
+        ],
+        [
+          "A54.86",
+          11
+        ],
+        [
+          "E12.9",
+          10
+        ]
+      ]
+    },
+    "candidates_drug": {
+      "total": 2732,
+      "mapped": 2485,
+      "coverage_pct": 90.95900439238653,
+      "unique_rxnorm_count": 297,
+      "top_10_rxnorm": [
+        [
+          "161",
+          291
+        ],
+        [
+          "2193",
+          225
+        ],
+        [
+          "1191",
+          187
+        ],
+        [
+          "5640",
+          111
+        ],
+        [
+          "7646",
+          99
+        ],
+        [
+          "17767",
+          72
+        ],
+        [
+          "19711",
+          65
+        ],
+        [
+          "3355",
+          56
+        ],
+        [
+          "6922",
+          47
+        ],
+        [
+          "4603",
+          41
+        ]
+      ]
+    },
+    "candidate_array_lens": {
+      "1": 3304,
+      "0": 745,
+      "3": 678,
+      "2": 243
+    },
+    "position_checks": {
+      "total_checked": 16143,
+      "exact_matches": 16122,
+      "out_of_bounds": 0,
+      "match_rate_pct": 99.86991265564022,
+      "sample_mismatches": [
+        {
+          "file": "sample_C\\input\\part_1\\15.txt",
+          "text_in_json": "Nhiễm khuẩn huyết",
+          "text_at_pos": "hiễm khuẩn huyết ",
+          "pos": [
+            978,
+            995
+          ],
+          "reason": "text_mismatch"
+        },
+        {
+          "file": "sample_C\\input\\part_1\\15.txt",
+          "text_in_json": "Ceftriaxone",
+          "text_at_pos": "eftriaxone ",
+          "pos": [
+            1012,
+            1023
+          ],
+          "reason": "text_mismatch"
+        },
+        {
+          "file": "sample_C\\input\\part_1\\15.txt",
+          "text_in_json": "Acetaminophen",
+          "text_at_pos": "cetaminophen ",
+          "pos": [
+            1038,
+            1051
+          ],
+          "reason": "text_mismatch"
+        },
+        {
+          "file": "sample_C\\input\\part_1\\15.txt",
+          "text_in_json": "Hemoglobin",
+          "text_at_pos": "emoglobin ",
+          "pos": [
+            841,
+            851
+          ],
+          "reason": "text_mismatch"
+        },
+        {
+          "file": "sample_C\\input\\part_1\\15.txt",
+          "text_in_json": "12 g/dl",
+          "text_at_pos": "2 g/dl,",
+          "pos": [
+            852,
+            859
+          ],
+          "reason": "text_mismatch"
+        }
+      ]
+    }
+  },
+  "sample_Long": {
+    "total_files": 2000,
+    "unique_text_count": 2000,
+    "duplicate_text_count": 0,
+    "char_len": {
+      "mean": 1161.9955,
+      "std": 873.8293989559689,
+      "min": 126,
+      "median": 892.5,
+      "max": 7515
+    },
+    "word_len": {
+      "mean": 250.187,
+      "std": 190.25591194756603,
+      "min": 27,
+      "median": 190.0,
+      "max": 1513
+    },
+    "line_len": {
+      "mean": 13.632,
+      "min": 1,
+      "max": 113
+    },
+    "total_entities": 11446,
+    "entities_per_doc": {
+      "mean": 5.723,
+      "min": 0,
+      "median": 6.0,
+      "max": 15
+    },
+    "type_counts": {
+      "TRIỆU_CHỨNG": 4754,
+      "CHẨN_ĐOÁN": 2280,
+      "THUỐC": 2299,
+      "TÊN_XÉT_NGHIỆM": 1344,
+      "KẾT_QUẢ_XÉT_NGHIỆM": 769
+    },
+    "assertion_counts": {
+      "isFamily": 552,
+      "isHistorical": 759,
+      "isNegated": 1177
+    },
+    "assertion_by_type": {
+      "CHẨN_ĐOÁN": {
+        "isFamily": 336,
+        "isHistorical": 209,
+        "isNegated": 117
+      },
+      "TRIỆU_CHỨNG": {
+        "isFamily": 196,
+        "isNegated": 1047,
+        "isHistorical": 221
+      },
+      "THUỐC": {
+        "isHistorical": 312,
+        "isNegated": 7,
+        "isFamily": 9
+      },
+      "TÊN_XÉT_NGHIỆM": {
+        "isFamily": 9,
+        "isHistorical": 12,
+        "isNegated": 4
+      },
+      "KẾT_QUẢ_XÉT_NGHIỆM": {
+        "isHistorical": 5,
+        "isNegated": 2,
+        "isFamily": 2
+      }
+    },
+    "candidates_diag": {
+      "total": 2280,
+      "mapped": 1885,
+      "coverage_pct": 82.67543859649122,
+      "unique_icd10_count": 1754,
+      "top_10_icd10": [
+        [
+          "I67.4",
+          100
+        ],
+        [
+          "I10",
+          99
+        ],
+        [
+          "I11",
+          99
+        ],
+        [
+          "A52.06",
+          31
+        ],
+        [
+          "Y06",
+          28
+        ],
+        [
+          "I25.0",
+          25
+        ],
+        [
+          "O04.0",
+          18
+        ],
+        [
+          "I21",
+          17
+        ],
+        [
+          "I21.0",
+          17
+        ],
+        [
+          "I21.1",
+          17
+        ]
+      ]
+    },
+    "candidates_drug": {
+      "total": 2299,
+      "mapped": 1906,
+      "coverage_pct": 82.9056111352762,
+      "unique_rxnorm_count": 281,
+      "top_10_rxnorm": [
+        [
+          "161",
+          297
+        ],
+        [
+          "1191",
+          226
+        ],
+        [
+          "2193",
+          183
+        ],
+        [
+          "5640",
+          94
+        ],
+        [
+          "17767",
+          51
+        ],
+        [
+          "8638",
+          37
+        ],
+        [
+          "19711",
+          35
+        ],
+        [
+          "190521",
+          31
+        ],
+        [
+          "3355",
+          30
+        ],
+        [
+          "167",
+          20
+        ]
+      ]
+    },
+    "candidate_array_lens": {
+      "1": 2838,
+      "0": 788,
+      "3": 700,
+      "2": 253
+    },
+    "position_checks": {
+      "total_checked": 11446,
+      "exact_matches": 11446,
+      "out_of_bounds": 0,
+      "match_rate_pct": 100.0,
+      "sample_mismatches": []
+    }
+  },
+  "input_turn2_vong1 (Test Set)": {
+    "total_files": 100,
+    "unique_text_count": 100,
+    "duplicate_text_count": 0,
+    "char_len": {
+      "mean": 2038.17,
+      "std": 633.3255727506983,
+      "min": 1293,
+      "median": 1838.0,
+      "max": 4481
+    },
+    "word_len": {
+      "mean": 436.74,
+      "std": 137.40652240705316,
+      "min": 274,
+      "median": 393.0,
+      "max": 978
+    },
+    "line_len": {
+      "mean": 30.28,
+      "min": 2,
+      "max": 93
+    },
+    "total_entities": 0,
+    "entities_per_doc": {
+      "mean": 0,
+      "min": 0,
+      "median": 0,
+      "max": 0
+    },
+    "type_counts": {},
+    "assertion_counts": {},
+    "assertion_by_type": {},
+    "candidates_diag": {
+      "total": 0,
+      "mapped": 0,
+      "coverage_pct": 0,
+      "unique_icd10_count": 0,
+      "top_10_icd10": []
+    },
+    "candidates_drug": {
+      "total": 0,
+      "mapped": 0,
+      "coverage_pct": 0,
+      "unique_rxnorm_count": 0,
+      "top_10_rxnorm": []
+    },
+    "candidate_array_lens": {},
+    "position_checks": {
+      "total_checked": 0,
+      "exact_matches": 0,
+      "out_of_bounds": 0,
+      "match_rate_pct": 0,
+      "sample_mismatches": []
+    }
+  }
+}

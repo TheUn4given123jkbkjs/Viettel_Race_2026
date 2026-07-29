@@ -495,9 +495,6 @@ class AccountRoundRobinKeyManager:
                         else:
                             active_keys_count += 1
                             
-                    if total_success == 0 and total_fail == 0:
-                        continue
-                        
                     stats_by_acc[(acc_name, provider)] = {
                         "success": total_success,
                         "fail": total_fail,
@@ -506,10 +503,7 @@ class AccountRoundRobinKeyManager:
                         "longest_cooldown": longest_cooldown
                     }
             
-            if not stats_by_acc:
-                return
-                
-            sorted_stats = sorted(stats_by_acc.items(), key=lambda x: x[1]["success"], reverse=True)
+            sorted_stats = sorted(stats_by_acc.items(), key=lambda x: (x[1]["success"], x[0][0]), reverse=True)
             
             for (acc_name, provider), stats in sorted_stats:
                 suc = stats["success"]

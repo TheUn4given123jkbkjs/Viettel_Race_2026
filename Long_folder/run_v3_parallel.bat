@@ -14,7 +14,7 @@ echo ===========================================================================
 echo  BUOC 2: CAU HINH THONG TIN SINH DU LIEU
 echo ==============================================================================
 set "MEMBER=C"
-set /p MEMBER="> Nhap ma thanh vien / ten thu muc dau ra [Mac dinh: C]: "
+set /p MEMBER="> Nhap ma thanh vien/ten ngan (Vi du gop: C hoac V4_test) [Mac dinh: C]: "
 if "%MEMBER%"=="" set "MEMBER=C"
 
 set "PROVIDER=auto"

@@ -68,7 +68,8 @@ class KeyInfo:
 
     def mark_rate_limited(self, cooldown_seconds: float = 60.0):
         self.cooldown_until = time.time() + cooldown_seconds
-        self.fail_count += 1
+        if cooldown_seconds >= 60.0:
+            self.fail_count += 1
 
     def mark_success(self):
         self.success_count += 1

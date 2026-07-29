@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30 04:38:14",
+  "last_updated": "2026-07-30 05:15:22",
   "stats": [
     {
       "account": "cho_hong",
@@ -22,8 +22,8 @@
       "provider": "gemini",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "cho_trang",
@@ -62,8 +62,8 @@
       "provider": "gemini",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "bl_tim",
@@ -86,8 +86,8 @@
       "provider": "gemini",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "sv",
@@ -110,8 +110,8 @@
       "provider": "gemini",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "vy_green",
@@ -150,16 +150,16 @@
       "provider": "gemini",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "chien_2",
       "provider": "gemini",
       "success": 0,
       "fail": 0,
-      "active_keys": 3,
-      "frozen_keys": 0
+      "active_keys": 0,
+      "frozen_keys": 3
     },
     {
       "account": "chien_3",
@@ -170,7 +170,7 @@
       "frozen_keys": 0
     },
     {
-      "account": "cho_hong",
+      "account": "cho_nau",
       "provider": "groq",
       "success": 0,
       "fail": 0,
@@ -178,7 +178,7 @@
       "frozen_keys": 0
     },
     {
-      "account": "cho_nau",
+      "account": "cho_hong",
       "provider": "groq",
       "success": 0,
       "fail": 0,
@@ -260,7 +260,7 @@
     {
       "account": "tv",
       "provider": "groq",
-      "success": 0,
+      "success": 1,
       "fail": 0,
       "active_keys": 3,
       "frozen_keys": 0

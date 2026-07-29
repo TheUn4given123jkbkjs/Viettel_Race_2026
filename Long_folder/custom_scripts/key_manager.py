@@ -461,6 +461,8 @@ class AccountRoundRobinKeyManager:
                 new_state = self._build_shared_state()
                 self._save_shared_state(new_state)
                 
+                return key_info.key, key_info.account_id, key_info
+
     def reset_api_stats(self):
         """Làm sạch toàn bộ số liệu thống kê gọi API tích lũy (cả bộ nhớ lẫn file state)"""
         with self._lock:
@@ -479,6 +481,9 @@ class AccountRoundRobinKeyManager:
         """Xuất báo cáo hiệu suất gọi API dạng Markdown và JSON theo thời gian thực"""
         try:
             now_str = time.strftime("%Y-%m-%d %H:%M:%S")
+            state = self._load_shared_state()
+            self._sync_with_shared_state(state)
+
             report_lines = [
                 "# 📊 Báo Cáo Hiệu Suất Gọi API (API Performance & Health Report)",
                 f"*Cập nhật lúc: {now_str}*",

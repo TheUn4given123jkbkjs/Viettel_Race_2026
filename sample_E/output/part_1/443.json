@@ -1,0 +1,72 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [296, 309],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Hen phế quản",
+    "position": [2371, 2383],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "khó thở",
+    "position": [751, 758],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khò khè",
+    "position": [821, 828],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích tế bào máu ngoại vi",
+    "position": [1850, 1884],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đo dung tích hô hấp",
+    "position": [1996, 2015],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn thông khí tắc nghẽn hồi phục tốt với thuốc giãn phế quản",
+    "position": [2162, 2227],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Budesonide",
+    "position": [3022, 3032],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [3080, 3090],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Montelukast",
+    "position": [3133, 3144],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

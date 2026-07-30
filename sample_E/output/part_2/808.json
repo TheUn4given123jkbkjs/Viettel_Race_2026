@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Alzheimer",
+    "position": [377, 386],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["G30.9"]
+  },
+  {
+    "text": "Donepezil",
+    "position": [503, 512],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [617, 630],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "quên gần",
+    "position": [961, 969],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất định hướng",
+    "position": [1100, 1114],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1533, 1542],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1553, 1561],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [1563, 1576],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

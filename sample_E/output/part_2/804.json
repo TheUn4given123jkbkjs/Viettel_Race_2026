@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Khát nước nhiều",
+    "position": [244, 259],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu nhiều",
+    "position": [261, 271],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụt cân nhanh",
+    "position": [275, 288],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu bất kỳ",
+    "position": [2032, 2050],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "22.4 mmol/L",
+    "position": [2052, 2063],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [2069, 2074],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.8%",
+    "position": [2076, 2081],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [2451, 2472],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E10.9"]
+  }
+]

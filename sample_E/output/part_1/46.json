@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Rối loạn lipid máu",
+    "position": [1758, 1776],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E78.5"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [166, 173],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [1391, 1412],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.8 mmol/L",
+    "position": [1414, 1424],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [2325, 2337],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Fenofibrate",
+    "position": [2423, 2434],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8703"]
+  },
+  {
+    "text": "Triglyceride",
+    "position": [1439, 1451],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3.2 mmol/L",
+    "position": [1453, 1463],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

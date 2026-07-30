@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Loạn dưỡng cơ Duchenne",
+    "position": [127, 149],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Prednisolone",
+    "position": [649, 661],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [273, 286],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [338, 359],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "yếu cơ",
+    "position": [198, 204],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatine Kinase",
+    "position": [1109, 1124],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "15.400 U/L",
+    "position": [1152, 1162],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

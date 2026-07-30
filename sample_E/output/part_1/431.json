@@ -1,0 +1,51 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [303, 316],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Thoát vị đĩa đệm",
+    "position": [3464, 3480],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M51.2"]
+  },
+  {
+    "text": "tê bì",
+    "position": [1462, 1467],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp Cộng hưởng từ (MRI)",
+    "position": [3159, 3183],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Meloxicam",
+    "position": [3622, 3631],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Gabapentin",
+    "position": [3677, 3687],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [3751, 3762],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

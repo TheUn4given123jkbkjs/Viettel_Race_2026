@@ -1,0 +1,65 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [80, 93],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [182, 203],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "khò khè",
+    "position": [437, 444],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [511, 518],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hen phế quản",
+    "position": [1855, 1867],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "Đo chức năng hô hấp",
+    "position": [1008, 1027],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "FEV1/FVC giảm xuống còn 68%",
+    "position": [1042, 1069],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm IgE toàn phần",
+    "position": [1436, 1460],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "450 IU/mL",
+    "position": [1470, 1479],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

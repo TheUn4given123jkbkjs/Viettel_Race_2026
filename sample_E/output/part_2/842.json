@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Sốt xuất huyết Dengue",
+    "position": [118, 139],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["A91"]
+  },
+  {
+    "text": "giảm tiểu cầu",
+    "position": [422, 435],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "thoát huyết tương",
+    "position": [573, 590],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "truyền dịch",
+    "position": [604, 615],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [662, 673],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [954, 961],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chán ăn",
+    "position": [996, 1003],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [1047, 1056],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

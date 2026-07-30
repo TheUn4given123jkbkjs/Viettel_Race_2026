@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Đau thắt lưng",
+    "position": [277, 290],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M54.5"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [471, 482],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [576, 589],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [630, 651],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1110, 1118],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1075, 1082],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "co cứng cơ cạnh sống",
+    "position": [972, 992],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thoái hóa cột sống thắt lưng",
+    "position": [2187, 2215],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M47.8"]
+  }
+]

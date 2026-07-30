@@ -2,6 +2,29 @@
 
 ---
 
+### 📌 LOG-20260730-V6.4: Báo cáo Bàn giao Hợp phần Pipeline & Trạng thái PhoBERT Fine-tune
+
+* **Ngày thực hiện:** `2026-07-30 18:00:00 (UTC+7)`
+* **Lý do:** Bàn giao toàn bộ cấu trúc mã nguồn chạy offline, chuẩn bị tập dữ liệu BIO cho PhoBERT và xác định nhiệm vụ chạy train cho nhóm.
+* **Cách khắc phục:** 
+  * Hoàn thành sinh `train_phobert.jsonl` (7,400 mẫu) và `val_phobert.jsonl` (823 mẫu).
+  * Viết và bàn giao `train_phobert.py` cho Thành viên 2 huấn luyện.
+  * Bàn giao `hybrid_linker.py`, `ensemble_merger.py`, và `run_pipeline.py` vào thư mục `/pipeline` cho Thành viên 3.
+* **Chi tiết Log:** [LOG-20260730-V6.4-PIPELINE-COMPONENTS-DELIVERED.md](file:///d:/record_by_me/Viettel_race/logs/LOG-20260730-V6.4-PIPELINE-COMPONENTS-DELIVERED.md)
+
+---
+
+### 📌 LOG-20260730-V6.3: Thiết lập Pipeline & Kế hoạch Phân chia Công việc Huấn luyện y khoa
+
+* **Ngày thực hiện:** `2026-07-30 17:30:00 (UTC+7)`
+* **Lý do:** Thống nhất tập trung triển khai mô hình Giai đoạn 2 (Core Hybrid Pipeline) để tối ưu hóa thời gian và nguồn lực.
+* **Cách khắc phục:** 
+  * Phân chia 2 thành viên huấn luyện luân phiên LLM với cấu hình checkpoint chi tiết.
+  * Phân chia 1 thành viên xây dựng bộ ánh xạ mã 3 tầng Hybrid Linker (Exact -> Fuzzy -> Semantic Search).
+* **Chi tiết Log:** [LOG-20260730-V6.3-PIPELINE-SETUP-AND-FINE-TUNING-PLAN.md](file:///d:/record_by_me/Viettel_race/logs/LOG-20260730-V6.3-PIPELINE-SETUP-AND-FINE-TUNING-PLAN.md)
+
+---
+
 ### 📌 LOG-20260730-V6.2: Tích hợp Tập dữ liệu bổ sung Sample E & Cập nhật EDA Toàn hệ thống
 
 * **Ngày thực hiện:** `2026-07-30 16:20:00 (UTC+7)`

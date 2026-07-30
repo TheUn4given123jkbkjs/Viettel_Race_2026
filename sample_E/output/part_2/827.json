@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Hen phế quản",
+    "position": [130, 142],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [315, 325],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [43, 50],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khò khè",
+    "position": [54, 61],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [642, 650],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "FEV1",
+    "position": [1213, 1217],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "65%",
+    "position": [1222, 1225],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu ái toan",
+    "position": [1409, 1425],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

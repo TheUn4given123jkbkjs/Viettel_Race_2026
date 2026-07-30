@@ -1,0 +1,44 @@
+[
+  {
+    "text": "SCID (Suy giảm miễn dịch kết hợp nặng)",
+    "position": [1300, 1338],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi nặng",
+    "position": [224, 238],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy kéo dài",
+    "position": [242, 259],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mổ ruột thừa",
+    "position": [267, 279],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "số lượng tế bào lympho T rất thấp",
+    "position": [721, 754],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sulfamethoxazole / Trimethoprim",
+    "position": [1623, 1654],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10831"]
+  }
+]

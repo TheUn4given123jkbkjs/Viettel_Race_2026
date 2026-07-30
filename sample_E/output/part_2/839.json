@@ -1,0 +1,72 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [309, 322],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "tai biến mạch máu não",
+    "position": [611, 632],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I64"]
+  },
+  {
+    "text": "méo miệng sang bên phải",
+    "position": [868, 891],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu nửa người bên trái",
+    "position": [933, 955],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan",
+    "position": [2933, 2940],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh giảm tỷ trọng nhân bèo và bao trong bán cầu não phải",
+    "position": [2950, 3011],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đột quỵ não",
+    "position": [3097, 3108],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I64"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [3415, 3422],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [3465, 3476],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [3521, 3533],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  }
+]

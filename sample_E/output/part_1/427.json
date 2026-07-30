@@ -1,0 +1,58 @@
+[
+  {
+    "text": "khó thở đột ngột",
+    "position": [435, 451],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tức ngực",
+    "position": [470, 478],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SpO2",
+    "position": [1001, 1005],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "78%",
+    "position": [1007, 1010],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khí máu động mạch",
+    "position": [1273, 1290],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "PaO2: 52 mmHg",
+    "position": [1346, 1359],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC): 16.5 G/L",
+    "position": [1603, 1627],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy hô hấp cấp",
+    "position": [1789, 1803],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J96.0"]
+  }
+]

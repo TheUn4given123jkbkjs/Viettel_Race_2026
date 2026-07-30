@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Béo phì",
+    "position": [1059, 1066],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E66.9"]
+  },
+  {
+    "text": "đau khớp gối",
+    "position": [210, 222],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [188, 195],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [1598, 1619],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.8 mmol/L",
+    "position": [1621, 1631],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Orlistat",
+    "position": [2235, 2243],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Metformin",
+    "position": [2307, 2316],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [338, 351],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Giảm gammaglobulin di truyền (Bruton)",
+    "position": [450, 487],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan kéo dài",
+    "position": [299, 314],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1063, 1071],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1079, 1086],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "hen phế quản",
+    "position": [605, 617],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Budesonide",
+    "position": [2519, 2529],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Influenza Vaccine",
+    "position": [2583, 2600],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5806"]
+  },
+  {
+    "text": "Procarbazine",
+    "position": [2667, 2679],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8702"]
+  },
+  {
+    "text": "IgG",
+    "position": [1870, 1873],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

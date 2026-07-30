@@ -1,0 +1,66 @@
+[
+  {
+    "text": "đau âm ỉ vùng hạ sườn phải",
+    "position": [87, 113],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sỏi mật",
+    "position": [1549, 1556],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80"
+    ]
+  },
+  {
+    "text": "sỏi túi mật",
+    "position": [1096, 1107],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
+  },
+  {
+    "text": "siêu âm ổ bụng tổng quát",
+    "position": [911, 935],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "15mm",
+    "position": [1123, 1127],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cắt lớp vi tính",
+    "position": [1272, 1292],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "16mm",
+    "position": [1402, 1406],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầy bụng",
+    "position": [167, 175],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

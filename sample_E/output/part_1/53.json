@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [456, 469],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1248, 1256],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [1195, 1198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [2271, 2285],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 K/uL",
+    "position": [2287, 2296],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP (C-Reactive Protein)",
+    "position": [2531, 2555],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 mg/L",
+    "position": [2557, 2564],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm ruột thừa cấp",
+    "position": [2804, 2822],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K35.8"]
+  }
+]

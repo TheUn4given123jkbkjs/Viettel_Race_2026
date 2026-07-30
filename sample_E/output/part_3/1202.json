@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Ung thư dạ dày",
+    "position": [1216, 1230],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D00"]
+  },
+  {
+    "text": "không sốt",
+    "position": [812, 821],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Cisplatin",
+    "position": [1904, 1913],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Fluorouracil",
+    "position": [1917, 1929],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4492"]
+  },
+  {
+    "text": "Nội soi dạ dày",
+    "position": [1377, 1391],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 g/L",
+    "position": [1487, 1493],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau âm ỉ vùng thượng vị",
+    "position": [117, 140],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm loét dạ dày",
+    "position": [425, 441],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K25.9"]
+  }
+]

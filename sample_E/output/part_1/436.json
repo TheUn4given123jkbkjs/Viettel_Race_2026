@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Bệnh nước tiểu mùi sirô phong (MSUD)",
+    "position": [0, 36],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mổ ruột thừa cách đây 2 năm",
+    "position": [747, 774],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng trương lực cơ",
+    "position": [928, 946],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ leucine tăng vọt lên mức 1200 µmol/L",
+    "position": [1114, 1158],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Immune Globulin",
+    "position": [1817, 1832],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1426680"]
+  },
+  {
+    "text": "Carbamazepine",
+    "position": [1883, 1896],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2002"]
+  },
+  {
+    "text": "Measles Vaccine",
+    "position": [1975, 1990],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "705030",
+      "705031",
+      "6669"
+    ]
+  },
+  {
+    "text": "xét nghiệm acid amin máu",
+    "position": [1080, 1104],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

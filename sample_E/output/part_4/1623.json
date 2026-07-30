@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Rối loạn lipid máu",
+    "position": [1399, 1417],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E78.5"]
+  },
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [210, 229],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đau tức vùng ngực trái",
+    "position": [51, 73],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [879, 900],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7.8 mmol/L",
+    "position": [904, 914],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "LDL-cholesterol",
+    "position": [959, 974],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.1 mmol/L",
+    "position": [990, 1000],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triglyceride",
+    "position": [924, 936],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

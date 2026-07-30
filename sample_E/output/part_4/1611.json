@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Suy thận mạn",
+    "position": [1880, 1892],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N18.9"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [631, 638],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [675, 683],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine máu",
+    "position": [1498, 1512],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "485 µmol/L",
+    "position": [1513, 1523],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ure máu",
+    "position": [1536, 1543],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18.2 mmol/L",
+    "position": [1544, 1555],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [715, 718],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

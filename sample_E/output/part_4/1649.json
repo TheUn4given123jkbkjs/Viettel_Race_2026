@@ -1,0 +1,58 @@
+[
+  {
+    "text": "sụt cân",
+    "position": [352, 359],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận ho",
+    "position": [1256, 1267],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [850, 871],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Glucose máu đói",
+    "position": [1793, 1808],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.2 mmol/L",
+    "position": [1811, 1822],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [1839, 1844],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.8%",
+    "position": [1846, 1850],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường type 2",
+    "position": [2590, 2611],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E11.9"]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Thoái hóa khớp gối",
+    "position": [1840, 1858],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "đau khi đi lại",
+    "position": [1708, 1722],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [731, 740],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [477, 490],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "viêm khớp dạng thấp",
+    "position": [561, 580],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["M06.9"]
+  },
+  {
+    "text": "Chụp X-quang khớp gối",
+    "position": [1239, 1260],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hẹp khe khớp",
+    "position": [1285, 1297],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm khớp gối",
+    "position": [1567, 1583],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

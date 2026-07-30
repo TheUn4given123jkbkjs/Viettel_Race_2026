@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [1373, 1407],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [51, 64],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1540, 1547],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1588, 1600],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Bisoprolol",
+    "position": [1662, 1672],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [932, 943],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hẹp 70% đoạn giữa động mạch liên thất trước",
+    "position": [1300, 1343],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [260, 290],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  }
+]

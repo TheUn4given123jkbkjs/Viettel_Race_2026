@@ -1,0 +1,65 @@
+[
+  {
+    "text": "hoa mắt",
+    "position": [606, 613],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt nhẹ",
+    "position": [615, 628],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [1357, 1370],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [2997, 3010],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [3613, 3623],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Losartan",
+    "position": [3732, 3740],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hydrochlorothiazide",
+    "position": [3879, 3898],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5487"]
+  },
+  {
+    "text": "cholesterol toàn phần",
+    "position": [1973, 1994],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.8 mmol/L",
+    "position": [1998, 2008],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

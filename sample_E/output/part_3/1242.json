@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Thoái hóa cột sống",
+    "position": [382, 400],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M47.9"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [586, 597],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [798, 819],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [838, 851],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "tê bì bàn chân trái",
+    "position": [288, 307],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1733, 1746],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [1879, 1889],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 µmol/L",
+    "position": [1890, 1899],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

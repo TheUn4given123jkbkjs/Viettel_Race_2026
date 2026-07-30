@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Thoái hóa khớp gối",
+    "position": [0, 18],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [467, 478],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau khi đi lại",
+    "position": [767, 781],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [577, 590],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [608, 629],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Hyaluronic acid",
+    "position": [1820, 1835],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acid Uric",
+    "position": [1379, 1388],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hẹp khe khớp",
+    "position": [1248, 1260],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Đái tháo đường type 2",
+    "position": [258, 279],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Metformin",
+    "position": [345, 354],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "khát nước",
+    "position": [494, 503],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [984, 989],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5%",
+    "position": [1001, 1005],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tê bì nhẹ ở hai bàn chân",
+    "position": [782, 806],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10.2 mmol/L",
+    "position": [1047, 1058],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

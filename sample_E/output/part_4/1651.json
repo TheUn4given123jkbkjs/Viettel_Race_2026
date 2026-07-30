@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [240, 259],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Đau nhức khớp gối hai bên",
+    "position": [157, 182],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng khớp buổi sáng",
+    "position": [801, 820],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tốc độ máu lắng (ESR)",
+    "position": [1668, 1689],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18 mm/h",
+    "position": [1691, 1698],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP định lượng",
+    "position": [1731, 1745],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3.2 mg/L",
+    "position": [1747, 1755],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thoái hóa khớp gối",
+    "position": [2327, 2345],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M17.9"]
+  }
+]

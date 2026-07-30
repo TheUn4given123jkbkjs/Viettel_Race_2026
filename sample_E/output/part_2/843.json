@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Rối loạn lipid máu",
+    "position": [825, 843],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E78.5"]
+  },
+  {
+    "text": "chóng mặt",
+    "position": [132, 141],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [143, 150],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [619, 640],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.8 mmol/L",
+    "position": [644, 654],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triglyceride",
+    "position": [663, 675],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3.5 mmol/L",
+    "position": [679, 689],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rosuvastatin",
+    "position": [1925, 1937],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Fenofibrate",
+    "position": [2038, 2049],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8703"]
+  },
+  {
+    "text": "Ezetimibe",
+    "position": [2220, 2229],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

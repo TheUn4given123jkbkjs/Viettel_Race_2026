@@ -1,0 +1,80 @@
+[
+  {
+    "text": "sỏi túi mật",
+    "position": [559, 570],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
+  },
+  {
+    "text": "đau hạ sườn phải",
+    "position": [717, 733],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầy bụng",
+    "position": [918, 926],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [951, 959],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm ổ bụng tổng quát",
+    "position": [1942, 1966],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sỏi mật",
+    "position": [2282, 2289],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80"
+    ]
+  },
+  {
+    "text": "Ursodeoxycholic acid",
+    "position": [2788, 2808],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2934, 2945],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hyoscine",
+    "position": [3047, 3055],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "biểu hiẹn",
+    "position": [3466, 3475],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

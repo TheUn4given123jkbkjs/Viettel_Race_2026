@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm dạ dày",
+    "position": [358, 369],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [507, 517],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "đau vùng thượng vị",
+    "position": [859, 877],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Helicobacter pylori",
+    "position": [1683, 1702],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B98.0"]
+  },
+  {
+    "text": "Nội soi dạ dày thực quản",
+    "position": [1516, 1540],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính",
+    "position": [1668, 1678],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

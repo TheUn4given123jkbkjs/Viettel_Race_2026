@@ -1,0 +1,44 @@
+[
+  {
+    "text": "sưng nóng đỏ đau khớp bàn chân",
+    "position": [361, 391],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acid uric máu",
+    "position": [842, 855],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "580 µmol/L",
+    "position": [857, 867],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh gút",
+    "position": [1217, 1225],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M10.9"]
+  },
+  {
+    "text": "CRP",
+    "position": [981, 984],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 mg/L",
+    "position": [986, 993],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

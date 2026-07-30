@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Viêm họng",
+    "position": [52, 61],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J02.9"]
+  },
+  {
+    "text": "đau họng",
+    "position": [1251, 1259],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nuốt nước bọt",
+    "position": [1312, 1325],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [1394, 1401],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [1461, 1468],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "công thức máu",
+    "position": [1961, 1974],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [2901, 2912],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [3131, 3142],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [3148, 3157],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Chlorhexidine",
+    "position": [3243, 3256],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2358"]
+  }
+]

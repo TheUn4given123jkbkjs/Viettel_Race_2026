@@ -1,0 +1,51 @@
+[
+  {
+    "text": "khát nhiều",
+    "position": [437, 447],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu nhiều lần",
+    "position": [468, 482],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose",
+    "position": [1453, 1460],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "16.5 mmol/L",
+    "position": [1463, 1474],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [1520, 1525],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.2 %",
+    "position": [1527, 1533],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [2095, 2116],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E10.9"]
+  }
+]

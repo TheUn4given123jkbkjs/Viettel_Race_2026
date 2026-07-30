@@ -1,0 +1,79 @@
+[
+  {
+    "text": "khát nước liên tục",
+    "position": [471, 489],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu nhiều lần",
+    "position": [667, 681],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụt giảm đột ngột 6 kilogam",
+    "position": [1103, 1130],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ có tiền sử đái tháo đường type 2",
+    "position": [3267, 3305],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "glucose huyết tương",
+    "position": [2005, 2024],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.8 mmol/L",
+    "position": [2055, 2066],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [2075, 2080],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.2%",
+    "position": [2150, 2154],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường type 2",
+    "position": [3562, 3583],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Metformin",
+    "position": [4056, 4065],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Empagliflozin",
+    "position": [4214, 4227],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

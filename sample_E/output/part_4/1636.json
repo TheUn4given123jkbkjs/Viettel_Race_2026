@@ -1,0 +1,65 @@
+[
+  {
+    "text": "SCID (Suy giảm miễn dịch kết hợp nặng)",
+    "position": [414, 452],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Ranitidine",
+    "position": [720, 730],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9143"]
+  },
+  {
+    "text": "Sốt cao liên tục",
+    "position": [282, 298],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [303, 310],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [312, 319],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1643, 1656],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1549, 1567],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu tổng số giảm rõ rệt",
+    "position": [1658, 1686],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh thâm nhiễm phế quản phổi hai bên",
+    "position": [1791, 1832],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

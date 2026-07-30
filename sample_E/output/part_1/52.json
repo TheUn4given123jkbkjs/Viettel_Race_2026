@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Suy tim",
+    "position": [231, 238],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [477, 487],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [906, 926],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù to ở vùng mu bàn chân và mắt cá chân",
+    "position": [1228, 1268],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy tim",
+    "position": [1781, 1788],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "siêu âm tim",
+    "position": [3719, 3730],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tâm đồ",
+    "position": [3775, 3786],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

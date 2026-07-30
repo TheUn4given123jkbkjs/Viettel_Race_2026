@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Ung thư dạ dày",
+    "position": [1190, 1204],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D00"]
+  },
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [481, 500],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "ung thư dạ dày",
+    "position": [656, 670],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["D00"]
+  },
+  {
+    "text": "đau vùng thượng vị",
+    "position": [51, 69],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cisplatin",
+    "position": [1999, 2008],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Fluorouracil",
+    "position": [2077, 2089],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4492"]
+  },
+  {
+    "text": "CEA",
+    "position": [1254, 1257],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "15.2 ng/mL",
+    "position": [1283, 1293],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

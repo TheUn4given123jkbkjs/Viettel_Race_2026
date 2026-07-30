@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Sốt xuất huyết Dengue",
+    "position": [1294, 1315],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A91"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [1560, 1571],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ringer Lactate",
+    "position": [1714, 1728],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35629"]
+  },
+  {
+    "text": "Dextrose 5%",
+    "position": [1889, 1900],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [535, 543],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "viêm dạ dày mạn tính",
+    "position": [430, 450],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tiểu cầu",
+    "position": [1071, 1079],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 G/L",
+    "position": [1108, 1114],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

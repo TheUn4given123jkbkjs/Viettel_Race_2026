@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Khó thở dữ dội",
+    "position": [361, 375],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tím tái đầu chi",
+    "position": [377, 392],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy hô hấp cấp",
+    "position": [2707, 2721],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J96.0"]
+  },
+  {
+    "text": "Khí máu động mạch",
+    "position": [2080, 2097],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "PaO2 52 mmHg",
+    "position": [2121, 2133],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SpO2 tụt sâu còn 82%",
+    "position": [2186, 2206],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang phổi thẳng",
+    "position": [2228, 2246],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [2369, 2380],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

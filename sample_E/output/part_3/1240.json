@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Suy thận mạn",
+    "position": [910, 922],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N18.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [401, 414],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [507, 528],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Creatinine máu",
+    "position": [633, 647],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "450 µmol/L",
+    "position": [664, 674],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ure máu",
+    "position": [683, 690],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18.2 mmol/L",
+    "position": [694, 705],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "eGFR",
+    "position": [733, 737],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18 mL/phút/1.73m2",
+    "position": [747, 764],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù",
+    "position": [264, 267],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

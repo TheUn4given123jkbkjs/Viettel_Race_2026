@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [355, 368],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [224, 231],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [243, 252],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Losartan",
+    "position": [2369, 2377],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [2417, 2427],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Glucose máu",
+    "position": [1664, 1675],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.2 mmol/L",
+    "position": [1680, 1690],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "158/96 mmHg",
+    "position": [1239, 1250],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

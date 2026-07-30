@@ -1,0 +1,62 @@
+[
+  {
+    "text": "đau thắt ngực dữ dội",
+    "position": [188, 208],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vã mồ hôi đầm đìa",
+    "position": [417, 434],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [520, 537],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [539, 548],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [550, 563],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Nhồi máu cơ tim cấp",
+    "position": [1403, 1422],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
+  },
+  {
+    "text": "Troponin T siêu nhạy",
+    "position": [1702, 1722],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.25 ng/mL",
+    "position": [1790, 1800],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

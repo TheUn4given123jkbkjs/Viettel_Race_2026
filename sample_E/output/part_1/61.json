@@ -1,0 +1,72 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [353, 366],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [645, 666],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "đau quặn thận",
+    "position": [1065, 1078],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [1260, 1269],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm ổ bụng",
+    "position": [2960, 2974],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sỏi kích thước khoảng 10mm ở đài bể thận",
+    "position": [3008, 3048],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sỏi thận",
+    "position": [3185, 3193],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N20.0"]
+  },
+  {
+    "text": "Tamsulosin",
+    "position": [3440, 3450],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ketorolac",
+    "position": [3492, 3501],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [3545, 3556],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

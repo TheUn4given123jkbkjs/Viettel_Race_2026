@@ -1,0 +1,58 @@
+[
+  {
+    "text": "đái tháo đường type 2",
+    "position": [288, 309],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [778, 787],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu rắt",
+    "position": [791, 799],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu",
+    "position": [1772, 1780],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "500 leu/uL",
+    "position": [1794, 1804],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm trùng tiết niệu",
+    "position": [2340, 2361],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T83.5"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [2546, 2559],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "Nitrofurantoin",
+    "position": [2722, 2736],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7454"]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "ho đờm xanh",
+    "position": [370, 381],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phế quản cấp",
+    "position": [1805, 1822],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J20.9"]
+  },
+  {
+    "text": "bạch cầu",
+    "position": [1260, 1268],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 G/L",
+    "position": [1284, 1292],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [1422, 1425],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 mg/L",
+    "position": [1450, 1457],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ tiền sử đái tháo đường tuýp 2",
+    "position": [614, 649],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  }
+]

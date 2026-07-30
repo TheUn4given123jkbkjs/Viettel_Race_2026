@@ -1,0 +1,62 @@
+[
+  {
+    "text": "khó thở",
+    "position": [410, 417],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho có đờm",
+    "position": [459, 468],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "COPD",
+    "position": [1816, 1820],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J44.9"]
+  },
+  {
+    "text": "FEV1/FVC",
+    "position": [1263, 1271],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.58",
+    "position": [1276, 1280],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "FEV1",
+    "position": [1263, 1267],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "52%",
+    "position": [1319, 1322],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phế quản mạn tính",
+    "position": [218, 240],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J40",
+      "J41",
+      "J41.0"
+    ]
+  }
+]

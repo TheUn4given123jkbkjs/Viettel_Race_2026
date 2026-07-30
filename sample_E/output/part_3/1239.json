@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Sốt xuất huyết Dengue",
+    "position": [183, 204],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["A91"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [291, 302],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [266, 273],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [812, 819],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chấm xuất huyết",
+    "position": [1099, 1114],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm tiểu cầu",
+    "position": [2702, 2715],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích tế bào máu ngoại vi",
+    "position": [2569, 2603],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

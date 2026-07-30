@@ -1,0 +1,51 @@
+[
+  {
+    "text": "thoái hóa khớp gối",
+    "position": [410, 428],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [499, 510],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau khi đi lại",
+    "position": [146, 160],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [742, 763],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [784, 797],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "thoái hóa khớp gối",
+    "position": [410, 428],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "tiêm hyaluronic acid",
+    "position": [911, 931],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

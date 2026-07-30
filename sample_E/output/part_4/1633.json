@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bệnh Gaucher",
+    "position": [0, 12],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E75.22"]
+  },
+  {
+    "text": "lách to",
+    "position": [536, 543],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [629, 637],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "số lượng tiểu cầu",
+    "position": [984, 1001],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "85 G/L",
+    "position": [1017, 1023],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acid Phosphatase",
+    "position": [1098, 1114],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "18 U/L",
+    "position": [1139, 1145],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [444, 453],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

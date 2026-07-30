@@ -75,6 +75,17 @@ Dưới đây là các file mã nguồn cốt lõi trong thư mục [custom_scri
 
 ---
 
+## 💡 Ý TƯỞNG & ĐỊNH HƯỚNG TỚI (PROPOSED ROADMAP & ARCHITECTURAL IDEAS)
+
+### 📌 Kiến trúc Chia riêng luồng chạy theo Mô hình (Model Isolation Architecture)
+* **Khái niệm:** Tách biệt tuyệt đối dàn Workers chuyên trách theo từng dòng AI Model (`llama-3.3-70b-versatile`, `qwen/qwen3.6-27b`, `llama-3.1-8b-instant`) thay vì bắt 1 Worker đan xen luân phiên tất cả các models.
+* **Lợi ích kỹ thuật cốt lõi:**
+  1. **Triệt tiêu 100% Fallback Delay:** Dàn Worker 8B vọt đi với tốc độ 2.0s/mẫu mà không bao giờ bị nghẽn hay phải chờ 10s dãn cách khi Llama 70B dính 429 TPM.
+  2. **Tối ưu Pacing độc lập:** Ép Pacing 12.0s/req chuẩn cho Llama 70B (an toàn trần 12,000 TPM) và Pacing 2.0s/req cho Llama 8B (khai thác tối đa trần 14,400 RPD).
+  3. **Kiểm soát Tỷ lệ Dữ liệu Vàng (60/40 Split):** Chủ động chia tỷ lệ 60-70% tập train từ 70B/Qwen27B (độ sâu y khoa cao) và 30-40% từ 8B (nhân bản số lượng).
+
+---
+
 ## 📝 NHẬT KÝ CẬP NHẬT HỆ THỐNG (SYSTEM CHANGE LOG)
 
 | Phiên bản | Ngày cập nhật | Thành phần nâng cấp | Nội dung thay đổi chi tiết |

@@ -23,6 +23,7 @@ Tài liệu này đóng vai trò là cơ sở dữ liệu (Database) ghi nhận 
 | **[INC-260730-02](#inc-260730-02)** | 2026-07-30 | **High** | Groq WAF Proxy | ✅ **Resolved** | HTTP 400 (`Failed to generate JSON`) do tham số `response_format json_object` |
 | **[INC-260730-03](#inc-260730-03)** | 2026-07-30 | **Medium** | `groq/compound` | ✅ **Resolved** | HTTP 413 (`Request Entity Too Large`) do model compound vượt payload limit |
 | **[INC-260730-04](#inc-260730-04)** | 2026-07-30 | **High** | `generate_train_data_v3.py` / CMD | ✅ **Resolved** | Qwen `<think>` tag gây `JSONDecodeError` & CMD parenthesized `if` syntax crash |
+| **[INC-260730-05](#inc-260730-05)** | 2026-07-30 | **High** | `generate_train_data_v3.py` / Groq | ✅ **Resolved** | Thiếu `max_tokens: 4096` gây đứt đuôi JSON (1024 token limit) & Pacing 8B (2.0s) tràn 6K TPM |
 
 ---
 
@@ -264,5 +265,26 @@ Thay thế `groq/compound` bằng **`llama-3.1-8b-instant`** trong danh mục To
 2. **Lỗi CMD Launcher:** Cú pháp khối ngoặc lồng nhau `if (...) else if (...)` trong Windows CMD bị sập trình biên dịch khi dính delayed expansion `!WORKERS_8B!` và ngoặc kép.
 
 #### 🛠️ Giải pháp Khắc phục & Phòng ngừa (Resolution & Prevention)
-1. **Làm sạch thẻ `<think>`:** Thêm `content_text = re.sub(r'<think>.*?</think>', '', content_text, flags=re.DOTALL)` trước khi regex match JSON trong [generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py#L588).
+1. **Làm sạch thẻ `<think>`:** Thêm `content_text = re.sub(r'<think>.*.*?/think>', '', content_text, flags=re.DOTALL)` trước khi regex match JSON trong [generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py#L588).
 2. **Tái cấu trúc file .bat bằng `goto`:** Tái cấu trúc [run_v3_groq_isolated.bat](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/run_v3_groq_isolated.bat#L40-L90) dùng nhãn `:PROMPT_...` và `:RUN_...` thuần túy với `goto`, loại bỏ 100% nguy cơ sập cửa sổ CMD.
+
+---
+
+### 🔴 INC-260730-05
+* **ID Sự cố:** `INC-260730-05`
+* **Ngày phát hiện:** 2026-07-30 09:22 UTC+7
+* **Mức độ nghiêm trọng:** **High** (Dàn Worker 8B liên tục báo lỗi JSON rỗng và dính 429 TPM hàng loạt)
+* **Thành phần ảnh hưởng:** [custom_scripts/generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py) / [custom_scripts/models_registry.json](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/models_registry.json)
+* **Mẫu thông báo lỗi:**
+  ```text
+  ⚠️ [THỬ LẠI] Server trả về nội dung rỗng/lỗi JSON với TK ... (lần 1) -> Đang tự động đổi sang Key/Model khác...
+  Rate limit reached for model `llama-3.1-8b-instant` on tokens per minute (TPM): Limit 6000, Used 5628, Requested 2500.
+  ```
+
+#### 🔍 Phân tích Nguyên nhân Gốc rễ (Root Cause Analysis - RCA)
+1. **Thiếu `max_tokens: 4096` gây đứt đuôi JSON:** Do không khai báo `max_tokens` trong payload gọi Groq Cloud, máy chủ Groq mặc định ngắt đầu ra ở token **1,024** (`finish_reason: length`). Prompt sinh hồ sơ y khoa dài ~600 từ + 20 thực thể y khoa đòi hỏi ~1,500 tokens. Khi bị cắt ở token 1,024, chuỗi JSON bị đứt đuôi (chưa có ngoặc đóng `}`), dẫn tới Python tung ngoại lệ `json.JSONDecodeError` liên tục.
+2. **Pacing Delay 8B quá ngắn (2.0s) làm dồn TPM:** Model `llama-3.1-8b-instant` chỉ có trần **6,000 TPM** trên Groq Free Tier. Một mẫu sinh ra chiếm ~2,500 tokens. Đặt pacing delay `2.0s` làm các luồng bắn dồn 2-3 requests trong 60 giây, chạm trần 6,000 TPM của 12 tài khoản chỉ sau 20 giây.
+
+#### 🛠️ Giải pháp Khắc phục & Phòng ngừa (Resolution & Prevention)
+1. **Khai báo `max_tokens: 4096`:** Bổ sung `"max_tokens": 4096` vào payload gọi Groq Cloud trong [generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py#L427). Đã kiểm chứng thực tế: Groq trả về đủ **5,160 ký tự (20 entities)** với `finish_reason: stop`, parse JSON thành công 100%.
+2. **Tăng Pacing Delay 8B lên 8.0s:** Cập nhật `rpm_delay_seconds` của `llama-3.1-8b-instant` từ `2.0s` lên **`8.0s`** trong [models_registry.json](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/models_registry.json#L75) để đảm bảo lưu lượng luôn an toàn dưới 6,000 TPM.

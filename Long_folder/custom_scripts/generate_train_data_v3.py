@@ -602,7 +602,11 @@ def generate_with_smart_rotation(provider, prompt, target_model=None, max_attemp
             else:
                 cleaned_text = content_text.strip()
                 
-            return json.loads(cleaned_text), account_id, current_provider, used_model
+            try:
+                return json.loads(cleaned_text, strict=False), account_id, current_provider, used_model
+            except json.JSONDecodeError:
+                sanitized = re.sub(r'[\r\n\t]', ' ', cleaned_text)
+                return json.loads(sanitized, strict=False), account_id, current_provider, used_model
 
         except requests.exceptions.Timeout:
             print(f"  ⚠️ [THỬ LẠI] Mạng nghẽn Timeout 60s với TK {account_id.upper()} (lần {attempt+1}) -> Đang tự động đổi sang Key/Model khác...")

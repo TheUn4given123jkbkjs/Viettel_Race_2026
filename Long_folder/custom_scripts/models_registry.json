@@ -31,10 +31,10 @@
       "displayName": "Gemma 4 31B IT",
       "category": "text-gen",
       "rpm": 30,
-      "rpm_delay_seconds": 1.5,
+      "rpm_delay_seconds": 12.0,
       "tpm": 16000,
       "rpd": 14400,
-      "priority": 1,
+      "priority": 2,
       "isUsed": false,
       "is_active": true,
       "out_of_quota": false

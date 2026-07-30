@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [956, 969],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [1007, 1017],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Hydrochlorothiazide",
+    "position": [1096, 1115],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5487"]
+  },
+  {
+    "text": "không sốt",
+    "position": [538, 547],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [308, 338],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm chức năng thận",
+    "position": [670, 695],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [86, 99],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1014, 1022],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1053, 1060],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [613, 626],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [1380, 1401],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.8 mmol/L",
+    "position": [1405, 1415],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T siêu nhạy",
+    "position": [1486, 1506],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [2020, 2054],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I25.9"]
+  }
+]

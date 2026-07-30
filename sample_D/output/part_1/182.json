@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Đái tháo đường type 2",
+    "position": [192, 213],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "khát nước",
+    "position": [254, 263],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu nhiều",
+    "position": [278, 288],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [793, 798],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.9%",
+    "position": [819, 823],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose huyết tương lúc đói",
+    "position": [742, 769],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.8 mmol/L",
+    "position": [773, 784],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Metformin",
+    "position": [1290, 1299],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  }
+]

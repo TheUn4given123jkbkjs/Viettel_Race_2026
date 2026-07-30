@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Hen phế quản",
+    "position": [0, 12],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "Khò khè",
+    "position": [421, 428],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở về đêm",
+    "position": [431, 445],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm phế quản",
+    "position": [602, 621],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm khí động mạch",
+    "position": [624, 648],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm sinh hoạt hô hấp",
+    "position": [651, 678],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử gia đình hen phế quản",
+    "position": [483, 512],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

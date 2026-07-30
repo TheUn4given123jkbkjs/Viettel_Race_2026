@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm gan C mạn",
+    "position": [0, 14],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B18.2"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [227, 234],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HCV RNA",
+    "position": [1156, 1163],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.000.000 IU/mL",
+    "position": [1855, 1870],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [1913, 1916],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "50 IU/L",
+    "position": [1927, 1934],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

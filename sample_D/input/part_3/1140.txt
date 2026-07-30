@@ -1,0 +1,137 @@
+Bệnh án lâm sàng số 001
+
+**Bệnh nhân:**
+- Giới tính: nam
+- Tuổi: 35
+- Nghề nghiệp: nhân viên văn phòng
+- Địa chỉ: Hà Nội
+
+**Tiền sử bệnh:**
+- Tiền sử tăng huyết áp 5 năm
+- Tiền sử bệnh tim 2 năm
+- Tiền sử tiểu đường 1 năm
+
+**Bệnh sử:**
+- Ngày 10/02/2022, bệnh nhân đến bệnh viện vì tình trạng khó thở, ho khan
+- Bệnh nhân có tiền sử bệnh lao phổi từ năm 2018, được điều trị thành công
+- Hiện tại, bệnh nhân không có triệu chứng đặc biệt nào khác
+
+**Đánh giá tại bệnh viện:**
+- Bệnh nhân được khám tổng quát, không có bất thường nào
+- Kết quả xét nghiệm: BK đờm dương tính
+- Kết quả xét nghiệm: HRZe: 0,5
+
+Chẩn đoán: Lao phổi (ICD-10: A15.0)
+
+**Kết luận:**
+- Bệnh nhân được chẩn đoán là lao phổi, cần được điều trị nội khoa
+
+**Đơn thuốc:**
+- Isoniazid 300mg/kg/ngày
+- Rifampicin 600mg/kg/ngày
+- Pyrazinamide 1500mg/kg/ngày
+
+**Ghi chú:**
+- Bệnh nhân được yêu cầu phải tuân thủ chế độ ăn uống tốt, tránh rượu bia
+- Bệnh nhân sẽ được theo dõi chặt chẽ sau 2 tuần
+
+**Tiêu đề:** Truyền đơn thuốc cho bệnh nhân lao phổi
+
+**Ký hiệu:**
+
+Lao phổi là tình trạng nhiễm trùng do vi khuẩn gây ra, thường là Mycobacterium tuberculosis. Bệnh thường ảnh hưởng đến phổi, nhưng cũng có thể xảy ra ở các cơ quan khác như thận, ruột, tuyến giáp, xương  và tủy sống. 
+
+Bệnh nhân lao phổi thường có triệu chứng như ho khan, khó thở, sốt, đau đầu, buồn nôn, tiêu chảy, và mất cân bằng.
+
+Để chẩn đoán lao phổi, bệnh viện sẽ dùng các phương pháp như xét nghiệm máu, xét nghiệm đờm, chụp X-quang, và nội soi phổi.
+
+Lao phổi được chia thành 4 giai đoạn, bao gồm:
+- Giai đoạn 1: Bệnh nhân có triệu chứng như ho khan, khó thở, sốt.
+- Giai đoạn 2: Bệnh nhân có triệu chứng như ho khan, khó thở, sốt, đau đầu, buồn nôn.
+- Giai đoạn 3: Bệnh nhân có triệu chứng như ho khan, khó thở, sốt, đau đầu, buồn nôn, tiêu chảy.
+- Giai đoạn 4: Bệnh nhân có triệu chứng như ho khan, khó thở, sốt, đau đầu, buồn nôn, tiêu chảy, mất cân bằng.
+
+Điều trị lao phổi bao gồm các loại thuốc như Isoniazid, Rifampicin, Pyrazinamide, và Ethambutol.
+
+Bệnh nhân lao phổi cần được theo dõi chặt chẽ và tuân thủ chế độ ăn uống tốt để tránh tái phát.
+
+**Entities:**
+{
+  "text": "Lao phổi",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": [
+    "isHistorical"
+  ]
+}, {
+  "text": "Isoniazid",
+  "type": "THUỐC",
+  "assertions": [
+    ""
+  ]
+}, {
+  "text": "Rifampicin",
+  "type": "THUỐC",
+  "assertions": [
+    ""
+  ]
+}, {
+  "text": "Pyrazinamide",
+  "type": "THUỐC",
+  "assertions": [
+    ""
+  ]
+}, {
+  "text": "Ethambutol",
+  "type": "THUỐC",
+  "assertions": [
+    ""
+  ]
+}, {
+  "text": "BK đờm dương tính",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [
+    ""
+  ]
+}, {
+  "text": "HRZe 0,5",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": [
+    ""
+  ]
+}, {
+  "text": "phỏng đoán",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+    "isNegated"
+  ]
+}, {
+  "text": "tăng huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+    "isFamily"
+  ]
+}, {
+  "text": "bệnh tim",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+    "isHistorical"
+  ]
+}, {
+  "text": "tiểu đường",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+    "isFamily"
+  ]
+}, {
+  "text": "khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+    ""
+  ]
+}, {
+  "text": "ho khan",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [
+    ""
+  ]
+}

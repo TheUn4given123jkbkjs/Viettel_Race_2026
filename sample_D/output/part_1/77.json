@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Alzheimer",
+    "position": [5, 14],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G30.9"]
+  },
+  {
+    "text": "mẹ đẻ có tiền sử Alzheimer",
+    "position": [930, 956],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["G30.9"]
+  },
+  {
+    "text": "quên gần",
+    "position": [1245, 1253],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất định hướng",
+    "position": [1444, 1458],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI",
+    "position": [2014, 2017],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "teo vùng hải mã",
+    "position": [2071, 2086],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Donepezil",
+    "position": [2668, 2677],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["135447"]
+  },
+  {
+    "text": "Memantine",
+    "position": [2775, 2784],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6719"]
+  },
+  {
+    "text": "Rivastigmine",
+    "position": [3038, 3050],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["183379"]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "sốt cao, ho có đờm, khó thở và mệt mỏi",
+    "position": [68, 106],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [512, 521],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J18.9"]
+  },
+  {
+    "text": "Cefuroxim",
+    "position": [569, 578],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2194"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [582, 593],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "X-quang phổi",
+    "position": [434, 446],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mờ đục ở cả hai phổi",
+    "position": [460, 480],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

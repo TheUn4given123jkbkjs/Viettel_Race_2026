@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Viêm phế quản cấp",
+    "position": [355, 372],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J20.9"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [429, 440],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [591, 605],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "Kết quả xét nghiệm cận lâm sàng",
+    "position": [204, 235],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0,5% các loại vi khuẩn",
+    "position": [306, 328],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

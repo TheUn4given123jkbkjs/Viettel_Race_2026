@@ -1,0 +1,48 @@
+[
+  {
+    "text": "loét dạ dày",
+    "position": [236, 247],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [564, 576],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [581, 592],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "đau thượng vị",
+    "position": [135, 148],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xuất huyết tiêu hóa",
+    "position": [176, 195],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [33, 60],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

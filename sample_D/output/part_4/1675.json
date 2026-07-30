@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đột quỵ não",
+    "position": [115, 126],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I64"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [632, 639],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "liệt nửa người",
+    "position": [407, 421],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan",
+    "position": [739, 746],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1546, 1563],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1567, 1576],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

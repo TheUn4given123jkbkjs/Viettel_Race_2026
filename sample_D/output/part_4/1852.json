@@ -1,0 +1,72 @@
+[
+  {
+    "text": "tiểu đường type 2",
+    "position": [643, 660],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Metformin",
+    "position": [287, 296],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Gliclazide",
+    "position": [916, 926],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4816"]
+  },
+  {
+    "text": "Insulin Glargine",
+    "position": [956, 972],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["274783"]
+  },
+  {
+    "text": "Hemoglobin A1c",
+    "position": [724, 738],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7,8%",
+    "position": [748, 752],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [333, 340],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thèm ăn",
+    "position": [342, 349],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng cân",
+    "position": [351, 359],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [47, 57],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,43 @@
+Bệnh nhân nữ, 45 tuổi, đến viện với biểu hiện đau thắt ngực không ổn định, kéo dài 2 ngày. Bệnh nhân có tiền sử bệnh mạch vành và đã được điều trị stent nhưng vẫn tiếp tục có các cơn đau.
+
+Tiền sử bệnh nhân có tiền sử gia đình có người thân bị bệnh tim. Bệnh nhân không có tiền sử sử dụng thuốc hoặc dị ứng.
+
+Bệnh nhân được khám lâm sàng bao gồm:
+
+- Thân nhiệt: 36,5 độ C
+- Mạch: 80 bpm
+- Huyết áp: 120/80 mmHg
+- Khám tim: tim có tiếng lục cục, có dấu hiệu của xơ vữa động mạch
+- Khám phổi: không có dấu hiệu bất thường
+- Khám gan: không có dấu hiệu bất thường
+- Khám tiêu hóa: không có dấu hiệu bất thường
+
+Kết quả xét nghiệm cận lâm sàng bao gồm:
+
+- Điện tâm đồ (ECG): có dấu hiệu của thiếu máu cục bộ mạn tính
+- Ultra âm tim: có dấu hiệu của vữa động mạch
+- Xét nghiệm máu: có dấu hiệu của tăng cholesterol
+
+Bác sĩ đã đánh giá và chẩn đoán bệnh bệnh tim thiếu máu cục bộ mạn tính (ICD-10: I25.9). Bác sĩ cũng cho biết bệnh nhân cần được phẫu thuật để loại bỏ các động mạch bị vữa và cải thiện lưu lượng máu.
+
+Bệnh nhân sẽ được chỉ định phẫu thuật để loại bỏ các động mạch bị vữa và cải thiện lưu lượng máu. Bệnh nhân sẽ được theo dõi và chăm sóc tại bệnh viện sau phẫu thuật.
+
+Bác sĩ đã phủ định các triệu chứng như buồn nôn, không sốt, không đau đầu.
+
+Trích xuất các thực thể sau:
+
+- Bệnh tim thiếu máu cục bộ mạn tính (CHẨN_ĐOÁN)
+- Thiếu máu cục bộ mạn tính (TRIỆU_CHỨNG)
+- Điện tâm đồ (TÊN_XÉT_NGHIỆM)
+- Ultra âm tim (TÊN_XÉT_NGHIỆM)
+- Xét nghiệm máu (TÊN_XÉT_NGHIỆM)
+- Bệnh mạch vành (TRIỆU_CHỨNG)
+
+Assert của các thực thể:
+
+- Bệnh tim thiếu máu cục bộ mạn tính (CHẨN_ĐOÁN): {"isNegated": false}
+- Thiếu máu cục bộ mạn tính (TRIỆU_CHỨNG): {"isNegated": false}
+- Điện tâm đồ (TÊN_XÉT_NGHIỆM): {"isNegated": false}
+- Ultra âm tim (TÊN_XÉT_NGHIỆM): {"isNegated": false}
+- Xét nghiệm máu (TÊN_XÉT_NGHIỆM): {"isNegated": false}
+- Bệnh mạch vành (TRIỆU_CHỨNG): {"isNegated": false}

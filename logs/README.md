@@ -2,6 +2,18 @@
 
 ---
 
+### 📌 LOG-20260730-V6.1: Làm giàu CSDL, Sửa lỗi thiếu Candidates & Đồng bộ Sample D v6.1
+
+* **Ngày thực hiện:** `2026-07-30 14:55:00 (UTC+7)`
+* **Lý do:** Phát hiện 1,214 lỗi thiếu mã RxNorm và 218 lỗi thiếu mã ICD-10 trong tập dữ liệu `sample_D` mới sinh do lỗi đè đĩa CSDL (PRIMARY KEY Overwrite) và thiếu hoạt chất mới của V4.
+* **Cách khắc phục:** 
+  * Nâng cấp Schema CSDL cục bộ (Unique Index thay cho Primary Key) và bổ sung 100+ hoạt chất mới.
+  * Tối ưu [icd10_mapper.py](file:///d:/record_by_me/Viettel_race/scratch/icd10_mapper.py) để xử lý chẩn đoán ghép, bóc tách liều dùng thuốc và tiền xử lý dấu ngoặc đơn Down/Hurler/PKU.
+  * Sửa lỗi triệt để trên 1,980 file JSON của `sample_D` qua [fix_dataset_candidates.py](file:///d:/record_by_me/Viettel_race/scratch/fix_dataset_candidates.py) và đồng bộ [diagnose_comparison.ipynb](file:///d:/record_by_me/Viettel_race/diagnose_comparison.ipynb).
+* **Chi tiết Log:** [LOG-20260730-V6.1-ENRICHED-DATABASE-AND-SAMPLE-D-AUDIT.md](file:///d:/record_by_me/Viettel_race/logs/LOG-20260730-V6.1-ENRICHED-DATABASE-AND-SAMPLE-D-AUDIT.md)
+
+---
+
 ### 📌 LOG-20260729-V6.0: Khắc phục lỗi FTS, Smart Mapper & Cân bằng phân bổ V6.0
 
 * **Ngày thực hiện:** `2026-07-29 23:15:00 (UTC+7)`

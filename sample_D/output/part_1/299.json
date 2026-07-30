@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Dexamethasone",
+    "position": [191, 204],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [262, 283],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [304, 317],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "SpO2",
+    "position": [73, 77],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang phổi",
+    "position": [397, 409],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

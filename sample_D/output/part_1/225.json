@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Bệnh Parkinson",
+    "position": [256, 270],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["G20"]
+  },
+  {
+    "text": "Levodopa/Carbidopa",
+    "position": [486, 504],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["103990", "35206"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [640, 653],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [657, 678],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tai biến mạch máu não",
+    "position": [697, 718],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I64"]
+  },
+  {
+    "text": "run tay chân",
+    "position": [151, 163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chậm vận động",
+    "position": [167, 180],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng trương lực cơ",
+    "position": [1965, 1983],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Levodopa/Carbidopa",
+    "position": [486, 504],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["103990", "35206"]
+  }
+]

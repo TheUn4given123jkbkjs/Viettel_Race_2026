@@ -1,0 +1,51 @@
+[
+  {
+    "text": "bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [970, 1004],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I25.9"]
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [65, 78],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [124, 137],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [543, 560],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "điện tâm đồ (ECG)",
+    "position": [636, 653],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm tim",
+    "position": [655, 666],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ cholesterol LDL cao",
+    "position": [836, 863],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "đái tháo đường type 2",
+    "position": [276, 297],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "bố đẻ tôi cũng bị đái tháo đường type 2",
+    "position": [258, 297],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c tăng cao",
+    "position": [478, 492],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "metformin",
+    "position": [601, 610],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "gliclazide",
+    "position": [787, 797],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4816"]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tiền sử tăng huyết áp",
+    "position": [103, 124],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [225, 238],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [453, 460],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tâm đồ",
+    "position": [1107, 1118],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin I",
+    "position": [1234, 1244],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.01 ng/mL",
+    "position": [1259, 1269],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [1678, 1712],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I25.9"]
+  },
+  {
+    "text": "hẹp nhánh liên thất trước LAD 80%",
+    "position": [1556, 1589],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

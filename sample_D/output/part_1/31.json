@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Bệnh Parkinson",
+    "position": [2434, 2448],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G20"]
+  },
+  {
+    "text": "cứng đờ cơ tay",
+    "position": [763, 777],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vận động chậm chạp",
+    "position": [910, 928],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Levodopa/Carbidopa",
+    "position": [2530, 2548],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["103990", "35206"]
+  },
+  {
+    "text": "Pramipexole",
+    "position": [2638, 2649],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["746741"]
+  },
+  {
+    "text": "không đau đầu",
+    "position": [1105, 1118],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "MRI sọ não",
+    "position": [2180, 2190],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "DATScan",
+    "position": [2305, 2312],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Giảm hấp thu dopamine tại thể vân hai bên",
+    "position": [2314, 2355],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

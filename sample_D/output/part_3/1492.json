@@ -1,0 +1,86 @@
+[
+  {
+    "text": "Hen phế quản",
+    "position": [2989, 3001],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [260, 270],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Budesonide",
+    "position": [1054, 1064],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Montelukast",
+    "position": [1133, 1144],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["88249"]
+  },
+  {
+    "text": "Ipratropium",
+    "position": [272, 283],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7213"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [287, 299],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Khò khè",
+    "position": [3125, 3132],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở về đêm",
+    "position": [3149, 3163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phế quản",
+    "position": [3180, 3193],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chức năng phế quản",
+    "position": [3213, 3231],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm viêm phế quản",
+    "position": [2268, 2292],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm chức năng phế quản",
+    "position": [2318, 2347],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

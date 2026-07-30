@@ -1,0 +1,44 @@
+[
+  {
+    "text": "mệt mỏi, chán ăn, vàng da và cổ trướng",
+    "position": [63, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xơ gan",
+    "position": [635, 641],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K74.6"]
+  },
+  {
+    "text": "Xét nghiệm chức năng gan",
+    "position": [337, 361],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT 120 U/L, AST 150 U/L, Bilirubin 2,5 mg/dL",
+    "position": [363, 408],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 12 g/dL, Bạch cầu 8.000 tế bào/mm3",
+    "position": [434, 479],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ure 30 mg/dL, Creatinine 1,2 mg/dL",
+    "position": [500, 534],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

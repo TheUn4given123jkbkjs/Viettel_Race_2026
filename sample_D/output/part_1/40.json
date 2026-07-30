@@ -1,0 +1,58 @@
+[
+  {
+    "text": "ung thư dạ dày",
+    "position": [555, 569],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D00"]
+  },
+  {
+    "text": "Cisplatin",
+    "position": [683, 692],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Fluorouracil",
+    "position": [696, 708],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4492"]
+  },
+  {
+    "text": "nôn mửa",
+    "position": [1536, 1543],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [1545, 1554],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [168, 175],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [919, 949],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [847, 861],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

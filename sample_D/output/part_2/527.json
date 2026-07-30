@@ -1,0 +1,72 @@
+[
+  {
+    "text": "đau thắt ngực trái",
+    "position": [340, 358],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [432, 439],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [659, 672],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "rối loạn lipid máu",
+    "position": [701, 719],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E78.5"]
+  },
+  {
+    "text": "Điện tâm đồ 12 chuyển đạo",
+    "position": [1949, 1974],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm tim qua thành ngực",
+    "position": [2146, 2172],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol tổng phần",
+    "position": [2410, 2431],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.2 mmol/L",
+    "position": [2433, 2443],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cắt lớp vi tính mạch vành",
+    "position": [2622, 2652],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [2968, 3002],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I25.9"]
+  }
+]

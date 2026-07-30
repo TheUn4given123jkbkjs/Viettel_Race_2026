@@ -1,0 +1,58 @@
+[
+  {
+    "text": "COPD",
+    "position": [1299, 1303],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J44.9"]
+  },
+  {
+    "text": "ho dai dẳng",
+    "position": [119, 130],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [235, 242],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "FEV1 giảm",
+    "position": [649, 658],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiotropium",
+    "position": [1702, 1712],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["69120"]
+  },
+  {
+    "text": "Budesonide",
+    "position": [1799, 1809],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [1878, 1888],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "đo chức năng hô hấp",
+    "position": [604, 623],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

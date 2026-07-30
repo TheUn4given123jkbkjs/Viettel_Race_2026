@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Đột quỵ não",
+    "position": [554, 565],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I64"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [910, 917],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [921, 932],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "CT scan não",
+    "position": [763, 774],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

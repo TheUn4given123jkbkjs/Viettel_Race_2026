@@ -1,0 +1,51 @@
+[
+  {
+    "text": "rối loạn lipid máu",
+    "position": [898, 916],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E78.5"]
+  },
+  {
+    "text": "tăng cholesterol",
+    "position": [89, 105],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng triglyceride",
+    "position": [1501, 1518],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm lipid máu",
+    "position": [480, 500],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "180 mg/dL",
+    "position": [646, 655],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1219, 1236],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [1288, 1315],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

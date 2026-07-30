@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [0, 34],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["I25.9"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [860, 867],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Nitroglycerin",
+    "position": [905, 918],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4917"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1005, 1017],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Đau thắt ngực",
+    "position": [1252, 1265],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sốt",
+    "position": [1319, 1322],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

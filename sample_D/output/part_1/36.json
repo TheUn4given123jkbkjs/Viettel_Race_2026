@@ -1,0 +1,65 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [102, 115],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đau đầu âm ỉ vùng chẩm",
+    "position": [632, 654],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt khi thay đổi tư thế",
+    "position": [656, 685],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ù tai hai bên",
+    "position": [687, 700],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Perindopril",
+    "position": [2467, 2478],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["54552"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [2512, 2522],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Hydrochlorothiazide",
+    "position": [2557, 2576],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5487"]
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1654, 1667],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần 5.8 mmol/L",
+    "position": [1920, 1952],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Đau thắt lưng",
+    "position": [1365, 1378],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M54.5"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [1454, 1465],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Diclofenac",
+    "position": [1495, 1505],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Đau lưng dưới",
+    "position": [173, 186],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [1210, 1224],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [1240, 1260],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm xương",
+    "position": [1276, 1292],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

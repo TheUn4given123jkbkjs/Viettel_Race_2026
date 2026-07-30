@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Aspirin",
+    "position": [567, 574],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [602, 613],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "Nitroglycerin",
+    "position": [653, 666],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4917"]
+  },
+  {
+    "text": "Morphine",
+    "position": [707, 715],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7052"]
+  },
+  {
+    "text": "Heparin",
+    "position": [741, 748],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["235473"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [777, 789],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Troponin",
+    "position": [228, 236],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5000 IU/L",
+    "position": [268, 277],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [119, 140],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [144, 157],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

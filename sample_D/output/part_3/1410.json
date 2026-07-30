@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Đái tháo đường type 2",
+    "position": [96, 117],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Metformin",
+    "position": [156, 165],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "HbA1c tăng",
+    "position": [1109, 1119],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Gluco",
+    "position": [738, 743],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [764, 785],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triglyceride",
+    "position": [805, 817],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

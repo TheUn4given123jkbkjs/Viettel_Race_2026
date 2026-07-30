@@ -1,0 +1,58 @@
+[
+  {
+    "text": "khó thở nhẹ khi gắng sức",
+    "position": [176, 200],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "béo phì",
+    "position": [495, 502],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E66.9"]
+  },
+  {
+    "text": "BMI",
+    "position": [1247, 1250],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "33.6 kg/m2",
+    "position": [1253, 1263],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [1532, 1553],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.2 mmol/L",
+    "position": [1555, 1565],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Orlistat",
+    "position": [2222, 2230],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["37925"]
+  },
+  {
+    "text": "Metformin",
+    "position": [2373, 2382],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  }
+]

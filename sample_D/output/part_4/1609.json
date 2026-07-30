@@ -1,0 +1,72 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [280, 299],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [423, 444],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [280, 293],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [1732, 1741],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J18.9"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [2005, 2016],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Levofloxacin",
+    "position": [2056, 2068],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["82122"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2111, 2122],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [1293, 1307],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14.5 x 10^9/L",
+    "position": [1309, 1322],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho có đờm",
+    "position": [571, 580],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

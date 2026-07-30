@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Viêm dạ dày",
+    "position": [998, 1009],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [481, 491],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Kết quả xét nghiệm máu",
+    "position": [822, 844],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

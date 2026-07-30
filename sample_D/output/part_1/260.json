@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Đau thắt lưng",
+    "position": [1013, 1026],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M54.5"]
+  },
+  {
+    "text": "đau lưng dưới",
+    "position": [513, 526],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co cứng cơ cạnh sống",
+    "position": [694, 714],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [593, 602],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [818, 825],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thoái hóa đốt sống lưng",
+    "position": [851, 874],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "ợ nóng",
+    "position": [69, 75],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trào ngược dạ dày thực quản",
+    "position": [154, 181],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K21.9"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1146, 1156],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Domperidone",
+    "position": [1188, 1199],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3626"]
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [665, 679],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [620, 634],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

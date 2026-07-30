@@ -1,0 +1,100 @@
+[
+  {
+    "text": "Đau thắt ngực",
+    "position": [638, 651],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1045, 1058],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa",
+    "position": [1109, 1117],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [1186, 1193],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm",
+    "position": [1241, 1248],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [1307, 1310],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [2131, 2138],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [2141, 2152],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [2155, 2163],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "Beta blocker",
+    "position": [2166, 2178],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Calcium channel blocker",
+    "position": [2181, 2204],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Mạch vành",
+    "position": [2980, 2989],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Stent",
+    "position": [3008, 3013],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [0, 34],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

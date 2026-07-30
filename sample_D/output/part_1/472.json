@@ -1,0 +1,37 @@
+[
+  {
+    "text": "ung thư phổi",
+    "position": [176, 188],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["C34.9"]
+  },
+  {
+    "text": "Cisplatin",
+    "position": [248, 257],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "ho ra máu",
+    "position": [433, 442],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT ngực",
+    "position": [580, 587],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hóa trị",
+    "position": [225, 232],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

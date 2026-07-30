@@ -1,0 +1,51 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [83, 91],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [183, 191],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "loạn nhịp hoàn toàn",
+    "position": [315, 334],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [810, 831],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [867, 880],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "I48",
+    "position": [138, 141],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "420 ms",
+    "position": [963, 969],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Clopidogrel",
+    "position": [781, 792],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [462, 469],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Bisoprolol",
+    "position": [834, 844],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19484"]
+  },
+  {
+    "text": "ECG",
+    "position": [685, 688],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinin máu",
+    "position": [603, 616],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

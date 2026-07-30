@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Suy thận mạn",
+    "position": [102, 114],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N18.9"]
+  },
+  {
+    "text": "tiền sử tăng huyết áp 10 năm nay",
+    "position": [1210, 1242],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [991, 998],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu máu",
+    "position": [1012, 1021],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù nhẹ ở mặt và hai chân",
+    "position": [1023, 1048],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1064, 1072],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinine",
+    "position": [1430, 1440],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng cao",
+    "position": [1468, 1476],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Erythropoietin",
+    "position": [2149, 2163],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["105694"]
+  },
+  {
+    "text": "Calcium Carbonate",
+    "position": [2321, 2338],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1897"]
+  },
+  {
+    "text": "Calcitriol",
+    "position": [2531, 2541],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1894"]
+  }
+]

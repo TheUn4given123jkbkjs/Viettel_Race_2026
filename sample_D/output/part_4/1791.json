@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Giảm gammaglobulin di truyền (Bruton)",
+    "position": [1021, 1058],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D80.0"]
+  },
+  {
+    "text": "sốt kéo dài 3 tháng",
+    "position": [45, 64],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm kháng thể",
+    "position": [828, 848],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kết quả xét nghiệm kháng thể",
+    "position": [1755, 1783],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ: Tiền sử tăng huyết áp 5 năm",
+    "position": [452, 486],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Mẹ đẻ: Tiền sử tăng huyết áp 2 năm",
+    "position": [490, 524],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

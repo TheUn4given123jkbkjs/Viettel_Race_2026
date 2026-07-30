@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Furosemide",
+    "position": [341, 351],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Spironolactone",
+    "position": [390, 404],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [81, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [103, 115],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [119, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Enalapril",
+    "position": [495, 504],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3827"]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [544, 554],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["20352"]
+  },
+  {
+    "text": "điện tâm đồ (ECG)",
+    "position": [1072, 1089],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

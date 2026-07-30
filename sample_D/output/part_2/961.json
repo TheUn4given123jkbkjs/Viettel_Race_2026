@@ -1,0 +1,79 @@
+[
+  {
+    "text": "suy tim",
+    "position": [34, 41],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [727, 737],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Spironolactone",
+    "position": [747, 761],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "Enalapril",
+    "position": [770, 779],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3827"]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [788, 798],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["20352"]
+  },
+  {
+    "text": "Digoxin",
+    "position": [807, 814],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  },
+  {
+    "text": "Sacubitril/Valsartan",
+    "position": [826, 846],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1656328"]
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [130, 150],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [55, 67],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy tim mạn tính",
+    "position": [34, 50],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [301, 313],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

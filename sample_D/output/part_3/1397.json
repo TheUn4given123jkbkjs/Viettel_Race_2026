@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Amlodipine",
+    "position": [1126, 1136],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Losartan",
+    "position": [1159, 1167],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["52175"]
+  },
+  {
+    "text": "Perindopril",
+    "position": [1191, 1202],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["54552"]
+  },
+  {
+    "text": "Điện tâm đồ (ECG)",
+    "position": [875, 892],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [912, 926],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [954, 974],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [836, 854],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

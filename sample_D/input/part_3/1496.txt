@@ -1,0 +1,65 @@
+Bệnh Parkinson (ICD-10: G20) là một bệnh lý tiến triển mãn tính, ảnh hưởng đến hệ thần kinh trung ương. Bệnh Parkinson thường bắt đầu ở tuổi trung niên và tuổi già, nhưng có thể xuất hiện ở bất kỳ độ tuổi nào. Các triệu chứng của bệnh Parkinson bao gồm run khi nghỉ, cứng cơ, chậm vận động, và rối loạn vận động khác.
+
+Đời sống của bệnh nhân bị ảnh hưởng mạnh mẽ, gây khó khăn trong việc thực hiện các hoạt động hàng ngày. Bệnh nhân có thể gặp khó khăn trong việc đi lại, ăn uống và thậm chí là vệ sinh cá nhân. Những thay đổi này có thể ảnh hưởng đến tâm lý và tinh thần của bệnh nhân, gây ra lo lắng, trầm cảm và tuyệt vọng.
+
+Tiền sử bệnh nhân có tiền sử điều trị bệnh Parkinson và đã được sử dụng thuốc Levodopa/Carbidopa trong thời gian dài. Thuốc này được sử dụng để điều trị triệu chứng của bệnh Parkinson, đặc biệt là cứng cơ và run khi nghỉ.
+
+Kết quả xét nghiệm cận lâm sàng của bệnh nhân bao gồm:
+
+- Xét nghiệm máu: bình thường
+- Xét nghiệm nước tiểu: bình thường
+- Xét nghiệm điện não đồ (EEG): bình thường
+- Xét nghiệm chức năng thận: bình thường
+
+Bên cạnh đó, bệnh nhân cũng có tiền sử gia đình với bệnh Parkinson. Các thành viên trong gia đình của bệnh nhân cũng có nguy cơ bị bệnh Parkinson cao hơn so với người bình thường.
+
+Tư vấn y khoa chuyên sâu:
+
+- Bệnh Parkinson là một bệnh lý tiến triển mãn tính, ảnh hưởng đến hệ thần kinh trung ương.
+- Thuốc Levodopa/Carbidopa được sử dụng để điều trị triệu chứng của bệnh Parkinson.
+- Bệnh nhân cần được theo dõi và điều trị tại cơ sở y tế chuyên khoa.
+- Gia đình của bệnh nhân cần được giáo dục và hỗ trợ để hiểu và chăm sóc bệnh nhân tốt hơn.
+
+Dưới đây là các thực thể trích xuất từ văn bản:
+
+{
+  "text": "Bệnh Parkinson",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": ["isHistorical"]
+}
+
+{
+  "text": "Levodopa/Carbidopa",
+  "type": "THUỐC",
+  "assertions": ["isHistorical"]
+}
+
+{
+  "text": "run khi nghỉ",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+}
+
+{
+  "text": "cứng cơ",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+}
+
+{
+  "text": "chậm vận động",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+}
+
+{
+  "text": "thuốc",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+}
+
+{
+  "text": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+}

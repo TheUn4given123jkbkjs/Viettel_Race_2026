@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Viêm ruột thừa",
+    "position": [0, 14],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K37"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1591, 1602],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2193"]
+  }
+]

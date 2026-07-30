@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Viêm bàng quang",
+    "position": [2144, 2159],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm trùng tiết niệu",
+    "position": [2223, 2244],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T83.5"]
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [1694, 1714],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [571, 589],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kháng sinh",
+    "position": [2482, 2492],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiểu buốt",
+    "position": [2550, 2559],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau âm đạo",
+    "position": [2623, 2633],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm niệu đạo",
+    "position": [2697, 2710],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phẫu thuật",
+    "position": [978, 988],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

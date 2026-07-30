@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Aspirin",
+    "position": [1109, 1116],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [1118, 1129],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "Heparin",
+    "position": [1131, 1138],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["235473"]
+  },
+  {
+    "text": "Nitroglycerin",
+    "position": [1272, 1285],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4917"]
+  },
+  {
+    "text": "Morphine",
+    "position": [1306, 1314],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7052"]
+  },
+  {
+    "text": "đau ngực dữ dội",
+    "position": [64, 79],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [81, 88],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [92, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [733, 741],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10 ng/mL",
+    "position": [760, 768],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

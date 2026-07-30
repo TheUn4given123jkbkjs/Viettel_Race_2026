@@ -1,0 +1,109 @@
+[
+  {
+    "text": "Lao phổi",
+    "position": [616, 624],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
+  },
+  {
+    "text": "Isoniazid",
+    "position": [741, 750],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "214662",
+      "814321"
+    ]
+  },
+  {
+    "text": "Rifampicin",
+    "position": [767, 777],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9384"]
+  },
+  {
+    "text": "Pyrazinamide",
+    "position": [794, 806],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "214662",
+      "214662",
+      "8987"
+    ]
+  },
+  {
+    "text": "Ethambutol",
+    "position": [1982, 1992],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "214662",
+      "814321"
+    ]
+  },
+  {
+    "text": "BK đờm dương tính",
+    "position": [554, 571],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HRZe 0,5",
+    "position": [2616, 2624],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phỏng đoán",
+    "position": [2704, 2714],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [150, 163],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim",
+    "position": [180, 188],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [205, 215],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [293, 300],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho khan",
+    "position": [302, 309],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "COPD",
+    "position": [494, 498],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J44.9"]
+  },
+  {
+    "text": "khó thở",
+    "position": [137, 144],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Salbutamol",
+    "position": [974, 984],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Tiotropium",
+    "position": [986, 996],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["69120"]
+  },
+  {
+    "text": "Budesonide",
+    "position": [998, 1008],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [277, 290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

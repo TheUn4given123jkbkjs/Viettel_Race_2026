@@ -1,0 +1,58 @@
+[
+  {
+    "text": "bố đẻ tiền sử đái tháo đường tuýp 2",
+    "position": [353, 388],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "đau thượng vị",
+    "position": [574, 587],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ợ hơi",
+    "position": [680, 685],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [1414, 1428],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "niêm mạc hang vị dạ dày xung huyết đỏ rực",
+    "position": [1471, 1512],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Test HP nhanh",
+    "position": [1610, 1623],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính mạnh",
+    "position": [1682, 1697],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày",
+    "position": [2002, 2013],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K29.7"]
+  }
+]

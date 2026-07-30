@@ -1,0 +1,37 @@
+[
+  {
+    "text": "khó thở",
+    "position": [29, 36],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Salbutamol",
+    "position": [588, 598],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Tiotropium",
+    "position": [826, 836],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["69120"]
+  },
+  {
+    "text": "FEV1 giảm",
+    "position": [438, 447],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Budesonide",
+    "position": [1596, 1606],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  }
+]

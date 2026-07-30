@@ -1,0 +1,46 @@
+Lâm sàng: Bệnh nhân nữ, 35 tuổi, đến khám vì các triệu chứng như yếu cơ, sụp mi và giao động. Bệnh nhân báo cáo rằng các triệu chứng đã xuất hiện trong vòng 6 tháng qua và đã trở nặng trong những tuần gần đây. 
+
+Tiền sử bệnh án: Bệnh nhân không có tiền sử bệnh án trước đó, không có tiền sử gia đình về bệnh hiểm ác. 
+
+Kết quả xét nghiệm: Kết quả xét nghiệm máu cho thấy nồng độ kháng thể kháng acetylcholinesterase (AChR) là 0,5 nmol/L, trong khi giới hạn quan trọng là 0,01 nmol/L. Kết quả xét nghiệm điện sinh hoạt cho thấy thời gian phản xạ cơ là 50 ms, trong khi giới hạn quan trọng là 20 ms. 
+
+Chẩn đoán: Bệnh nhân được chẩn đoán là Nhược cơ (Myasthenia Gravis) ICD-10: G70.0. 
+
+Thuốc điều trị: Bệnh nhân được chỉ định dùng Pyridostigmine 60mg, 3 lần/ngày. Bệnh nhân cũng được chỉ định dùng Prednisolone 20mg, 1 lần/ngày. 
+
+Kết quả điều trị: Bệnh nhân sẽ được theo dõi kỹ lưỡng trong vòng 2 tuần để đánh giá hiệu quả điều trị. Bệnh nhân sẽ được yêu cầu báo cáo lại các triệu chứng và kết quả xét nghiệm để đánh giá hiệu quả điều trị.
+
+Lưu ý: Không sử dụng thuốc trong trường hợp bệnh nhân có tiền sử tăng huyết áp, suy tim hoặc suy thận. 
+
+Tương tác thuốc: Không có tương tác thuốc nào được báo cáo. 
+
+Lưu ý quan trọng: Không dùng thuốc nếu bệnh nhân có các triệu chứng như buồn nôn, ớn lạnh, đau đầu hoặc sốt. 
+
+Đơn thuốc:
+Pyridostigmine 60mg, 3 lần/ngày
+Prednisolone 20mg, 1 lần/ngày
+
+Bản ghi của bác sĩ: [Tên bác sĩ]
+Ngày tạo bản ghi: [Ngày tạo bản ghi]
+
+**BỆNH NHÂN ĐƯỢC CHẨN ĐOÁN LÀ NHƯỚC CƠ (MYASTHENIA GRAVIS) ICD-10: G70.0**
+
+ **THUỐC ĐƯỢC CHỈ ĐỊNH:**
+- Pyridostigmine (chất hoạt chất: Pyridostigmine bromide)
+- Prednisolone
+
+**TRIỆU CHỨNG:**
+- Yếu cơ
+- Sụp mi
+- Giao động
+- Buồn nôn
+- ớn lạnh
+- Đau đầu
+- Sốt
+
+**KẾT QUẢ XÉT NGHIỆM:**
+- Nồng độ kháng thể kháng acetylcholinesterase (AChR) là 0,5 nmol/L
+- Thời gian phản xạ cơ là 50 ms
+
+**ASSERTIONS:**
+- isNegated: ["phủ nhận buồn nôn", "phủ nhận sốt"]

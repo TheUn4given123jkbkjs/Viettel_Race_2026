@@ -1,0 +1,51 @@
+[
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [574, 604],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau thắt ngực khi gắng sức",
+    "position": [733, 759],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [162, 196],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I25.9"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [1698, 1705],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [1744, 1755],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "Nitroglycerin",
+    "position": [1884, 1897],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4917"]
+  },
+  {
+    "text": "điện tâm đồ (ECG)",
+    "position": [1110, 1127],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

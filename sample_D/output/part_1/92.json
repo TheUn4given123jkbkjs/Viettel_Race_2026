@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Tiêu chảy nhiễm trùng",
+    "position": [669, 690],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["A09.0"]
+  },
+  {
+    "text": "ORS",
+    "position": [887, 890],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["256"]
+  },
+  {
+    "text": "Tiêu chảy nhiễm trùng",
+    "position": [669, 690],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A09.0"]
+  },
+  {
+    "text": "tiêu chảy cấp",
+    "position": [2218, 2231],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phân lỏng",
+    "position": [2232, 2241],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất nước",
+    "position": [470, 478],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

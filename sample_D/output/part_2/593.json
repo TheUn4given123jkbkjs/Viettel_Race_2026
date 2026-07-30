@@ -1,0 +1,44 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [189, 196],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xơ gan",
+    "position": [118, 124],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K74.6"]
+  },
+  {
+    "text": "chức năng gan",
+    "position": [273, 286],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT và AST tăng cao",
+    "position": [296, 315],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm gan B",
+    "position": [373, 383],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B18.1"]
+  },
+  {
+    "text": "siêu âm bụng",
+    "position": [1278, 1290],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

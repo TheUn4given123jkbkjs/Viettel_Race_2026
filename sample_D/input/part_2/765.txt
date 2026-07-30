@@ -1,0 +1,37 @@
+Bệnh nhân nam, 62 tuổi, đến khám bệnh vì triệu chứng đau thắt ngực, nhịp tim nhanh và khó thở. Bệnh nhân có tiền sử tăng huyết áp 5 năm, đã mổ ruột thừa cách đây 2 năm và có tiền sử gia đình về bệnh tim. Khi đến bệnh viện, bệnh nhân được khám chi tiết và có các kết quả như sau:
+
+Kết quả siêu âm tim: Đánh giá siêu âm tim cho thấy có sự suy giảm chức năng tâm trương của cơ tim, đặc biệt là ở bộ phận thất. Bên cạnh đó, siêu âm còn xác định được sự có mặt của cục máu đông trong van tim, gây tắc nghẽn dòng máu.
+
+Kết quả điện tâm đồ: Điện tâm đồ của bệnh nhân cho thấy có các dấu hiệu của bệnh tim thiếu máu cục bộ mạn tính, đặc biệt là sự tăng cao của sóng Q trong điện tâm đồ.
+
+Kết quả xét nghiệm máu: Xét nghiệm máu của bệnh nhân cho thấy có sự tăng cao của các enzyme tim nhưCreatine Kinase (CK), Lactate Dehydrogenase (LDH), Aspartate Aminotransferase (AST) và Alanine Aminotransferase (ALT). Kết quả xét nghiệm huyết học cũng cho thấy có sự giảm thấp của hemoglobin và hồng cầu.
+
+Bên cạnh đó, bệnh nhân cũng được khám xét nghiệm chức năng nội mô và có kết quả như sau:
+
+Kết quả xét nghiệm chức năng nội mô: Kết quả xét nghiệm chức năng nội mô cho thấy có sự suy giảm chức năng nội mô, đặc biệt là ở bộ phận vân tay.
+
+Dựa trên các kết quả xét nghiệm trên, bác sĩ đã chẩn đoán bệnh tim thiếu máu cục bộ mạn tính (ICD-10: I25.9) cho bệnh nhân. Bệnh nhân được chỉ định phẫu thuật tim để loại bỏ cục máu đông và khắc phục sự suy giảm chức năng tâm trương của cơ tim.
+
+Trước khi phẫu thuật, bệnh nhân được khám xét nghiệm cận lâm sàng để xác định mức độ nghiêm trọng của bệnh tim. Kết quả xét nghiệm cho thấy bệnh tim đã tiến triển nghiêm trọng và cần được phẫu thuật càng sớm càng tốt.
+
+Bên cạnh đó, bệnh nhân cũng được chỉ định thay đổi lối sống để phòng ngừa bệnh tim tiến triển nghiêm trọng hơn. Bệnh nhân được hướng dẫn có chế độ ăn uống hợp lý, tập thể dục đều đặn và tránh hút thuốc lá.
+
+Tóm lại, bệnh tim thiếu máu cục bộ mạn tính là một bệnh lý phức tạp và cần được chẩn đoán và điều trị sớm để tránh tiến triển nghiêm trọng hơn. Bệnh nhân cần được khám xét nghiệm định kỳ để theo dõi mức độ nghiêm trọng của bệnh tim.
+
+
+ Entities:
+
+ - Triệu chứng: Đau thắt ngực, nhịp tim nhanh, khó thở
+ Type: TRIỆU_CHỨNG
+
+ - Chẩn đoán: Bệnh tim thiếu máu cục bộ mạn tính
+ Type: CHẨN_ĐOÁN
+
+ - Kết quả xét nghiệm: Siêu âm tim, điện tâm đồ, xét nghiệm máu
+ Type: TRIỆU_CHỨNG
+
+ - Tên xét nghiệm: Siêu âm tim, điện tâm đồ, xét nghiệm máu
+ Type: TÊN_XÉT_NGHIỆM
+
+ - Kết quả xét nghiệm: Suy giảm chức năng tâm trương của cơ tim, cục máu đông trong van tim
+ Type: KẾT_QUẢ_XÉT_NGHIỆM

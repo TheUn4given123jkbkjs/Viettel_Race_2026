@@ -1,0 +1,86 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [209, 222],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [224, 238],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [356, 363],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "lo âu",
+    "position": [381, 386],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "lo âu lan tỏa",
+    "position": [575, 588],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó tập trung",
+    "position": [771, 784],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồi hộp",
+    "position": [938, 945],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu toàn phần",
+    "position": [2290, 2313],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu",
+    "position": [2411, 2422],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.1 mmol/L",
+    "position": [2429, 2439],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [2699, 2710],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm tim",
+    "position": [2827, 2838],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

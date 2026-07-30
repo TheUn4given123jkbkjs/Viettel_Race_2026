@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Suy tim",
+    "position": [1917, 1924],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [200, 220],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù hai chi dưới",
+    "position": [142, 158],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Furosemide",
+    "position": [2034, 2044],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Spironolactone",
+    "position": [2078, 2092],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "Digoxin",
+    "position": [2173, 2180],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  },
+  {
+    "text": "NT-proBNP",
+    "position": [1493, 1502],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2500 pg/mL",
+    "position": [1504, 1514],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "EF 35%",
+    "position": [1765, 1771],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [2443, 2451],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

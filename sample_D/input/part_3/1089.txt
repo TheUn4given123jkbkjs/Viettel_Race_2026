@@ -1,0 +1,34 @@
+Bệnh nhân là nam, 45 tuổi, bị tăng huyết áp vô căn sử dụng thuốc hạ áp dài hạn từ năm 2015. Trước đây, bệnh nhân đã mổ ruột thừa cách đây 2 năm. Mới đây, bệnh nhân đến khám tại bệnh viện do có triệu chứng chóng mặt, nhịp tim nhanh và tăng huyết áp 180/100 mmHg. Sau khi được kiểm tra, bệnh nhân được chỉ định phẫu thuật để điều trị tăng huyết áp vô căn.
+
+Độ tuổi trung bình của bệnh nhân là 45 tuổi. Bệnh nhân có chiều cao 170 cm và cân nặng 70 kg. Bệnh nhân sử dụng thuốc hạ áp dài hạn từ năm 2015. Trước đây, bệnh nhân đã mổ ruột thừa cách đây 2 năm và được phẫu thuật thành công. Bệnh nhân không có tiền sử bệnh tim mạch.
+
+Kết quả thăm khám tại bệnh viện cho thấy:
+
+- Trọng tâm tim: 120 mmHg (trung bình)
+- Trọng tâm phổi: 80 mmHg (trung bình)
+- Độ nhạy sinh học: 0,8 ml/s (trung bình)
+- Thời gian di chuyển của hồng cầu: 10,5 s (trung bình)
+- Nồng độ creatinine: 1,2 mg/dl (trung bình)
+
+Kết quả xét nghiệm cận lâm sàng cho thấy:
+
+- Chuyên gia nội soi: Bệnh nhân bị tăng huyết áp vô căn
+- Chuyên gia tim mạch: Bệnh nhân cần phẫu thuật để điều trị tăng huyết áp vô căn
+- Chuyên gia xét nghiệm: Bệnh nhân không có tiền sử bệnh tim mạch
+
+Bệnh nhân được chỉ định phẫu thuật để điều trị tăng huyết áp vô căn. Bệnh nhân sẽ được theo dõi cẩn thận sau phẫu thuật và sẽ được kê đơn thuốc hạ áp trong khoảng 6-12 tháng sau phẫu thuật.
+
+Bênh nhân cần phải thay đổi lối sống để giảm thiểu nguy cơ phát triển bệnh tim mạch. Bệnh nhân cần ăn uống lành mạnh, tập thể dục đều đặn và tránh hút thuốc lá. Bệnh nhân cần đi khám định kỳ để theo dõi tình trạng sức khỏe.
+
+Tổng kết, bệnh nhân bị tăng huyết áp vô căn và cần được phẫu thuật để điều trị. Bệnh nhân cần thay đổi lối sống để giảm thiểu nguy cơ phát triển bệnh tim mạch.
+
+Trích xuất:
+
+- Tăng huyết áp (CHẨN_ĐOÁN)
+- Chóng mặt, nhịp tim nhanh (TRIỆU_CHỨNG)
+- Tăng huyết áp 180/100 mmHg (KẾT_QUẢ_XÉT_NGHIỆM)
+- Thuốc hạ áp (không trích xuất vì không cần thiết)
+- Tình trạng sức khỏe của bệnh nhân (TÊN_XÉT_NGHIỆM)
+- Kết quả thăm khám tại bệnh viện (KẾT_QUẢ_XÉT_NGHIỆM)
+- Tiền sử bệnh tim mạch (isHistorical)
+- Tiền sử mổ ruột thừa (isHistorical)

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đái tháo đường type 2",
+    "position": [476, 497],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng lượng đường trong máu",
+    "position": [112, 138],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Metformin",
+    "position": [1388, 1397],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Gliclazide",
+    "position": [1535, 1545],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4816"]
+  },
+  {
+    "text": "Empagliflozin",
+    "position": [1551, 1564],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1545653"]
+  },
+  {
+    "text": "HbA1c",
+    "position": [986, 991],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

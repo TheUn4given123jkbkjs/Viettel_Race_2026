@@ -1,0 +1,27 @@
+Bệnh nhân được chuyển tới phòng khám với biểu hiện đau bụng dữ dội, đau hố chậu phải sau khi ăn uống. Bệnh nhân báo cáo có biểu hiện táo bón kéo dài nhiều ngày cùng với cảm giác khó tiêu.
+
+Bệnh nhân có tiền sử bệnh lý bao gồm: bố đẻ bị đái tháo đường tuýp 2, mẹ đẻ có tiền sử tăng huyết áp. Bệnh nhân không có tiền sử bệnh lý về gan, thận.
+
+Kết quả xét nghiệm:
+
+- Kết quả ECG: bình thường
+- Kết quả xét nghiệm máu: albumin 3,5 g/dL, bilirubin 0,8 mg/dL, creatinine 1,2 mg/dL
+- Kết quả xét nghiệm nước tiểu: protein 0,5 g/dL, hồng cầu 5 tế bào/dL, tinh thể 0,5 g/dL
+
+Bệnh nhân được chuyển tới bệnh viện cấp cứu và được chỉ định xét nghiệm thêm để chẩn đoán chính xác bệnh lý. Sau khi xét nghiệm, bệnh nhân được chẩn đoán bị Viêm ruột thừa (ICD-10: K37).
+
+Bệnh nhân được chỉ định phẫu thuật để loại bỏ ruột thừa bị viêm. Bệnh nhân được thông báo về các nguy cơ và lợi ích của phẫu thuật và được yêu cầu ký vào bản đồng ý.
+
+Bệnh nhân được chỉ định ăn uống hạn chế, tránh thức ăn khó tiêu và uống nước đầy đủ trước khi phẫu thuật. Bệnh nhân được yêu cầu đi khám lại sau 7 ngày để theo dõi tình trạng sức khỏe.
+
+Lưu ý: bệnh nhân không có biểu hiện sốt, đau đầu hoặc buồn nôn.
+
+ Entities:
+- 'Viêm ruột thừa' (CHẨN_ĐOÁN)
+  - 'Viêm ruột thừa cấp' (TRIỆU_CHỨNG)
+  - 'Kết quả ECG' (TÊN_XÉT_NGHIỆM)
+  - 'Albumin 3,5 g/dL' (KẾT_QUẢ_XÉT_NGHIỆM)
+  - 'Không đau đầu' (isNegated)
+  - 'Bố đẻ bị đái tháo đường tuýp 2' (isFamily)
+  - 'Mẹ đẻ có tiền sử tăng huyết áp' (isFamily)
+  - 'Viêm ruột thừa cấp' (TRIỆU_CHỨNG)

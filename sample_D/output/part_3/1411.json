@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Rung nhĩ (ICD-10: I48)",
+    "position": [923, 945],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "Warfarin 5mg/ ngày",
+    "position": [1018, 1036],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bisoprolol 10mg/ ngày",
+    "position": [1066, 1087],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triglycerides",
+    "position": [589, 602],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "250 mg/dL",
+    "position": [604, 613],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "loạn nhịp tim toàn phần",
+    "position": [99, 122],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

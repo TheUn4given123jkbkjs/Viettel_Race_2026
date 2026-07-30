@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Hội chứng Hurler (MPS I)",
+    "position": [25, 49],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["E76.0"]
+  },
+  {
+    "text": "Loperamide",
+    "position": [689, 699],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6468"]
+  },
+  {
+    "text": "Ergonovine",
+    "position": [717, 727],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4021"]
+  },
+  {
+    "text": "Docusate sodium",
+    "position": [747, 762],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["71722"]
+  },
+  {
+    "text": "Diosmin",
+    "position": [782, 789],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3489"]
+  },
+  {
+    "text": "Gan lách to",
+    "position": [1903, 1914],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khuôn mặt thô",
+    "position": [1931, 1944],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh Hurler (MPS I) nghiêm trọng",
+    "position": [1961, 1993],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Trương hợp",
+    "position": [442, 452],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Pulse",
+    "position": [468, 473],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

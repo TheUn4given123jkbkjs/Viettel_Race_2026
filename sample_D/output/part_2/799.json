@@ -1,0 +1,90 @@
+[
+  {
+    "text": "Viêm dạ dày mạn",
+    "position": [547, 562],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K29.3",
+      "K29.4",
+      "K29.5"
+    ]
+  },
+  {
+    "text": "Viêm dạ dày",
+    "position": [547, 558],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Omeprazole",
+    "position": [614, 624],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [1564, 1576],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["283742"]
+  },
+  {
+    "text": "Rebamipide",
+    "position": [2109, 2119],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32463"]
+  },
+  {
+    "text": "Aluminum Hydroxide",
+    "position": [1270, 1288],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1009149"]
+  },
+  {
+    "text": "Nội soi dạ dày",
+    "position": [355, 369],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày mạn",
+    "position": [547, 562],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [304, 307],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [319, 322],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [223, 233],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Urea",
+    "position": [248, 252],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "đột quỵ não",
+    "position": [241, 252],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I64"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [826, 833],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [975, 986],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1118, 1130],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Mannitol",
+    "position": [1263, 1271],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6628"]
+  },
+  {
+    "text": "Citicoline",
+    "position": [1368, 1378],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["997602"]
+  },
+  {
+    "text": "Enoxaparin",
+    "position": [1482, 1492],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["67108"]
+  },
+  {
+    "text": "liệt nửa người",
+    "position": [133, 147],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan",
+    "position": [622, 629],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

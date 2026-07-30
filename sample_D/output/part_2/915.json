@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Phenylketonuria (PKU)",
+    "position": [139, 160],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E70.0"]
+  },
+  {
+    "text": "chậm phát triển tâm thần",
+    "position": [1073, 1097],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co giật",
+    "position": [1099, 1106],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "các vấn đề về da",
+    "position": [1111, 1127],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [388, 402],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ phenylalanine là 1200 μmol/L",
+    "position": [476, 512],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

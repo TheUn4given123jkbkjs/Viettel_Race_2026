@@ -1,0 +1,37 @@
+[
+  {
+    "text": "ho ra máu",
+    "position": [96, 105],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT ngực",
+    "position": [715, 722],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối u ở phổi trái",
+    "position": [627, 645],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hút thuốc lá",
+    "position": [297, 309],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "C34.9",
+    "position": [1159, 1164],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C34.9"]
+  }
+]

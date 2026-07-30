@@ -1,0 +1,44 @@
+[
+  {
+    "text": "bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [190, 224],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I25.9"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [263, 270],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [455, 468],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm tim",
+    "position": [927, 938],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tâm đồ",
+    "position": [897, 908],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ cholesterol",
+    "position": [987, 1006],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

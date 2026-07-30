@@ -1,0 +1,58 @@
+[
+  {
+    "text": "bệnh gút",
+    "position": [872, 880],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M10.9"]
+  },
+  {
+    "text": "tăng uric acid",
+    "position": [335, 349],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sưng nóng đỏ đau khớp bàn chân",
+    "position": [456, 486],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử gia đình",
+    "position": [516, 532],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ bị đái tháo đường tuýp 2",
+    "position": [534, 564],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [568, 598],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [297, 311],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [434, 441],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

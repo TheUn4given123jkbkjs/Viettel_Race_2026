@@ -1,0 +1,72 @@
+[
+  {
+    "text": "COPD",
+    "position": [600, 604],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J44.9"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [642, 652],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Tiotropium",
+    "position": [734, 744],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["69120"]
+  },
+  {
+    "text": "Budesonide",
+    "position": [952, 962],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [984, 996],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Formoterol",
+    "position": [1164, 1174],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["25255"]
+  },
+  {
+    "text": "Theophylline",
+    "position": [1509, 1521],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10438"]
+  },
+  {
+    "text": "FEV1/FVC",
+    "position": [560, 568],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "FEV1",
+    "position": [362, 366],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "FVC",
+    "position": [545, 548],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

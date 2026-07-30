@@ -1,0 +1,56 @@
+Bệnh nhân nam, 42 tuổi, được chuyển viện từ Bệnh viện Đại học Y Hà Nội vào ngày 15/6/2022. Bệnh nhân có tiền sử tăng huyết áp vô căn, đã sử dụng thuốc hạ áp lâu dài.
+
+Kể từ khi chuyển đến bệnh viện, bệnh nhân đã được các bác sĩ khám tổng quát. Kết quả khám chi tiết:
+
+* Máu: Hemoglobin: 14,5 g/dL, Hematocrit: 43%, MCV: 92 fL, MCH: 29,5 pg, MCHC: 32 g/dL, RDW: 13,5%.
+* Electrolytes: Natri: 142 mEq/L, Kali: 4,5 mEq/L, Chlor: 100 mEq/L.
+* Xét nghiệm chức năng gan và mật: AST: 24 U/L, ALT: 22 U/L, Bilirubin: 0,6 mg/dL, Cholesterol: 220 mg/dL.
+* Chụp X-quang ngực: Không thấy bất kỳ kết quả bất thường nào.
+* Chụp CT cơ tim: Không thấy bất kỳ kết quả bất thường nào.
+
+Bệnh nhân không có tiền sử tiểu đường, không có tiền sử bệnh tim mạch, không có tiền sử bệnh gan.
+
+Bên cạnh đó, bệnh nhân có tiền sử hút thuốc, uống rượu ít.
+
+Kết quả khám tổng quát và xét nghiệm cận lâm sàng khẳng định chẩn đoán tăng huyết áp vô căn của bệnh nhân.
+
+Bệnh nhân được chỉ định phẫu thuật để điều trị tăng huyết áp vô căn.
+
+Bác sĩ sẽ tiếp tục theo dõi và điều trị cho bệnh nhân.
+
+Bệnh nhân đã được bác sĩ tư vấn về lối sống và chế độ ăn uống để giúp kiểm soát tăng huyết áp vô căn.
+
+Bệnh nhân đã được chỉ định phẫu thuật để điều trị tăng huyết áp vô căn vào ngày 20/6/2022.
+
+Vì chẩn đoán chính là tăng huyết áp vô căn (CHẨN_ĐOÁN), các thực thể được trích xuất dưới đây:
+
+{
+  "text": "tăng huyết áp vô căn",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+},
+{
+  "text": "Tăng huyết áp",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+},
+{
+  "text": "Hemoglobin",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+},
+{
+  "text": "Kết quả xét nghiệm",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+},
+{
+  "text": "Chụp X-quang ngực",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+},
+{
+  "text": "Chụp CT cơ tim",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+},

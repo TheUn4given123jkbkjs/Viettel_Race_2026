@@ -1,0 +1,86 @@
+[
+  {
+    "text": "Suy tim",
+    "position": [0, 7],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "Digoxin",
+    "position": [1176, 1183],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [1319, 1329],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["20352"]
+  },
+  {
+    "text": "Sacubitril/Valsartan",
+    "position": [1453, 1473],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1656328"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [1620, 1630],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Phù chi dưới",
+    "position": [416, 428],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [519, 533],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm tim",
+    "position": [590, 604],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm khí máu",
+    "position": [638, 656],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy tim mạn",
+    "position": [1004, 1015],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "Spironolactone",
+    "position": [1749, 1763],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "Enalapril",
+    "position": [1892, 1901],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3827"]
+  }
+]

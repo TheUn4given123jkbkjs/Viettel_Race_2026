@@ -1,0 +1,87 @@
+Bệnh nhân nam, 42 tuổi, đến bệnh viện Đa khoa với tình trạng đau ngực trái và ợ nóng. Tiền sử bệnh nhân đã được chẩn đoán mắc bệnh Trào ngược dạ dày thực quản (ICD-10: K21.9) và đã được điều trị bằng thuốc Omeprazole từ 2 năm trước. Bệnh nhân đã từng dùng thuốc này trong thời gian dài, nhưng sau đó đã được chuyển sang dùng thuốc khác. Bố đẻ bệnh nhân có tiền sử đái tháo đường tuýp 2 và mẹ đẻ có tiền sử tăng huyết áp. Bệnh nhân có thể mô tả triệu chứng của mình như sau: 
+
+Đau ngực trái và ợ nóng là những triệu chứng khó chịu mà bệnh nhân đã gặp trong thời gian qua. Những triệu chứng này đã làm cho bệnh nhân cảm thấy khó chịu và đau đớn. 
+
+Bệnh nhân đã được khám chi tiết và các kết quả xét nghiệm sau đây:
+
+* ECG: normaal
+* Xét nghiệm chức năng gan và thận: trong ngưỡng reference
+* Xét nghiệm chức năng tiêu hóa: không có bất kỳ thay đổi nào
+
+Bác sĩ đã kê đơn thuốc cho bệnh nhân trong thời gian điều trị. 
+
+Trước khi bắt đầu điều trị, bác sĩ đã thảo luận với bệnh nhân về các nguy cơ và lợi ích của thuốc. Bác sĩ cũng đã giải thích cho bệnh nhân về cách sử dụng thuốc và các tác dụng phụ có thể xảy ra. 
+
+Bệnh nhân đã được theo dõi chặt chẽ trong thời gian điều trị và các kết quả xét nghiệm sau đây:
+
+* ECG: normaal
+* Xét nghiệm chức năng gan và thận: trong ngưỡng reference
+* Xét nghiệm chức năng tiêu hóa: không có bất kỳ thay đổi nào
+
+Sau 2 tuần điều trị, bệnh nhân đã thấy cải thiện đáng kể về triệu chứng ợ nóng. Bác sĩ đã quyết định tiếp tục điều trị thêm 2 tuần nữa để đảm bảo rằng bệnh nhân đã đạt được kết quả tốt nhất.
+
+Trước khi rời khỏi bệnh viện, bác sĩ đã cho bệnh nhân một tờ hướng dẫn sử dụng thuốc và các tác dụng phụ có thể xảy ra. Bác sĩ cũng đã cho bệnh nhân biết rằng cần phải theo dõi chặt chẽ các triệu chứng và báo cáo ngay lập tức nếu có bất kỳ dấu hiệu nào của biến chứng nặng.
+
+Tóm lại, bệnh nhân đã được chẩn đoán mắc bệnh Trào ngược dạ dày thực quản và đã được điều trị bằng thuốc Omeprazole. Bệnh nhân đã được theo dõi chặt chẽ và các kết quả xét nghiệm đã cho thấy bệnh nhân đã đạt được kết quả tốt nhất sau 4 tuần điều trị.
+
+**entities**:
+{
+  "text": "Trào ngược dạ dày thực quản", 
+  "type": "CHẨN_ĐOÁN", 
+  "assertions": ["isHistorical"]
+}
+{
+  "text": "Omeprazole", 
+  "type": "THUỐC", 
+  "assertions": ["isHistorical"]
+}
+{
+  "text": "bố đẻ tiền sử đái tháo đường tuýp 2", 
+  "type": "TÊN_XÉT_NGHIỆM", 
+  "assertions": ["isFamily"]
+}
+{
+  "text": "mẹ đẻ có tiền sử tăng huyết áp", 
+  "type": "TÊN_XÉT_NGHIỆM", 
+  "assertions": ["isFamily"]
+}
+{
+  "text": "Đau ngực trái", 
+  "type": "TRIỆU_CHỨNG", 
+  "assertions": []
+}
+{
+  "text": "ợ nóng", 
+  "type": "TRIỆU_CHỨNG", 
+  "assertions": []
+}
+{
+  "text": "ECG", 
+  "type": "TÊN_XÉT_NGHIỆM", 
+  "assertions": []
+}
+{
+  "text": "Xét nghiệm chức năng gan và thận", 
+  "type": "TÊN_XÉT_NGHIỆM", 
+  "assertions": []
+}
+{
+  "text": "Xét nghiệm chức năng tiêu hóa", 
+  "type": "TÊN_XÉT_NGHIỆM", 
+  "assertions": []
+}
+{
+  "text": "normaal", 
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM", 
+  "assertions": []
+}
+{
+  "text": "trong ngưỡng reference", 
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM", 
+  "assertions": []
+}
+{
+  "text": "không có bất kỳ thay đổi nào", 
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM", 
+  "assertions": []
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Cường giáp",
+    "position": [1073, 1083],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["E05.9"]
+  },
+  {
+    "text": "Methimazole",
+    "position": [1376, 1387],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6835"]
+  },
+  {
+    "text": "Propylthiouracil",
+    "position": [1393, 1409],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8794"]
+  }
+]

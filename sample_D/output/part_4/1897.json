@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Viêm phế quản cấp",
+    "position": [34, 51],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J20.9"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [617, 628],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Bromhexine",
+    "position": [1048, 1058],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1753"]
+  },
+  {
+    "text": "Ho đờm xanh",
+    "position": [1707, 1718],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sốt nhẹ",
+    "position": [1735, 1742],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đau ở vùng ngực",
+    "position": [1759, 1774],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [427, 441],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm phổi",
+    "position": [506, 521],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm hóa sinh",
+    "position": [550, 569],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

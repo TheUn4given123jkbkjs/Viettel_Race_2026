@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Hen phế quản",
+    "position": [1294, 1306],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [235, 245],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Budesonide",
+    "position": [1144, 1154],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Fluticasone",
+    "position": [1450, 1461],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41126"]
+  },
+  {
+    "text": "Montelukast",
+    "position": [1618, 1629],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["88249"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [249, 261],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  }
+]

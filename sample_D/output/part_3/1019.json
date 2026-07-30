@@ -1,0 +1,30 @@
+[
+  {
+    "text": "suy hô hấp cấp",
+    "position": [1413, 1427],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J96.0"]
+  },
+  {
+    "text": "SpO2 giảm xuống 88%",
+    "position": [178, 197],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thở mạnh",
+    "position": [168, 176],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết học",
+    "position": [302, 311],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

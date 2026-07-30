@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm phế quản cấp",
+    "position": [106, 123],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J20.9"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [168, 179],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Ho đờm xanh",
+    "position": [1509, 1520],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kháng sinh",
+    "position": [1537, 1547],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sốt",
+    "position": [1564, 1567],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau đầu",
+    "position": [1584, 1591],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mệt mỏi",
+    "position": [1608, 1615],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

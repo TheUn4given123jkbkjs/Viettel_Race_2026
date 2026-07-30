@@ -1,0 +1,37 @@
+[
+  {
+    "text": "tăng huyết áp vô căn",
+    "position": [27, 47],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [718, 728],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "thuốc hạ áp",
+    "position": [56, 67],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [27, 40],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [267, 274],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily", "isNegated"],
+    "candidates": []
+  }
+]

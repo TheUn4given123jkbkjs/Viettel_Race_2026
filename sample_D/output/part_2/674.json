@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Aspirin",
+    "position": [1082, 1089],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [1091, 1102],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1104, 1116],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Bisoprolol",
+    "position": [1118, 1128],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19484"]
+  },
+  {
+    "text": "Nitroglycerin",
+    "position": [1130, 1143],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4917"]
+  },
+  {
+    "text": "Isosorbide dinitrate",
+    "position": [1145, 1165],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6058"]
+  },
+  {
+    "text": "Echocardiogram",
+    "position": [1408, 1422],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [1391, 1405],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

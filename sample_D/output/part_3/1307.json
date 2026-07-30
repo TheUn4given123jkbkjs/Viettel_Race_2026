@@ -1,0 +1,37 @@
+[
+  {
+    "text": "đau khi đi lại",
+    "position": [49, 63],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [1342, 1353],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [357, 370],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [614, 631],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Hyaluronic acid",
+    "position": [1570, 1585],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5463"]
+  }
+]

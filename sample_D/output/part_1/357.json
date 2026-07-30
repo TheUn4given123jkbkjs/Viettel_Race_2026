@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Zolpidem",
+    "position": [691, 699],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["39993"]
+  },
+  {
+    "text": "Melatonin",
+    "position": [951, 960],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6711"]
+  },
+  {
+    "text": "Hydroxyzine",
+    "position": [1218, 1229],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5553"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [33, 40],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [42, 50],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "position": [65, 79],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HIV",
+    "position": [344, 347],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lupus",
+    "position": [373, 378],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

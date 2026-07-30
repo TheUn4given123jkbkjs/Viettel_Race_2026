@@ -1,0 +1,86 @@
+[
+  {
+    "text": "buồn nôn",
+    "position": [866, 874],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau quặn thận",
+    "position": [566, 579],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu rắt",
+    "position": [667, 675],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [677, 686],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1760, 1773],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu 8.5 G/L",
+    "position": [1796, 1812],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm ổ bụng tổng quát",
+    "position": [2171, 2195],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thận trái có hình ảnh tăng âm kèm bóng lưng kích thước khoảng 8mm ở đài dưới thận trái",
+    "position": [2282, 2368],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sỏi thận",
+    "position": [2492, 2500],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N20.0"]
+  },
+  {
+    "text": "Tamsulosin",
+    "position": [2709, 2719],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["77492"]
+  },
+  {
+    "text": "Ketorolac",
+    "position": [2768, 2777],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35827"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [2814, 2827],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  }
+]

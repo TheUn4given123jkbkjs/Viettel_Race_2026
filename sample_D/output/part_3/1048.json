@@ -1,0 +1,65 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [26, 34],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [137, 145],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "loạn nhịp hoàn toàn",
+    "position": [459, 478],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [353, 374],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [387, 400],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "INR",
+    "position": [804, 807],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatine kinase",
+    "position": [771, 786],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "liều lượng thấp hơn",
+    "position": [954, 973],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sự cải thiện",
+    "position": [1097, 1109],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

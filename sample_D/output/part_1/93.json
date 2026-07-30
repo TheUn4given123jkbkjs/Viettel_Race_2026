@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Tenofovir",
+    "position": [776, 785],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2003201",
+      "2003222",
+      "117466"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [379, 387],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [395, 404],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "HBV DNA",
+    "position": [568, 575],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chức năng gan",
+    "position": [595, 608],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

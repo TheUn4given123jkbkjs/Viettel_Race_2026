@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Rối loạn lo âu",
+    "position": [873, 887],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F41.9"]
+  },
+  {
+    "text": "lo âu lan tỏa",
+    "position": [113, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồi hộp",
+    "position": [128, 135],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó tập trung",
+    "position": [140, 153],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sertraline",
+    "position": [1092, 1102],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36437"]
+  },
+  {
+    "text": "huyết áp",
+    "position": [669, 677],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đường huyết",
+    "position": [729, 740],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lipid máu",
+    "position": [742, 751],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chức năng gan, thận",
+    "position": [755, 774],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

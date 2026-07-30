@@ -1,0 +1,65 @@
+[
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp nhẹ",
+    "position": [881, 915],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "chậm phát triển tâm thần vận động nhẹ",
+    "position": [518, 555],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co giật nhẹ dạng vắng ý thức thoáng qua",
+    "position": [667, 706],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nước tiểu có mùi hôi kỳ lạ",
+    "position": [1429, 1455],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổng phân tích tế bào máu ngoại vi",
+    "position": [2616, 2650],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Định lượng nồng độ Phenylalanine máu",
+    "position": [2840, 2876],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.2 mmol/L",
+    "position": [2937, 2947],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện não đồ",
+    "position": [3374, 3385],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm ổ bụng tổng quát",
+    "position": [3490, 3514],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

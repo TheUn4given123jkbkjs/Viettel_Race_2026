@@ -1,0 +1,63 @@
+[
+  {
+    "text": "Loét dạ dày",
+    "position": [61, 72],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
+  },
+  {
+    "text": "Loét dạ dày",
+    "position": [61, 72],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [972, 982],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "đau thượng vị",
+    "position": [1188, 1201],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1408, 1416],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xuất huyết tiêu hóa",
+    "position": [1565, 1584],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K32",
+      "K32.0",
+      "K32.1"
+    ]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [972, 982],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  }
+]

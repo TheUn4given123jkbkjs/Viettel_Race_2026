@@ -1,0 +1,30 @@
+[
+  {
+    "text": "mất ngủ mạn tính",
+    "position": [47, 63],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Zolpidem",
+    "position": [984, 992],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["39993"]
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [328, 358],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Melatonin",
+    "position": [1346, 1355],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6711"]
+  }
+]

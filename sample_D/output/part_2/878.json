@@ -1,0 +1,37 @@
+[
+  {
+    "text": "viêm khớp dạng thấp",
+    "position": [47, 66],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M06.9"]
+  },
+  {
+    "text": "sưng khớp đối xứng",
+    "position": [109, 127],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "RF",
+    "position": [772, 774],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ tiền sử đái tháo đường typ 2",
+    "position": [198, 232],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [236, 266],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

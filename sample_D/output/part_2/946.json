@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [403, 416],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [290, 297],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [309, 318],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết áp 170/100 mmHg",
+    "position": [1261, 1282],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Losartan",
+    "position": [2432, 2440],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["52175"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [2533, 2543],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Hydrochlorothiazide",
+    "position": [2621, 2640],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5487"]
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1881, 1892],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

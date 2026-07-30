@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Alzheimer",
+    "position": [793, 802],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G30.9"]
+  },
+  {
+    "text": "sa sút trí tuệ",
+    "position": [54, 68],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "quên gần",
+    "position": [70, 78],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất định hướng",
+    "position": [80, 94],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose",
+    "position": [593, 600],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "7,2 mmol/L",
+    "position": [601, 611],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

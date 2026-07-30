@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Suy tim",
+    "position": [54, 61],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "tiền sử tăng huyết áp 12 năm",
+    "position": [825, 853],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ của bệnh nhân có tiền sử suy tim",
+    "position": [959, 997],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "mẹ đẻ bị tăng huyết áp",
+    "position": [1012, 1034],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận có đau ngực",
+    "position": [1392, 1412],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Furosemide",
+    "position": [2963, 2973],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Enalapril",
+    "position": [3055, 3064],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3827"]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [3169, 3179],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["20352"]
+  },
+  {
+    "text": "NT-proBNP",
+    "position": [2040, 2049],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "EF 35%",
+    "position": [3714, 3720],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

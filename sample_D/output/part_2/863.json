@@ -1,0 +1,48 @@
+[
+  {
+    "text": "ung thư gan",
+    "position": [48, 59],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C22.0",
+      "C22.1",
+      "C22.3"
+    ]
+  },
+  {
+    "text": "Sorafenib",
+    "position": [511, 520],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["495881"]
+  },
+  {
+    "text": "AFP tăng cao",
+    "position": [294, 306],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng gan",
+    "position": [379, 403],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AFP",
+    "position": [294, 297],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm gan B",
+    "position": [211, 221],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

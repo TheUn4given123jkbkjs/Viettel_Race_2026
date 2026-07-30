@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [60, 81],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E10.9"]
+  },
+  {
+    "text": "Insulin Lispro",
+    "position": [188, 202],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["86009"]
+  },
+  {
+    "text": "Glu (nguyên tố đường huyết)",
+    "position": [299, 326],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [340, 345],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ",
+    "position": [382, 387],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ đẻ",
+    "position": [435, 440],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

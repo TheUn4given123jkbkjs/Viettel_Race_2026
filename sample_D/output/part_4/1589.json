@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Xơ gan",
+    "position": [250, 256],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K74.6"]
+  },
+  {
+    "text": "Spironolactone",
+    "position": [358, 372],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "ECG",
+    "position": [1841, 1844],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [796, 799],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bilirubin",
+    "position": [778, 787],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

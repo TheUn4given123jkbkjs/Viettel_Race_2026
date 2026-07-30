@@ -1,0 +1,58 @@
+[
+  {
+    "text": "suy tim",
+    "position": [53, 60],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [578, 595],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Furosemide",
+    "position": [1198, 1208],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [187, 200],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Spironolactone",
+    "position": [1222, 1236],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "siêu âm tim",
+    "position": [835, 846],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Enalapril",
+    "position": [1283, 1292],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3827"]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [1337, 1347],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["20352"]
+  }
+]

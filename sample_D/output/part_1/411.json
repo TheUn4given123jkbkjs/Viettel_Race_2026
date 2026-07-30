@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Trào ngược dạ dày thực quản",
+    "position": [1522, 1549],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K21.9"]
+  },
+  {
+    "text": "ợ nóng",
+    "position": [626, 632],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1029, 1037],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [2025, 2037],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["283742"]
+  },
+  {
+    "text": "Gaviscon",
+    "position": [2157, 2165],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["224905"]
+  },
+  {
+    "text": "Nội soi thực quản - dạ dày - tá tràng",
+    "position": [1380, 1417],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm niêm mạc thực quản",
+    "position": [1428, 1451],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [424, 431],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

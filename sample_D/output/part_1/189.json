@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Rung nhĩ",
+    "position": [59, 67],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [222, 230],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [339, 352],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "hồi hộp đánh trống ngực",
+    "position": [612, 635],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "INR",
+    "position": [1384, 1387],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.8",
+    "position": [1403, 1406],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bisoprolol",
+    "position": [2092, 2102],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19484"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [419, 429],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  }
+]

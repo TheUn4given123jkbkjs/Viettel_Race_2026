@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Viêm phổi",
+    "position": [181, 190],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["J18.9"]
+  },
+  {
+    "text": "sốt",
+    "position": [89, 92],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [94, 96],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đờm",
+    "position": [98, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phổi",
+    "position": [186, 190],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang phổi",
+    "position": [338, 350],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "số lượng tế bào bạch cầu tăng cao",
+    "position": [254, 287],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mức độ viêm tăng",
+    "position": [289, 305],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mức độ oxy hóa thấp",
+    "position": [309, 328],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

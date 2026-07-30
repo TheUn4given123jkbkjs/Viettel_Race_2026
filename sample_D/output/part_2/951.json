@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Rung nhĩ",
+    "position": [1831, 1839],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "khó thở",
+    "position": [168, 175],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Warfarin",
+    "position": [1212, 1220],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "Amiodarone",
+    "position": [1240, 1250],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["703"]
+  },
+  {
+    "text": "Bisoprolol",
+    "position": [1278, 1288],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19484"]
+  },
+  {
+    "text": "ECG",
+    "position": [596, 599],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm tim",
+    "position": [602, 613],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ troponin tăng cao",
+    "position": [956, 981],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

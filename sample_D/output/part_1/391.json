@@ -1,0 +1,45 @@
+[
+  {
+    "text": "Salbutamol",
+    "position": [253, 263],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["435"]
+  },
+  {
+    "text": "khò khè",
+    "position": [297, 304],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở về đêm",
+    "position": [308, 322],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm xoang",
+    "position": [462, 472],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J01.00",
+      "J01.01",
+      "J01.11"
+    ]
+  },
+  {
+    "text": "dị ứng",
+    "position": [476, 482],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "L23",
+      "L23.0",
+      "L23.1"
+    ]
+  }
+]

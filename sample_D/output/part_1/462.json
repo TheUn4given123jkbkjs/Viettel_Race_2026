@@ -1,0 +1,55 @@
+[
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [392, 422],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đau thượng vị",
+    "position": [586, 599],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụt cân",
+    "position": [896, 903],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi thực quản dạ dày tá tràng",
+    "position": [1350, 1383],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ổ loét kích thước lớn khoảng 1.5 cm ở vùng bờ cong nhỏ",
+    "position": [1421, 1475],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết sắc tố giảm nhẹ ở mức 105 g/L",
+    "position": [1793, 1828],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loét dạ dày",
+    "position": [2183, 2194],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
+  }
+]

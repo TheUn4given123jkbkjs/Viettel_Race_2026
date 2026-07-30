@@ -1,0 +1,44 @@
+[
+  {
+    "text": "động kinh",
+    "position": [66, 75],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G40.9"]
+  },
+  {
+    "text": "co giật toàn thể",
+    "position": [129, 145],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Valproate",
+    "position": [689, 698],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11118"]
+  },
+  {
+    "text": "Carbamazepine",
+    "position": [702, 715],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2002"]
+  },
+  {
+    "text": "Levetiracetam",
+    "position": [1493, 1506],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["114477"]
+  },
+  {
+    "text": "không sốt",
+    "position": [1081, 1090],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

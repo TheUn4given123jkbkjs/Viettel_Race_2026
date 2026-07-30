@@ -1,0 +1,48 @@
+[
+  {
+    "text": "sỏi mậ",
+    "position": [177, 183],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K80"]
+  },
+  {
+    "text": "Ursodeoxycholic aci",
+    "position": [212, 231],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11065"]
+  },
+  {
+    "text": "đau hạ sườn phải",
+    "position": [275, 291],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm bụng",
+    "position": [615, 627],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sỏi túi mật",
+    "position": [441, 452],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80.0"
+    ]
+  },
+  {
+    "text": "Ursodeoxycholic acid",
+    "position": [212, 232],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11065"]
+  }
+]

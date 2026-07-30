@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Erythropoietin",
+    "position": [1246, 1260],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["105694"]
+  },
+  {
+    "text": "Calcium carbonate",
+    "position": [1272, 1289],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1897"]
+  },
+  {
+    "text": "Kayexalate",
+    "position": [1309, 1319],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["51670"]
+  },
+  {
+    "text": "Suy thận mạn",
+    "position": [1894, 1906],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N18.9"]
+  },
+  {
+    "text": "Creatinine",
+    "position": [1152, 1162],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ure",
+    "position": [1180, 1183],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mệt mỏi",
+    "position": [1369, 1376],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy nhược",
+    "position": [1379, 1388],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau đầu",
+    "position": [1391, 1398],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mất ngủ",
+    "position": [1401, 1408],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

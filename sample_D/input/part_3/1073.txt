@@ -1,0 +1,33 @@
+Bệnh nhân nam, 45 tuổi, đến khám vì tình trạng đau ngực dữ dội và nhịp tim nhanh. Người bệnh có tiền sử bệnh tim mạch và đang sử dụng aspirin. 
+
+Lịch sử bệnh án:
+Bệnh nhân vào viện vào ngày 10/10/2022 với triệu chứng đau ngực dữ dội và nhịp tim nhanh. Bệnh nhân đã được chẩn đoán là nhồi máu cơ tim cấp (ICD-10: I21.9). 
+
+Kết quả xét nghiệm cận lâm sàng:
+- Troponin: 10,5 ng/mL (tăng cao)
+- Creatine kinase (CK): 250 U/L (tăng cao)
+- Heparin: 1000 IU/h (đang dùng)
+
+Ghi chú:
+- Bệnh nhân đã được điều trị với aspirin và heparin từ ngày 10/10/2022.
+- Bệnh nhân đã có triệu chứng đau ngực dữ dội và nhịp tim nhanh vào ngày 10/10/2022.
+
+Kết luận:
+Bệnh nhân có triệu chứng đau ngực dữ dội và nhịp tim nhanh, kèm theo tăng troponin và creatine kinase. Bệnh nhân đã được chẩn đoán là nhồi máu cơ tim cấp (ICD-10: I21.9) và được điều trị với aspirin và heparin.
+
+Chẩn đoán chính: Nhồi máu cơ tim cấp (ICD-10: I21.9)
+
+Thuốc chỉ định:
+- Aspirin: 100 mg/ngày
+- Heparin: 1000 IU/h
+- Atorvastatin: 20 mg/ngày
+
+Thực thể trích xuất:
+- Nhồi máu cơ tim cấp (CHẨN_ĐOÁN)
+- Troponin (TÊN_XÉT_NGHIỆM)
+- Aspirin (THUỐC)
+- Heparin (THUỐC)
+- Atorvastatin (THUỐC)
+- Đau ngực dữ dội (TRIỆU_CHỨNG)
+- Nhịp tim nhanh (TRIỆU_CHỨNG)
+- Tăng troponin (KẾT_QUẢ_XÉT_NGHIỆM)

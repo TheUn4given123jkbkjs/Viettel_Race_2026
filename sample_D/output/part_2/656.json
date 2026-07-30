@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Sỏi mật",
+    "position": [605, 612],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["K80"]
+  },
+  {
+    "text": "Sỏi túi mật",
+    "position": [1107, 1118],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm",
+    "position": [387, 394],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "K80.2",
+    "position": [622, 627],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

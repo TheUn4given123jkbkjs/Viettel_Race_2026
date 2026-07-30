@@ -1,0 +1,58 @@
+[
+  {
+    "text": "COPD",
+    "position": [108, 112],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J44.9"]
+  },
+  {
+    "text": "khó thở",
+    "position": [36, 43],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [484, 493],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Salbutamol",
+    "position": [1004, 1014],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Tiotropium",
+    "position": [1073, 1083],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["69120"]
+  },
+  {
+    "text": "Budesonide",
+    "position": [1112, 1122],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "FEV1",
+    "position": [756, 760],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm đáng kể",
+    "position": [821, 833],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

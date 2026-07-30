@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Aspirin",
+    "position": [631, 638],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [657, 668],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [686, 698],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Mannitol",
+    "position": [716, 724],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6628"]
+  },
+  {
+    "text": "Citicoline",
+    "position": [744, 754],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["997602"]
+  },
+  {
+    "text": "Enoxaparin",
+    "position": [774, 784],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["67108"]
+  },
+  {
+    "text": "liệt nửa người trái",
+    "position": [1546, 1565],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngôn ngữ",
+    "position": [1567, 1579],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất cảm giác",
+    "position": [1583, 1595],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan não",
+    "position": [436, 447],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết khối động mạch não",
+    "position": [495, 519],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

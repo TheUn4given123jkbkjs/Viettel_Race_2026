@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Bệnh án lâm sàng hồ sơ bệnh nhân số 001 - Suy tim mạn",
+    "position": [0, 53],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy tim mạn tính (I50.9)",
+    "position": [1119, 1143],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [282, 292],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [327, 339],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ (ECG)",
+    "position": [905, 922],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.000 mV (norm)",
+    "position": [924, 939],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi cấp (J18.9)",
+    "position": [453, 474],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "************",
+    "position": [506, 518],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [399, 419],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

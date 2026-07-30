@@ -1,0 +1,37 @@
+[
+  {
+    "text": "bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [1247, 1281],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I25.9"]
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [70, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cholesterol LDL",
+    "position": [602, 617],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "130 mg/dL",
+    "position": [623, 632],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phân số ngắnening (FS) là 25%",
+    "position": [811, 840],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

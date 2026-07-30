@@ -1,0 +1,37 @@
+[
+  {
+    "text": "đái tháo đường type 1",
+    "position": [39, 60],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E10.9"]
+  },
+  {
+    "text": "polyuria",
+    "position": [356, 364],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết sắc đồ",
+    "position": [422, 434],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ đường huyết cao",
+    "position": [586, 609],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [135, 162],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

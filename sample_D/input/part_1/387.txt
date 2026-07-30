@@ -1,0 +1,60 @@
+Hen phế quản (HP) là một trong những bệnh lý phổ biến nhất trong hệ hô hấp. Bệnh này gây ra sự viêm nhiễm và nghẽn tắc ở các đường quản trên của phổi. HP có thể gây ra nhiều triệu chứng khác nhau, bao gồm:
+
+Khò khè: Đây là triệu chứng phổ biến nhất của HP. Người bệnh sẽ có tiếng khò khè khi thở vào hoặc ra. Triệu chứng này thường xảy ra vào ban đêm.
+
+Khó thở: Người bệnh có thể cảm thấy khó thở khi gắng sức hoặc khi nằm ngửa. Triệu chứng này có thể trở nên nghiêm trọng hơn khi bệnh tiến triển.
+
+Sự khó chịu: Người bệnh có thể cảm thấy khó chịu hoặc đau đớn ở cơ thể, đặc biệt là ở ngực.
+
+Sự nhạy cảm với khói: Người bệnh thường rất nhạy cảm với khói thuốc lá, khói nhà, hoặc các chất gây ô nhiễm trong không khí.
+
+Tiền sử gia đình: Bệnh HP có thể di truyền từ mẹ sang con hoặc từ bố sang con. Người bệnh thường có tiền sử gia đình về HP.
+
+Kết quả xét nghiệm cận lâm sàng:
+
+- Xét nghiệm màng nuôi cấy máu (Blood Culture): Không xuất hiện bất kỳ dấu hiệu nhiễm khuẩn nào.
+- Xét nghiệm sinh hóa (Biochemical Tests): Không tìm thấy bất kỳ dấu hiệu bất thường nào.
+- Xét nghiệm chức năng phổi (Pulmonary Function Tests): Kết quả thể hiện tình trạng phổi không đầy đủ.
+
+Hướng điều trị:
+
+- Thuốc Salbutamol: Đây là thuốc điều trị triệu chứng HP. Nó giúp thư giãn các cơ trơn ở đường quản trên của phổi.
+- Thuốc Budesonide: Đây là thuốc điều trị bệnh HP bằng cách giảm viêm và giảm sự sản sinh histamine.
+- Thuốc Fluticasone: Đây là thuốc điều trị bệnh HP bằng cách giảm viêm và giảm sự sản sinh histamine.
+- Thuốc Montelukast: Đây là thuốc điều trị triệu chứng HP. Nó giúp giảm viêm và giảm sự sản sinh histamine.
+- Thuốc Ipratropium: Đây là thuốc điều trị triệu chứng HP. Nó giúp thư giãn các cơ trơn ở đường quản trên của phổi.
+
+Bác sĩ sẽ chỉ định thuốc phù hợp với từng trường hợp bệnh nhân.
+
+Chẩn đoán:
+
+- Bác sĩ sẽ dựa trên các triệu chứng và kết quả xét nghiệm cận lâm sàng để chẩn đoán HP.
+- Chẩn đoán sẽ được xác định bằng cách sử dụng các tiêu chuẩn chẩn đoán của Hiệp hội Phổi (American Thoracic Society).
+
+Dựa trên chẩn đoán, bác sĩ sẽ chỉ định thuốc phù hợp với từng trường hợp bệnh nhân.
+
+Vì vậy, bệnh HP cần được điều trị sớm và đúng cách để tránh tình trạng tiến triển nặng.
+
+Hen phế quản (ICD-10: J45.9)
+
+Trích xuất từ văn bản:
+
+- Chẩn đoán: Hen phế quản (J45.9)
+- Triệu chứng: Khò khè, khó thở về đêm, sự khó chịu, sự nhạy cảm với khói
+- Thuốc điều trị: Salbutamol, Budesonide, Fluticasone, Montelukast, Ipratropium
+- Kết quả xét nghiệm cận lâm sàng: Xét nghiệm màng nuôi cấy máu, xét nghiệm sinh hóa, xét nghiệm chức năng phổi
+
+Các thực thể y khoa trích xuất:
+
+- {'text': 'Khò khè', 'type': 'TRIỆU_CHỨNG'}
+- {'text': 'Khó thở về đêm', 'type': 'TRIỆU_CHỨNG'}
+- {'text': 'Hen phế quản (J45.9)', 'type': 'CHẨN_ĐOÁN'}
+- {'text': 'Salbutamol', 'type': 'THUỐC'}
+- {'text': 'Budesonide', 'type': 'THUỐC'}
+- {'text': 'Fluticasone', 'type': 'THUỐC'}
+- {'text': 'Montelukast', 'type': 'THUỐC'}
+- {'text': 'Ipratropium', 'type': 'THUỐC'}
+- {'text': 'Xét nghiệm màng nuôi cấy máu', 'type': 'TÊN_XÉT_NGHIỆM'}
+- {'text': 'Xét nghiệm sinh hóa', 'type': 'TÊN_XÉT_NGHIỆM'}
+- {'text': 'Xét nghiệm chức năng phổi', 'type': 'TÊN_XÉT_NGHIỆM'}
+- {'text': 'Kết quả xét nghiệm cận lâm sàng', 'type': 'KẾT_QUẢ_XÉT_NGHIỆM'}

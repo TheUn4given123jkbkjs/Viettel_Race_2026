@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [142, 155],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [444, 452],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Ung thư dạ dày",
+    "position": [790, 804],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D00"]
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [587, 601],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cisplatin",
+    "position": [1308, 1317],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Fluorouracil",
+    "position": [1321, 1333],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4492"]
+  },
+  {
+    "text": "Capecitabine",
+    "position": [1869, 1881],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["194000"]
+  },
+  {
+    "text": "nồng độ CEA",
+    "position": [883, 894],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "text": "ung thư vú",
+    "position": [369, 379],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
+  },
+  {
+    "text": "đau vú",
+    "position": [243, 249],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy dịch từ núm vú",
+    "position": [251, 270],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mammography",
+    "position": [798, 809],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khối u không đều",
+    "position": [972, 988],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh thiết",
+    "position": [825, 835],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "hen phế quản",
+    "position": [58, 70],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "khò khè",
+    "position": [232, 239],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [257, 266],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [268, 285],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Salbutamol",
+    "position": [516, 526],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Budesonide",
+    "position": [530, 540],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Ipratropium",
+    "position": [983, 994],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7213"]
+  }
+]

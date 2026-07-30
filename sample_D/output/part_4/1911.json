@@ -1,0 +1,123 @@
+[
+  {
+    "text": "Lao phổi",
+    "position": [79, 87],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
+  },
+  {
+    "text": "Isoniazid",
+    "position": [794, 803],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "214662",
+      "814321"
+    ]
+  },
+  {
+    "text": "Rifampicin",
+    "position": [833, 843],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9384"]
+  },
+  {
+    "text": "Pyrazinamide",
+    "position": [873, 885],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "214662",
+      "214662",
+      "8987"
+    ]
+  },
+  {
+    "text": "Ethambutol",
+    "position": [916, 926],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "214662",
+      "814321"
+    ]
+  },
+  {
+    "text": "Tiền sử tăng huyết áp 5 năm",
+    "position": [98, 125],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Ho kéo dài 2 tháng",
+    "position": [1413, 1431],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sốt 38 độ trong 1 tuần",
+    "position": [1434, 1456],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mệt mỏi, suy nhược",
+    "position": [1459, 1477],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [453, 467],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [503, 523],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm X quang",
+    "position": [553, 571],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Số lượng tế bào máu trắng giảm",
+    "position": [469, 499],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Có tế bào máu và protein",
+    "position": [525, 549],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Có bệnh lý ở phổi",
+    "position": [573, 590],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

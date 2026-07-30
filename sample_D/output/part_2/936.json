@@ -1,0 +1,37 @@
+[
+  {
+    "text": "béo phì",
+    "position": [144, 151],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E66.9"]
+  },
+  {
+    "text": "tăng cân",
+    "position": [237, 245],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chế độ ăn kiêng",
+    "position": [2077, 2092],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng hô hấp",
+    "position": [980, 1007],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "glucose",
+    "position": [918, 925],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

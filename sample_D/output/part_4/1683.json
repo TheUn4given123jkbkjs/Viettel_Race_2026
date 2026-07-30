@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Paracetamol",
+    "position": [715, 726],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ringer Lactate",
+    "position": [741, 755],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35629", "315"]
+  },
+  {
+    "text": "Dextrose 5%",
+    "position": [776, 787],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["315789"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [180, 193],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [172, 199],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

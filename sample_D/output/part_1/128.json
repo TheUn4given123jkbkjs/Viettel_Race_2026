@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Salbutamol",
+    "position": [90, 100],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["435"]
+  },
+  {
+    "text": "không sốt",
+    "position": [421, 430],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "khò khè",
+    "position": [228, 235],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phân tích chức năng hô hấp",
+    "position": [733, 759],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

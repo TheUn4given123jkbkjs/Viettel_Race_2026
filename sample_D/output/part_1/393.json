@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm dạ dày",
+    "position": [933, 944],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [984, 994],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Aluminum Hydroxide",
+    "position": [1023, 1041],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["1009149"]
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [694, 704],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "13.5 g/dL",
+    "position": [706, 715],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẹ đẻ",
+    "position": [203, 208],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

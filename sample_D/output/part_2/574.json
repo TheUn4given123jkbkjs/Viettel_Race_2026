@@ -1,0 +1,30 @@
+[
+  {
+    "text": "ORS",
+    "position": [557, 560],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["256"]
+  },
+  {
+    "text": "Zinc",
+    "position": [562, 566],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["39954"]
+  },
+  {
+    "text": "Loperamide",
+    "position": [568, 578],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6468"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [582, 595],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  }
+]

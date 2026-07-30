@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Sốt xuất huyết Dengue",
+    "position": [652, 673],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A91"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [880, 891],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ringer Lactate",
+    "position": [730, 744],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35629", "315"]
+  },
+  {
+    "text": "Dextrose 5%",
+    "position": [748, 759],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["315789"]
+  },
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [318, 345],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "giảm tiểu cầu",
+    "position": [425, 438],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Test nhanh Dengue",
+    "position": [522, 539],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

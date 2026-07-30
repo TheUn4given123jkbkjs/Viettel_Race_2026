@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đau thắt lưng",
+    "position": [91, 104],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M54.5"]
+  },
+  {
+    "text": "co cứng cơ cạnh sống",
+    "position": [320, 340],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [486, 503],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [651, 654],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng nhẹ",
+    "position": [676, 684],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [1133, 1140],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

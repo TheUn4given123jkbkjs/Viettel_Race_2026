@@ -1,0 +1,69 @@
+[
+  {
+    "text": "đái tháo đường",
+    "position": [452, 466],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [477, 490],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "tăng huyết áp nguyên phát",
+    "position": [620, 645],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "ho ra máu",
+    "position": [891, 900],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AFB đờm",
+    "position": [2084, 2091],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dương tính (++)",
+    "position": [2115, 2130],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "GeneXpert MTB/RIF",
+    "position": [2164, 2181],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phát hiện Mycobacterium tuberculosis",
+    "position": [2183, 2219],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lao phổi",
+    "position": [2571, 2579],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
+  }
+]

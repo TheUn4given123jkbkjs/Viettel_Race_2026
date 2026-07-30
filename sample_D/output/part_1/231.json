@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Erythropoietin",
+    "position": [843, 857],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["105694"]
+  },
+  {
+    "text": "Calcium Carbonate",
+    "position": [895, 912],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1897"]
+  },
+  {
+    "text": "tiểu ít",
+    "position": [422, 429],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nước tiểu đục",
+    "position": [431, 444],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "creatinine máu tăng cao",
+    "position": [612, 635],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Iron",
+    "position": [1670, 1674],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["90176", "105658"]
+  },
+  {
+    "text": "Kayexalate",
+    "position": [2224, 2234],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["51670"]
+  }
+]

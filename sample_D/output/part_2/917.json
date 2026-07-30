@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [932, 953],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E10.9"]
+  },
+  {
+    "text": "Insulin Lispro",
+    "position": [1014, 1028],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["86009"]
+  },
+  {
+    "text": "Insulin Glargine",
+    "position": [1059, 1075],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["274783"]
+  },
+  {
+    "text": "polyuria",
+    "position": [81, 89],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "polydipsia",
+    "position": [91, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ tiền sử đái tháo đường tuýp 2",
+    "position": [254, 289],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Glucagon",
+    "position": [1423, 1431],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4832"]
+  }
+]

@@ -1,0 +1,73 @@
+Bệnh nhân nam, 35 tuổi, đến khám vì triệu chứng ho đờm xanh kéo dài 5 ngày. Trước đó, bệnh nhân có tiền sử ho vào mùa thu đông và thường sử dụng thuốc ho tự nhiên để điều trị. Tuy nhiên, tình trạng ho này kéo dài và trở nên nặng hơn, kèm theo triệu chứng đờm xanh và nhạy cảm với không khí lạnh.
+
+Bệnh nhân có tiền sử gia đình: bố đẻ tiền sử đái tháo đường tuýp 2, mẹ đẻ có tiền sử tăng huyết áp.
+
+Kết quả khám lâm sàng: bệnh nhân có nhiệt độ cơ thể 37,5°C, nhịp thở nhanh 24 lần/phút, nhịp tim 90 lần/phút. Phổi nghe có âm thanh thở phế quản nặng, âm thanh thở bụng giảm.
+
+Kết quả xét nghiệm cận lâm sàng: xét nghiệm máu cho thấy số lượng tế bào bạch cầu tăng, xét nghiệm phế quản và khí quyển cho thấy tăng lượng mucus và các vi khuẩn trong phế quản.
+
+Chẩn đoán bệnh xác định là Viêm phế quản cấp (ICD-10: J20.9). Hướng điều trị tây y bao gồm:
+
+- Uống thuốc ho Amoxicillin 500mg x 3 lần/ngày trong 5 ngày.
+- Uống thuốc ho *Azithromycin* 250mg x 2 lần/ngày trong 3 ngày.
+- Uống thuốc ho Acetylcysteine 200mg x 3 lần/ngày trong 5 ngày.
+- Uống thuốc ho Bromhexine 8mg x 3 lần/ngày trong 5 ngày.
+- Uống thuốc ho Dextromethorphan 15mg x 3 lần/ngày trong 5 ngày.
+
+Bệnh nhân được yêu cầu nghỉ ngơi, hạn chế hoạt động thể chất, và sử dụng thuốc ho theo chỉ định. Ngoài ra, bệnh nhân cần tránh không khí lạnh và khói.
+
+Bệnh nhân được theo dõi chặt chẽ qua điện thoại trong 3 ngày tới để đánh giá tình trạng sức khỏe và hiệu quả của thuốc ho.
+
+Trong trường hợp bệnh nhân không cải thiện hoặc trở nặng, cần được chuyển đến cơ sở y tế cấp cứu.
+
+Tóm lại, bệnh nhân được chẩn đoán có Viêm phế quản cấp và được điều trị tây y bằng các loại thuốc ho khác nhau. Bệnh nhân cần tuân thủ chỉ định của bác sĩ và theo dõi chặt chẽ tình trạng sức khỏe để tránh biến chứng.
+
+Chẩn đoán: Viêm phế quản cấp (ICD-10: J20.9)
+
+Triệu chứng: ho đờm xanh, nhạy cảm với không khí lạnh
+
+Thuốc điều trị: Amoxicillin, Azithromycin, Acetylcysteine, Bromhexine, Dextromethorphan
+
+Kết quả xét nghiệm: tăng lượng tế bào bạch cầu, tăng lượng mucus và các vi khuẩn trong phế quản
+
+Bệnh nhân được yêu cầu nghỉ ngơi, hạn chế hoạt động thể chất, và sử dụng thuốc ho theo chỉ định. Ngoài ra, bệnh nhân cần tránh không khí lạnh và khói.
+
+Entities:
+[
+  {
+    "text": "Viêm phế quản cấp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      ""]
+  },
+  {
+    "text": "ho đờm xanh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "Amoxicillin",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "Azithromycin",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "Acetylcysteine",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "Bromhexine",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "Dextromethorphan",
+    "type": "THUỐC",
+    "assertions": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "suy thận mạn",
+    "position": [483, 495],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N18.9"]
+  },
+  {
+    "text": "Erythropoietin",
+    "position": [1260, 1274],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["105694"]
+  },
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [211, 238],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đã mổ ruột thừa cách đây 2 năm",
+    "position": [243, 273],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "creatinine máu",
+    "position": [1679, 1693],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ure máu",
+    "position": [1706, 1713],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Cường giáp",
+    "position": [107, 117],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E05.9"]
+  },
+  {
+    "text": "Methimazole",
+    "position": [155, 166],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6835"]
+  },
+  {
+    "text": "PTU",
+    "position": [452, 455],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2951"]
+  },
+  {
+    "text": "run tay",
+    "position": [212, 219],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "position": [221, 235],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng hormone giáp",
+    "position": [393, 410],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

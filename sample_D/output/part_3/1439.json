@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Thoái hóa cột sống",
+    "position": [1159, 1177],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M47.9"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [767, 778],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [807, 816],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Eperisone",
+    "position": [843, 852],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11474"]
+  },
+  {
+    "text": "đau lưng mạn tính",
+    "position": [48, 65],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ",
+    "position": [241, 246],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [250, 271],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu toàn phần",
+    "position": [375, 399],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bình thường",
+    "position": [1335, 1346],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

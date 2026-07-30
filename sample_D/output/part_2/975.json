@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Viêm khớp dạng thấp",
+    "position": [0, 19],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["M06.9"]
+  },
+  {
+    "text": "Methotrexate",
+    "position": [1104, 1116],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6851"]
+  },
+  {
+    "text": "Hydroxychloroquine",
+    "position": [1541, 1559],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5521"]
+  },
+  {
+    "text": "Sulfasalazine",
+    "position": [1986, 1999],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9524"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [2299, 2311],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Leflunomide",
+    "position": [2594, 2605],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["27169"]
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [574, 588],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm nước tiểu",
+    "position": [590, 610],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hình ảnh siêu âm",
+    "position": [615, 631],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

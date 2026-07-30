@@ -1,0 +1,81 @@
+[
+  {
+    "text": "Lao phổi",
+    "position": [1034, 1042],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
+  },
+  {
+    "text": "Isoniazid",
+    "position": [595, 604],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "214662",
+      "814321"
+    ]
+  },
+  {
+    "text": "Rifampicin",
+    "position": [606, 616],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9384"]
+  },
+  {
+    "text": "Pyrazinamide",
+    "position": [618, 630],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "214662",
+      "214662",
+      "8987"
+    ]
+  },
+  {
+    "text": "Ethambutol",
+    "position": [634, 644],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "214662",
+      "814321"
+    ]
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [161, 179],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Mycobacterium tuberculosis",
+    "position": [210, 236],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho và đờm màu vàng",
+    "position": [141, 159],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân nữ, 32 tuổi",
+    "position": [0, 21],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

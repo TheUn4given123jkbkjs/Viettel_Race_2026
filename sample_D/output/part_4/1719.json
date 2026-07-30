@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Amoxicillin",
+    "position": [201, 212],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [778, 799],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [820, 833],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "sốt",
+    "position": [66, 69],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho đờm",
+    "position": [71, 77],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

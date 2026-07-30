@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Thoái hóa cột sống",
+    "position": [0, 18],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["M47.9"]
+  },
+  {
+    "text": "đau lưng",
+    "position": [2130, 2138],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

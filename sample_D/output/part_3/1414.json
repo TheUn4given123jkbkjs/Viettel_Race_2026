@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Amlodipine",
+    "position": [730, 740],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Losartan",
+    "position": [754, 762],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["52175"]
+  },
+  {
+    "text": "Perindopril",
+    "position": [776, 787],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["54552"]
+  },
+  {
+    "text": "Telmisartan",
+    "position": [800, 811],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["73494"]
+  },
+  {
+    "text": "Huyết áp tâm thu",
+    "position": [244, 260],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết áp tâm trương",
+    "position": [273, 292],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mệt mỏi",
+    "position": [617, 624],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Buồn nôn",
+    "position": [627, 635],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sưng chân",
+    "position": [638, 647],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

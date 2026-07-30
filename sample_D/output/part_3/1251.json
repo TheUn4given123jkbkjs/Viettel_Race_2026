@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Ung thư vú",
+    "position": [75, 85],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
+  },
+  {
+    "text": "Tamoxifen",
+    "position": [554, 563],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10324"]
+  },
+  {
+    "text": "mammography",
+    "position": [704, 715],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [830, 840],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [717, 724],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh thiết",
+    "position": [729, 739],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

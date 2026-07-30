@@ -1,0 +1,30 @@
+Bệnh nhân nữ, 55 tuổi, được đưa vào khoa thần kinh sau khi bị tai biến mạch máu não. Lịch sử bệnh lý tiền thân bao gồm tăng huyết áp 5 năm, đã mổ ruột thừa cách đây 2 năm. Bệnh nhân không có tiền sử bệnh tim mạch hoặc bệnh lý khác.
+
+Kết quả xét nghiệm máu:
+
+* Huyết áp: 180/100 mmHg
+* Cholesterol: 250 mg/dl
+* Triglyceride: 200 mg/dl
+
+Kết quả xét nghiệm cận lâm sàng:
+
+* CT scan đầu não: chẩn đoán xác định là Đột quỵ não (ICD-10: I64)
+* Điện tâm đồ (ECG): bình thường
+* Xét nghiệm máu toàn bộ: bình thường
+
+Bệnh nhân được chỉ định phẫu thuật để loại bỏ huyết khối não. Trong quá trình điều trị, bệnh nhân không được kê đơn thuốc nào.
+
+Các triệu chứng chính bao gồm liệt nửa người và buồn nôn. Bệnh nhân phủ nhận triệu chứng đau đầu và sốt.
+
+Chẩn đoán bệnh: Đột quỵ não (ICD-10: I64)
+
+Các thực thể trích xuất:
+
+* Đột quỵ não (CHẨN_ĐOÁN)
+* Tai biến mạch máu não (TRIỆU_CHỨNG)
+* Liệt nửa người (TRIỆU_CHỨNG)
+* CT scan (TÊN_XÉT_NGHIỆM)
+* KẾT_QUẢ_XÉT_NGHIỆM (CT scan)
+* Phủ nhận buồn nôn (isNegated)
+* Tiền sử tăng huyết áp 5 năm (isHistorical)
+* Đã mổ ruột thừa cách đây 2 năm (isHistorical)

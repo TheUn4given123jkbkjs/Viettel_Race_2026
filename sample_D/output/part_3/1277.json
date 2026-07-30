@@ -1,0 +1,30 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [82, 95],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [817, 827],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Losartan",
+    "position": [835, 843],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["52175"]
+  },
+  {
+    "text": "Perindopril",
+    "position": [1495, 1506],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["54552"]
+  }
+]

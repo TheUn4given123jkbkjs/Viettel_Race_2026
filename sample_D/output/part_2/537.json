@@ -1,0 +1,65 @@
+[
+  {
+    "text": "lo âu lan tỏa",
+    "position": [176, 189],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồi hộp",
+    "position": [200, 207],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó tập trung",
+    "position": [333, 346],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn lo âu",
+    "position": [1449, 1463],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F41.9"]
+  },
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [561, 580],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "TSH",
+    "position": [773, 776],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.1 mIU/L",
+    "position": [780, 789],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sertraline",
+    "position": [1821, 1831],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36437"]
+  },
+  {
+    "text": "Escitalopram",
+    "position": [2004, 2016],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["321988"]
+  }
+]

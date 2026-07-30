@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Ursodeoxycholic acid",
+    "position": [529, 549],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11065"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [573, 584],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Hyoscine",
+    "position": [608, 616],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9601"]
+  },
+  {
+    "text": "đau hạ sườn phải",
+    "position": [83, 99],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [109, 117],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [180, 187],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [230, 233],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [241, 248],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

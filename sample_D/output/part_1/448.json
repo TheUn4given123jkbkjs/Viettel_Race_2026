@@ -1,0 +1,48 @@
+[
+  {
+    "text": "ung thư vú",
+    "position": [339, 349],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
+  },
+  {
+    "text": "Tamoxifen",
+    "position": [1328, 1337],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10324"]
+  },
+  {
+    "text": "Letrozole",
+    "position": [1351, 1360],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["72965"]
+  },
+  {
+    "text": "khối u vú",
+    "position": [1236, 1245],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mammography",
+    "position": [802, 813],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm vú",
+    "position": [817, 827],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

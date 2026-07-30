@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Salbutamol *****",
+    "position": [657, 673],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Fluticasone *****",
+    "position": [743, 760],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41126"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [850, 862],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "10%",
+    "position": [508, 511],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "50%",
+    "position": [530, 533],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

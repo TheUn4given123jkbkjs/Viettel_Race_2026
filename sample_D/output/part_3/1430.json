@@ -1,0 +1,37 @@
+[
+  {
+    "text": "suy giáp",
+    "position": [321, 329],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E03.9"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [65, 72],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng cân",
+    "position": [74, 82],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Levothyroxine",
+    "position": [618, 631],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10582"]
+  },
+  {
+    "text": "nồng độ TSH",
+    "position": [510, 521],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

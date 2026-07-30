@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Orlistat",
+    "position": [727, 735],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["37925"]
+  },
+  {
+    "text": "Metformin",
+    "position": [750, 759],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "tiền sử tăng huyết áp",
+    "position": [243, 264],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [452, 461],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm lipid máu",
+    "position": [542, 562],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "triglycerid là 2,5 mmol/L",
+    "position": [578, 603],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cholesterol LDL là 3,5 mmol/L",
+    "position": [607, 636],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

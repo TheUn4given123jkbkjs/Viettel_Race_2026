@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Hen phế quản",
+    "position": [615, 627],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [682, 692],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Ipratropium",
+    "position": [735, 746],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7213"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [790, 802],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Hen phế quản",
+    "position": [615, 627],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

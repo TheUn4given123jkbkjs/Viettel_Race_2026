@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Nhược cơ (Myasthenia Gravis)",
+    "position": [223, 251],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G70.0"]
+  },
+  {
+    "text": "sụp mi",
+    "position": [63, 69],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu cơ giao động",
+    "position": [71, 87],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [976, 990],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ kháng thể chống lại thụ thể acetylcholine cao",
+    "position": [1082, 1135],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [1499, 1509],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K91",
+      "K91.0",
+      "K91.1"
+    ]
+  }
+]

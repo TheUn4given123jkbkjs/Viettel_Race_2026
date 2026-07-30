@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Erythropoietin",
+    "position": [1026, 1040],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["105694"]
+  },
+  {
+    "text": "Calcium Carbonate",
+    "position": [1146, 1163],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1897"]
+  },
+  {
+    "text": "Calcitriol",
+    "position": [1167, 1177],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1894"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [537, 544],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3,5 mg/dL",
+    "position": [823, 832],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

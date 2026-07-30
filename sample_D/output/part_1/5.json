@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Bệnh phổi tắc nghẽn mạn tính (COPD)",
+    "position": [3794, 3829],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J44",
+      "J44.0",
+      "J44.1"
+    ]
+  },
+  {
+    "text": "ho khạc đờm trắng đục",
+    "position": [1069, 1090],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở",
+    "position": [1129, 1136],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [1714, 1722],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [332, 345],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily", "isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Lồng ngực hình thùng",
+    "position": [2087, 2107],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khí máu động mạch (ABG)",
+    "position": [3031, 3054],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "PaO2 60 mmHg",
+    "position": [3082, 3094],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phế dung ký",
+    "position": [3374, 3385],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tỷ lệ FEV1/FVC sau test giãn phế quản: 0.4 (< 0.7)",
+    "position": [3495, 3545],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

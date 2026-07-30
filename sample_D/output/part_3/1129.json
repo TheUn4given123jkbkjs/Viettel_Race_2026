@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Viêm phổi",
+    "position": [1210, 1219],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J18.9"]
+  },
+  {
+    "text": "X-quang phổi",
+    "position": [327, 339],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết học",
+    "position": [444, 453],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đo điện tim",
+    "position": [503, 514],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Đột quỵ não",
+    "position": [135, 146],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I64"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [194, 201],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "CRP",
+    "position": [533, 536],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "WBC",
+    "position": [550, 553],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ",
+    "position": [1573, 1578],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

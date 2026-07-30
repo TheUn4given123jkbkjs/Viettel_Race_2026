@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [334, 347],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [723, 736],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [917, 924],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [958, 967],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinin máu",
+    "position": [2677, 2690],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "88 micromol/l",
+    "position": [2691, 2704],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [3818, 3828],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Telmisartan",
+    "position": [3946, 3957],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["73494"]
+  },
+  {
+    "text": "Hydrochlorothiazide",
+    "position": [4030, 4049],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5487"]
+  }
+]

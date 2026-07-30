@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [953, 974],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E10.9"]
+  },
+  {
+    "text": "Insulin Lispro",
+    "position": [384, 398],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["86009"]
+  },
+  {
+    "text": "Xét nghiệm đường máu",
+    "position": [1077, 1097],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm chức năng thận",
+    "position": [1114, 1139],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

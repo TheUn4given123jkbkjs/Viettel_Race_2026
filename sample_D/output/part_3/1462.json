@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Nhiễm trùng tiết niệu",
+    "position": [145, 166],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["T83.5"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [194, 207],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [51, 60],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu rắt",
+    "position": [62, 70],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nước tiểu",
+    "position": [444, 453],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng leukocyte",
+    "position": [815, 829],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

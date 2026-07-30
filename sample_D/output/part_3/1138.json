@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Thoái hóa khớp gối (M17.9)",
+    "position": [1036, 1062],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [516, 527],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [1099, 1108],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Celecoxib",
+    "position": [1686, 1695],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["140587"]
+  },
+  {
+    "text": "Glucosamine",
+    "position": [1698, 1709],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4845"]
+  },
+  {
+    "text": "Hyaluronic acid",
+    "position": [1712, 1727],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5463"]
+  },
+  {
+    "text": "ESR",
+    "position": [784, 787],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [797, 800],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [829, 836],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

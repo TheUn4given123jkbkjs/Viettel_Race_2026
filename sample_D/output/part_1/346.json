@@ -1,0 +1,30 @@
+[
+  {
+    "text": "sỏi mật",
+    "position": [676, 683],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K80"]
+  },
+  {
+    "text": "siêu âm",
+    "position": [664, 671],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [773, 776],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "25 IU/L",
+    "position": [777, 784],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

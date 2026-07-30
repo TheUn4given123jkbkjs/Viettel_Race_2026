@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Đột quỵ não",
+    "position": [0, 11],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I64"]
+  },
+  {
+    "text": "mất thị lực tạm thời hoặc vĩnh viễn",
+    "position": [279, 314],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT",
+    "position": [777, 779],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI",
+    "position": [806, 809],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [517, 530],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tắc nghẽn mạch máu",
+    "position": [1660, 1678],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

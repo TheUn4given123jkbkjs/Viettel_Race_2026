@@ -117,10 +117,12 @@ def build_rxnorm(db_path):
         cursor.execute("DROP TABLE IF EXISTS rxnorm")
         cursor.execute("""
             CREATE TABLE rxnorm (
-                rxcui TEXT PRIMARY KEY,
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                rxcui TEXT,
                 name TEXT
             )
         """)
+        cursor.execute("CREATE UNIQUE INDEX IF NOT EXISTS idx_rxnorm_cui_name ON rxnorm(rxcui, name)")
         conn.commit()
         
         # Nạp dữ liệu
@@ -130,7 +132,7 @@ def build_rxnorm(db_path):
             rxcui = item.get("rxcui", "").strip()
             
             if drug and rxcui:
-                cursor.execute("INSERT OR REPLACE INTO rxnorm (rxcui, name) VALUES (?, ?)", (rxcui, drug))
+                cursor.execute("INSERT OR IGNORE INTO rxnorm (rxcui, name) VALUES (?, ?)", (rxcui, drug))
                 inserted_count += 1
                 
         conn.commit()

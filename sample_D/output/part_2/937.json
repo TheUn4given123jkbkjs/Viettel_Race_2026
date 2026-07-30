@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Rung nhĩ",
+    "position": [1175, 1183],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "hồi hộp",
+    "position": [471, 478],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đánh trống ngực",
+    "position": [118, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rivaroxaban",
+    "position": [1944, 1955],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1114195"]
+  },
+  {
+    "text": "Bisoprolol",
+    "position": [1879, 1889],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19484"]
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1059, 1070],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm tim",
+    "position": [1188, 1199],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp nhanh không đều",
+    "position": [1087, 1107],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Béo phì",
+    "position": [552, 559],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E66.9"]
+  },
+  {
+    "text": "Orlistat",
+    "position": [1036, 1044],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["37925"]
+  },
+  {
+    "text": "Metformin",
+    "position": [1070, 1079],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [388, 409],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "250 mg/dL",
+    "position": [436, 445],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 mg/dL",
+    "position": [2209, 2217],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Béo phì",
+    "position": [552, 559],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E66.9"]
+  },
+  {
+    "text": "Orlistat",
+    "position": [1036, 1044],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["37925"]
+  },
+  {
+    "text": "Metformin",
+    "position": [1070, 1079],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  }
+]

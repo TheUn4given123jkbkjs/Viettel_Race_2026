@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Zolpidem",
+    "position": [504, 512],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["39993"]
+  },
+  {
+    "text": "mất ngủ mạn tính",
+    "position": [54, 70],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó vào giấc",
+    "position": [72, 84],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [898, 912],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng thận",
+    "position": [916, 941],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

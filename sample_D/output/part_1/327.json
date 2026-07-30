@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Viêm phổi",
+    "position": [525, 534],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J18.9"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [638, 649],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "ho khan",
+    "position": [304, 311],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [378, 385],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [1229, 1232],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bạch cầu (WBC)",
+    "position": [2237, 2251],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.5 x 10^9/L",
+    "position": [2253, 2266],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP định lượng",
+    "position": [2303, 2317],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "45 mg/L",
+    "position": [2319, 2326],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

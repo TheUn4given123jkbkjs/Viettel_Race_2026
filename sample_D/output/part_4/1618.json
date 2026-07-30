@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Béo phì",
+    "position": [1883, 1890],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E66.9"]
+  },
+  {
+    "text": "mệt mỏi kéo dài",
+    "position": [153, 168],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose huyết tương lúc đói",
+    "position": [1466, 1493],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.1 mmol/L",
+    "position": [1509, 1519],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [1538, 1559],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.8 mmol/L",
+    "position": [1575, 1585],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Orlistat",
+    "position": [2389, 2397],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["37925"]
+  },
+  {
+    "text": "Metformin",
+    "position": [2535, 2544],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  }
+]

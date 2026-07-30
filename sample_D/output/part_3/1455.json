@@ -1,0 +1,27 @@
+[
+  {
+    "text": "Bác sĩ",
+    "position": [972, 978],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [253, 271],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân",
+    "position": [0, 9],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Z86.11",
+      "Z86.12",
+      "Z86.19"
+    ]
+  }
+]

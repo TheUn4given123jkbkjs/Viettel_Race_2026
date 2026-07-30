@@ -1,0 +1,86 @@
+[
+  {
+    "text": "trầm cảm",
+    "position": [34, 42],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["F32.9"]
+  },
+  {
+    "text": "buồn bã",
+    "position": [103, 110],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [288, 295],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [297, 306],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [311, 319],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ser***ine",
+    "position": [182, 191],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36437"]
+  },
+  {
+    "text": "Escitalopram",
+    "position": [723, 735],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["321988"]
+  },
+  {
+    "text": "SSRI",
+    "position": [833, 837],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết áp",
+    "position": [466, 474],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120/80 mmHg",
+    "position": [477, 488],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhiệt độ",
+    "position": [493, 501],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "36.5°C",
+    "position": [504, 510],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

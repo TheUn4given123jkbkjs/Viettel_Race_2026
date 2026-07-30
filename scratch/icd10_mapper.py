@@ -69,6 +69,7 @@ EXACT_CLINICAL_MAP = {
     "bệnh tim mạch": ["I51.9"],
     "bệnh mạch vành": ["I25.1"],
     "bệnh tim thiếu máu cục bộ": ["I25.9"],
+    "bệnh tim thiếu máu cục bộ mạn tính": ["I25.9"],
     "thiếu máu cơ tim": ["I25.9"],
     "nhồi máu cơ tim": ["I21.9"],
     "nmct": ["I21.9"],
@@ -78,6 +79,7 @@ EXACT_CLINICAL_MAP = {
     "suy tim độ 3": ["I50.9"],
     "suy tim độ 4": ["I50.9"],
     "suy tim mạn": ["I50.9"],
+    "suy tim mạn tính": ["I50.9"],
     "suy tim cấp": ["I50.9"],
     "tai biến mạch máu não": ["I64"],
     "tbmmn": ["I64"],
@@ -99,6 +101,7 @@ EXACT_CLINICAL_MAP = {
     "gerd": ["K21.9"],
     "viêm gan": ["K75.9"],
     "viêm gan b": ["B18.1"],
+    "viêm gan b mạn tính": ["B18.1"],
     "viêm gan c": ["B18.2"],
     "xơ gan": ["K74.6"],
     "viêm túi mật": ["K81.9"],
@@ -113,6 +116,7 @@ EXACT_CLINICAL_MAP = {
     "thoái hóa cột sống cổ": ["M47.8"],
     "gút": ["M10.9"],
     "gout": ["M10.9"],
+    "bệnh gout": ["M10.9"],
     "bệnh gút": ["M10.9"],
     "viêm khớp dạng thấp": ["M06.9"],
     "thoát vị đĩa đệm": ["M51.2"],
@@ -124,6 +128,7 @@ EXACT_CLINICAL_MAP = {
     "rối loạn trầm cảm": ["F32.9"],
     "rối loạn lo âu": ["F41.9"],
     "mất ngủ": ["G47.0"],
+    "mất ngủ mạn tính": ["G47.0"],
     "rối loạn giấc ngủ": ["G47.9"],
     "động kinh": ["G40.9"],
     "parkinson": ["G20"],
@@ -133,6 +138,7 @@ EXACT_CLINICAL_MAP = {
     # Thận - Tiết niệu
     "suy thận": ["N18.9"],
     "suy thận mạn": ["N18.9"],
+    "suy thận mạn tính": ["N18.9"],
     "suy thận cấp": ["N17.9"],
     "sỏi thận": ["N20.0"],
     "sỏi tiết niệu": ["N20.9"],
@@ -154,6 +160,44 @@ EXACT_CLINICAL_MAP = {
     "thủy đậu": ["B01.9"],
     "sởi": ["B05.9"],
     "covid-19": ["U07.1"],
+    
+    # Bệnh hiếm (V6.0+ Cân bằng dịch tễ)
+    "loạn dưỡng cơ duchenne": ["G71.0"],
+    "hội chứng down": ["Q90.9"],
+    "hội chứng down (trisomy 21)": ["Q90.9"],
+    "tiêu chảy nhiễm trùng": ["A09.0"],
+    "giảm gammaglobulin di truyền (bruton)": ["D80.0"],
+    "giảm gammaglobulin di truyền": ["D80.0"],
+    "phenylketonuria (pku)": ["E70.0"],
+    "phenylketonuria": ["E70.0"],
+    "hội chứng hurler (mps i)": ["E76.0"],
+    "hội chứng hurler": ["E76.0"],
+    "nhược cơ (myasthenia gravis)": ["G70.0"],
+    "nhược cơ": ["G70.0"],
+    "thông liên thất bẩm sinh (vsd)": ["Q21.0"],
+    "thông liên thất bẩm sinh": ["Q21.0"],
+    "scid (suy giảm miễn dịch kết hợp nặng)": ["D81.9"],
+    "scid": ["D81.9"],
+    "bệnh nước tiểu mùi sirô phong (msud)": ["E71.0"],
+    "bệnh nước tiểu mùi sirô phong": ["E71.0"],
+    "nhiễm hp": ["B96.81"],
+    "gan nhiễm mỡ độ ii": ["K76.0"],
+    "gan nhiễm mỡ độ 2": ["K76.0"],
+    "viêm tuyến giáp tự miễn hashimoto": ["E06.3"],
+    "viêm tuyến giáp hashimoto": ["E06.3"],
+    "hashimoto": ["E06.3"],
+    "dày thất trái": ["I51.7"],
+    "nhiểm khuẩn phổi": ["J18.9"],
+    "co giật toàn thể": ["G40.9"],
+    "sỏi mật": ["K80"],
+    "sỏi mậ": ["K80"],
+    "béo phì độ ii": ["E66.9"],
+    "béo phì độ 2": ["E66.9"],
+    "loét dạ dày cấp tính": ["K25.3"],
+    "ung thư phổi": ["C34.9"],
+    "ung thư phổi giai đoạn 3a": ["C34.9"],
+    "loét dạ dày tá tràng": ["K27.9"],
+    "bệnh loét dạ dày tá tràng": ["K27.9"]
 }
 
 # Danh sách các mã nhạy cảm/đặc biệt không bao giờ trả về bừa bãi qua FTS
@@ -167,49 +211,70 @@ def normalize_text(text):
     return t
 
 def extract_actual_disease_from_prefix(text):
-    """Xử lý các thực thể dạng 'tiền sử X', 'mẹ đẻ có tiền sử X' -> trả về X."""
-    t = normalize_text(text)
+    """Xử lý các thực thể dạng tiền tố y khoa -> trả về cụm từ bệnh sạch."""
+    # Remove parentheses contents (e.g., "(Trisomy 21)", "(MPS I)") on the raw text first!
+    raw_clean = re.sub(r'\s*\([^)]*\)', '', text).strip()
     
-    # Loại bỏ tiền tố tiền sử / gia đình
-    prefixes = [
-        r'^tiền sử\s+',
-        r'^mẹ đẻ\s+(có\s+)?(tiền sử\s+)?',
-        r'^bố đẻ\s+(có\s+)?(tiền sử\s+)?',
-        r'^cha đẻ\s+(có\s+)?(tiền sử\s+)?',
-        r'^gia đình\s+(có\s+)?(tiền sử\s+)?',
-        r'^bản thân\s+(có\s+)?(tiền sử\s+)?',
-        r'^tiền căn\s+',
-    ]
+    # Strip "ICD-10: " prefix if present
+    raw_clean = re.sub(r'^icd-10:\s*', '', raw_clean, flags=re.IGNORECASE).strip()
     
-    clean_t = t
-    for p in prefixes:
-        clean_t = re.sub(p, '', clean_t).strip()
-        
+    # Strip suffix details like "đã phẫu thuật..."
+    raw_clean = re.sub(r'\s+đã\s+(phẫu thuật|mổ|cắt).*$', '', raw_clean, flags=re.IGNORECASE).strip()
+    raw_clean = re.sub(r'\s+(đã\s+)?được\s+(phẫu thuật|mổ|cắt).*$', '', raw_clean, flags=re.IGNORECASE).strip()
+    
+    t = normalize_text(raw_clean)
+    
+    # Loại bỏ tiền tố tiền sử / gia đình / điều trị bằng một regex hợp nhất
+    t = re.sub(r'^(mẹ đẻ|bố đẻ|cha đẻ|cha|mẹ|ông|bà|anh|chị|em|gia đình|bản thân)\s+(của tôi\s+|của bệnh nhân\s+)?(có\s+)?(tiền sử\s+)?', '', t).strip()
+    t = re.sub(r'^(tiền sử điều trị|tiền sử|tiền căn|điều trị ổn định|điều trị|mắc|chẩn đoán|theo dõi|bị|nghi ngờ|có tiền sử)\s+', '', t).strip()
+    
     # Loại bỏ thông tin số năm ở cuối (vd "5 năm", "10 năm")
-    clean_t = re.sub(r'\s+\d+\s*năm$', '', clean_t).strip()
+    t = re.sub(r'\s+\d+\s*năm$', '', t).strip()
     
-    return clean_t
+    return t
 
 def smart_icd10_lookup(cursor, text):
     """
-    Tra cứu mã ICD-10 thông minh & an toàn cho văn bản chẩn đoán.
+    Tra cứu mã ICD-10 thông minh & an sau cho văn bản chẩn đoán.
     Trả về danh sách 1-3 mã ICD-10 chuẩn xác nhất.
     """
     if not text or not text.strip():
         return []
         
+    # Clean ICD-10 prefix if present
+    clean_text = re.sub(r'^icd-10:\s*', '', text.strip(), flags=re.IGNORECASE).strip()
+    
+    # Rule 0: If the text contains any valid ICD-10 code anywhere, extract and return it directly
+    code_match = re.search(r'\b([A-Z]\d{2}(?:\.\d{1,2})?)\b', clean_text.upper())
+    if code_match:
+        return [code_match.group(1)]
+        
     norm = normalize_text(text)
     
-    # 1. Tra cứu tiền sử / gia đình trước
+    # Rule 1: Handle composites connected by " và ", "/" or " kèm "
+    delimiters = [r'\s+và\s+', r'\s*/\s*', r'\s+kèm\s+']
+    for delim in delimiters:
+        if re.search(delim, clean_text, re.IGNORECASE):
+            parts = re.split(delim, clean_text, flags=re.IGNORECASE)
+            res = []
+            for p in parts:
+                p_res = smart_icd10_lookup(cursor, p)
+                for c in p_res:
+                    if c not in res:
+                        res.append(c)
+            if res:
+                return res[:3]
+            
+    # 2. Tra cứu tiền sử / gia đình trước
     extracted = extract_actual_disease_from_prefix(text)
     if extracted in EXACT_CLINICAL_MAP:
         return EXACT_CLINICAL_MAP[extracted]
         
-    # 2. Tra cứu trực tiếp từ điển lâm sàng
+    # 3. Tra cứu trực tiếp từ điển lâm sàng
     if norm in EXACT_CLINICAL_MAP:
         return EXACT_CLINICAL_MAP[norm]
         
-    # 3. Phân tích cụm từ chính
+    # 4. Phân tích cụm từ chính
     # ĐTĐ
     if any(k in norm for k in ["đái tháo đường", "tiểu đường", "dtd"]):
         if "1" in norm:
@@ -240,8 +305,8 @@ def smart_icd10_lookup(cursor, text):
             return ["A54.84"]
         else:
             return ["J18.9"]
-
-    # 4. Fallback SQL FTS nhưng lọc bỏ mã nhạy cảm (Giang mai, Lậu, Phá thai, Thai sản, Y06)
+            
+    # 5. Fallback SQL FTS nhưng lọc bỏ mã nhạy cảm (Giang mai, Lậu, Phá thai, Thai sản, Y06)
     if cursor:
         try:
             # Clean term for SQLite
@@ -252,9 +317,7 @@ def smart_icd10_lookup(cursor, text):
                 
                 filtered = []
                 for code, name in rows:
-                    # Nếu mã thuộc nhóm nhạy cảm, chỉ chấp nhận nếu text gốc có chứa từ khóa nhạy cảm
                     if EXCLUDED_CHAPTERS_PATTERN.match(code):
-                        # Kiểm tra xem text gốc có chứa từ khóa liên quan không
                         if any(kw in norm for kw in ["giang mai", "lậu", "rubella", "phá thai", "sẩy thai", "chửa", "thai phụ", "vô sinh", "cẩu thả"]):
                             filtered.append(code)
                     else:

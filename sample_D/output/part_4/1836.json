@@ -1,0 +1,65 @@
+[
+  {
+    "text": "suy thận mạn",
+    "position": [45, 57],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N18.9"]
+  },
+  {
+    "text": "Erythropoietin",
+    "position": [2506, 2520],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["105694"]
+  },
+  {
+    "text": "Calcium Carbonate",
+    "position": [2525, 2542],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1897"]
+  },
+  {
+    "text": "Calcitriol",
+    "position": [2547, 2557],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1894"]
+  },
+  {
+    "text": "Kayexalate",
+    "position": [2562, 2572],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["51670"]
+  },
+  {
+    "text": "Iron",
+    "position": [2577, 2581],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["90176", "105658"]
+  },
+  {
+    "text": "viêm màng bao thận",
+    "position": [349, 367],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [395, 408],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phosphat",
+    "position": [1185, 1193],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

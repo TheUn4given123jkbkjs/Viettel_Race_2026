@@ -1,0 +1,51 @@
+Bệnh án lâm sàng sau đây là một bệnh nhân nam 45 tuổi, được đưa vào viện với tình trạng suy tim mạn tính. Bệnh nhân có tiền sử điều trị bệnh suy tim (ICD-10: I50.9) và đã dùng thuốc Furosemide kéo dài. Khi được hỏi, bệnh nhân cho biết mình thường xuyên có triệu chứng phù chi dưới và khó thở khi gắng sức.
+
+Bệnh nhân có tiền sử bệnh nền suy tim được chẩn đoán từ 5 năm trước. Bệnh nhân đã được điều trị bằng thuốc Furosemide để kiểm soát triệu chứng phù chi dưới và khó thở. Tuy nhiên, bệnh nhân vẫn thường xuyên phải sử dụng thuốc này để kiểm soát triệu chứng.
+
+Khi được đưa vào viện, bệnh nhân được khám và kiểm tra. Kết quả xét nghiệm cho thấy bệnh nhân có mứcCreatinine cao và độ pH trong máu thấp. Bệnh nhân cũng có biểu hiện phù chi dưới và khó thở khi gắng sức.
+
+Khám nghiệm cụ thể:
+
+* Báng ngực: Bệnh nhân có dấu hiệu phù chi dưới và khó thở khi gắng sức.
+* Thần kinh: Bệnh nhân không có bất kỳ dấu hiệu bất thường nào.
+* Hệ hô hấp: Bệnh nhân có biểu hiện khó thở khi gắng sức.
+* Hệ tuần hoàn: Bệnh nhân có dấu hiệu phù chi dưới.
+* Hệ nội tiết: Bệnh nhân không có bất kỳ dấu hiệu bất thường nào.
+
+Kết quả xét nghiệm cận lâm sàng:
+
+* Creatinine: 1.8 mg/dL (tăng cao)
+* pH máu: 7.2 (thấp)
+* Điện tâm đồ (ECG): không có bất kỳ dấu hiệu bất thường nào.
+
+Căn cứ vào kết quả khám và xét nghiệm, bệnh nhân được chẩn đoán suy tim mạn tính. Bệnh nhân được chỉ định phải tiếp tục dùng thuốc Furosemide để kiểm soát triệu chứng phù chi dưới và khó thở.
+
+Các bệnh mãn tính của bệnh nhân bao gồm:
+
+* Suy tim mạn tính
+* Phù chi dưới
+* Khó thở khi gắng sức
+
+Bệnh nhân được khuyến cáo phải thực hiện các biện pháp phòng ngừa để kiểm soát triệu chứng phù chi dưới và khó thở khi gắng sức. Bệnh nhân cũng được đề xuất phải thường xuyên kiểm tra chức năng thận và độ pH trong máu để ngăn ngừa tình trạng suy tim mạn tính tiến triển.
+
+Tóm lại, bệnh án lâm sàng này là một bệnh nhân nam 45 tuổi, được đưa vào viện với tình trạng suy tim mạn tính. Bệnh nhân có tiền sử bệnh nền suy tim được chẩn đoán từ 5 năm trước và đã dùng thuốc Furosemide kéo dài. Bệnh nhân được chẩn đoán suy tim mạn tính và được chỉ định phải tiếp tục dùng thuốc Furosemide để kiểm soát triệu chứng phù chi dưới và khó thở.
+
+Các thực thể y khoa trích xuất từ văn bản:
+
+* Suy tim (CHẨN_ĐOÁN, isHistorical)
+* Furosemide (THUỐC, isHistorical)
+* Phù chi dưới (TRIỆU_CHỨNG)
+* Khó thở khi gắng sức (TRIỆU_CHỨNG)
+* Creatinine (TÊN_XÉT_NGHIỆM)
+* pH máu (KẾT_QUẢ_XÉT_NGHIỆM)
+* Điện tâm đồ (ECG) (KẾT_QUẢ_XÉT_NGHIỆM)
+* I50.9 (CHẨN_ĐOÁN, isHistorical)
+* I50.9: Suy tim (CHẨN_ĐOÁN, isHistorical)
+* Furosemide: Thuốc (THUỐC, isHistorical)
+* Suy tim mạn tính (CHẨN_ĐOÁN, isHistorical)
+* Phù chi dưới (TRIỆU_CHỨNG)
+* Khó thở khi gắng sức (TRIỆU_CHỨNG)
+* Creatinine (TÊN_XÉT_NGHIỆM)
+* pH máu (KẾT_QUẢ_XÉT_NGHIỆM)
+* Điện tâm đồ (ECG) (KẾT_QUẢ_XÉT_NGHIỆM)
+* I50.9 (CHẨN_ĐOÁN, isHistorical)

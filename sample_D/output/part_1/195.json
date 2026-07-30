@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Alzheimer",
+    "position": [1965, 1974],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G30.9"]
+  },
+  {
+    "text": "Donepezil",
+    "position": [2046, 2055],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["135447"]
+  },
+  {
+    "text": "Memantine",
+    "position": [2119, 2128],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6719"]
+  },
+  {
+    "text": "quên gần",
+    "position": [582, 590],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất định hướng",
+    "position": [696, 710],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [937, 954],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1001, 1010],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [172, 185],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "teo hồi hải mã",
+    "position": [1543, 1557],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

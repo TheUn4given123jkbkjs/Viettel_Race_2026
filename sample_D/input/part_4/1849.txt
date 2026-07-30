@@ -1,0 +1,27 @@
+Bệnh lý thoát vị đĩa đệm (ICD-10: M51.2) là một tình trạng phổ biến gặp ở người lớn, đặc biệt là những người làm việc nặng nhọc hoặc có lối sống không lành mạnh. Tình trạng này xảy ra khi các đĩa đệm giữa các vertebrae bị hư hỏng và thoát ra ngoài, gây áp lực lên các dây thần kinh và gây đau đớn.
+
+Bệnh nhân trình bày với các triệu chứng đau lưng và đau lan chân, ảnh hưởng đến chất lượng cuộc sống. Để xác định chẩn đoán, chúng tôi đã tiến hành các xét nghiệm cận lâm sàng, bao gồm MRI và xét nghiệm máu. Kết quảMRI cho thấy sự hư hỏng của các đĩa đệm và dây thần kinh bị áp lực.
+
+Kết quả xét nghiệm máu cũng cho thấy sự tăng lên của các marker viêm và áp xe, xác định tình trạng bệnh lý.
+
+Bên cạnh đó, bệnh nhân cũng trình bày với tiền sử bệnh lý gia đình, bao gồm cha mẹ và anh chị em của bệnh nhân đều có tiền sử bệnh lý tương tự. Điều này cho thấy có thể có yếu tố di truyền trong bệnh lý này.
+
+Chúng tôi đã tư vấn cho bệnh nhân về các phương pháp điều trị, bao gồm can thiệp ngoại khoa và thay đổi lối sống. Tuy nhiên, chúng tôi không kê đơn thuốc, vì bệnh nhân được chỉ định phẫu thuật.
+
+Chẩn đoán chính xác của bệnh lý là Thoát vị đĩa đệm (ICD-10: M51.2), được xác định bởi các xét nghiệm cận lâm sàng và tiền sử bệnh lý của bệnh nhân.
+
+Triệu chứng của bệnh lý bao gồm đau lưng và đau lan chân, ảnh hưởng đến chất lượng cuộc sống. Kết quả xét nghiệm MRI cho thấy sự hư hỏng của các đĩa đệm và dây thần kinh bị áp lực.
+
+Tên xét nghiệm được sử dụng để xác định chẩn đoán là MRI, với kết quả cho thấy sự hư hỏng của các đĩa đệm và dây thần kinh bị áp lực.
+
+Kết quả xét nghiệm máu cũng cho thấy sự tăng lên của các marker viêm và áp xe, xác định tình trạng bệnh lý.
+
+Các thực thể được trích xuất từ văn bản gồm:
+
+- Thoát vị đĩa đệm (CHẨN_ĐOÁN)
+- đau lưng (TRIỆU_CHỨNG)
+- MRI (TÊN_XÉT_NGHIỆM)
+- kết quả MRI (KẾT_QUẢ_XÉT_NGHIỆM)
+- tiền sử bệnh lý gia đình (assertion: isFamily)
+- xét nghiệm máu (TRIỆU_CHỨNG)
+- kết quả xét nghiệm máu (KẾT_QUẢ_XÉT_NGHIỆM)

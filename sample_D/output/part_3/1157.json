@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm ruột thừa",
+    "position": [723, 737],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["K37"]
+  },
+  {
+    "text": "Viêm ruột thừa cấp",
+    "position": [1219, 1237],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả ECG",
+    "position": [364, 375],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Albumin 3,5 g/dL",
+    "position": [1293, 1309],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không đau đầu",
+    "position": [1337, 1350],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ bị đái tháo đường tuýp 2",
+    "position": [1369, 1399],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [1417, 1447],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

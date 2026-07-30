@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Rung nhĩ",
+    "position": [413, 421],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [541, 549],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "Rivaroxaban",
+    "position": [1268, 1279],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1114195"]
+  },
+  {
+    "text": "Bisoprolol",
+    "position": [1303, 1313],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19484"]
+  },
+  {
+    "text": "Nhịp tim bất thường",
+    "position": [980, 999],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp X-quang tim",
+    "position": [309, 325],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

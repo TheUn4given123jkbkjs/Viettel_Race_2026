@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [160, 181],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E10.9"]
+  },
+  {
+    "text": "Insulin Lispro",
+    "position": [230, 244],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["86009"]
+  },
+  {
+    "text": "khát nước nhiều",
+    "position": [640, 655],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu thường xuyên",
+    "position": [657, 674],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [688, 695],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "glucose máu",
+    "position": [98, 109],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [876, 881],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cholesterol LDL",
+    "position": [896, 911],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "250 mg/dL",
+    "position": [861, 870],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9%",
+    "position": [885, 887],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 mg/dL",
+    "position": [915, 924],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

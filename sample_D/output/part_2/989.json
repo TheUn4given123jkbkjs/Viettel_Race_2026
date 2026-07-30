@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Methimazole",
+    "position": [309, 320],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6835"]
+  },
+  {
+    "text": "Propylthiouracil",
+    "position": [821, 837],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8794"]
+  },
+  {
+    "text": "Nhịp tim nhanh",
+    "position": [1672, 1686],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kali",
+    "position": [638, 642],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Natri",
+    "position": [664, 669],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

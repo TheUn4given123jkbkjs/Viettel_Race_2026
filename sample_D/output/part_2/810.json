@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Hội chứng Hurler (MPS I)",
+    "position": [480, 504],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E76.0"]
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [759, 768],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "Azithromycin",
+    "position": [799, 811],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "khuôn mặt thô",
+    "position": [71, 84],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gan lách to",
+    "position": [86, 97],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

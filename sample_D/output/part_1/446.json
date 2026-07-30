@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Thoái hóa khớp gối",
+    "position": [1042, 1060],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "đau nhức và khó vận động",
+    "position": [49, 73],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang khớp gối",
+    "position": [548, 564],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dấu hiệu của thoái hóa khớp",
+    "position": [577, 604],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ có tiền sử đái tháo đường tuýp 2",
+    "position": [331, 369],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [373, 403],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

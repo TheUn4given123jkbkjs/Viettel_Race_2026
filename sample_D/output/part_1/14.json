@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Đái tháo đường type 2",
+    "position": [1856, 1877],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [274, 287],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Khát nước nhiều",
+    "position": [153, 168],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [1532, 1537],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.9%",
+    "position": [1539, 1543],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Metformin",
+    "position": [2350, 2359],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Gliclazide",
+    "position": [2438, 2448],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4816"]
+  },
+  {
+    "text": "Empagliflozin",
+    "position": [2511, 2524],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1545653"]
+  }
+]

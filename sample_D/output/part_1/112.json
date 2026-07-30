@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Béo phì",
+    "position": [0, 7],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E66.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [895, 908],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Orlistat",
+    "position": [1659, 1667],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["37925"]
+  },
+  {
+    "text": "Metformin",
+    "position": [1954, 1963],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "đường huyết",
+    "position": [1121, 1132],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6,5 mmol/L",
+    "position": [2666, 2676],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

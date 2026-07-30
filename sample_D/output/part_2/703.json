@@ -1,0 +1,51 @@
+[
+  {
+    "text": "tiêu chảy nhiễm trùng",
+    "position": [162, 183],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["A09.0"]
+  },
+  {
+    "text": "ORS",
+    "position": [121, 124],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["256"]
+  },
+  {
+    "text": "tiêu chảy cấp",
+    "position": [70, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy nhiễm trùng",
+    "position": [162, 183],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ORS",
+    "position": [121, 124],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["256"]
+  },
+  {
+    "text": "albumin",
+    "position": [513, 520],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "globulin",
+    "position": [541, 549],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

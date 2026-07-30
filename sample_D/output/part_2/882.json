@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Aspirin",
+    "position": [640, 647],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "đau ngực dữ dội",
+    "position": [48, 63],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin tăng cao",
+    "position": [452, 469],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

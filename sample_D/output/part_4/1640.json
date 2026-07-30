@@ -1,0 +1,44 @@
+[
+  {
+    "text": "viêm dạ dày",
+    "position": [412, 423],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "đau dạ dày",
+    "position": [10, 20],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó tiêu",
+    "position": [137, 145],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [337, 351],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm Helicobacter pylori",
+    "position": [436, 461],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [162, 189],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

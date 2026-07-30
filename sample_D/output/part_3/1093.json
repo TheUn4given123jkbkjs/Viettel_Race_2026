@@ -1,0 +1,44 @@
+[
+  {
+    "text": "buồn bã kéo dài",
+    "position": [104, 119],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sertraline",
+    "position": [1132, 1142],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["36437"]
+  },
+  {
+    "text": "Cholesterol",
+    "position": [1025, 1036],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Blood Sugar",
+    "position": [1058, 1069],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "200 mg/dL",
+    "position": [1039, 1048],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 mg/dL",
+    "position": [1072, 1081],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

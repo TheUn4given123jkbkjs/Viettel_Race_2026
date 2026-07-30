@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Tăng huyết áp vô căn",
+    "position": [1239, 1259],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Triệu chứng tăng huyết áp",
+    "position": [1262, 1287],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết áp systolic 160 mmHg",
+    "position": [1027, 1053],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết áp diastolic 100 mmHg",
+    "position": [1056, 1083],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin: 14,5 g/dL",
+    "position": [327, 348],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm máu",
+    "position": [300, 322],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [1239, 1252],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  }
+]

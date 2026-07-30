@@ -1,0 +1,100 @@
+[
+  {
+    "text": "Furosemide",
+    "position": [656, 666],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Spironolactone",
+    "position": [694, 708],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "Enalapril",
+    "position": [740, 749],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3827"]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [778, 788],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["20352"]
+  },
+  {
+    "text": "Digoxin",
+    "position": [818, 825],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  },
+  {
+    "text": "Sacubitril/Valsartan",
+    "position": [858, 878],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1656328"]
+  },
+  {
+    "text": "Suy tim mạn",
+    "position": [2032, 2043],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "Furosemide (Lasix)",
+    "position": [656, 674],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Spironolactone (Aldactone)",
+    "position": [694, 720],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Enalapril (Vasotec)",
+    "position": [740, 759],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Carvedilol (Coreg)",
+    "position": [778, 796],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Digoxin (Lanoxin)",
+    "position": [818, 835],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sacubitril/Valsartan (Entresto)",
+    "position": [858, 889],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy tim mạn (ICD-10: I50.9)",
+    "position": [2032, 2059],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I50.9"]
+  }
+]

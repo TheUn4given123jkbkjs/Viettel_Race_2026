@@ -1,0 +1,219 @@
+[
+  {
+    "text": "Mất ngủ",
+    "position": [2025, 2032],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G47.0"]
+  },
+  {
+    "text": "Zolpidem",
+    "position": [1860, 1868],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["39993"]
+  },
+  {
+    "text": "Melatonin",
+    "position": [1898, 1907],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6711"]
+  },
+  {
+    "text": "Hydroxyzine",
+    "position": [1936, 1947],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5553"]
+  },
+  {
+    "text": "Trazodone",
+    "position": [1977, 1986],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10737"]
+  },
+  {
+    "text": "Lo lắng",
+    "position": [2427, 2434],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mất ngủ mạn tính",
+    "position": [2025, 2041],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G47.0"]
+  },
+  {
+    "text": "Xét nghiệm huyết học",
+    "position": [1502, 1522],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm điện tâm đồ",
+    "position": [1649, 1671],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm sinh hóa",
+    "position": [1733, 1752],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm huyết học",
+    "position": [2833, 2861],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm điện tâm đồ",
+    "position": [2931, 2961],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm sinh hóa",
+    "position": [3031, 3058],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử bệnh lý",
+    "position": [974, 989],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh gan nhẹ",
+    "position": [1032, 1044],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh tim màng não ít lần",
+    "position": [1191, 1215],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử gia đình có người phụ nữ bị mất ngủ mạn tính",
+    "position": [1308, 1360],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gan",
+    "position": [3483, 3486],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tim",
+    "position": [3552, 3555],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiểu cầu",
+    "position": [3621, 3629],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin",
+    "position": [3695, 3705],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hematocrit",
+    "position": [3771, 3781],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đường máu",
+    "position": [3847, 3856],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết sắc tố",
+    "position": [3922, 3934],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Protein tổng hợp",
+    "position": [4000, 4016],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Caffeine",
+    "position": [4082, 4090],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rượu",
+    "position": [4153, 4157],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc lá",
+    "position": [4220, 4228],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cocaine",
+    "position": [4291, 4298],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lo lắng",
+    "position": [2427, 2434],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mất ngủ mạn tính",
+    "position": [2025, 2041],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G47.0"]
+  }
+]

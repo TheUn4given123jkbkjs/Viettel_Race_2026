@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Suy thận mạn",
+    "position": [85, 97],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N18.9"]
+  },
+  {
+    "text": "Erythropoietin",
+    "position": [823, 837],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["105694"]
+  },
+  {
+    "text": "Calcium Carbonate",
+    "position": [873, 890],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1897"]
+  },
+  {
+    "text": "Calcitriol",
+    "position": [894, 904],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1894"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [346, 353],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng chân tay",
+    "position": [355, 368],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng cân đột ngột",
+    "position": [372, 389],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ creatinine trong máu tăng cao",
+    "position": [551, 588],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

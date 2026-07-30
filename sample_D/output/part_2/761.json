@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Loạn dưỡng cơ Duchenne (G71.0)",
+    "position": [8, 38],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["G71.0"]
+  },
+  {
+    "text": "Loạn dưỡng cơ Duchenne",
+    "position": [8, 30],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "CK",
+    "position": [614, 616],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "2000 U/L",
+    "position": [618, 626],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Xe lăn",
+    "position": [644, 650],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

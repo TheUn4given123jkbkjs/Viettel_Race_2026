@@ -1,0 +1,58 @@
+[
+  {
+    "text": "suy hô hấp cấp",
+    "position": [215, 229],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["J96.0"]
+  },
+  {
+    "text": "thở máy",
+    "position": [269, 276],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "thở nhanh, khó thở và mệt mỏi",
+    "position": [134, 163],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vợ bệnh nhân có tiền sử tăng huyết áp",
+    "position": [349, 386],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [390, 411],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "pH: 7.35",
+    "position": [491, 499],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "pCO2: 40 mmHg",
+    "position": [501, 514],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "pO2: 60 mmHg",
+    "position": [516, 528],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

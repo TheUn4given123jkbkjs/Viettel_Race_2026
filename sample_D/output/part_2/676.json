@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Bệnh Parkinson",
+    "position": [613, 627],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G20"]
+  },
+  {
+    "text": "run khi nghỉ",
+    "position": [67, 79],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng cơ",
+    "position": [81, 88],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chậm vận động",
+    "position": [90, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Levodopa/Carbidopa",
+    "position": [681, 699],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["103990", "35206"]
+  },
+  {
+    "text": "Pramipexole",
+    "position": [703, 714],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["746741"]
+  },
+  {
+    "text": "Trihexyphenidyl",
+    "position": [901, 916],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10811"]
+  }
+]

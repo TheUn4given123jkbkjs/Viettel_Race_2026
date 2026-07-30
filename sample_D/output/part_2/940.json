@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Động kinh",
+    "position": [206, 215],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["G40.9"]
+  },
+  {
+    "text": "Valproate",
+    "position": [2046, 2055],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11118"]
+  },
+  {
+    "text": "co giật toàn thể",
+    "position": [2182, 2198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện não đồ",
+    "position": [3364, 3375],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cộng hưởng từ (MRI) não",
+    "position": [3578, 3606],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

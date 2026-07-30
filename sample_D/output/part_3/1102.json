@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Sỏi mật",
+    "position": [0, 7],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K80"]
+  },
+  {
+    "text": "đau hạ sườn phải",
+    "position": [599, 615],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [877, 884],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [1154, 1168],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm nước tiểu",
+    "position": [1174, 1194],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan",
+    "position": [2220, 2227],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn, nôn, sốt, và thay đổi màu sắc của phân hoặc nước tiểu",
+    "position": [617, 680],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phát hiện sự hiện diện của sỏi mật",
+    "position": [987, 1021],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

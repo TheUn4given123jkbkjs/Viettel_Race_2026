@@ -1,0 +1,58 @@
+Bệnh án lâm sàng: Bệnh nhân nữ, 65 tuổi, đến khám tại bệnh viện vì khó thở và mệt mỏi.
+
+Bệnh sử: Bệnh nhân có tiền sử tăng huyết áp 5 năm, đã mổ ruột thừa cách đây 2 năm và mắc bệnh hen suyễn 10 năm trước đó.
+
+Đánh giá tại bệnh viện: Bệnh nhân được khám xét nghiệm cận lâm sàng bao gồm:
+
+- Tính năng hô hấp: bệnh nhân có thể thở dễ dàng, không có dấu hiệu bất thường.
+
+- Xét nghiệm máu: kết quả xét nghiệm máu cho thấy bệnh nhân có mức độ glucose tăng cao và hemoglobin thấp.
+
+- Xét nghiệm hô hấp: kết quả xét nghiệm hô hấp cho thấy FEV1 giảm ở bệnh nhân, chỉ số này là 40% so với giá trị chuẩn.
+
+Chẩn đoán: Bệnh nhân bị COPD (phổi tắc nghẽn mạn tính) do giảm FEV1 và có tiền sử hút thuốc lá.
+
+Đánh giá: Bệnh nhân được chỉ định tham gia chương trình điều trị COPD và được kê đơn thuốc để cải thiện tình trạng.
+
+Tuy nhiên, bệnh nhân từ chối kê đơn thuốc và chỉ được chỉ định phẫu thuật để loại bỏ các cục máu đông trong phổi.
+
+Kết quả: Sau khi phẫu thuật, bệnh nhân đã có cải thiện đáng kể về tình trạng thở và không có dấu hiệu bất thường nào.
+
+Trước khi bệnh án được ghi nhận, bệnh nhân đã được khám và điều trị tại bệnh viện để giảm nhẹ triệu chứng và cải thiện tình trạng.
+
+Lưu ý: Bệnh án này là một phần trong chương trình nghiên cứu COPD và sẽ được tiếp tục theo dõi để đánh giá hiệu quả điều trị.
+
+
+entities:
+    
+    text: "Bệnh phổi tắc nghẽn mạn tính"
+    type: "CHẨN_ĐOÁN"
+    assertions: []
+
+    text: "FEV1 giảm"
+    type: "TRIỆU_CHỨNG"
+    assertions: []
+
+    text: "Tăng huyết áp"
+    type: "TRIỆU_CHỨNG"
+    assertions: []
+
+    text: "Mổ ruột thừa"
+    type: "TRIỆU_CHỨNG"
+    assertions: ["isHistorical"]
+
+    text: "Hen suyễn"
+    type: "TRIỆU_CHỨNG"
+    assertions: ["isHistorical"]
+
+    text: "Glucose tăng cao"
+    type: "KẾT_QUẢ_XÉT_NGHIỆM"
+    assertions: []
+
+    text: "Hemoglobin thấp"
+    type: "KẾT_QUẢ_XÉT_NGHIỆM"
+    assertions: []
+
+    text: "FEV1 40%"
+    type: "TÊN_XÉT_NGHIỆM"
+    assertions: []

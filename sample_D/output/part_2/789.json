@@ -1,0 +1,44 @@
+[
+  {
+    "text": "trào ngược dạ dày thực quản",
+    "position": [135, 162],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["K21.9"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [732, 742],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Domperidone",
+    "position": [1380, 1391],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3626"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [49, 57],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "nôn ói",
+    "position": [59, 65],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm máu và nước tiểu đều bình thường",
+    "position": [239, 290],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Alzheimer",
+    "position": [169, 178],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["G30.9"]
+  },
+  {
+    "text": "Donepezil",
+    "position": [601, 610],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["135447"]
+  },
+  {
+    "text": "Rivastigmine",
+    "position": [827, 839],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["183379"]
+  },
+  {
+    "text": "suy giảm chức năng não",
+    "position": [470, 492],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "albumin thấp hơn bình thường",
+    "position": [281, 309],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "triglycerides cao hơn bình thường",
+    "position": [369, 402],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "chụp CT não",
+    "position": [220, 231],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [202, 216],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

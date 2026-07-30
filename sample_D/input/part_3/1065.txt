@@ -1,0 +1,60 @@
+Bệnh nhân nữ, 35 tuổi, đến khám tại Bệnh viện Đa khoa với các triệu chứng như buồn nôn, khó chịu, đau bụng dưới, và thường xuyên cảm thấy mệt mỏi. Bệnh nhân trình bày rằng các triệu chứng này đã tồn tại trong 6 tháng qua và càng trở nên nghiêm trọng hơn trong thời gian gần đây. Bố bệnh nhân có tiền sử đái tháo đường tuýp 2 và mẹ bệnh nhân có tiền sử tăng huyết áp.
+
+Kết quả xét nghiệm cận lâm sàng:
+
+- Kết quả xét nghiệm máu: 
+ + Hemoglobin: 13,5 g/dL
+ + Máu cục: 7%
+ + CRP: 30 mg/L
+ - Kết quả xét nghiệm nước tiểu: 
+ + Protein: 1%
+ + Bạch cầu: 5-10 tế bào/mm³
+ + Nước tiểu: 1000-1500 mL/ngày
+
+Bệnh nhân được bác sĩ khám và kiểm tra. Sau đó, bác sĩ đưa ra xét nghiệm nội soi dạ dày và tìm thấy các dấu hiệu của Viêm dạ dày. Bác sĩ chẩn đoán bệnh là 'Viêm dạ dày' (ICD-10: K29.7).
+
+Để điều trị bệnh, bác sĩ đã chỉ định cho bệnh nhân uống thuốc Omeprazole 20mg/líu, 2 lần mỗi ngày, trong 2 tuần, và thuốc Aluminum Hydroxide 500mg/3 lần mỗi ngày, trong 2 tuần. Ngoài ra, bác sĩ cũng chỉ định cho bệnh nhân uống thuốc Rebamipide 100mg/líu, 3 lần mỗi ngày, trong 2 tuần.
+
+Bệnh nhân được chỉ định thực hiện các xét nghiệm cận lâm sàng sau:
+
+- Xét nghiệm máu: kiểm tra lại Hemoglobin, Máu cục, và CRP
+- Xét nghiệm nước tiểu: kiểm tra lại Protein, Bạch cầu, và nước tiểu
+
+Bác sĩ cũng tư vấn cho bệnh nhân về cách thức chăm sóc bản thân để giảm triệu chứng và cải thiện sức khỏe.
+
+Bệnh nhân được theo dõi và điều trị tại Bệnh viện Đa khoa. Sau 2 tuần điều trị, bệnh nhân đã thấy cải thiện về triệu chứng. Bác sĩ tiếp tục theo dõi và điều chỉnh thuốc theo nhu cầu của bệnh nhân.
+
+Vào ngày thứ 14, bệnh nhân đã xuất hiện trở lại tại bệnh viện để được kiểm tra lại. Bác sĩ khám và kiểm tra bệnh nhân thấy rằng bệnh nhân đã có dấu hiệu cải thiện về triệu chứng. Bác sĩ tiếp tục chỉ định cho bệnh nhân uống thuốc Omeprazole và Aluminum Hydroxide, và cũng chỉ định cho bệnh nhân uống thuốc Rebamipide trong 2 tuần nữa.
+
+Bệnh nhân được bác sĩ tư vấn về cách thức chăm sóc bản thân để duy trì sức khỏe và tránh tái phát bệnh.
+
+Kết quả xét nghiệm cận lâm sàng sau 2 tuần điều trị:
+
+- Kết quả xét nghiệm máu: 
+ + Hemoglobin: 14,5 g/dL
+ + Máu cục: 3%
+ + CRP: 15 mg/L
+ - Kết quả xét nghiệm nước tiểu: 
+ + Protein: 1%
+ + Bạch cầu: 5-10 tế bào/mm³
+ + Nước tiểu: 1000-1500 mL/ngày
+
+Bác sĩ đánh giá kết quả xét nghiệm và thấy rằng bệnh nhân đã có dấu hiệu cải thiện về triệu chứng. Bác sĩ kết luận rằng bệnh nhân đã được điều trị thành công và không cần tiếp tục điều trị.
+
+Bệnh nhân được bác sĩ tư vấn về cách thức chăm sóc bản thân để duy trì sức khỏe và tránh tái phát bệnh.
+
+Chẩn đoán bệnh: Viêm dạ dày (ICD-10: K29.7)
+
+Thực thể trích xuất:
+
+- Viêm dạ dày (CHẨN_ĐOÁN)
+- Omeprazole (THUỐC)
+- Aluminum Hydroxide (THUỐC)
+- Rebamipide (THUỐC)
+- Bố bệnh nhân (isFamily)
+- Mẹ bệnh nhân (isFamily)
+- Hemoglobin (TÊN_XÉT_NGHIỆM)
+- Máu cục (TÊN_XÉT_NGHIỆM)
+- CRP (TÊN_XÉT_NGHIỆM)
+- Protein (TÊN_XÉT_NGHIỆM)
+- Bạch cầu (TÊN_XÉT_NGHIỆM)

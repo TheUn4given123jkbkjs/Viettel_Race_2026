@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [207, 220],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [357, 370],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đau đầu",
+    "position": [582, 589],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [113, 122],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [1585, 1606],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6.2 mmol/L",
+    "position": [1607, 1617],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [1992, 2002],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Perindopril",
+    "position": [2029, 2040],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["54552"]
+  },
+  {
+    "text": "Losartan",
+    "position": [2519, 2527],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["52175"]
+  }
+]

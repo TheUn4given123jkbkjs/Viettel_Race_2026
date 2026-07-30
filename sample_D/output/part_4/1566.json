@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm phế quản cấp",
+    "position": [0, 17],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["J20.9"]
+  },
+  {
+    "text": "kháng sinh",
+    "position": [792, 802],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [617, 631],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng số lượng tế bào trắng",
+    "position": [929, 955],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ",
+    "position": [1412, 1417],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [1429, 1443],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

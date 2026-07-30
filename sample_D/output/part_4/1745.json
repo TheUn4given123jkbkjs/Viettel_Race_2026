@@ -1,0 +1,65 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [306, 319],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đau thượng vị",
+    "position": [687, 700],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nóng rát",
+    "position": [716, 724],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầy bụng",
+    "position": [881, 889],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [901, 909],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi dạ dày tá tràng",
+    "position": [2123, 2146],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Test nhanh urease",
+    "position": [2300, 2317],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dương tính mạnh",
+    "position": [2330, 2345],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày",
+    "position": [2387, 2398],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K29.7"]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Bệnh Parkinson",
+    "position": [1607, 1621],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G20"]
+  },
+  {
+    "text": "run khi nghỉ",
+    "position": [460, 472],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng cơ",
+    "position": [572, 579],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chậm vận động",
+    "position": [692, 705],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Levodopa/Carbidopa",
+    "position": [1793, 1811],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["103990", "35206"]
+  },
+  {
+    "text": "Pramipexole",
+    "position": [1901, 1912],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["746741"]
+  },
+  {
+    "text": "Trihexyphenidyl",
+    "position": [1998, 2013],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10811"]
+  },
+  {
+    "text": "cộng hưởng từ sọ não",
+    "position": [1218, 1238],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm tập trung chất vận chuyển Dopamine",
+    "position": [1433, 1472],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

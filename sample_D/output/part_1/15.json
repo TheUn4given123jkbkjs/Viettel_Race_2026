@@ -1,0 +1,83 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [330, 337],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức hạ sườn phải",
+    "position": [198, 218],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [220, 227],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm gan B mạn",
+    "position": [2176, 2190],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B18.0", "B18.1"]
+  },
+  {
+    "text": "HBV DNA",
+    "position": [1810, 1817],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "850.000 IU/mL",
+    "position": [1819, 1832],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST 85 U/L",
+    "position": [1650, 1660],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT 110 U/L",
+    "position": [1668, 1679],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tenofovir",
+    "position": [2351, 2360],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2003201",
+      "2003222",
+      "117466"
+    ]
+  },
+  {
+    "text": "Entecavir",
+    "position": [2441, 2450],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["306266"]
+  },
+  {
+    "text": "Peginterferon alfa-2a",
+    "position": [2707, 2728],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["120608"]
+  }
+]

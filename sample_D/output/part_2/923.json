@@ -1,0 +1,44 @@
+[
+  {
+    "text": "viêm họng",
+    "position": [80, 89],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J02.9"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [774, 785],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [811, 822],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "đau họng",
+    "position": [147, 155],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nuốt đau",
+    "position": [157, 165],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [616, 630],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

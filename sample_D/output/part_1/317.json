@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [612, 633],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E10.9"]
+  },
+  {
+    "text": "Insulin Lispro",
+    "position": [689, 703],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["86009"]
+  },
+  {
+    "text": "Insulin Glargine",
+    "position": [707, 723],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["274783"]
+  },
+  {
+    "text": "uống nhiều nước",
+    "position": [85, 100],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu nhiều",
+    "position": [102, 112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1495, 1512],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

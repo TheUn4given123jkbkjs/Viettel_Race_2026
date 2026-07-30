@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [1810, 1831],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E10.9"]
+  },
+  {
+    "text": "tiền sử viêm tuyến giáp tự miễn Hashimoto",
+    "position": [620, 661],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E06.3"]
+  },
+  {
+    "text": "khát nước dữ dội",
+    "position": [274, 290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu nhiều lần",
+    "position": [332, 346],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụt cân nhanh",
+    "position": [174, 187],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [1499, 1504],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "11.2%",
+    "position": [1506, 1511],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Insulin Glargine",
+    "position": [1936, 1952],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["274783"]
+  },
+  {
+    "text": "Insulin Lispro",
+    "position": [1987, 2001],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["86009"]
+  },
+  {
+    "text": "Glucagon",
+    "position": [2432, 2440],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4832"]
+  }
+]

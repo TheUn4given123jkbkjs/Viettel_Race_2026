@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Valproate",
+    "position": [983, 992],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["11118"]
+  },
+  {
+    "text": "Lamotrigine",
+    "position": [1153, 1164],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["28439"]
+  },
+  {
+    "text": "Levetiracetam",
+    "position": [1323, 1336],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["114477"]
+  },
+  {
+    "text": "Đau đầu nhẹ",
+    "position": [774, 785],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy giảm thị lực tạm thời",
+    "position": [788, 813],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy giảm khả năng tập trung",
+    "position": [816, 843],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

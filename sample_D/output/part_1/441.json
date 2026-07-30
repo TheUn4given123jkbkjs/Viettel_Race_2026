@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Trào ngược dạ dày thực quản",
+    "position": [49, 76],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K21.9"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [121, 131],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "ợ nóng",
+    "position": [366, 372],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó nuốt",
+    "position": [374, 382],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [384, 392],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [394, 402],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

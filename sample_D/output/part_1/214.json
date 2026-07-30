@@ -1,0 +1,67 @@
+[
+  {
+    "text": "Lao phổi",
+    "position": [960, 968],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
+  },
+  {
+    "text": "Isoniazid",
+    "position": [720, 729],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "214662",
+      "814321"
+    ]
+  },
+  {
+    "text": "Rifampicin",
+    "position": [731, 741],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9384"]
+  },
+  {
+    "text": "Pyrazinamide",
+    "position": [743, 755],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "214662",
+      "214662",
+      "8987"
+    ]
+  },
+  {
+    "text": "Ethambutol",
+    "position": [759, 769],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "214662",
+      "814321"
+    ]
+  },
+  {
+    "text": "BK đờm dương tính",
+    "position": [536, 553],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử mắc bệnh lao phổi",
+    "position": [309, 334],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

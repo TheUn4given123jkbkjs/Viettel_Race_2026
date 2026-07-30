@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Viêm khớp dạng thấp",
+    "position": [1410, 1429],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M06.9"]
+  },
+  {
+    "text": "Methotrexate",
+    "position": [1893, 1905],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6851"]
+  },
+  {
+    "text": "Hydroxychloroquine",
+    "position": [1943, 1961],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5521"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [2069, 2081],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "sưng đau khớp",
+    "position": [1222, 1235],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [462, 470],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [558, 571],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "RF",
+    "position": [759, 761],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính",
+    "position": [781, 791],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

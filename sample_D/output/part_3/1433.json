@@ -1,0 +1,65 @@
+[
+  {
+    "text": "bệnh tăng huyết áp",
+    "position": [270, 288],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [909, 919],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Losartan",
+    "position": [921, 929],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["52175"]
+  },
+  {
+    "text": "Perindopril",
+    "position": [931, 942],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["54552"]
+  },
+  {
+    "text": "Telmisartan",
+    "position": [944, 955],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["73494"]
+  },
+  {
+    "text": "Hydrochlorothiazide",
+    "position": [957, 976],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5487"]
+  },
+  {
+    "text": "Nifedipine",
+    "position": [978, 988],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7417"]
+  },
+  {
+    "text": "áp lực máu cao",
+    "position": [137, 151],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim",
+    "position": [220, 228],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

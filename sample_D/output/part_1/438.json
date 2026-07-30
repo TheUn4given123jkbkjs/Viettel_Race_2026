@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Cường giáp",
+    "position": [5, 15],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E05.9"]
+  },
+  {
+    "text": "Methimazole",
+    "position": [1502, 1513],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6835"]
+  },
+  {
+    "text": "Propranolol",
+    "position": [1678, 1689],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8787"]
+  },
+  {
+    "text": "run tay",
+    "position": [333, 340],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "position": [342, 356],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "hen phế quản",
+    "position": [26, 38],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [1120, 1130],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Montelukast",
+    "position": [1172, 1183],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["88249"]
+  },
+  {
+    "text": "khò khè",
+    "position": [84, 91],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [93, 100],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phổi",
+    "position": [706, 710],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tế bào hồng cầu",
+    "position": [762, 777],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "protein trong nước tiểu",
+    "position": [821, 844],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "khí chức năng",
+    "position": [873, 886],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

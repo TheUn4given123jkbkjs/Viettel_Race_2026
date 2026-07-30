@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Rung nhĩ",
+    "position": [1070, 1078],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "hồi hộp",
+    "position": [383, 390],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loạn nhịp hoàn toàn",
+    "position": [720, 739],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rivaroxaban",
+    "position": [1572, 1583],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1114195"]
+  },
+  {
+    "text": "Bisoprolol",
+    "position": [1603, 1613],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19484"]
+  },
+  {
+    "text": "Amiodarone",
+    "position": [1641, 1651],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["703"]
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [965, 976],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "INR",
+    "position": [1103, 1106],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1.1",
+    "position": [1110, 1113],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

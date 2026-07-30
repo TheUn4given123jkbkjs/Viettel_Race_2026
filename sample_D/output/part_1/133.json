@@ -1,0 +1,44 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [319, 327],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [699, 707],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "Bisoprolol",
+    "position": [723, 733],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19484"]
+  },
+  {
+    "text": "Digoxin",
+    "position": [759, 766],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [812, 829],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [79, 99],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

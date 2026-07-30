@@ -1,0 +1,30 @@
+[
+  {
+    "text": "suy hô hấp cấp",
+    "position": [469, 483],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J96.0"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [598, 611],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Fentanyl",
+    "position": [626, 634],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4337"]
+  },
+  {
+    "text": "Midazolam",
+    "position": [650, 659],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6960"]
+  }
+]

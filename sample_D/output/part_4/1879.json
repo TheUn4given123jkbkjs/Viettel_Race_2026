@@ -1,0 +1,76 @@
+[
+  {
+    "text": "COPD",
+    "position": [62, 66],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J44.9"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [164, 174],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["435"]
+  },
+  {
+    "text": "FEV1",
+    "position": [800, 804],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "O xy trong máu",
+    "position": [914, 928],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính",
+    "position": [1004, 1032],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J44",
+      "J44.0",
+      "J44.1"
+    ]
+  },
+  {
+    "text": "thuốc *****",
+    "position": [1795, 1806],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [293, 314],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [359, 372],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "thuốc Salbutamol",
+    "position": [158, 174],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bệnh tim mạch",
+    "position": [419, 432],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

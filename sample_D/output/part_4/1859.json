@@ -1,0 +1,58 @@
+[
+  {
+    "text": "viêm dạ dày",
+    "position": [87, 98],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "phềnnhyn buồn nôn",
+    "position": [1276, 1293],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày (ICD-10: K29.7)",
+    "position": [1075, 1102],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "Huyết học",
+    "position": [833, 842],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày mạn tính",
+    "position": [273, 293],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm HP",
+    "position": [296, 304],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi dạ dày",
+    "position": [307, 321],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh viện Đại học Y Dược",
+    "position": [223, 247],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

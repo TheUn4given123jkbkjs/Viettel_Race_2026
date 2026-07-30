@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Bilirubin",
+    "position": [421, 430],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [482, 485],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [536, 539],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xơ gan",
+    "position": [671, 677],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K74.6"]
+  }
+]

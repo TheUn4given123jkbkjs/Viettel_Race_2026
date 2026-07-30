@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Bệnh Parkinson",
+    "position": [0, 14],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G20"]
+  },
+  {
+    "text": "Levodopa/Carbidopa",
+    "position": [944, 962],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["103990", "35206"]
+  },
+  {
+    "text": "Pramipexole",
+    "position": [1389, 1400],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["746741"]
+  },
+  {
+    "text": "Trihexyphenidyl",
+    "position": [1404, 1419],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10811"]
+  },
+  {
+    "text": "Entacapone",
+    "position": [1574, 1584],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["60307"]
+  },
+  {
+    "text": "Rasagiline",
+    "position": [1588, 1598],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["134748"]
+  },
+  {
+    "text": "run khi nghỉ",
+    "position": [185, 197],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng cơ",
+    "position": [199, 206],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chậm vận động",
+    "position": [208, 221],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm não bộ",
+    "position": [570, 584],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

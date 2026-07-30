@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Hội chứng Down (Trisomy 21)",
+    "position": [567, 594],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["Q90.9"]
+  },
+  {
+    "text": "Mercaptopurine",
+    "position": [811, 825],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["103"]
+  },
+  {
+    "text": "Magnesium sulfate",
+    "position": [1097, 1114],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6585"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1588, 1601],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Metformin",
+    "position": [1779, 1788],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Cycloserine",
+    "position": [2005, 2016],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3007"]
+  },
+  {
+    "text": "Chậm phát triển",
+    "position": [3098, 3113],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nhiễm sắc thể",
+    "position": [3468, 3492],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gan tăng nhẹ",
+    "position": [4254, 4266],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bình thường",
+    "position": [4346, 4357],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

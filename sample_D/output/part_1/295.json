@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Viêm dạ dày",
+    "position": [743, 754],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "đau thượng vị",
+    "position": [172, 185],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ợ hơi",
+    "position": [288, 293],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [557, 565],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [640, 654],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "niêm mạc hang vị xung huyết dạng chấm",
+    "position": [673, 710],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [1938, 1950],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["283742"]
+  },
+  {
+    "text": "Rebamipide",
+    "position": [2028, 2038],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32463"]
+  },
+  {
+    "text": "Aluminum Hydroxide",
+    "position": [2200, 2218],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1009149"]
+  }
+]

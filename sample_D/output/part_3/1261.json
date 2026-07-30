@@ -1,0 +1,72 @@
+[
+  {
+    "text": "xơ gan",
+    "position": [464, 470],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K74.6"]
+  },
+  {
+    "text": "Spironolactone",
+    "position": [797, 811],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [120, 127],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nổi mụn nước",
+    "position": [129, 141],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [143, 150],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1044, 1053],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Lactulose",
+    "position": [825, 834],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6218"]
+  },
+  {
+    "text": "xét nghiệm chức năng gan",
+    "position": [619, 643],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm gan",
+    "position": [645, 656],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ bilirubin trong máu cao",
+    "position": [1651, 1682],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "sốt cao",
+    "position": [58, 65],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt xuất huyết Dengue",
+    "position": [845, 866],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["A91"]
+  },
+  {
+    "text": "giảm tiểu cầu",
+    "position": [380, 393],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thoát huyết tương",
+    "position": [645, 662],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm công thức máu",
+    "position": [473, 497],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kháng thể chống lại virus Dengue",
+    "position": [722, 754],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

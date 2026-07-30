@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Levothyroxine",
+    "position": [196, 209],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["10582"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [48, 55],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng cân",
+    "position": [57, 65],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khô da",
+    "position": [69, 75],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "TSH",
+    "position": [391, 394],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "4,2 mU/L",
+    "position": [412, 420],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

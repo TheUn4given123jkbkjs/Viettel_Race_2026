@@ -1,0 +1,58 @@
+[
+  {
+    "text": "viêm phổi tái phát nhiều lần",
+    "position": [387, 415],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "yếu cơ gốc chi tiến triển",
+    "position": [707, 732],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dấu hiệu Gowers dương tính",
+    "position": [1078, 1104],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatine Kinase (CK)",
+    "position": [1664, 1684],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12500 U/L",
+    "position": [1699, 1708],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loạn dưỡng cơ Duchenne",
+    "position": [2029, 2051],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G71.0"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [2311, 2323],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Deflazacort",
+    "position": [2364, 2375],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["22396"]
+  }
+]

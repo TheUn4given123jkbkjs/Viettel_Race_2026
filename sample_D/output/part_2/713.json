@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Nhược cơ (Myasthenia Gravis)",
+    "position": [140, 168],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["G70.0"]
+  },
+  {
+    "text": "Pyridostigmine",
+    "position": [335, 349],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9000"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [351, 363],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Azathioprine",
+    "position": [367, 379],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1256"]
+  },
+  {
+    "text": "yếu cơ giao động",
+    "position": [247, 263],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụp mi",
+    "position": [237, 243],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng hoạt tính enzyme acetylcholinesterase",
+    "position": [686, 728],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm nồng độ immunoglobulin G",
+    "position": [732, 761],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "IVIG",
+    "position": [1529, 1533],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2645007"]
+  }
+]

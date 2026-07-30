@@ -1,0 +1,58 @@
+[
+  {
+    "text": "bệnh Gaucher",
+    "position": [43, 55],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E75.22"]
+  },
+  {
+    "text": "Imiglucerase",
+    "position": [633, 645],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["84959"]
+  },
+  {
+    "text": "Miglustat",
+    "position": [950, 959],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["402316"]
+  },
+  {
+    "text": "thiếu men glucocerebrosidase",
+    "position": [199, 227],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lách to",
+    "position": [255, 262],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau xương",
+    "position": [477, 486],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm cận lâm sàng",
+    "position": [94, 117],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ enzym glucocerebrosidase",
+    "position": [1015, 1047],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

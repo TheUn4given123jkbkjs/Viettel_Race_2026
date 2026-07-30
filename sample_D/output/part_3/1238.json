@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [237, 271],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I25.9"]
+  },
+  {
+    "text": "Aspirin",
+    "position": [526, 533],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "đau thắt ngực",
+    "position": [877, 890],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T hs",
+    "position": [2163, 2176],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "14 ng/L",
+    "position": [2178, 2185],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [611, 624],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  }
+]

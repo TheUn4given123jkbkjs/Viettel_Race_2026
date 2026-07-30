@@ -1,0 +1,41 @@
+[
+  {
+    "text": "rối loạn lipid máu",
+    "position": [453, 471],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1078, 1090],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "cholesterol",
+    "position": [61, 72],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "triglyceride",
+    "position": [78, 90],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "statin",
+    "position": [956, 962],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "83367",
+      "34482",
+      "7597"
+    ]
+  }
+]

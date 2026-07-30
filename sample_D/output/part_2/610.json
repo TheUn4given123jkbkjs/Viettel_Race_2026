@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Sỏi mật",
+    "position": [1154, 1161],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["K80"]
+  },
+  {
+    "text": "Ursodeoxycholic acid",
+    "position": [486, 506],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11065"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [612, 623],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Siêu âm bụng",
+    "position": [274, 286],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [1291, 1309],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm họng cấp",
+    "position": [526, 539],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J02.9"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [121, 132],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Viêm họng (ICD-10: J02.9)",
+    "position": [155, 180],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J02.9"]
+  },
+  {
+    "text": "J02.9",
+    "position": [174, 179],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nuốt đau",
+    "position": [57, 65],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm họng",
+    "position": [155, 164],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["J02.9"]
+  }
+]

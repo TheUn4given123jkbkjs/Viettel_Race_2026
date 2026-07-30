@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Viêm dạ dày",
+    "position": [358, 369],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [448, 458],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Aluminum Hydroxide",
+    "position": [506, 524],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1009149"]
+  },
+  {
+    "text": "Rebamipide",
+    "position": [564, 574],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32463"]
+  },
+  {
+    "text": "Bismuth",
+    "position": [639, 646],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1599"]
+  },
+  {
+    "text": "H. pylori",
+    "position": [679, 688],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [1107, 1121],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [1175, 1195],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước bọt",
+    "position": [1236, 1255],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

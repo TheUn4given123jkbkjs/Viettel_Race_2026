@@ -1,0 +1,69 @@
+[
+  {
+    "text": "đau thượng vị",
+    "position": [489, 502],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đầy bụng",
+    "position": [381, 389],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ợ chua",
+    "position": [401, 407],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sụt cân",
+    "position": [824, 831],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loét dạ dày",
+    "position": [2516, 2527],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
+  },
+  {
+    "text": "xuất huyết tiêu hóa",
+    "position": [2575, 2594],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [3020, 3032],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["283742"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [3090, 3101],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Clarithromycin",
+    "position": [3157, 3171],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["21212"]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "ung thư phổi",
+    "position": [1020, 1032],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["C34.9"]
+  },
+  {
+    "text": "ho ra máu",
+    "position": [763, 772],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "CT ngực",
+    "position": [1275, 1282],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho ra máu kéo dài 1 tháng",
+    "position": [763, 788],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI",
+    "position": [1381, 1384],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "C34.9",
+    "position": [1517, 1522],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10/02/2023",
+    "position": [736, 746],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

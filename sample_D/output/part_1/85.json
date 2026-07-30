@@ -1,0 +1,51 @@
+[
+  {
+    "text": "buồn bã kéo dài",
+    "position": [216, 231],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [730, 737],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trầm cảm",
+    "position": [2066, 2074],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F32.9"]
+  },
+  {
+    "text": "Sertraline",
+    "position": [2115, 2125],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36437"]
+  },
+  {
+    "text": "Mirtazapine",
+    "position": [2160, 2171],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["15996"]
+  },
+  {
+    "text": "Test trầm cảm Hamilton",
+    "position": [1931, 1953],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điểm 28",
+    "position": [1955, 1962],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

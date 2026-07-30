@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Giảm gammaglobulin di truyền (Bruton)",
+    "position": [1276, 1313],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D80.0"]
+  },
+  {
+    "text": "Amoxicillin / Clavulanic acid",
+    "position": [1088, 1117],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19711"]
+  },
+  {
+    "text": "Riboflavin",
+    "position": [1137, 1147],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9346"]
+  },
+  {
+    "text": "Sốt, đau đầu, buồn nôn",
+    "position": [2606, 2628],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gammaglobulin giảm, T-lymphocyte giảm",
+    "position": [667, 704],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu, xét nghiệm nước tiểu, xét nghiệm tai, xét nghiệm tim mạch",
+    "position": [2826, 2899],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

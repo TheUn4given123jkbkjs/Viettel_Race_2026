@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Phenylketonuria (PKU)",
+    "position": [234, 255],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E70.0"]
+  },
+  {
+    "text": "Sapropterin",
+    "position": [289, 300],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["753340"]
+  },
+  {
+    "text": "sàng lọc sơ sinh",
+    "position": [336, 352],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chế độ ăn đặc biệt",
+    "position": [356, 374],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [461, 482],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [503, 516],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "1500",
+    "position": [686, 690],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mcg/dL",
+    "position": [691, 697],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

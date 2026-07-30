@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Loét dạ dày",
+    "position": [1646, 1657],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
+  },
+  {
+    "text": "đau thượng vị",
+    "position": [48, 61],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loét dạ dày tá tràng",
+    "position": [1646, 1666],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K27.9"]
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [497, 511],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [284, 298],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh loét dạ dày tá tràng",
+    "position": [1604, 1629],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K27.9"]
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [816, 826],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

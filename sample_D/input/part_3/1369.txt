@@ -1,0 +1,73 @@
+Bệnh nhân nữ, 42 tuổi, đến khám tại phòng khám vì đau khi đi lại và cứng khớp gối. Sau khi hỏi han tiền sử bệnh lý, bệnh nhân cho biết đã có bệnh này trong 5 năm qua và đã được điều trị một số lần nhưng chưa thấy cải thiện.
+
+Đo khám:
+
+- Khối lượng khớp gối bình thường
+- Đau khi di chuyển, đặc biệt là khi đi lại, giảm dần khi nghỉ ngơi
+- Chức năng khớp gối bình thường
+
+Xét nghiệm:
+
+- Xét nghiệm máu: 
+  - Hàm lượng albumin máu thấp (30%)
+  - Hàm lượng globulin máu cao (40%)
+- Xét nghiệm sinh học:
+  - Hàm lượng glucose máu bình thường
+  - Hàm lượng lipid máu tăng nhẹ
+
+Kết quả:
+
+- Khớp gối có dấu hiệu tổn thương khớp
+- Chức năng khớp gối giảm nhẹ
+
+Chẩn đoán: Thoái hóa khớp gối (ICD-10: M17.9)
+
+Đơn thuốc:
+
+- Paracetamol 1gr, 3-4 lần/ngày
+- Meloxicam 15mg, 1 lần/ngày
+- Glucosamine 500mg, 2 lần/ngày
+- Hyaluronic acid 20mg, 1 lần/ngày
+
+Yêu cầu: Bác sĩ cần theo dõi chặt chẽ tình trạng bệnh nhân và điều chỉnh đơn thuốc nếu cần thiết.
+
+Lưu ý: Bệnh nhân cần tránh các hoạt động gây hại cho khớp gối, chẳng hạn như chạy bộ, nhảy múa, hoặc chơi thể thao.
+
+Bệnh lý: 
+Thoái hóa khớp gối là một bệnh lý phổ biến ở tuổi trung niên và già. Bệnh này gây đau, cứng khớp, và giảm chức năng khớp.
+
+Triệu chứng: 
+Bệnh nhân có thể gặp các triệu chứng sau:
+
+- Đau khi đi lại
+- Cứng khớp gối
+- Giảm chức năng khớp gối
+
+Xét nghiệm cận lâm sàng: 
+Bác sĩ có thể thực hiện các xét nghiệm sau để chẩn đoán và theo dõi bệnh nhân:
+
+- Xét nghiệm máu
+- Xét nghiệm sinh học
+- Xét nghiệm hình ảnh (quay X-quang hoặc siêu âm)
+
+Kết quả xét nghiệm: 
+Bác sĩ cần xem xét kết quả xét nghiệm để có thể chẩn đoán và điều trị bệnh nhân một cách chính xác.
+
+Bệnh lý khác: 
+Bệnh nhân cần tránh các bệnh lý khác có thể ảnh hưởng đến khớp gối, chẳng hạn như viêm khớp, thoát vị khớp, hoặc tổn thương cơ.
+
+Lưu ý quan trọng: Bác sĩ cần theo dõi chặt chẽ tình trạng bệnh nhân và điều chỉnh đơn thuốc nếu cần thiết. Bệnh nhân cũng cần tránh các hoạt động gây hại cho khớp gối để ngăn ngừa tình trạng bệnh nặng hơn.
+
+Danh mục thuốc gợi ý:
+- Paracetamol
+- Meloxicam
+- Celecoxib
+- Glucosamine
+- Hyaluronic acid
+
+Yêu cầu đầu ra bắt buộc:
+- Đầu ra phải là một đối tượng JSON chuẩn
+- Đầu ra phải có chuỗi văn bản y khoa thô dài từ 600-900 từ
+- Đầu ra phải có tối đa 10 thực thể trích xuất chính xác 100%
+- Đầu ra phải có các thuộc tính như 'type', 'text', 'assertions' cho mỗi thực thể
+- Đầu ra phải không tự tạo nhãn mới

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [716, 737],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E10.9"]
+  },
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [716, 737],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["E10.9"]
+  },
+  {
+    "text": "Đau đầu",
+    "position": [252, 259],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sốt",
+    "position": [282, 285],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Mệt mỏi",
+    "position": [308, 315],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Buồn nôn",
+    "position": [964, 972],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [716, 737],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Loạn dưỡng cơ Duchenne",
+    "position": [65, 87],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["G71.0"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [171, 183],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "yếu cơ tiến triển",
+    "position": [273, 290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xe lăn",
+    "position": [351, 357],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng cân",
+    "position": [1327, 1335],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

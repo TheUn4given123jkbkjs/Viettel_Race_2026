@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Nhồi máu cơ tim cấp",
+    "position": [483, 502],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
+  },
+  {
+    "text": "Aspirin",
+    "position": [554, 561],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [563, 574],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "Nitroglycerin",
+    "position": [578, 591],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["4917"]
+  },
+  {
+    "text": "Morphine",
+    "position": [1361, 1369],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["7052"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1276, 1284],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực dữ dội",
+    "position": [791, 806],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "position": [187, 201],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [36, 43],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "da khô",
+    "position": [161, 167],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

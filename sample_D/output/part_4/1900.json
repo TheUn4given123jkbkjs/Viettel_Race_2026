@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Sertraline",
+    "position": [1016, 1026],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36437"]
+  },
+  {
+    "text": "Escitalopram",
+    "position": [1028, 1040],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["321988"]
+  },
+  {
+    "text": "Buspirone",
+    "position": [1042, 1051],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1827"]
+  },
+  {
+    "text": "Alprazolam",
+    "position": [1053, 1063],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["596"]
+  },
+  {
+    "text": "Hydroxyzine",
+    "position": [1068, 1079],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5553"]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đột quỵ não",
+    "position": [476, 487],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I64"]
+  },
+  {
+    "text": "liệt nửa người",
+    "position": [58, 72],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [142, 155],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "CT scan",
+    "position": [636, 643],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương ở vùng não chịu trách nhiệm về ngôn ngữ và vận động",
+    "position": [723, 785],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng mức cholesterol trong máu",
+    "position": [1683, 1713],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

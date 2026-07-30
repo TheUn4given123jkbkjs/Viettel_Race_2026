@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Suy hô hấp cấp",
+    "position": [688, 702],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J96.0"]
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [729, 742],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Epinephrine",
+    "position": [767, 778],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3992", "107602"]
+  },
+  {
+    "text": "Midazolam",
+    "position": [804, 813],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6960"]
+  },
+  {
+    "text": "Fentanyl",
+    "position": [837, 845],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4337"]
+  },
+  {
+    "text": "88%",
+    "position": [257, 260],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "38 độ C",
+    "position": [282, 289],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thở khò khè",
+    "position": [46, 57],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [79, 82],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

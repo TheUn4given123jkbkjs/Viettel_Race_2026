@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Béo phì",
+    "position": [591, 598],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E66.9"]
+  },
+  {
+    "text": "Orlistat",
+    "position": [773, 781],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["37925"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [944, 957],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [961, 982],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Béo phì",
+    "position": [591, 598],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E66.9"]
+  },
+  {
+    "text": "gan nhiễm mỡ độ II",
+    "position": [2215, 2233],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K76.0"]
+  },
+  {
+    "text": "Glucose huyết thanh lúc đói",
+    "position": [2010, 2037],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol toàn phần",
+    "position": [2054, 2075],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triglyceride",
+    "position": [2103, 2115],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

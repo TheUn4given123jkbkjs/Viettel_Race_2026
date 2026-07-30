@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Viêm dạ dày",
+    "position": [1743, 1754],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "Triệu chứng",
+    "position": [1769, 1780],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm axit dạ dày",
+    "position": [1052, 1074],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm axit dạ dày",
+    "position": [1839, 1869],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

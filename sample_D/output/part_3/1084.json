@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Mất ngủ mạn tính",
+    "position": [1282, 1298],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G47.0"]
+  },
+  {
+    "text": "Zolpidem",
+    "position": [197, 205],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["39993"]
+  },
+  {
+    "text": "Melatonin",
+    "position": [580, 589],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6711"]
+  },
+  {
+    "text": "Khó vào giấc",
+    "position": [1206, 1218],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thức dậy vào đêm",
+    "position": [1221, 1237],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện não đồ (EEG)",
+    "position": [361, 378],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bài tập gắng sức (EKG)",
+    "position": [394, 416],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm hormone tuyến thượng thận",
+    "position": [432, 468],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

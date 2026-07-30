@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Viêm ruột thừa cấp",
+    "position": [2218, 2236],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["K35.8"]
+  },
+  {
+    "text": "Đau hố chậu phải",
+    "position": [2308, 2324],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm ruột thừa",
+    "position": [2218, 2232],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm siêu âm bụng",
+    "position": [1339, 1362],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm xét nghiệm máu",
+    "position": [1426, 1451],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Paracetamol",
+    "position": [1027, 1038],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [1042, 1051],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Glucosamine",
+    "position": [1384, 1395],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4845"]
+  },
+  {
+    "text": "Hyaluronic acid",
+    "position": [1399, 1414],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5463"]
+  },
+  {
+    "text": "đau nhức và khó vận động ở khớp gối",
+    "position": [80, 115],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

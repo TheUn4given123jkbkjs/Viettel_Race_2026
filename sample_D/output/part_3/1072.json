@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Bệnh phổi tắc nghẽn mạn tính",
+    "position": [1331, 1359],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J44",
+      "J44.0",
+      "J44.1"
+    ]
+  },
+  {
+    "text": "FEV1 giảm",
+    "position": [533, 542],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [1480, 1493],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mổ ruột thừa",
+    "position": [1550, 1562],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Hen suyễn",
+    "position": [1633, 1642],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Glucose tăng cao",
+    "position": [1713, 1729],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin thấp",
+    "position": [1793, 1808],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "FEV1 40%",
+    "position": [1872, 1880],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

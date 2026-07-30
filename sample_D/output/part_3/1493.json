@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm dạ dày",
+    "position": [1540, 1551],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [721, 731],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Aluminum Hydroxide",
+    "position": [781, 799],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1009149"]
+  },
+  {
+    "text": "Rebamipide",
+    "position": [857, 867],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32463"]
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [925, 937],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["283742"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [980, 988],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

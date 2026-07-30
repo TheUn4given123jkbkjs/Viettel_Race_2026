@@ -1,0 +1,51 @@
+[
+  {
+    "text": "cường giáp",
+    "position": [102, 112],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E05.9"]
+  },
+  {
+    "text": "run tay",
+    "position": [193, 200],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "position": [205, 219],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methimazole",
+    "position": [681, 692],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6835"]
+  },
+  {
+    "text": "Propranolol",
+    "position": [696, 707],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8787"]
+  },
+  {
+    "text": "TSH",
+    "position": [506, 509],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ TSH thấp",
+    "position": [498, 514],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

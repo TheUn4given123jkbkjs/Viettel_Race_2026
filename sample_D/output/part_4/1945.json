@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Suy tim",
+    "position": [1495, 1502],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [182, 192],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Phù chi dưới",
+    "position": [1514, 1526],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở khi gắng sức",
+    "position": [1529, 1549],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [663, 673],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "pH máu",
+    "position": [1176, 1182],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ (ECG)",
+    "position": [1197, 1214],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "I50.9",
+    "position": [158, 163],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I50.9"]
+  }
+]

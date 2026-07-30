@@ -1,0 +1,44 @@
+[
+  {
+    "text": "ung thư phổi",
+    "position": [693, 705],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["C34.9"]
+  },
+  {
+    "text": "ho ra máu",
+    "position": [209, 218],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT ngực",
+    "position": [313, 320],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cisplatin",
+    "position": [871, 880],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Paclitaxel",
+    "position": [898, 908],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["56946"]
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [114, 144],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

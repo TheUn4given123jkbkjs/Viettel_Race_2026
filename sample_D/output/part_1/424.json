@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Suy tim",
+    "position": [2069, 2076],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [576, 596],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [788, 800],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "NT-proBNP",
+    "position": [1672, 1681],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "4500 pg/mL",
+    "position": [1682, 1692],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Furosemide",
+    "position": [2321, 2331],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Sacubitril/Valsartan",
+    "position": [2379, 2399],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1656328"]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [2551, 2561],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["20352"]
+  }
+]

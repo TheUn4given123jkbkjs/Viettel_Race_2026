@@ -1,0 +1,65 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [69, 77],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [1057, 1065],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "Rivaroxaban",
+    "position": [474, 485],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1114195"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [238, 246],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [248, 257],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [326, 329],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [333, 340],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "creatine kinase (CK)",
+    "position": [401, 421],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "250 U/L",
+    "position": [734, 741],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Spironolactone",
+    "position": [1688, 1702],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [1729, 1739],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Lactulose",
+    "position": [1767, 1776],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6218"]
+  },
+  {
+    "text": "Propranolol",
+    "position": [1803, 1814],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8787"]
+  },
+  {
+    "text": "Albumin",
+    "position": [1842, 1849],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["433"]
+  },
+  {
+    "text": "Vitamin K",
+    "position": [1879, 1888],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11258"]
+  },
+  {
+    "text": "tiền sử có bệnh gan",
+    "position": [154, 173],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [373, 386],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy tim mạch",
+    "position": [393, 405],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

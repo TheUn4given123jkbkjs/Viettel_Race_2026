@@ -1,0 +1,76 @@
+[
+  {
+    "text": "bố đẻ tiền sử đái tháo đường tuýp 2",
+    "position": [297, 332],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily", "isHistorical"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "đau thắt ngực dữ dội",
+    "position": [474, 494],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vã mồ hôi đầm đìa",
+    "position": [786, 803],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở dữ dội",
+    "position": [880, 894],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tâm đồ",
+    "position": [1462, 1473],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin T huyết thanh tăng cao",
+    "position": [1756, 1787],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhồi máu cơ tim cấp",
+    "position": [2936, 2955],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I21",
+      "I21.0",
+      "I21.1"
+    ]
+  },
+  {
+    "text": "Aspirin",
+    "position": [3471, 3478],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [3500, 3511],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [3657, 3669],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  }
+]

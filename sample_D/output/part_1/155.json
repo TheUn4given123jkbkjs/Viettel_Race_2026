@@ -1,0 +1,58 @@
+[
+  {
+    "text": "không sốt",
+    "position": [389, 398],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [419, 432],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "165 mmHg",
+    "position": [629, 637],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "100 mmHg",
+    "position": [667, 675],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tâm đồ",
+    "position": [885, 896],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dày thất trái",
+    "position": [921, 934],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I51.7"]
+  },
+  {
+    "text": "cholesterol toàn phần 5.8 mmol/L",
+    "position": [1359, 1391],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [1781, 1794],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  }
+]

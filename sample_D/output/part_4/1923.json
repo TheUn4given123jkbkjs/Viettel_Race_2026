@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Thoát vị đĩa đệm",
+    "position": [549, 565],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical", "isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Thoát vị đĩa đệm thắt lưng",
+    "position": [549, 575],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical", "isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Đau nhức lưng",
+    "position": [1104, 1117],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical", "isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Đau lan chân",
+    "position": [1120, 1132],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical", "isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "MRI",
+    "position": [634, 637],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [426, 433],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm",
+    "position": [578, 585],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Trung tâm X-quang",
+    "position": [1267, 1284],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Normocytic anemia",
+    "position": [492, 509],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Tăng creatinine",
+    "position": [522, 537],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Thoát vị đĩa đệm lưng",
+    "position": [2930, 2951],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

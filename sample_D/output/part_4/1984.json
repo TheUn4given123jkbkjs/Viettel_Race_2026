@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Đái tháo đường type 2",
+    "position": [92, 113],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Metformin",
+    "position": [658, 667],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Gliclazide",
+    "position": [693, 703],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4816"]
+  },
+  {
+    "text": "Insulin Glargine",
+    "position": [731, 747],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["274783"]
+  },
+  {
+    "text": "HbA1c",
+    "position": [292, 297],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "BMI",
+    "position": [304, 307],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết áp",
+    "position": [2563, 2571],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesteral",
+    "position": [2587, 2598],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ tiền sử đái tháo đường type 2",
+    "position": [2806, 2841],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [2844, 2874],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

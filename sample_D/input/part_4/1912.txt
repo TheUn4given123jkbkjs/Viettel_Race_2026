@@ -1,0 +1,62 @@
+Bệnh án lâm sàng bán cấu trúc (Case Report) chi tiết bệnh nhân nam, 35 tuổi, có tiền sử điều trị bệnh Hen phế quản (ICD-10: J45.9) và có dùng thuốc dài hạn là Salbutamol. Bệnh nhân đến bệnh viện vì các triệu chứng hen phế quản không kéo dài, bao gồm:
+
+Khò khè: Bệnh nhân đã có triệu chứng khò khè trong vòng 5 năm qua, với tần suất 2-3 lần mỗi ngày.
+
+Khó thở về đêm: Bệnh nhân đã có triệu chứng khó thở về đêm trong vòng 3 năm qua, với tần suất 1-2 lần mỗi tuần.
+
+Tiền sử gia đình: Bố bệnh nhân bị hen phế quản, mẹ bệnh nhân bị tiểu đường loại 2.
+
+Kết quả khám chi tiết từng cơ quan:
+
+- Mạch: 80 lần/phút.
+- Nhiệt độ: 36,5 độ C.
+- Mùi thở: Cảm nhận thấy có mùi khò khè.
+- Mạch não: Không có sự bất thường nào.
+
+Các bảng chỉ số xét nghiệm cận lâm sàng:
+
+- Kết quả xét nghiệm máu: 
+  - ESR: 20 mm/h
+  - CRP: 15 mg/L
+
+- Kết quả xét nghiệm da:
+  - Tế bào máu: 5.000 tế bào/µL
+
+Bệnh nhân đã được điều trị với các thuốc sau:
+
+- Salbutamol: 2 lần mỗi ngày, mỗi lần 2 viên x 2 mg.
+- Cốm xơ lúa mì: 1 lần mỗi ngày, mỗi lần 1 viên.
+
+Tình trạng hiện tại: Bệnh nhân đang được điều trị ở phòng hồi sức cấp cứu, với tình trạng ổn định.
+
+Bình luận: Bệnh nhân có triệu chứng hen phế quản không kéo dài, với các triệu chứng khò khè và khó thở về đêm. Bệnh nhân đã được điều trị với các thuốc Salbutamol và cốm xơ lúa mì. Tình trạng hiện tại của bệnh nhân đang ổn định.
+
+Trích xuất các thực thể y khoa sau:
+
+- Cụm từ 'Hen phế quản' nhãn CHẨN_ĐOÁN với assertions=['isHistorical'].
+- Cụm từ 'Salbutamol' nhãn THUỐC với assertions=['isHistorical'].
+- Cụm từ 'Khò khè' nhãn TRIỆU_CHỨNG.
+- Cụm từ 'Khó thở về đêm' nhãn TRIỆU_CHỨNG.
+- Cụm từ 'Mạch' nhãn TÊN_XÉT_NGHIỆM.
+- Cụm từ 'Nhiệt độ' nhãn TÊN_XÉT_NGHIỆM.
+- Cụm từ 'Mùi thở' nhãn TRIỆU_CHỨNG.
+- Cụm từ 'Mạch não' nhãn TÊN_XÉT_NGHIỆM.
+- Cụm từ 'ESR' nhãn TÊN_XÉT_NGHIỆM.
+- Cụm từ 'CRP' nhãn TÊN_XÉT_NGHIỆM.
+- Cụm từ 'Cốm xơ lúa mì' nhãn THUỐC.
+- Cụm từ 'Tế bào máu' nhãn TÊN_XÉT_NGHIỆM.
+- Cụm từ 'Bệnh nhân' nhãn TRIỆU_CHỨNG.
+
+Vì bệnh lý phức tạp, có thể có nhiều kết quả xét nghiệm khác. Các xét nghiệm sẽ được thực hiện dựa trên tình trạng bệnh nhân và sẽ được cập nhật trong hồ sơ bệnh án.
+
+Bệnh nhân sẽ được theo dõi chặt chẽ để đảm bảo tình trạng ổn định và sẽ được điều trị phù hợp dựa trên tình trạng và kết quả xét nghiệm.
+
+Bệnh nhân có thể được chuyển đến các khoa khác để tiếp tục điều trị và theo dõi.
+
+Bệnh nhân sẽ được cập nhật về tình trạng và kết quả xét nghiệm trong hồ sơ bệnh án.
+
+Bệnh án này sẽ được cập nhật và điều chỉnh dựa trên tình trạng và kết quả xét nghiệm của bệnh nhân.
+
+Bệnh nhân sẽ được điều trị phù hợp và sẽ được cập nhật về tình trạng và kết quả xét nghiệm trong hồ sơ bệnh án.
+
+Lưu ý: Bệnh án này được viết dựa trên kịch bản và có thể có các lỗi gõ dính chữ, lỗi dấu. Cụm trích xuất phải khớp chính xác text chứa lỗi.

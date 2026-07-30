@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Sapropterin",
+    "position": [1047, 1058],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["753340"]
+  },
+  {
+    "text": "Phenylalanine",
+    "position": [713, 726],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường type 2",
+    "position": [446, 467],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [480, 493],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sàng lọc sơ sinh",
+    "position": [159, 175],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chế độ ăn đặc biệt",
+    "position": [1134, 1152],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

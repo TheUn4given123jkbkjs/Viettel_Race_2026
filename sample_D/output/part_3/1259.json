@@ -1,0 +1,30 @@
+[
+  {
+    "text": "siêu âm tim",
+    "position": [805, 816],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp tâm thu là 180mmHg",
+    "position": [578, 605],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp tâm trương là 100mmHg",
+    "position": [609, 639],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp vô căn",
+    "position": [552, 572],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  }
+]

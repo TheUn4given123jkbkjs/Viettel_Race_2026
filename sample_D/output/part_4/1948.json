@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Sertraline",
+    "position": [336, 346],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["36437"]
+  },
+  {
+    "text": "CRP",
+    "position": [1805, 1808],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ESR",
+    "position": [1829, 1832],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HB",
+    "position": [1851, 1853],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [1874, 1879],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

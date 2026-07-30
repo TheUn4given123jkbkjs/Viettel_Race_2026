@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Viêm gan B mạn",
+    "position": [783, 797],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B18.0", "B18.1"]
+  },
+  {
+    "text": "Tenofovir",
+    "position": [853, 862],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2003201",
+      "2003222",
+      "117466"
+    ]
+  },
+  {
+    "text": "vàng da",
+    "position": [57, 64],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [66, 73],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [148, 157],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "HBV DNA",
+    "position": [631, 638],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

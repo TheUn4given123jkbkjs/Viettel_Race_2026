@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Đột quỵ não",
+    "position": [1838, 1849],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I64"]
+  },
+  {
+    "text": "bố đẻ tiền sử đái tháo đường tuýp 2",
+    "position": [197, 232],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "yếu nửa người bên phải",
+    "position": [422, 444],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT scan",
+    "position": [1336, 1343],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ổ giảm tỷ trọng ở vùng nhân bèo bên trái",
+    "position": [1385, 1425],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [1946, 1953],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1991, 2003],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Citicoline",
+    "position": [2079, 2089],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["997602"]
+  }
+]

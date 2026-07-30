@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Thoái hóa khớp gối",
+    "position": [86, 104],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "đau khi đi lại",
+    "position": [1594, 1608],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [3208, 3219],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [3357, 3366],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Celecoxib",
+    "position": [3372, 3381],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["140587"]
+  },
+  {
+    "text": "Glucosamine",
+    "position": [3588, 3599],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4845"]
+  },
+  {
+    "text": "Hyaluronic acid",
+    "position": [3645, 3660],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5463"]
+  },
+  {
+    "text": "X-quang khớp gối",
+    "position": [2408, 2424],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

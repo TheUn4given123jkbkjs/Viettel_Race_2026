@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Nhiễm trùng tiết niệu",
+    "position": [0, 21],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T83.5"]
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [189, 198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu rắt",
+    "position": [200, 208],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng dưới",
+    "position": [213, 226],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm nước tiểu",
+    "position": [830, 850],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10^5 CFU/mL",
+    "position": [1744, 1755],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

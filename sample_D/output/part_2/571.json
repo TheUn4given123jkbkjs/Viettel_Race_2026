@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Ceftriaxone",
+    "position": [121, 132],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "đau hố chậu phải",
+    "position": [175, 191],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [195, 198],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [300, 314],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm nước tiểu",
+    "position": [316, 336],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

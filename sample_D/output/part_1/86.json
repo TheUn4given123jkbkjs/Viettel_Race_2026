@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Sỏi mật",
+    "position": [101, 108],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K80"]
+  },
+  {
+    "text": "Ursodeoxycholic acid",
+    "position": [973, 993],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11065"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [1087, 1098],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Hyoscine",
+    "position": [1147, 1155],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9601"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [1225, 1236],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "đau hạ sườn phải",
+    "position": [291, 307],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [523, 530],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

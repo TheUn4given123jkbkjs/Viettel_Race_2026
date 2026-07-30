@@ -1,0 +1,61 @@
+Bệnh án lâm sàng phức tạp sau đây trình bày một trường hợp Sốt xuất huyết Dengue được chẩn đoán và điều trị bằng phương pháp ngoại khoa.
+
+Bệnh nhân là một người đàn ông 32 tuổi, có tiền sử bệnh trong gia đình và bản thân đều có tiền sử mắc bệnh truyền nhiễm. Trong 2 tuần qua, bệnh nhân đã xuất hiện các triệu chứng như sốt cao, đau đầu, đau nhức cơ thể, và có những vùng da bị viêm đỏ.
+
+Bệnh nhân được đưa đến bệnh viện và sau khi được khám tổng quát, các bác sĩ đã thực hiện các xét nghiệm cận lâm sàng để xác định nguyên nhân của bệnh. Các xét nghiệm bao gồm:
+
+- Xét nghiệm máu: Bệnh nhân có số lượng tế bào hồng cầu giảm, số lượng tế bào bạch huyết giảm, và có một số dấu hiệu khác trên huyết tương.
+- Xét nghiệm nước tiểu: Bệnh nhân có một số dấu hiệu bất thường trên nước tiểu.
+- Xét nghiệm nước mắt: Bệnh nhân có một số dấu hiệu bất thường trên nước mắt.
+
+Kết quả xét nghiệm cận lâm sàng đã khẳng định chẩn đoán là Sốt xuất huyết Dengue. Tuy nhiên, bệnh nhân không thể được điều trị bằng thuốc vì đang trong quá trình phẫu thuật, can thiệp ngoại khoa. Vì vậy, bệnh nhân đã được chuyển đến phòng mổ để được phẫu thuật.
+
+Trong quá trình phẫu thuật, bệnh nhân đã được truyền dịch để duy trì độ ẩm và nước trong cơ thể. Sau khi phẫu thuật, bệnh nhân đã được chuyển đến phòng hồi sức để được theo dõi và chăm sóc.
+
+Mục tiêu điều trị của bệnh nhân là để giảm thiểu các triệu chứng và ngăn chặn sự tiến triển của bệnh. Bệnh nhân sẽ được theo dõi chặt chẽ và có thể được điều trị bổ sung nếu cần.
+
+Dưới đây là kết quả xét nghiệm cận lâm sàng của bệnh nhân:
+
+- Xét nghiệm máu:
+ + Huyết tương: 30%
+ + Tế bào hồng cầu: 10%
+ + Tế bào bạch huyết: 15%
+- Xét nghiệm nước tiểu:
+ + Axit uric: 5 mg/dL
+- Xét nghiệm nước mắt:
+ + Lượng nước mắt: 0,5 mL
+
+Kết quả xét nghiệm đã khẳng định chẩn đoán là Sốt xuất huyết Dengue. Bệnh nhân sẽ được theo dõi chặt chẽ và có thể được điều trị bổ sung nếu cần.
+
+Bệnh án này trình bày một trường hợp Sốt xuất huyết Dengue được chẩn đoán và điều trị bằng phương pháp ngoại khoa. Bệnh nhân đã được truyền dịch để duy trì độ ẩm và nước trong cơ thể và sẽ được theo dõi chặt chẽ để ngăn chặn sự tiến triển của bệnh.
+
+Bệnh án này cho thấy tầm quan trọng của việc chẩn đoán và điều trị đúng đắn để ngăn chặn sự tiến triển của bệnh. Bệnh án cũng cho thấy tầm quan trọng của việc theo dõi chặt chẽ bệnh nhân để đảm bảo rằng họ nhận được sự chăm sóc đúng đắn.
+
+Dưới đây là các thực thể y khoa được trích xuất từ văn bản:
+
+- Sốt xuất huyết Dengue (CHẨN_ĐOÁN)
+- Triệu chứng (TRIỆU_CHỨNG)
+- Xét nghiệm máu (TÊN_XÉT_NGHIỆM)
+- Kết quả xét nghiệm máu (KẾT_QUẢ_XÉT_NGHIỆM)
+
+Các thực thể y khoa được trích xuất như sau:
+
+{
+  "text": "Sốt xuất huyết Dengue",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": ["isNegated", "isFamily", "isHistorical"]
+
+{
+  "text": "Triệu chứng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": ["isNegated", "isFamily", "isHistorical"]
+
+{
+  "text": "Xét nghiệm máu",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": ["isNegated", "isFamily", "isHistorical"]
+
+{
+  "text": "Kết quả xét nghiệm máu",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": ["isNegated", "isFamily", "isHistorical"]

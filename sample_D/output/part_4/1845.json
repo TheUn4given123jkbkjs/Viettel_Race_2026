@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Rối loạn lo âu",
+    "position": [796, 810],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F41.9"]
+  },
+  {
+    "text": "lo âu lan tỏa",
+    "position": [53, 66],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sertraline",
+    "position": [868, 878],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36437"]
+  },
+  {
+    "text": "Hydroxyzine",
+    "position": [905, 916],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5553"]
+  },
+  {
+    "text": "120/80 mmHg",
+    "position": [641, 652],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "36.5°C",
+    "position": [674, 680],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "90 ml/min",
+    "position": [706, 715],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [276, 284],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

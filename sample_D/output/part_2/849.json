@@ -1,0 +1,44 @@
+[
+  {
+    "text": "trầm cảm",
+    "position": [47, 55],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "F32.9",
+    "position": [919, 924],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F32.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [106, 119],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Sertraline",
+    "position": [971, 981],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36437"]
+  },
+  {
+    "text": "mất ngủ",
+    "position": [76, 83],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết sắc tố",
+    "position": [631, 643],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

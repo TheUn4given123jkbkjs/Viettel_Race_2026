@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đái tháo đường type 2",
+    "position": [247, 268],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [202, 215],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [850, 855],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8,5%",
+    "position": [937, 941],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "metformin",
+    "position": [1225, 1234],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "gliclazide",
+    "position": [1270, 1280],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4816"]
+  }
+]

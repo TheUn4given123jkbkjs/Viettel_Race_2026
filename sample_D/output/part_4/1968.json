@@ -1,0 +1,37 @@
+[
+  {
+    "text": "valproate",
+    "position": [282, 291],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11118"]
+  },
+  {
+    "text": "động kinh",
+    "position": [34, 43],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G40.9"]
+  },
+  {
+    "text": "co giật toàn thể",
+    "position": [96, 112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện não đồ",
+    "position": [420, 431],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "G40.9",
+    "position": [774, 779],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G40.9"]
+  }
+]

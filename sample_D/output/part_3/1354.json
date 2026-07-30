@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Béo phì",
+    "position": [181, 188],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E66.9"]
+  },
+  {
+    "text": "Orlistat",
+    "position": [297, 305],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["37925"]
+  },
+  {
+    "text": "BMI",
+    "position": [842, 845],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "31.5 kg/m2",
+    "position": [859, 869],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gan nhiễm mỡ",
+    "position": [1574, 1586],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K76.0", "K70.0"]
+  },
+  {
+    "text": "rối loạn mỡ máu",
+    "position": [2317, 2332],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau khớp gối",
+    "position": [408, 420],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "COPD",
+    "position": [0, 4],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J44.9"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [885, 895],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Formoterol",
+    "position": [930, 940],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["25255"]
+  },
+  {
+    "text": "Budesonide",
+    "position": [972, 982],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Tiotropium",
+    "position": [1029, 1039],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["69120"]
+  }
+]

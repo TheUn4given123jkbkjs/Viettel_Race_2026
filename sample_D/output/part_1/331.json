@@ -1,0 +1,65 @@
+[
+  {
+    "text": "khát nước liên tục",
+    "position": [802, 820],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1097, 1105],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu bất kỳ",
+    "position": [2255, 2273],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "22.5 mmol/L",
+    "position": [2275, 2286],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [2290, 2295],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12.8%",
+    "position": [2297, 2302],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [2632, 2653],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E10.9"]
+  },
+  {
+    "text": "Insulin Glargine",
+    "position": [3114, 3130],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["274783"]
+  },
+  {
+    "text": "Insulin Lispro",
+    "position": [3172, 3186],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["86009"]
+  }
+]

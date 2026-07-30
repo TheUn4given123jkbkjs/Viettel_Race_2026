@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm khớp dạng thấp",
+    "position": [124, 143],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M06.9"]
+  },
+  {
+    "text": "Methotrexate",
+    "position": [251, 263],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6851"]
+  },
+  {
+    "text": "sưng khớp đối xứng",
+    "position": [350, 368],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "RF dương tính",
+    "position": [1890, 1903],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [568, 577],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Prednisone",
+    "position": [1130, 1140],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8683"]
+  }
+]

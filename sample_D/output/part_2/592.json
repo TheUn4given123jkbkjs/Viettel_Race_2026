@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Thoái hóa khớp gối",
+    "position": [373, 391],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [484, 493],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [540, 551],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Hyaluronic acid",
+    "position": [603, 618],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5463"]
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [1385, 1399],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [1456, 1476],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

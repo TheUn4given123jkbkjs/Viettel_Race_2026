@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Aspirin",
+    "position": [1192, 1199],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Clopidogrel",
+    "position": [1201, 1212],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32968"]
+  },
+  {
+    "text": "Heparin",
+    "position": [1217, 1224],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["235473"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1304, 1316],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  }
+]

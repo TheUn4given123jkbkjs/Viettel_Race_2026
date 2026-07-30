@@ -1,0 +1,30 @@
+[
+  {
+    "text": "động kinh",
+    "position": [78, 87],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["G40.9"]
+  },
+  {
+    "text": "Valproate",
+    "position": [248, 257],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11118"]
+  },
+  {
+    "text": "co giật toàn thể",
+    "position": [526, 542],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [455, 476],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  }
+]

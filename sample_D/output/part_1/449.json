@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Paracetamol",
+    "position": [267, 278],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["161"]
+  },
+  {
+    "text": "đau nhức tại khớp gối",
+    "position": [149, 170],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêm hyaluronic",
+    "position": [745, 760],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5463"]
+  },
+  {
+    "text": "ICD-10: M17.9",
+    "position": [72, 85],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M17.9"]
+  }
+]

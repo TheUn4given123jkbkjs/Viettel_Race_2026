@@ -1,0 +1,58 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [485, 493],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [554, 562],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "Rivaroxaban",
+    "position": [663, 674],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1114195"]
+  },
+  {
+    "text": "Amiodarone",
+    "position": [634, 644],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["703"]
+  },
+  {
+    "text": "Digoxin",
+    "position": [606, 613],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  },
+  {
+    "text": "Bisoprolol",
+    "position": [579, 589],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19484"]
+  },
+  {
+    "text": "Apixaban",
+    "position": [692, 700],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1364430"]
+  },
+  {
+    "text": "bố đẻ tiền sử đái tháo đường tuýp 2",
+    "position": [66, 101],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

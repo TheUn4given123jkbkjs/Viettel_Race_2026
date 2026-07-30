@@ -1,0 +1,44 @@
+[
+  {
+    "text": "sưng nóng đỏ đau khớp bàn chân",
+    "position": [97, 127],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh gút",
+    "position": [955, 963],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M10.9"]
+  },
+  {
+    "text": "tiền sử tăng huyết áp",
+    "position": [299, 320],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm cận lâm sàng",
+    "position": [666, 689],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ acid uric",
+    "position": [699, 716],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang khớp bàn chân",
+    "position": [904, 925],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

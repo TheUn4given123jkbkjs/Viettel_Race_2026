@@ -1,0 +1,27 @@
+Bệnh nhân nữ 45 tuổi, bị Đái tháo đường type 2 (ICD-10: E11.9) từ 5 năm trước. Ban đầu, bệnh nhân đã được chẩn đoán Đái tháo đường type 2 và được chỉ định dùng Metformin, một loại thuốc đường uống để điều trị Đái tháo đường type 2.
+
+Vào tháng 3/2022, bệnh nhân được khám định kỳ và xét nghiệm máu. Kết quả xét nghiệm cho thấy HbA1c tăng, chỉ số này là 8,5%.
+
+Bệnh nhân được yêu cầu theo dõi các chỉ số huyết áp, lipid và đường huyết. Sau đó, vào tháng 6/2022, bệnh nhân được khám lại và xét nghiệm máu. Kết quả cho thấy HbA1c vẫn còn cao, chỉ số này là 8,8%.
+
+Vào tháng 8/2022, bệnh nhân được chỉ định dùng thêm thuốc Orlistat để hỗ trợ giảm cân. Tuy nhiên, bệnh nhân đã phủ nhận buồn nôn sau khi dùng thuốc này.
+
+Vào tháng 10/2022, bệnh nhân được khám lại và xét nghiệm máu. Kết quả cho thấy HbA1c đã giảm xuống còn 7,5%. Bệnh nhân được khuyên nên tiếp tục dùng Metformin và Orlistat.
+
+Vào tháng 12/2022, bệnh nhân được khám lại và xét nghiệm máu. Kết quả cho thấy HbA1c vẫn còn ở mức 7,5%.
+
+Bệnh nhân được yêu cầu tiếp tục theo dõi các chỉ số huyết áp, lipid và đường huyết. Bệnh nhân cũng được khuyên nên duy trì lối sống lành mạnh, bao gồm ăn uống cân đối và tập thể dục thường xuyên.
+
+Trường hợp trên cho thấy hiệu quả của việc điều trị Đái tháo đường type 2 bằng cách dùng Metformin và Orlistat. Tuy nhiên, bệnh nhân cần phải tiếp tục theo dõi các chỉ số huyết áp, lipid và đường huyết để đảm bảo rằng bệnh không tiến triển.
+
+Kết quả xét nghiệm:
+- HbA1c: 8,5% (tháng 3/2022), 8,8% (tháng 6/2022), 7,5% (tháng 10/2022), 7,5% (tháng 12/2022)
+- Lipid: 120 mg/dL (tháng 3/2022), 130 mg/dL (tháng 6/2022), 110 mg/dL (tháng 10/2022), 110 mg/dL (tháng 12/2022)
+- Đường huyết: 180 mg/dL (tháng 3/2022), 190 mg/dL (tháng 6/2022), 160 mg/dL (tháng 10/2022), 160 mg/dL (tháng 12/2022)
+
+Thực thể trích xuất:
+- Đái tháo đường type 2: CHẨN_ĐOÁN, isHistorical
+- Metformin: THUỐC, isHistorical
+- HbA1c: TRIỆU_CHỨNG, isHistorical
+- Orlistat: THUỐC, isNegated
+- Buồn nôn: TRIỆU_CHỨNG, isNegated

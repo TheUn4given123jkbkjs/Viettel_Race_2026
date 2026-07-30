@@ -1,0 +1,37 @@
+[
+  {
+    "text": "đau thắt lưng",
+    "position": [76, 89],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M54.5"]
+  },
+  {
+    "text": "đau lưng dưới",
+    "position": [186, 199],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co cứng cơ cạnh sống",
+    "position": [422, 442],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu toàn bộ",
+    "position": [619, 641],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ creatinin trong máu tăng nhẹ",
+    "position": [739, 775],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

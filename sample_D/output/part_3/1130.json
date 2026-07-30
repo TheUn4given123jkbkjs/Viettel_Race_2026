@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Colchicine",
+    "position": [1205, 1215],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2683"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1241, 1253],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "sưng nóng đỏ đau khớp bàn chân",
+    "position": [61, 91],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "acid uric tăng",
+    "position": [506, 520],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường",
+    "position": [119, 129],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

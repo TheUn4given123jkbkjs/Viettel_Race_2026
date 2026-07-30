@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Alzheimer",
+    "position": [3882, 3891],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G30.9"]
+  },
+  {
+    "text": "quên gần",
+    "position": [1036, 1044],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất định hướng",
+    "position": [1297, 1311],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Donepezil",
+    "position": [4009, 4018],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["135447"]
+  },
+  {
+    "text": "Memantine",
+    "position": [4076, 4085],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6719"]
+  },
+  {
+    "text": "Chụp cắt lớp vi tính (CT scan) sọ não",
+    "position": [3668, 3705],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Teo não lan tỏa vỏ não",
+    "position": [3707, 3729],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

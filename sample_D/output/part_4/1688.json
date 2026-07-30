@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Trầm cảm",
+    "position": [1348, 1356],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F32.9"]
+  },
+  {
+    "text": "buồn bã kéo dài",
+    "position": [536, 551],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [138, 145],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [716, 724],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng tuyến giáp",
+    "position": [1130, 1161],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2.1 mIU/L",
+    "position": [1180, 1189],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Escitalopram",
+    "position": [1918, 1930],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["321988"]
+  },
+  {
+    "text": "Mirtazapine",
+    "position": [2158, 2169],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["15996"]
+  },
+  {
+    "text": "Sertraline",
+    "position": [2712, 2722],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36437"]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Suy thận mạn",
+    "position": [104, 116],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["N18.9"]
+  },
+  {
+    "text": "Erythropoietin",
+    "position": [161, 175],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["105694"]
+  },
+  {
+    "text": "Suy thận mạn",
+    "position": [104, 116],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

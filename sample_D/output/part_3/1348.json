@@ -1,0 +1,72 @@
+[
+  {
+    "text": "đau nhức nhiều các khớp nhỏ ở hai bàn tay",
+    "position": [262, 303],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng khớp buổi sáng kéo dài hơn một giờ đồng hồ",
+    "position": [314, 361],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [493, 523],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ về chiều",
+    "position": [1179, 1195],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1885, 1898],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tốc độ máu lắng",
+    "position": [1961, 1976],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu tố dạng thấp RF",
+    "position": [2045, 2064],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kháng thể khángCCP",
+    "position": [2089, 2107],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang khớp bàn ngón tay hai bên thẳng",
+    "position": [2163, 2202],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm khớp",
+    "position": [2207, 2219],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

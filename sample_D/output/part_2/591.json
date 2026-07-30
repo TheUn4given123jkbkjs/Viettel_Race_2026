@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Đau đầu",
+    "position": [469, 476],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sưng mắt",
+    "position": [494, 502],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [788, 802],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm siêu âm",
+    "position": [900, 918],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm điện tim",
+    "position": [840, 859],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm xét nghiệm",
+    "position": [968, 989],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc hạ áp",
+    "position": [1784, 1795],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

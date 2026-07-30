@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Paracetamol",
+    "position": [1055, 1066],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [1133, 1142],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Eperisone",
+    "position": [1239, 1248],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11474"]
+  },
+  {
+    "text": "đau lưng",
+    "position": [256, 264],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp X-quang cột sống",
+    "position": [777, 798],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

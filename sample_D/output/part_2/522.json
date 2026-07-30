@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Paracetamol",
+    "position": [723, 734],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Ringer Lactate",
+    "position": [617, 631],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35629", "315"]
+  },
+  {
+    "text": "Dextrose 5%",
+    "position": [635, 646],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["315789"]
+  },
+  {
+    "text": "giảm tiểu cầu",
+    "position": [170, 183],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Viêm gan B mạn",
+    "position": [0, 14],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B18.0", "B18.1"]
+  },
+  {
+    "text": "Tenofovir",
+    "position": [2029, 2038],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2003201",
+      "2003222",
+      "117466"
+    ]
+  },
+  {
+    "text": "Đau bụng kéo dài",
+    "position": [499, 515],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mức độ virus HBV trong máu",
+    "position": [1414, 1440],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tình trạng gan",
+    "position": [1448, 1462],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khả năng chuyển hóa của gan",
+    "position": [1477, 1504],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [852, 870],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

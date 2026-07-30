@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Dexamethasone",
+    "position": [215, 228],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "SpO2 giảm",
+    "position": [69, 78],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thở máy",
+    "position": [107, 114],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ oxy thấp",
+    "position": [553, 569],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết học",
+    "position": [588, 597],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

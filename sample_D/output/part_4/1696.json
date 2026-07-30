@@ -1,0 +1,48 @@
+[
+  {
+    "text": "loét dạ dày",
+    "position": [170, 181],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
+  },
+  {
+    "text": "Omeprazol",
+    "position": [222, 231],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["7646", "283742"]
+  },
+  {
+    "text": "đau thượng vị",
+    "position": [75, 88],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [90, 98],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn sau khi ăn",
+    "position": [102, 116],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng acid dạ dày",
+    "position": [414, 430],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

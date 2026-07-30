@@ -1,0 +1,55 @@
+[
+  {
+    "text": "Viêm dạ dày",
+    "position": [1043, 1054],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "Buồn nôn",
+    "position": [666, 674],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ có tiền sử tăng huyết áp",
+    "position": [513, 543],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi dạ dày",
+    "position": [1229, 1243],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng nhẹ lượng nước tiểu",
+    "position": [692, 716],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày mạn",
+    "position": [1043, 1058],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K29.3",
+      "K29.4",
+      "K29.5"
+    ]
+  },
+  {
+    "text": "Nhiễm HP",
+    "position": [1162, 1170],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B96.81"]
+  }
+]

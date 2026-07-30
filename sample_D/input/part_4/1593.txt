@@ -1,0 +1,44 @@
+Bệnh nhân nam 45 tuổi, có chiều cao 165cm và cân nặng 70kg. Bệnh nhân có tiền sử điều trị bệnh Đái tháo đường type 2 (ICD-10: E11.9) từ 5 năm trước với sử dụng thuốc Metformin dài hạn. Trong 2 tháng gần đây, bệnh nhân có triệu chứng tăng mệt mỏi, tăng khát nước, tăng tiểu đêm, tăng cân không giải thích được. Các triệu chứng này xuất hiện sau 1 năm bị HbA1c tăng.
+
+Trong quá trình thăm khám, bác sĩ phát hiện bệnh nhân có huyết áp cao 160/90 mmHg, nồng độ triglycerid cao 250 mg/dL, HDL thấp 30 mg/dL. Các xét nghiệm cận lâm sàng khác bao gồm:
+
+- Cholesterol total: 220 mg/dL
+- Cholesterol LDL: 180 mg/dL
+- Cholesterol HDL: 30 mg/dL
+- Triglycerid: 250 mg/dL
+- HbA1c: 10%
+
+Bác sĩ tiến hành khám chi tiết từng cơ quan, bao gồm:
+
+- Mũi: Không có bất kỳ dấu hiệu bất thường nào.
+- Mắt: Không có bất kỳ dấu hiệu bất thường nào.
+- Thần kinh: Không có bất kỳ dấu hiệu bất thường nào.
+- Tim mạch: Có dấu hiệu tăng huyết áp.
+- Dị ứng: Không có bất kỳ dấu hiệu bất thường nào.
+- Hệ hô hấp: Không có bất kỳ dấu hiệu bất thường nào.
+
+Sau khi thăm khám, bác sĩ đưa ra chẩn đoán và tư vấn cho bệnh nhân.
+
+Bệnh lý mục tiêu: Đái tháo đường type 2 (ICD-10: E11.9)
+Gợi ý lâm sàng: ĐTĐ type 2, HbA1c tăng, metformin
+
+Dựa trên chẩn đoán và tư vấn của bác sĩ, bệnh nhân nên thực hiện các biện pháp sau:
+
+1. Suy giảm cân bằng cách giảm calo và tăng cường tập thể dục.
+2. Điều chỉnh chế độ ăn uống để hạn chế lượng đường nạp vào cơ thể.
+3. Sử dụng thuốc Metformin để kiểm soát lượng đường trong máu.
+4. Tiếp tục theo dõi huyết áp và lipid máu.
+
+Bằng cách thực hiện các biện pháp trên, bệnh nhân có thể kiểm soát được tình trạng Đái tháo đường type 2 và các triệu chứng liên quan.
+
+Các thực thể trích xuất:
+
+- Đái tháo đường type 2: CHẨN_ĐOÁN, assertions=['isHistorical']
+- Metformin: THUỐC, assertions=['isHistorical']
+- HbA1c: TÊN_XÉT_NGHIỆM, assertions=[]
+- Huyết áp: KẾT_QUẢ_XÉT_NGHIỆM, assertions=[]
+- Triglycerid: TÊN_XÉT_NGHIỆM, assertions=[]
+- Cholesterol total: TÊN_XÉT_NGHIỆM, assertions=[]
+- Cholesterol LDL: TÊN_XÉT_NGHIỆM, assertions=[]
+- Cholesterol HDL: TÊN_XÉT_NGHIỆM, assertions=[]
+- HbA1c: KẾT_QUẢ_XÉT_NGHIỆM, assertions=[]

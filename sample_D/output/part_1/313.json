@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Rối loạn lo âu",
+    "position": [48, 62],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F41.9"]
+  },
+  {
+    "text": "bố đẻ tiền sử trầm cảm nặng",
+    "position": [1355, 1382],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "F33.40",
+      "F33.41",
+      "F33.42"
+    ]
+  },
+  {
+    "text": "lo âu lan tỏa",
+    "position": [1804, 1817],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó tập trung",
+    "position": [1907, 1920],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hồi hộp",
+    "position": [2009, 2016],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [2268, 2285],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sertraline",
+    "position": [3258, 3268],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36437"]
+  },
+  {
+    "text": "Alprazolam",
+    "position": [3522, 3532],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["596"]
+  }
+]

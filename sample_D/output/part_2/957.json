@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Bệnh Gaucher",
+    "position": [0, 12],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E75.22"]
+  },
+  {
+    "text": "Imiglucerase",
+    "position": [1526, 1538],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["84959"]
+  },
+  {
+    "text": "Miglustat",
+    "position": [1668, 1677],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["402316"]
+  },
+  {
+    "text": "Gan to",
+    "position": [619, 625],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dạ dày béo phì",
+    "position": [687, 701],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiêu hóa kém",
+    "position": [704, 716],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [991, 1005],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [1072, 1092],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

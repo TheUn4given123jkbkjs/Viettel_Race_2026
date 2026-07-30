@@ -1,0 +1,44 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [166, 179],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Thoái hóa khớp gối",
+    "position": [2461, 2479],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "đau khi đi lại",
+    "position": [729, 743],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng khớp buổi sáng",
+    "position": [947, 966],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang khớp gối thẳng nghiêng hai bên",
+    "position": [2152, 2190],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêm hyaluronic",
+    "position": [2656, 2671],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5463"]
+  }
+]

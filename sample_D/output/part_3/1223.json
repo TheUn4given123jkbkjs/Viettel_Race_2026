@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm ruột thừa",
+    "position": [0, 14],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K37"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [649, 660],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "đau bụng",
+    "position": [162, 170],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [251, 254],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [256, 264],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn mửa",
+    "position": [269, 276],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

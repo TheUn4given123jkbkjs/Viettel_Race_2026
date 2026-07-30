@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Methotrexate",
+    "position": [890, 902],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6851"]
+  },
+  {
+    "text": "Hydroxychloroquine",
+    "position": [930, 948],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5521"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1029, 1041],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "sưng và đau khớp đối xứng",
+    "position": [71, 96],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu tố rheumatoid (RF) dương tính",
+    "position": [693, 726],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

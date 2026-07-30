@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Rối loạn lipid máu",
+    "position": [46, 64],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E78.5"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [827, 839],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Rosuvastatin",
+    "position": [898, 910],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["301542"]
+  },
+  {
+    "text": "Fenofibrate",
+    "position": [968, 979],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8703"]
+  },
+  {
+    "text": "Ezetimibe",
+    "position": [1038, 1047],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["341248"]
+  },
+  {
+    "text": "Buồn nôn nhẹ",
+    "position": [266, 278],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sưng và đau ở chân",
+    "position": [282, 300],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sốt không quá 37,5 độ C",
+    "position": [304, 327],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đau đầu nhẹ",
+    "position": [331, 342],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau bụng nhẹ",
+    "position": [346, 358],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

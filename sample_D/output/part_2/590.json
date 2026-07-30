@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm ruột thừa",
+    "position": [1999, 2013],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K37"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [606, 617],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [621, 634],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [678, 689],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "Tramadol",
+    "position": [751, 759],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10689"]
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [276, 306],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

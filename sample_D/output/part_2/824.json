@@ -1,0 +1,37 @@
+[
+  {
+    "text": "co giật toàn thể",
+    "position": [72, 88],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Valproate",
+    "position": [411, 420],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11118"]
+  },
+  {
+    "text": "Carbamazepine",
+    "position": [424, 437],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2002"]
+  },
+  {
+    "text": "điện não đồ (EEG)",
+    "position": [635, 652],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bất thường trong hoạt động điện của não",
+    "position": [749, 788],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

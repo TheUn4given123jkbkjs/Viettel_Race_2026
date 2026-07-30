@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Ho kha khuây",
+    "position": [3175, 3187],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sốt cao",
+    "position": [2157, 2164],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phế quản cấp",
+    "position": [8, 25],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J20.9"]
+  },
+  {
+    "text": "Streptococcus pneumoniae",
+    "position": [419, 443],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ampicillin",
+    "position": [2735, 2745],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["733"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [2780, 2790],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2821, 2832],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["161"]
+  },
+  {
+    "text": "ECG",
+    "position": [601, 604],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang",
+    "position": [592, 599],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

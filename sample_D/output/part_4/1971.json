@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Rối loạn lipid máu",
+    "position": [103, 121],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["E78.5"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [1038, 1050],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Fenofibrate",
+    "position": [1136, 1147],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8703"]
+  },
+  {
+    "text": "Ezetimibe",
+    "position": [1626, 1635],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["341248"]
+  }
+]

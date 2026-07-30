@@ -1,0 +1,44 @@
+[
+  {
+    "text": "ORS",
+    "position": [780, 783],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["256"]
+  },
+  {
+    "text": "Zinc",
+    "position": [844, 848],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["39954"]
+  },
+  {
+    "text": "Loperamide",
+    "position": [870, 880],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["6468"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [901, 914],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "phân lỏng",
+    "position": [260, 269],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất nước",
+    "position": [311, 319],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

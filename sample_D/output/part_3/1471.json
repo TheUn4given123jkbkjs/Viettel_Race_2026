@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Loạn dưỡng cơ Duchenne",
+    "position": [797, 819],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G71.0"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [845, 857],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Deflazacort",
+    "position": [859, 870],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["22396"]
+  },
+  {
+    "text": "Prednisone",
+    "position": [900, 910],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "G71.0",
+    "position": [821, 826],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G71.0"]
+  }
+]

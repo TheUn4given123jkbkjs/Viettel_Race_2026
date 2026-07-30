@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Ung thư dạ dày",
+    "position": [632, 646],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["D00"]
+  },
+  {
+    "text": "Cisplatin",
+    "position": [707, 716],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Fluorouracil",
+    "position": [718, 730],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4492"]
+  },
+  {
+    "text": "Oxaliplatin",
+    "position": [734, 745],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["32592"]
+  },
+  {
+    "text": "Capecitabine",
+    "position": [1449, 1461],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["194000"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [141, 154],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tiểu đường tuýp 2",
+    "position": [162, 179],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [210, 219],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp",
+    "position": [146, 154],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiệt độ cơ thể",
+    "position": [357, 372],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mạch",
+    "position": [381, 385],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

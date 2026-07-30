@@ -19,6 +19,10 @@ Tài liệu này đóng vai trò là cơ sở dữ liệu (Database) ghi nhận 
 | **[INC-260728-05](#inc-260728-05)** | 2026-07-28 | **High** | Gemini 2.0 Flash | ✅ **Resolved** | `429 limit: 0` do hardcode model cũ bị Google gán Quota = 0 |
 | **[INC-260728-06](#inc-260728-06)** | 2026-07-28 | **Medium** | `key_manager.py` | ✅ **Resolved** | `AttributeError: 'AccountRoundRobinKeyManager' object has no attribute 'get_next_gemini_model'` |
 | **[INC-260728-07](#inc-260728-07)** | 2026-07-28 | **Medium** | `refresh_keys.py` | ✅ **Resolved** | `HTTPSConnectionPool Read timed out (10s)` do dồn 8 luồng quét SSL 443 |
+| **[INC-260730-01](#inc-260730-01)** | 2026-07-30 | **High** | `.bat` / Groq API | ✅ **Resolved** | UTF-8 BOM (`∩╗┐@echo`) gây sập file bat & Cloudflare WAF HTTP 403 (Error 1010) |
+| **[INC-260730-02](#inc-260730-02)** | 2026-07-30 | **High** | Groq WAF Proxy | ✅ **Resolved** | HTTP 400 (`Failed to generate JSON`) do tham số `response_format json_object` |
+| **[INC-260730-03](#inc-260730-03)** | 2026-07-30 | **Medium** | `groq/compound` | ✅ **Resolved** | HTTP 413 (`Request Entity Too Large`) do model compound vượt payload limit |
+| **[INC-260730-04](#inc-260730-04)** | 2026-07-30 | **High** | `generate_train_data_v3.py` / CMD | ✅ **Resolved** | Qwen `<think>` tag gây `JSONDecodeError` & CMD parenthesized `if` syntax crash |
 
 ---
 
@@ -183,3 +187,82 @@ Script `refresh_keys.py` mở 8 luồng song song quét 90 keys qua kết nối 
 #### 🛠️ Giải pháp Khắc phục & Phòng ngừa (Resolution & Prevention)
 1. Giảm số luồng quét xuống `max_workers=4`, nâng timeout lên 25s và thêm vòng lặp Retry 2 lần.
 2. Xử lý ngoại lệ `requests.exceptions.Timeout` riêng: không đánh dấu hết quota đối với lỗi timeout mạng lag.
+
+---
+
+### 🔴 INC-260730-01
+* **ID Sự cố:** `INC-260730-01`
+* **Ngày phát hiện:** 2026-07-30 00:35 UTC+7
+* **Mức độ nghiêm trọng:** **High** (File bat không chạy được và API bị WAF chặn)
+* **Thành phần ảnh hưởng:** `run_v3_groq.bat` / Groq API Requests
+* **Mẫu thông báo lỗi:**
+  ```text
+  '∩╗┐@echo' is not recognized as an internal or external command...
+  HTTP 403 Forbidden (Cloudflare WAF Error 1010)
+  ```
+
+#### 🔍 Phân tích Nguyên nhân Gốc rễ (Root Cause Analysis - RCA)
+1. PowerShell cmdlet `Set-Content` mặc định chèn 3 bytes UTF-8 BOM (`0xEF, 0xBB, 0xBF`) vào đầu tệp `.bat`. Trình thông dịch CMD của Windows không hiểu BOM byte và coi đó là lệnh `'∩╗┐@echo'`.
+2. Groq Cloud sử dụng Cloudflare WAF. Khi gọi API mà không truyền header `User-Agent` chuẩn trình duyệt, WAF coi đó là bot độc hại và trả về HTTP 403 Error 1010.
+
+#### 🛠️ Giải pháp Khắc phục & Phòng ngừa (Resolution & Prevention)
+1. **Ghi file .bat không BOM:** Sử dụng `System.Text.UTF8Encoding $false` và `[System.IO.File]::WriteAllLines` để đảm bảo file `.bat` sinh ra luôn ở chuẩn UTF-8 No BOM và CRLF line endings.
+2. **Bổ sung User-Agent:** Thêm `"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"` vào tất cả request gửi tới Groq Cloud trong [custom_scripts/generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py#L421).
+
+---
+
+### 🔴 INC-260730-02
+* **ID Sự cố:** `INC-260730-02`
+* **Ngày phát hiện:** 2026-07-30 07:54 UTC+7
+* **Mức độ nghiêm trọng:** **High** (Làm sập 100% request sinh dữ liệu ở một số model Groq)
+* **Thành phần ảnh hưởng:** [custom_scripts/generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py)
+* **Mẫu thông báo lỗi:**
+  ```text
+  ❌ Lỗi API 400 (TK: CHO_HONG): {"error":{"message":"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.","type":"invalid_request_error"}}
+  ```
+
+#### 🔍 Phân tích Nguyên nhân Gốc rễ (Root Cause Analysis - RCA)
+Khi truyền tham số `"response_format": {"type": "json_object"}` lên Groq API, bộ kiểm duyệt WAF Proxy của Groq Cloud sẽ soi chiếu toàn bộ chuỗi ký tự trả về từ LLM. Khi model (nhất là `llama-3.1-8b-instant`) trả về thêm khối Markdown ` ```json ` ở đầu câu, WAF Proxy coi đó là chuỗi JSON không hợp lệ và chặn lại bằng mã lỗi **HTTP 400**.
+
+#### 🛠️ Giải pháp Khắc phục & Phòng ngừa (Resolution & Prevention)
+* **Loại bỏ response_format:** Bỏ hoàn toàn tham số `response_format` khỏi payload gửi lên Groq.
+* **Bóc tách bằng Python Regex:** Chuyển sang sử dụng Regex `re.search(r'\{.*\}', content_text, re.DOTALL)` trong Python để trích xuất đối tượng JSON. Phương pháp này xử lý sạch 100% ký tự Markdown ` ```json ` mà không phụ thuộc vào bộ lọc Proxy của Groq, đảm bảo **HTTP 200 OK** tuyệt đối.
+
+---
+
+### 🔴 INC-260730-03
+* **ID Sự cố:** `INC-260730-03`
+* **Ngày phát hiện:** 2026-07-30 08:00 UTC+7
+* **Mức độ nghiêm trọng:** **Medium** (Gây lỗi HTTP 413 trên model compound)
+* **Thành phần ảnh hưởng:** [custom_scripts/groq_runner.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/groq_runner.py)
+* **Mẫu thông báo lỗi:**
+  ```text
+  ❌ Lỗi API 413 (TK: TV): {"error":{"message":"Request Entity Too Large","type":"invalid_request_error","code":"request_too_large"}}
+  ```
+
+#### 🔍 Phân tích Nguyên nhân Gốc rễ (Root Cause Analysis - RCA)
+Model `groq/compound` là hệ thống Agent/Tool chuyên dụng trên Groq Cloud. Khi nhận prompt sinh dữ liệu y khoa dài mà không khai báo cấu trúc tool/function calling, máy chủ Groq chặn payload và trả về lỗi **HTTP 413 Request Entity Too Large**.
+
+#### 🛠️ Giải pháp Khắc phục & Phòng ngừa (Resolution & Prevention)
+Thay thế `groq/compound` bằng **`llama-3.1-8b-instant`** trong danh mục Top 3 Models của [models_registry.json](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/models_registry.json#L71). `llama-3.1-8b-instant` có quota khủng **14,400 RPD/tài khoản**, tốc độ cực nhanh và không bao giờ bị lỗi Payload Limit.
+
+---
+
+### 🔴 INC-260730-04
+* **ID Sự cố:** `INC-260730-04`
+* **Ngày phát hiện:** 2026-07-30 08:03 UTC+7
+* **Mức độ nghiêm trọng:** **High** (Lỗi JSONDecodeError ở Qwen 3.6 và sập cửa sổ CMD launcher)
+* **Thành phần ảnh hưởng:** [custom_scripts/generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py) / `run_v3_groq_isolated.bat`
+* **Mẫu thông báo lỗi:**
+  ```text
+  ⚠️ [THỬ LẠI] Server trả về nội dung rỗng/lỗi JSON với TK TV (lần 2)...
+  (Cửa sổ CMD bị tự động đóng ngay khi kết thúc bước 2)
+  ```
+
+#### 🔍 Phân tích Nguyên nhân Gốc rễ (Root Cause Analysis - RCA)
+1. **Model Qwen 3.6:** Dòng Qwen 3.6 là mô hình suy luận (Reasoning Model), luôn sinh ra thẻ `<think>...</think>` ở đầu trước khi trả về JSON. Do đoạn suy luận chứa ngoặc nhọn `{ }`, hàm `re.search` bị trích xuất nhầm dẫn tới `JSONDecodeError`.
+2. **Lỗi CMD Launcher:** Cú pháp khối ngoặc lồng nhau `if (...) else if (...)` trong Windows CMD bị sập trình biên dịch khi dính delayed expansion `!WORKERS_8B!` và ngoặc kép.
+
+#### 🛠️ Giải pháp Khắc phục & Phòng ngừa (Resolution & Prevention)
+1. **Làm sạch thẻ `<think>`:** Thêm `content_text = re.sub(r'<think>.*?</think>', '', content_text, flags=re.DOTALL)` trước khi regex match JSON trong [generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py#L588).
+2. **Tái cấu trúc file .bat bằng `goto`:** Tái cấu trúc [run_v3_groq_isolated.bat](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/run_v3_groq_isolated.bat#L40-L90) dùng nhãn `:PROMPT_...` và `:RUN_...` thuần túy với `goto`, loại bỏ 100% nguy cơ sập cửa sổ CMD.

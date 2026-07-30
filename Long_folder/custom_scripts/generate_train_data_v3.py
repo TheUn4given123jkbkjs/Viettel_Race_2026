@@ -417,7 +417,8 @@ def generate_call_groq(api_key, prompt, model_name=None):
     url = "https://api.groq.com/openai/v1/chat/completions"
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json"
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
     payload = {
         "model": model_name,
@@ -425,9 +426,12 @@ def generate_call_groq(api_key, prompt, model_name=None):
             {"role": "system", "content": "You are a helpful medical data generator. Always output raw JSON only."},
             {"role": "user", "content": prompt}
         ],
-        "response_format": {"type": "json_object"},
         "temperature": 0.8
     }
+    # Chỉ truyền response_format json_object cho dòng Llama (Qwen và Compound sẽ bị lỗi HTTP 400 nếu truyền param này)
+    if "llama" in model_name.lower():
+        payload["response_format"] = {"type": "json_object"}
+
     res = requests.post(url, headers=headers, json=payload, timeout=60)
     return res, model_name
 
@@ -480,8 +484,8 @@ def generate_with_smart_rotation(provider, prompt, max_attempts=15):
     global global_provider_toggle
     
     for attempt in range(max_attempts):
+        available_providers = []
         if provider == "auto":
-            available_providers = []
             for p in ["groq", "gemini", "sambanova", "ninerouter"]:
                 if p in key_manager.keys_by_provider:
                     total_keys = sum(len(keys) for keys in key_manager.keys_by_provider[p].values())
@@ -499,6 +503,7 @@ def generate_with_smart_rotation(provider, prompt, max_attempts=15):
             global_provider_toggle = available_providers[next_idx]
         else:
             current_provider = provider
+            available_providers = [provider]
 
         key_res = key_manager.get_next_key(current_provider)
         
@@ -534,16 +539,8 @@ def generate_with_smart_rotation(provider, prompt, max_attempts=15):
             print(f"  👉 [THỬ LẦN {attempt+1}] Gửi API -> Nhà cung cấp: [{current_provider.upper()} ({used_model})] | TK: [{account_id.upper()}] (Key: {api_key[:10]}...)")
 
             if res.status_code == 429:
-                cooldown_sec = 15.0  # Tạm thời dãn cách 15s cho 429 RPM
-                is_daily_limit = False
-                
-                res_text_lower = res.text.lower()
-                if "tokens per day" in res_text_lower or "tpd" in res_text_lower or "daily limit" in res_text_lower or "requests per day" in res_text_lower or "limit 100000" in res_text_lower:
-                    cooldown_sec = 28800.0  # Đóng băng 8 tiếng nếu hết hạn mức ngày
-                    is_daily_limit = True
-                    print(f"  🚨 [DAILY LIMIT DETECTED] Tài khoản {account_id.upper()} đã hết hạn mức Token trong ngày. Đóng băng 8 giờ!")
-
-                print(f"  🛑 Key [{api_key[:12]}...] (TK: {account_id.upper()}) dính Rate Limit 429 với Model [{used_model}]. Đang đóng băng Key {cooldown_sec:.1f}s...")
+                cooldown_sec = 10.0  # Tạm dừng ngắn 10s cho mọi lỗi 429, không đóng băng 8 tiếng
+                print(f"  🛑 Key [{api_key[:12]}...] (TK: {account_id.upper()}) tạm nghỉ 10s...")
                 key_manager.mark_rate_limited(key_info, cooldown_seconds=cooldown_sec)
                 
                 if "groq" in available_providers and current_provider != "groq":
@@ -588,6 +585,9 @@ def generate_with_smart_rotation(provider, prompt, max_attempts=15):
                 else:
                     content_text = res_data["choices"][0]["message"]["content"]
                 
+            if "<think>" in content_text:
+                content_text = re.sub(r'<think>.*?</think>', '', content_text, flags=re.DOTALL)
+
             match = re.search(r'\{.*\}', content_text, re.DOTALL)
             if match:
                 cleaned_text = match.group(0)

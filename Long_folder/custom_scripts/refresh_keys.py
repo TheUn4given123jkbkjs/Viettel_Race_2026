@@ -200,9 +200,10 @@ def check_and_update_models_registry(alive_keys_by_provider):
     except Exception as e:
         print(f"❌ Lỗi cập nhật models_registry.json: {e}")
 
-def refresh_and_update_env():
+def refresh_and_update_env(provider_filter: str = None):
     print("=" * 80)
-    print("⚡ BẮT ĐẦU KIỂM TRA SỨC KHỎE TỰ ĐỘNG (DÃN CÁCH 1S) & CẬP NHẬT FILE .ENV")
+    label = f"CHI QUET [{provider_filter.upper()}]" if provider_filter else "QUET TAT CA PROVIDERS"
+    print(f"⚡ BẮT ĐẦU KIỂM TRA SỨC KHỎE TỰ ĐỘNG ({label}) & CẬP NHẬT FILE .ENV")
     print("=" * 80)
     
     master = load_master_keys()
@@ -213,6 +214,8 @@ def refresh_and_update_env():
     total_tested = 0
     
     for provider, items in master.items():
+        if provider_filter and provider != provider_filter:
+            continue
         acc_counter = {}
         for item in items:
             account_id = item["account_id"]
@@ -277,6 +280,14 @@ def refresh_and_update_env():
 
     check_and_update_models_registry(alive_keys_dict)
 
+    # Làm sạch cooldown cũ trong key_manager_state.json để nhường đường cho phiên chạy mới
+    try:
+        from key_manager import key_manager
+        key_manager.reset_api_stats()
+        print("🧹 Đã tự động giải phóng 100% Cooldown cũ trong key_manager_state.json!")
+    except Exception as e:
+        print(f"⚠️ Không thể reset cooldown state: {e}")
+
     print("🚀 Dàn script sinh dữ liệu và file .bat đã sẵn sàng khởi chạy ngay lập tức!")
     
     # Tự động tính toán số Worker tối ưu và cập nhật trực tiếp vào các file .bat
@@ -291,16 +302,17 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser(description="Tool kiểm tra sức khỏe và tự động refresh API Keys")
     parser.add_argument("--loop", type=int, default=0, help="Thời gian tự động lặp lại tính theo phút (Ví dụ: --loop 20)")
+    parser.add_argument("--provider", type=str, default=None, help="Chỉ quét provider này (groq / gemini / sambanova). Mặc định: quét tất cả")
     args = parser.parse_args()
 
     if args.loop > 0:
         print(f"🔁 ĐÃ BẬT CHẾ ĐỘ QUÉT TỰ ĐỘNG LẶP LAI MỖI {args.loop} PHÚT.")
         try:
             while True:
-                refresh_and_update_env()
+                refresh_and_update_env(provider_filter=args.provider)
                 print(f"\n⏳ Tạm nghỉ {args.loop} phút trước lượt quét kế tiếp...")
                 time.sleep(args.loop * 60)
         except KeyboardInterrupt:
             print("\n🛑 Đã dừng tiến trình quét tự động.")
     else:
-        refresh_and_update_env()
+        refresh_and_update_env(provider_filter=args.provider)

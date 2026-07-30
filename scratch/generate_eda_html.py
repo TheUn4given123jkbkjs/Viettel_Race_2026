@@ -8,7 +8,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-SAMPLE_DIRS = ["sample_A", "sample_C", "sample_Long", "sample_D"]
+SAMPLE_DIRS = ["sample_A", "sample_C", "sample_Long", "sample_D", "sample_E"]
 ARTIFACTS_DIR = Path("C:/Users/ACER_LAPTOP/.gemini/antigravity-ide/brain/9d7cd940-1f6b-439e-acd3-12b2e0336bdd")
 OUTPUT_PATH = ARTIFACTS_DIR / "eda_dashboard.html"
 
@@ -374,10 +374,10 @@ def main():
 <body>
 
 <header>
-  <h1>🏥 EDA Dashboard — Tập Dữ Liệu Y Khoa NER (4 Bộ Dataset)</h1>
-  <p>Phân tích khám phá toàn diện: <strong>sample_A, sample_Long, sample_C, sample_D</strong> — Kết hợp với nghiên cứu dịch tễ học Việt Nam (WHO, IHME GBD, BV Đại học Y HN)</p>
-  <span class="tag">7,975 bệnh án</span>
-  <span class="tag">50,991 nhãn NER</span>
+  <h1>🏥 EDA Dashboard — Tập Dữ Liệu Y Khoa NER (5 Bộ Dataset)</h1>
+  <p>Phân tích khám phá toàn diện: <strong>sample_A, sample_Long, sample_C, sample_D, sample_E</strong> — Kết hợp với nghiên cứu dịch tễ học Việt Nam (WHO, IHME GBD, BV Đại học Y HN)</p>
+  <span class="tag">{total_txt:,} bệnh án</span>
+  <span class="tag">{total_entities:,} nhãn NER</span>
   <span class="tag">5 loại thực thể</span>
   <span class="tag">0.000% lỗi alignment</span>
 </header>
@@ -477,7 +477,7 @@ def main():
 </div>
 
 <div class="footer">
-  EDA Dashboard — Tập dữ liệu NER Y khoa Việt Nam · 4 bộ dataset · Generated 2026-07-30<br/>
+  EDA Dashboard — Tập dữ liệu NER Y khoa Việt Nam · 5 bộ dataset · Generated 2026-07-30<br/>
   Nguồn nghiên cứu: WHO Vietnam NCD Profile · IHME GBD · BV Đại học Y HN · IDF Atlas 2024 · Hội Tim mạch VN
 </div>
 
@@ -504,23 +504,23 @@ const MIXED_5 = ['#58a6ff','#3fb950','#d29922','#bc8cff','#f0883e'];
 // Chart 1: Avg Words per dataset
 Plotly.newPlot('chart-avgwords', [{{
   type: 'bar', x: D.ds_names, y: D.ds_avg_words,
-  marker: {{ color: ['#484f58','#484f58','#58a6ff','#58a6ff'], line: {{ width: 0 }} }},
+  marker: {{ color: ['#484f58','#484f58','#58a6ff','#58a6ff','#58a6ff'], line: {{ width: 0 }} }},
   text: D.ds_avg_words.map(v => v + ' từ'), textposition: 'outside',
   textfont: {{ color: '#c9d1d9', size: 13 }},
   hovertemplate: '<b>%{{x}}</b><br>%{{y}} từ/file<extra></extra>'
 }}], {{
   ...dark_layout,
   yaxis: {{ ...dark_layout.yaxis, title: 'Số từ trung bình' }},
-  shapes: [{{ type: 'line', x0: -0.5, x1: 3.5, y0: 436.7, y1: 436.7, 
+  shapes: [{{ type: 'line', x0: -0.5, x1: 4.5, y0: 436.7, y1: 436.7, 
               line: {{ color: '#f0883e', width: 1.5, dash: 'dot' }} }}],
-  annotations: [{{ x: 3.4, y: 450, text: '← Thực tế: 436 từ', showarrow: false, 
+  annotations: [{{ x: 4.4, y: 450, text: '← Thực tế: 436 từ', showarrow: false, 
                    font: {{ color: '#f0883e', size: 11 }} }}]
 }}, plotly_config);
 
 // Chart 2: Avg entities per dataset
 Plotly.newPlot('chart-avgents', [{{
   type: 'bar', x: D.ds_names, y: D.ds_avg_ents,
-  marker: {{ color: ['#484f58','#484f58','#3fb950','#3fb950'], line: {{ width: 0 }} }},
+  marker: {{ color: ['#484f58','#484f58','#3fb950','#3fb950','#3fb950'], line: {{ width: 0 }} }},
   text: D.ds_avg_ents.map(v => v.toFixed(1)), textposition: 'outside',
   textfont: {{ color: '#c9d1d9', size: 13 }},
   hovertemplate: '<b>%{{x}}</b><br>%{{y}} thực thể/file<extra></extra>'
@@ -684,7 +684,11 @@ document.getElementById('kpi-avg-words').textContent = avg_words;
 </html>"""
 
     OUTPUT_PATH.write_text(html_content, encoding='utf-8')
-    print(f"✅ Đã tạo dashboard HTML thành công: {OUTPUT_PATH}")
+    local_output = BASE_DIR / "eda_dashboard.html"
+    local_output.write_text(html_content, encoding='utf-8')
+    print(f"✅ Đã tạo dashboard HTML thành công:")
+    print(f"   Artifact: {OUTPUT_PATH}")
+    print(f"   Workspace: {local_output}")
     print(f"   Mở file trên trình duyệt để xem kết quả.")
 
 if __name__ == "__main__":

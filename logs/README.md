@@ -2,6 +2,18 @@
 
 ---
 
+### 📌 LOG-20260730-V6.2: Tích hợp Tập dữ liệu bổ sung Sample E & Cập nhật EDA Toàn hệ thống
+
+* **Ngày thực hiện:** `2026-07-30 16:20:00 (UTC+7)`
+* **Lý do:** Bổ sung tập dữ liệu phụ trợ `sample_E` gồm 248 file bệnh án để tăng quy mô huấn luyện và mở rộng độ dài văn bản ngữ cảnh.
+* **Cách khắc phục:** 
+  * Cập nhật các script tạo EDA ([generate_eda_report.py](file:///d:/record_by_me/Viettel_race/scratch/generate_eda_report.py), [generate_eda_html.py](file:///d:/record_by_me/Viettel_race/scratch/generate_eda_html.py)) và script gộp dữ liệu ([merge_datasets.py](file:///d:/record_by_me/Viettel_race/scratch/merge_datasets.py)) để bao gồm `sample_E`.
+  * Đồng bộ [diagnose_comparison.ipynb](file:///d:/record_by_me/Viettel_race/diagnose_comparison.ipynb) (Cell 1, 3, 5, 7, 9, 10) để phân tích đầy đủ metrics của `sample_E`.
+  * Hợp nhất thành công 8,223 bệnh án ShareGPT vào [train_clean.json](file:///d:/record_by_me/Viettel_race/train_clean.json).
+* **Chi tiết Log:** [LOG-20260730-V6.2-INTEGRATING-SAMPLE-E.md](file:///d:/record_by_me/Viettel_race/logs/LOG-20260730-V6.2-INTEGRATING-SAMPLE-E.md)
+
+---
+
 ### 📌 LOG-20260730-V6.1: Làm giàu CSDL, Sửa lỗi thiếu Candidates & Đồng bộ Sample D v6.1
 
 * **Ngày thực hiện:** `2026-07-30 14:55:00 (UTC+7)`

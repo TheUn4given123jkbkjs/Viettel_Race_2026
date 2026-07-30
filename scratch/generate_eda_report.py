@@ -9,7 +9,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-SAMPLE_DIRS = ["sample_A", "sample_C", "sample_Long", "sample_D"]
+SAMPLE_DIRS = ["sample_A", "sample_C", "sample_Long", "sample_D", "sample_E"]
 ARTIFACTS_DIR = Path("C:/Users/ACER_LAPTOP/.gemini/antigravity-ide/brain/9d7cd940-1f6b-439e-acd3-12b2e0336bdd")
 OUTPUT_PATH = ARTIFACTS_DIR / "eda_report.md"
 
@@ -42,7 +42,7 @@ def classify_style(text):
         return "Other"
 
 def main():
-    print("Bắt đầu thu thập dữ liệu EDA cho 4 bộ dataset...")
+    print("Bắt đầu thu thập dữ liệu EDA cho 5 bộ dataset...")
     
     total_txt = 0
     total_words = 0
@@ -224,7 +224,7 @@ def main():
     markdown_report = f"""# 📊 BÁO CÁO PHÂN TÍCH KHÁM PHÁ DỮ LIỆU TỔNG HỢP (COMPREHENSIVE EDA REPORT)
 
 > [!NOTE]
-> Báo cáo này tổng hợp thống kê định lượng và cơ cấu thuộc tính từ cả 4 bộ dữ liệu huấn luyện y khoa: `sample_A`, `sample_Long`, `sample_C` và `sample_D` (Tổng số **7,975 bệnh án** với **50,991 nhãn**).
+> Báo cáo này tổng hợp thống kê định lượng và cơ cấu thuộc tính từ cả 5 bộ dữ liệu huấn luyện y khoa: `sample_A`, `sample_Long`, `sample_C`, `sample_D` và `sample_E` (Tổng số **{total_txt:,} bệnh án** với **{total_entities:,} nhãn**).
 
 ---
 
@@ -235,9 +235,10 @@ def main():
 {dataset_rows_md}| **TỔNG CỘNG** | **{total_txt:,}** | **{total_words/total_txt:.1f}** | **{total_entities:,}** | **{total_entities/total_txt:.1f}** | **{missing_icd_count}** | **{missing_rx_count}** |
 
 > [!TIP]
-> * Quy mô toàn tập đạt **7,975 file** (sát nút mục tiêu 8,000 file).
+> * Quy mô toàn tập đạt **{total_txt:,} file** (đã vượt mục tiêu ban đầu 8,000 file).
 > * Trung bình mỗi file có **{total_words/total_txt:.1f} từ** và chứa **{total_entities/total_txt:.1f} thực thể** lâm sàng y khoa.
-> * Việc đưa các bộ dữ liệu cải tiến như `sample_C` và `sample_D` vào đã nâng cao vượt bậc chất lượng độ dài, hạn chế hiện tượng template fatigue.
+> * Việc đưa các bộ dữ liệu cải tiến như `sample_C`, `sample_D` và `sample_E` vào đã nâng cao vượt bậc chất lượng độ dài, hạn chế hiện tượng template fatigue.
+
 
 ---
 

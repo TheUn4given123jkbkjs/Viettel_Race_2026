@@ -7,7 +7,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-SAMPLE_DIRS = ["sample_A", "sample_C", "sample_Long", "sample_D"]
+SAMPLE_DIRS = ["sample_A", "sample_C", "sample_Long", "sample_D", "sample_E"]
 OUTPUT_FILE = BASE_DIR / "train_clean.json"
 
 PROMPT_TEMPLATE = """Bạn là một chuyên gia y tế AI. Hãy phân tích đoạn văn bản lâm sàng tiếng Việt sau đây, trích xuất tất cả các thực thể y tế và trả về dưới dạng một danh sách JSON.

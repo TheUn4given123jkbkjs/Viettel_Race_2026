@@ -9,11 +9,11 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-SAMPLE_DIRS = ["sample_A", "sample_C", "sample_Long", "sample_D"]
+SAMPLE_DIRS = ["sample_A", "sample_C", "sample_Long", "sample_D", "sample_E"]
 
 def main():
     print("=" * 90)
-    print("  PHÂN TÍCH QUY MÔ & CƠ CẤU TỔNG HỢP 4 BỘ DỮ LIỆU HUẤN LUYỆN (A, C, LONG, D)")
+    print("  PHÂN TÍCH QUY MÔ & CƠ CẤU TỔNG HỢP 5 BỘ DỮ LIỆU HUẤN LUYỆN (A, C, LONG, D, E)")
     print("=" * 90)
     
     total_txt = 0

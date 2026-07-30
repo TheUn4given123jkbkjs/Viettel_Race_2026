@@ -1,9 +1,0 @@
-[
-  {
-    "text": "Nhiễm virus khác ở vị trí không xác định",
-    "position": [10, 50],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": ["isNegated", "isFamily"],
-    "candidates": ["B34.8", "M01.59*"]
-  }
-]

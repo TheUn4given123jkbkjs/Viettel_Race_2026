@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Đái tháo đường type 2",
+    "position": [657, 678],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Metformin",
+    "position": [3933, 3942],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "**Sitagliptin**",
+    "position": [4040, 4055],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử đái tháo đường tuýp 2",
+    "position": [157, 186],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c 8,5%",
+    "position": [241, 251],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cholesterol máu cao",
+    "position": [253, 272],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

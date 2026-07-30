@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Xơ gan",
+    "position": [182, 188],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["K74.6"]
+  },
+  {
+    "text": "Tăng enzyme gan",
+    "position": [1089, 1104],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng bilirubin",
+    "position": [1122, 1136],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Bệnh Gaucher",
+    "position": [21, 33],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E75.22"]
+  },
+  {
+    "text": "Imiglucerase",
+    "position": [1219, 1231],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Miglustat",
+    "position": [1308, 1317],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lách to",
+    "position": [579, 586],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiêu hóa kém",
+    "position": [589, 601],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Suy giảm miễn dịch",
+    "position": [614, 632],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng nguy cơ nhiễm trùng",
+    "position": [635, 659],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [805, 819],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm hình ảnh",
+    "position": [857, 876],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

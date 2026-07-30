@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Giảm gammaglobulin di truyền (Bruton)",
+    "position": [887, 924],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng tái phát",
+    "position": [105, 125],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ông ngoại tiền sử suy giảm miễn dịch",
+    "position": [1533, 1569],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "định lượng IgG toàn phần",
+    "position": [1241, 1265],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dưới 200 mg/dL",
+    "position": [1266, 1280],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Albuterol",
+    "position": [1934, 1943],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["435"]
+  },
+  {
+    "text": "Diphtheria-Tetanus-Pertussis-Hepatitis B-Haemophilus influenzae type b Vaccine",
+    "position": [2377, 2455],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2368450"]
+  }
+]

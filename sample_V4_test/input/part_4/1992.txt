@@ -1,0 +1,61 @@
+Rối loạn lipid máu (ICD-10: E78.5) là tình trạng khi mức lipid trong máu tăng cao, gây ra nhiều vấn đề cho sức khỏe. Nguyên nhân gây ra rối loạn lipid máu có thể là do di truyền, chế độ ăn uống không lành mạnh, hoặc lối sống không phù hợp.
+
+Triệu chứng lâm sàng của rối loạn lipid máu bao gồm tăng cholesterol, tăng triglyceride, và các vấn đề về tim mạch. Cholesterol và triglyceride là hai loại lipid quan trọng trong máu, và khi chúng tăng cao, có thể gây ra nhiều vấn đề cho sức khỏe.
+
+Xét nghiệm chẩn đoán rối loạn lipid máu bao gồm xét nghiệm lipid máu, xét nghiệm lipid máu chi tiết, và xét nghiệm lipid máu toàn phần. Xét nghiệm lipid máu giúp xác định mức lipid trong máu, trong khi xét nghiệm lipid máu chi tiết giúp xác định mức lipid trong máu của từng loại lipid khác nhau.
+
+Hướng điều trị tây y cho rối loạn lipid máu bao gồm thay đổi lối sống, chẳng hạn như ăn uống lành mạnh, tập thể dục thường xuyên, và giảm cân. Ngoài ra, điều trị tây y cũng có thể bao gồm sử dụng statin, một loại thuốc giúp giảm mức lipid trong máu.
+
+Trong trường hợp của bệnh nhân, chẩn đoán rối loạn lipid máu đã được xác định qua xét nghiệm lipid máu toàn phần. Kết quả xét nghiệm cho thấy mức cholesterol và triglyceride của bệnh nhân cao hơn mức bình thường.
+
+Bệnh nhân được chỉ định phẫu thuật để điều trị rối loạn lipid máu. Trước khi phẫu thuật, bệnh nhân cần phải được kiểm tra kỹ lưỡng để đảm bảo rằng bệnh nhân không có bất kỳ vấn đề sức khỏe nào khác.
+
+Bệnh nhân đã được kiểm tra kỹ lưỡng và không có bất kỳ vấn đề sức khỏe nào khác. Tuy nhiên, bệnh nhân đã có vài vấn đề sức khỏe trước đây, bao gồm tăng huyết áp và tiểu đường. Các vấn đề sức khỏe này cần phải được kiểm tra và điều trị trước khi phẫu thuật.
+
+Sau khi được kiểm tra kỹ lưỡng, bệnh nhân đã được chỉ định phẫu thuật để điều trị rối loạn lipid máu. Bệnh nhân sẽ được theo dõi chặt chẽ sau khi phẫu thuật để đảm bảo rằng bệnh nhân không có bất kỳ vấn đề sức khỏe nào khác.
+
+Bệnh nhân đã được phẫu thuật và đã có kết quả thuận lợi. Bệnh nhân đã được theo dõi chặt chẽ sau khi phẫu thuật và không có bất kỳ vấn đề sức khỏe nào khác.
+
+Tóm lại, rối loạn lipid máu là tình trạng khi mức lipid trong máu tăng cao, gây ra nhiều vấn đề cho sức khỏe. Chẩn đoán rối loạn lipid máu được xác định qua xét nghiệm lipid máu toàn phần. Hướng điều trị tây y cho rối loạn lipid máu bao gồm thay đổi lối sống và sử dụng statin. Bệnh nhân được chỉ định phẫu thuật để điều trị rối loạn lipid máu và đã có kết quả thuận lợi sau khi phẫu thuật.
+
+Các thực thể được trích xuất trong văn bản này bao gồm:
+{
+  "text": "Rối loạn lipid máu",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": ["", ""]
+},
+{
+  "text": "tăng cholesterol",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [""]
+},
+{
+  "text": "tăng triglyceride",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [""]
+},
+{
+  "text": "xét nghiệm lipid máu",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [""]
+},
+{
+  "text": "xét nghiệm lipid máu toàn phần",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": [""]
+},
+{
+  "text": "statin",
+  "type": "THUỐC",
+  "assertions": [""]
+},
+{
+  "text": "phẫu thuật",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": [""]
+},
+{
+  "text": "rối loạn lipid máu",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": ["", ""]
+}

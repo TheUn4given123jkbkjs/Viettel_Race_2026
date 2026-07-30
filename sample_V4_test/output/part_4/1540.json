@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh Parkinson",
+    "position": [0, 14],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["G20"]
+  },
+  {
+    "text": "Levodopa/Carbidopa",
+    "position": [1608, 1626],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["103990"]
+  },
+  {
+    "text": "cứng cơ",
+    "position": [465, 472],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chậm vận động",
+    "position": [574, 587],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [954, 968],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm não",
+    "position": [1066, 1080],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

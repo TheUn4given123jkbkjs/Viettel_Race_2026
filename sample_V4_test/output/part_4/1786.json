@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Rối loạn lipid máu",
+    "position": [39, 57],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E78.5"]
+  },
+  {
+    "text": "Atorvastatin",
+    "position": [86, 98],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Cholesterol LDL",
+    "position": [380, 395],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triglyceride",
+    "position": [409, 421],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "180 mg/dL",
+    "position": [397, 406],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "250 mg/dL",
+    "position": [423, 432],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

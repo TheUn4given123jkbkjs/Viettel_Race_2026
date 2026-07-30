@@ -1,0 +1,44 @@
+[
+  {
+    "text": "đái tháo đường type 2",
+    "position": [283, 304],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "HbA1c",
+    "position": [726, 731],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10,2%",
+    "position": [733, 738],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "metformin",
+    "position": [392, 401],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "1,5 g/l",
+    "position": [864, 871],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0,7 mmol/L",
+    "position": [883, 893],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

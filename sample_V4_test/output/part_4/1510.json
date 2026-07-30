@@ -1,0 +1,16 @@
+[
+  {
+    "text": "SCID (Suy giảm miễn dịch kết hợp nặng)",
+    "position": [523, 561],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm máu",
+    "position": [226, 248],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

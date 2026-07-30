@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Sỏi mật",
+    "position": [45, 52],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80"
+    ]
+  },
+  {
+    "text": "sốt",
+    "position": [1083, 1086],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [981, 989],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sỏi mật",
+    "position": [1418, 1425],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80"
+    ]
+  },
+  {
+    "text": "siêu âm ổ bụng",
+    "position": [1667, 1681],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sỏi túi mật kích thước 15mm",
+    "position": [2232, 2259],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sỏi mật",
+    "position": [45, 52],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K80.50",
+      "K80.51",
+      "K80"
+    ]
+  },
+  {
+    "text": "Ursodeoxycholic acid",
+    "position": [2854, 2874],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2982, 2993],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hyoscine",
+    "position": [3071, 3079],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "thoái hóa khớp gối",
+    "position": [97, 115],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [236, 247],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau nhức",
+    "position": [476, 484],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêm hyaluronic",
+    "position": [1865, 1880],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [1429, 1442],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "rối loạn lipid máu",
+    "position": [1446, 1464],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E78.5"]
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [2794, 2803],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

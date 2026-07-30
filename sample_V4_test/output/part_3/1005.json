@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm phế quản cấp",
+    "position": [147, 164],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J20.9"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [206, 217],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "37,5 độ C",
+    "position": [608, 617],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120/80 mmHg",
+    "position": [682, 693],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "6,5 mmol/L",
+    "position": [892, 902],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0,5 g/L",
+    "position": [970, 977],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

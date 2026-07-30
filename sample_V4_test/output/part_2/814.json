@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Thoát vị đĩa đệm",
+    "position": [295, 311],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M51.2"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [384, 395],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1899, 1907],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1915, 1922],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [1947, 1950],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Thoát vị đĩa đệm",
+    "position": [295, 311],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M51.2"]
+  }
+]

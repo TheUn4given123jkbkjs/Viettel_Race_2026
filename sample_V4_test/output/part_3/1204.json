@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Đái tháo đường type 2",
+    "position": [966, 987],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Metformin",
+    "position": [1114, 1123],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Glucose máu đói",
+    "position": [2155, 2170],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "9.8 mmol/L",
+    "position": [2193, 2203],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HbA1c",
+    "position": [2262, 2267],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.5 %",
+    "position": [2290, 2295],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine máu",
+    "position": [2349, 2363],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "95 umol/L",
+    "position": [2386, 2395],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

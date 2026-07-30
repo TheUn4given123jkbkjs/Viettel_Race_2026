@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh gút",
+    "position": [0, 8],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M10.9"]
+  },
+  {
+    "text": "Colchicine",
+    "position": [343, 353],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2683"]
+  },
+  {
+    "text": "Allopurinol",
+    "position": [565, 576],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["519"]
+  },
+  {
+    "text": "Febuxostat",
+    "position": [1611, 1621],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Prednisolone",
+    "position": [2132, 2144],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "đo lượng acid uric trong máu",
+    "position": [695, 723],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

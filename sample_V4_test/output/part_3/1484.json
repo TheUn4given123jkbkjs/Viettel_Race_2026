@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Đái tháo đường type 1",
+    "position": [0, 21],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E10.9"]
+  },
+  {
+    "text": "Insulin Lispro",
+    "position": [1237, 1251],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

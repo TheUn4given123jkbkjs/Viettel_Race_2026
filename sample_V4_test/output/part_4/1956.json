@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Mất ngủ",
+    "position": [0, 7],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily", "isNegated"],
+    "candidates": ["G47.0"]
+  },
+  {
+    "text": "Zolpidem",
+    "position": [1063, 1071],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Melatonin",
+    "position": [1167, 1176],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó vào giấc ngủ",
+    "position": [650, 666],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "EEG",
+    "position": [938, 941],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5mg",
+    "position": [2074, 2077],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

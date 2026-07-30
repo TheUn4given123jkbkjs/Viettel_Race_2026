@@ -1,0 +1,16 @@
+[
+  {
+    "text": "250 mg/dL",
+    "position": [317, 326],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "220 mg/dL",
+    "position": [416, 425],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

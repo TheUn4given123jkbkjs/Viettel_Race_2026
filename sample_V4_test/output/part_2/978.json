@@ -1,0 +1,34 @@
+[
+  {
+    "text": "triệu chứng",
+    "position": [333, 344],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm",
+    "position": [641, 651],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [849, 859],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chẩn đoán",
+    "position": [482, 491],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I84.7",
+      "Y88.2",
+      "Z00"
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Loạn dưỡng cơ Duchenne",
+    "position": [79, 101],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Prednisolone",
+    "position": [191, 203],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Xét nghiệm điện giải",
+    "position": [502, 522],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm sinh học",
+    "position": [608, 627],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CK (Creatine Kinase)",
+    "position": [632, 652],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Máy hỗ trợ hô hấp",
+    "position": [2690, 2707],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thiết bị hỗ trợ và điều trị tại nhà",
+    "position": [2721, 2756],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

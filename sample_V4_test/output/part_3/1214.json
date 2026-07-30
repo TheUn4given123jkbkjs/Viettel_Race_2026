@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Amoxicillin",
+    "position": [354, 365],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [392, 403],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ibuprofen",
+    "position": [425, 434],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5640"]
+  },
+  {
+    "text": "đau họng",
+    "position": [49, 57],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chlorhexidine",
+    "position": [578, 591],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2358"]
+  }
+]

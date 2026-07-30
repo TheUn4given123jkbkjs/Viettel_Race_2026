@@ -1,0 +1,44 @@
+[
+  {
+    "text": "yếu cơ tiến triển",
+    "position": [49, 66],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loạn dưỡng cơ Duchenne",
+    "position": [722, 744],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Prednisolone",
+    "position": [785, 797],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [333, 346],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường typ 2",
+    "position": [416, 436],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "creatine kinase",
+    "position": [567, 582],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

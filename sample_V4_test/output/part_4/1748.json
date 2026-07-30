@@ -1,0 +1,58 @@
+[
+  {
+    "text": "sưng nóng đỏ đau khớp bàn chân",
+    "position": [368, 398],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [413, 420],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Acid uric máu",
+    "position": [2616, 2629],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "520 umol/L",
+    "position": [2631, 2641],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh gút",
+    "position": [3246, 3254],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M10.9"]
+  },
+  {
+    "text": "Colchicine",
+    "position": [3546, 3556],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2683"]
+  },
+  {
+    "text": "Allopurinol",
+    "position": [3617, 3628],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["519"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [3691, 3700],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  }
+]

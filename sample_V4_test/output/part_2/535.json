@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Paracetamol",
+    "position": [1813, 1824],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Meloxicam",
+    "position": [1859, 1868],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Celecoxib",
+    "position": [1883, 1892],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucosamine",
+    "position": [1919, 1930],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hyaluronic acid",
+    "position": [1934, 1949],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau khi đi lại",
+    "position": [1081, 1095],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêm hyaluronic",
+    "position": [3713, 3728],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

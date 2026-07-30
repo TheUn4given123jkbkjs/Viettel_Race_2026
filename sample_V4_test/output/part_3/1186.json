@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm gan B mạn",
+    "position": [924, 938],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B18.0", "B18.1"]
+  },
+  {
+    "text": "HBV DNA",
+    "position": [664, 671],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm gan",
+    "position": [2964, 2975],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [2995, 3015],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Enzyme gan",
+    "position": [3035, 3045],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Albumin máu",
+    "position": [3069, 3080],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bố bệnh nhân có tiền sử đái tháo đường tuyp 2",
+    "position": [396, 441],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

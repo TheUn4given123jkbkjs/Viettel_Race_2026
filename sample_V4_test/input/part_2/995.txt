@@ -1,0 +1,44 @@
+Bệnh nhân nữ, 35 tuổi, được chuyển viện từ Bệnh viện A. Bệnh nhân trình bày có tiền sử sốt, ốm nghén trong 3 tháng qua. Trong quá trình ốm nghén, bệnh nhân có biểu hiện sốt nhẹ, đau đầu, buồn nôn.
+
+Số liệu lâm sàng:
+- Nhiệt độ cơ thể: 37,5°C
+- Tần số tim: 120/ phút
+- Nhiệt độ miệng: 37,5°C
+
+Kết quả xét nghiệm:
+- Công thức máu toàn phần: 
+  - Hemoglobin: 10,2 g/dL
+  - Số tiểu cầu: 1.50 x 10^12/L
+  - Số hồng cầu: 3.80 x 10^12/L
+- Sinh hóa: 
+  - Creatinin: 1.2 mg/dL
+  - Urea: 30 mg/dL
+- X-quang bụng: 
+  - Không có thay đổi bất thường nào.
+
+Bệnh nhân được chỉ định làm thêm các xét nghiệm sau:
+- Xét nghiệm HBV DNA
+- Xét nghiệm siêu âm bụng
+
+Bệnh nhân đang được điều trị với thuốc Tenofovir.
+
+Tiền sử gia đình:
+- Chị gái của bệnh nhân có tiền sử viêm gan B mạn.
+
+Bản đánh giá:
+Bệnh nhân đang có dấu hiệu nhiễm trùng, có thể là Viêm gan B mạn. Chuyên gia y tế sẽ tiếp tục theo dõi và chỉ định thêm các xét nghiệm nếu cần.
+
+Trích xuất từ văn bản:
+- Triệu chứng: sốt, đau đầu, buồn nôn
+- Tên xét nghiệm: Xét nghiệm HBV DNA, Siêu âm bụng
+- Kết quả xét nghiệm: Không có thay đổi bất thường nào
+- Tên thuốc: Tenofovir
+
+Các thực thể được trích xuất:
+- Triệu chứng: sốt (isNegated: không)
+- Tên xét nghiệm: Xét nghiệm HBV DNA (isHistorical: không)
+- Kết quả xét nghiệm: Không có thay đổi bất thường nào (isNegated: không)
+- Tên thuốc: Tenofovir (isNegated: không)
+- Tên xét nghiệm: Siêu âm bụng (isHistorical: không)
+- Trạng thái sức khỏe: Viêm gan B mạn (isNegated: không)
+- Tiền sử gia đình: Chị gái có tiền sử viêm gan B mạn (isFamily: có)

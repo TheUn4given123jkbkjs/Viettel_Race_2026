@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Suy thận mạn",
+    "position": [0, 12],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["N18.9"]
+  },
+  {
+    "text": "Erythropoietin",
+    "position": [901, 915],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Calcium Carbonate",
+    "position": [919, 936],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Calcitriol",
+    "position": [940, 950],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kayexalate",
+    "position": [954, 964],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Iron",
+    "position": [968, 972],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["90176", "105658"]
+  },
+  {
+    "text": "Creatinine máu tăng",
+    "position": [597, 616],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

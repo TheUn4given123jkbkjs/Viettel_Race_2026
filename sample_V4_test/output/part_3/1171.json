@@ -1,0 +1,44 @@
+[
+  {
+    "text": "hen phế quản",
+    "position": [52, 64],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [154, 164],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "khò khè",
+    "position": [370, 377],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở về đêm",
+    "position": [1714, 1728],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phế quản cấp tính",
+    "position": [887, 909],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J40", "J21.1"]
+  },
+  {
+    "text": "tỷ lệ hồng cầu và bạch cầu tăng",
+    "position": [915, 946],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

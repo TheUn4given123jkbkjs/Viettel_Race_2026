@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Hen phế quản",
+    "position": [35, 47],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "khò khè",
+    "position": [599, 606],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở về đêm",
+    "position": [619, 633],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đo chức năng hô hấp",
+    "position": [1119, 1138],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "FEV1/FVC < 70%",
+    "position": [1187, 1201],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Budesonide",
+    "position": [1763, 1773],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Montelukast",
+    "position": [1822, 1833],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Salbutamol",
+    "position": [1959, 1969],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

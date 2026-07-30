@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Bệnh Parkinson",
+    "position": [2365, 2379],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G20"]
+  },
+  {
+    "text": "run tay chân bên phải",
+    "position": [313, 334],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cứng khớp",
+    "position": [336, 345],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vận động chậm chạp",
+    "position": [349, 367],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [525, 538],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Chụp cộng hưởng từ (MRI) sọ não",
+    "position": [2125, 2156],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "teo não nhẹ",
+    "position": [2193, 2204],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Levodopa/Carbidopa",
+    "position": [2516, 2534],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["103990"]
+  },
+  {
+    "text": "Pramipexole",
+    "position": [2597, 2608],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trihexyphenidyl",
+    "position": [2678, 2693],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

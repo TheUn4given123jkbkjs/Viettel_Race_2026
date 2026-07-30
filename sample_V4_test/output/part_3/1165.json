@@ -1,0 +1,72 @@
+[
+  {
+    "text": "trào ngược dạ dày thực quản",
+    "position": [499, 526],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [1308, 1320],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Simvastatin",
+    "position": [1360, 1371],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["36567"]
+  },
+  {
+    "text": "cà phê",
+    "position": [1589, 1595],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rượu",
+    "position": [1597, 1601],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thức ăn cay",
+    "position": [1603, 1614],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu toàn bộ",
+    "position": [695, 716],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Sinh hóa máu",
+    "position": [778, 790],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang bụng",
+    "position": [862, 874],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm bụng",
+    "position": [918, 930],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

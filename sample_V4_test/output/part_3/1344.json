@@ -1,0 +1,65 @@
+[
+  {
+    "text": "đau âm ỉ khớp gối hai bên",
+    "position": [312, 337],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [1846, 1854],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [1862, 1869],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang khớp gối",
+    "position": [2207, 2223],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hẹp khe khớp rộng vừa hai bên, đặc xương dưới sụn ở mâm chày và lồi cầu đùi, xuất hiện các gai xương nhỏ ở rìa khớp gối hai bên",
+    "position": [2252, 2379],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thoái hóa khớp gối",
+    "position": [2420, 2438],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2586, 2595],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Glucosamine",
+    "position": [2647, 2658],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hyaluronic acid",
+    "position": [2730, 2745],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

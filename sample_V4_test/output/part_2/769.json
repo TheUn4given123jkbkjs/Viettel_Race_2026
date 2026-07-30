@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Cường giáp",
+    "position": [772, 782],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E05.9"]
+  },
+  {
+    "text": "Methimazole",
+    "position": [460, 471],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Propylthiouracil",
+    "position": [846, 862],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8794"]
+  },
+  {
+    "text": "Propranolol",
+    "position": [882, 893],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8787"]
+  },
+  {
+    "text": "Lugol",
+    "position": [912, 917],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "run tay",
+    "position": [113, 120],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "position": [48, 62],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "TPOAb",
+    "position": [582, 587],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "TSH",
+    "position": [613, 616],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Free T4",
+    "position": [671, 678],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol",
+    "position": [727, 738],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

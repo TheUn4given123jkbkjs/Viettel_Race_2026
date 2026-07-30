@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Sỏi thận",
+    "position": [53, 61],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["N20.0"]
+  },
+  {
+    "text": "Tamsulosin",
+    "position": [122, 132],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [204, 211],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau quặn thận",
+    "position": [179, 192],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0-1 tế bào máu",
+    "position": [418, 432],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10.5 g/dl",
+    "position": [449, 458],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

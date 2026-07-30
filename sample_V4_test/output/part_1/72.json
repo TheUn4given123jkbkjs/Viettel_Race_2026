@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Trầm cảm",
+    "position": [1683, 1691],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["F32.9"]
+  },
+  {
+    "text": "buồn bã kéo dài",
+    "position": [131, 146],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mất ngủ",
+    "position": [502, 509],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [1036, 1045],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [1047, 1060],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Beck Depression Inventory",
+    "position": [1638, 1663],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điểm 35/63",
+    "position": [1671, 1681],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SSRI",
+    "position": [1291, 1295],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

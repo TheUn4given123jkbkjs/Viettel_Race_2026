@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Atorvastatin",
+    "position": [1073, 1085],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Rosuvastatin",
+    "position": [1091, 1103],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm lipid máu",
+    "position": [1534, 1554],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Chế độ ăn uống lành mạnh",
+    "position": [1801, 1825],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

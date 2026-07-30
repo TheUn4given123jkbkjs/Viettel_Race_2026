@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Rối loạn lo âu",
+    "position": [184, 198],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["F41.9"]
+  },
+  {
+    "text": "Sertraline",
+    "position": [245, 255],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "lo lắng lan tỏa",
+    "position": [97, 112],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "hồi hộp",
+    "position": [114, 121],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó tập trung",
+    "position": [125, 138],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "************",
+    "position": [1188, 1200],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

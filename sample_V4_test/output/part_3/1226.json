@@ -1,0 +1,79 @@
+[
+  {
+    "text": "xơ gan",
+    "position": [145, 151],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K74.6"]
+  },
+  {
+    "text": "vàng da",
+    "position": [50, 57],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Spironolactone",
+    "position": [531, 545],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [598, 608],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Lactulose",
+    "position": [700, 709],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6218"]
+  },
+  {
+    "text": "mẹ đẻ có tiền sử đái tháo đường",
+    "position": [376, 407],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Propranolol",
+    "position": [1708, 1719],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8787"]
+  },
+  {
+    "text": "Albumin",
+    "position": [1893, 1900],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["433"]
+  },
+  {
+    "text": "Vitamin K",
+    "position": [1787, 1796],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bilirubin",
+    "position": [828, 837],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3,5mg/dL",
+    "position": [851, 859],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

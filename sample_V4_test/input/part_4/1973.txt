@@ -1,0 +1,40 @@
+Bệnh nhân được chuyển đến khoa nội khoa với tình trạng sốt 38 độ, buồn nôn nhẹ và đau đầu nhẹ. Trước đó, bệnh nhân đã có tiền sử tăng huyết áp 5 năm và đã mổ ruột thừa cách đây 2 năm. Bố đẻ của bệnh nhân có tiền sử đái tháo đường tuýp 2 và mẹ đẻ có tiền sử tăng huyết áp. Bệnh nhân được chỉ định các xét nghiệm cận lâm sàng bao gồm công thức máu, sinh hóa, X-quang, siêu âm, ECG. Kết quả xét nghiệm cho thấy:
+
+ * Công thức máu: thiếu máu nặng
+ * Sinh hóa: tăng bilirubin, tăng AST, tăng ALT
+ * X-quang: không có tổn thương quan trọng
+ * Siêu âm: tăng kích thước gan
+ * ECG: không có tổn thương quan trọng
+
+Bác sĩ nghi ngờ bệnh nhân mắc bệnh Xơ gan do rượu và quyết định chỉ định thêm xét nghiệm viêm gan B. Kết quả xét nghiệm cho thấy:
+
+ * Viêm gan B: dương tính
+
+Bác sĩ đã giải thích cho bệnh nhân về bệnh Xơ gan và phương pháp điều trị. Bệnh nhân được kê đơn thuốc Ursodiol ( hoạt chất Bile acid) 500mg/ltg và được chỉ định các xét nghiệm cận lâm sàng định kỳ. Bệnh nhân được yêu cầu không uống rượu và phải tuân thủ chỉ định của bác sĩ.
+
+Bệnh nhân được theo dõi chặt chẽ và được chỉ định các xét nghiệm cận lâm sàng định kỳ. Kết quả xét nghiệm cho thấy:
+
+ * Công thức máu: thiếu máu nặng
+ * Sinh hóa: giảm bilirubin, giảm AST, giảm ALT
+ * X-quang: không có tổn thương quan trọng
+ * Siêu âm: giảm kích thước gan
+ * ECG: không có tổn thương quan trọng
+
+Bác sĩ đã xem xét kết quả xét nghiệm và quyết định thay đổi phương pháp điều trị. Bệnh nhân được kê đơn thuốc Phospholipid ( hoạt chất Phosphatidylcholine) 500mg/ltg. Bệnh nhân được chỉ định các xét nghiệm cận lâm sàng định kỳ và được yêu cầu tuân thủ chỉ định của bác sĩ.
+
+Bệnh nhân được theo dõi chặt chẽ và được chỉ định các xét nghiệm cận lâm sàng định kỳ. Kết quả xét nghiệm cho thấy:
+
+ * Công thức máu: ổn định
+ * Sinh hóa: ổn định
+ * X-quang: không có tổn thương quan trọng
+ * Siêu âm: ổn định
+ * ECG: không có tổn thương quan trọng
+
+Bác sĩ đã xem xét kết quả xét nghiệm và quyết định rằng bệnh nhân đã được điều trị thành công. Bệnh nhân được giải thích về việc chăm sóc sức khỏe trong tương lai và được yêu cầu tuân thủ chỉ định của bác sĩ.
+
+ * TRIỆU_CHỨNG: sốt, buồn nôn, đau đầu
+ * TÊN_XÉT_NGHIỆM: công thức máu, sinh hóa, X-quang, siêu âm, ECG
+ * KẾT_QUẢ_XÉT_NGHIỆM: thiếu máu nặng, tăng bilirubin, tăng AST, tăng ALT, viêm gan B dương tính
+ * isNegated: không có tổn thương quan trọng
+ * isHistorical: tiền sử tăng huyết áp 5 năm, tiền sử mổ ruột thừa
+ * isFamily: bố đẻ tiền sử đái tháo đường tuýp 2, mẹ đẻ có tiền sử tăng huyết áp

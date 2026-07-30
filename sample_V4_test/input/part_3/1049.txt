@@ -1,0 +1,59 @@
+Nội dung bệnh án lâm sàng như sau:
+
+Bệnh nhân nữ, 35 tuổi, trình bày các triệu chứng như buồn nôn, khó tiêu, đau bụng, và tiêu chảy trong 2 tuần qua.
+
+Tiền sử bệnh nội khoa: bệnh nhân không có tiền sử bệnh tim mạch, bệnh phổi, hoặc bệnh tiêu hóa khác.
+
+Tiền sử bệnh hiện tại: bệnh nhân không đang điều trị bằng bất kỳ loại thuốc nào.
+
+Khám lúc vào viện: bệnh nhân có nụm đau bụng vùng thượng vị, và có dấu hiệu tiêu chảy.
+
+Kết quả xét nghiệm cận lâm sàng:
+
+- ECG: bình thường.
+
+- Xét nghiệm máu: số lượng tế bào máu đỏ bình thường, số lượng tế bào máu trắng giảm nhẹ.
+
+- Xét nghiệm nước tiểu: có đạm protein và glucose.
+
+- Nội soi dạ dày: có dấu hiệu viêm dạ dày mạn.
+
+Chẩn đoán: Viêm dạ dày (K29.7) kèm nhiễm HP.
+
+Đơn thuốc điều trị nội khoa:
+
+- Omeprazole: 20mg, 2 lần mỗi ngày.
+
+- Aluminum Hydroxide: 1g, 2 lần mỗi ngày.
+
+- Rebamipide: 100mg, 2 lần mỗi ngày.
+
+Triệu chứng và xét nghiệm cận lâm sàng:
+
+- Triệu chứng: buồn nôn, khó tiêu, đau bụng, và tiêu chảy.
+
+- Xét nghiệm: ECG bình thường, xét nghiệm máu số lượng tế bào máu trắng giảm nhẹ, xét nghiệm nước tiểu có đạm protein và glucose.
+
+Thực thể trích xuất gồm có:
+
+- Viêm dạ dày (K29.7): CHẨN_ĐOÁN
+
+- Omeprazole: THUỐC
+
+- Aluminum Hydroxide: THUỐC
+
+- Rebamipide: THUỐC
+
+- Buồn nôn: TRIỆU_CHỨNG
+
+- Khó tiêu: TRIỆU_CHỨNG
+
+- Đau bụng: TRIỆU_CHỨNG
+
+- Tiêu chảy: TRIỆU_CHỨNG
+
+- ECG bình thường: KẾT_QUẢ_XÉT_NGHIỆM
+
+- Xét nghiệm máu số lượng tế bào máu trắng giảm nhẹ: KẾT_QUẢ_XÉT_NGHIỆM
+
+- Xét nghiệm nước tiểu có đạm protein và glucose: KẾT_QUẢ_XÉT_NGHIỆM

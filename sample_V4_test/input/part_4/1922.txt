@@ -1,0 +1,80 @@
+Viêm họng (hay còn gọi là viêm phổi) là một loại bệnh nhiễm trùng đường hô hấp trên, đặc biệt là ở vùng họng. Viêm họng thường được kích thích bởi vi khuẩn hoặc virus, nhưng cũng có thể do tác dụng phụ của một số loại thuốc.
+
+Các triệu chứng của viêm họng bao gồm:
+
+* Đau họng: Đây là triệu chứng chủ yếu của viêm họng. Người bệnh thường cảm thấy đau và khó chịu ở vùng họng, đặc biệt là khi nuốt.
+* Sốt: Người bệnh thường có sốt khi mắc viêm họng.
+* Ồn cổ họng: Người bệnh thường có ồn cổ họng khi nói chuyện hoặc nuốt.
+* Nhạy cảm với ánh sáng: Một số người bệnh cảm thấy nhạy cảm với ánh sáng khi mắc viêm họng.
+
+Để chẩn đoán viêm họng, bác sĩ sẽ thực hiện các xét nghiệm sau:
+
+* Kiểm tra lâm sàng: Bác sĩ sẽ kiểm tra toàn bộ cơ thể bệnh nhân để xác định các triệu chứng và bất kỳ triệu chứng nào khác.
+* Xét nghiệm máu: Bác sĩ sẽ lấy mẫu máu của bệnh nhân để thực hiện xét nghiệm để xác định tình trạng viêm họng.
+* Siêu âm họng: Bác sĩ sẽ thực hiện siêu âm để xem xét tình trạng của vùng họng.
+
+Kết quả xét nghiệm sẽ giúp bác sĩ xác định chẩn đoán và đưa ra hướng điều trị phù hợp.
+
+Viêm họng có thể được điều trị bằng các phương pháp sau:
+
+* Dùng thuốc giảm đau: Bác sĩ sẽ kê đơn thuốc giảm đau để giúp người bệnh cảm thấy dễ chịu hơn.
+* Uống thuốc kháng sinh: Bác sĩ sẽ kê đơn thuốc kháng sinh để giúp diệt trừ vi khuẩn gây viêm họng.
+* Ăn kiêng: Người bệnh cần ăn kiêng để tránh gây kích thích cho vùng họng.
+* Uống thuốc giải cảm: Bác sĩ sẽ kê đơn thuốc giải cảm để giúp người bệnh cảm thấy dễ chịu hơn.
+
+Tuy nhiên, trong trường hợp này, bệnh nhân được chỉ định phẫu thuật để điều trị viêm họng. Vì vậy, không cần kê đơn thuốc.
+
+Bệnh lý này được ghi nhận có một số kết quả xét nghiệm cận lâm sàng sau:
+
+* Xét nghiệm máu: Bác sĩ đã lấy mẫu máu của bệnh nhân và thực hiện xét nghiệm để xác định tình trạng viêm họng.
+* Xét nghiệm siêu âm họng: Bác sĩ đã thực hiện siêu âm để xem xét tình trạng của vùng họng.
+
+Các kết quả xét nghiệm đã giúp bác sĩ xác định chẩn đoán và đưa ra hướng điều trị phù hợp.
+
+Các thực thể được trích xuất là:
+
+{
+  "text": "Viêm họng",
+  "type": "CHẨN_ĐOÁN",
+  "assertions": []
+},
+{
+  "text": "đau họng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+},
+{
+  "text": "sốt",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+},
+{
+  "text": "ón cổ họng",
+  "type": "TRIỆU_CHỨNG",
+  "assertions": []
+},
+{
+  "text": "kết quả xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+},
+{
+  "text": "xét nghiệm máu",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+},
+{
+  "text": "siêu âm họng",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "assertions": []
+},
+{
+  "text": "amoxicillin",
+  "type": "THUỐC",
+  "assertions": []
+},
+{
+  "text": "kết quả xét nghiệm cận lâm sàng",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "assertions": []
+},

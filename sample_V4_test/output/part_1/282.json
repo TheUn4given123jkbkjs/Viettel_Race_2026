@@ -1,0 +1,37 @@
+[
+  {
+    "text": "động kinh",
+    "position": [647, 656],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G40.9"]
+  },
+  {
+    "text": "Valproate",
+    "position": [1445, 1454],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co giật toàn thể",
+    "position": [74, 90],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [466, 479],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường type 2",
+    "position": [483, 504],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Dexamethasone",
+    "position": [306, 319],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Fentanyl",
+    "position": [620, 628],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4337"]
+  },
+  {
+    "text": "SpO2 giảm",
+    "position": [125, 134],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SpO2",
+    "position": [125, 129],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [554, 572],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "text": "bố đẻ tiền sử đái tháo đường tuýp 2",
+    "position": [335, 370],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "Viêm gan B mạn",
+    "position": [2163, 2177],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B18.0", "B18.1"]
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [695, 702],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HBV DNA",
+    "position": [1793, 1800],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5.2 x 10^7 copies/ml",
+    "position": [1802, 1822],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tenofovir",
+    "position": [2469, 2478],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2003201",
+      "2003222",
+      "117466"
+    ]
+  },
+  {
+    "text": "Entecavir",
+    "position": [2547, 2556],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

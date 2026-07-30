@@ -1,0 +1,75 @@
+Bệnh nhân nam, 45 tuổi, có tiền sử tăng huyết áp 5 năm và đã mổ ruột thừa cách đây 2 năm. Trong 3 tháng qua, bệnh nhân có biểu hiện đau khi đi lại, đặc biệt là khi xuống dốc. Bệnh nhân đã được khám tại bệnh viện tư và được chẩn đoán là thoái hóa khớp gối, kèm theo một số triệu chứng như đau khi xoay khớp gối, đau khi đi bộ.
+
+Sau đó, bệnh nhân được chỉ định xét nghiệm cận lâm sàng, bao gồm:
+
+- Xét nghiệm máu: 
+ + Glucose: 120 mg/dL (trong giới hạn bình thường)
+ + Creatinine: 1.2 mg/dL (trong giới hạn bình thường)
+ + Urea: 40 mg/dL (trong giới hạn bình thường)
+
+- Xét nghiệm chẩn đoán hình ảnh: 
+ + X-quang khớp gối: không phát hiện bất kỳ biến chứng nào.
+
+Bên cạnh đó, bệnh nhân còn được chỉ định xét nghiệm cận lâm sàng khác, bao gồm:
+
+- Xét nghiệm chẩn đoán hình ảnh: 
+ + CT scan khớp gối: không phát hiện bất kỳ biến chứng nào.
+
+Theo kết quả xét nghiệm cận lâm sàng, bệnh nhân được chỉ định uống thuốc giảm đau và chống viêm. Bác sĩ đã kê đơn cho bệnh nhân các thuốc sau đây:
+
+- Paracetamol 1g, 3 lần/ ngày
+- Celecoxib 100mg, 2 lần/ ngày
+
+Bên cạnh đó, bác sĩ cũng chỉ định cho bệnh nhân tiêm hyaluronic acid vào khớp gối để giảm đau và chống viêm.
+
+Sau khi điều trị, bệnh nhân đã có cải thiện đáng kể về triệu chứng. Bệnh nhân không còn đau khi đi lại và có thể thực hiện các hoạt động hàng ngày mà không gặp bất kỳ khó khăn nào.
+
+Tuy nhiên, bệnh nhân vẫn cần phải tiếp tục điều trị và làm theo chỉ định của bác sĩ để đảm bảo kết quả tốt nhất.
+
+Bệnh lý mục tiêu: thoái hóa khớp gối (ICD-10: M17.9)
+Gợi ý lâm sàng: thoái hóa khớp gối, đau khi đi lại, tiêm hyaluronic
+
+Các triệu chứng của bệnh nhân bao gồm:
+
+- Đau khi đi lại
+- Đau khi xoay khớp gối
+- Đau khi đi bộ
+
+Các xét nghiệm cận lâm sàng đã được chỉ định cho bệnh nhân bao gồm:
+
+- Xét nghiệm máu
+- Xét nghiệm chẩn đoán hình ảnh
+
+Kết quả xét nghiệm cận lâm sàng đã cho thấy:
+
+- Glucose: 120 mg/dL (trong giới hạn bình thường)
+- Creatinine: 1.2 mg/dL (trong giới hạn bình thường)
+- Urea: 40 mg/dL (trong giới hạn bình thường)
+
+- X-quang khớp gối: không phát hiện bất kỳ biến chứng nào.
+
+- CT scan khớp gối: không phát hiện bất kỳ biến chứng nào.
+
+Bác sĩ đã kê đơn cho bệnh nhân các thuốc sau đây:
+
+- Paracetamol 1g, 3 lần/ ngày
+- Celecoxib 100mg, 2 lần/ ngày
+
+Bên cạnh đó, bác sĩ cũng chỉ định cho bệnh nhân tiêm hyaluronic acid vào khớp gối để giảm đau và chống viêm.
+
+Các thực thể trích xuất bao gồm:
+
+- Thoái hóa khớp gối (CHẨN_ĐOÁN)
+- Đau khi đi lại (TRIỆU_CHỨNG)
+- Tiêm hyaluronic (THUỐC)
+- Paracetamol (THUỐC)
+- Celecoxib (THUỐC)
+- Xét nghiệm máu (TÊN_XÉT_NGHIỆM)
+- Xét nghiệm chẩn đoán hình ảnh (TÊN_XÉT_NGHIỆM)
+- kết quả xét nghiệm máu (KẾT_QUẢ_XÉT_NGHIỆM)
+
+Các thuộc tính trích xuất bao gồm:
+
+- isNegated: không
+- isHistorical: có
+- isFamily: không

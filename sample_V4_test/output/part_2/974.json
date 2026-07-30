@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Suy tim",
+    "position": [18, 25],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "Xét nghiệm máu toàn bộ",
+    "position": [663, 685],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [393, 404],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Thoái hóa khớp gối",
+    "position": [501, 519],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [585, 596],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Meloxicam",
+    "position": [600, 609],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  }
+]

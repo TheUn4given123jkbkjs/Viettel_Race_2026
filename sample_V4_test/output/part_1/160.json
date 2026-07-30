@@ -1,0 +1,72 @@
+[
+  {
+    "text": "sưng nóng đỏ đau khớp bàn chân",
+    "position": [340, 370],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sỏi thận",
+    "position": [1326, 1334],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["N20.0"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [1428, 1449],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [1246, 1259],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Acid uric",
+    "position": [2464, 2473],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "520 umol/l",
+    "position": [2475, 2485],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh gút",
+    "position": [2763, 2771],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M10.9"]
+  },
+  {
+    "text": "Colchicine",
+    "position": [2927, 2937],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2683"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2987, 2996],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Allopurinol",
+    "position": [3050, 3061],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["519"]
+  }
+]

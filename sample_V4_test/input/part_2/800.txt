@@ -1,0 +1,52 @@
+Bệnh nhân nữ, 32 tuổi, đến khám vì đau thượng vị, đau dạ dày. Bệnh nhân báo cáo rằng triệu chứng đau đã xuất hiện trong 3 tháng qua, với mức độ đau dần tăng lên. Bệnh nhân mô tả triệu chứng đau như đau âm ỉ, đau ở vùng thượng vị, và đau lan tỏa ra vùng dạ dày.
+
+Tiền sử bệnh án: Bệnh nhân không có tiền sử bệnh lý về dạ dày, không có tiền sử chấn thương dạ dày. Bệnh nhân không có tiền sử sử dụng thuốc lá.
+
+Kết quả khám: Bệnh nhân có nhiệt độ cơ thể bình thường (36,5°C). Bệnh nhân không có dấu hiệu sốt, không có dấu hiệu mệt mỏi.
+
+Kết quả xét nghiệm: Bệnh nhân có kết quả xét nghiệm máu bình thường. Bệnh nhân không có dấu hiệu nhiễm trùng máu.
+
+Bác sĩ tư vấn: Bệnh nhân có thể bị loét dạ dày. Bác sĩ đề nghị bệnh nhân thực hiện các xét nghiệm thêm để xác định chẩn đoán chính xác. Bệnh nhân có thể được kê đơn thuốc để điều trị loét dạ dày.
+
+Bệnh nhân được kê đơn Omepra****ol (20mg, 2 lần/ngày) và Metronidazol (500mg, 2 lần/ngày) để điều trị loét dạ dày.
+
+Tiểu luận: Bệnh nhân cần được theo dõi chặt chẽ để xác định chẩn đoán chính xác. Bác sĩ sẽ theo dõi bệnh nhân qua các xét nghiệm thêm để xác định chẩn đoán chính xác.
+
+Chẩn đoán: Loét dạ dày (K25.9)
+
+Thuốc điều trị:
+
+* Omepra****ol (20mg, 2 lần/ngày)
+* Metronidazol (500mg, 2 lần/ngày)
+
+Triệu chứng:
+
+* Đau thượng vị
+* Đau dạ dày
+* Xét nghiệm cận lâm sàng:
+
+* Kết quả xét nghiệm máu bình thường
+* Kết quả xét nghiệm dạ dày bình thường
+* Kết quả xét nghiệm tiêu hóa bình thường
+
+Thực thể y khoa:
+
+* Loét dạ dày (CHẨN_ĐOÁN)
+* Omepra****ol (THUỐC)
+* Metronidazol (THUỐC)
+* Đau thượng vị (TRIỆU_CHỨNG)
+* Đau dạ dày (TRIỆU_CHỨNG)
+* Kết quả xét nghiệm máu bình thường (KẾT_QUẢ_XÉT_NGHIỆM)
+* Kết quả xét nghiệm dạ dày bình thường (KẾT_QUẢ_XÉT_NGHIỆM)
+* Kết quả xét nghiệm tiêu hóa bình thường (KẾT_QUẢ_XÉT_NGHIỆM)
+
+Assertions:
+
+* Loét dạ dày (isNegated)
+* Omepra****ol (isNegated)
+* Metronidazol (isNegated)
+* Đau thượng vị (isNegated)
+* Đau dạ dày (isNegated)
+* Kết quả xét nghiệm máu bình thường (isNegated)
+* Kết quả xét nghiệm dạ dày bình thường (isNegated)
+* Kết quả xét nghiệm tiêu hóa bình thường (isNegated)

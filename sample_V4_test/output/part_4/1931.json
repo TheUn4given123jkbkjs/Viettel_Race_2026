@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Salbutamol, Budesonide, Fluticasone",
+    "position": [1528, 1563],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "CBC",
+    "position": [1320, 1323],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [1379, 1397],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

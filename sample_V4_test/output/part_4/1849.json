@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Thoát vị đĩa đệm",
+    "position": [1131, 1147],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M51.2"]
+  },
+  {
+    "text": "đau lưng",
+    "position": [339, 347],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI",
+    "position": [484, 487],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kết quả MRI",
+    "position": [1799, 1810],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử bệnh lý gia đình",
+    "position": [734, 758],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [491, 505],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kết quả xét nghiệm máu",
+    "position": [1914, 1936],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "text": "khó thở khi gắng sức nhẹ",
+    "position": [380, 404],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi leo cầu thang",
+    "position": [608, 633],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiếng thổi tâm thu",
+    "position": [1142, 1160],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm tim màu",
+    "position": [1473, 1488],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lỗ thông liên thất màng kích thước khoảng 5mm",
+    "position": [1575, 1620],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thông liên thất bẩm sinh (VSD)",
+    "position": [1808, 1838],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Captopril",
+    "position": [1981, 1990],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1998"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [2028, 2038],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Digoxin",
+    "position": [2079, 2086],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3407"]
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Lao phổi",
+    "position": [388, 396],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
+  },
+  {
+    "text": "Isoniazid",
+    "position": [616, 625],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
+  },
+  {
+    "text": "ho ra máu",
+    "position": [1007, 1016],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "BK đờm âm tính",
+    "position": [1830, 1844],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Công thức máu",
+    "position": [1652, 1665],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "X-quang ngực thẳng",
+    "position": [1857, 1875],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

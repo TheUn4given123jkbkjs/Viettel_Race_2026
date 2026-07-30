@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Nhiễm trùng tiết niệu",
+    "position": [55, 76],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["T83.5"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [113, 126],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "Ciprofloxacin hydrochloride",
+    "position": [1361, 1388],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm bàng quang",
+    "position": [780, 795],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Azithromycin",
+    "position": [1834, 1846],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "Levofloxacin",
+    "position": [2750, 2762],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["82122"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [2765, 2776],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Cephalexin",
+    "position": [2779, 2789],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2231"]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "text": "Ung thư vú",
+    "position": [741, 751],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
+  },
+  {
+    "text": "Mammography",
+    "position": [355, 366],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh viện Đại học Quốc gia Hà Nội",
+    "position": [917, 950],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bác sĩ Nguyễn Văn A",
+    "position": [865, 884],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [98, 125],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "urea tăng lên 25 mg/dL",
+    "position": [436, 458],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kali tăng lên 5,5 mmol/L",
+    "position": [478, 502],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phospho tăng lên 6,5 mg/dL",
+    "position": [506, 532],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sẹo trong thận",
+    "position": [565, 579],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

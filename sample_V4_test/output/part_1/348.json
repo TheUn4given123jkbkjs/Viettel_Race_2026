@@ -1,0 +1,58 @@
+[
+  {
+    "text": "suy hô hấp cấp",
+    "position": [257, 271],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J96.0"]
+  },
+  {
+    "text": "SpO2 giảm",
+    "position": [2586, 2595],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dexamethasone",
+    "position": [1427, 1440],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3264"]
+  },
+  {
+    "text": "Epinephrine",
+    "position": [1491, 1502],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3992", "107602"]
+  },
+  {
+    "text": "Midazolam",
+    "position": [1596, 1605],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6960"]
+  },
+  {
+    "text": "Fentanyl",
+    "position": [1677, 1685],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4337"]
+  },
+  {
+    "text": "SpO2",
+    "position": [678, 682],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "88%",
+    "position": [712, 715],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

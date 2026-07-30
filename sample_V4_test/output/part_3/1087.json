@@ -1,0 +1,51 @@
+[
+  {
+    "text": "HbA1C",
+    "position": [382, 387],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glycerin",
+    "position": [396, 404],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol",
+    "position": [418, 429],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "metformin",
+    "position": [694, 703],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "Glucophage",
+    "position": [705, 715],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "atorvastatin",
+    "position": [764, 776],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["83367"]
+  },
+  {
+    "text": "Lipitor",
+    "position": [778, 785],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

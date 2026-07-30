@@ -1,0 +1,30 @@
+[
+  {
+    "text": "ECG",
+    "position": [361, 364],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120/80 mmHg",
+    "position": [1430, 1441],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paroxetine",
+    "position": [1533, 1543],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Losartan",
+    "position": [1623, 1631],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

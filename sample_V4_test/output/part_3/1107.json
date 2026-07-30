@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Aspirin",
+    "position": [152, 159],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Điện tâm đồ",
+    "position": [1868, 1879],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

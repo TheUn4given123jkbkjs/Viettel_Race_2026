@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Trầm cảm",
+    "position": [58, 66],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["F32.9"]
+  },
+  {
+    "text": "Sertraline",
+    "position": [158, 168],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Fluoxetine",
+    "position": [618, 628],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4493"]
+  },
+  {
+    "text": "F32.9",
+    "position": [76, 81],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

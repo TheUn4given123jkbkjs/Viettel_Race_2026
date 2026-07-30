@@ -1,0 +1,86 @@
+[
+  {
+    "text": "Khò khè",
+    "position": [207, 214],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Khó thở về đêm",
+    "position": [2633, 2647],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hen phế quản (J45.9)",
+    "position": [2255, 2275],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Salbutamol",
+    "position": [1193, 1203],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Budesonide",
+    "position": [1308, 1318],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Fluticasone",
+    "position": [1409, 1420],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Montelukast",
+    "position": [1511, 1522],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ipratropium",
+    "position": [1619, 1630],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7213"]
+  },
+  {
+    "text": "Xét nghiệm màng nuôi cấy máu",
+    "position": [879, 907],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm sinh hóa",
+    "position": [976, 995],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm chức năng phổi",
+    "position": [1066, 1091],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm cận lâm sàng",
+    "position": [843, 874],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

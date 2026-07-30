@@ -1,0 +1,44 @@
+[
+  {
+    "text": "bệnh gout",
+    "position": [218, 227],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Allopurinol",
+    "position": [1260, 1271],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["519"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [1329, 1338],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "sưng nóng đỏ đau khớp bàn chân",
+    "position": [49, 79],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng acid uric",
+    "position": [172, 186],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [1474, 1491],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

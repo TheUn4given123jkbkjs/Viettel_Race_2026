@@ -1,0 +1,58 @@
+[
+  {
+    "text": "cường giáp",
+    "position": [156, 166],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E05.9"]
+  },
+  {
+    "text": "E05.9",
+    "position": [824, 829],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thyrotropin stimulating hormone (TSH)",
+    "position": [613, 650],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1,5 μU/mL",
+    "position": [652, 661],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Free thyroxine (FT4)",
+    "position": [664, 684],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "2,5 ng/dL",
+    "position": [686, 695],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Free triiodothyronine (FT3)",
+    "position": [698, 725],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "3,5 pg/mL",
+    "position": [727, 736],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

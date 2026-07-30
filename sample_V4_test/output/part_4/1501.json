@@ -1,0 +1,51 @@
+[
+  {
+    "text": "bố đẻ bị đái tháo đường tuýp 2",
+    "position": [189, 219],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "sưng nóng đỏ đau khớp bàn chân",
+    "position": [409, 439],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh gút",
+    "position": [1078, 1086],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M10.9"]
+  },
+  {
+    "text": "Colchicine",
+    "position": [1262, 1272],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2683"]
+  },
+  {
+    "text": "Allopurinol",
+    "position": [1319, 1330],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["519"]
+  },
+  {
+    "text": "acid uric",
+    "position": [937, 946],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10 mg/dL",
+    "position": [989, 997],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

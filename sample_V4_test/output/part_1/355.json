@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Phenylketonuria (PKU)",
+    "position": [553, 574],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Sapropterin",
+    "position": [871, 882],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sàng lọc sơ sinh",
+    "position": [1818, 1834],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm sinh hóa",
+    "position": [1862, 1881],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Đau thắt lưng",
+    "position": [724, 737],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M54.5"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [849, 860],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Diclofenac",
+    "position": [892, 902],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3355"]
+  },
+  {
+    "text": "Eperisone",
+    "position": [961, 970],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "co cứng cơ cạnh sống",
+    "position": [304, 324],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp X-quang cột sống",
+    "position": [551, 572],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Loét dạ dày K25.9",
+    "position": [268, 285],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Omeprazole",
+    "position": [340, 350],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [366, 378],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [1175, 1187],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Metronidazole",
+    "position": [750, 763],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Clarithromycin",
+    "position": [726, 740],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["21212"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [1240, 1251],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Loét dạ dày tá tràng",
+    "position": [119, 139],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau thượng vị",
+    "position": [848, 861],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "pH dạ dày",
+    "position": [230, 239],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [195, 213],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

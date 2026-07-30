@@ -1,0 +1,51 @@
+[
+  {
+    "text": "ung thư phổi",
+    "position": [289, 301],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["D02.2"]
+  },
+  {
+    "text": "ho ra máu",
+    "position": [43, 52],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT ngực",
+    "position": [356, 363],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [67, 80],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [586, 596],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hóa trị",
+    "position": [867, 874],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xạ trị",
+    "position": [878, 884],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

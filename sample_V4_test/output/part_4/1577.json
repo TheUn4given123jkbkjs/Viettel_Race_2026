@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Thoái hóa cột sống",
+    "position": [150, 168],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M47.9"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [218, 229],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "M47.9",
+    "position": [179, 184],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau lưng mạn tính",
+    "position": [304, 321],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loãng xương",
+    "position": [488, 499],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thoái hóa cột sống thắt lưng/cổ",
+    "position": [340, 371],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "physiotherapy",
+    "position": [738, 751],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

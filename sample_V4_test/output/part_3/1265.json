@@ -1,0 +1,51 @@
+[
+  {
+    "text": "ung thư phổi",
+    "position": [430, 442],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D02.2"]
+  },
+  {
+    "text": "Cisplatin",
+    "position": [681, 690],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Paclitaxel",
+    "position": [694, 704],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bevacizumab",
+    "position": [759, 770],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [198, 228],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "chụp CT ngực",
+    "position": [362, 374],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ PSA trong máu tăng cao",
+    "position": [514, 544],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

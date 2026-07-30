@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Paracetamol",
+    "position": [442, 453],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ringer Lactate",
+    "position": [531, 545],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["35629"]
+  },
+  {
+    "text": "Dextrose 5%",
+    "position": [638, 649],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

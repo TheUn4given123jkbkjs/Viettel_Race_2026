@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Viêm dạ dày mạn",
+    "position": [555, 570],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical", "isFamily"],
+    "candidates": [
+      "K29.3",
+      "K29.4",
+      "K29.5"
+    ]
+  },
+  {
+    "text": "Khó chịu khi ăn",
+    "position": [989, 1004],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Nhiễm HP",
+    "position": [1684, 1692],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [420, 423],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "ESR",
+    "position": [435, 438],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "ALT",
+    "position": [450, 453],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [465, 468],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Bilirubin",
+    "position": [481, 490],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Creatinine",
+    "position": [504, 514],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

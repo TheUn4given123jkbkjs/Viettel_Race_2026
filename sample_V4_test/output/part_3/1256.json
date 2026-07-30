@@ -1,0 +1,58 @@
+[
+  {
+    "text": "COPD",
+    "position": [2154, 2158],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J44.9"]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [457, 478],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "không sốt",
+    "position": [1222, 1231],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "FEV1",
+    "position": [1937, 1941],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "52%",
+    "position": [1973, 1976],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiotropium",
+    "position": [2397, 2407],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Budesonide",
+    "position": [2494, 2504],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [2556, 2566],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

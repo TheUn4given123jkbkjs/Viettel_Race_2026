@@ -1,0 +1,111 @@
+[
+  {
+    "text": "Giảm gammaglobulin di truyền (Bruton)",
+    "position": [1243, 1280],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Norethindrone",
+    "position": [674, 687],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7514"]
+  },
+  {
+    "text": "Vecuronium",
+    "position": [716, 726],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["71535"]
+  },
+  {
+    "text": "Tenofovir",
+    "position": [765, 774],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2003201",
+      "2003222",
+      "117466"
+    ]
+  },
+  {
+    "text": "Simvastatin",
+    "position": [805, 816],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["36567"]
+  },
+  {
+    "text": "Atazanavir",
+    "position": [846, 856],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["343047"]
+  },
+  {
+    "text": "IVIG",
+    "position": [914, 918],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "natri",
+    "position": [612, 617],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "IgG",
+    "position": [272, 275],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [47, 50],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [52, 54],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [56, 63],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm hô hấp",
+    "position": [67, 78],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mức kháng thể thấp",
+    "position": [207, 225],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mức IgG thấp hơn bình thường",
+    "position": [268, 296],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

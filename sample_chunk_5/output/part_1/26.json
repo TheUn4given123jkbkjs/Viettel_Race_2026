@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Viêm dạ dày",
+    "position": [2011, 2022],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "đau âm ỉ vùng thượng vị",
+    "position": [200, 223],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ợ hơi",
+    "position": [570, 575],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nội soi dạ dày tá tràng",
+    "position": [1639, 1662],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Test hơi thở",
+    "position": [1784, 1796],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính",
+    "position": [1825, 1835],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [2414, 2426],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rebamipide",
+    "position": [2492, 2502],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bismuth",
+    "position": [2575, 2582],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1599"]
+  }
+]

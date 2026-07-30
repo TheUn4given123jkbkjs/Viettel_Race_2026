@@ -1,0 +1,37 @@
+[
+  {
+    "text": "sỏi thận",
+    "position": [120, 128],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["N20.0"]
+  },
+  {
+    "text": "tiền sử tăng huyết áp",
+    "position": [143, 164],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [303, 310],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "có sỏi thận kích thước 1,5 cm ở phía trên bên trái",
+    "position": [320, 370],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật can thiệp ngoại khoa",
+    "position": [396, 427],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

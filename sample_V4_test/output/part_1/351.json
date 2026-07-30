@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Hội chứng Down (Trisomy 21) (ICD-10: Q90.9)",
+    "position": [135, 178],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Cyclosporine",
+    "position": [199, 211],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["3008"]
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [1387, 1405],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nghiệm lực máu",
+    "position": [1410, 1424],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cholesterol",
+    "position": [1464, 1475],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

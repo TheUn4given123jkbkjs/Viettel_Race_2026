@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Hen phế quản",
+    "position": [1491, 1503],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [1284, 1294],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Budesonide",
+    "position": [1107, 1117],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "Ipratropium",
+    "position": [1241, 1252],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7213"]
+  },
+  {
+    "text": "Triệu chứng khò khè",
+    "position": [1590, 1609],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm chức năng phổi",
+    "position": [1628, 1661],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

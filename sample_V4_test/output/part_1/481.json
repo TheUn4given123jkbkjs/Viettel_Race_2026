@@ -1,0 +1,44 @@
+[
+  {
+    "text": "valproate",
+    "position": [820, 829],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "carbamazepine",
+    "position": [861, 874],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2002"]
+  },
+  {
+    "text": "levetiracetam",
+    "position": [1016, 1029],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [434, 447],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "mổ ruột thừa",
+    "position": [460, 472],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "co giật toàn thể",
+    "position": [379, 395],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

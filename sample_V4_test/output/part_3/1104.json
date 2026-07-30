@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Paracetamol",
+    "position": [1323, 1334],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Meloxicam",
+    "position": [1430, 1439],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Eperisone",
+    "position": [1543, 1552],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gabapentin",
+    "position": [1659, 1669],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân",
+    "position": [0, 9],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ",
+    "position": [285, 290],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

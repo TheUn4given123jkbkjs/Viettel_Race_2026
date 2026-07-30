@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Thoái hóa cột sống",
+    "position": [45, 63],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["M47.9"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [558, 569],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Eperisone",
+    "position": [818, 827],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Meloxicam",
+    "position": [1058, 1067],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1144, 1156],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Đau lưng mạn tính",
+    "position": [1478, 1495],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chàm cổ bả vai",
+    "position": [1514, 1528],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rã cứng cơ",
+    "position": [1547, 1557],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

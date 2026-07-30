@@ -1,0 +1,48 @@
+[
+  {
+    "text": "Ung thư vú",
+    "position": [580, 590],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
+  },
+  {
+    "text": "Tamoxifen",
+    "position": [627, 636],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["10324"]
+  },
+  {
+    "text": "Letrozole",
+    "position": [652, 661],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Triệu chứng",
+    "position": [798, 809],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "CT scan",
+    "position": [409, 416],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Chụp X-quang",
+    "position": [498, 510],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  }
+]

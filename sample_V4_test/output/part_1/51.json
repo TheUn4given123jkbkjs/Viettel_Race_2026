@@ -1,0 +1,76 @@
+[
+  {
+    "text": "loét dạ dày",
+    "position": [738, 749],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
+  },
+  {
+    "text": "đau vùng thượng vị",
+    "position": [85, 103],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ợ chua",
+    "position": [247, 253],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [419, 433],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm HP",
+    "position": [528, 541],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hemoglobin 12.8g/dL",
+    "position": [586, 605],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử viêm dạ dày 5 năm",
+    "position": [335, 360],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [1563, 1573],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Clarithromycin",
+    "position": [1613, 1627],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["21212"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [1654, 1665],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  }
+]

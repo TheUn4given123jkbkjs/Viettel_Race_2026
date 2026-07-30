@@ -1,0 +1,58 @@
+[
+  {
+    "text": "ung thư phổi",
+    "position": [128, 140],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D02.2"]
+  },
+  {
+    "text": "CT scan ngực ngày 10/03/2023",
+    "position": [372, 400],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [251, 261],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ung thư phổi giai đoạn 3A",
+    "position": [662, 687],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hóa trị hoặc xạ trị",
+    "position": [821, 840],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chuyển hóa lối sống",
+    "position": [843, 862],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SCLC",
+    "position": [731, 735],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "NSCLC",
+    "position": [767, 772],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

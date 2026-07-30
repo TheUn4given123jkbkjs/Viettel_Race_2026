@@ -1,0 +1,27 @@
+Bệnh nhân nữ, 35 tuổi, đến khám vì triệu chứng run tay và nhịp tim nhanh. Bệnh nhân cho biết đã có tiền sử tăng huyết áp 5 năm và đã mổ ruột thừa cách đây 2 năm. Sau khi khám, bác sĩ nghi ngờ bệnh nhân bị cường giáp. Kết quả xét nghiệm cận lâm sàng như sau:
+  - Xét nghiệm máu: 
+    - Tăng kali máu (K+): 4,2 mmol/L (Reference: 3,5-5,0 mmol/L)
+    - Tăng natri máu (Na+): 145 mmol/L (Reference: 135-145 mmol/L)
+    - Tăng protein máu: 7,5 g/dL (Reference: 6,0-8,0 g/dL)
+  - Xét nghiệm nước tiểu: 
+    - Tăng creatinine máu: 1,2 mg/dL (Reference: 0,6-1,2 mg/dL)
+    - Tăng uric axit máu: 6,2 mg/dL (Reference: 3,0-7,0 mg/dL)
+  - Xét nghiệm tim: 
+    - Tăng nhịp tim: 120 nhịp/phút (Reference: 60-100 nhịp/phút)
+    - Tăng huyết áp: 160/100 mmHg (Reference: 90-120 mmHg)
+  - Xét nghiệm hô hấp: 
+    - Tăng độ sâu thở: 15 mmHg (Reference: 10-15 mmHg)
+    - Tăng tần suất thở: 20 lần/phút (Reference: 12-20 lần/phút)
+  Bác sĩ đã đưa ra kết luận chẩn đoán là cường giáp (ICD-10: E05.9). Sau đó, bác sĩ đã đưa ra khuyến nghị cho bệnh nhân về việc thay đổi lối sống, bao gồm:
+  - Uống đủ nước
+  - Ăn uống cân đối
+  - Đi tập thể dục thường xuyên
+  - Tránh thức khuya
+  Bệnh nhân đã được chỉ định phẫu thuật thay thế tuyến giáp. Sau khi phẫu thuật, bệnh nhân được theo dõi chặt chẽ để tránh các biến chứng.
+  Có thể sử dụng PTU (Propylthiouracil) để điều trị cường giáp.
+  - Chuyên gia nội tiết: 'Cường giáp' (CHẨN_ĐOÁN) isHistorical
+  - Triệu chứng: 'Run tay', 'Nhịp tim nhanh' (TRIỆU_CHỨNG) isHistorical
+  - Thuốc: 'Propylthiouracil' (THUỐC) 
+  - Xét nghiệm: 'Tăng kali máu' (TÊN_XÉT_NGHIỆM), 'Tăng natri máu' (TÊN_XÉT_NGHIỆM), 'Tăng protein máu' (TÊN_XÉT_NGHIỆM), 'Tăng creatinine máu' (TÊN_XÉT_NGHIỆM), 'Tăng uric axit máu' (TÊN_XÉT_NGHIỆM), 'Tăng nhịp tim' (TÊN_XÉT_NGHIỆM), 'Tăng huyết áp' (TÊN_XÉT_NGHIỆM), 'Tăng độ sâu thở' (TÊN_XÉT_NGHIỆM), 'Tăng tần suất thở' (TÊN_XÉT_NGHIỆM) (TÊN_XÉT_NGHIỆM) isFamily
+  - Kết quả xét nghiệm: 'Tăng kali máu: 4,2 mmol/L', 'Tăng natri máu: 145 mmol/L', 'Tăng protein máu: 7,5 g/dL', 'Tăng creatinine máu: 1,2 mg/dL', 'Tăng uric axit máu: 6,2 mg/dL', 'Tăng nhịp tim: 120 nhịp/phút', 'Tăng huyết áp: 160/100 mmHg', 'Tăng độ sâu thở: 15 mmHg', 'Tăng tần suất thở: 20 lần/phút' (KẾT_QUẢ_XÉT_NGHIỆM) isNegated
+  - Chuyên gia nội khoa: 'Cường giáp' (CHẨN_ĐOÁN) isFamily

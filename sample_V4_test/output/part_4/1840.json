@@ -1,0 +1,51 @@
+[
+  {
+    "text": "nhiễm trùng tiết niệu",
+    "position": [535, 556],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T83.5"]
+  },
+  {
+    "text": "triệu chứng",
+    "position": [58, 69],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [483, 497],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm cơ quan sinh dục",
+    "position": [455, 479],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm bàng quang",
+    "position": [146, 161],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [70, 79],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu rắt",
+    "position": [81, 89],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

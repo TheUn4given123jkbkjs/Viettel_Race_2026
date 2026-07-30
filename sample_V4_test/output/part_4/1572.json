@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Cisplatin",
+    "position": [764, 773],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Carboplatin",
+    "position": [775, 786],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40048"]
+  },
+  {
+    "text": "Paclitaxel",
+    "position": [788, 798],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Erlotinib",
+    "position": [802, 811],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT ngực",
+    "position": [413, 420],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [306, 320],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

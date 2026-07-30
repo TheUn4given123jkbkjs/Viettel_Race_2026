@@ -1,0 +1,44 @@
+[
+  {
+    "text": "co giật toàn thể",
+    "position": [135, 151],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "động kinh",
+    "position": [490, 499],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G40.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [300, 313],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [346, 367],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Valproate",
+    "position": [951, 960],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Carbamazepine",
+    "position": [966, 979],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2002"]
+  }
+]

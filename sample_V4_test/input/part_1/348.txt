@@ -1,0 +1,85 @@
+Suy hô hấp cấp là một tình trạng y khoa nghiêm trọng và phức tạp, đòi hỏi sự can thiệp y tế khẩn cấp. Tình trạng này thường xuất hiện ở những người đã bị bệnh hô hấp nặng trước đó, chẳng hạn như bệnh phổi tắc nghẽn mãn tính hoặc bệnh phổi mãn tính. Khi mắc suy hô hấp cấp, người bệnh thường có triệu chứng như khó thở, ho, nhịp tim nhanh và thở gấp.
+
+   Tiền sử bệnh lý của bệnh nhân có thể bao gồm tiền sử bệnh hô hấp nặng trước đó, tiền sử bệnh tim mạch, tiền sử bệnh gan hoặc thận. Bệnh nhân cũng có thể có tiền sử sử dụng thuốc, bao gồm thuốc chống viêm không steroid (NSAIDs), thuốc chống co giật và thuốc ảnh hưởng đến hô hấp.
+
+   Kết quả xét nghiệm cận lâm sàng cho thấy SpO2 của bệnh nhân giảm xuống còn 88%. Xét nghiệm máu cho thấy mức độ axit trong máu cao, và xét nghiệm phổi cho thấy tổn thương mô phổi nặng.
+
+   Để chẩn đoán suy hô hấp cấp, bác sĩ cần thực hiện các xét nghiệm và chẩn đoán sau:
+
+   Xét nghiệm phổi: Xét nghiệm này sẽ giúp bác sĩ đánh giá tình trạng phổi và tìm kiếm bất kỳ dấu hiệu nào cho thấy tình trạng suy hô hấp cấp.
+
+   Xét nghiệm máu: Xét nghiệm này sẽ giúp bác sĩ đánh giá tình trạng axit trong máu và tìm kiếm bất kỳ dấu hiệu nào cho thấy tình trạng suy hô hấp cấp.
+
+   Xét nghiệm SpO2: Xét nghiệm này sẽ giúp bác sĩ đánh giá tình trạng oxy trong máu và tìm kiếm bất kỳ dấu hiệu nào cho thấy tình trạng suy hô hấp cấp.
+
+   Bác sĩ có thể chọn các thuốc sau để điều trị suy hô hấp cấp:
+
+   Dexamethasone: Thuốc này có thể giúp giảm viêm và giảm sốc.
+
+   Epinephrine: Thuốc này có thể giúp tăng cường lưu thông máu và giảm tác dụng phụ của các thuốc khác.
+
+   Midazolam: Thuốc này có thể giúp giảm lo lắng và giảm nguy cơ loạn nhịp tim.
+
+   Fentanyl: Thuốc này có thể giúp giảm đau và giảm nguy cơ loạn nhịp tim.
+
+   Điều trị suy hô hấp cấp đòi hỏi sự can thiệp y tế khẩn cấp và thường bao gồm các phương pháp sau:
+
+   Thở máy: Phương pháp này giúp cung cấp oxy và giảm tác dụng phụ của các thuốc khác.
+
+   Thở nhân tạo: Phương pháp này giúp cung cấp oxy và giảm tác dụng phụ của các thuốc khác.
+
+   Điều trị hỗ trợ: Phương pháp này giúp giảm tác dụng phụ của các thuốc khác và tăng cường lưu thông máu.
+
+   Để quản lý tình trạng suy hô hấp cấp, bệnh nhân cần được theo dõi chặt chẽ và điều chỉnh liều lượng thuốc một cách phù hợp.
+
+   Trên đây là thông tin về tình trạng suy hô hấp cấp và phương pháp điều trị. Tuy nhiên, bệnh nhân nên tham khảo ý kiến của bác sĩ trước khi thực hiện bất kỳ phương pháp điều trị nào.
+
+   **Entities:**
+
+   {
+      "text": "suy hô hấp cấp",
+      "type": "CHẨN_ĐOÁN",
+      "assertions": []
+   }
+
+   {
+      "text": "SpO2 giảm",
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+   }
+
+   {
+      "text": "Dexamethasone",
+      "type": "THUỐC",
+      "assertions": []
+   }
+
+   {
+      "text": "Epinephrine",
+      "type": "THUỐC",
+      "assertions": []
+   }
+
+   {
+      "text": "Midazolam",
+      "type": "THUỐC",
+      "assertions": []
+   }
+
+   {
+      "text": "Fentanyl",
+      "type": "THUỐC",
+      "assertions": []
+   }
+
+   {
+      "text": "SpO2",
+      "type": "TÊN_XÉT_NGHIỆM",
+      "assertions": []
+   }
+
+   {
+      "text": "88%",
+      "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+      "assertions": []
+   }

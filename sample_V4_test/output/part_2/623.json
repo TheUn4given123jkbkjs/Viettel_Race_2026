@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Gabapentin",
+    "position": [1038, 1048],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Prednisolone",
+    "position": [1052, 1064],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8638"]
+  },
+  {
+    "text": "Meloxicam",
+    "position": [889, 898],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [347, 358],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

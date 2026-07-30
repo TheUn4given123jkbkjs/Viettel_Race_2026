@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Thoái hóa khớp gối",
+    "position": [545, 563],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [284, 298],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Tình trạng cơ thể bình thường",
+    "position": [300, 329],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Tiến sĩ Nguyễn Thị Ánh",
+    "position": [1186, 1208],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân",
+    "position": [0, 9],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

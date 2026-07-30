@@ -1,0 +1,51 @@
+Bệnh nhân được đưa vào bệnh viện ngày 15/02/2023 để thăm khám và điều trị bệnh Loạn dưỡng cơ Duchenne (DMD), một bệnh lý tiến triển và không thể chữa khỏi. Bệnh nhân có tiền sử sử dụng thuốc Prednisolone dài hạn để điều trị bệnh.
+
+Khi đến bệnh viện, bệnh nhân có thể đi được 50 mét mà không cần hỗ trợ, nhưng khi đi xa hơn, bệnh nhân phải sử dụng xe lăn để di chuyển. Bệnh nhân có thể đứng được một thời gian ngắn nhưng không thể chạy hoặc nhảy.
+
+Các xét nghiệm cận lâm sàng được thực hiện bao gồm:
+
+- Xét nghiệm điện giải:
+ + Natri: 135 mmol/L
+ + Kali: 3.5 mmol/L
+ + Clo: 100 mmol/L
+ + Magie: 2.5 mmol/L
+
+- Xét nghiệm sinh học:
+ + CK (Creatine Kinase): 2.500 UI/L (tăng rất cao)
+
+Bác sĩ đã tư vấn cho bệnh nhân về các phương pháp điều trị mới nhất và hiệu quả nhất cho bệnh Loạn dưỡng cơ Duchenne, bao gồm sử dụng thuốc steroid và các phương pháp physiotherapy để cải thiện khả năng vận động của bệnh nhân.
+
+Bệnh nhân đã được chỉ định sử dụng Prednisolone 10mg/ngày, và sẽ được theo dõi chặt chẽ về tình trạng bệnh và các tác dụng phụ của thuốc.
+
+Bên cạnh đó, bác sĩ cũng đã đề xuất cho bệnh nhân sử dụng máy hỗ trợ hô hấp và các thiết bị khác để cải thiện chất lượng sống của bệnh nhân.
+
+Bệnh nhân được khuyến cáo nên theo dõi chặt chẽ tình trạng bệnh và báo cho bác sĩ ngay khi phát hiện bất kỳ dấu hiệu bất thường nào.
+
+Bệnh nhân có thể được điều trị tại nhà, nhưng sẽ được yêu cầu đến bệnh viện định kỳ để được theo dõi và kiểm tra tình trạng bệnh.
+
+Tình trạng bệnh của bệnh nhân sẽ được đánh giá và điều trị lại trong các lần khám sau.
+
+Bên cạnh đó, bác sĩ cũng đã đề xuất cho bệnh nhân tham gia các chương trình hỗ trợ và điều trị cộng đồng để cải thiện chất lượng sống và khả năng vận động của bệnh nhân.
+
+Bệnh nhân được khuyến cáo nên tham gia các chương trình này để có thể cải thiện tình trạng bệnh và chất lượng sống.
+
+Bên cạnh đó, bác sĩ cũng đã đề xuất cho bệnh nhân sử dụng các thiết bị hỗ trợ và điều trị tại nhà để cải thiện chất lượng sống và khả năng vận động của bệnh nhân.
+
+Bệnh nhân được khuyến cáo nên sử dụng các thiết bị này để có thể cải thiện tình trạng bệnh và chất lượng sống.
+
+Bên cạnh đó, bác sĩ cũng đã đề xuất cho bệnh nhân tham gia các chương trình hỗ trợ và điều trị cộng đồng để cải thiện chất lượng sống và khả năng vận động của bệnh nhân.
+
+Bệnh nhân được khuyến cáo nên tham gia các chương trình này để có thể cải thiện tình trạng bệnh và chất lượng sống.
+
+---
+
+Các thực thể đã trích xuất:
+
+- Loạn dưỡng cơ Duchenne (DMD) nhãn CHẨN_ĐOÁN với assertions=['isHistorical']
+- Prednisolone nhãn THUỐC với assertions=['isHistorical']
+
+- Xét nghiệm điện giải nhãn TRIỆU_CHỨNG
+- Xét nghiệm sinh học nhãn TRIỆU_CHỨNG
+- CK (Creatine Kinase) nhãn TÊN_XÉT_NGHIỆM
+- Máy hỗ trợ hô hấp nhãn THUỐC
+- Thiết bị hỗ trợ và điều trị tại nhà nhãn THUỐC

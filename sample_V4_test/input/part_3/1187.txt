@@ -1,0 +1,74 @@
+BỆNH NHÂN ĐƯỢC CHUYỂN VỀ KHUNG PHÒNG TIÊU HÓA LÂM SÀNG
+
+Bệnh nhân nam, tuổi 35, được chuyển về khám tại khoa phổi sau khi được chẩn đoán mắc bệnh lao phổi (ICD-10: A15.0). Bệnh nhân được báo cáo có biểu hiện ho máu, đờm dương tính và các xét nghiệm cận lâm sàng tiếp theo.
+
+TIỀN SỬ BẢN THÂN VÀ GIA ĐÌNH
+
+Bệnh nhân có tiền sử mắc bệnh lao phổi từ năm 2015. Trước đó, bệnh nhân có lịch sử mắc bệnh phổi mạn tính và thường xuyên bị ho. Bệnh nhân không có tiền sử bệnh khác và không có gia đình có bệnh lý về phổi.
+
+BỆNH LÝ MỤC TIÊU
+
+Bệnh nhân được chẩn đoán mắc bệnh lao phổi (ICD-10: A15.0) dựa trên các kết quả xét nghiệm ngoại khoa và hình ảnh lâm sàng. Bệnh nhân bị ho máu và đờm dương tính.
+
+KẾT QUẢ KHÁM CHI TIẾT
+
+Bệnh nhân được khám chi tiết tại khoa phổi. Kết quả khám cho thấy bệnh nhân có thể bị lao phổi. Các xét nghiệm cận lâm sàng bao gồm:
+
+* Xét nghiệm máu: bệnh nhân có mức độ kháng thể chống lao phổi cao.
+* Xét nghiệm đờm phổi: đờm phổi của bệnh nhân dương tính với lao phổi.
+* Xét nghiệm hình ảnh phổi: hình ảnh phổi của bệnh nhân cho thấy tình trạng nhiễm khuẩn lao phổi.
+
+CÁC BẢNG CHỈ SỐ XÉT NGHIỆM CUNG CẬP
+
+| Xét nghiệm | KẾT QUẢ |
+| --- | --- |
+| Kháng thể chống lao phổi | Cao |
+| Đờm phổi | Dương tính |
+| Hình ảnh phổi | Nhiễm khuẩn lao phổi |
+
+KẾT LUẬN
+
+Bệnh nhân được chẩn đoán mắc bệnh lao phổi (ICD-10: A15.0) dựa trên các kết quả xét nghiệm ngoại khoa và hình ảnh lâm sàng. Bệnh nhân được chỉ định phẫu thuật và can thiệp ngoại khoa để điều trị bệnh. Bệnh nhân sẽ được theo dõi chặt chẽ và điều trị theo đúng chỉ định.
+
+TRÍCH ỨNG
+
+- Bệnh lao phổi (CHẨN_ĐOÁN)
+- Kháng thể chống lao phổi (TRIỆU_CHỨNG)
+- Đờm phổi dương tính (TRIỆU_CHỨNG)
+- Xét nghiệm hình ảnh phổi (TRIỆU_CHỨNG)
+- Bệnh nhân được chẩn đoán mắc bệnh lao phổi (CHẨN_ĐOÁN)
+- Lao phổi (CHẨN_ĐOÁN)
+
+Entities:
+[
+  {
+    "text": "lao phổi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [ ]
+  },
+  {
+    "text": "kháng thể chống lao phổi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [ ]
+  },
+  {
+    "text": "đờm phổi dương tính",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [ ]
+  },
+  {
+    "text": "xét nghiệm hình ảnh phổi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [ ]
+  },
+  {
+    "text": "bệnh nhân được chẩn đoán mắc bệnh lao phổi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [ ]
+  },
+  {
+    "text": "lao phổi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [ ]
+  }
+]

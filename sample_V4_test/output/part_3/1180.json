@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Hội chứng Down (Trisomy 21)",
+    "position": [378, 405],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Beclomethasone",
+    "position": [443, 457],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1347"]
+  },
+  {
+    "text": "Heptaminol",
+    "position": [750, 760],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5254"]
+  },
+  {
+    "text": "Naloxone",
+    "position": [956, 964],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7242"]
+  },
+  {
+    "text": "Trisomy 21",
+    "position": [267, 277],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chlorambucil",
+    "position": [2496, 2508],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2346"]
+  },
+  {
+    "text": "Hydrochlorothiazide",
+    "position": [775, 794],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5487"]
+  },
+  {
+    "text": "Normocytic anemia",
+    "position": [624, 641],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [608, 622],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "position": [644, 664],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm điện giải",
+    "position": [680, 700],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

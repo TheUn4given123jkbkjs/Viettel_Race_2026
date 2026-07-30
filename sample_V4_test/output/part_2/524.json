@@ -1,0 +1,44 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [72, 80],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [104, 112],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "hồi hộp",
+    "position": [364, 371],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [373, 380],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [384, 391],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "điện tâm đồ (ECG)",
+    "position": [798, 815],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Sốt xuất huyết Dengue",
+    "position": [59, 80],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated",
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": ["A91"]
+  },
+  {
+    "text": "Triệu chứng",
+    "position": [2476, 2487],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated",
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [566, 580],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [
+      "isNegated",
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm máu",
+    "position": [2538, 2560],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [
+      "isNegated",
+      "isFamily",
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

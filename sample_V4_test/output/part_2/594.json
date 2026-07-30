@@ -1,0 +1,59 @@
+[
+  {
+    "text": "Lao phổi",
+    "position": [112, 120],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
+  },
+  {
+    "text": "Isoniazid",
+    "position": [215, 224],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
+  },
+  {
+    "text": "BK đờm dương tính",
+    "position": [895, 912],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 12g/dL",
+    "position": [595, 612],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lactate dehydrogenase (LDH) 300U/L",
+    "position": [614, 648],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bilirubin 1.5mg/dL",
+    "position": [677, 695],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Alanine aminotransferase (ALT) 30U/L",
+    "position": [697, 733],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [272, 280],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "loạn nhịp hoàn toàn",
+    "position": [483, 502],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Electrocardiogram",
+    "position": [1001, 1018],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Echocardiogram",
+    "position": [1056, 1070],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Pulse",
+    "position": [921, 926],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Blood",
+    "position": [946, 951],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Pressure",
+    "position": [972, 980],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

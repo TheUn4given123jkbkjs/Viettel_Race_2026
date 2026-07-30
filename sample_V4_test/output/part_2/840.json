@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh nước tiểu mùi sirô phong (MSUD)",
+    "position": [1548, 1584],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aminocaproic acid",
+    "position": [1117, 1134],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["99"]
+  },
+  {
+    "text": "nôn trớ",
+    "position": [62, 69],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [71, 74],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "position": [330, 344],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ axit amin chuỗi nhánh cao",
+    "position": [546, 579],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

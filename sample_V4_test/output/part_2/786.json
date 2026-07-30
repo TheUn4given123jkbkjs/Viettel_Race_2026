@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm họng cấp",
+    "position": [1669, 1682],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["J02.9"]
+  },
+  {
+    "text": "Vi khuẩn Streptococcus pyogenes",
+    "position": [2212, 2243],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm vi sinh",
+    "position": [2006, 2024],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm vi sinh",
+    "position": [792, 818],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ bị đái tháo đường tuýp 2",
+    "position": [2348, 2378],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ có tiền sử đái tháo đường tuýp 2",
+    "position": [2392, 2430],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [2444, 2474],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

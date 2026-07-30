@@ -1,0 +1,48 @@
+[
+  {
+    "text": "loét dạ dày tá tràng",
+    "position": [592, 612],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K27",
+      "K27.0",
+      "K27.1"
+    ]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [650, 660],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "đau thượng vị",
+    "position": [43, 56],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [265, 282],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [309, 318],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Clarithromycin",
+    "position": [662, 676],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["21212"]
+  }
+]

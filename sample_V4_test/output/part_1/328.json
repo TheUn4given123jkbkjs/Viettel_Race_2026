@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Xơ gan",
+    "position": [623, 629],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K74.6"]
+  },
+  {
+    "text": "viêm loét dạ dày tá tràng",
+    "position": [277, 302],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K27.9"]
+  },
+  {
+    "text": "xơ gan",
+    "position": [373, 379],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["K74.6"]
+  },
+  {
+    "text": "sốt",
+    "position": [454, 457],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "AST",
+    "position": [882, 885],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 U/L",
+    "position": [886, 893],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Spironolactone",
+    "position": [1786, 1800],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "Furosemide",
+    "position": [1854, 1864],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Lactulose",
+    "position": [1923, 1932],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6218"]
+  },
+  {
+    "text": "Vitamin K",
+    "position": [2141, 2150],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

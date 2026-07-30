@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Ung thư dạ dày",
+    "position": [55, 69],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["D00"]
+  },
+  {
+    "text": "cisplatin",
+    "position": [1738, 1747],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "đau thượng vị dai dẳng",
+    "position": [820, 842],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn ra máu",
+    "position": [971, 981],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [1093, 1107],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sinh thiết",
+    "position": [1112, 1122],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CA 72-4",
+    "position": [1239, 1246],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CEA",
+    "position": [1250, 1253],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hemoglobin 10.8 g/dL",
+    "position": [2287, 2307],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hóa trị",
+    "position": [1713, 1720],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

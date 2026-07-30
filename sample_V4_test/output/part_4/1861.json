@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Loạn dưỡng cơ Duchenne",
+    "position": [359, 381],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Creatine Kinase (CK)",
+    "position": [283, 303],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xe lăn",
+    "position": [229, 235],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Duchenne",
+    "position": [373, 381],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Loạn dưỡng cơ",
+    "position": [359, 372],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E88.09", "G71.0"]
+  },
+  {
+    "text": "Creatine Kinase",
+    "position": [283, 298],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

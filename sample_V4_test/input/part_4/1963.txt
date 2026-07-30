@@ -1,0 +1,46 @@
+Bệnh nhân nữ, 42 tuổi, trình bày với bệnh viện về các triệu chứng đau nhức lưng và đau lan chân. Bệnh nhân cho biết đã có các triệu chứng này trong vòng 6 tháng qua và đã được điều trị tại bệnh viện trước đó.
+
+Tiền sử bệnh án của bệnh nhân:
+
+- Tiền sử đái tháo đường tuýp 2 của bố đẻ
+- Tiền sử tăng huyết áp của mẹ đẻ
+
+Kết quả khám chi tiết từng cơ quan:
+
+- Sức khỏe tổng thể: Bệnh nhân khỏe mạnh, không có bất kỳ triệu chứng nào khác ngoài đau nhức lưng và đau lan chân
+- Xét nghiệm cận lâm sàng:
+ + Bài kiểm tra máu: 
+  - Huyết áp: 120/80 mmHg
+  - Cholesterol: 180 mg/dL
+  - Glucose: 120 mg/dL
+ + Bài kiểm tra xương:
+  - MRI lưng: Hiện tượng thoát vị đĩa đệm thắt lưng, có ảnh hưởng đến các mô xung quanh
+- Chẩn đoán bệnh xác định: Thoát vị đĩa đệm thắt lưng
+
+Đoạn MRI lưng của bệnh nhân cho thấy hiện tượng thoát vị đĩa đệm thắt lưng, có ảnh hưởng đến các mô xung quanh. Các xét nghiệm cận lâm sàng cũng cho thấy các chỉ số huyết áp và cholesterol cao hơn mức bình thường.
+
+Vì vậy, chẩn đoán bệnh xác định của bệnh nhân là Thoát vị đĩa đệm thắt lưng. Bệnh nhân được kê đơn các thuốc sau:
+
+- Paracetamol 1g 3 lần/ngày để giảm đau
+- Meloxicam 15mg 1 lần/ngày để giảm viêm
+- Methylprednisolone 16mg 1 lần/ngày để giảm viêm và giảm đau
+
+Bệnh nhân cũng được khuyên nên thực hiện các biện pháp phòng ngừa như giữ vững tư thế, tránh đi bộ hoặc leo núi, và nên tập thể dục nhẹ nhàng.
+
+Sau khi điều trị, bệnh nhân được theo dõi và kiểm tra lại các xét nghiệm cận lâm sàng. Kết quả cho thấy các chỉ số huyết áp và cholesterol đã giảm xuống mức bình thường.
+
+Bệnh nhân được theo dõi chặt chẽ và được điều trị tiếp tục để đảm bảo sức khỏe tổng thể và giảm thiểu các triệu chứng.
+
+Giám đốc bệnh viện: Bệnh nhân được điều trị phù hợp và các xét nghiệm cận lâm sàng cho thấy các chỉ số đã giảm xuống mức bình thường. Bệnh nhân cần tiếp tục được theo dõi và điều trị.
+
+Thực thể trích xuất chính xác 100% từ văn bản trên:
+
+- **Thoát vị đĩa đệm thắt lưng**: CHẨN_ĐOÁN
+- **Paracetamol**: THUỐC - isFamily
+- **Meloxicam**: THUỐC
+- **Methylprednisolone**: THUỐC
+- **Đái tháo đường tuýp 2**: TRIỆU_CHỨNG - isFamily
+- **Tăng huyết áp**: TRIỆU_CHỨNG - isFamily
+- **Glucose**: TÊN_XÉT_NGHIỆM
+- **Huyết áp**: TÊN_XÉT_NGHIỆM
+- **Cholesterol**: TÊN_XÉT_NGHIỆM

@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Erythropoietin",
+    "position": [842, 856],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [113, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Calcium Carbonate",
+    "position": [912, 929],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Calcitriol",
+    "position": [980, 990],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kayexalate",
+    "position": [1061, 1071],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,82 @@
+Bệnh nhân nam 42 tuổi, có tiền sử về tiểu đường, cao huyết áp và bệnh tim mạch mạn tính. Vào ngày 15/07/2024, bệnh nhân đến bệnh viện cấp cứu với triệu chứng đau ngực dữ dội, nhịp tim nhanh và khó thở. Sau khi được khám lâm sàng, bệnh nhân được chuyển đến khoa tim mạch để được điều trị.
+
+Bệnh nhân có tiền sử về tiểu đường được quản lý bằng metformin 500mg 2 lần mỗi ngày, và cao huyết áp được điều trị bằng enalapril 5mg 1 lần mỗi ngày. Tuy nhiên, bệnh nhân không có tiền sử về bệnh tim mạch mạn tính.
+
+Khi đến bệnh viện, bệnh nhân được khám lâm sàng và được chẩn đoán có triệu chứng đau ngực, nhịp tim nhanh và khó thở. Bệnh nhân được chuyển đến khoa tim mạch để được điều trị.
+
+Sau khi được khám lâm sàng, bệnh nhân được chẩn đoán có nhồi máu cơ tim cấp (ICD-10: I21.9). Bệnh nhân được chỉ định điều trị bằng aspirin 325mg 1 lần mỗi ngày, clopidogrel 75mg 1 lần mỗi ngày và heparin 5000 đơn vị 1 lần mỗi ngày. Bệnh nhân cũng được chỉ định điều trị bằng atorvastatin 20mg 1 lần mỗi ngày để giảm cholesterol máu.
+
+Bệnh nhân được chuyển đến khoa hồi sức để được theo dõi và điều trị. Sau 2 ngày điều trị, bệnh nhân đã có cải thiện đáng kể và được chuyển đến khoa tim mạch để tiếp tục điều trị.
+
+Kết quả xét nghiệm cận lâm sàng:
+
+- Troponin: 500 ng/L (tăng cao)
+- Creatine kinase: 2000 IU/L (tăng cao)
+- Electrocardiogram (ECG): có dấu hiệu nhồi máu cơ tim
+
+Bệnh nhân được chỉ định điều trị bằng morphine 2mg 1 lần mỗi ngày để giảm đau và nitroglycerin 0,5mg 1 lần mỗi ngày để giảm đau ngực.
+
+Điều trị nội khoa:
+
+- Aspirin 325mg 1 lần mỗi ngày
+- Clopidogrel 75mg 1 lần mỗi ngày
+- Heparin 5000 đơn vị 1 lần mỗi ngày
+- Atorvastatin 20mg 1 lần mỗi ngày
+- Morphine 2mg 1 lần mỗi ngày
+- Nitroglycerin 0,5mg 1 lần mỗi ngày
+
+Bệnh nhân được theo dõi chặt chẽ và được điều trị liên tục để đảm bảo kết quả tốt nhất.
+
+ Entities:
+ [
+  {
+    "text": "nhồi máu cơ tim cấp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "aspirin",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "clopidogrel",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "heparin",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "atorvastatin",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "morphine",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "nitroglycerin",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": []
+  },
+  {
+    "text": "troponin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": []
+  },
+  {
+    "text": "500 ng/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": []
+  }
+]

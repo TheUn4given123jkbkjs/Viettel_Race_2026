@@ -1,0 +1,69 @@
+[
+  {
+    "text": "Ung thư gan",
+    "position": [2109, 2120],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C22.0",
+      "C22.1",
+      "C22.3"
+    ]
+  },
+  {
+    "text": "viêm gan B",
+    "position": [327, 337],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["B18.1"]
+  },
+  {
+    "text": "đau tức hạ sườn phải",
+    "position": [196, 216],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [934, 942],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [950, 953],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "AFP",
+    "position": [1596, 1599],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "15400 ng/mL",
+    "position": [1621, 1632],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sorafenib",
+    "position": [2454, 2463],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lenvatinib",
+    "position": [2618, 2628],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

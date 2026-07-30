@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Nhiễm trùng tiết niệu",
+    "position": [0, 21],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T83.5"]
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [386, 395],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu rắt",
+    "position": [397, 405],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [726, 756],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "bạch cầu niệu dương tính",
+    "position": [1138, 1162],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổng phân tích nước tiểu",
+    "position": [1097, 1121],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [1576, 1589],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  }
+]

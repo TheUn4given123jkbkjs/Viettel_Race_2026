@@ -1,0 +1,82 @@
+Bệnh án số: 2022/001
+Hộ chiếu: 123456789
+Ngày vào viện: 2022-01-01
+Ngày ra viện: 2022-01-15
+Loại bệnh: Đột quỵ não
+Mã ICD-10: I64
+Tiền sử bệnh:
+- Bệnh nhân bị đột quỵ não lần đầu tiên vào năm 2018, sau đó điều trị tại Bệnh viện Đa khoa. Sau đó, bệnh nhân được bác sĩ chỉ định dùng aspirin để ngăn ngừa tái phát.
+- Bố đẻ của bệnh nhân có tiền sử đái tháo đường tuýp 2 và mẹ đẻ có tiền sử tăng huyết áp.
+- Bệnh nhân không có tiền sử bị tai biến mạch máu não trước đây.
+Diễn biến bệnh lý:
+- Bệnh nhân đến bệnh viện vào ngày 2022-01-01 với triệu chứng liệt nửa người bên trái. Bác sĩ khám và chụp CT scan để xác định nguyên nhân.
+- Kết quả CT scan cho thấy có dấu hiệu tai biến mạch máu não trên não trái của bệnh nhân.
+- Bác sĩ đã chỉ định bệnh nhân nằm viện và bắt đầu điều trị bằng thuốc để ngăn ngừa tái phát.
+- Trong quá trình điều trị, bệnh nhân được bác sĩ theo dõi tình trạng sức khỏe thường xuyên. Bệnh nhân đã được giảm dần liều aspirin và thay thế bằng một loại thuốc khác, ************ (tên thuốc không rõ), để ngăn ngừa tác dụng phụ.
+- Bệnh nhân đã được xuất viện vào ngày 2022-01-15 với tình trạng sức khỏe đã cải thiện đáng kể.
+Kết quả xét nghiệm cận lâm sàng:
+- Kết quả xét nghiệm máu cho thấy rằng bệnh nhân có nồng độ đường huyết cao hơn ngưỡng bình thường.
+- Kết quả xét nghiệm điện tim cho thấy rằng bệnh nhân có biểu hiện loạn nhịp tim.
+- Bác sĩ đã yêu cầu bệnh nhân phải được theo dõi thêm để xác định nguyên nhân.
+Ghi chú:
+- Bệnh nhân được bác sĩ cảnh báo về nguy cơ tái phát đột quỵ não nếu không tuân thủ điều trị.
+- Bác sĩ đã cho bệnh nhân biết về các biện pháp phòng ngừa và điều trị để ngăn ngừa tái phát.
+- Bệnh nhân đã được thông báo về khả năng tác dụng phụ của các loại thuốc.
+Các kết quả xét nghiệm cận lâm sàng:
+| Kết quả xét nghiệm | Giá trị |
+| --- | --- |
+| Đường huyết | 180 mg/dL |
+| Lactate | 2.5 mmol/L |
+| Creatinine | 1.2 mg/dL |
+| Điện tim | Đa phân cực |
+
+Các thuốc được sử dụng:
+- Aspirin (liều 100mg mỗi ngày)
+- ************ (tên thuốc không rõ) (liều 50mg mỗi ngày)
+
+Các thuốc không được sử dụng:
+- Clopidogrel
+- Warfarin
+
+Các xét nghiệm cận lâm sàng:
+- Xét nghiệm máu
+- Xét nghiệm điện tim
+- Xét nghiệm chức năng gan
+
+Các kết quả xét nghiệm cận lâm sàng:
+- Kết quả xét nghiệm máu cho thấy rằng bệnh nhân có nồng độ đường huyết cao hơn ngưỡng bình thường.
+- Kết quả xét nghiệm điện tim cho thấy rằng bệnh nhân có biểu hiện loạn nhịp tim.
+
+Các biện pháp phòng ngừa và điều trị:
+- Bác sĩ đã cho bệnh nhân biết về các biện pháp phòng ngừa và điều trị để ngăn ngừa tái phát.
+- Bác sĩ đã cảnh báo bệnh nhân về nguy cơ tái phát đột quỵ não nếu không tuân thủ điều trị.
+- Bệnh nhân đã được thông báo về khả năng tác dụng phụ của các loại thuốc.
+- Bệnh nhân đã được yêu cầu phải được theo dõi thêm để xác định nguyên nhân.
+
+ Các kết quả xét nghiệm cận lâm sàng:
+| Kết quả xét nghiệm | Giá trị |
+| --- | --- |
+| Đường huyết | 180 mg/dL |
+| Lactate | 2.5 mmol/L |
+| Creatinine | 1.2 mg/dL |
+| Điện tim | Đa phân cực |
+
+ Các thuốc được sử dụng:
+- Aspirin (liều 100mg mỗi ngày)
+
+ Các xét nghiệm cận lâm sàng:
+- Xét nghiệm máu
+- Xét nghiệm điện tim
+- Xét nghiệm chức năng gan
+
+Các thực thể y khoa:
+- Đột quỵ não (CHẨN_ĐOÁN) {isHistorical: true}
+- Tai biến mạch máu não (CHẨN_ĐOÁN) {isHistorical: true}
+- Liệt nửa người (CHẨN_ĐOÁN) {isHistorical: true}
+- Aspirin (THUỐC) {isHistorical: true}
+- ************ (THUỐC) {isNegated: true}
+- Đái tháo đường tuýp 2 (TÊN_XÉT_NGHIỆM) {isFamily: true}
+- Tăng huyết áp (KẾT_QUẢ_XÉT_NGHIỆM) {isFamily: true}
+- Loạn nhịp tim (KẾT_QUẢ_XÉT_NGHIỆM) {isNegated: true}
+- Đường huyết cao (KẾT_QUẢ_XÉT_NGHIỆM) {isNegated: true}
+- Creatinine cao (KẾT_QUẢ_XÉT_NGHIỆM) {isNegated: true}

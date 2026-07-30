@@ -1,0 +1,64 @@
+Bệnh nhân nữ, 45 tuổi, đi khám do bị đau ngực dữ dội trong 4 giờ liền. Bệnh nhân báo cáo rằng cơn đau bắt đầu từ 08:00 sáng hôm qua, ban đầu chỉ là đau nhẹ nhưng sau đó tăng dần lên mức độ nghiêm trọng.
+
+Tiền sử bệnh nội khoa
+
+- Tăng huyết áp 5 năm
+- Đã mổ ruột thừa cách đây 2 năm
+
+Bệnh nhân không có tiền sử bệnh tim mạch nhưng có tiền sử gia đình về bệnh tim mạch. Cha của bệnh nhân bị đột quỵ khi 55 tuổi, mẹ bị nhồi máu cơ tim cấp khi 62 tuổi.
+
+Khám lúc vào viện
+
+- Thân nhiệt: 36,5°C
+- Tần số tim: 120/min
+- Áp lực máu: 180/100 mmHg
+- Oxi huyết: 95%
+- Điện tim: RBBB
+- ECG: Nhồi máu cơ tim cấp
+
+Các xét nghiệm cận lâm sàng
+
+- Troponin: 1500 ng/mL (tăng cao)
+- CKMB: 300 U/L
+- CRP: 50 mg/L
+- Lactat dehydrogenase: 400 U/L
+
+Bệnh nhân được chẩn đoán với Nhồi máu cơ tim cấp (ICD-10: I21.9). Bác sĩ đề xuất phương án điều trị như sau:
+
+- Aspirin: 100 mg, 1 lần/ngày
+- Clopidogrel: 75 mg, 1 lần/ngày
+- Heparin: 5000 IU, 1 lần/ngày
+- Atorvastatin: 20 mg, 1 lần/ngày
+- Morphine: 5 mg, 1 lần/ngày
+- Nitroglycerin: 0,5 mg, 1 lần/ngày
+
+Bệnh nhân được chỉ định nghỉ ngơi hoàn toàn trong 2 ngày và được theo dõi chặt chẽ.
+
+Đoạn văn trên có thể trích xuất các thực thể y khoa sau:
+
+- Nhồi máu cơ tim cấp (CHẨN_ĐOÁN)
+- Aspirin (THUỐC)
+- Clopidogrel (THUỐC)
+- Heparin (THUỐC)
+- Atorvastatin (THUỐC)
+- Morphine (THUỐC)
+- Nitroglycerin (THUỐC)
+- Đau ngực dữ dội (TRIỆU_CHỨNG)
+- Troponin tăng cao (KẾT_QUẢ_XÉT_NGHIỆM)
+- Tăng huyết áp (TÊN_XÉT_NGHIỆM)
+- Ruột thừa (TÊN_XÉT_NGHIỆM)
+- Đột quỵ (TÊN_XÉT_NGHIỆM)
+
+Văn bản trên có thể trích xuất các thuộc tính sau:
+
+- Aspirin: isDrug
+- Clopidogrel: isDrug
+- Heparin: isDrug
+- Atorvastatin: isDrug
+- Morphine: isDrug
+- Nitroglycerin: isDrug
+- Đau ngực dữ dội: isSymptom
+- Troponin tăng cao: isLabResult
+- Tăng huyết áp: isLabResult
+- Ruột thừa: isLabResult
+- Đột quỵ: isLabResult

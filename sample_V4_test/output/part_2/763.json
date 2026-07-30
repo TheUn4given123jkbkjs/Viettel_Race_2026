@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Thoát vị đĩa đệm",
+    "position": [1874, 1890],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M51.2"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [919, 930],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gabapentin",
+    "position": [979, 989],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau lưng",
+    "position": [2205, 2213],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Đau lan chân",
+    "position": [2230, 2242],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MRI",
+    "position": [527, 530],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm",
+    "position": [353, 371],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "text": "viêm dạ dày mạn",
+    "position": [196, 211],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K29.3",
+      "K29.4",
+      "K29.5"
+    ]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [255, 265],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [406, 418],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [135, 143],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "khó tiêu",
+    "position": [147, 155],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [36, 49],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "mổ ruột thừa",
+    "position": [67, 79],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm HP",
+    "position": [215, 223],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng dưới",
+    "position": [120, 133],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

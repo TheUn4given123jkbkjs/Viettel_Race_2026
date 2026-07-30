@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Giảm gammaglobulin di truyền (Bruton)",
+    "position": [0, 37],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng tái phát",
+    "position": [427, 447],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Immune Globulin",
+    "position": [1421, 1436],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1426680"]
+  },
+  {
+    "text": "Oxygen",
+    "position": [1539, 1545],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7806"]
+  },
+  {
+    "text": "Budesonide",
+    "position": [1724, 1734],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["19831"]
+  },
+  {
+    "text": "IgG",
+    "position": [1011, 1014],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 mg/dL",
+    "position": [1018, 1027],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CD19+",
+    "position": [1147, 1152],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

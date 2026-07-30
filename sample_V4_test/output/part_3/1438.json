@@ -1,0 +1,41 @@
+[
+  {
+    "text": "Viêm gan B mạn",
+    "position": [1013, 1027],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isHistorical"],
+    "candidates": ["B18.0", "B18.1"]
+  },
+  {
+    "text": "Tenofovir",
+    "position": [1098, 1107],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": [
+      "2003201",
+      "2003222",
+      "117466"
+    ]
+  },
+  {
+    "text": "HBV DNA: 4.2 log IU/mL",
+    "position": [672, 694],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bilirubin: 1.2 mg/dL",
+    "position": [696, 716],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau cơ bụng",
+    "position": [115, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

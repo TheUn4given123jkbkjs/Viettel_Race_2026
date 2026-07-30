@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Isoniazid",
+    "position": [1173, 1182],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
+  },
+  {
+    "text": "Rifampicin",
+    "position": [1184, 1194],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Pyrazinamide",
+    "position": [1196, 1208],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["214662", "8987"]
+  },
+  {
+    "text": "Ethambutol",
+    "position": [1212, 1222],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "814321",
+      "4110"
+    ]
+  },
+  {
+    "text": "X-quang ngực",
+    "position": [711, 723],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả X-quang ngực cho thấy có dấu hiệu của lao phổi",
+    "position": [759, 813],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

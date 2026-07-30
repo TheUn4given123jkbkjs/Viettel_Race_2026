@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Isoniazid",
+    "position": [936, 945],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
+  },
+  {
+    "text": "Rifampicin",
+    "position": [947, 957],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Pyrazinamide",
+    "position": [959, 971],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["214662", "8987"]
+  },
+  {
+    "text": "Ethambutol",
+    "position": [975, 985],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "814321",
+      "4110"
+    ]
+  },
+  {
+    "text": "ho máu",
+    "position": [338, 344],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "BK đờm dương tính",
+    "position": [546, 563],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

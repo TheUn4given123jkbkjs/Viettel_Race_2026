@@ -1,0 +1,47 @@
+Bệnh nhân nam 55 tuổi, có tiền sử đau khớp gối từ 2 năm trước đây. Trong thời gian gần đây, bệnh nhân cảm thấy đau khớp gối khi đi lại, đặc biệt là sau khi thực hiện các vận động mạnh. Bệnh nhân đã được khám tại bệnh viện trước đây và được chẩn đoán có tình trạng thoái hóa khớp gối.
+
+Kết quả xét nghiệm cận lâm sàng:
+
+* Bài tiểu sốt: 37,5°C
+* Bài xét nghiệm hình ảnh: Không có bất kỳ bất thường nào về khớp gối
+* Bài xét nghiệm sinh hóa: Không có bất kỳ bất thường nào về các thông số sinh hóa
+
+Bệnh nhân không có tiền sử bệnh lý trước đây, không có tiền sử sử dụng thuốc, không có tiền sử hút thuốc, không có tiền sử uống rượu.
+
+Bệnh nhân được chỉ định phẫu thuật, can thiệp ngoại khoa hoặc thay đổi lối sống để điều trị cho tình trạng thoái hóa khớp gối.
+
+Về kết quả xét nghiệm cận lâm sàng, bệnh nhân được chẩn đoán có tình trạng thoái hóa khớp gối. Đặc biệt, bài xét nghiệm hình ảnh không có bất kỳ bất thường nào về khớp gối.
+
+Bệnh nhân được tư vấn về tầm quan trọng của việc thay đổi lối sống để cải thiện tình trạng thoái hóa khớp gối. Bệnh nhân được khuyến khích tập thể dục đều đặn, giảm cân và tránh các vận động mạnh.
+
+Trong quá trình điều trị, bệnh nhân cần được theo dõi chặt chẽ về tình trạng bệnh lý và kết quả xét nghiệm cận lâm sàng. Nếu cần thiết, bệnh nhân sẽ được chỉ định phẫu thuật hoặc can thiệp ngoại khoa để cải thiện tình trạng bệnh lý.
+
+Bệnh nhân được tư vấn về tầm quan trọng của việc tuân thủ theo dõi và chăm sóc tại nhà để cải thiện tình trạng bệnh lý.
+
+Bệnh nhân được hỏi và trả lời những câu hỏi sau:
+
+* Bệnh nhân có đau khi đi lại không? (Đáp ứng: Có đau)
+* Bệnh nhân có sốt không? (Đáp ứng: Không sốt)
+* Bệnh nhân có có dấu hiệu bất thường nào khác không? (Đáp ứng: Không có)
+
+Bệnh nhân được chẩn đoán có tình trạng thoái hóa khớp gối theo ICD-10: M17.9.
+
+**Entities:**
+
+* 'Thoái hóa khớp gối' (CHẨN_ĐOÁN)
+* 'Xét nghiệm hình ảnh' (TÊN_XÉT_NGHIỆM)
+* 'Sốt' (TRIỆU_CHỨNG)
+* 'Đau khi đi lại' (TRIỆU_CHỨNG)
+* 'Hyaluronic' (THUỐC)
+* 'Phẫu thuật' (TRIỆU_CHỨNG)
+* 'Can thiệp ngoại khoa' (TRIỆU_CHỨNG)
+* 'Thay đổi lối sống' (TRIỆU_CHỨNG)
+
+**Assertions:**
+
+* 'isNegated' của 'Sốt': Có nghĩa là bệnh nhân không sốt.
+* 'isNegated' của 'Đau đầu': Không có bất kỳ dấu hiệu đau đầu nào.
+* 'isFamily' của 'Tiền sử bệnh lý': Bệnh nhân không có tiền sử bệnh lý trước đây.
+* 'isHistorical' của 'Tiền sử sử dụng thuốc': Bệnh nhân không có tiền sử sử dụng thuốc.
+* 'isNegated' của 'Hút thuốc': Bệnh nhân không hút thuốc.
+* 'isNegated' của 'Uống rượu': Bệnh nhân không uống rượu.

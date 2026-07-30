@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Viêm gan C mạn",
+    "position": [0, 14],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B18.2"]
+  },
+  {
+    "text": "Sofosbuvir",
+    "position": [939, 949],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [294, 301],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HCV RNA",
+    "position": [694, 701],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xét nghiệm chức năng gan",
+    "position": [764, 788],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Daclatasvir",
+    "position": [951, 962],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "ung thư phổi",
+    "position": [265, 277],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["D02.2"]
+  },
+  {
+    "text": "Cisplatin",
+    "position": [670, 679],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2555"]
+  },
+  {
+    "text": "Paclitaxel",
+    "position": [683, 693],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bevacizumab",
+    "position": [748, 759],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho ra máu",
+    "position": [49, 58],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CT ngực",
+    "position": [326, 333],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

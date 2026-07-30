@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Amoxicillin",
+    "position": [141, 152],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [529, 538],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J18.9"]
+  },
+  {
+    "text": "Sốt",
+    "position": [552, 555],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ho",
+    "position": [569, 571],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đờm",
+    "position": [585, 588],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ampicillin",
+    "position": [640, 650],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["733"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [656, 667],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2193"]
+  }
+]

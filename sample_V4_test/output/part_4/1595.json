@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Hen phế quản",
+    "position": [167, 179],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J45.9"]
+  },
+  {
+    "text": "Salbutamol",
+    "position": [211, 221],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

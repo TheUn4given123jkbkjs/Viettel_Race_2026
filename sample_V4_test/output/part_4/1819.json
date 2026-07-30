@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Trào ngược dạ dày thực quản",
+    "position": [0, 27],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K21.9"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [895, 905],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [926, 938],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Domperidone",
+    "position": [1001, 1012],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gaviscon",
+    "position": [1076, 1084],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rabeprazole",
+    "position": [1088, 1099],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "GERD",
+    "position": [213, 217],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K21.9"]
+  },
+  {
+    "text": "ợ nóng",
+    "position": [425, 431],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

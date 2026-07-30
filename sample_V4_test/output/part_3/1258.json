@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau tức vùng thượng vị",
+    "position": [366, 388],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [589, 597],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sụt cân",
+    "position": [717, 724],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổng phân tích tế bào máu ngoại vi",
+    "position": [1649, 1683],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi dạ dày thực quản có sinh thiết",
+    "position": [2006, 2044],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hemoglobin 10.5 g/dL",
+    "position": [2149, 2169],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CA 72-4 tăng cao vượt ngưỡng 12.4 U/mL",
+    "position": [2444, 2482],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

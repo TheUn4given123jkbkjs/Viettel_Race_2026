@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Thoái hóa cột sống",
+    "position": [1045, 1063],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M47.9"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [251, 262],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Meloxicam",
+    "position": [266, 275],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Eperisone",
+    "position": [1185, 1194],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gabapentin",
+    "position": [1224, 1234],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thoái hóa cột sống thắt lưng",
+    "position": [70, 98],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

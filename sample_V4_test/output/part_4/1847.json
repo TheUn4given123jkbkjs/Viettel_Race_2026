@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Loét dạ dày tá tràng",
+    "position": [1764, 1784],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K27",
+      "K27.0",
+      "K27.1"
+    ]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [776, 786],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [815, 827],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Đau thượng vị",
+    "position": [528, 541],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ăn uống khó tiêu",
+    "position": [544, 560],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh nhân có các triệu chứng sau",
+    "position": [491, 523],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thử nghiệm máu (albumin)",
+    "position": [640, 664],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Clarithromycin",
+    "position": [1180, 1194],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["21212"]
+  }
+]

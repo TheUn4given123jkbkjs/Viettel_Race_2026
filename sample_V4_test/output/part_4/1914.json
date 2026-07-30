@@ -1,0 +1,72 @@
+[
+  {
+    "text": "yếu cơ",
+    "position": [185, 191],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Nhược cơ (Myasthenia Gravis)",
+    "position": [0, 28],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Neostigmine",
+    "position": [1014, 1025],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7315"]
+  },
+  {
+    "text": "Corticosteroid",
+    "position": [1107, 1121],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Plasmapheresis",
+    "position": [1196, 1210],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [769, 783],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm EEG",
+    "position": [857, 871],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm máu",
+    "position": [1258, 1280],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ có tiền sử tăng huyết áp",
+    "position": [1479, 1509],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Mẹ đẻ có tiền sử tiểu đường",
+    "position": [1513, 1540],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

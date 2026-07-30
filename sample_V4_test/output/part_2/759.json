@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm phế quản cấp",
+    "position": [781, 798],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J20.9"]
+  },
+  {
+    "text": "ho đờm xanh",
+    "position": [48, 59],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [863, 874],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Azithromycin",
+    "position": [925, 937],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["18631"]
+  },
+  {
+    "text": "Acetylcysteine",
+    "position": [988, 1002],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["197"]
+  },
+  {
+    "text": "Bromhexine",
+    "position": [1052, 1062],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1753"]
+  },
+  {
+    "text": "Dextromethorphan",
+    "position": [1110, 1126],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3289"]
+  }
+]

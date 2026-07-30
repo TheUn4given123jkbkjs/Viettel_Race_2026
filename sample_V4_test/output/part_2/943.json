@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Hội chứng Down (Trisomy 21)",
+    "position": [681, 708],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Acetate hemodialysis solution",
+    "position": [975, 1004],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["226504"]
+  },
+  {
+    "text": "không sốt",
+    "position": [1501, 1510],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [1635, 1648],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "47,XX,+21",
+    "position": [2084, 2093],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chậm phát triển tâm thần vận động",
+    "position": [794, 827],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

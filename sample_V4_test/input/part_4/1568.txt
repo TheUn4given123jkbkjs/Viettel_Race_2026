@@ -1,0 +1,49 @@
+Bệnh nhân nữ, 58 tuổi, đến khám bệnh vì có tăng huyết áp vô căn. Bệnh nhân có tiền sử gia đình có tăng huyết áp, bố mẹ đều bị bệnh này. 
+
+Mô tả triệu chứng: bệnh nhân có các triệu chứng như tăng huyết áp, đau đầu, buồn nôn. Tuy nhiên, bệnh nhân phủ nhận buồn nôn. 
+
+Kết quả xét nghiệm cận lâm sàng:
+
+- Điểm huyết áp: 180/100 mmHg
+- Cholesterol: 240 mg/dL
+- Glycerol: 200 mg/dL
+
+Bác sĩ đã đánh giá và chẩn đoán bệnh tăng huyết áp vô căn. 
+
+Sau khi đánh giá, bác sĩ đã quyết định kê đơn thuốc để điều trị bệnh tăng huyết áp. Bác sĩ đã kê đơn Amlodipine 10mg, một loại thuốc hạ áp hiệu quả.
+
+Dưới đây là kết quả xét nghiệm cận lâm sàng:
+
+- Điểm huyết áp: 160/90 mmHg (sau khi điều trị)
+- Cholesterol: 200 mg/dL
+- Glycerol: 150 mg/dL
+
+Bác sĩ đã hướng dẫn bệnh nhân cách thức điều trị và theo dõi tình trạng bệnh. 
+
+Bệnh nhân đã được chỉ định các xét nghiệm cần thiết để theo dõi tình trạng bệnh, bao gồm:
+
+- Xét nghiệm điện tim
+- Xét nghiệm máu
+
+Bác sĩ đã đề nghị bệnh nhân uống thuốc Amlodipine 10mg mỗi ngày, hai lần, vào thời điểm thức dậy và trước khi đi ngủ.
+
+Trong trường hợp bệnh nhân có các triệu chứng như đau đầu, phủ nhận buồn nôn, bác sĩ đã kê đơn thuốc Hydrochlorothiazide 25mg, một loại thuốc hạ áp khác.
+
+Bác sĩ đã nhấn mạnh tầm quan trọng của việc tuân thủ điều trị và theo dõi tình trạng bệnh thường xuyên.
+
+Bị chẩn đoán: CHẨN_ĐOÁN = 'Tăng huyết áp'
+Entities:
+- {'text': 'Tăng huyết áp', 'type': 'CHẨN_ĐOÁN', 'assertions': ['isConfirmed']}
+- {'text': 'Amlodipine 10mg', 'type': 'THUỐC', 'assertions': []}
+- {'text': 'Hydrochlorothiazide 25mg', 'type': 'THUỐC', 'assertions': []}
+- {'text': 'Điểm huyết áp', 'type': 'TÊN_XÉT_NGHIỆM', 'assertions': []}
+- {'text': 'Cholesterol', 'type': 'TÊN_XÉT_NGHIỆM', 'assertions': []}
+- {'text': 'Glycerol', 'type': 'TÊN_XÉT_NGHIỆM', 'assertions': []}
+- {'text': '180/100 mmHg', 'type': 'KẾT_QUẢ_XÉT_NGHIỆM', 'assertions': []}
+- {'text': '240 mg/dL', 'type': 'KẾT_QUẢ_XÉT_NGHIỆM', 'assertions': []}
+- {'text': '200 mg/dL', 'type': 'KẾT_QUẢ_XÉT_NGHIỆM', 'assertions': []}
+- {'text': '160/90 mmHg', 'type': 'KẾT_QUẢ_XÉT_NGHIỆM', 'assertions': []}
+- {'text': '200 mg/dL', 'type': 'KẾT_QUẢ_XÉT_NGHIỆM', 'assertions': []}
+- {'text': '150 mg/dL', 'type': 'KẾT_QUẢ_XÉT_NGHIỆM', 'assertions': []}
+- {'text': 'buồn nôn', 'type': 'TRIỆU_CHỨNG', 'assertions': ['isNegated']}
+- {'text': 'đau đầu', 'type': 'TRIỆU_CHỨNG', 'assertions': []}

@@ -1,0 +1,42 @@
+Bệnh nhân nữ, 25 tuổi, đến khám vì tình trạng tiêu chảy nhiễm trùng đang diễn biến phức tạp. Bệnh nhân đã được điều trị bằng thuốc ORS trong thời gian dài nhưng triệu chứng vẫn chưa thuyên giảm. Bệnh nhân có tiền sử điều trị bệnh tiêu chảy nhiễm trùng trước đây và đã từng sử dụng thuốc ORS.
+
+Kết quả xét nghiệm gần đây cho thấy bệnh nhân có mức độ nghiêm trọng của bệnh cao. Bệnh nhân đã được chẩn đoán mắc bệnh tiêu chảy nhiễm trùng (ICD-10: A09) và được chỉ định sử dụng thuốc ORS để điều trị.
+
+Bệnh nhân đã sử dụng thuốc ORS trong 5 ngày trước khi đến khám nhưng triệu chứng vẫn còn tồn tại. Bệnh nhân đã sử dụng thuốc để điều trị triệu chứng như tiêu chảy, phân lỏng và mất nước. Bệnh nhân cũng đã được chẩn đoán mắc bệnh tiêu chảy cấp và được chỉ định sử dụng thuốc ORS để điều trị.
+
+Bệnh nhân đã được khám chi tiết các cơ quan như ruột non, ruột già và lá lách. Kết quả khám cho thấy bệnh nhân có các triệu chứng như tiêu chảy, phân lỏng và mất nước. Bệnh nhân cũng đã được xét nghiệm để xác định mức độ nghiêm trọng của bệnh.
+
+Kết quả xét nghiệm cho thấy bệnh nhân có mức độ nghiêm trọng của bệnh cao. Bệnh nhân đã được chỉ định sử dụng thuốc ORS để điều trị và được khuyến cáo nên sử dụng thuốc trong thời gian dài để điều trị triệu chứng.
+
+Bệnh nhân đã được tư vấn về cách sử dụng thuốc ORS và cách tầm soát sớm để tránh tái phát. Bệnh nhân cũng đã được tư vấn về cách điều trị triệu chứng như tiêu chảy, phân lỏng và mất nước.
+
+Bệnh nhân đã được khám và chẩn đoán mắc bệnh tiêu chảy nhiễm trùng (ICD-10: A09). Bệnh nhân đã được chỉ định sử dụng thuốc ORS để điều trị và được khuyến cáo nên sử dụng thuốc trong thời gian dài để điều trị triệu chứng.
+
+Bệnh nhân đã được tư vấn về cách sử dụng thuốc ORS và cách tầm soát sớm để tránh tái phát. Bệnh nhân cũng đã được tư vấn về cách điều trị triệu chứng như tiêu chảy, phân lỏng và mất nước.
+
+Bệnh nhân đã được khám và chẩn đoán mắc bệnh tiêu chảy cấp. Bệnh nhân đã được chỉ định sử dụng thuốc ORS để điều trị và được khuyến cáo nên sử dụng thuốc trong thời gian dài để điều trị triệu chứng.
+
+Bệnh nhân đã được tư vấn về cách sử dụng thuốc ORS và cách tầm soát sớm để tránh tái phát. Bệnh nhân cũng đã được tư vấn về cách điều trị triệu chứng như tiêu chảy, phân lỏng và mất nước.
+
+Bằng chứng chẩn đoán:
+
+* Tiền sử điều trị bệnh tiêu chảy nhiễm trùng trước đây
+* Sử dụng thuốc ORS trong thời gian dài
+* Kết quả xét nghiệm cho thấy bệnh nhân có mức độ nghiêm trọng của bệnh cao
+* Bệnh nhân đã được chẩn đoán mắc bệnh tiêu chảy nhiễm trùng (ICD-10: A09)
+* Bệnh nhân đã được chỉ định sử dụng thuốc ORS để điều trị
+* Bệnh nhân đã được khám và chẩn đoán mắc bệnh tiêu chảy cấp
+
+Thực thể được trích xuất:
+
+* 'Tiêu chảy nhiễm trùng' (CHẨN_ĐOÁN, assertions=['isHistorical'])
+* 'ORS' (THUỐC, assertions=['isHistorical'])
+* 'phân lỏng' (KẾT_QUẢ_XÉT_NGHIỆM, assertions=['isNegated'])
+* 'mất nước' (KẾT_QUẢ_XÉT_NGHIỆM, assertions=['isNegated'])
+* 'bù dịch' (KẾT_QUẢ_XÉT_NGHIỆM, assertions=['isNegated'])
+* 'tiêu chảy cấp' (CHẨN_ĐOÁN, assertions=['isHistorical'])
+* 'phân lỏng' (KẾT_QUẢ_XÉT_NGHIỆM, assertions=['isNegated'])
+* 'tiêu chảy nhiễm trùng' (CHẨN_ĐOÁN, assertions=['isHistorical'])
+* 'ORS' (THUỐC, assertions=['isHistorical'])
+* 'mất nước' (KẾT_QUẢ_XÉT_NGHIỆM, assertions=['isNegated'])
+* 'bù dịch' (KẾT_QUẢ_XÉT_NGHIỆM, assertions=['isNegated'])

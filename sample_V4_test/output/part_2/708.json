@@ -1,0 +1,44 @@
+[
+  {
+    "text": "ho và sốt 2 ngày",
+    "position": [35, 51],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "EKG",
+    "position": [575, 578],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "X-quang phổi",
+    "position": [595, 607],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [660, 674],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["Z04.0"]
+  },
+  {
+    "text": "Siêu âm phổi",
+    "position": [780, 792],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "Ampicillin",
+    "position": [1820, 1830],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["733"]
+  }
+]

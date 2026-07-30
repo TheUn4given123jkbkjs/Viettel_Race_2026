@@ -1,0 +1,52 @@
+[
+  {
+    "text": "lao phổi",
+    "position": [48, 56],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
+  },
+  {
+    "text": "Isoniazid",
+    "position": [640, 649],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
+  },
+  {
+    "text": "Rifampicin",
+    "position": [651, 661],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Pyrazinamide",
+    "position": [663, 675],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["214662", "8987"]
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [286, 303],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử tăng huyết áp",
+    "position": [546, 567],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

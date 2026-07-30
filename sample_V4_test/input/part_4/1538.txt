@@ -1,0 +1,75 @@
+Bệnh án lâm sàng bán cấu trúc (Case Report) chi tiết
+
+Tiền sử bệnh
+Bệnh nhân, nam, 45 tuổi, cư trú tại Hà Nội, đã đến khám bệnh tại Bệnh viện B, ngày 10 tháng 3 năm 2023. Bệnh nhân đã trình bày rằng anh ta đã có tiền sử bệnh đường huyết từ trước đó 2 năm, nhưng chưa từng được chẩn đoán chính thức. Anh ta cũng đã có tiền sử gia đình về bệnh đái tháo đường type 2, bố anh ta đã qua đời do bệnh này.
+
+Bệnh sử
+Bệnh nhân đã đến bệnh viện vào ngày 10 tháng 3 năm 2023, vào lúc 9 giờ sáng. Khi được bác sĩ hỏi về triệu chứng, bệnh nhân đã trình bày rằng anh ta đã có các triệu chứng như khát nước, tiểu nhiều, mệt mỏi và tăng cân trong 2 tháng qua. Bác sĩ đã tiến hành khám tổng quát và khám chi tiết từng cơ quan.
+
+Khám lúc vào viện
+Bác sĩ đã tiến hành khám tổng quát và khám chi tiết từng cơ quan của bệnh nhân. Bác sĩ đã phát hiện ra rằng bệnh nhân có một số kết quả xét nghiệm bất thường, bao gồm:
+
+- Công thức máu: Hb 120 g/L, Hct 35%
+- Sinh hóa: Glucose 180 mg/dL, Triglyceride 250 mg/dL
+- X-quang: Không có thay đổi bất thường
+- Siêu âm: Không có thay đổi bất thường
+- ECG: Không có thay đổi bất thường
+
+Sơ khám & chỉ định cận lâm sàng
+Bác sĩ đã tiến hành sơ khám và chỉ định các xét nghiệm cận lâm sàng để xác định nguyên nhân của các triệu chứng của bệnh nhân. Các xét nghiệm được chỉ định bao gồm:
+
+- Công thức máu
+- Sinh hóa
+- X-quang
+- Siêu âm
+- ECG
+
+Các xét nghiệm trên sẽ giúp bác sĩ xác định nguyên nhân của các triệu chứng của bệnh nhân và đưa ra chẩn đoán chính xác.
+
+Kết luận
+Bác sĩ đã đưa ra kết luận rằng bệnh nhân đang nghi ngờ mắc bệnh đái tháo đường type 2, nhưng chưa có chẩn đoán chính thức. Bác sĩ đã chỉ định các xét nghiệm cận lâm sàng để xác định nguyên nhân của các triệu chứng của bệnh nhân.
+
+Lời khuyên
+Bác sĩ đã khuyên bệnh nhân nên tuân thủ các chỉ dẫn về chế độ ăn uống và lối sống để tránh các biến chứng của bệnh đái tháo đường type 2.
+
+Chỉ định điều trị
+Bác sĩ đã chỉ định điều trị gồm:
+
+- Thuốc metformin 500 mg hai lần mỗi ngày
+- Thuốc sitagliptin 100 mg một lần mỗi ngày
+
+Bệnh nhân sẽ được theo dõi chặt chẽ để xác định hiệu quả của thuốc và tránh các biến chứng của bệnh đái tháo đường type 2.
+
+Entities:
+[
+  {
+    "text": "tiền sử bệnh đường huyết",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"]
+  },
+  {
+    "text": "đái tháo đường type 2",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"]
+  },
+  {
+    "text": "metformin",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "sitagliptin",
+    "type": "THUỐC",
+    "assertions": []
+  },
+  {
+    "text": "Glucose",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"]
+  },
+  {
+    "text": "180 mg/dL",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isHistorical"]
+  }
+]

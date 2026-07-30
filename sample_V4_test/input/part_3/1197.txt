@@ -1,0 +1,45 @@
+Bệnh nhân nam, 42 tuổi, đến khám tại bệnh viện vì cơn đau ngực dữ dội. Khi đến viện, bệnh nhân đã có biểu hiện bất thường từ 2 giờ trước đó. Chuyên gia y tế đã tiến hành khám và thu thập hồ sơ bệnh án.
+
+Bệnh nhân có tiền sử tăng huyết áp 5 năm và đã mổ ruột thừa cách đây 2 năm. Khi được hỏi về tiền sử bệnh lý, bệnh nhân cho biết không có bất kỳ vấn đề nào khác.
+
+Kết quả khám cơ bản cho thấy bệnh nhân có nhịp tim nhanh và huyết áp cao. Chuyên gia y tế đã tiến hành lấy mẫu máu để xét nghiệm.
+
+Kết quả xét nghiệm cho thấy troponin tăng cao, đạt 150 ng/mL, vượt quá mức bình thường. Điều này cho thấy có tình trạng nhồi máu cơ tim cấp.
+
+Bác sĩ sau khi xem xét kết quả xét nghiệm đã đưa ra chẩn đoán bệnh nhồi máu cơ tim cấp. Bệnh nhân được chỉ định phẫu thuật để điều trị.
+
+Các xét nghiệm cận lâm sàng bao gồm:
+
+- Xét nghiệm troponin: 150 ng/mL
+- Xét nghiệm ECG: có tiền chất của nhồi máu cơ tim
+
+Các xét nghiệm này cho thấy bệnh nhân có tình trạng nhồi máu cơ tim cấp. Bác sĩ sẽ tiếp tục theo dõi tình trạng của bệnh nhân và quyết định cách tiếp theo.
+
+Trong trường hợp này, bệnh nhân sẽ được chuyển đến khoa tim mạch để được phẫu thuật. Bác sĩ sẽ tiếp tục theo dõi tình trạng của bệnh nhân và xác định cách điều trị tốt nhất.
+
+Lưu ý: Bệnh nhân không được kê đơn thuốc trong trường hợp này vì đã được chỉ định phẫu thuật.
+
+Các kết quả xét nghiệm và chẩn đoán bệnh sẽ được ghi chú trong hồ sơ bệnh án của bệnh nhân.
+
+Bệnh lý mục tiêu: Nhồi máu cơ tim cấp (ICD-10: I21.9)
+
+Giải thích: Bệnh nhồi máu cơ tim cấp là tình trạng khi máu không đến được cơ tim, dẫn đến tổn thương cơ tim. Bệnh này thường gây đau ngực dữ dội và có thể dẫn đến tình trạng nguy hiểm nếu không được điều trị kịp thời.
+
+Các biện pháp điều trị bao gồm phẫu thuật và thay đổi lối sống. Bác sĩ sẽ quyết định cách điều trị tốt nhất cho bệnh nhân dựa trên tình trạng cụ thể của bệnh nhân.
+
+Bệnh nhân cần tuân thủ các hướng dẫn của bác sĩ và theo dõi tình trạng của mình để đảm bảo tốt nhất cho sức khỏe.
+
+Bác sĩ và bệnh nhân cần thảo luận về tình trạng cụ thể và quyết định cách điều trị tốt nhất cho bệnh nhân.
+
+Các xét nghiệm cận lâm sàng sẽ được thực hiện để xác định tình trạng của bệnh nhân. Các kết quả xét nghiệm sẽ được ghi chú trong hồ sơ bệnh án của bệnh nhân.
+
+Bệnh nhân cần được theo dõi và chăm sóc y tế để đảm bảo tốt nhất cho sức khỏe.
+
+Đầu ra cần phải có ít nhất 1 thực thể tiền sử bản thân và không có thực thể thuốc. Các thực thể cần phải có các tính chất sau:
+
+- CHẨN_ĐOÁN: 'Nhồi máu cơ tim cấp'
+- TRIỆU_CHỨNG: 'Troponin tăng cao'
+- TÊN_XÉT_NGHIỆM: 'Xét nghiệm troponin'
+- KẾT_QUẢ_XÉT_NGHIỆM: '150 ng/mL'
+
+Các thực thể này cần phải được trích xuất chính xác 100% từng ký tự xuất hiện trong văn bản y khoa.

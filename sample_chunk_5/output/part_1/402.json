@@ -1,0 +1,58 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [105, 112],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng cân",
+    "position": [182, 190],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [559, 586],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Suy giáp",
+    "position": [1285, 1293],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E03.9"]
+  },
+  {
+    "text": "Levothyroxine",
+    "position": [1568, 1581],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10582"]
+  },
+  {
+    "text": "TSH",
+    "position": [1180, 1183],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "FT4",
+    "position": [1244, 1247],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng cao",
+    "position": [1192, 1200],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

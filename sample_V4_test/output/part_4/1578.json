@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Rối loạn lo âu",
+    "position": [132, 146],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["F41.9"]
+  },
+  {
+    "text": "Sertraline",
+    "position": [194, 204],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

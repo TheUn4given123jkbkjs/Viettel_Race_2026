@@ -1,0 +1,69 @@
+[
+  {
+    "text": "ung thư vú",
+    "position": [47, 57],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D05",
+      "D05.1",
+      "D05.7"
+    ]
+  },
+  {
+    "text": "Tamoxifen",
+    "position": [378, 387],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["10324"]
+  },
+  {
+    "text": "Letrozole",
+    "position": [391, 400],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trastuzumab",
+    "position": [542, 553],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [157, 170],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "mammography",
+    "position": [874, 885],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "u cục vú",
+    "position": [261, 269],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tang huyet ap",
+    "position": [1223, 1236],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "u kuc vu",
+    "position": [1267, 1275],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

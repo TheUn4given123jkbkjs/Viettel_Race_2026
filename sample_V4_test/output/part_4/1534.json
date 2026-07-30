@@ -1,0 +1,51 @@
+[
+  {
+    "text": "viêm họng cấp",
+    "position": [225, 238],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm họng (ICD-10: J02.9)",
+    "position": [1602, 1627],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [1173, 1187],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "người bệnh có biểu hiện viêm họng cấp và có mức độ kháng thể cao",
+    "position": [1189, 1253],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau họng",
+    "position": [267, 275],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nuốt đau",
+    "position": [277, 285],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "amoxicillin",
+    "position": [361, 372],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  }
+]

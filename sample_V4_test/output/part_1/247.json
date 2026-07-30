@@ -1,0 +1,52 @@
+[
+  {
+    "text": "lao phổi",
+    "position": [75, 83],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "J65",
+      "Z11.1",
+      "A15.0"
+    ]
+  },
+  {
+    "text": "Isoniazid",
+    "position": [208, 217],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": [
+      "821005",
+      "814321",
+      "6038"
+    ]
+  },
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [342, 363],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [289, 302],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "BK đờm dương tính",
+    "position": [710, 727],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "HRZE",
+    "position": [778, 782],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

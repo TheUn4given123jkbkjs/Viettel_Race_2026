@@ -1,0 +1,71 @@
+Bệnh án số 001
+
+Bệnh nhân là bà A, tuổi 45, trú tại đường X, phường Y, quận Z.
+
+Tiền sử bệnh nội khoa:
+
+- Bố đẻ tiền sử đái tháo đường tuýp 2
+- Mẹ đẻ có tiền sử tăng huyết áp
+- Bà A có tiền sử hen suyễn, thường xuyên phải sử dụng thuốc ho từ khi còn nhỏ
+- Bà A có tiền sử bị rối loạn tiêu hóa, thường xuyên có các triệu chứng buồn nôn và nôn mửa
+
+Diễn biến bệnh lý:
+
+- Từ tháng 2/2022, bà A bắt đầu có các triệu chứng trầm cảm, bao gồm buồn bã kéo dài, mất ngủ, giảm hứng thú với các hoạt động hàng ngày
+- Bà A thường xuyên có cảm giác khó chịu, lo lắng, dễ bị kích động
+- Bà A đã đến khám tại bệnh viện nhiều lần, nhưng không được chẩn đoán và điều trị đúng nguyên nhân
+
+Đánh giá tại bệnh viện:
+
+- Khi đến khám tại bệnh viện, bà A được tiến hành các xét nghiệm cận lâm sàng, bao gồm xét nghiệm máu toàn phần, xét nghiệm chức năng gan và thận, xét nghiệm chức năng tiêu hóa
+- Kết quả xét nghiệm máu toàn phần: Hb: 120 g/L, Hct: 0.35 L/L, WBC: 15,000/μL, Platelet: 200,000/μL
+- Kết quả xét nghiệm chức năng gan và thận: ALT: 80 IU/L, AST: 100 IU/L, Creatinine: 1.5 mg/dL
+- Kết quả xét nghiệm chức năng tiêu hóa: pH dạ dày: 2.5, pH ruột non: 7.5
+
+Kết quả xét nghiệm khẳng định chẩn đoán trầm cảm:
+
+- Xét nghiệm máu toàn phần cho thấy bà A có mức Hb thấp, WBC tăng cao, Platelet giảm thấp
+- Xét nghiệm chức năng gan và thận cho thấy bà A có mức ALT và AST tăng cao, Creatinine tăng cao
+- Xét nghiệm chức năng tiêu hóa cho thấy bà A có pH dạ dày thấp, pH ruột non cao
+
+Theo các kết quả xét nghiệm cận lâm sàng, bà A được chẩn đoán mắc bệnh trầm cảm (ICD-10: F32.9)
+
+Bà A được chỉ định phẫu thuật để điều trị bệnh trầm cảm. Phương pháp phẫu thuật được chỉ định là phẫu thuật bằng tia laser.
+
+Sau khi phẫu thuật, bà A được theo dõi chặt chẽ để kiểm tra các triệu chứng trầm cảm và tiến triển của bệnh.
+
+Lưu ý: Trong quá trình điều trị, bà A cần được theo dõi chặt chẽ để tránh các tác dụng phụ của thuốc.
+
+Các xét nghiệm và phẫu thuật được chỉ định cho bà A:
+
+- Xét nghiệm máu toàn phần
+- Xét nghiệm chức năng gan và thận
+- Xét nghiệm chức năng tiêu hóa
+- Phẫu thuật bằng tia laser
+
+Kết quả xét nghiệm và phẫu thuật được chỉ định cho bà A:
+
+- Kết quả xét nghiệm máu toàn phần: Hb: 120 g/L, Hct: 0.35 L/L, WBC: 15,000/μL, Platelet: 200,000/μL
+- Kết quả xét nghiệm chức năng gan và thận: ALT: 80 IU/L, AST: 100 IU/L, Creatinine: 1.5 mg/dL
+- Kết quả xét nghiệm chức năng tiêu hóa: pH dạ dày: 2.5, pH ruột non: 7.5
+- Kết quả phẫu thuật bằng tia laser: bà A đã được phẫu thuật thành công.
+
+Chẩn đoán chính: Trầm cảm (ICD-10: F32.9)
+
+Thực thể trích xuất:
+
+- Trầm cảm (CHẨN_ĐOÁN)
+- Buồn bã kéo dài (TRIỆU_CHỨNG)
+- Mất ngủ (TRIỆU_CHỨNG)
+- SSRI (TRIỆU_CHỨNG)
+- Xét nghiệm máu toàn phần (TÊN_XÉT_NGHIỆM)
+- Xét nghiệm chức năng gan và thận (TÊN_XÉT_NGHIỆM)
+- Xét nghiệm chức năng tiêu hóa (TÊN_XÉT_NGHIỆM)
+- Phẫu thuật bằng tia laser (TRIỆU_CHỨNG)
+- Hb (KẾT_QUẢ_XÉT_NGHIỆM)
+- WBC (KẾT_QUẢ_XÉT_NGHIỆM)
+- Alt (KẾT_QUẢ_XÉT_NGHIỆM)
+- AST (KẾT_QUẢ_XÉT_NGHIỆM)
+- Creatinine (KẾT_QUẢ_XÉT_NGHIỆM)
+- pH dạ dày (KẾT_QUẢ_XÉT_NGHIỆM)
+- pH ruột non (KẾT_QUẢ_XÉT_NGHIỆM)

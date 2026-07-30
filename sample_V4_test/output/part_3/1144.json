@@ -1,0 +1,51 @@
+[
+  {
+    "text": "đau dưới đáy chừng",
+    "position": [308, 326],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "sỏi mật",
+    "position": [34, 41],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [553, 560],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng bilirubin",
+    "position": [619, 633],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng ALT",
+    "position": [637, 645],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc giảm đau",
+    "position": [171, 185],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc chống viêm không steroid",
+    "position": [882, 912],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

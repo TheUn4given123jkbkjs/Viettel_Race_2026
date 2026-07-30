@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Bệnh Gaucher",
+    "position": [0, 12],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E75.22"]
+  },
+  {
+    "text": "Imiglucerase",
+    "position": [1095, 1107],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucocerebrosidase",
+    "position": [2505, 2523],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gan to",
+    "position": [2544, 2550],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lách to",
+    "position": [2571, 2578],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thuốc glucocerebrosidase",
+    "position": [2599, 2623],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triệu chứng buồn nôn",
+    "position": [2644, 2664],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Triệu chứng sốt",
+    "position": [2685, 2700],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả xét nghiệm enzyme glucocerebrosidase thấp hơn mức bình thường",
+    "position": [1947, 2016],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bố đẻ có tiền sử đái tháo đường tuýp 2",
+    "position": [2818, 2856],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [2875, 2905],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

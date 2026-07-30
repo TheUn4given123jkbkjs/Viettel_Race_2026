@@ -1,0 +1,72 @@
+[
+  {
+    "text": "ợ nóng",
+    "position": [322, 328],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tức vùng thượng vị",
+    "position": [488, 510],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử viêm dạ dày mạn tính",
+    "position": [817, 845],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K29.3", "K29.4"]
+  },
+  {
+    "text": "nội soi dạ dày thực quản",
+    "position": [1072, 1096],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "test HP",
+    "position": [1195, 1202],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm đỏ niêm mạc thực quản đoạn xa",
+    "position": [1115, 1149],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trào ngược dạ dày thực quản",
+    "position": [1959, 1986],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K21.9"]
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [2918, 2930],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Domperidone",
+    "position": [3066, 3077],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Gaviscon",
+    "position": [3227, 3235],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [241, 254],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [241, 254],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "đau tức hạ sườn phải",
+    "position": [538, 558],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AFP",
+    "position": [1414, 1417],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "1245 ng/mL",
+    "position": [1464, 1474],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ung thư gan",
+    "position": [1767, 1778],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C22.0",
+      "C22.1",
+      "C22.3"
+    ]
+  },
+  {
+    "text": "Sorafenib",
+    "position": [2009, 2018],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

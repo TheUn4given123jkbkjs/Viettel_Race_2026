@@ -1,0 +1,58 @@
+[
+  {
+    "text": "đái tháo đường tuýp 2",
+    "position": [245, 266],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [285, 298],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "đau vùng thượng vị",
+    "position": [481, 499],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày",
+    "position": [1755, 1766],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [1859, 1871],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bismuth",
+    "position": [1916, 1923],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1599"]
+  },
+  {
+    "text": "Test urease nhanh",
+    "position": [1341, 1358],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dương tính",
+    "position": [1371, 1381],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "text": "Loét dạ dày",
+    "position": [164, 175],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K28.5",
+      "K28.6",
+      "K28.7"
+    ]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [483, 493],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [1021, 1033],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [746, 758],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Clarithromycin",
+    "position": [780, 794],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["21212"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [1055, 1066],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "Metronidazole",
+    "position": [515, 528],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6922"]
+  },
+  {
+    "text": "Hemoglobin 12,5 g/dL",
+    "position": [289, 309],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MCV 90,5 fL",
+    "position": [311, 322],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MCH 30,5 pg",
+    "position": [324, 335],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Platelet 235 x 10^9/L",
+    "position": [337, 358],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

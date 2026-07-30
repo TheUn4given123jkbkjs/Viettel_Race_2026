@@ -1,0 +1,56 @@
+[
+  {
+    "text": "Bệnh tim thiếu máu cục bộ mạn tính",
+    "position": [134, 168],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Aspirin",
+    "position": [212, 219],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "Đau thắt ngực",
+    "position": [280, 293],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I20",
+      "I20.0",
+      "I20.1"
+    ]
+  },
+  {
+    "text": "Bệnh mạch vành",
+    "position": [329, 343],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I25.1"]
+  },
+  {
+    "text": "Tim mạch",
+    "position": [406, 414],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I24.0",
+      "I25.0",
+      "I25.1"
+    ]
+  },
+  {
+    "text": "Đau thắt ngực",
+    "position": [280, 293],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I20",
+      "I20.0",
+      "I20.1"
+    ]
+  }
+]

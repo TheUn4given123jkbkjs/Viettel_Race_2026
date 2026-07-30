@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Viêm gan B mạn",
+    "position": [0, 14],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["B18.0", "B18.1"]
+  },
+  {
+    "text": "Tenofovir",
+    "position": [1433, 1442],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2003201",
+      "2003222",
+      "117466"
+    ]
+  },
+  {
+    "text": "Entecavir",
+    "position": [1444, 1453],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Peginterferon alfa-2a",
+    "position": [1455, 1476],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "position": [971, 985],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm DNA virus viêm gan B",
+    "position": [1074, 1105],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mệt mỏi hoặc đau nhức cơ thể",
+    "position": [1710, 1738],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sưng hoặc chảy máu",
+    "position": [1742, 1760],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm máu cho thấy virus viêm gan B còn hiện diện trong cơ thể",
+    "position": [971, 1038],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm DNA virus viêm gan B cho thấy virus còn hiện diện trong cơ thể",
+    "position": [1835, 1908],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

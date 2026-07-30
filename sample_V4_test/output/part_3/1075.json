@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "position": [2098, 2111],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Telmisartan",
+    "position": [1110, 1121],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hydrochlorothiazide",
+    "position": [1125, 1144],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5487"]
+  },
+  {
+    "text": "Amlodipine",
+    "position": [326, 336],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Losartan",
+    "position": [340, 348],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Perindopril",
+    "position": [2183, 2194],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nifedipine",
+    "position": [2233, 2243],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7417"]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [459, 467],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [448, 455],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "position": [432, 446],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

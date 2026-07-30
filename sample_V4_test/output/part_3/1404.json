@@ -1,0 +1,23 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [59, 67],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "Warfarin",
+    "position": [977, 985],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["11289"]
+  },
+  {
+    "text": "Rivaroxaban",
+    "position": [1053, 1064],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

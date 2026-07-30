@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Paracetamol",
+    "position": [194, 205],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận buồn nôn",
+    "position": [424, 441],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [381, 411],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "tiêm hyaluronic",
+    "position": [580, 595],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

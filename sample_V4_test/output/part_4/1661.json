@@ -1,0 +1,86 @@
+[
+  {
+    "text": "thoái hóa khớp gối",
+    "position": [451, 469],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["M17.9"]
+  },
+  {
+    "text": "đau nhức vùng khớp gối",
+    "position": [1105, 1127],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau tăng lên khi đi lại",
+    "position": [1129, 1152],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [1465, 1492],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "tiền sử đái tháo đường tuyp 2",
+    "position": [1586, 1615],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["E11.9"]
+  },
+  {
+    "text": "chụp X-quang",
+    "position": [1718, 1730],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hẹp khe khớp, đặc xương dưới sụn và sự xuất hiện của các gai xương",
+    "position": [1764, 1830],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Paracetamol",
+    "position": [2301, 2312],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Meloxicam",
+    "position": [2372, 2381],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["41493"]
+  },
+  {
+    "text": "Celecoxib",
+    "position": [2387, 2396],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucosamine",
+    "position": [2546, 2557],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hyaluronic acid",
+    "position": [2685, 2700],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

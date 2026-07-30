@@ -1,0 +1,37 @@
+[
+  {
+    "text": "đột quỵ não",
+    "position": [65, 76],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["I64"]
+  },
+  {
+    "text": "aspirin",
+    "position": [407, 414],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1191"]
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "position": [257, 271],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mức creatinine cao hơn bình thường",
+    "position": [352, 386],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "liệt nửa người",
+    "position": [239, 253],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

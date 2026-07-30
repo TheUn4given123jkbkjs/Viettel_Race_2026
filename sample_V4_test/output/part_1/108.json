@@ -1,0 +1,30 @@
+[
+  {
+    "text": "động kinh",
+    "position": [173, 182],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G40.9"]
+  },
+  {
+    "text": "Valproate",
+    "position": [622, 631],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Carbamazepine",
+    "position": [663, 676],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2002"]
+  },
+  {
+    "text": "điện não đồ (EEG)",
+    "position": [509, 526],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

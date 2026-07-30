@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Nhiễm trùng tiết niệu",
+    "position": [614, 635],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["T83.5"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [709, 722],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "tiểu buốt",
+    "position": [91, 100],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [161, 174],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily", "isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường",
+    "position": [250, 264],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "viêm bàng quang",
+    "position": [1300, 1315],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

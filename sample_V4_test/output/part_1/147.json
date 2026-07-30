@@ -1,0 +1,44 @@
+[
+  {
+    "text": "xơ gan",
+    "position": [49, 55],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["K74.6"]
+  },
+  {
+    "text": "Spironolactone",
+    "position": [146, 160],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["9997"]
+  },
+  {
+    "text": "cổ trướng",
+    "position": [193, 202],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giãn tĩnh mạch thực quản",
+    "position": [654, 678],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm",
+    "position": [828, 835],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi",
+    "position": [839, 846],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

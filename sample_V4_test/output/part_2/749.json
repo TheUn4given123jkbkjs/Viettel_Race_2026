@@ -1,0 +1,65 @@
+[
+  {
+    "text": "bệnh gút",
+    "position": [43, 51],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M10.9"]
+  },
+  {
+    "text": "colchicine",
+    "position": [96, 106],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2683"]
+  },
+  {
+    "text": "sưng nóng đỏ đau khớp bàn chân",
+    "position": [142, 172],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "acid uric",
+    "position": [234, 243],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8,5 mg/dL",
+    "position": [302, 311],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "allopurinol",
+    "position": [392, 403],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["519"]
+  },
+  {
+    "text": "indomethacin",
+    "position": [429, 441],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tôm",
+    "position": [646, 649],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cua",
+    "position": [651, 654],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

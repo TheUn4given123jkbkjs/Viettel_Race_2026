@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Viêm dạ dày mạn tính",
+    "position": [1858, 1878],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["K29.3", "K29.4"]
+  },
+  {
+    "text": "Nhiễm HP",
+    "position": [2113, 2121],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày",
+    "position": [0, 11],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày mạn tính",
+    "position": [1858, 1878],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày mạn tính",
+    "position": [1858, 1878],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày mạn tính",
+    "position": [1858, 1878],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày mạn tính",
+    "position": [1858, 1878],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm dạ dày mạn tính",
+    "position": [1858, 1878],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

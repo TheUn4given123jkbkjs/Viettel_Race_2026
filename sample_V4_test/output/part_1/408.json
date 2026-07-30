@@ -1,0 +1,69 @@
+[
+  {
+    "text": "tiền sử tăng huyết áp 5 năm",
+    "position": [99, 126],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "viêm gan B mạn tính",
+    "position": [167, 186],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "đau tức vùng hạ sườn phải",
+    "position": [378, 403],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "AFP (Alpha-Fetoprotein)",
+    "position": [1386, 1409],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "12450 ng/mL",
+    "position": [1436, 1447],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ung thư gan",
+    "position": [2028, 2039],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C22.0",
+      "C22.1",
+      "C22.3"
+    ]
+  },
+  {
+    "text": "Lenvatinib",
+    "position": [2195, 2205],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sorafenib",
+    "position": [2241, 2250],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Doxorubicin",
+    "position": [2307, 2318],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["3639"]
+  }
+]

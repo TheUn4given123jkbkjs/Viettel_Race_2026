@@ -1,0 +1,82 @@
+Bệnh nhân nữ, 35 tuổi, đến viện gặp các triệu chứng đau hố chậu phải, đau bụng trên, buồn nôn, và sốt. 
+
+Tiền sử bệnh nội khoa: bệnh nhân có tiền sử tăng huyết áp 5 năm, đã được điều trị bằng thuốc chẹn canxi và dihydropyridine. 
+
+Tiền sử bệnh hiện tại: bệnh nhân đã từng bị viêm ruột thừa cách đây 2 năm, đã được phẫu thuật tại bệnh viện khác. 
+
+Khám lúc vào viện: bệnh nhân có thân nhiệt 38,5 độ C, huyết áp 140/90 mmHg, nhịp tim 100 lần/phút. 
+
+Sơ khám: bệnh nhân có biểu hiện đau hố chậu phải, đau bụng trên, buồn nôn. 
+
+Chỉ định cận lâm sàng: bác sĩ chỉ định các xét nghiệm cận lâm sàng gồm công thức máu, sinh hóa, X-quang, siêu âm, ECG. 
+
+Công thức máu: 
+
+| Chỉ số | Kết quả | 
+| --- | --- | 
+| Hb | 12,5 g/dL | 
+| WBC | 15.000 cell/μL | 
+| Platelet | 250.000 cell/μL | 
+
+Sinh hóa: 
+
+| Chỉ số | Kết quả | 
+| --- | --- | 
+| Creatinine | 1,2 mg/dL | 
+| Glucose | 150 mg/dL | 
+
+X-quang: 
+
+| Chỉ số | Kết quả | 
+| --- | --- | 
+| X-quang bụng | Không có dấu hiệu viêm ruột thừa | 
+
+Siêu âm: 
+
+| Chỉ số | Kết quả | 
+| --- | --- | 
+| Siêu âm bụng | Không có dấu hiệu viêm ruột thừa | 
+
+ECG: 
+
+| Chỉ số | Kết quả | 
+| --- | --- | 
+| ECG | Không có dấu hiệu điện tâm đồ bất thường | 
+
+Bác sĩ đã xem xét các kết quả xét nghiệm và xác định rằng bệnh nhân có biểu hiện viêm ruột thừa cấp, cần được điều trị gấp. 
+
+Bệnh lý mục tiêu: viêm ruột thừa cấp (ICD-10: K37). 
+
+Gợi ý lâm sàng: viêm ruột thừa cấp, đau hố chậu phải, phẫu thuật. 
+
+Bệnh nhân đã được chuyển đến phòng mổ để tiến hành phẫu thuật, 
+
+Thực thể 1: 
+  "text": "viêm ruột thừa cấp", 
+  "type": "TRIỆU_CHỨNG", 
+  "assertions": ["isNegated"] 
+
+Thực thể 2: 
+  "text": "tăng huyết áp", 
+  "type": "TRIỆU_CHỨNG", 
+  "assertions": ["isHistorical"] 
+
+Thực thể 3: 
+  "text": "viêm ruột thừa", 
+  "type": "TÊN_XÉT_NGHIỆM", 
+  "assertions": ["isFamily"] 
+
+Thực thể 4: 
+  "text": "ECG", 
+  "type": "TÊN_XÉT_NGHIỆM", 
+  "assertions": [] 
+
+Thực thể 5: 
+  "text": "siêu âm bụng", 
+  "type": "TÊN_XÉT_NGHIỆM", 
+  "assertions": [] 
+
+Thực thể 6: 
+  "text": "X-quang bụng", 
+  "type": "TÊN_XÉT_NGHIỆM", 
+  "assertions": []

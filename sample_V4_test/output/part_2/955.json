@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Thoái hóa cột sống",
+    "position": [1453, 1471],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M47.9"]
+  },
+  {
+    "text": "Paracetamol",
+    "position": [226, 237],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "text": "Viêm họng",
+    "position": [123, 132],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J02.9"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [174, 185],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "mẹ đẻ có tiền sử tăng huyết áp",
+    "position": [369, 399],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "dấu hiệu đau họng và nuốt đau",
+    "position": [520, 549],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

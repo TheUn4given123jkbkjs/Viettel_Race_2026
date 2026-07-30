@@ -1,0 +1,51 @@
+[
+  {
+    "text": "Viêm gan C mạn",
+    "position": [515, 529],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["B18.2"]
+  },
+  {
+    "text": "Sofosbuvir",
+    "position": [585, 595],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Daclatasvir",
+    "position": [599, 610],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ribavirin",
+    "position": [680, 689],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9344"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [236, 249],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "HCV RNA",
+    "position": [345, 352],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ALT và AST tăng cao",
+    "position": [324, 343],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,48 @@
+Bệnh nhân nam, 45 tuổi, đến bệnh viện với triệu chứng đau quặn thận. Khi được hỏi về tiền sử bệnh lý, bệnh nhân cho biết anh ta có tiền sử tăng huyết áp và đái tháo đường. Bố đẻ của bệnh nhân cũng có tiền sử tăng huyết áp và mẹ đẻ có tiền sử đái tháo đường.
+
+Kết quả siêu âm cho thấy có sỏi thận kích thước nhỏ trên cả hai thận. Bệnh nhân được chẩn đoán có chấn thương thận nhẹ.
+
+Về tiền sử gia đình, bệnh nhân cho biết bố đẻ của anh ta có tiền sử tăng huyết áp và mẹ đẻ có tiền sử đái tháo đường. Anh ta cũng có tiền sử tăng huyết áp và đái tháo đường.
+
+Bệnh nhân được chỉ định uống uống thuốc Tamsulosin 0,4mg mỗi ngày, cùng với thuốc Ketorolac 25mg mỗi 6 giờ và Paracetamol 500mg mỗi 6 giờ. Bệnh nhân cũng được chỉ định uống nước nhiều hơn để giúp giảm nguy cơ sỏi thận.
+
+Sau 3 ngày điều trị, bệnh nhân bắt đầu thấy giảm triệu chứng đau quặn thận. Bệnh nhân được cho biết rằng cần tiếp tục uống thuốc và uống nước nhiều hơn để giúp giảm nguy cơ sỏi thận.
+
+Bệnh nhân được yêu cầu đến bệnh viện kiểm tra lại sau 1 tháng để đánh giá kết quả điều trị.
+
+Bằng chứng xét nghiệm cận lâm sàng:
+
+- Siêu âm thận: có sỏi thận kích thước nhỏ trên cả hai thận
+- Xét nghiệm máu: bình thường
+- Xét nghiệm nước tiểu: có protein và máu trong nước tiểu
+
+Bằng chứng lâm sàng:
+
+- Đau quặn thận
+- Tăng huyết áp
+- Đái tháo đường
+- Tiền sử gia đình tăng huyết áp và đái tháo đường
+
+Bằng chứng chẩn đoán:
+
+- Chấn thương thận nhẹ
+- Sỏi thận kích thước nhỏ trên cả hai thận
+
+Thuốc được chỉ định:
+
+- Tamsulosin 0,4mg mỗi ngày
+- Ketorolac 25mg mỗi 6 giờ
+- Paracetamol 500mg mỗi 6 giờ
+
+Trích xuất các thực thể y khoa:
+
+- Sỏi thận (CHẨN_ĐOÁN)
+- Đau quặn thận (TRIỆU_CHỨNG)
+- Siêu âm (TÊN_XÉT_NGHIỆM)
+- Tamsulosin (THUỐC, isNegated: không có tác dụng phụ)
+- Ketorolac (THUỐC, isNegated: không có tác dụng phụ)
+- Paracetamol (THUỐC, isNegated: không có tác dụng phụ)
+- Tăng huyết áp (TRIỆU_CHỨNG)
+- Đái tháo đường (TRIỆU_CHỨNG)
+- Tiền sử gia đình tăng huyết áp và đái tháo đường (isFamily)
+- Chấn thương thận nhẹ (CHẨN_ĐOÁN)

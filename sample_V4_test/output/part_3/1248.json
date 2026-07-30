@@ -1,0 +1,44 @@
+[
+  {
+    "text": "bệnh gout",
+    "position": [164, 173],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nóng đỏ đau khớp bàn chân",
+    "position": [58, 88],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Colchicine",
+    "position": [1234, 1244],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2683"]
+  },
+  {
+    "text": "Allopurinol",
+    "position": [1282, 1293],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["519"]
+  },
+  {
+    "text": "acid uric",
+    "position": [951, 960],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "10,5 mg/dL",
+    "position": [989, 999],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

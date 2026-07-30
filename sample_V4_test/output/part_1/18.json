@@ -1,0 +1,65 @@
+[
+  {
+    "text": "Cường giáp",
+    "position": [2695, 2705],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["E05.9"]
+  },
+  {
+    "text": "run tay",
+    "position": [267, 274],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Methimazole",
+    "position": [2837, 2848],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Propranolol",
+    "position": [2872, 2883],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8787"]
+  },
+  {
+    "text": "Lugol",
+    "position": [2929, 2934],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không đau đầu",
+    "position": [830, 843],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "TSH",
+    "position": [2224, 2227],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "FT4",
+    "position": [2265, 2268],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "<0.01 mIU/L",
+    "position": [2229, 2240],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

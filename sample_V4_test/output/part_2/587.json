@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Telmisartan",
+    "position": [190, 201],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Amlodipine",
+    "position": [905, 915],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["17767"]
+  },
+  {
+    "text": "Losartan",
+    "position": [917, 925],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Perindopril",
+    "position": [927, 938],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hydrochlorothiazide",
+    "position": [943, 962],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["5487"]
+  }
+]

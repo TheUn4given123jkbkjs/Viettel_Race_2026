@@ -1,0 +1,44 @@
+[
+  {
+    "text": "Bệnh nước tiểu mùi sirô phong (MSUD)",
+    "position": [1686, 1722],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bú kém",
+    "position": [112, 118],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da sơ sinh kéo dài",
+    "position": [504, 527],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "bố đẻ tiền sử đái tháo đường tuýp 2",
+    "position": [370, 405],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isFamily"],
+    "candidates": []
+  },
+  {
+    "text": "phân tích acid amin trong huyết tương",
+    "position": [1250, 1287],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ Leucine trong máu đạt mức 1200 µmol/L",
+    "position": [1411, 1456],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

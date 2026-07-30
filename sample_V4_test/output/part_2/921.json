@@ -1,0 +1,30 @@
+[
+  {
+    "text": "động kinh",
+    "position": [164, 173],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["G40.9"]
+  },
+  {
+    "text": "co giật",
+    "position": [62, 69],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [397, 406],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "Valproate",
+    "position": [692, 701],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

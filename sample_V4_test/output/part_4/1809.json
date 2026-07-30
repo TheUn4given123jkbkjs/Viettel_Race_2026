@@ -1,0 +1,79 @@
+[
+  {
+    "text": "Viêm dạ dày",
+    "position": [0, 11],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["K29.7"]
+  },
+  {
+    "text": "Omeprazole",
+    "position": [498, 508],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "Pantoprazole",
+    "position": [510, 522],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["40790"]
+  },
+  {
+    "text": "Esomeprazole",
+    "position": [524, 536],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Aluminum Hydroxide",
+    "position": [540, 558],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1009149"]
+  },
+  {
+    "text": "Rebamipide",
+    "position": [638, 648],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bismuth",
+    "position": [652, 659],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1599"]
+  },
+  {
+    "text": "H. pylori",
+    "position": [131, 140],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isFamily"],
+    "candidates": ["B98.0"]
+  },
+  {
+    "text": "Xét nghiệm H. pylori",
+    "position": [2750, 2770],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm axit dạ dày",
+    "position": [2786, 2808],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xét nghiệm chức năng dạ dày",
+    "position": [2830, 2857],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

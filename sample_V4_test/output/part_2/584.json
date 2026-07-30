@@ -1,0 +1,44 @@
+[
+  {
+    "text": "butyrylcholinesterase (BChE)",
+    "position": [318, 346],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "furosemide",
+    "position": [835, 845],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "phenobarbital",
+    "position": [873, 886],
+    "type": "THUỐC",
+    "assertions": ["isNegated"],
+    "candidates": ["8134"]
+  },
+  {
+    "text": "gamma-glutamyltransferase (GGT)",
+    "position": [348, 379],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "bilirubin (Bilirubin)",
+    "position": [410, 431],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "giãn tĩnh mạch thực quản",
+    "position": [563, 587],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "text": "tiểu buốt",
+    "position": [99, 108],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu rắt",
+    "position": [110, 118],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm bàng quang",
+    "position": [146, 161],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng tiết niệu",
+    "position": [53, 74],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["T83.5"]
+  },
+  {
+    "text": "Ciprofloxacin",
+    "position": [1105, 1118],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["2551"]
+  },
+  {
+    "text": "Nitrofurantoin",
+    "position": [1120, 1134],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7454"]
+  }
+]

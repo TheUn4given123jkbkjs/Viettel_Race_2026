@@ -1,0 +1,37 @@
+[
+  {
+    "text": "tăng khát",
+    "position": [632, 641],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Metformin",
+    "position": [1327, 1336],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["6809"]
+  },
+  {
+    "text": "HbA1c",
+    "position": [880, 885],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8,5%",
+    "position": [2277, 2281],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Dapagliflozin",
+    "position": [2056, 2069],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

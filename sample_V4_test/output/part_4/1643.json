@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Furosemide",
+    "position": [223, 233],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "cao huyết áp",
+    "position": [283, 295],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh mạch vành",
+    "position": [299, 313],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [64, 84],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [86, 98],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

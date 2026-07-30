@@ -1,0 +1,37 @@
+[
+  {
+    "text": "bệnh gút",
+    "position": [56, 64],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["M10.9"]
+  },
+  {
+    "text": "Colchicine",
+    "position": [336, 346],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["2683"]
+  },
+  {
+    "text": "sưng nóng đỏ đau khớp bàn chân",
+    "position": [206, 236],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Allopurinol",
+    "position": [1305, 1316],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": ["519"]
+  },
+  {
+    "text": "Prednisone",
+    "position": [1320, 1330],
+    "type": "THUỐC",
+    "assertions": ["isFamily"],
+    "candidates": []
+  }
+]

@@ -1,0 +1,50 @@
+Bệnh án lâm sàng số 123:
+
+Bệnh nhân là ông Nguyễn Văn A, nam giới, 62 tuổi, trú tại số 123 phố ABC, phường XYZ, quận DEF, thành phố GHI.
+
+Tiền sử bệnh hiện tại:
+- Bệnh nhân đã có tiền sử bệnh tim mạch từ 10 năm trước, đã được chẩn đoán và điều trị tại bệnh viện EFG.
+- Trong 3 tháng qua, bệnh nhân có triệu chứng đau thắt ngực nhẹ, thường xuyên xảy ra khi gắng sức hoặc căng thẳng.
+
+Điều trị tại bệnh viện:
+- Bệnh nhân được cấp cứu tại bệnh viện IJK vào ngày 10/02/2023 do triệu chứng đau thắt ngực nặng.
+- Tại bệnh viện, bệnh nhân được kiểm tra và chẩn đoán có bệnh tim thiếu máu cục bộ mạn tính (ICD-10: I25.9).
+- Bệnh nhân được chỉ định điều trị nội khoa bằng các thuốc sau:
+ + Aspirin 100mg 1 lần mỗi ngày.
+ + Clopidogrel 75mg 1 lần mỗi ngày.
+ + Atorvastatin 20mg 1 lần mỗi ngày.
+ + Bisoprolol 2.5mg 1 lần mỗi ngày.
+- Bệnh nhân cũng được chỉ định làm một số xét nghiệm cận lâm sàng, gồm:
+ + Electrocardiogram (ECG).
+ + Cán tim.
+ + Chụp X-quang tim.
+
+Kết quả xét nghiệm cận lâm sàng:
++ ECG: Có biểu hiện của bệnh tim thiếu máu cục bộ mạn tính.
++ Cán tim: Có các biến dạng tim.
++ Chụp X-quang tim: Có các biến dạng tim và các bất thường về cấu trúc tim.
+
+Chẩn đoán bệnh xác định là bệnh tim thiếu máu cục bộ mạn tính (ICD-10: I25.9).
+
+Đơn thuốc điều trị:
+Aspirin 100mg 1 lần mỗi ngày.
+Clopidogrel 75mg 1 lần mỗi ngày.
+Atorvastatin 20mg 1 lần mỗi ngày.
+Bisoprolol 2.5mg 1 lần mỗi ngày.
+
+Lưu ý:
+- Bệnh nhân cần tuân thủ chặt chẽ đơn thuốc và tham gia đầy đủ các xét nghiệm cận lâm sàng.
+- Bệnh nhân cần được theo dõi chặt chẽ về tình trạng tim mạch và các tác dụng phụ của thuốc.
+
+Bệnh lý mục tiêu:
+- Bệnh tim thiếu máu cục thể mạn tính.
+- Bệnh mạch vành.
+- Đau thắt ngực.
+
+Gợi ý lâm sàng:
+- Bệnh nhân cần được theo dõi chặt chẽ về tình trạng tim mạch.
+- Bệnh nhân cần được tham gia các xét nghiệm cận lâm sàng định kỳ.
+- Bệnh nhân cần được điều trị nội khoa bằng các thuốc phù hợp.
+
+Yêu cầu đầu ra bắt buộc:
+- Đầu ra phải là một đối tượng JSON chuẩn.

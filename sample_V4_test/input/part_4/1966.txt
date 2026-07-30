@@ -1,0 +1,77 @@
+Bệnh nhân nam, 45 tuổi, đã đến bệnh viện vào ngày 20/02/2023 với triệu chứng đau hạ sườn phải kéo dài trong 3 tháng qua. Trước đây, bệnh nhân đã có tiền sử mắc bệnh dạ dày, nhưng đã được điều trị và ổn định. 
+
+Bệnh nhân đã được khám tổng quát và xét nghiệm cận lâm sàng bao gồm siêu âm bụng, xét nghiệm máu và nước tiểu. Kết quả siêu âm bụng cho thấy có hiện tượng sỏi mật trong túi mật, kích thước 2,5 cm. Xét nghiệm máu và nước tiểu cho thấy không có bất thường.
+
+Bệnh nhân được bác sĩ tư vấn về chẩn đoán và điều trị. Bác sĩ cho biết chẩn đoán ban đầu của bệnh nhân là sỏi mật, và cần phải điều trị nội khoa để giải quyết tình trạng này. Bác sĩ đã kê đơn thuốc cho bệnh nhân bao gồm:
+
+- Ursodeoxycholic acid với liều lượng 300 mg 2 lần mỗi ngày trong 4 tuần để giúp tan sỏi mật
+- Paracetamol với liều lượng 500 mg 2 lần mỗi ngày để giảm đau hạ sườn
+- Hyoscine với liều lượng 0,2 mg 2 lần mỗi ngày để giúp tăng nhu động ruột và giảm đau
+- Ceftriaxone với liều lượng 2 g 1 lần mỗi ngày trong 5 ngày để phòng ngừa nhiễm trùng
+
+Bệnh nhân đã được bác sĩ hướng dẫn cách sử dụng thuốc và theo dõi tình trạng sức khỏe. Bệnh nhân được khuyến cáo phải uống thuốc đều đặn và theo đúng liều lượng để đạt được kết quả điều trị tốt nhất.
+
+Trong quá trình điều trị, bệnh nhân được khuyến cáo phải theo dõi tình trạng đau hạ sườn và báo cho bác sĩ biết nếu có bất kỳ thay đổi nào. Bệnh nhân cũng được khuyến cáo phải tránh ăn thực phẩm béo và giàu calo để giảm thiểu tình trạng đau hạ sườn.
+
+Bác sĩ đã khám bệnh và theo dõi tình trạng sức khỏe của bệnh nhân trong 4 tuần. Kết quả điều trị cho thấy tình trạng đau hạ sườn đã giảm nhiều. Siêu âm bụng được thực hiện lại sau 4 tuần cho thấy sỏi mật đã giảm kích thước xuống còn 1,2 cm. Xét nghiệm máu và nước tiểu vẫn bình thường.
+
+Bác sĩ cho biết kết quả điều trị đã đạt được như mong muốn, và bệnh nhân được khuyến cáo phải tiếp tục theo dõi tình trạng sức khỏe và báo cho bác sĩ biết nếu có bất kỳ thay đổi nào. Bác sĩ cũng cho biết bệnh nhân cần phải tiếp tục uống thuốc để duy trì tình trạng sức khỏe tốt.
+
+Bệnh nhân đã cảm ơn bác sĩ và sẽ tiếp tục theo dõi tình trạng sức khỏe. Bác sĩ đã xác nhận kết quả điều trị và cho biết bệnh nhân cần phải tiếp tục theo dõi tình trạng sức khỏe.
+
+Kết quả điều trị:
+
+- Ursodeoxycholic acid: đã giúp tan sỏi mật
+- Paracetamol: đã giảm đau hạ sườn
+- Hyoscine: đã giúp tăng nhu động ruột và giảm đau
+- Ceftriaxone: đã giúp phòng ngừa nhiễm trùng
+
+Triệu chứng:
+
+- Đau hạ sườn phải
+- Siêu âm bụng cho thấy có hiện tượng sỏi mật trong túi mật
+
+Thực thể:
+
+[
+  {
+    "text": "Sỏi mật",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isConfirmed"]
+  },
+  {
+    "text": "Ursodeoxycholic acid",
+    "type": "THUỐC",
+    "assertions": ["isPrescribed"]
+  },
+  {
+    "text": "Paracetamol",
+    "type": "THUỐC",
+    "assertions": ["isPrescribed"]
+  },
+  {
+    "text": "Hyoscine",
+    "type": "THUỐC",
+    "assertions": ["isPrescribed"]
+  },
+  {
+    "text": "Ceftriaxone",
+    "type": "THUỐC",
+    "assertions": ["isPrescribed"]
+  },
+  {
+    "text": "Đau hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isPresent"]
+  },
+  {
+    "text": "Siêu âm bụng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": ["isPerformed"]
+  },
+  {
+    "text": "Kết quả siêu âm bụng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": ["isNormal"]
+  }
+]

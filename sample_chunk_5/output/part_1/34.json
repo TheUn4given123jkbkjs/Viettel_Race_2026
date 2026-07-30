@@ -1,0 +1,65 @@
+[
+  {
+    "text": "tăng huyết áp 5 năm",
+    "position": [152, 171],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["I10"]
+  },
+  {
+    "text": "Suy tim",
+    "position": [2107, 2114],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["I50.9"]
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "position": [585, 605],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [761, 773],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phân suất tống máu (EF)",
+    "position": [1719, 1742],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "38%",
+    "position": [1754, 1757],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sacubitril/Valsartan",
+    "position": [2253, 2273],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Furosemide",
+    "position": [2364, 2374],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["4603"]
+  },
+  {
+    "text": "Spironolactone",
+    "position": [2448, 2462],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9997"]
+  }
+]

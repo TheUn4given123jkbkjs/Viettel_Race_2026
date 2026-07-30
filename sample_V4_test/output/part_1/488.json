@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Omeprazole",
+    "position": [536, 546],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7646"]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [146, 159],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "Aluminum Hydroxide",
+    "position": [670, 688],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["1009149"]
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [401, 415],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nồng độ axit dạ dày đã giảm",
+    "position": [990, 1017],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

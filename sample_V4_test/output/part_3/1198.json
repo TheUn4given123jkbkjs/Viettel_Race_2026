@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Cường giáp",
+    "position": [8, 18],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["E05.9"]
+  },
+  {
+    "text": "Methimazole",
+    "position": [803, 814],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": []
+  },
+  {
+    "text": "tăng nhịp tim",
+    "position": [496, 509],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "run tay",
+    "position": [511, 518],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "E05.9",
+    "position": [20, 25],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

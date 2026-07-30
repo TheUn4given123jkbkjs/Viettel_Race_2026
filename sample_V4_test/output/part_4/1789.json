@@ -1,0 +1,37 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [81, 89],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated", "isFamily"],
+    "candidates": ["I48"]
+  },
+  {
+    "text": "Chụp điện tim",
+    "position": [919, 932],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Chụp cộng hưởng từ (MRI)",
+    "position": [988, 1012],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "36,5 độ",
+    "position": [740, 747],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "120 lần/ phút",
+    "position": [789, 802],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

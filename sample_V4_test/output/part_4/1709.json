@@ -1,0 +1,41 @@
+[
+  {
+    "text": "SCID",
+    "position": [436, 440],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D81.0",
+      "D81.1",
+      "D81.2"
+    ]
+  },
+  {
+    "text": "Niacinamide",
+    "position": [996, 1007],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["7405"]
+  },
+  {
+    "text": "Piroxicam",
+    "position": [1043, 1052],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["8356"]
+  },
+  {
+    "text": "Quinine",
+    "position": [1114, 1121],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": ["9071"]
+  },
+  {
+    "text": "sốt cao",
+    "position": [62, 69],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

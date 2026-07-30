@@ -1,0 +1,40 @@
+Bệnh nhân nữ, 45 tuổi, đến khám tại phòng khám vì tình trạng khó thở về đêm và khò khè. Lịch sử bệnh lý:
+
+Tiền sử tăng huyết áp 5 năm, đã được điều trị bằng thuốc huyết áp và lối sống lành mạnh. Tiền sử phẫu thuật ruột thừa cách đây 2 năm.
+
+Kết quả xét nghiệm gần đây:
+
+- Điện tâm đồ: bình thường
+- Xét nghiệm huyết sắc tố: hồng cầu 4,32 M/μL, bạch cầu 8,15 G/L, tiểu cầu 230 G/L
+- Xét nghiệm chức năng thận: bình thường
+- Xét nghiệm chức năng gan: bình thường
+
+Kết quả thăm khám lâm sàng:
+
+- Mạch nhanh 100 lần/phút
+- Nhiệt độ cơ thể 37,5°C
+- Mờ da
+- Họng khô
+- Khó thở khi vận động
+
+Đọc hồ sơ bệnh án:
+
+- Đã từng bị suyễn khi còn nhỏ
+- Không có tiền sử dị ứng
+
+Chẩn đoán: Hen phế quản (ICD-10: J45.9)
+
+Kết luận: Bệnh nhân bị hen phế quản nặng, cần được điều trị bằng biện pháp phẫu thuật. Không kê đơn thuốc. Cần thay đổi lối sống để tránh tiếp xúc với các tác nhân gây dị ứng.
+
+Thực thể trích xuất:
+
+- Cúm phế quản (TRIỆU_CHỨNG)
+- Hen phế quản (CHẨN_ĐOÁN)
+- Xét nghiệm huyết sắc tố (TÊN_XÉT_NGHIỆM)
+- Kêt quả xét nghiệm chức năng thận (KẾT_QUẢ_XÉT_NGHIỆM)
+- Trước hôn mê (isNegated)
+- Tiền sử tăng huyết áp (isHistorical)
+- Mờ da (isFamily)
+- Khó thở khi vận động (isNegated)
+- Suyễn (isHistorical)
+- Dị ứng (isNegated)

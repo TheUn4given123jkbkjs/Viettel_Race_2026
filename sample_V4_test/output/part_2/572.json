@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Viêm phế quản cấp",
+    "position": [299, 316],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["J20.9"]
+  },
+  {
+    "text": "Amoxicillin",
+    "position": [409, 420],
+    "type": "THUỐC",
+    "assertions": ["isHistorical"],
+    "candidates": ["723", "19711"]
+  },
+  {
+    "text": "ho và đờm",
+    "position": [241, 250],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phế quản cấp",
+    "position": [299, 316],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": ["J20.9"]
+  },
+  {
+    "text": "kháng sinh",
+    "position": [790, 800],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

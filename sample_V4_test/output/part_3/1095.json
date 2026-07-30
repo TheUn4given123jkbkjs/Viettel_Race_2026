@@ -1,0 +1,16 @@
+[
+  {
+    "text": "Sỏi thận",
+    "position": [0, 8],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "candidates": ["N20.0"]
+  },
+  {
+    "text": "Đau quặn thận",
+    "position": [345, 358],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

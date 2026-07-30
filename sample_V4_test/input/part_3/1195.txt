@@ -1,0 +1,85 @@
+Bệnh lý rung nhĩ (ICD-10: I48) là tình trạng tim không nhịp đều như thường thấy. Đây là bệnh lý phức tạp và cần được chăm sóc y tế ngay lập tức.
+
+**Khái niệm và nguyên nhân gây bệnh**
+
+Rung nhĩ là tình trạng tim không nhịp đều, thường xảy ra khi tim không có đủ oxy để hoạt động. Nguyên nhân gây bệnh này còn chưa rõ ràng, nhưng có thể liên quan đến các yếu tố như tuổi tác, bệnh lý tiền sử, hoặc các vấn đề về tim mạch.
+
+Triệu chứng lâm sàng của rung nhĩ bao gồm:
+
+* Nhịp tim không đều
+* Ùn ứ mạch máu
+* Sảy huyết
+* Chảy máu mũi
+* Biếng ăn
+* Nôn mửa
+* Đau đầu
+* Suy nhược
+* Nhức đầu
+* Ít nước tiểu
+
+Xét nghiệm chẩn đoán rung nhĩ bao gồm:
+
+* Điện tim (ECG)
+* X-quang tim
+* Siêu âm tim
+* Công thức máu
+* Sinh hóa
+* Xét nghiệm tâm thu
+
+Hướng điều trị tây y cho rung nhĩ bao gồm:
+
+* Thuốc chống đông máu
+* Thuốc chống loạn nhịp
+* Thuốc tăng oxy
+* Thuốc giảm đau
+* Thuốc chống nôn
+
+**Sơ khám & chỉ định cận lâm sàng**
+
+Bác sĩ sẽ thực hiện các xét nghiệm cận lâm sàng sau:
+
+* Công thức máu
+* Siêu âm tim
+* X-quang tim
+* ECG
+* Sinh hóa
+
+**Trường hợp của bệnh nhân**
+
+Bệnh nhân đang nghi ngờ mắc bệnh rung nhĩ, nhưng chưa có chẩn đoán bệnh xác định. Bác sĩ chỉ định các xét nghiệm cận lâm sàng để đánh giá tình trạng bệnh lý của bệnh nhân.
+
+Dưới đây là kết quả xét nghiệm của bệnh nhân:
+
+* Công thức máu: bình thường
+* Sinh hóa: bình thường
+* Siêu âm tim: không có bất thường
+* X-quang tim: không có bất thường
+* ECG: có dấu hiệu rung nhĩ
+
+**Kết luận**
+
+Bệnh lý rung nhĩ là tình trạng tim không nhịp đều, cần được chăm sóc y tế ngay lập tức. Triệu chứng lâm sàng bao gồm nhịp tim không đều, ùn ứ mạch máu, sảy huyết, chảy máu mũi, biếng ăn, nôn mửa, đau đầu, suy nhược, nhức đầu, ít nước tiểu. Xét nghiệm chẩn đoán bao gồm điện tim, x-quang tim, siêu âm tim, công thức máu, sinh hóa. Hướng điều trị tây y bao gồm thuốc chống đông máu, thuốc chống loạn nhịp, thuốc tăng oxy, thuốc giảm đau, thuốc chống nôn.
+
+**Thực thể trích xuất**
+
+* **Triệu chứng lâm sàng**
+ + Nhịp tim không đều (type: TRIỆU_CHỨNG, assertions: [isNegated])
+ + Ùn ứ mạch máu (type: TRIỆU_CHỨNG)
+ + Sảy huyết (type: TRIỆU_CHỨNG)
+ + Chảy máu mũi (type: TRIỆU_CHỨNG)
+ + Biếng ăn (type: TRIỆU_CHỨNG)
+ + Nôn mửa (type: TRIỆU_CHỨNG)
+ + Đau đầu (type: TRIỆU_CHỨNG)
+ + Suy nhược (type: TRIỆU_CHỨNG)
+* **Xét nghiệm chẩn đoán**
+ + Điện tim (type: TÊN_XÉT_NGHIỆM)
+ + X-quang tim (type: TÊN_XÉT_NGHIỆM)
+ + Siêu âm tim (type: TÊN_XÉT_NGHIỆM)
+ + Công thức máu (type: TÊN_XÉT_NGHIỆM)
+ + Sinh hóa (type: TÊN_XÉT_NGHIỆM)
+* **Hướng điều trị tây y**
+ + Thuốc chống đông máu (type: THUỐC)
+ + Thuốc chống loạn nhịp (type: THUỐC)
+ + Thuốc tăng oxy (type: THUỐC)
+ + Thuốc giảm đau (type: THUỐC)
+ + Thuốc chống nôn (type: THUỐC)

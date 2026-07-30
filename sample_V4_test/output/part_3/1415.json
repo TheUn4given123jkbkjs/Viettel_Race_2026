@@ -1,0 +1,37 @@
+[
+  {
+    "text": "Béo phì",
+    "position": [21, 28],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": ["E66.9"]
+  },
+  {
+    "text": "Béo phì (E66.9)",
+    "position": [21, 36],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isNegated"],
+    "candidates": []
+  },
+  {
+    "text": "BMI > 30",
+    "position": [388, 396],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kết quả chụp CT scan",
+    "position": [366, 386],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mỡ dưới da tăng cao",
+    "position": [398, 417],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

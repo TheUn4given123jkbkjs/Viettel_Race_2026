@@ -397,16 +397,25 @@ GỢI Ý LÂM SÀNG: {disease_hint}
     return prompt
 
 def generate_call_gemini(api_key, prompt, model_name=None):
-    """Gọi API Google AI Studio (Gemini) với xoay vòng Model"""
+    """Gọi API Google AI Studio (Gemini/Gemma) với xoay vòng Model"""
     if not model_name:
         model_name = key_manager.get_next_gemini_model()
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={api_key}"
     headers = {"Content-Type": "application/json"}
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.8}
+        "generationConfig": {
+            "responseMimeType": "application/json",
+            "temperature": 0.7,
+            "maxOutputTokens": 4096
+        }
     }
-    res = requests.post(url, headers=headers, json=payload, timeout=60)
+    if "gemma" in model_name.lower():
+        payload["systemInstruction"] = {
+            "parts": [{"text": "You are a specialized medical JSON generator. You MUST output ONLY valid JSON. Absolutely NO reasoning text, NO bullet points, NO intro text, NO markdown codeblocks."}]
+        }
+    timeout_val = 90 if "gemma" in model_name.lower() else 60
+    res = requests.post(url, headers=headers, json=payload, timeout=timeout_val)
     return res, model_name
 
 def generate_call_groq(api_key, prompt, model_name=None):
@@ -595,6 +604,11 @@ def generate_with_smart_rotation(provider, prompt, target_model=None, max_attemp
                 
             if "<think>" in content_text:
                 content_text = re.sub(r'<think>.*?</think>', '', content_text, flags=re.DOTALL)
+
+            if "gemma" in used_model.lower():
+                lines = content_text.split('\n')
+                clean_lines = [l for l in lines if not l.strip().startswith('*')]
+                content_text = '\n'.join(clean_lines)
 
             match = re.search(r'\{.*\}', content_text, re.DOTALL)
             if match:

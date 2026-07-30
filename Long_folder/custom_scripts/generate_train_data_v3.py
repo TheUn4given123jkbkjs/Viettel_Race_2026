@@ -428,10 +428,6 @@ def generate_call_groq(api_key, prompt, model_name=None):
         ],
         "temperature": 0.8
     }
-    # Chỉ truyền response_format json_object cho dòng Llama (Qwen và Compound sẽ bị lỗi HTTP 400 nếu truyền param này)
-    if "llama" in model_name.lower():
-        payload["response_format"] = {"type": "json_object"}
-
     res = requests.post(url, headers=headers, json=payload, timeout=60)
     return res, model_name
 

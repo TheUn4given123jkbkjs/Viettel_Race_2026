@@ -589,6 +589,9 @@ def generate_with_smart_rotation(provider, prompt, target_model=None, max_attemp
                 else:
                     content_text = res_data["choices"][0]["message"]["content"]
                 
+            if not content_text:
+                content_text = ""
+                
             if "<think>" in content_text:
                 content_text = re.sub(r'<think>.*?</think>', '', content_text, flags=re.DOTALL)
 

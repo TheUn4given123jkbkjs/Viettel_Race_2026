@@ -24,6 +24,7 @@ Tài liệu này đóng vai trò là cơ sở dữ liệu (Database) ghi nhận 
 | **[INC-260730-03](#inc-260730-03)** | 2026-07-30 | **Medium** | `groq/compound` | ✅ **Resolved** | HTTP 413 (`Request Entity Too Large`) do model compound vượt payload limit |
 | **[INC-260730-04](#inc-260730-04)** | 2026-07-30 | **High** | `generate_train_data_v3.py` / CMD | ✅ **Resolved** | Qwen `<think>` tag gây `JSONDecodeError` & CMD parenthesized `if` syntax crash |
 | **[INC-260730-05](#inc-260730-05)** | 2026-07-30 | **High** | `generate_train_data_v3.py` / Groq | ✅ **Resolved** | Thiếu `max_tokens: 4096` gây đứt đuôi JSON (1024 token limit) & Pacing 8B (2.0s) tràn 6K TPM |
+| **[INC-260730-06](#inc-260730-06)** | 2026-07-30 | **Critical** | `json.loads` Strict Parser | ✅ **Resolved** | Ký tự xuống dòng `\n` chưa escape trong chuỗi gây `JSONDecodeError: Invalid control character` |
 
 ---
 
@@ -288,3 +289,25 @@ Thay thế `groq/compound` bằng **`llama-3.1-8b-instant`** trong danh mục To
 #### 🛠️ Giải pháp Khắc phục & Phòng ngừa (Resolution & Prevention)
 1. **Khai báo `max_tokens: 4096`:** Bổ sung `"max_tokens": 4096` vào payload gọi Groq Cloud trong [generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py#L427). Đã kiểm chứng thực tế: Groq trả về đủ **5,160 ký tự (20 entities)** với `finish_reason: stop`, parse JSON thành công 100%.
 2. **Tăng Pacing Delay 8B lên 8.0s:** Cập nhật `rpm_delay_seconds` của `llama-3.1-8b-instant` từ `2.0s` lên **`8.0s`** trong [models_registry.json](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/models_registry.json#L75) để đảm bảo lưu lượng luôn an toàn dưới 6,000 TPM.
+
+---
+
+### 🔴 INC-260730-06
+* **ID Sự cố:** `INC-260730-06`
+* **Ngày phát hiện:** 2026-07-30 09:26 UTC+7
+* **Mức độ nghiêm trọng:** **Critical** (Nguyên nhân chính gây ra hàng loạt thông báo "Server trả về nội dung rỗng/lỗi JSON")
+* **Thành phần ảnh hưởng:** [custom_scripts/generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py)
+* **Mẫu thông báo lỗi:**
+  ```text
+  ⚠️ [THỬ LẠI] Server trả về nội dung rỗng/lỗi JSON với TK ... (lần 1) -> Đang tự động đổi sang Key/Model khác...
+  JSONDecodeError: Invalid control character at: line 2 column 280 (char 281)
+  ```
+
+#### 🔍 Phân tích Nguyên nhân Gốc rễ (Root Cause Analysis - RCA)
+Mặc dù Groq API trả về kết quả thành công `STATUS 200 OK`, mô hình `llama-3.1-8b-instant` khi sinh văn bản lâm sàng dài có thói quen chèn trực tiếp ký tự xuống dòng `\n` hoặc `\t` vào bên trong trường chuỗi `"text": "Bệnh nhân...\nTiền sử..."`. 
+Trình phân tích `json.loads(text)` mặc định của Python hoạt động ở chế độ `strict=True`. Khi gặp ký tự xuống dòng chưa được escape (Unescaped Control Character) nằm trong chuỗi JSON, `json.loads` lập tức từ chối và tung ngoại lệ `json.JSONDecodeError: Invalid control character`, làm script tưởng lầm server trả về kết quả hỏng và phải thử lại liên tục.
+
+#### 🛠️ Giải pháp Khắc phục & Phòng ngừa (Resolution & Prevention)
+* **Chuyển sang `strict=False`:** Cập nhật `json.loads(cleaned_text, strict=False)` trong [generate_train_data_v3.py](file:///d:/AI%20Race/Viettel_Race_2026/Long_folder/custom_scripts/generate_train_data_v3.py#L605) cho phép Python parse mượt mà các ký tự xuống dòng trong chuỗi JSON.
+* **Tích hợp Sanitized Fallback:** Bổ sung cơ chế fallback tự động làm sạch ký tự điều khiển `re.sub(r'[\r\n\t]', ' ', cleaned_text)` nếu có lỗi.
+* **Kết quả nghiệm thu:** Đã test thực tế sinh full mẫu với `llama-3.1-8b-instant`: **THÀNH CÔNG 100% NGAY LẦN 1** (Text 2,306 ký tự, 11 entities, 0 lỗi retry).

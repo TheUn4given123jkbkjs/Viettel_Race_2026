@@ -479,8 +479,8 @@ def generate_call_ninerouter(api_key, prompt, model_name=None):
 
 global_provider_toggle = "groq"
 
-def generate_with_smart_rotation(provider, prompt, max_attempts=15):
-    """Cơ chế xoay vòng Key thông minh (Gemini / Groq / 9router)"""
+def generate_with_smart_rotation(provider, prompt, target_model=None, max_attempts=15):
+    """Cơ chế xoay vòng Key thông minh (Gemini / Groq / 9router) hỗ trợ ép Model cố định (Model Isolation)"""
     global global_provider_toggle
     
     for attempt in range(max_attempts):
@@ -524,17 +524,25 @@ def generate_with_smart_rotation(provider, prompt, max_attempts=15):
         
         try:
             m_list = key_manager.models_by_provider.get(current_provider, [])
-            delay_sec = m_list[0].get("rpm_delay_seconds", 4.0) if m_list else 2.0
+            delay_sec = 2.0
+            if target_model:
+                for m in m_list:
+                    if m.get("id") == target_model:
+                        delay_sec = m.get("rpm_delay_seconds", 4.0)
+                        break
+            elif m_list:
+                delay_sec = m_list[0].get("rpm_delay_seconds", 4.0)
+                
             time.sleep(random.uniform(delay_sec * 0.8, delay_sec * 1.2))
             
             if current_provider == "gemini":
-                res, used_model = generate_call_gemini(api_key, prompt)
+                res, used_model = generate_call_gemini(api_key, prompt, model_name=target_model)
             elif current_provider == "groq":
-                res, used_model = generate_call_groq(api_key, prompt)
+                res, used_model = generate_call_groq(api_key, prompt, model_name=target_model)
             elif current_provider == "sambanova":
-                res, used_model = generate_call_sambanova(api_key, prompt)
+                res, used_model = generate_call_sambanova(api_key, prompt, model_name=target_model)
             else:
-                res, used_model = generate_call_ninerouter(api_key, prompt)
+                res, used_model = generate_call_ninerouter(api_key, prompt, model_name=target_model)
 
             print(f"  👉 [THỬ LẦN {attempt+1}] Gửi API -> Nhà cung cấp: [{current_provider.upper()} ({used_model})] | TK: [{account_id.upper()}] (Key: {api_key[:10]}...)")
 
@@ -751,6 +759,7 @@ def main():
     parser = argparse.ArgumentParser(description="Script sinh dữ liệu huấn luyện y khoa V3 Nâng Cấp V6.0 (Bias Reduction & Matrix Balancing)")
     parser.add_argument("--member", type=str, required=True, help="Mã thành viên/Tên thư mục (Ví dụ: Long, A, B, C)")
     parser.add_argument("--provider", type=str, default="auto", choices=["auto", "gemini", "groq", "sambanova", "ninerouter"], help="Nhà cung cấp AI (auto: đan xen liên tục các provider)")
+    parser.add_argument("--model", type=str, default=None, help="Ép sử dụng một AI Model cố định (Model Isolation Architecture)")
     parser.add_argument("--num_samples", type=int, default=2000, help="Số lượng mẫu cần sinh")
     parser.add_argument("--start_idx", type=int, default=None, help="Chỉ số bắt đầu (chạy song song)")
     parser.add_argument("--end_idx", type=int, default=None, help="Chỉ số kết thúc (chạy song song)")
@@ -819,7 +828,7 @@ def main():
         
         prompt = build_prompt_text(scenario_id, style_id, disease_entry, drugs_list)
         
-        raw_sample, used_acc, used_provider, used_model = generate_with_smart_rotation(args.provider, prompt)
+        raw_sample, used_acc, used_provider, used_model = generate_with_smart_rotation(args.provider, prompt, target_model=args.model)
         
         if not raw_sample:
             print(" -> Thất bại sau nhiều lần xoay Key. Tạm nghỉ 10s...")

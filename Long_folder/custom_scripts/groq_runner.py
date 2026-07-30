@@ -417,8 +417,8 @@ def calculate_groq_optimal_workers(num_accounts: int) -> int:
     return max(2, min(20, optimal))
 
 
-def launch_groq_workers(member: str, num_samples: int, workers: int = 8, background: bool = False):
-    """Tính worker tối ưu và khởi chạy song song với provider=groq"""
+def launch_groq_workers(member: str, num_samples: int, workers: int = 8, model_id: str = None, background: bool = False):
+    """Tính worker tối ưu và khởi chạy song song với provider=groq hỗ trợ Model Isolation"""
     manager_probe = GroqAccountManager()
     num_accounts  = len(manager_probe.accounts)
 
@@ -439,26 +439,24 @@ def launch_groq_workers(member: str, num_samples: int, workers: int = 8, backgro
             ranges.append((s, e))
 
     print("\n" + "=" * 72)
-    print("  GROQ RUNNER -- TOI UU HOA GROQ PARALLEL")
+    print("  GROQ RUNNER -- TOI UU HOA GROQ PARALLEL (MODEL ISOLATION)")
     print("=" * 72)
     print(f"  Groq accounts doc lap  : {num_accounts}")
     print(f"  So worker toi uu       : {num_workers}")
+    print(f"  Model phan lap chuyên : {model_id if model_id else 'LUÂN PHIÊN TAT CA'}")
     print(f"  Tong mau can sinh      : {num_samples}")
     print(f"  Thanh vien / thu muc   : sample_{member}")
     print(f"  Che do chay            : {'BACKGROUND (ngam)' if background else 'CMD NOI'}")
-    print()
-    print("  Top 3 Models:")
-    for m in GROQ_MODELS:
-        print(f"    #{m['priority']} {m['displayName']:20s} "
-              f"TPM={m['tpm']:,}/acc  RPD={m['rpd']:,}/acc  "
-              f"=> ~{num_accounts * m['rpd']:,} req/ngay")
     print("=" * 72 + "\n")
+
+    model_cmd_flag = f"--model {model_id}" if model_id else ""
 
     if background:
         log_dir = os.path.join(LONG_FOLDER, "logs", f"sample_{member}")
         os.makedirs(log_dir, exist_ok=True)
         for idx, (s, e) in enumerate(ranges, 1):
-            log_path = os.path.join(log_dir, f"groq_worker_{idx}.log")
+            log_suffix = f"groq_{model_id.replace('/', '_')}_worker_{idx}.log" if model_id else f"groq_worker_{idx}.log"
+            log_path = os.path.join(log_dir, log_suffix)
             f_log = open(log_path, "a", encoding="utf-8")
             cmd_args = [
                 sys.executable,
@@ -466,21 +464,24 @@ def launch_groq_workers(member: str, num_samples: int, workers: int = 8, backgro
                 "--member", member, "--provider", "groq",
                 "--start_idx", str(s), "--end_idx", str(e),
             ]
+            if model_id:
+                cmd_args.extend(["--model", model_id])
             flags = 0x08000000 if os.name == "nt" else 0
             subprocess.Popen(cmd_args, cwd=LONG_FOLDER,
                              stdout=f_log, stderr=f_log, creationflags=flags)
-        print(f"[OK] Da kich hoat {len(ranges)} Groq Workers ngam!")
+        print(f"[OK] Da kich hoat {len(ranges)} Groq Workers ngam ({model_id if model_id else 'ALL'})!")
     else:
         for idx, (s, e) in enumerate(ranges, 1):
-            title = f"[sample_{member}] Groq Worker {idx} [{s}-{e}]"
+            tag = model_id.split('/')[-1] if model_id else "ALL"
+            title = f"[sample_{member}] Groq Worker {idx} ({tag}) [{s}-{e}]"
             cmd = (
                 f'start "{title}" cmd /k "'
                 f'python custom_scripts\\generate_train_data_v3.py '
                 f'--member {member} --provider groq '
-                f'--start_idx {s} --end_idx {e}"'
+                f'--start_idx {s} --end_idx {e} {model_cmd_flag}"'
             )
             subprocess.run(cmd, shell=True, cwd=LONG_FOLDER)
-        print(f"[OK] Da bat {len(ranges)} cua so CMD Groq Workers!")
+        print(f"[OK] Da bat {len(ranges)} cua so CMD Groq Workers ({tag})!")
 
 
 # ─── ENTRYPOINT ──────────────────────────────────────────────────
@@ -495,6 +496,8 @@ if __name__ == "__main__":
                         help="Tong so mau can sinh")
     parser.add_argument("--workers",     type=int, default=0,
                         help="So luong worker chay song song (0 = tu dong tinh toan, >0 = ep so worker)")
+    parser.add_argument("--model",       type=str, default=None,
+                        help="ID model phan lap (Model Isolation Architecture)")
     parser.add_argument("--background",  action="store_true",
                         help="Chay ngam khong hien cua so CMD")
     parser.add_argument("--status",     action="store_true",
@@ -520,4 +523,4 @@ if __name__ == "__main__":
         print(manager.get_status_summary())
 
     else:
-        launch_groq_workers(args.member, args.num_samples, workers=args.workers, background=args.background)
+        launch_groq_workers(args.member, args.num_samples, workers=args.workers, model_id=args.model, background=args.background)

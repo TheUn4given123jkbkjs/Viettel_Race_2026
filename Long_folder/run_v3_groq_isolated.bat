@@ -40,24 +40,36 @@ set "WORKERS_70B=4"
 set "WORKERS_8B=3"
 set "WORKERS_QWEN=1"
 
-if "%MODE_OPT%"=="1" (
-    set /p WORKERS_70B="> 4. Nhap so worker cho Llama 70B [Mac dinh: 4]: "
-    if "!WORKERS_70B!"=="" set "WORKERS_70B=4"
-) else if "%MODE_OPT%"=="2" (
-    set /p WORKERS_8B="> 4. Nhap so worker cho Llama 8B [Mac dinh: 3]: "
-    if "!WORKERS_8B!"=="" set "WORKERS_8B=3"
-) else if "%MODE_OPT%"=="3" (
-    set /p WORKERS_QWEN="> 4. Nhap so worker cho Qwen 27B [Mac dinh: 1]: "
-    if "!WORKERS_QWEN!"=="" set "WORKERS_QWEN=1"
-) else (
-    set /p WORKERS_70B="> 4a. Nhap so worker cho Llama 70B [Mac dinh: 4]: "
-    if "!WORKERS_70B!"=="" set "WORKERS_70B=4"
-    set /p WORKERS_8B="> 4b. Nhap so worker cho Llama 8B [Mac dinh: 3]: "
-    if "!WORKERS_8B!"=="" set "WORKERS_8B=3"
-    set /p WORKERS_QWEN="> 4c. Nhap so worker cho Qwen 27B [Mac dinh: 1]: "
-    if "!WORKERS_QWEN!"=="" set "WORKERS_QWEN=1"
-)
+if "%MODE_OPT%"=="1" goto PROMPT_70B
+if "%MODE_OPT%"=="2" goto PROMPT_8B
+if "%MODE_OPT%"=="3" goto PROMPT_QWEN
+goto PROMPT_ALL
 
+:PROMPT_70B
+set /p WORKERS_70B="> 4. Nhap so worker cho Llama 70B [Mac dinh: 4]: "
+if "%WORKERS_70B%"=="" set "WORKERS_70B=4"
+goto PROMPT_BG
+
+:PROMPT_8B
+set /p WORKERS_8B="> 4. Nhap so worker cho Llama 8B [Mac dinh: 3]: "
+if "%WORKERS_8B%"=="" set "WORKERS_8B=3"
+goto PROMPT_BG
+
+:PROMPT_QWEN
+set /p WORKERS_QWEN="> 4. Nhap so worker cho Qwen 27B [Mac dinh: 1]: "
+if "%WORKERS_QWEN%"=="" set "WORKERS_QWEN=1"
+goto PROMPT_BG
+
+:PROMPT_ALL
+set /p WORKERS_70B="> 4a. Nhap so worker cho Llama 70B [Mac dinh: 4]: "
+if "%WORKERS_70B%"=="" set "WORKERS_70B=4"
+set /p WORKERS_8B="> 4b. Nhap so worker cho Llama 8B [Mac dinh: 3]: "
+if "%WORKERS_8B%"=="" set "WORKERS_8B=3"
+set /p WORKERS_QWEN="> 4c. Nhap so worker cho Qwen 27B [Mac dinh: 1]: "
+if "%WORKERS_QWEN%"=="" set "WORKERS_QWEN=1"
+goto PROMPT_BG
+
+:PROMPT_BG
 echo.
 set "BG_OPT=n"
 set /p BG_OPT="> 5. Chay ngam khong hien cua so CMD? (y/n) [Mac dinh: n]: "
@@ -70,32 +82,44 @@ echo   [THONG TIN KHOI CHAY CHINH THUC]
 echo   - Thu muc dau ra : sample_%MEMBER%
 echo   - Tong so mau    : %NUM_SAMPLES%
 echo   - Che do chon    : Option %MODE_OPT%
-if "%MODE_OPT%"=="1" echo   - Workers        : !WORKERS_70B! Workers (Llama 70B)
-if "%MODE_OPT%"=="2" echo   - Workers        : !WORKERS_8B! Workers (Llama 8B)
-if "%MODE_OPT%"=="3" echo   - Workers        : !WORKERS_QWEN! Worker (Qwen 27B)
-if "%MODE_OPT%"=="4" echo   - Workers        : !WORKERS_70B! (70B) + !WORKERS_8B! (8B) + !WORKERS_QWEN! (Qwen)
+if "%MODE_OPT%"=="1" echo   - Workers        : %WORKERS_70B% Workers (Llama 70B)
+if "%MODE_OPT%"=="2" echo   - Workers        : %WORKERS_8B% Workers (Llama 8B)
+if "%MODE_OPT%"=="3" echo   - Workers        : %WORKERS_QWEN% Worker (Qwen 27B)
+if "%MODE_OPT%"=="4" echo   - Workers        : %WORKERS_70B% (70B) + %WORKERS_8B% (8B) + %WORKERS_QWEN% (Qwen)
 if /i "%BG_OPT%"=="y" (echo   - Cua so         : CHAY NGAM) else (echo   - Cua so         : CUA SO CMD NOI)
 echo ==============================================================================
 echo.
 
-if "%MODE_OPT%"=="1" (
-    echo [BUOC 3] Khoi chay Dan Llama 3.3 70B (!WORKERS_70B! Workers)...
-    python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers !WORKERS_70B! --model "llama-3.3-70b-versatile" %BG_FLAG%
-) else if "%MODE_OPT%"=="2" (
-    echo [BUOC 3] Khoi chay Dan Llama 3.1 8B (!WORKERS_8B! Workers)...
-    python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers !WORKERS_8B! --model "llama-3.1-8b-instant" %BG_FLAG%
-) else if "%MODE_OPT%"=="3" (
-    echo [BUOC 3] Khoi chay Dan Qwen 3.6 27B (!WORKERS_QWEN! Worker)...
-    python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers !WORKERS_QWEN! --model "qwen/qwen3.6-27b" %BG_FLAG%
-) else (
-    echo [BUOC 3] Khoi chay DONG THOI CA 3 DAN MODEL ISOLATED...
-    echo   -> Dan 1: Llama 3.3 70B (!WORKERS_70B! Workers)...
-    python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers !WORKERS_70B! --model "llama-3.3-70b-versatile" %BG_FLAG%
-    echo   -> Dan 2: Llama 3.1 8B (!WORKERS_8B! Workers)...
-    python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers !WORKERS_8B! --model "llama-3.1-8b-instant" %BG_FLAG%
-    echo   -> Dan 3: Qwen 3.6 27B (!WORKERS_QWEN! Worker)...
-    python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers !WORKERS_QWEN! --model "qwen/qwen3.6-27b" %BG_FLAG%
-)
+if "%MODE_OPT%"=="1" goto RUN_70B
+if "%MODE_OPT%"=="2" goto RUN_8B
+if "%MODE_OPT%"=="3" goto RUN_QWEN
+goto RUN_ALL
 
+:RUN_70B
+echo [BUOC 3] Khoi chay Dan Llama 3.3 70B (%WORKERS_70B% Workers)...
+python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers %WORKERS_70B% --model "llama-3.3-70b-versatile" %BG_FLAG%
+goto END
+
+:RUN_8B
+echo [BUOC 3] Khoi chay Dan Llama 3.1 8B (%WORKERS_8B% Workers)...
+python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers %WORKERS_8B% --model "llama-3.1-8b-instant" %BG_FLAG%
+goto END
+
+:RUN_QWEN
+echo [BUOC 3] Khoi chay Dan Qwen 3.6 27B (%WORKERS_QWEN% Worker)...
+python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers %WORKERS_QWEN% --model "qwen/qwen3.6-27b" %BG_FLAG%
+goto END
+
+:RUN_ALL
+echo [BUOC 3] Khoi chay DONG THOI CA 3 DAN MODEL ISOLATED...
+echo   -> Dan 1: Llama 3.3 70B (%WORKERS_70B% Workers)...
+python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers %WORKERS_70B% --model "llama-3.3-70b-versatile" %BG_FLAG%
+echo   -> Dan 2: Llama 3.1 8B (%WORKERS_8B% Workers)...
+python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers %WORKERS_8B% --model "llama-3.1-8b-instant" %BG_FLAG%
+echo   -> Dan 3: Qwen 3.6 27B (%WORKERS_QWEN% Worker)...
+python custom_scripts\groq_runner.py --member "%MEMBER%" --num_samples %NUM_SAMPLES% --workers %WORKERS_QWEN% --model "qwen/qwen3.6-27b" %BG_FLAG%
+goto END
+
+:END
 echo.
 pause

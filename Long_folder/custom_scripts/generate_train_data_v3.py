@@ -426,7 +426,8 @@ def generate_call_groq(api_key, prompt, model_name=None):
             {"role": "system", "content": "You are a helpful medical data generator. Always output raw JSON only."},
             {"role": "user", "content": prompt}
         ],
-        "temperature": 0.8
+        "temperature": 0.8,
+        "max_tokens": 4096
     }
     res = requests.post(url, headers=headers, json=payload, timeout=60)
     return res, model_name

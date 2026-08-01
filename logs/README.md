@@ -14,6 +14,21 @@
 
 ---
 
+### 📌 LOG-20260731-V6.5: Fix Pipeline Paths, Kiểm tra Hybrid Linker & Khởi động Training PhoBERT
+
+* **Ngày thực hiện:** `2026-07-31 22:07:00 (UTC+7)`
+* **Lý do:** Toàn bộ 3 file pipeline hard-code `d:/record_by_me/Viettel_race` — đường dẫn sai trên máy hiện tại. Keras 3 conflict cũng khiến `sentence_transformers` và `transformers.Trainer` crash.
+* **Cách khắc phục:**
+  * Fix path trong `train_phobert.py`, `hybrid_linker.py`, `run_pipeline.py` dùng `Path(__file__).parent`.
+  * Fix `evaluation_strategy` → `eval_strategy` (deprecated HuggingFace API).
+  * Fix Keras 3 conflict: `except ImportError` → `except (ImportError, ValueError)` cho Layer 3 graceful degradation.
+  * Cài `tf-keras` để fix root cause Keras 3 / transformers.Trainer conflict.
+  * Xác nhận Hybrid Linker hoạt động: 13,020 ICD-10 + 484 RxNorm terms loaded, Layer 1+2 pass.
+  * Khởi động fine-tune `vinai/phobert-base` trên 7,400 mẫu BIO (5 epochs).
+* **Chi tiết Log:** [LOG-20260731-V6.5-PIPELINE-PATH-FIX-AND-TRAINING-LAUNCH.md](file:///d:/record_by_me/Viettel_race/logs/LOG-20260731-V6.5-PIPELINE-PATH-FIX-AND-TRAINING-LAUNCH.md)
+
+---
+
 ### 📌 LOG-20260730-V6.4: Báo cáo Bàn giao Hợp phần Pipeline & Trạng thái PhoBERT Fine-tune
 
 * **Ngày thực hiện:** `2026-07-30 18:00:00 (UTC+7)`

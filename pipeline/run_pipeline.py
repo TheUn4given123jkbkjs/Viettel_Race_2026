@@ -18,7 +18,8 @@ try:
 except ImportError:
     HAS_TORCH = False
 
-BASE_DIR = Path("d:/record_by_me/Viettel_race")
+# Resolve paths relative to this script's location (pipeline/ -> project root)
+BASE_DIR = Path(__file__).parent.parent
 DEFAULT_INPUT_DIR = BASE_DIR / "test" / "input"
 DEFAULT_OUTPUT_DIR = BASE_DIR / "test" / "output"
 

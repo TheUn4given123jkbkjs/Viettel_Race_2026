@@ -276,7 +276,7 @@ def tokenize_and_align_labels(examples):
 
         is_split_into_words=True,
 
-        max_length=128
+        max_length=256
 
     )
 
@@ -449,9 +449,9 @@ def main():
 
         {"params": deberta_params, "lr": 2e-5},
 
-        {"params": classifier_params, "lr": 1e-4},
+        {"params": classifier_params, "lr": 1e-3},
 
-        {"params": crf_params, "lr": 2e-4},
+        {"params": crf_params, "lr": 5e-3},
 
     ]
 

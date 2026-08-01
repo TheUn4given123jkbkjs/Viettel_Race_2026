@@ -229,8 +229,9 @@ def main():
 
     # Configure custom Cosine Annealing scheduler
     num_train_epochs = 10
-    batch_size = 16
-    steps_per_epoch = len(train_tokenized) // batch_size
+    batch_size = 8
+    grad_accum_steps = 4   # effective batch = 8 * 4 = 32
+    steps_per_epoch = len(train_tokenized) // (batch_size * grad_accum_steps)
     num_training_steps = steps_per_epoch * num_train_epochs
     
     from transformers import get_cosine_schedule_with_warmup
@@ -243,9 +244,10 @@ def main():
     training_args = TrainingArguments(
         output_dir=os.path.join(DATA_DIR, "results_videberta"),
         eval_strategy="epoch",
-        learning_rate=2e-5,  # Dummy value
+        learning_rate=2e-5,  # Dummy value, overridden by custom optimizer
         per_device_train_batch_size=batch_size,
         per_device_eval_batch_size=batch_size,
+        gradient_accumulation_steps=grad_accum_steps,  # effective batch = 32
         num_train_epochs=num_train_epochs,
         weight_decay=0.01,
         save_strategy="epoch",
@@ -253,9 +255,10 @@ def main():
         metric_for_best_model="f1",
         logging_steps=50,
         report_to="none",
-        fp16=False,
+        fp16=True,              # FP16 mixed precision: ~50% VRAM savings
         bf16=False,
-        max_grad_norm=1.0
+        max_grad_norm=1.0,
+        gradient_checkpointing=True,  # recompute activations to save ~60% activation VRAM
     )
 
     trainer = Trainer(

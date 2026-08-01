@@ -530,9 +530,9 @@ def main():
 
         report_to="none",
 
-        fp16=use_fp16,            # Dynamic FP16 mixed precision fallback
+        fp16=False,               # Enforce full FP32 to prevent DeBERTa-v2 numerical instability
 
-        bf16=use_bf16,            # Dynamic BF16 mixed precision if supported
+        bf16=False,               # Enforce full FP32 to prevent DeBERTa-v2 numerical instability
 
         max_grad_norm=1.0,
 

@@ -489,6 +489,19 @@ def main():
 
 
 
+    # Detect GPU capabilities dynamically for maximum speed and compatibility
+    use_bf16 = False
+    use_fp16 = False
+    if torch.cuda.is_available():
+        if torch.cuda.is_bf16_supported():
+            use_bf16 = True
+            print("GPU supports BF16. Training will use BF16 mixed precision.")
+        else:
+            use_fp16 = True
+            print("GPU does not support BF16 natively. Falling back to FP16 mixed precision.")
+    else:
+        print("CUDA is not available. Training on CPU.")
+
     training_args = TrainingArguments(
 
         output_dir=os.path.join(DATA_DIR, "results_videberta"),
@@ -517,9 +530,9 @@ def main():
 
         report_to="none",
 
-        fp16=False,              # FP16 is unstable for DeBERTa; disabled
+        fp16=use_fp16,            # Dynamic FP16 mixed precision fallback
 
-        bf16=True,               # Use BF16 mixed precision on Ampere/RTX 3050 to prevent overflows
+        bf16=use_bf16,            # Dynamic BF16 mixed precision if supported
 
         max_grad_norm=1.0,
 

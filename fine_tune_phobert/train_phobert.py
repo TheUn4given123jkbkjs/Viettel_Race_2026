@@ -2,6 +2,7 @@ import os
 import json
 import torch
 import numpy as np
+from pathlib import Path
 from datasets import load_dataset, Dataset
 from transformers import (
     AutoTokenizer, 
@@ -12,9 +13,8 @@ from transformers import (
 )
 import evaluate
 
-# Path configuration
-BASE_DIR = "d:/record_by_me/Viettel_race"
-DATA_DIR = os.path.join(BASE_DIR, "fine_tune_phobert")
+# Path configuration — resolved relative to this script's location
+DATA_DIR = str(Path(__file__).parent)
 OUTPUT_MODEL_DIR = os.path.join(DATA_DIR, "phobert_ner_model")
 
 # Load label mapping
@@ -35,6 +35,24 @@ def read_jsonl(path):
             data.append(json.loads(line.strip()))
     return data
 
+def get_manual_word_ids(tokens, max_length=256):
+    """
+    Build word_ids manually for non-fast tokenizers (e.g., PhoBERT SentencePiece).
+    Tokenizes each word individually to count subword tokens.
+    Returns a list like: [None, 0, 0, 1, 2, 2, 2, None] where None = special tokens.
+    """
+    word_ids = [None]  # CLS token
+    for word_idx, word in enumerate(tokens):
+        subwords = tokenizer.tokenize(word)
+        if not subwords:  # handle empty tokenization edge case
+            subwords = [tokenizer.unk_token]
+        word_ids.extend([word_idx] * len(subwords))
+        if len(word_ids) >= max_length - 1:  # leave room for SEP
+            break
+    word_ids.append(None)  # SEP token
+    return word_ids
+
+
 def tokenize_and_align_labels(examples):
     # PhoBERT tokenizer expects pre-tokenized words as input when is_split_into_words=True
     tokenized_inputs = tokenizer(
@@ -46,17 +64,25 @@ def tokenize_and_align_labels(examples):
 
     labels = []
     for i, label in enumerate(examples["ner_tags"]):
-        word_ids = tokenized_inputs.word_ids(batch_index=i)
+        # Build word_ids manually (word_ids() not available for slow/non-fast tokenizers)
+        word_ids = get_manual_word_ids(examples["tokens"][i], max_length=256)
+
+        # Trim/pad to match the actual tokenized sequence length
+        seq_len = len(tokenized_inputs["input_ids"][i])
+        word_ids = word_ids[:seq_len]
+        while len(word_ids) < seq_len:
+            word_ids.append(None)
+
         previous_word_idx = None
         label_ids = []
         for word_idx in word_ids:
-            # Special tokens are mapped to None. We set their label to -100 to ignore in loss calculation.
+            # Special tokens (CLS, SEP, PAD) -> ignore in loss
             if word_idx is None:
                 label_ids.append(-100)
-            # We set the label for the first subword token of each word.
+            # First subword of each word -> assign the real label
             elif word_idx != previous_word_idx:
-                label_ids.append(label[word_idx])
-            # For subsequent subwords of the same word, we set label to -100 as well.
+                label_ids.append(label[word_idx] if word_idx < len(label) else -100)
+            # Subsequent subwords of the same word -> ignore in loss
             else:
                 label_ids.append(-100)
             previous_word_idx = word_idx
@@ -112,9 +138,10 @@ def main():
 
     data_collator = DataCollatorForTokenClassification(tokenizer)
 
+    use_fp16 = torch.cuda.is_available()
     training_args = TrainingArguments(
         output_dir=os.path.join(DATA_DIR, "results"),
-        evaluation_strategy="epoch",
+        eval_strategy="epoch",
         learning_rate=5e-5,
         per_device_train_batch_size=16,
         per_device_eval_batch_size=16,
@@ -124,6 +151,7 @@ def main():
         load_best_model_at_end=True,
         metric_for_best_model="f1",
         logging_steps=50,
+        fp16=use_fp16,
         report_to="none"  # Disable wandb/tensorboard logging for clean output
     )
 

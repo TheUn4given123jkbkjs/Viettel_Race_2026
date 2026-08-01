@@ -14,21 +14,23 @@ from transformers import (
     TrainingArguments, 
     Trainer,
     DataCollatorForTokenClassification,
-    RobertaPreTrainedModel,
-    RobertaModel
+    DebertaV2PreTrainedModel,
+    DebertaV2Model
 )
 from transformers.modeling_outputs import TokenClassifierOutput
 
-# Custom model class with CRF Layer
-class PhobertCRFForTokenClassification(RobertaPreTrainedModel):
-    _keys_to_ignore_on_load_unexpected = [r"pooler", r"lm_head"]
+# Custom model class with CRF Layer for DebertaV2
+class VidebertaCRFForTokenClassification(DebertaV2PreTrainedModel):
+    _keys_to_ignore_on_load_unexpected = [r"pooler"]
 
     def __init__(self, config):
         super().__init__(config)
         self.num_labels = config.num_labels
-        self.roberta = RobertaModel(config, add_pooling_layer=False)
+        self.deberta = DebertaV2Model(config)
         classifier_dropout = (
-            config.classifier_dropout if config.classifier_dropout is not None else config.hidden_dropout_prob
+            getattr(config, "classifier_dropout", None)
+            if getattr(config, "classifier_dropout", None) is not None
+            else getattr(config, "hidden_dropout_prob", 0.1)
         )
         self.dropout = nn.Dropout(classifier_dropout)
         self.classifier = nn.Linear(config.hidden_size, config.num_labels)
@@ -48,7 +50,6 @@ class PhobertCRFForTokenClassification(RobertaPreTrainedModel):
         attention_mask=None,
         token_type_ids=None,
         position_ids=None,
-        head_mask=None,
         inputs_embeds=None,
         labels=None,
         output_attentions=None,
@@ -57,12 +58,11 @@ class PhobertCRFForTokenClassification(RobertaPreTrainedModel):
     ):
         return_dict = return_dict if return_dict is not None else self.config.use_return_dict
 
-        outputs = self.roberta(
+        outputs = self.deberta(
             input_ids,
             attention_mask=attention_mask,
             token_type_ids=token_type_ids,
             position_ids=position_ids,
-            head_mask=head_mask,
             inputs_embeds=inputs_embeds,
             output_attentions=output_attentions,
             output_hidden_states=output_hidden_states,
@@ -110,7 +110,7 @@ class PhobertCRFForTokenClassification(RobertaPreTrainedModel):
 # Path configuration
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "fine_tune_phobert")
-OUTPUT_MODEL_DIR = os.path.join(DATA_DIR, "phobert_ner_model")
+OUTPUT_MODEL_DIR = os.path.join(DATA_DIR, "videberta_ner_model")
 
 # Load label mapping
 with open(os.path.join(DATA_DIR, "label_mapping.json"), "r", encoding="utf-8") as f:
@@ -120,8 +120,8 @@ with open(os.path.join(DATA_DIR, "label_mapping.json"), "r", encoding="utf-8") a
     LABEL_LIST = list(LABEL_TO_ID.keys())
 
 # Load tokenizer
-MODEL_NAME = "vinai/phobert-base"
-tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_fast=False)
+MODEL_NAME = "Fsoft-AIC/videberta-base"
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, use_fast=True)
 
 def read_jsonl(path):
     data = []
@@ -135,28 +135,12 @@ def tokenize_and_align_labels(examples):
         examples["tokens"], 
         truncation=True, 
         is_split_into_words=True,
-        max_length=256
+        max_length=128
     )
 
     labels = []
     for i, label in enumerate(examples["ner_tags"]):
-        words = examples["tokens"][i]
-        
-        # Build manual word_ids mapping
-        word_ids = [None]  # <s> at start
-        for word_idx, word in enumerate(words):
-            # Tokenize individual word
-            subwords = tokenizer.tokenize(word)
-            # Add word_idx for each subword token
-            word_ids.extend([word_idx] * len(subwords))
-        word_ids.append(None)  # </s> at end
-        
-        # Truncate/pad word_ids to match input_ids length
-        input_ids_len = len(tokenized_inputs["input_ids"][i])
-        word_ids = word_ids[:input_ids_len]
-        if len(word_ids) < input_ids_len:
-            word_ids.extend([None] * (input_ids_len - len(word_ids)))
-        
+        word_ids = tokenized_inputs.word_ids(batch_index=i)
         previous_word_idx = None
         label_ids = []
         for word_idx in word_ids:
@@ -208,58 +192,42 @@ def main():
     val_dataset = Dataset.from_list(val_data)
 
     print("Tokenizing and aligning labels...")
-    # Process in batches
     train_tokenized = train_dataset.map(tokenize_and_align_labels, batched=True, remove_columns=["tokens", "ner_tags"])
     val_tokenized = val_dataset.map(tokenize_and_align_labels, batched=True, remove_columns=["tokens", "ner_tags"])
 
-    print("Initializing model...")
-    model = PhobertCRFForTokenClassification.from_pretrained(
+    print("Initializing ViDeBERTa model...")
+    model = VidebertaCRFForTokenClassification.from_pretrained(
         MODEL_NAME,
         num_labels=len(LABEL_LIST),
         id2label=ID_TO_LABEL,
-        label2id=LABEL_TO_ID
+        label2id=LABEL_TO_ID,
+        torch_dtype=torch.float32
     )
-
-    # Calculate class weights dynamically to handle class imbalance
-    print("Calculating class weights...")
-    label_counts = np.zeros(len(LABEL_LIST))
-    for item in train_data:
-        for tag in item["ner_tags"]:
-            if tag < len(LABEL_LIST):
-                label_counts[tag] += 1
-    label_counts = np.clip(label_counts, a_min=1.0, a_max=None)
-    weights = np.sum(label_counts) / (len(LABEL_LIST) * label_counts)
-    weights = weights / np.mean(weights)
-    
-    # Load class weights into the model
-    model.class_weights.copy_(torch.tensor(weights, dtype=torch.float32))
-    print("Loaded class weights:", {LABEL_LIST[i]: round(w, 4) for i, w in enumerate(weights)})
 
     data_collator = DataCollatorForTokenClassification(tokenizer)
 
     # Configure custom optimizer with Layer-wise Learning Rate Decay (LLRD)
-    roberta_params = []
+    deberta_params = []
     classifier_params = []
     crf_params = []
     
     for name, param in model.named_parameters():
-        if "roberta" in name:
-            roberta_params.append(param)
+        if "deberta" in name:
+            deberta_params.append(param)
         elif "classifier" in name:
             classifier_params.append(param)
         elif "crf" in name:
             crf_params.append(param)
             
     optimizer_grouped_parameters = [
-        {"params": roberta_params, "lr": 2e-5},
-        {"params": classifier_params, "lr": 1e-3},
-        {"params": crf_params, "lr": 5e-3},
+        {"params": deberta_params, "lr": 2e-5},
+        {"params": classifier_params, "lr": 1e-4},
+        {"params": crf_params, "lr": 2e-4},
     ]
     
     optimizer = torch.optim.AdamW(optimizer_grouped_parameters, weight_decay=0.01)
 
     # Configure custom Cosine Annealing scheduler
-    # We will pass optimizer and learning rate scheduler directly to Trainer
     num_train_epochs = 10
     batch_size = 16
     steps_per_epoch = len(train_tokenized) // batch_size
@@ -273,9 +241,9 @@ def main():
     )
 
     training_args = TrainingArguments(
-        output_dir=os.path.join(DATA_DIR, "results"),
+        output_dir=os.path.join(DATA_DIR, "results_videberta"),
         eval_strategy="epoch",
-        learning_rate=2e-5,  # Dummy value, overridden by custom optimizer
+        learning_rate=2e-5,  # Dummy value
         per_device_train_batch_size=batch_size,
         per_device_eval_batch_size=batch_size,
         num_train_epochs=num_train_epochs,
@@ -284,8 +252,10 @@ def main():
         load_best_model_at_end=True,
         metric_for_best_model="f1",
         logging_steps=50,
-        report_to="none",  # Disable wandb/tensorboard logging for clean output
-        fp16=torch.cuda.is_available()
+        report_to="none",
+        fp16=False,
+        bf16=False,
+        max_grad_norm=1.0
     )
 
     trainer = Trainer(
@@ -296,16 +266,14 @@ def main():
         processing_class=tokenizer,
         data_collator=data_collator,
         compute_metrics=compute_metrics,
-        optimizers=(optimizer, scheduler)  # Pass custom optimizer and scheduler
+        optimizers=(optimizer, scheduler)
     )
 
-    checkpoint_path = os.path.join(DATA_DIR, "results", "checkpoint-926")
-    if os.path.exists(checkpoint_path):
-        print(f"Resuming training from checkpoint: {checkpoint_path}")
-        trainer.train(resume_from_checkpoint=checkpoint_path)
-    else:
-        print("Starting training from scratch...")
-        trainer.train()
+    print(f"CUDA available: {torch.cuda.is_available()}")
+    print(f"Trainer device: {trainer.args.device}")
+    print(f"Model device: {next(model.parameters()).device}")
+    print("Starting ViDeBERTa-CRF training...")
+    trainer.train()
 
     print(f"Saving best model to {OUTPUT_MODEL_DIR}...")
     trainer.save_model(OUTPUT_MODEL_DIR)

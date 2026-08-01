@@ -2,6 +2,18 @@
 
 ---
 
+### 📌 LOG-20260801-V6.5: Báo cáo Khắc phục Lỗi Huấn luyện ViDeBERTa-CRF & Tối ưu hóa GPU
+
+* **Ngày thực hiện:** `2026-08-01 16:00:00 (UTC+7)`
+* **Lý do:** Khắc phục triệt để lỗi treo tiến trình (OpenMP Deadlock), lỗi Python crash do DLL conflict trên Windows, và lỗi nổ trọng số/NaN loss do underflow số thực float16 khi tải mô hình từ Hub.
+* **Cách khắc phục:** 
+  * Định cấu hình `torch_dtype=torch.float32` nạp mô hình ở độ chính xác FP32 để ngăn chặn epsilon của AdamW underflow về 0.
+  * Hạ học suất Classifier (`1e-4`) và CRF transitions (`2e-4`) để bảo vệ ranh giới rãnh của DeBERTa, bật `max_grad_norm=1.0`.
+  * Sắp xếp import datasets trước torch để tránh lỗi DLL, và bỏ giới hạn single-thread để tối ưu hóa CPU-GPU 28x.
+* **Chi tiết Log:** [LOG-20260801-V6.5-VIDEBERTA-CRF-STABILITY-FIX.md](file:///d:/record_by_me/Viettel_race/logs/LOG-20260801-V6.5-VIDEBERTA-CRF-STABILITY-FIX.md)
+
+---
+
 ### 📌 LOG-20260730-V6.4: Báo cáo Bàn giao Hợp phần Pipeline & Trạng thái PhoBERT Fine-tune
 
 * **Ngày thực hiện:** `2026-07-30 18:00:00 (UTC+7)`

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "Bệnh phổi kẽ",
+    "position": [
+      78,
+      90
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J18.9"
+    ]
+  },
+  {
+    "text": "Suy giảm miễn dịch",
+    "position": [
+      475,
+      493
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E88.11",
+      "E88.12",
+      "E88.19"
+    ]
+  },
+  {
+    "text": "tổn thương vùng âm hộ và mông bên phải",
+    "position": [
+      654,
+      692
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đớn",
+    "position": [
+      1171,
+      1178
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dịch giống mủ",
+    "position": [
+      1239,
+      1252
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lo ngại về Nhiễm virus Herpes simplex (HSV)",
+    "position": [
+      2483,
+      2525
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A51.03",
+      "A51.04",
+      "A51.05"
+    ]
+  }
+]

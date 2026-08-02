@@ -1,5 +1,22 @@
 # 📋 Nhật ký Thay đổi & Quyết định Dự án (Change Logs Index)
 
+* 🔗 **[Đường dẫn tải Mô hình (Model Google Drive Links)](file:///d:/record_by_me/Viettel_race/logs/MODEL_DRIVE_LINKS.md)**
+
+---
+
+### 📌 LOG-20260802-V6.7: Giải quyết Lỗi Chuẩn hóa Unicode NFD/NFC, Cân bằng Word Splitter, Khử Nhiễu Âm Tiết Đơn & Tiền xử lý Dính chữ
+* **Ngày thực hiện:** `2026-08-02 19:00:00 (UTC+7)`
+* **Lý do:** Khắc phục lỗi vỡ âm tiết do văn bản gốc dạng NFD, lệch word splitter làm dấu câu dính vào thực thể, tràn bộ đếm token gây lỗi CUDA, lọc nhiễu âm tiết đơn lẻ, và xử lý dính chữ lâm sàng (ví dụ "bịchảy").
+* **Cách khắc phục:**
+  * Thực hiện NFC normalization cấp tài liệu lúc suy luận, sử dụng SequenceMatcher để tạo ánh xạ vị trí ký tự động nhằm khôi phục tọa độ NFD gốc chính xác cho kết quả.
+  * Đồng bộ Word Splitter sang `\w+|[^\w\s]` để khớp với lúc huấn luyện.
+  * Khống chế token limit theo từ và cắt bớt từ đơn quá dài để bảo vệ GPU.
+  * Đặt ngưỡng kích hoạt `0.55` và áp dụng bộ lọc heuristics Whitelist đơn tiết lâm sàng (`ho`, `sốt`, `đau`, `ngứa`, `phù`...) để giữ Recall và sạch Precision.
+  * Tiền xử lý tài liệu sửa các lỗi dính chữ phổ biến (`bịchảy` -> `bị chảy`, `đauđầu` -> `đau đầu`).
+* **Chi tiết Log:** [LOG-20260802-V6.7-PHOBERT-UNICODE-NFC-ALIGNMENT-AND-NOISE-FILTERING.md](file:///d:/record_by_me/Viettel_race/logs/LOG-20260802-V6.7-PHOBERT-UNICODE-NFC-ALIGNMENT-AND-NOISE-FILTERING.md)
+
+---
+
 ### 📌 LOG-20260802-V6.6: Huấn luyện PhoBERT-Softmax & Sửa lỗi Tràn Token để sinh File Nộp bài
 
 * **Ngày thực hiện:** `2026-08-02 18:15:00 (UTC+7)`
@@ -13,7 +30,6 @@
 * **Chi tiết Log:** [LOG-20260802-V6.6-PHOBERT-SOFTMAX-TRAINING-AND-PIPELINE-SUBMISSION.md](file:///d:/record_by_me/Viettel_race/logs/LOG-20260802-V6.6-PHOBERT-SOFTMAX-TRAINING-AND-PIPELINE-SUBMISSION.md)
 
 ---
-
 
 ### 📌 LOG-20260801-V6.5: Báo cáo Khắc phục Lỗi Huấn luyện ViDeBERTa-CRF & Tối ưu hóa GPU
 
@@ -112,4 +128,3 @@
 * **Chi tiết Log:** [LOG-20260728-V5.1-PROMPT-LENGTH-BOOST.md](file:///d:/AI%20Race/Viettel_Race_2026/logs/LOG-20260728-V5.1-PROMPT-LENGTH-BOOST.md)
 
 ---
-

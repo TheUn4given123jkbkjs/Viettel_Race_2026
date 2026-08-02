@@ -1,0 +1,80 @@
+[
+  {
+    "text": "rụng tóc từng mảng",
+    "position": [
+      35,
+      53
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L63"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      286,
+      293
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tràn dịch màng phổi trái",
+    "position": [
+      214,
+      238
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J91*"
+    ]
+  },
+  {
+    "text": "Ung thư vú di căn",
+    "position": [
+      195,
+      212
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N60.00"
+    ]
+  },
+  {
+    "text": "Tiêm",
+    "position": [
+      584,
+      588
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "39993"
+    ]
+  },
+  {
+    "text": "diphenylcyclopropenone",
+    "position": [
+      1284,
+      1306
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dinitrochlorobenzene",
+    "position": [
+      1326,
+      1346
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

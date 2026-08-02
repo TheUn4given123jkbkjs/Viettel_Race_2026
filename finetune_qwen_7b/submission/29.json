@@ -1,0 +1,68 @@
+[
+  {
+    "text": "bệnh thận mạn, không đặc hiệu",
+    "position": [
+      167,
+      195
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N18.9"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      297,
+      304
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      369,
+      372
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau vai",
+    "position": [
+      588,
+      595
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuyên tắc phổi",
+    "position": [
+      1275,
+      1289
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I24.0",
+      "I24.1",
+      "I24.2"
+    ]
+  },
+  {
+    "text": "Siêu âm mạch máu chi trên",
+    "position": [
+      1210,
+      1235
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

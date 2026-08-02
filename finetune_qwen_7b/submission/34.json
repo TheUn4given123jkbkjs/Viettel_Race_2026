@@ -1,0 +1,52 @@
+[
+  {
+    "text": "Bệnh lý đau nửa đầu",
+    "position": [
+      367,
+      386
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G44.0"
+    ]
+  },
+  {
+    "text": "đau nửa đầu",
+    "position": [
+      94,
+      105
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gleevec",
+    "position": [
+      1123,
+      1130
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "103990"
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "position": [
+      1163,
+      1174
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "519"
+    ]
+  }
+]

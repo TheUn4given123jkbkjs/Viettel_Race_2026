@@ -1,0 +1,84 @@
+[
+  {
+    "text": "Sốt cao kéo dài",
+    "position": [
+      1169,
+      1184
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mắt đỏ",
+    "position": [
+      1253,
+      1259
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Thay đổi niêm mạc miệng",
+    "position": [
+      1322,
+      1346
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tổn thương ở đầu chi",
+    "position": [
+      1413,
+      1433
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ban đỏ toàn thân",
+    "position": [
+      1507,
+      1523
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm tim",
+    "position": [
+      1942,
+      1953
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG điện tâm đồ",
+    "position": [
+      2000,
+      2015
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Động mạch vành",
+    "position": [
+      102,
+      116
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I70.0"
+    ]
+  }
+]

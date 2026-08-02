@@ -1,0 +1,172 @@
+[
+  {
+    "text": "ho",
+    "position": [
+      48,
+      50
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn cảm xúc",
+    "position": [
+      51,
+      67
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F31.64"
+    ]
+  },
+  {
+    "text": "nghiện rượu",
+    "position": [
+      139,
+      150
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F10.20"
+    ]
+  },
+  {
+    "text": "seroquel",
+    "position": [
+      190,
+      198
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "36437"
+    ]
+  },
+  {
+    "text": "con cái",
+    "position": [
+      589,
+      596
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác thị giác",
+    "position": [
+      618,
+      634
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "H53"
+    ]
+  },
+  {
+    "text": "Được yêu cầu",
+    "position": [
+      1129,
+      1141
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "các băng nhóm oligoclonal",
+    "position": [
+      1468,
+      1493
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp ct sọ",
+    "position": [
+      1818,
+      1828
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "position": [
+      1840,
+      1858
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G36.1"
+    ]
+  },
+  {
+    "text": "sốt siêu vi",
+    "position": [
+      2281,
+      2292
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng",
+    "position": [
+      2308,
+      2319
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.86"
+    ]
+  },
+  {
+    "text": "Kawasaki",
+    "position": [
+      2853,
+      2861
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "Viêm kết mạc",
+    "position": [
+      2921,
+      2933
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "H10"
+    ]
+  },
+  {
+    "text": "Môi – miệng thay đổi",
+    "position": [
+      2955,
+      2975
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

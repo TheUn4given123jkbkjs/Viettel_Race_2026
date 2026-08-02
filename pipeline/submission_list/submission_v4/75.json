@@ -1,0 +1,68 @@
+[
+  {
+    "text": "khối u trực tràng",
+    "position": [
+      25,
+      42
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A17.81"
+    ]
+  },
+  {
+    "text": "sinh thiết",
+    "position": [
+      90,
+      100
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lây nhiễm",
+    "position": [
+      666,
+      675
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tái phát nấm bẹn",
+    "position": [
+      682,
+      698
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lựa chọn",
+    "position": [
+      1084,
+      1092
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không dùng chung đồ dùng cá nhân",
+    "position": [
+      1251,
+      1283
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "Z69"
+    ]
+  }
+]

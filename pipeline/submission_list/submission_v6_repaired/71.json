@@ -1,0 +1,78 @@
+[
+  {
+    "text": "Phẫu thuật cắt cụt chân trái bên trên gối",
+    "position": [
+      229,
+      270
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E89.41"
+    ]
+  },
+  {
+    "text": "thuyên tắc phổi hai bên",
+    "position": [
+      319,
+      342
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nổi mẩn",
+    "position": [
+      632,
+      639
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vùng lưng",
+    "position": [
+      642,
+      651
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "nổi mẩn đỏ",
+    "position": [
+      1171,
+      1181
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngứa",
+    "position": [
+      1182,
+      1186
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy giảm chức năng gan",
+    "position": [
+      1387,
+      1409
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N25"
+    ]
+  }
+]

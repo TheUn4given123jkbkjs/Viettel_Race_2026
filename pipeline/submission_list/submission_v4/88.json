@@ -1,0 +1,66 @@
+[
+  {
+    "text": "cắt bỏ ống dẫn mật chủ",
+    "position": [
+      67,
+      89
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đặt 3 stent đường mật lưu dài hạn",
+    "position": [
+      253,
+      286
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Augmentin",
+    "position": [
+      630,
+      639
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "33199"
+    ]
+  },
+  {
+    "text": "ra mồ hôi nhiều hơn trẻ khác",
+    "position": [
+      921,
+      949
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ba stent mật kim loại",
+    "position": [
+      1327,
+      1348
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D63.8"
+    ]
+  },
+  {
+    "text": "một ổ dịch sau phẫu thuật",
+    "position": [
+      1367,
+      1392
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

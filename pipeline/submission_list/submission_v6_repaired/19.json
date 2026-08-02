@@ -1,0 +1,100 @@
+[
+  {
+    "text": "nổi các dấu mề đay",
+    "position": [
+      73,
+      91
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngứa",
+    "position": [
+      102,
+      106
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tylenol",
+    "position": [
+      684,
+      691
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "10324"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      696,
+      699
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tylenol",
+    "position": [
+      1084,
+      1091
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "10324"
+    ]
+  },
+  {
+    "text": "PCP",
+    "position": [
+      1113,
+      1116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mày đay",
+    "position": [
+      1824,
+      1831
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L50"
+    ]
+  },
+  {
+    "text": "",
+    "position": [
+      2314,
+      2203
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "corticoid",
+    "position": [
+      2393,
+      2402
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "text": "cấy que",
+    "position": [
+      120,
+      127
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F12.6"
+    ]
+  },
+  {
+    "text": "Implanon",
+    "position": [
+      319,
+      327
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "214558"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      699,
+      707
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      864,
+      871
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "que",
+    "position": [
+      1130,
+      1133
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "2951"
+    ]
+  },
+  {
+    "text": "que cấy",
+    "position": [
+      1608,
+      1615
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2951"
+    ]
+  },
+  {
+    "text": "rỉ máu âm đạo",
+    "position": [
+      1653,
+      1666
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

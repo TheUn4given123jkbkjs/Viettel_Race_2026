@@ -1,0 +1,98 @@
+[
+  {
+    "text": "BỆNH MẠCH VÀNH",
+    "position": [
+      1,
+      15
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xơ vữa động mạch",
+    "position": [
+      208,
+      224
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I70"
+    ]
+  },
+  {
+    "text": "Giảm khi nghỉ",
+    "position": [
+      1109,
+      1122
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhồi máu cơ tim ST chênh",
+    "position": [
+      1198,
+      1222
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I21"
+    ]
+  },
+  {
+    "text": "Đau thắt ngực",
+    "position": [
+      1253,
+      1266
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "I20"
+    ]
+  },
+  {
+    "text": "rối loạn cảm xúc lưỡng cực khác",
+    "position": [
+      1643,
+      1674
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F31.9"
+    ]
+  },
+  {
+    "text": "phẫu thuật cắt bỏ tuyến tiền liệt (u ác của tuyến tiền liệt)",
+    "position": [
+      1711,
+      1771
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "eliquis",
+    "position": [
+      1813,
+      1820
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1538988"
+    ]
+  }
+]

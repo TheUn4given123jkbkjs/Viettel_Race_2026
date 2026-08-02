@@ -1,0 +1,126 @@
+[
+  {
+    "text": "khó thở",
+    "position": [
+      35,
+      42
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy tim",
+    "position": [
+      71,
+      78
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I50"
+    ]
+  },
+  {
+    "text": "phù phổi cấp",
+    "position": [
+      303,
+      315
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J81"
+    ]
+  },
+  {
+    "text": "Phổi RRPN rõ",
+    "position": [
+      563,
+      575
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.72"
+    ]
+  },
+  {
+    "text": "rale ẩm",
+    "position": [
+      577,
+      584
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phù phổi cấp",
+    "position": [
+      1192,
+      1204
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J81"
+    ]
+  },
+  {
+    "text": "Suy tim",
+    "position": [
+      1207,
+      1214
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I50"
+    ]
+  },
+  {
+    "text": "Stent mạch vành",
+    "position": [
+      1217,
+      1232
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      1235,
+      1248
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "mất trí nhớ",
+    "position": [
+      1761,
+      1772
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      1788,
+      1795
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

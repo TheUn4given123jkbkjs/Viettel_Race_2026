@@ -1,0 +1,68 @@
+[
+  {
+    "text": "corticoid",
+    "position": [
+      332,
+      341
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Rối loạn cảm xúc",
+    "position": [
+      581,
+      597
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F31.64"
+    ]
+  },
+  {
+    "text": "Lạm dụng chất kích thích",
+    "position": [
+      953,
+      977
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F15.10"
+    ]
+  },
+  {
+    "text": "ý định tự tử",
+    "position": [
+      1046,
+      1058
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tự tử",
+    "position": [
+      1279,
+      1284
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.03"
+    ]
+  },
+  {
+    "text": "suboxone",
+    "position": [
+      1386,
+      1394
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

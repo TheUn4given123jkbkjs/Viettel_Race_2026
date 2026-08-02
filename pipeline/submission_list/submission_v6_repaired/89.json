@@ -1,0 +1,56 @@
+[
+  {
+    "text": "Hoạt động gắng sức",
+    "position": [
+      552,
+      570
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      637,
+      646
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      796,
+      799
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Liệu phát miễn dịch tiếp xúc",
+    "position": [
+      1250,
+      1278
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A18.03"
+    ]
+  },
+  {
+    "text": "ST chênh xuống",
+    "position": [
+      1307,
+      1321
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

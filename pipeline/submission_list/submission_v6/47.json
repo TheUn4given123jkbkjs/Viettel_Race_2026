@@ -1,0 +1,94 @@
+[
+  {
+    "text": "Viêm phổi bệnh viện",
+    "position": [
+      557,
+      576
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.16"
+    ]
+  },
+  {
+    "text": "rung nhĩ và nhịp nhanh trên thất",
+    "position": [
+      580,
+      612
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      986,
+      994
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "R10"
+    ]
+  },
+  {
+    "text": "ran",
+    "position": [
+      1118,
+      1121
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù phù",
+    "position": [
+      1126,
+      1133
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E51.11"
+    ]
+  },
+  {
+    "text": "dịch thanh dịch lẫn máu từ vết mổ",
+    "position": [
+      1464,
+      1497
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm phổi bệnh viện",
+    "position": [
+      1842,
+      1861
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.16"
+    ]
+  },
+  {
+    "text": "Rung nhĩ kèm nhịp nhanh trên thất",
+    "position": [
+      1864,
+      1897
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I47.1"
+    ]
+  }
+]

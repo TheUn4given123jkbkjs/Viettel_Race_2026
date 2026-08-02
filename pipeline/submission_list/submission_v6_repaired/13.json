@@ -1,0 +1,112 @@
+[
+  {
+    "text": "bị thương n",
+    "position": [
+      56,
+      69
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bị chảy máu",
+    "position": [
+      85,
+      100
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nước dãi của chó",
+    "position": [
+      198,
+      214
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh dại",
+    "position": [
+      540,
+      548
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "A82"
+    ]
+  },
+  {
+    "text": "vết cắn",
+    "position": [
+      571,
+      578
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh dại",
+    "position": [
+      1099,
+      1107
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82"
+    ]
+  },
+  {
+    "text": "virus",
+    "position": [
+      1387,
+      1392
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dạ",
+    "position": [
+      1680,
+      1682
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82"
+    ]
+  },
+  {
+    "text": "đau ngực trái",
+    "position": [
+      2243,
+      2256
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vết thương ở đầu và cổ",
+    "position": [
+      2416,
+      2438
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

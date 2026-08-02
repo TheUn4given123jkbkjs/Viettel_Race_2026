@@ -1,33 +1,5 @@
 [
   {
-    "text": "Tăng huyết áp",
-    "position": [
-      73,
-      86
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
-  },
-  {
-    "text": "tăng huyết áp",
-    "position": [
-      88,
-      101
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
-  },
-  {
     "text": "khó thở",
     "position": [
       337,

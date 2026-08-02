@@ -1,0 +1,114 @@
+[
+  {
+    "text": "không có lỗ tai",
+    "position": [
+      84,
+      99
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vẫn có vành tai đầy đủ",
+    "position": [
+      101,
+      123
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đo âm tai",
+    "position": [
+      213,
+      222
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trường hợp",
+    "position": [
+      762,
+      772
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F31.77"
+    ]
+  },
+  {
+    "text": "đau đớn",
+    "position": [
+      990,
+      997
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "B02.22"
+    ]
+  },
+  {
+    "text": "bactrim",
+    "position": [
+      1211,
+      1218
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "doxycycline",
+    "position": [
+      1222,
+      1233
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "3640"
+    ]
+  },
+  {
+    "text": "Viêm mô tế bào",
+    "position": [
+      1256,
+      1270
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L03"
+    ]
+  },
+  {
+    "text": "thính lực",
+    "position": [
+      1786,
+      1795
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đánh giá lại",
+    "position": [
+      1884,
+      1896
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F98.21"
+    ]
+  }
+]

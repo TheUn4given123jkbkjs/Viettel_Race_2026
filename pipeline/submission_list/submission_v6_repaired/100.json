@@ -1,0 +1,68 @@
+[
+  {
+    "text": "ng mỗi tối.Từ đó đến giờ, mũi em thường xuyên có cục máu đông và một lần đi tiêu ra máu. Em không biết là do người em nóng hay do tác dụng phụ của thuốc và có cần đi thăm khám ngay không ạ? Mong Bác sĩ giải đáp. Em xin cảm ơn!\n\nCâu trả lời của bác sĩ: \n\nChào bạn, \n\n************ được khuyến cáo đối với những sản phụ có nguy cơ tiền sản giật cao để phòng ngừa tiền sản giật và những biến chứng liên quan đến tiền sản giật. Tuy nhiên, ******* là thuốc có tác dụng chống đông máu do đó tác dụng phụ của thuốc là có thể gây chảy máu. Các triệu chứng của bạn có thể là tác dụng phụ của ******* tuy nhiên bạn cũng đừng nên quá lo lắng vì dựa trên mô tả thì những tác dụng phụ không phải ở mức độ nghiêm trọng.\nBạn vẫn nên đi khám sớm nhất có thể",
+    "position": [
+      222,
+      996
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiền sản giật",
+    "position": [
+      584,
+      597
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O14"
+    ]
+  },
+  {
+    "text": "tiền sản giật",
+    "position": [
+      664,
+      677
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O14"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [
+      1114,
+      1121
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  },
+  {
+    "text": "đại tiện ra máu",
+    "position": [
+      1219,
+      1234
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gián đoạn",
+    "position": [
+      1243,
+      1252
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

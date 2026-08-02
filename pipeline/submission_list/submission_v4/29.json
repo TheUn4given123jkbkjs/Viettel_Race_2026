@@ -1,0 +1,138 @@
+[
+  {
+    "text": "bệnh thận mạn",
+    "position": [
+      156,
+      169
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "N03"
+    ]
+  },
+  {
+    "text": "không đặc hiệu",
+    "position": [
+      171,
+      185
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G93.9"
+    ]
+  },
+  {
+    "text": "phù ngoại vi",
+    "position": [
+      548,
+      560
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      640,
+      643
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau vai",
+    "position": [
+      647,
+      654
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "R51"
+    ]
+  },
+  {
+    "text": "thở áp lực dương không xâm nhập",
+    "position": [
+      821,
+      852
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J96"
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn huyết",
+    "position": [
+      991,
+      1008
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A40.03",
+      "A40.04",
+      "A40.05"
+    ]
+  },
+  {
+    "text": "thuyên tắc phổi",
+    "position": [
+      1226,
+      1241
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bàn chân bẹt",
+    "position": [
+      1319,
+      1331
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q66.5"
+    ]
+  },
+  {
+    "text": "bàn chân bẹt",
+    "position": [
+      1705,
+      1717
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q69"
+    ]
+  },
+  {
+    "text": "không đau",
+    "position": [
+      1812,
+      1821
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "R51"
+    ]
+  }
+]

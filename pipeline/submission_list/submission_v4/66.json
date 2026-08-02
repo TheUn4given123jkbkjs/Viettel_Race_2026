@@ -1,0 +1,84 @@
+[
+  {
+    "text": "u xơ tuyến vú",
+    "position": [
+      93,
+      106
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N60.2"
+    ]
+  },
+  {
+    "text": "u nang tuyến vú",
+    "position": [
+      111,
+      126
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D25.1"
+    ]
+  },
+  {
+    "text": "B12",
+    "position": [
+      785,
+      788
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "B12",
+    "position": [
+      1097,
+      1100
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "u nang tuyến vú",
+    "position": [
+      1151,
+      1166
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N60"
+    ]
+  },
+  {
+    "text": "u xơ tuyến vú",
+    "position": [
+      1168,
+      1181
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N60.1*",
+      "N60.10*",
+      "N60.11*"
+    ]
+  },
+  {
+    "text": "u nang tuyến vú",
+    "position": [
+      1284,
+      1299
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N60"
+    ]
+  }
+]

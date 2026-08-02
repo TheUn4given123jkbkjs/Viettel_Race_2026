@@ -1,0 +1,90 @@
+[
+  {
+    "text": "bệnh thận mạn",
+    "position": [
+      475,
+      488
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "N03"
+    ]
+  },
+  {
+    "text": "ngã",
+    "position": [
+      564,
+      567
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ngã",
+    "position": [
+      576,
+      579
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gleevec",
+    "position": [
+      625,
+      632
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "134748"
+    ]
+  },
+  {
+    "text": "nipt",
+    "position": [
+      1397,
+      1401
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "double test",
+    "position": [
+      1433,
+      1444
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khám thai",
+    "position": [
+      1713,
+      1722
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tái khám",
+    "position": [
+      1763,
+      1771
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

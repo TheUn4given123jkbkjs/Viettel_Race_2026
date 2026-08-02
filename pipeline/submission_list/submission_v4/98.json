@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Rối loạn cảm xúc",
+    "position": [
+      277,
+      293
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F31.64"
+    ]
+  },
+  {
+    "text": "rối loạn lo âu",
+    "position": [
+      326,
+      340
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F41.9"
+    ]
+  },
+  {
+    "text": "Lạm dụng chất kích thích, chất gây nghiện opioid",
+    "position": [
+      649,
+      697
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E75.26"
+    ]
+  },
+  {
+    "text": "ý định tự tử và ý nghĩ tự bắn vào đầu",
+    "position": [
+      742,
+      779
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trầm cảm",
+    "position": [
+      808,
+      816
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F32.9"
+    ]
+  },
+  {
+    "text": "lo âu",
+    "position": [
+      1182,
+      1187
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hoảng sợ",
+    "position": [
+      1188,
+      1196
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

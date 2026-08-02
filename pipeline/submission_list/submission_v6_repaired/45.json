@@ -1,0 +1,100 @@
+[
+  {
+    "text": "đau đầu",
+    "position": [
+      165,
+      172
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng nhãn áp",
+    "position": [
+      504,
+      516
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q15.0"
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      703,
+      710
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mờ mắt",
+    "position": [
+      728,
+      734
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "não úng tuỷ",
+    "position": [
+      846,
+      857
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K86.2"
+    ]
+  },
+  {
+    "text": "phù gai thị",
+    "position": [
+      1192,
+      1203
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "mờ mắt",
+    "position": [
+      1237,
+      1243
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng nhãn áp",
+    "position": [
+      1772,
+      1784
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q15.0"
+    ]
+  },
+  {
+    "text": "Phù gai thị",
+    "position": [
+      1863,
+      1874
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

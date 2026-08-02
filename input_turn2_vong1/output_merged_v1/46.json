@@ -1,19 +1,5 @@
 [
   {
-    "text": "tăng huyết áp",
-    "position": [
-      82,
-      95
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
-  },
-  {
     "text": "phù phổi cấp",
     "position": [
       303,
@@ -41,13 +27,9 @@
       347,
       360
     ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "Siêu âm doper tim",
@@ -68,19 +50,5 @@
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
-  },
-  {
-    "text": "Tăng huyết áp",
-    "position": [
-      1235,
-      1248
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
   }
 ]

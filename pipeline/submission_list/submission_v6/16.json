@@ -1,0 +1,118 @@
+[
+  {
+    "text": " bị thương n",
+    "position": [
+      72,
+      85
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": " bị chảy máu",
+    "position": [
+      101,
+      116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh dại",
+    "position": [
+      549,
+      557
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "A82"
+    ]
+  },
+  {
+    "text": "vết cắn",
+    "position": [
+      580,
+      587
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "dại",
+    "position": [
+      1086,
+      1089
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82"
+    ]
+  },
+  {
+    "text": "virus",
+    "position": [
+      1401,
+      1406
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dại",
+    "position": [
+      1694,
+      1697
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82"
+    ]
+  },
+  {
+    "text": "bumetanide",
+    "position": [
+      2178,
+      2188
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "114477"
+    ]
+  },
+  {
+    "text": "vancomycin",
+    "position": [
+      2211,
+      2221
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "11124"
+    ]
+  },
+  {
+    "text": "levofloxacin",
+    "position": [
+      2244,
+      2256
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "82122"
+    ]
+  }
+]

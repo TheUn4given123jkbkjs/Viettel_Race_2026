@@ -1,0 +1,68 @@
+[
+  {
+    "text": "suy nghĩ tích cực",
+    "position": [
+      45,
+      62
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "uộc sống không dừng lại vì một chấn thương từ bên ngoài",
+    "position": [
+      93,
+      148
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mày đay",
+    "position": [
+      844,
+      851
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L50"
+    ]
+  },
+  {
+    "text": "điều trị",
+    "position": [
+      1001,
+      1009
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phụ thuộc",
+    "position": [
+      1077,
+      1086
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn ngủ",
+    "position": [
+      1280,
+      1288
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "R40.0"
+    ]
+  }
+]

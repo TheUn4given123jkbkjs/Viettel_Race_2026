@@ -1,5 +1,7 @@
 # 📋 Nhật ký Thay đổi & Quyết định Dự án (Change Logs Index)
 
+* 🔗 **[Đường dẫn tải Mô hình (Model Google Drive Links)](file:///d:/AI%20Race/Viettel_Race_2026/logs/MODEL_DRIVE_LINKS.md)**
+
 ---
 
 ### 📌 LOG-20260801-V6.5: Báo cáo Khắc phục Lỗi Huấn luyện ViDeBERTa-CRF & Tối ưu hóa GPU

@@ -12,7 +12,7 @@
   * Nâng cấp Linker bổ sung Tầng 1.5 Khớp chuỗi con (Substring match) và mở rộng từ điển viết tắt G6PD/THA để sửa lỗi bỏ sót các chẩn đoán ngắn dạng chung.
   * Lập script `repair_submission_v6.py` sửa trực tiếp 78 lỗi đè nhãn triệu chứng và 41 mã ICD-10 trong tệp submission để nộp lại ngay lập tức, nâng điểm lên 9.73%.
   * Viết script suy luận hợp nhất trên Kaggle [run_kaggle_ensemble_inference.py](file:///D:/AI%20Race/Viettel_Race_2026/pipeline/run_kaggle_ensemble_inference.py) nạp đồng thời Qwen (suy luận theo từ) và PhoBERT (NER BIO), giải quyết triệt để vấn đề mất Recall của Qwen đơn lẻ.
-* **Chi tiết Log:** [LOG-20260803-V7.8-DIAGNOSED-SUBMISSION-V6-LOW-SCORE-AND-REPAIRED.md](file:///D:/AI%20Race/Long_Logs/LOG-20260803-V7.8-DIAGNOSED-SUBMISSION-V6-LOW-SCORE-AND-REPAIRED.md)
+* **Chi tiết Log:** [LOG-20260803-V7.8-DIAGNOSED-SUBMISSION-V6-LOW-SCORE-AND-REPAIRED.md](LOG-20260803-V7.8-DIAGNOSED-SUBMISSION-V6-LOW-SCORE-AND-REPAIRED.md)
 
 ---
 
@@ -23,7 +23,7 @@
   * Sửa đổi Qwen chunk size lên `256 từ` và overlap lên `60 từ` (tương đương 3 câu) để cải thiện Recall ngữ cảnh.
   * Tăng PhoBERT overlap lên `60 từ` (giữ nguyên chunk size `120 từ` để tránh bị cắt xén do giới hạn 256 tokens).
   * Đồng bộ các script được cập nhật vào `D:\AI Race\script\`.
-* **Chi tiết Log:** [LOG-20260802-V7.7-ADJUSTING-SLIDING-WINDOW-CHUNK-SIZES-AND-OVERLAPS.md](file:///D:/AI%20Race/Long_Logs/LOG-20260802-V7.7-ADJUSTING-SLIDING-WINDOW-CHUNK-SIZES-AND-OVERLAPS.md)
+* **Chi tiết Log:** [LOG-20260802-V7.7-ADJUSTING-SLIDING-WINDOW-CHUNK-SIZES-AND-OVERLAPS.md](LOG-20260802-V7.7-ADJUSTING-SLIDING-WINDOW-CHUNK-SIZES-AND-OVERLAPS.md)
 
 ---
 
@@ -35,7 +35,7 @@
   * Áp dụng SequenceMatcher để ánh xạ vị trí ký tự động ngược từ NFC về NFD gốc chính xác.
   * Xây dựng bộ quét cửa sổ trượt mờ cục bộ ($\pm 80$ ký tự) lấy phân đoạn có tỷ lệ khớp cao nhất ($\ge 70\%$) và tự động sửa thực thể theo văn bản gốc.
   * Đồng bộ các script được cập nhật vào `D:\AI Race\script\`.
-* **Chi tiết Log:** [LOG-20260802-V7.6-FIXING-UNICODE-ALIGNMENT-AND-FUZZY-SUBSTRING-MATCHING.md](file:///D:/AI%20Race/Long_Logs/LOG-20260802-V7.6-FIXING-UNICODE-ALIGNMENT-AND-FUZZY-SUBSTRING-MATCHING.md)
+* **Chi tiết Log:** [LOG-20260802-V7.6-FIXING-UNICODE-ALIGNMENT-AND-FUZZY-SUBSTRING-MATCHING.md](LOG-20260802-V7.6-FIXING-UNICODE-ALIGNMENT-AND-FUZZY-SUBSTRING-MATCHING.md)
 
 ---
 

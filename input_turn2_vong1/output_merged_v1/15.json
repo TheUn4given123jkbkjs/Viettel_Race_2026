@@ -1,0 +1,110 @@
+[
+  {
+    "text": "Bệnh phổi kẽ",
+    "position": [
+      44,
+      56
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      184,
+      197
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "Suy giảm miễn dịch",
+    "position": [
+      478,
+      496
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D81"
+    ]
+  },
+  {
+    "text": "tổn thương vùng âm hộ và mông",
+    "position": [
+      584,
+      613
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1008,
+      1014
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhiều",
+    "position": [
+      1150,
+      1159
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1860,
+      1866
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy mủ",
+    "position": [
+      1868,
+      1875
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm mô tế bào",
+    "position": [
+      2029,
+      2043
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L03"
+    ]
+  },
+  {
+    "text": "Nhiễm virus Herpes simplex",
+    "position": [
+      2585,
+      2611
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

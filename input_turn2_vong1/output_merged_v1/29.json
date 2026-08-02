@@ -1,0 +1,122 @@
+[
+  {
+    "text": "mãn tính",
+    "position": [
+      69,
+      77
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      80,
+      93
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "bệnh thận mạn, không đặc hiệu",
+    "position": [
+      156,
+      185
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N18.9"
+    ]
+  },
+  {
+    "text": "Khó thở",
+    "position": [
+      222,
+      229
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      358,
+      361
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau vai",
+    "position": [
+      647,
+      654
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      715,
+      728
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "thuyên tắc phổi",
+    "position": [
+      1226,
+      1241
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      1818,
+      1821
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Siêu âm mạch máu chi trên",
+    "position": [
+      2108,
+      2133
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xạ hình thông khí – tưới máu phổi",
+    "position": [
+      2161,
+      2194
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

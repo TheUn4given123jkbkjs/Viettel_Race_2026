@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Phẫu thuật cắt cụt chân trái bên trên gối  và cắt cụt chân phải bên dưới gối / biến chứng thuyên tắc phổi hai bên  - nhiễm trùng chi dưới bên phải do Enterococcus kháng vancomycin",
+    "position": [
+      229,
+      408
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuyên tắc phổi hai bên",
+    "position": [
+      319,
+      342
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng chi dưới bên phải",
+    "position": [
+      346,
+      375
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kháng vancomycin",
+    "position": [
+      392,
+      408
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "U83.0"
+    ]
+  },
+  {
+    "text": "nổi mẩn",
+    "position": [
+      632,
+      639
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nổi mẩn",
+    "position": [
+      1064,
+      1071
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngứa",
+    "position": [
+      1182,
+      1186
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

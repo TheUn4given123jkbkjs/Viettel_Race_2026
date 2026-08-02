@@ -1,0 +1,118 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [
+      39,
+      47
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      50,
+      63
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "suy tim, không đặc hiệu",
+    "position": [
+      66,
+      89
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I50.9"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      92,
+      99
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E66"
+    ]
+  },
+  {
+    "text": "weak",
+    "position": [
+      731,
+      735
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xỉu",
+    "position": [
+      777,
+      780
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      862,
+      865
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      909,
+      917
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "shortness of breath",
+    "position": [
+      1200,
+      1219
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nôn",
+    "position": [
+      1373,
+      1376
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "xỉu",
+    "position": [
+      1432,
+      1435
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

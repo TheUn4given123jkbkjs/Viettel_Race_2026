@@ -1,0 +1,78 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [
+      45,
+      52
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gầy sút cân",
+    "position": [
+      54,
+      65
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Torsemide",
+    "position": [
+      554,
+      563
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Insulin glargine",
+    "position": [
+      604,
+      620
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "274783"
+    ]
+  },
+  {
+    "text": "Rosuvastatin",
+    "position": [
+      735,
+      747
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "301542"
+    ]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [
+      803,
+      813
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "20352"
+    ]
+  },
+  {
+    "text": "Creatinine",
+    "position": [
+      937,
+      947
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

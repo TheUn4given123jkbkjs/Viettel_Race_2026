@@ -1,0 +1,114 @@
+[
+  {
+    "text": "Bệnh bạch cầu dòng tủy mãn tính",
+    "position": [
+      57,
+      88
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C93.1"
+    ]
+  },
+  {
+    "text": "mãn tính",
+    "position": [
+      80,
+      88
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng cholesterol máu đơn thuần",
+    "position": [
+      95,
+      125
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E78.0"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      132,
+      145
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "position": [
+      190,
+      197
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "allopurinol",
+    "position": [
+      239,
+      250
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "519"
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      363,
+      370
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      451,
+      458
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      847,
+      854
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      1872,
+      1879
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

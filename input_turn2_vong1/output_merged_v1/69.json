@@ -1,0 +1,78 @@
+[
+  {
+    "text": "trầm cảm",
+    "position": [
+      108,
+      116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "rối loạn lo âu",
+    "position": [
+      121,
+      135
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Phẫu thuật cắt cụt chân trái bên trên gối  và cắt cụt chân phải bên dưới gối",
+    "position": [
+      678,
+      754
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuyên tắc phổi hai bên",
+    "position": [
+      768,
+      791
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng chi dưới bên phải do Enterococcus kháng vancomycin",
+    "position": [
+      795,
+      857
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kháng vancomycin",
+    "position": [
+      841,
+      857
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "U83.0"
+    ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      1127,
+      1130
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "text": "Bệnh phổi kẽ",
+    "position": [
+      44,
+      56
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      184,
+      197
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "Suy giảm miễn dịch",
+    "position": [
+      478,
+      496
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D81"
+    ]
+  },
+  {
+    "text": "tổn thương vùng âm hộ và mông bên phải",
+    "position": [
+      584,
+      622
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1008,
+      1014
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhiều",
+    "position": [
+      1150,
+      1159
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đớn",
+    "position": [
+      1407,
+      1414
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dịch giống mủ",
+    "position": [
+      1510,
+      1523
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lo ngại về Nhiễm virus Herpes simplex (HSV) hoặc Bệnh thủy đậu/Zona (do Varicella Zoster Virus)",
+    "position": [
+      2749,
+      2844
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

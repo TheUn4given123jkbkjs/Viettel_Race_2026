@@ -1,0 +1,84 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [
+      160,
+      167
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      199,
+      206
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đau hai bàn chân",
+    "position": [
+      341,
+      357
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Đo sức bền cơ tim bằng đồng vị phóng xạ",
+    "position": [
+      434,
+      473
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm chức năng tâm thu thất trái nghiêm trọng",
+    "position": [
+      534,
+      579
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Augmentin",
+    "position": [
+      799,
+      808
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "amoxicillin/acid clavulanic",
+    "position": [
+      810,
+      837
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "19711"
+    ]
+  },
+  {
+    "text": "acid clavul",
+    "position": [
+      822,
+      833
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

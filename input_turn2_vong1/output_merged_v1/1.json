@@ -1,0 +1,56 @@
+[
+  {
+    "text": "THIẾU MEN G6PD",
+    "position": [
+      0,
+      14
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sàng lọc sớm các bệnh bẩm sinh",
+    "position": [
+      1082,
+      1112
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sốt cao",
+    "position": [
+      1632,
+      1639
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tan huyết",
+    "position": [
+      1771,
+      1780
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "Vitamin K",
+    "position": [
+      3583,
+      3592
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "11258"
+    ]
+  }
+]

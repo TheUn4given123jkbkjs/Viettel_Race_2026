@@ -1,0 +1,162 @@
+[
+  {
+    "text": "Rối loạn chuyển hóa tinh bột",
+    "position": [
+      29,
+      57
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E83.1"
+    ]
+  },
+  {
+    "text": "tinh bột",
+    "position": [
+      49,
+      57
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tinh bột",
+    "position": [
+      323,
+      331
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      821,
+      834
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "tăng lipid máu, không đặc hiệu",
+    "position": [
+      841,
+      871
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E78.5"
+    ]
+  },
+  {
+    "text": "Đái tháo đường típ 2",
+    "position": [
+      878,
+      898
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hẹp ống sống",
+    "position": [
+      905,
+      917
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M48.0"
+    ]
+  },
+  {
+    "text": "Giả gout",
+    "position": [
+      924,
+      932
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh thận mạn, không đặc hiệu Giai đoạn 4",
+    "position": [
+      939,
+      980
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngã",
+    "position": [
+      1028,
+      1031
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gleevec",
+    "position": [
+      1089,
+      1096
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      1581,
+      1584
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nôn không ra",
+    "position": [
+      1592,
+      1604
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chuỗi nhẹ",
+    "position": [
+      1654,
+      1663
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tinh bột",
+    "position": [
+      1768,
+      1776
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

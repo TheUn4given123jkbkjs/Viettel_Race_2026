@@ -1,0 +1,108 @@
+[
+  {
+    "text": "Tiểu đường loại 1",
+    "position": [
+      54,
+      71
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      93,
+      106
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "tăng lipid máu, không đặc hiệu",
+    "position": [
+      113,
+      143
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E78.5"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      150,
+      157
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E66"
+    ]
+  },
+  {
+    "text": "đau bàn chân phải",
+    "position": [
+      307,
+      324
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      307,
+      310
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không vững khi đứng",
+    "position": [
+      781,
+      800
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hct",
+    "position": [
+      869,
+      872
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "8.126.3",
+    "position": [
+      886,
+      893
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đã đặt",
+    "position": [
+      1288,
+      1294
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

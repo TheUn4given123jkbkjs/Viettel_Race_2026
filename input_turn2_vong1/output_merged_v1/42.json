@@ -1,0 +1,140 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      75,
+      88
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "ho, thiếu oxy",
+    "position": [
+      298,
+      311
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hang vị",
+    "position": [
+      512,
+      519
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F91"
+    ]
+  },
+  {
+    "text": "sốt lên đến 101",
+    "position": [
+      710,
+      725
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      710,
+      713
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy các thuốc của ông ấy",
+    "position": [
+      745,
+      775
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [
+      949,
+      951
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      1019,
+      1022
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn/nôn",
+    "position": [
+      1141,
+      1148
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vếtvết protein niệu",
+    "position": [
+      1813,
+      1832
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "troponin",
+    "position": [
+      1842,
+      1850
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [
+      1851,
+      1858
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dưới phải",
+    "position": [
+      1939,
+      1948
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

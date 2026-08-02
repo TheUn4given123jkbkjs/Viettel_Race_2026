@@ -4,6 +4,17 @@
 
 ---
 
+### 📌 LOG-20260802-V7.7: Điều chỉnh Độ dài Phân đoạn (Chunk Size) và Độ gối đầu (Overlap) Cửa sổ Trượt
+* **Ngày thực hiện:** `2026-08-02 22:50:00 (UTC+7)`
+* **Lý do:** Cải tiến độ phủ ngữ cảnh của thuật toán Cửa sổ trượt (Sliding Window) dựa trên số liệu thống kê độ dài câu thực tế nhằm tăng Recall, tránh mất thực thể ở ranh giới phân đoạn.
+* **Cách khắc phục:**
+  * Sửa đổi Qwen chunk size lên `256 từ` và overlap lên `60 từ` (tương đương 3 câu) để cải thiện Recall ngữ cảnh.
+  * Tăng PhoBERT overlap lên `60 từ` (giữ nguyên chunk size `120 từ` để tránh bị cắt xén do giới hạn 256 tokens).
+  * Đồng bộ các script được cập nhật vào `D:\AI Race\script\`.
+* **Chi tiết Log:** [LOG-20260802-V7.7-ADJUSTING-SLIDING-WINDOW-CHUNK-SIZES-AND-OVERLAPS.md](file:///D:/AI%20Race/Long_Logs/LOG-20260802-V7.7-ADJUSTING-SLIDING-WINDOW-CHUNK-SIZES-AND-OVERLAPS.md)
+
+---
+
 ### 📌 LOG-20260802-V7.6: Sửa lỗi Lệch chuẩn Unicode NFD/NFC & Thuật toán Căn chỉnh Thực thể Mờ (Fuzzy Substring Match)
 * **Ngày thực hiện:** `2026-08-02 22:40:00 (UTC+7)`
 * **Lý do:** Giải quyết hiện tượng bỏ qua thực thể (Skipped Entities) do lệch định dạng Unicode (NFC/NFD) trong 20% tệp dữ liệu test gốc và sự sai lệch chính tả/tiền tố từ sinh của LLM.

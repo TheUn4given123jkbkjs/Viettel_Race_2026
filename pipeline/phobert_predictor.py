@@ -252,7 +252,7 @@ class PhobertPredictor:
         else:
             print("[PhoBERT Predictor] ⚠️ Chạy ở chế độ MOCK (Chưa cấu hình model_path).")
 
-    def split_text_into_chunks(self, text_nfc, max_words=120, overlap_words=30):
+    def split_text_into_chunks(self, text_nfc, max_words=120, overlap_words=60):
         """
         Cắt văn bản NFC thành các đoạn tối ưu dưới 240 tokens dựa trên số token thực tế của từ.
         """

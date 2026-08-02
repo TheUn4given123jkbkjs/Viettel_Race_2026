@@ -20,13 +20,11 @@ except ImportError:
     print("[INFO] rapidfuzz not installed. Using difflib fallback for fuzzy matching.")
 
 # Semantic search: optional
-# Catch both ImportError (not installed) and ValueError (Keras 3 / tf-keras conflict)
-try:
-    from sentence_transformers import SentenceTransformer
-    HAS_TRANSFORMERS = True
-except (ImportError, ValueError) as e:
-    HAS_TRANSFORMERS = False
-    print(f"[INFO] sentence-transformers unavailable ({type(e).__name__}). Semantic search (Layer 3) disabled.")
+# Safe check if installed without importing/loading DLLs to prevent crash
+import importlib.util
+HAS_TRANSFORMERS = importlib.util.find_spec("sentence_transformers") is not None
+if not HAS_TRANSFORMERS:
+    print("[INFO] sentence-transformers is not installed. Semantic search (Layer 3) disabled.")
 
 # Resolve paths relative to this script's location (pipeline/ -> project root -> db/)
 BASE_DIR = Path(__file__).parent.parent
@@ -83,9 +81,14 @@ class HybridLinker:
 
         # Build semantic index if enabled
         if self.use_semantic:
-            print("[Layer 3] Loading SentenceTransformer model...")
-            self.model = SentenceTransformer("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
-            self._build_semantic_index()
+            try:
+                print("[Layer 3] Loading SentenceTransformer model...")
+                from sentence_transformers import SentenceTransformer
+                self.model = SentenceTransformer("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+                self._build_semantic_index()
+            except Exception as e:
+                print(f"[WARNING] Failed to load SentenceTransformer: {e}. Semantic search (Layer 3) disabled.")
+                self.use_semantic = False
 
     def _load_references(self):
         """Load ICD-10 and RxNorm dictionaries from SQLite."""

@@ -136,17 +136,130 @@ Văn bản lâm sàng:
             })
         return phobert_entities
 
+    def split_text_into_chunks(self, text, max_words=150):
+        """
+        Cắt văn bản y khoa dài thành các đoạn nhỏ tại các ranh giới câu (., ;, \n)
+        để tránh LLM bị lười biếng trích xuất và tránh bị tràn ngữ cảnh.
+        """
+        chunks = []
+        pattern = re.compile(r'([^.;\n]*[.;\n]+|[^.;\n]+)')
+        
+        current_chunk = []
+        current_word_count = 0
+        chunk_start_char = 0
+        
+        for m in pattern.finditer(text):
+            sentence = m.group()
+            start_pos = m.start()
+            
+            words = sentence.split()
+            num_words = len(words)
+            
+            if current_word_count + num_words > max_words and current_chunk:
+                actual_start = chunk_start_char
+                actual_end = start_pos
+                chunks.append({
+                    "text": text[actual_start:actual_end],
+                    "start_offset": actual_start
+                })
+                current_chunk = [sentence]
+                current_word_count = num_words
+                chunk_start_char = start_pos
+            else:
+                current_chunk.append(sentence)
+                current_word_count += num_words
+                
+        if current_chunk:
+            chunks.append({
+                "text": text[chunk_start_char:],
+                "start_offset": chunk_start_char
+            })
+            
+        return chunks
+
+    def validate_and_align_positions(self, entities, original_text):
+        """
+        Kiểm tra và sửa lỗi vị trí ký tự của thực thể trích xuất.
+        Đảm bảo original_text[start:end] khớp chính xác với entity text.
+        Nếu lệch vị trí do LLM gán sai chỉ số, tự động dịch chuyển về vị trí đúng gần nhất.
+        Nếu từ bị ảo giác (không tồn tại trong văn bản gốc), tự động loại bỏ để tránh trừ điểm.
+        """
+        valid_entities = []
+        for ent in entities:
+            text = ent.get("text", "").strip()
+            if not text:
+                continue
+            pos = ent.get("position", [0, 0])
+            start, end = pos[0], pos[1]
+            
+            # 1. Kiểm tra xem vị trí hiện tại có khớp chính xác không
+            sub_text = original_text[start:end].strip()
+            if sub_text.lower() == text.lower():
+                ent["text"] = sub_text  # Đồng bộ hóa chữ hoa/thường chuẩn xác
+                valid_entities.append(ent)
+                continue
+                
+            # 2. Lệch vị trí: Tìm kiếm cụm từ đó trong toàn bộ văn bản gốc
+            matches = [m.start() for m in re.finditer(re.escape(text), original_text, re.IGNORECASE)]
+            if matches:
+                closest_start = min(matches, key=lambda x: abs(x - start))
+                new_end = closest_start + len(text)
+                ent["position"] = [closest_start, new_end]
+                ent["text"] = original_text[closest_start:new_end]
+                valid_entities.append(ent)
+                continue
+                
+            # 3. Lỗi vị trí lệch nhỏ (sai lệch lệch khoảng vài ký tự do khoảng trắng)
+            search_start = max(0, start - 20)
+            search_end = min(len(original_text), end + 20)
+            window_text = original_text[search_start:search_end]
+            
+            match_in_window = re.search(re.escape(text), window_text, re.IGNORECASE)
+            if match_in_window:
+                new_start = search_start + match_in_window.start()
+                new_end = new_start + len(text)
+                ent["position"] = [new_start, new_end]
+                ent["text"] = original_text[new_start:new_end]
+                valid_entities.append(ent)
+                continue
+                
+            print(f"⚠️ Đã loại bỏ thực thể ảo giác của LLM: '{text}' (không tìm thấy trong văn bản gốc)")
+            
+        return valid_entities
+
     def process_document(self, text):
-        # 1. Extraction from LLM
-        llm_ents = self.run_llm_inference(text)
+        # Tách tài liệu thành các chunks nhỏ hơn để tối ưu hóa trích xuất
+        chunks = self.split_text_into_chunks(text, max_words=150)
         
-        # 2. Extraction from PhoBERT
-        phobert_ents = self.run_phobert_inference(text)
+        all_llm_ents = []
+        all_phobert_ents = []
         
-        # 3. Ensemble Merger (Align boundaries and assertions)
-        merged_ents = merge_entities(llm_ents, phobert_ents)
+        for chunk in chunks:
+            chunk_text = chunk["text"]
+            offset = chunk["start_offset"]
+            
+            # 1. Trích xuất LLM trên từng chunk
+            llm_ents = self.run_llm_inference(chunk_text)
+            for ent in llm_ents:
+                pos = ent.get("position", [0, 0])
+                ent["position"] = [pos[0] + offset, pos[1] + offset]
+                all_llm_ents.append(ent)
+                
+            # 2. Trích xuất PhoBERT trên từng chunk (tránh bị cắt cụt do giới hạn max_length)
+            phobert_ents = self.run_phobert_inference(chunk_text)
+            for ent in phobert_ents:
+                pos = ent.get("position", [0, 0])
+                ent["position"] = [pos[0] + offset, pos[1] + offset]
+                all_phobert_ents.append(ent)
+                
+        # 3. Xác thực vị trí và loại bỏ thực thể ảo giác
+        valid_llm_ents = self.validate_and_align_positions(all_llm_ents, text)
+        valid_phobert_ents = self.validate_and_align_positions(all_phobert_ents, text)
         
-        # 4. Database Linker (Inject ICD-10 & RxNorm codes)
+        # 4. Ensemble Merger (Đồng bộ hóa ranh giới thực thể và nhãn assertions)
+        merged_ents = merge_entities(valid_llm_ents, valid_phobert_ents)
+        
+        # 5. Database Linker (Ghi đè mã ICD-10 & RxNorm chính xác từ CSDL)
         for ent in merged_ents:
             etype = ent.get("type", "")
             if etype in ["CHẨN_ĐOÁN", "THUỐC"]:

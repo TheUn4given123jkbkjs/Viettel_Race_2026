@@ -4,14 +4,14 @@ Thư mục này chứa các mã nguồn chạy suy luận (Inference), chuẩn h
 
 ---
 
-## 📌 1. Chạy trên Kaggle (Môi trường nộp bài)
+## 📌 1. Chạy trên Môi trường Cloud (Colab, Kaggle, Runtimes)
 
-### 🌟 [run_kaggle_ensemble_inference.py](file:///D:/AI%20Race/Viettel_Race_2026/pipeline/run_kaggle_ensemble_inference.py)
-* **Vai trò:** Script chạy chính thức để nộp bài (đạt điểm cao nhất).
-* **Mô tả:** Chạy kết hợp cả **Qwen 2.5** (lấy ngữ cảnh & nhãn phụ) và **PhoBERT** (lấy ranh giới từ chính xác). Tự động tìm kiếm dữ liệu, chạy và đóng gói tệp `submission.zip` trên Kaggle.
+### 🌟 [run_ensemble_inference.py](file:///D:/AI%20Race/Viettel_Race_2026/pipeline/run_ensemble_inference.py)
+* **Vai trò:** Script chạy chính thức để tạo file nộp bài (đạt điểm cao nhất).
+* **Mô tả:** Chạy kết hợp cả **Qwen 2.5** (lấy ngữ cảnh & nhãn phụ) và **PhoBERT** (lấy ranh giới từ chính xác). Tự động quét tìm đường dẫn dữ liệu/mô hình và đóng gói tệp `submission.zip`.
 
-### 🏎️ [run_kaggle_inference.py](file:///D:/AI%20Race/Viettel_Race_2026/pipeline/run_kaggle_inference.py)
-* **Vai trò:** Script chạy đơn lẻ mô hình Qwen trên Kaggle.
+### 🏎️ [run_qwen_inference.py](file:///D:/AI%20Race/Viettel_Race_2026/pipeline/run_qwen_inference.py)
+* **Vai trò:** Script chạy đơn lẻ mô hình Qwen.
 * **Mô tả:** Chỉ chạy Qwen 2.5, không kết hợp PhoBERT (cho điểm thấp hơn bản Ensemble).
 
 ---

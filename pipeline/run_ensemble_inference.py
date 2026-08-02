@@ -1,5 +1,5 @@
 import os
-# Force single GPU usage to avoid bitsandbytes multi-GPU issues on Kaggle
+# Force single GPU usage to avoid bitsandbytes multi-GPU issues
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 import json
@@ -17,9 +17,9 @@ import numpy as np
 # Ensure UTF-8 printing
 sys.stdout.reconfigure(encoding='utf-8')
 
-# Install dependencies if not present (Kaggle cell fallback)
+# Install dependencies if not present
 # !pip install -U xformers --index-url https://download.pytorch.org/whl/cu121
-# !pip install "unsloth[kaggle-new] @ git+https://github.com/unslothai/unsloth.git"
+# !pip install unsloth
 # !pip install rapidfuzz sentence-transformers
 
 from unsloth import FastLanguageModel
@@ -175,34 +175,54 @@ class HybridLinker:
 
 
 # ==========================================
-# 2. AUTO-PATH DISCOVERY ON KAGGLE
+# 2. AUTO-PATH DISCOVERY
 # ==========================================
+# Search roots for local and cloud platforms
+search_roots = [Path("."), Path(".."), Path("/kaggle/input"), Path("/content")]
+
 # Find SQLite DB
-db_candidates = list(Path("/kaggle/input").rglob("medical_codes.db"))
-DB_PATH = str(db_candidates[0]) if db_candidates else "/kaggle/input/medical-db/medical_codes.db"
+db_candidates = []
+for root in search_roots:
+    if root.exists():
+        db_candidates.extend(list(root.rglob("medical_codes.db")))
+DB_PATH = str(db_candidates[0]) if db_candidates else "db/medical_codes.db"
 
 # Find Qwen adapter folder
-adapter_candidates = list(Path("/kaggle/input").rglob("adapter_config.json"))
-ADAPTER_PATH = str(adapter_candidates[0].parent) if adapter_candidates else "/kaggle/input/notebooks/bdragon1008/ai-gay/qwen2.5-7b-lora-adapter"
+adapter_candidates = []
+for root in search_roots:
+    if root.exists():
+        adapter_candidates.extend(list(root.rglob("adapter_config.json")))
+ADAPTER_PATH = str(adapter_candidates[0].parent) if adapter_candidates else "qwen2.5-7b-lora-adapter"
 
 # Find PhoBERT NER model folder (config.json has model_type == roberta)
 PHOBERT_MODEL_PATH = None
-configs = list(Path("/kaggle/input").rglob("config.json"))
-for cfg_path in configs:
-    try:
-        with open(cfg_path, "r") as f:
-            cfg = json.load(f)
-        if cfg.get("model_type") == "roberta" or "RobertaForTokenClassification" in cfg.get("architectures", []):
-            PHOBERT_MODEL_PATH = str(cfg_path.parent)
-            break
-    except Exception:
-        continue
+for root in search_roots:
+    if not root.exists(): continue
+    configs = list(root.rglob("config.json"))
+    for cfg_path in configs:
+        try:
+            with open(cfg_path, "r") as f:
+                cfg = json.load(f)
+            if cfg.get("model_type") == "roberta" or "RobertaForTokenClassification" in cfg.get("architectures", []):
+                PHOBERT_MODEL_PATH = str(cfg_path.parent)
+                break
+        except Exception:
+            continue
+    if PHOBERT_MODEL_PATH:
+        break
 
 # Find Input .txt files
-txt_candidates = list(Path("/kaggle/input").rglob("*.txt"))
-INPUT_TEST_DIR = str(txt_candidates[0].parent) if txt_candidates else "/kaggle/input/datasets/bdragon1008/test-input/input"
+INPUT_TEST_DIR = "input"
+for root in search_roots:
+    if not root.exists(): continue
+    txt_candidates = list(root.rglob("*.txt"))
+    # Filter out workspace files/logs
+    txt_candidates = [p for p in txt_candidates if "logs" not in str(p) and "Long_Logs" not in str(p)]
+    if txt_candidates:
+        INPUT_TEST_DIR = str(txt_candidates[0].parent)
+        break
 
-OUTPUT_TEST_DIR = "/kaggle/working/submission_output"
+OUTPUT_TEST_DIR = "submission_output"
 if os.path.exists(OUTPUT_TEST_DIR):
     shutil.rmtree(OUTPUT_TEST_DIR)
 os.makedirs(OUTPUT_TEST_DIR, exist_ok=True)
@@ -673,5 +693,5 @@ for idx, fpath in enumerate(txt_files):
 linker.close()
 
 # Package submission
-shutil.make_archive("/kaggle/working/submission", 'zip', OUTPUT_TEST_DIR)
-print("--> 🎉 Zip package created successfully at /kaggle/working/submission.zip!")
+shutil.make_archive("submission", 'zip', OUTPUT_TEST_DIR)
+print("--> 🎉 Zip package created successfully at submission.zip!")

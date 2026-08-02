@@ -4,6 +4,17 @@
 
 ---
 
+### 📌 LOG-20260802-V7.5: Khắc phục Lỗi Ghi đè Mã ICD-10/RxNorm & Kích hoạt Tìm kiếm Ngữ nghĩa
+* **Ngày thực hiện:** `2026-08-02 22:35:00 (UTC+7)`
+* **Lý do:** Phân tích nguyên nhân điểm số nộp bài Submission V4 cực thấp (8.4%) và sửa lỗi bỏ qua bộ chuẩn hóa mã `HybridLinker` khi LLM sinh mã ảo giác, đồng thời kích hoạt mặc định Layer 3 (Semantic Search) khi gộp kết quả.
+* **Cách khắc phục:**
+  * Sửa lỗi trong `run_kaggle_inference.py` để ép buộc `linker.link_entity` ghi đè mã CSDL chuẩn lên trên mã do LLM tự sinh.
+  * Sửa đổi `merge_submissions.py` kích hoạt mặc định `use_semantic=True` để giải quyết các trường hợp viết tắt như "G6PD" thông qua tìm kiếm vector.
+  * Đồng bộ các script được cập nhật vào `D:\AI Race\script\`.
+* **Chi tiết Log:** [LOG-20260802-V7.5-FIXING-CANDIDATES-OVERWRITE-BUG-AND-SEMANTIC-LINKING.md](file:///D:/AI%20Race/Long_Logs/LOG-20260802-V7.5-FIXING-CANDIDATES-OVERWRITE-BUG-AND-SEMANTIC-LINKING.md)
+
+---
+
 ### 📌 LOG-20260802-V7.4: Phân tích Xu hướng Hội tụ Epoch 1 & Thiết lập Siêu tham số Tối ưu cho Epoch 2
 * **Ngày thực hiện:** `2026-08-02 22:15:00 (UTC+7)`
 * **Lý do:** Phân tích đặc tính hội tụ Epoch 1 từ `trainer_state.json` để đưa ra các thiết lập và siêu tham số tối ưu (LR, scheduler, warmup, optimizer) cho huấn luyện tiếp nối (Continued Fine-tuning) Epoch 2.

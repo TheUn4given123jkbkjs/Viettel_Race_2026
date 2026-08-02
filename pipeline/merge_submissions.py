@@ -126,7 +126,7 @@ def main():
     print(f"Thư mục nguồn PhoBERT:      {PHOBERT_DIR}")
     print(f"Thư mục đích đầu ra:        {MERGED_DIR}")
     
-    linker = HybridLinker(use_semantic=False)
+    linker = HybridLinker(use_semantic=True)
     
     txt_files = sorted(list(INPUT_DIR.glob("*.txt")), key=lambda x: int(x.stem) if x.stem.isdigit() else 9999)
     print(f"\nTìm thấy {len(txt_files)} tệp văn bản. Bắt đầu gộp và đối chiếu...")

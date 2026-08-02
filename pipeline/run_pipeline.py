@@ -140,8 +140,8 @@ Văn bản lâm sàng:
     def split_text_into_chunks(self, text, max_words=120, overlap_words=30):
         """
         Cơ chế Cửa sổ trượt gối đầu (Overlap Sliding Window):
-        Cắt văn bản thành các đoạn tối đa max_words từ và tối đa 450 ký tự để tránh
-        tràn giới hạn 256 tokens của model.
+        Cắt văn bản thành các đoạn tối ưu sao cho độ dài token thực tế của mỗi đoạn
+        nằm dưới ngưỡng giới hạn (khoảng 240 tokens).
         """
         words_data = []
         # Tách từ kèm theo chỉ số ký tự để ánh xạ chính xác
@@ -153,41 +153,63 @@ Văn bản lâm sàng:
             })
             
         if not words_data:
-            return [{"text": text[:450] if len(text) > 450 else text, "start_offset": 0}]
+            return [{"text": text[:600] if len(text) > 600 else text, "start_offset": 0}]
             
         chunks = []
         total_words = len(words_data)
         start_idx = 0
+        has_tokenizer = hasattr(self, "phobert_tokenizer") and self.phobert_tokenizer is not None
         
         while start_idx < total_words:
-            # Tìm end_idx tối đa sao cho không vượt quá max_words và độ dài ký tự <= 450
             end_idx = start_idx
-            while end_idx < total_words:
-                next_end_idx = end_idx + 1
-                chunk_len = words_data[next_end_idx - 1]["end"] - words_data[start_idx]["start"]
-                if next_end_idx - start_idx > max_words or chunk_len > 450:
-                    break
-                end_idx = next_end_idx
+            
+            if has_tokenizer:
+                # Dùng tokenizer để kiểm tra số lượng token thực tế
+                while end_idx < total_words:
+                    next_end_idx = end_idx + 1
+                    char_start = words_data[start_idx]["start"]
+                    char_end = words_data[next_end_idx - 1]["end"]
+                    chunk_text = text[char_start:char_end]
+                    
+                    tokens = self.phobert_tokenizer.tokenize(chunk_text)
+                    # Giới hạn tối đa 240 tokens để chừa chỗ cho 2 tokens đặc biệt (<s> và </s>)
+                    if len(tokens) > 240:
+                        break
+                    end_idx = next_end_idx
+            else:
+                # Fallback nếu chưa load tokenizer (chế độ mock)
+                while end_idx < total_words:
+                    next_end_idx = end_idx + 1
+                    chunk_len = words_data[next_end_idx - 1]["end"] - words_data[start_idx]["start"]
+                    if next_end_idx - start_idx > max_words or chunk_len > 450:
+                        break
+                    end_idx = next_end_idx
                 
             if end_idx == start_idx:
-                # Nếu 1 từ đơn lẻ dài hơn 450 ký tự, buộc phải lấy từ đó
+                # Nếu 1 từ đơn lẻ quá dài, buộc phải lấy từ đó
                 end_idx = start_idx + 1
             
-            # Lấy vị trí ký tự bắt đầu và kết thúc của chunk
             char_start = words_data[start_idx]["start"]
             char_end = words_data[end_idx - 1]["end"]
             
             chunk_text = text[char_start:char_end]
-            if len(chunk_text) > 450:
+            # Nếu không có tokenizer và chuỗi quá dài, cắt bớt ký tự
+            if not has_tokenizer and len(chunk_text) > 450:
                 chunk_text = chunk_text[:450]
                 char_end = char_start + 450
+            elif has_tokenizer:
+                # Nếu có tokenizer nhưng từ đơn lẻ vẫn dài hơn 240 tokens, ta cắt chuỗi cho an toàn
+                tokens = self.phobert_tokenizer.tokenize(chunk_text)
+                if len(tokens) > 240:
+                    while len(chunk_text) > 10 and len(self.phobert_tokenizer.tokenize(chunk_text)) > 240:
+                        chunk_text = chunk_text[:-10]
+                    char_end = char_start + len(chunk_text)
                 
             chunks.append({
                 "text": chunk_text,
                 "start_offset": char_start
             })
             
-            # Dịch chuyển cửa sổ trượt: Tiến lên
             if end_idx == total_words:
                 break
             

@@ -4,6 +4,19 @@
 
 ---
 
+### 📌 LOG-20260802-V7.3: Làm sạch Tập tin Nộp bài V3 (Lọc ký tự đặc biệt) & Nâng cấp Suy luận Qwen lên V4.0 (Sliding Window & Repetition Penalty)
+* **Ngày thực hiện:** `2026-08-02 20:45:00 (UTC+7)`
+* **Lý do:** Khắc phục lỗi candidates chứa ký tự đặc biệt `*` / `†` kéo tụt điểm J_candidates của lượt nộp V3 xuống 3.54%, và gộp lặp từ để tránh lặp vô hạn. Nâng cấp code chạy Kaggle lên bản V4.0 hỗ trợ sliding window để tăng Recall trên văn bản dài.
+* **Cách khắc phục:**
+  * Sửa `hybrid_linker.py` để tự động loại bỏ các ký tự đặc biệt `*` và `†` khỏi candidate codes.
+  * Cập nhật `merge_submissions.py` để bổ sung cơ chế fallback giữ lại candidates thô (đã làm sạch) của Qwen khi tra cứu DB thất bại.
+  * Gộp và nén lại file nộp bài `output_merged_v1.zip` sạch sẽ, giải quyết triệt để vòng lặp lặp từ.
+  * Thiết lập và nâng cấp `run_kaggle_inference.py` lên V4.0 tích hợp Sliding Window và repetition penalty 1.15.
+  * Sao lưu các scripts quan trọng vào `D:\AI Race\script`.
+* **Chi tiết Log:** [LOG-20260802-V7.3-CLEANED-V3-SUBMISSION-AND-UPGRADED-V4-KAGGLE-INFERENCE.md](file:///D:/AI%20Race/Long_Logs/LOG-20260802-V7.3-CLEANED-V3-SUBMISSION-AND-UPGRADED-V4-KAGGLE-INFERENCE.md)
+
+---
+
 ### 📌 LOG-20260802-V6.7: Giải quyết Lỗi Chuẩn hóa Unicode NFD/NFC, Cân bằng Word Splitter, Khử Nhiễu Âm Tiết Đơn & Tiền xử lý Dính chữ
 * **Ngày thực hiện:** `2026-08-02 19:00:00 (UTC+7)`
 * **Lý do:** Khắc phục lỗi vỡ âm tiết do văn bản gốc dạng NFD, lệch word splitter làm dấu câu dính vào thực thể, tràn bộ đếm token gây lỗi CUDA, lọc nhiễu âm tiết đơn lẻ, và xử lý dính chữ lâm sàng (ví dụ "bịchảy").

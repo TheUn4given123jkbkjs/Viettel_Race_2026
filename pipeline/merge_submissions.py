@@ -175,6 +175,11 @@ def main():
                 if etype in ["CHẨN_ĐOÁN", "THUỐC"]:
                     text_val = cleaned.get("text")
                     codes = linker.link_entity(text_val, etype)
+                    if not codes:
+                        # Fallback to LLM's own candidate codes (clean '*' and '†')
+                        llm_codes = ent.get("candidates", [])
+                        if llm_codes:
+                            codes = [c.replace('*', '').replace('†', '').strip() for c in llm_codes if c]
                     cleaned["candidates"] = codes
                 else:
                     cleaned["candidates"] = []

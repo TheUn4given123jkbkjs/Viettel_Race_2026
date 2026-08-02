@@ -20,11 +20,13 @@ except ImportError:
     print("[INFO] rapidfuzz not installed. Using difflib fallback for fuzzy matching.")
 
 # Semantic search: optional
-# Safe check if installed without importing/loading DLLs to prevent crash
-import importlib.util
-HAS_TRANSFORMERS = importlib.util.find_spec("sentence_transformers") is not None
-if not HAS_TRANSFORMERS:
-    print("[INFO] sentence-transformers is not installed. Semantic search (Layer 3) disabled.")
+# Catch both ImportError (not installed) and ValueError (Keras 3 / tf-keras conflict)
+try:
+    from sentence_transformers import SentenceTransformer
+    HAS_TRANSFORMERS = True
+except (ImportError, ValueError) as e:
+    HAS_TRANSFORMERS = False
+    print(f"[INFO] sentence-transformers unavailable ({type(e).__name__}). Semantic search (Layer 3) disabled.")
 
 # Resolve paths relative to this script's location (pipeline/ -> project root -> db/)
 BASE_DIR = Path(__file__).parent.parent
@@ -81,14 +83,9 @@ class HybridLinker:
 
         # Build semantic index if enabled
         if self.use_semantic:
-            try:
-                print("[Layer 3] Loading SentenceTransformer model...")
-                from sentence_transformers import SentenceTransformer
-                self.model = SentenceTransformer("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
-                self._build_semantic_index()
-            except Exception as e:
-                print(f"[WARNING] Failed to load SentenceTransformer: {e}. Semantic search (Layer 3) disabled.")
-                self.use_semantic = False
+            print("[Layer 3] Loading SentenceTransformer model...")
+            self.model = SentenceTransformer("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
+            self._build_semantic_index()
 
     def _load_references(self):
         """Load ICD-10 and RxNorm dictionaries from SQLite."""
@@ -185,22 +182,23 @@ class HybridLinker:
         ref_names = self.icd_names if etype == "CHẨN_ĐOÁN" else self.rx_names
         ref_names_stripped = self.icd_names_stripped if etype == "CHẨN_ĐOÁN" else self.rx_names_stripped
 
+        codes = []
         # ── Layer 1: Exact Match ──
         if cleaned in ref_dict:
-            return [ref_dict[cleaned]]
-
-        # ── Layer 2: Fuzzy Match (with diacritics-stripped fallback) ──
-        best_code = self._fuzzy_match(cleaned, ref_names, ref_dict, ref_names_stripped)
-        if best_code:
-            return [best_code]
-
-        # ── Layer 3: Semantic Match ──
-        if self.use_semantic:
-            best_code = self._semantic_match(cleaned, etype, ref_names, ref_dict)
+            codes = [ref_dict[cleaned]]
+        else:
+            # ── Layer 2: Fuzzy Match (with diacritics-stripped fallback) ──
+            best_code = self._fuzzy_match(cleaned, ref_names, ref_dict, ref_names_stripped)
             if best_code:
-                return [best_code]
+                codes = [best_code]
+            # ── Layer 3: Semantic Match ──
+            elif self.use_semantic:
+                best_code = self._semantic_match(cleaned, etype, ref_names, ref_dict)
+                if best_code:
+                    codes = [best_code]
 
-        return []
+        # Clean codes: strip '*' and '†'
+        return [c.replace('*', '').replace('†', '').strip() for c in codes if c]
 
     def _fuzzy_match(self, query, ref_names, ref_dict, ref_names_stripped, threshold=80.0):
         """
@@ -251,6 +249,37 @@ class HybridLinker:
         if best_score >= threshold:
             return ref_dict[ref_names[best_idx]]
         return None
+
+    def check_type_override(self, text):
+        """
+        Checks if text matches any ICD-10 or RxNorm terms with similarity >= 95% (or exact match).
+        Returns (override_type, candidates) if found, else (None, []).
+        """
+        # 1. Check ICD-10 (CHẨN_ĐOÁN)
+        cleaned_icd = self._clean_text(text, "CHẨN_ĐOÁN")
+        if cleaned_icd:
+            if cleaned_icd in self.icd_dict:
+                code = self.icd_dict[cleaned_icd].replace('*', '').replace('†', '').strip()
+                return "CHẨN_ĐOÁN", [code]
+            
+            icd_code = self._fuzzy_match(cleaned_icd, self.icd_names, self.icd_dict, self.icd_names_stripped, threshold=95.0)
+            if icd_code:
+                code = icd_code.replace('*', '').replace('†', '').strip()
+                return "CHẨN_ĐOÁN", [code]
+                
+        # 2. Check RxNorm (THUỐC)
+        cleaned_rx = self._clean_text(text, "THUỐC")
+        if cleaned_rx:
+            if cleaned_rx in self.rx_dict:
+                code = self.rx_dict[cleaned_rx].replace('*', '').replace('†', '').strip()
+                return "THUỐC", [code]
+                
+            rx_code = self._fuzzy_match(cleaned_rx, self.rx_names, self.rx_dict, self.rx_names_stripped, threshold=95.0)
+            if rx_code:
+                code = rx_code.replace('*', '').replace('†', '').strip()
+                return "THUỐC", [code]
+                
+        return None, []
 
     def close(self):
         self.db_conn.close()

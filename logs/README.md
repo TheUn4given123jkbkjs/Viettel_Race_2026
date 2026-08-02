@@ -1,6 +1,19 @@
 # 📋 Nhật ký Thay đổi & Quyết định Dự án (Change Logs Index)
 
+### 📌 LOG-20260802-V6.6: Huấn luyện PhoBERT-Softmax & Sửa lỗi Tràn Token để sinh File Nộp bài
+
+* **Ngày thực hiện:** `2026-08-02 18:15:00 (UTC+7)`
+* **Lý do:** Hoàn tất huấn luyện mô hình PhoBERT-Softmax không CRF với bộ căn chỉnh subword BIO mới, chạy so sánh đối chiếu với ViDeBERTa-CRF và sửa lỗi tràn token (CUDA out of bounds) gây crash khi chạy thử nghiệm pipeline xử lý 100 văn bản thực tế.
+* **Cách khắc phục:**
+  * Huấn luyện thành công PhoBERT Softmax đạt F1-Score **`51.05%`** (Precision/Recall lệch chỉ `0.06%`).
+  * Thực hiện đánh giá word-level F1: PhoBERT Softmax mới đạt F1 **`51.73%`** (vượt trội +7.16% so với ViDeBERTa-CRF). Sử dụng checkpoint baseline tốt nhất `checkpoint-4630` (F1 `56.08%`) cho pipeline chính thức.
+  * Sửa lỗi CUDA assert trong `pipeline/run_pipeline.py` bằng cách đổi tokenizer về `"vinai/phobert-base"` và giảm kích thước cửa sổ trượt thành `max_words=120`, giới hạn độ dài ký tự chunk tối đa `450` ký tự.
+  * Thêm các điều kiện kiểm tra an toàn chống giá trị `None` ở các vị trí thực thể.
+  * Sinh thành công kết quả trích xuất cho 100 tệp văn bản trong `input_turn2_vong1/output/`.
+* **Chi tiết Log:** [LOG-20260802-V6.6-PHOBERT-SOFTMAX-TRAINING-AND-PIPELINE-SUBMISSION.md](file:///d:/record_by_me/Viettel_race/logs/LOG-20260802-V6.6-PHOBERT-SOFTMAX-TRAINING-AND-PIPELINE-SUBMISSION.md)
+
 ---
+
 
 ### 📌 LOG-20260801-V6.5: Báo cáo Khắc phục Lỗi Huấn luyện ViDeBERTa-CRF & Tối ưu hóa GPU
 

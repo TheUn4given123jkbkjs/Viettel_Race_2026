@@ -15,7 +15,8 @@ from transformers import (
     RobertaModel,
     DebertaV2PreTrainedModel,
     DebertaV2Model,
-    DataCollatorForTokenClassification
+    DataCollatorForTokenClassification,
+    AutoModelForTokenClassification
 )
 from tqdm import tqdm
 
@@ -171,11 +172,13 @@ def run_evaluation(model, dataset, tokenizer, collator, device, is_phobert=False
                 
                 label_ids = []
                 previous_word_idx = None
+                curr_label = 0
                 for w_id in word_ids:
                     if w_id is None:
                         label_ids.append(-100)
                     elif w_id != previous_word_idx:
                         label_ids.append(ner_tags[w_id])
+                        curr_label = ner_tags[w_id]
                     else:
                         label_ids.append(-100)
                     previous_word_idx = w_id
@@ -210,10 +213,7 @@ def run_evaluation(model, dataset, tokenizer, collator, device, is_phobert=False
                         label_ids.append(ner_tags[w_id])
                         curr_label = ner_tags[w_id]
                     else:
-                        if curr_label % 2 == 1:
-                            label_ids.append(curr_label + 1)
-                        else:
-                            label_ids.append(curr_label)
+                        label_ids.append(-100)
                     previous_word_idx = w_id
                 labels_list.append(label_ids)
             tokenized_inputs["labels"] = labels_list
@@ -236,7 +236,9 @@ def run_evaluation(model, dataset, tokenizer, collator, device, is_phobert=False
         labels = collated["labels"].cpu().numpy()
         
         with torch.no_grad():
-            logits = model(input_ids=input_ids, attention_mask=attention_mask)
+            outputs = model(input_ids=input_ids, attention_mask=attention_mask)
+            # Handle standard AutoModelForTokenClassification output vs CRF wrapper
+            logits = outputs.logits if hasattr(outputs, "logits") else outputs
             predictions = np.argmax(logits.cpu().numpy(), axis=2)
             
         for prediction, label in zip(predictions, labels):
@@ -282,7 +284,7 @@ def main():
     # 1. Evaluate PhoBERT-CRF
     print("\n--- EVALUATING PHOBERT-CRF ---")
     phobert_tokenizer = AutoTokenizer.from_pretrained(PHOBERT_MODEL_DIR, use_fast=False)
-    phobert_model = PhobertCRFForTokenClassification.from_pretrained(
+    phobert_model = AutoModelForTokenClassification.from_pretrained(
         PHOBERT_MODEL_DIR,
         num_labels=len(LABEL_LIST),
         id2label=ID_TO_LABEL,

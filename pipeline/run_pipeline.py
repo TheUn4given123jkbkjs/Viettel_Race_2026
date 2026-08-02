@@ -60,7 +60,7 @@ class EndToEndPipeline:
         # Initialize PhoBERT Token Classification Pipeline (Placeholder for PhoBERT-base NER)
         if self.phobert_model_path and HAS_TORCH:
             print(f"Đang tải PhoBERT NER model từ: {self.phobert_model_path}...")
-            self.phobert_tokenizer = AutoTokenizer.from_pretrained(self.phobert_model_path, use_fast=False)
+            self.phobert_tokenizer = AutoTokenizer.from_pretrained("vinai/phobert-base", use_fast=False)
             self.phobert_model = AutoModelForTokenClassification.from_pretrained(self.phobert_model_path)
             self.phobert_pipeline = pipeline(
                 "ner",
@@ -129,18 +129,19 @@ Văn bản lâm sàng:
         results = self.phobert_pipeline(text)
         phobert_entities = []
         for ent in results:
-            phobert_entities.append({
-                "text": ent["word"],
-                "position": [ent["start"], ent["end"]],
-                "type": ent["entity_group"]
-            })
+            if ent.get("start") is not None and ent.get("end") is not None:
+                phobert_entities.append({
+                    "text": ent["word"],
+                    "position": [ent["start"], ent["end"]],
+                    "type": ent["entity_group"]
+                })
         return phobert_entities
 
-    def split_text_into_chunks(self, text, max_words=256, overlap_words=60):
+    def split_text_into_chunks(self, text, max_words=120, overlap_words=30):
         """
         Cơ chế Cửa sổ trượt gối đầu (Overlap Sliding Window):
-        Cắt văn bản thành các đoạn tối đa 256 từ, nhưng mỗi đoạn sau sẽ lấy gối đầu
-        60 từ của đoạn trước để mang theo ngữ cảnh (phủ định, lịch sử bệnh...).
+        Cắt văn bản thành các đoạn tối đa max_words từ và tối đa 450 ký tự để tránh
+        tràn giới hạn 256 tokens của model.
         """
         words_data = []
         # Tách từ kèm theo chỉ số ký tự để ánh xạ chính xác
@@ -152,28 +153,48 @@ Văn bản lâm sàng:
             })
             
         if not words_data:
-            return [{"text": text, "start_offset": 0}]
+            return [{"text": text[:450] if len(text) > 450 else text, "start_offset": 0}]
             
         chunks = []
         total_words = len(words_data)
         start_idx = 0
         
         while start_idx < total_words:
-            end_idx = min(start_idx + max_words, total_words)
+            # Tìm end_idx tối đa sao cho không vượt quá max_words và độ dài ký tự <= 450
+            end_idx = start_idx
+            while end_idx < total_words:
+                next_end_idx = end_idx + 1
+                chunk_len = words_data[next_end_idx - 1]["end"] - words_data[start_idx]["start"]
+                if next_end_idx - start_idx > max_words or chunk_len > 450:
+                    break
+                end_idx = next_end_idx
+                
+            if end_idx == start_idx:
+                # Nếu 1 từ đơn lẻ dài hơn 450 ký tự, buộc phải lấy từ đó
+                end_idx = start_idx + 1
             
             # Lấy vị trí ký tự bắt đầu và kết thúc của chunk
             char_start = words_data[start_idx]["start"]
             char_end = words_data[end_idx - 1]["end"]
             
+            chunk_text = text[char_start:char_end]
+            if len(chunk_text) > 450:
+                chunk_text = chunk_text[:450]
+                char_end = char_start + 450
+                
             chunks.append({
-                "text": text[char_start:char_end],
+                "text": chunk_text,
                 "start_offset": char_start
             })
             
-            # Dịch chuyển cửa sổ trượt: Tiến lên (max_words - overlap_words) từ
+            # Dịch chuyển cửa sổ trượt: Tiến lên
             if end_idx == total_words:
                 break
-            start_idx = end_idx - overlap_words
+            
+            next_start_idx = end_idx - overlap_words
+            if next_start_idx <= start_idx:
+                next_start_idx = start_idx + 1
+            start_idx = next_start_idx
             
         return chunks
 
@@ -229,7 +250,7 @@ Văn bản lâm sàng:
 
     def process_document(self, text):
         # Tách tài liệu thành các chunks nhỏ hơn để tối ưu hóa trích xuất
-        chunks = self.split_text_into_chunks(text, max_words=256, overlap_words=60)
+        chunks = self.split_text_into_chunks(text, max_words=120, overlap_words=30)
         
         all_llm_ents = []
         all_phobert_ents = []
@@ -241,16 +262,18 @@ Văn bản lâm sàng:
             # 1. Trích xuất LLM trên từng chunk
             llm_ents = self.run_llm_inference(chunk_text)
             for ent in llm_ents:
-                pos = ent.get("position", [0, 0])
-                ent["position"] = [pos[0] + offset, pos[1] + offset]
-                all_llm_ents.append(ent)
+                pos = ent.get("position")
+                if pos and isinstance(pos, list) and len(pos) >= 2 and pos[0] is not None and pos[1] is not None:
+                    ent["position"] = [pos[0] + offset, pos[1] + offset]
+                    all_llm_ents.append(ent)
                 
             # 2. Trích xuất PhoBERT trên từng chunk (tránh bị cắt cụt do giới hạn max_length)
             phobert_ents = self.run_phobert_inference(chunk_text)
             for ent in phobert_ents:
-                pos = ent.get("position", [0, 0])
-                ent["position"] = [pos[0] + offset, pos[1] + offset]
-                all_phobert_ents.append(ent)
+                pos = ent.get("position")
+                if pos and isinstance(pos, list) and len(pos) >= 2 and pos[0] is not None and pos[1] is not None:
+                    ent["position"] = [pos[0] + offset, pos[1] + offset]
+                    all_phobert_ents.append(ent)
                 
         # 3. Xác thực vị trí và loại bỏ thực thể ảo giác
         valid_llm_ents = self.validate_and_align_positions(all_llm_ents, text)

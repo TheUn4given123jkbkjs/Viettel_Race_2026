@@ -1,4 +1,4 @@
-from datasets import load_dataset, Dataset
+from datasets import Dataset
 import sys
 sys.stdout.reconfigure(encoding='utf-8')
 sys.stderr.reconfigure(encoding='utf-8')
@@ -6,106 +6,14 @@ import evaluate
 import os
 import json
 import torch
-import torch.nn as nn
 import numpy as np
-from torchcrf import CRF
 from transformers import (
     AutoTokenizer, 
     TrainingArguments, 
     Trainer,
     DataCollatorForTokenClassification,
-    RobertaPreTrainedModel,
-    RobertaModel
+    AutoModelForTokenClassification
 )
-from transformers.modeling_outputs import TokenClassifierOutput
-
-# Custom model class with CRF Layer
-class PhobertCRFForTokenClassification(RobertaPreTrainedModel):
-    _keys_to_ignore_on_load_unexpected = [r"pooler", r"lm_head"]
-
-    def __init__(self, config):
-        super().__init__(config)
-        self.num_labels = config.num_labels
-        self.roberta = RobertaModel(config, add_pooling_layer=False)
-        classifier_dropout = (
-            config.classifier_dropout if config.classifier_dropout is not None else config.hidden_dropout_prob
-        )
-        self.dropout = nn.Dropout(classifier_dropout)
-        self.classifier = nn.Linear(config.hidden_size, config.num_labels)
-        
-        # CRF Layer
-        self.crf = CRF(config.num_labels, batch_first=True)
-        
-        # Dynamic Class Weights placeholder
-        self.register_buffer("class_weights", torch.ones(config.num_labels))
-        
-        # Initialize weights
-        self.post_init()
-
-    def forward(
-        self,
-        input_ids=None,
-        attention_mask=None,
-        token_type_ids=None,
-        position_ids=None,
-        head_mask=None,
-        inputs_embeds=None,
-        labels=None,
-        output_attentions=None,
-        output_hidden_states=None,
-        return_dict=None,
-    ):
-        return_dict = return_dict if return_dict is not None else self.config.use_return_dict
-
-        outputs = self.roberta(
-            input_ids,
-            attention_mask=attention_mask,
-            token_type_ids=token_type_ids,
-            position_ids=position_ids,
-            head_mask=head_mask,
-            inputs_embeds=inputs_embeds,
-            output_attentions=output_attentions,
-            output_hidden_states=output_hidden_states,
-            return_dict=return_dict,
-        )
-
-        sequence_output = outputs[0]
-        sequence_output = self.dropout(sequence_output)
-        emissions = self.classifier(sequence_output)
-
-        loss = None
-        if labels is not None:
-            clean_labels = labels.clone()
-            clean_labels[clean_labels == -100] = 0
-            mask = attention_mask.bool()
-            # Minimize negative log-likelihood
-            loss = -self.crf(emissions, clean_labels, mask=mask, reduction='token_mean')
-
-        # During evaluation / inference, return dummy logits that map to the decoded CRF path
-        if not self.training:
-            mask = attention_mask.bool()
-            decoded_paths = self.crf.decode(emissions, mask=mask)
-            
-            batch_size, seq_len, num_labels = emissions.shape
-            logits = torch.zeros(batch_size, seq_len, num_labels, device=emissions.device)
-            for i, path in enumerate(decoded_paths):
-                for t, tag_id in enumerate(path):
-                    logits[i, t, tag_id] = 10.0
-                if len(path) < seq_len:
-                    logits[i, len(path):, 0] = 10.0
-        else:
-            logits = emissions
-
-        if not return_dict:
-            output = (logits,) + outputs[2:]
-            return ((loss,) + output) if loss is not None else output
-
-        return TokenClassifierOutput(
-            loss=loss,
-            logits=logits,
-            hidden_states=outputs.hidden_states,
-            attentions=outputs.attentions,
-        )
 
 # Path configuration
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -158,17 +66,22 @@ def tokenize_and_align_labels(examples):
             word_ids.extend([None] * (input_ids_len - len(word_ids)))
         
         previous_word_idx = None
+        curr_label = 0
         label_ids = []
         for word_idx in word_ids:
-            # Special tokens mapped to -100
+            # Special tokens mapped to -100 to ignore in loss calculation
             if word_idx is None:
                 label_ids.append(-100)
             # First subword token gets the actual label
             elif word_idx != previous_word_idx:
                 label_ids.append(label[word_idx])
-            # Subsequent subwords get -100
+                curr_label = label[word_idx]
+            # Subsequent subwords get corresponding tag to maintain valid transitions
             else:
-                label_ids.append(-100)
+                if curr_label % 2 == 1:
+                    label_ids.append(curr_label + 1)
+                else:
+                    label_ids.append(curr_label)
             previous_word_idx = word_idx
         labels.append(label_ids)
 
@@ -208,84 +121,33 @@ def main():
     val_dataset = Dataset.from_list(val_data)
 
     print("Tokenizing and aligning labels...")
-    # Process in batches
     train_tokenized = train_dataset.map(tokenize_and_align_labels, batched=True, remove_columns=["tokens", "ner_tags"])
     val_tokenized = val_dataset.map(tokenize_and_align_labels, batched=True, remove_columns=["tokens", "ner_tags"])
 
     print("Initializing model...")
-    model = PhobertCRFForTokenClassification.from_pretrained(
+    model = AutoModelForTokenClassification.from_pretrained(
         MODEL_NAME,
         num_labels=len(LABEL_LIST),
         id2label=ID_TO_LABEL,
         label2id=LABEL_TO_ID
     )
 
-    # Calculate class weights dynamically to handle class imbalance
-    print("Calculating class weights...")
-    label_counts = np.zeros(len(LABEL_LIST))
-    for item in train_data:
-        for tag in item["ner_tags"]:
-            if tag < len(LABEL_LIST):
-                label_counts[tag] += 1
-    label_counts = np.clip(label_counts, a_min=1.0, a_max=None)
-    weights = np.sum(label_counts) / (len(LABEL_LIST) * label_counts)
-    weights = weights / np.mean(weights)
-    
-    # Load class weights into the model
-    model.class_weights.copy_(torch.tensor(weights, dtype=torch.float32))
-    print("Loaded class weights:", {LABEL_LIST[i]: round(w, 4) for i, w in enumerate(weights)})
-
     data_collator = DataCollatorForTokenClassification(tokenizer)
-
-    # Configure custom optimizer with Layer-wise Learning Rate Decay (LLRD)
-    roberta_params = []
-    classifier_params = []
-    crf_params = []
-    
-    for name, param in model.named_parameters():
-        if "roberta" in name:
-            roberta_params.append(param)
-        elif "classifier" in name:
-            classifier_params.append(param)
-        elif "crf" in name:
-            crf_params.append(param)
-            
-    optimizer_grouped_parameters = [
-        {"params": roberta_params, "lr": 2e-5},
-        {"params": classifier_params, "lr": 1e-3},
-        {"params": crf_params, "lr": 5e-3},
-    ]
-    
-    optimizer = torch.optim.AdamW(optimizer_grouped_parameters, weight_decay=0.01)
-
-    # Configure custom Cosine Annealing scheduler
-    # We will pass optimizer and learning rate scheduler directly to Trainer
-    num_train_epochs = 10
-    batch_size = 16
-    steps_per_epoch = len(train_tokenized) // batch_size
-    num_training_steps = steps_per_epoch * num_train_epochs
-    
-    from transformers import get_cosine_schedule_with_warmup
-    scheduler = get_cosine_schedule_with_warmup(
-        optimizer,
-        num_warmup_steps=int(0.1 * num_training_steps),
-        num_training_steps=num_training_steps
-    )
 
     training_args = TrainingArguments(
         output_dir=os.path.join(DATA_DIR, "results"),
         eval_strategy="epoch",
-        learning_rate=2e-5,  # Dummy value, overridden by custom optimizer
-        per_device_train_batch_size=batch_size,
-        per_device_eval_batch_size=batch_size,
-        num_train_epochs=num_train_epochs,
+        learning_rate=5e-5,
+        per_device_train_batch_size=16,
+        per_device_eval_batch_size=16,
+        num_train_epochs=10,
         weight_decay=0.01,
         save_strategy="epoch",
         load_best_model_at_end=True,
         metric_for_best_model="f1",
         logging_steps=50,
-        report_to="none",  # Disable wandb/tensorboard logging for clean output
-        fp16=torch.cuda.is_available()
+        fp16=torch.cuda.is_available(),
+        report_to="none"
     )
 
     trainer = Trainer(
@@ -295,17 +157,11 @@ def main():
         eval_dataset=val_tokenized,
         processing_class=tokenizer,
         data_collator=data_collator,
-        compute_metrics=compute_metrics,
-        optimizers=(optimizer, scheduler)  # Pass custom optimizer and scheduler
+        compute_metrics=compute_metrics
     )
 
-    checkpoint_path = os.path.join(DATA_DIR, "results", "checkpoint-926")
-    if os.path.exists(checkpoint_path):
-        print(f"Resuming training from checkpoint: {checkpoint_path}")
-        trainer.train(resume_from_checkpoint=checkpoint_path)
-    else:
-        print("Starting training from scratch...")
-        trainer.train()
+    print("Starting training from scratch...")
+    trainer.train()
 
     print(f"Saving best model to {OUTPUT_MODEL_DIR}...")
     trainer.save_model(OUTPUT_MODEL_DIR)

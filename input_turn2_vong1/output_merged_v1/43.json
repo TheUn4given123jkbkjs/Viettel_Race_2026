@@ -12,16 +12,6 @@
     ]
   },
   {
-    "text": "mãn tính",
-    "position": [
-      80,
-      88
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "tăng cholesterol máu đơn thuần",
     "position": [
       95,
@@ -43,32 +33,6 @@
     "assertions": [],
     "candidates": [
       "I10"
-    ]
-  },
-  {
-    "text": "gleevec",
-    "position": [
-      190,
-      197
-    ],
-    "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": []
-  },
-  {
-    "text": "allopurinol",
-    "position": [
-      239,
-      250
-    ],
-    "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "519"
     ]
   },
   {
@@ -96,16 +60,6 @@
     "position": [
       847,
       854
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "ảo giác",
-    "position": [
-      1872,
-      1879
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

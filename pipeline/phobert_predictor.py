@@ -113,8 +113,13 @@ def clean_and_validate_entity(text_nfd, start_nfd, end_nfd, ent_type):
     if not text:
         return None
         
-    # 2. Cắt bỏ tiền tố ngữ pháp thừa (lặp cho đến khi hết)
-    prefixes = ["là ", "là ", "bị ", "bị ", "và ", "và ", "thì ", "thì ", "bởi ", "bởi ", "do "]
+    # 2. Cắt bỏ tiền tố ngữ pháp và tiền tố hành động y khoa (lặp cho đến khi hết)
+    prefixes = [
+        "là ", "là ", "bị ", "bị ", "và ", "và ", "thì ", "thì ", "bởi ", "bởi ", "do ",
+        "đã thực hiện ", "đã thực hiện ", "thực hiện ", "thực hiện ", 
+        "tiến hành ", "tiến hành ", "đã chụp ", "đã chụp ", "chụp ", "chụp ", 
+        "đã làm ", "đã làm ", "kết quả ", "kết quả "
+    ]
     modified = True
     while modified:
         modified = False
@@ -125,6 +130,46 @@ def clean_and_validate_entity(text_nfd, start_nfd, end_nfd, ent_type):
                 text = text_nfd[start_nfd:end_nfd].strip()
                 modified = True
                 break
+                
+    # 2b. Cắt bỏ hậu tố ngày tháng / thời gian
+    date_patterns = [
+        r"\s+vào\s+ngày\s+\[?ngày\]?",
+        r"\s+vào\s+ngày\s+\d+/\d+/\d+",
+        r"\s+vào\s+ngày\s+\d+-\d+-\d+",
+        r"\s+ngày\s+\[?ngày\]?",
+        r"\s+ngày\s+\d+/\d+/\d+",
+        r"\s+ngày\s+\d+-\d+-\d+",
+        r"\s+vào\s+ngày\s+.*$"
+    ]
+    modified = True
+    while modified:
+        modified = False
+        text_lower = text.lower()
+        for pat in date_patterns:
+            match = re.search(pat, text_lower)
+            if match:
+                match_start = match.start()
+                cut_len = len(text) - match_start
+                end_nfd -= cut_len
+                text = text_nfd[start_nfd:end_nfd].strip()
+                modified = True
+                break
+                
+    # 2c. Tự động sửa loại thực thể (Type Correction) dựa trên từ khóa đặc trưng
+    test_keywords = {
+        "cholangiogram", "sinh thiết", "siêu âm", "chụp x-quang", "chụp xquang", 
+        "x-quang", "điện tâm đồ", "ecg", "xét nghiệm máu", "cấy máu", "cấy nước tiểu",
+        "chụp x quang", "lấy mẫu bằng bàn chải"
+    }
+    text_clean = text.lower()
+    for kw in test_keywords:
+        if kw in text_clean:
+            ent_type = "TÊN_XÉT_NGHIỆM"
+            break
+            
+    # Tự động sửa triệu chứng đơn tiết phổ biến nếu nhãn bị gán sai
+    if text_clean in {"đau", "sốt", "ho", "ngứa", "nôn", "mệt", "ớn lạnh", "khó thở", "chóng mặt"}:
+        ent_type = "TRIỆU_CHỨNG"
                 
     # 3. Cắt bỏ hậu tố chỉ liều lượng thừa cho nhãn THUỐC
     if ent_type == "THUỐC":

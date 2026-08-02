@@ -10,16 +10,6 @@
     "candidates": []
   },
   {
-    "text": "sạm",
-    "position": [
-      43,
-      46
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "Mẹ Đã tử vong",
     "position": [
       202,
@@ -61,18 +51,6 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "suboxone",
-    "position": [
-      517,
-      525
-    ],
-    "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
     "candidates": []
   }
 ]

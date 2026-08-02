@@ -10,16 +10,6 @@
     "candidates": []
   },
   {
-    "text": "đọng lipid",
-    "position": [
-      454,
-      464
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "Tăng huyết áp",
     "position": [
       716,
@@ -32,16 +22,6 @@
     "candidates": [
       "I10"
     ]
-  },
-  {
-    "text": "tháo đường",
-    "position": [
-      737,
-      747
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
   },
   {
     "text": "Đau thắt ngực ổn định",
@@ -74,26 +54,6 @@
     "candidates": []
   },
   {
-    "text": "Mệt",
-    "position": [
-      1356,
-      1359
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "nôn",
-    "position": [
-      1368,
-      1371
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "rung nhĩ",
     "position": [
       1561,
@@ -103,28 +63,6 @@
     "assertions": [
       "isHistorical"
     ],
-    "candidates": []
-  },
-  {
-    "text": "phẫu thuật cắt bỏ tuyến tiền liệt (u ác của tuyến tiền liệt)",
-    "position": [
-      1576,
-      1636
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": []
-  },
-  {
-    "text": "rung nhĩ",
-    "position": [
-      1826,
-      1834
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [],
     "candidates": []
   },
   {

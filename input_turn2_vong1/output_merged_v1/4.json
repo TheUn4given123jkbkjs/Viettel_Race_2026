@@ -10,30 +10,10 @@
     "candidates": []
   },
   {
-    "text": "nôn",
-    "position": [
-      78,
-      81
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "tiêu chảy",
     "position": [
       85,
       94
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "Nôn ra máu",
-    "position": [
-      118,
-      128
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -68,59 +48,5 @@
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
-  },
-  {
-    "text": "Nôn",
-    "position": [
-      1008,
-      1011
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "Nôn ra máu",
-    "position": [
-      1068,
-      1078
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "Nôn ra máu",
-    "position": [
-      1894,
-      1904
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "nôn",
-    "position": [
-      2125,
-      2128
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "levothyroxine",
-    "position": [
-      2704,
-      2717
-    ],
-    "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "10582"
-    ]
   }
 ]

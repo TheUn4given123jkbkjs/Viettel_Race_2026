@@ -14,6 +14,7 @@ sys.path.append(str(PIPELINE_DIR))
 
 from ensemble_merger import merge_entities
 from hybrid_linker import HybridLinker
+from phobert_predictor import clean_and_validate_entity
 
 def validate_and_align_positions(entities, original_text):
     valid_entities = []
@@ -161,13 +162,26 @@ def main():
         # Loại bỏ trùng lặp ranh giới và nhãn
         merged_ents = deduplicate_entities(merged_ents)
         
-        # Ánh xạ mã ICD-10 và RxNorm từ CSDL chuẩn hóa
+        # Ánh xạ mã ICD-10 và RxNorm từ CSDL chuẩn hóa + làm sạch thực thể nâng cao
+        cleaned_merged_ents = []
         for ent in merged_ents:
-            etype = ent.get("type", "")
-            if etype in ["CHẨN_ĐOÁN", "THUỐC"]:
-                text_val = ent.get("text", "")
-                codes = linker.link_entity(text_val, etype)
-                ent["candidates"] = codes
+            pos = ent.get("position", [0, 0])
+            cleaned = clean_and_validate_entity(text_orig, pos[0], pos[1], ent.get("type"))
+            if cleaned:
+                # Bảo toàn các trường thông tin bổ trợ như assertions
+                cleaned["assertions"] = ent.get("assertions", [])
+                
+                etype = cleaned.get("type")
+                if etype in ["CHẨN_ĐOÁN", "THUỐC"]:
+                    text_val = cleaned.get("text")
+                    codes = linker.link_entity(text_val, etype)
+                    cleaned["candidates"] = codes
+                else:
+                    cleaned["candidates"] = []
+                    
+                cleaned_merged_ents.append(cleaned)
+                
+        merged_ents = cleaned_merged_ents
                 
         # Ghi kết quả
         out_f = MERGED_DIR / f"{name}.json"

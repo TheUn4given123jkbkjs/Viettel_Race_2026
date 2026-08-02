@@ -8,41 +8,5 @@
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
-  },
-  {
-    "text": "acetaminophen",
-    "position": [
-      204,
-      217
-    ],
-    "type": "THUỐC",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": [
-      "161"
-    ]
-  },
-  {
-    "text": "nac",
-    "position": [
-      235,
-      238
-    ],
-    "type": "THUỐC",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": []
-  },
-  {
-    "text": "đay VÔ",
-    "position": [
-      622,
-      628
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [],
-    "candidates": []
   }
 ]

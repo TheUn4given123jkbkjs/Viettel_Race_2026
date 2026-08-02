@@ -1,25 +1,5 @@
 [
   {
-    "text": "ngứa",
-    "position": [
-      102,
-      106
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "tylenol",
-    "position": [
-      684,
-      691
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "đau bụng",
     "position": [
       809,
@@ -50,40 +30,10 @@
     "candidates": []
   },
   {
-    "text": "nôn",
-    "position": [
-      843,
-      846
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "nôn",
-    "position": [
-      1004,
-      1007
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "MÀY ĐAY VÔ CĂN",
     "position": [
       1161,
       1175
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "ệnh học chủ yếu là tình trạ",
-    "position": [
-      1301,
-      1335
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],

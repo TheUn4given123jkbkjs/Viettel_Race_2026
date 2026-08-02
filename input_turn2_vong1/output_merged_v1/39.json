@@ -1,25 +1,5 @@
 [
   {
-    "text": "tháo đường",
-    "position": [
-      124,
-      134
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "mệt mỏi",
-    "position": [
-      427,
-      434
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "Viêm phổi bệnh viện",
     "position": [
       557,
@@ -40,49 +20,9 @@
     "candidates": []
   },
   {
-    "text": "đau bụng",
-    "position": [
-      927,
-      935
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "đau",
-    "position": [
-      1191,
-      1194
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "ho",
-    "position": [
-      1506,
-      1508
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "phù phù",
     "position": [
       1544,
-      1551
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "phù",
-    "position": [
-      1548,
       1551
     ],
     "type": "TRIỆU_CHỨNG",
@@ -120,9 +60,9 @@
     "candidates": []
   },
   {
-    "text": "chụp x-quang ngực",
+    "text": "x-quang ngực",
     "position": [
-      1747,
+      1752,
       1764
     ],
     "type": "TÊN_XÉT_NGHIỆM",

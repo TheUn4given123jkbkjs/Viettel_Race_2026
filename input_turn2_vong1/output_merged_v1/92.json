@@ -32,28 +32,6 @@
     "candidates": []
   },
   {
-    "text": "vancozosyn",
-    "position": [
-      236,
-      246
-    ],
-    "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": []
-  },
-  {
-    "text": "bactrim",
-    "position": [
-      321,
-      328
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "sốt cao",
     "position": [
       407,
@@ -82,27 +60,5 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
-  },
-  {
-    "text": "Cefepim",
-    "position": [
-      1354,
-      1361
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "Vancomycin",
-    "position": [
-      1365,
-      1375
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": [
-      "11124"
-    ]
   }
 ]

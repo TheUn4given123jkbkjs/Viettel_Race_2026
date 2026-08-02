@@ -1,19 +1,5 @@
 [
   {
-    "text": "acetaminophen",
-    "position": [
-      171,
-      184
-    ],
-    "type": "THUỐC",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "161"
-    ]
-  },
-  {
     "text": "đau bụng ngày càng nặng",
     "position": [
       376,
@@ -34,62 +20,12 @@
     "candidates": []
   },
   {
-    "text": "ngứa",
-    "position": [
-      874,
-      878
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "đau",
-    "position": [
-      917,
-      920
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "nôn",
-    "position": [
-      1021,
-      1024
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "nôn",
-    "position": [
-      1036,
-      1039
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "bảng xét nghiệm viêm gan virus",
     "position": [
       2066,
       2096
     ],
     "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "siêu âm bụng có doppler âm tính âm tính",
-    "position": [
-      2243,
-      2282
-    ],
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   },

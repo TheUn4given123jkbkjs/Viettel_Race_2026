@@ -1,25 +1,5 @@
 [
   {
-    "text": "tiểu ít",
-    "position": [
-      73,
-      80
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "Phù",
-    "position": [
-      212,
-      215
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "Viêm cầu thận mạn",
     "position": [
       1102,
@@ -30,77 +10,5 @@
     "candidates": [
       "N03"
     ]
-  },
-  {
-    "text": "niệu 24h",
-    "position": [
-      1289,
-      1297
-    ],
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "phù",
-    "position": [
-      1561,
-      1564
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "Medrol",
-    "position": [
-      1642,
-      1648
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "Omez",
-    "position": [
-      1697,
-      1701
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "Furosemid",
-    "position": [
-      1741,
-      1750
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": [
-      "4603"
-    ]
-  },
-  {
-    "text": "đau",
-    "position": [
-      1908,
-      1911
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "Zestril",
-    "position": [
-      2007,
-      2014
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": []
   }
 ]

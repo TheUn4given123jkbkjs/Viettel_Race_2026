@@ -10,32 +10,10 @@
     "candidates": []
   },
   {
-    "text": "không phải dị ứng do thời tiết hay thức ăn",
-    "position": [
-      346,
-      388
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [
-      "isNegated"
-    ],
-    "candidates": []
-  },
-  {
     "text": "MÀY ĐAY VÔ CĂN",
     "position": [
       733,
       747
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "ệnh học chủ yếu là tình trạ",
-    "position": [
-      873,
-      907
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
@@ -51,26 +29,6 @@
     "assertions": [
       "isNegated"
     ],
-    "candidates": []
-  },
-  {
-    "text": "corticoid",
-    "position": [
-      1965,
-      1974
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "ều thấp",
-    "position": [
-      1977,
-      1986
-    ],
-    "type": "THUỐC",
-    "assertions": [],
     "candidates": []
   }
 ]

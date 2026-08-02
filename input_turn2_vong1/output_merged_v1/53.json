@@ -20,16 +20,6 @@
     "candidates": []
   },
   {
-    "text": "Torsemide",
-    "position": [
-      554,
-      563
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "Insulin glargine",
     "position": [
       604,
@@ -40,39 +30,5 @@
     "candidates": [
       "274783"
     ]
-  },
-  {
-    "text": "Rosuvastatin",
-    "position": [
-      735,
-      747
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": [
-      "301542"
-    ]
-  },
-  {
-    "text": "Carvedilol",
-    "position": [
-      803,
-      813
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": [
-      "20352"
-    ]
-  },
-  {
-    "text": "Creatinine",
-    "position": [
-      937,
-      947
-    ],
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "candidates": []
   }
 ]

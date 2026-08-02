@@ -30,39 +30,5 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
-  },
-  {
-    "text": "bumetanide",
-    "position": [
-      2178,
-      2188
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "vancomycin",
-    "position": [
-      2211,
-      2221
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": [
-      "11124"
-    ]
-  },
-  {
-    "text": "levofloxacin",
-    "position": [
-      2244,
-      2256
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": [
-      "82122"
-    ]
   }
 ]

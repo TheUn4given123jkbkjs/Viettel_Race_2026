@@ -50,26 +50,6 @@
     "candidates": []
   },
   {
-    "text": "ho",
-    "position": [
-      582,
-      584
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "sốt",
-    "position": [
-      613,
-      616
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "phù chi dưới",
     "position": [
       623,
@@ -78,69 +58,5 @@
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
-  },
-  {
-    "text": "phù",
-    "position": [
-      623,
-      626
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "ho",
-    "position": [
-      886,
-      888
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "sốt",
-    "position": [
-      912,
-      915
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "aspirin",
-    "position": [
-      1522,
-      1529
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": [
-      "1191"
-    ]
-  },
-  {
-    "text": "albuterolipratropium",
-    "position": [
-      1551,
-      1571
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "methylprednisolone",
-    "position": [
-      1597,
-      1615
-    ],
-    "type": "THUỐC",
-    "assertions": [],
-    "candidates": [
-      "6902"
-    ]
   }
 ]

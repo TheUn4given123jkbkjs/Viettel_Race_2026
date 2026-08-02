@@ -1,15 +1,5 @@
 [
   {
-    "text": "khó thở",
-    "position": [
-      35,
-      42
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "tăng huyết áp",
     "position": [
       82,
@@ -22,16 +12,6 @@
     "candidates": [
       "I10"
     ]
-  },
-  {
-    "text": "sốt",
-    "position": [
-      243,
-      246
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
   },
   {
     "text": "phù phổi cấp",
@@ -61,39 +41,13 @@
       347,
       360
     ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "HoHL",
-    "position": [
-      363,
-      367
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
     ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "phù",
-    "position": [
-      493,
-      496
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "sốt",
-    "position": [
-      504,
-      507
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I10"
+    ]
   },
   {
     "text": "Siêu âm doper tim",
@@ -116,16 +70,6 @@
     "candidates": []
   },
   {
-    "text": "chủ vừa",
-    "position": [
-      1140,
-      1147
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
     "text": "Tăng huyết áp",
     "position": [
       1235,
@@ -138,45 +82,5 @@
     "candidates": [
       "I10"
     ]
-  },
-  {
-    "text": "nôn",
-    "position": [
-      1630,
-      1633
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "Ngứa",
-    "position": [
-      1731,
-      1735
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "thân nhiều",
-    "position": [
-      1744,
-      1754
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "nôn",
-    "position": [
-      1828,
-      1831
-    ],
-    "type": "TRIỆU_CHỨNG",
-    "assertions": [],
-    "candidates": []
   }
 ]

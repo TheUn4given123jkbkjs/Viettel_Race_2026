@@ -4,6 +4,18 @@
 
 ---
 
+### 📌 LOG-20260803-V7.8: Phân tích & Khắc phục Điểm thấp (8.81% ➔ 9.73%) của Submission V6 & Giải pháp Ensemble Qwen+PhoBERT
+* **Ngày thực hiện:** `2026-08-03 00:45:00 (UTC+7)`
+* **Lý do:** Điều tra nguyên nhân điểm số nộp bài V6 trên Kaggle chỉ đạt 8.8140% (sau sửa đổi đạt 9.7334%), phân tích sâu các chỉ số (WER 88.13%, J_assertion 13.31%, J_candidates 5.45%) và triển khai bộ suy luận kết hợp (Ensemble).
+* **Cách khắc phục:**
+  * Xóa bỏ hoàn toàn logic đè nhãn `check_type_override` vì nó biến đổi các triệu chứng lâm sàng thuộc Chương R (như *khó thở*, *sốt*, *đau ngực*...) thành `CHẨN_ĐOÁN` do chúng nằm trong danh mục ICD-10 ➔ Gây mất điểm kép.
+  * Nâng cấp Linker bổ sung Tầng 1.5 Khớp chuỗi con (Substring match) và mở rộng từ điển viết tắt G6PD/THA để sửa lỗi bỏ sót các chẩn đoán ngắn dạng chung.
+  * Lập script `repair_submission_v6.py` sửa trực tiếp 78 lỗi đè nhãn triệu chứng và 41 mã ICD-10 trong tệp submission để nộp lại ngay lập tức, nâng điểm lên 9.73%.
+  * Viết script suy luận hợp nhất trên Kaggle [run_kaggle_ensemble_inference.py](file:///D:/AI%20Race/Viettel_Race_2026/pipeline/run_kaggle_ensemble_inference.py) nạp đồng thời Qwen (suy luận theo từ) và PhoBERT (NER BIO), giải quyết triệt để vấn đề mất Recall của Qwen đơn lẻ.
+* **Chi tiết Log:** [LOG-20260803-V7.8-DIAGNOSED-SUBMISSION-V6-LOW-SCORE-AND-REPAIRED.md](file:///D:/AI%20Race/Long_Logs/LOG-20260803-V7.8-DIAGNOSED-SUBMISSION-V6-LOW-SCORE-AND-REPAIRED.md)
+
+---
+
 ### 📌 LOG-20260802-V7.7: Điều chỉnh Độ dài Phân đoạn (Chunk Size) và Độ gối đầu (Overlap) Cửa sổ Trượt
 * **Ngày thực hiện:** `2026-08-02 22:50:00 (UTC+7)`
 * **Lý do:** Cải tiến độ phủ ngữ cảnh của thuật toán Cửa sổ trượt (Sliding Window) dựa trên số liệu thống kê độ dài câu thực tế nhằm tăng Recall, tránh mất thực thể ở ranh giới phân đoạn.

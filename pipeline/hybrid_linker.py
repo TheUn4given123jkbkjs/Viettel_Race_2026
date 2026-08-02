@@ -56,6 +56,11 @@ _SYNONYMS = {
     "viêm phổi":           "viêm phổi",
     "nhiễm trùng tiểu":    "nhiễm khuẩn đường tiết niệu",
     "nhiễm trùng tiết niệu": "nhiễm khuẩn đường tiết niệu",
+    # G6PD & THA
+    "g6pd":                "thiếu máu do thiếu men glucose-6-phosphate dehydrogenase",
+    "thiếu men g6pd":      "thiếu máu do thiếu men glucose-6-phosphate dehydrogenase",
+    "thieu men g6pd":      "thiếu máu do thiếu men glucose-6-phosphate dehydrogenase",
+    "tha":                 "tăng huyết áp",
 }
 
 # Prefix patterns stripped from ICD formal names to normalize DB keys
@@ -187,15 +192,25 @@ class HybridLinker:
         if cleaned in ref_dict:
             codes = [ref_dict[cleaned]]
         else:
-            # ── Layer 2: Fuzzy Match (with diacritics-stripped fallback) ──
-            best_code = self._fuzzy_match(cleaned, ref_names, ref_dict, ref_names_stripped)
-            if best_code:
-                codes = [best_code]
-            # ── Layer 3: Semantic Match ──
-            elif self.use_semantic:
-                best_code = self._semantic_match(cleaned, etype, ref_names, ref_dict)
+            # ── Layer 1.5: Substring / Prefix Match ──
+            matched_ref = None
+            for ref_name in ref_names:
+                if len(cleaned) >= 3 and (cleaned in ref_name or ref_name in cleaned):
+                    matched_ref = ref_name
+                    break
+            
+            if matched_ref:
+                codes = [ref_dict[matched_ref]]
+            else:
+                # ── Layer 2: Fuzzy Match (with diacritics-stripped fallback) ──
+                best_code = self._fuzzy_match(cleaned, ref_names, ref_dict, ref_names_stripped)
                 if best_code:
                     codes = [best_code]
+                # ── Layer 3: Semantic Match ──
+                elif self.use_semantic:
+                    best_code = self._semantic_match(cleaned, etype, ref_names, ref_dict)
+                    if best_code:
+                        codes = [best_code]
 
         # Clean codes: strip '*' and '†'
         return [c.replace('*', '').replace('†', '').strip() for c in codes if c]

@@ -4,6 +4,18 @@
 
 ---
 
+### 📌 LOG-20260802-V7.4: Phân tích Xu hướng Hội tụ Epoch 1 & Thiết lập Siêu tham số Tối ưu cho Epoch 2
+* **Ngày thực hiện:** `2026-08-02 22:15:00 (UTC+7)`
+* **Lý do:** Phân tích đặc tính hội tụ Epoch 1 từ `trainer_state.json` để đưa ra các thiết lập và siêu tham số tối ưu (LR, scheduler, warmup, optimizer) cho huấn luyện tiếp nối (Continued Fine-tuning) Epoch 2.
+* **Cách khắc phục:**
+  * Viết script `analyze_trainer_state.py` để phân tích độ hội tụ Epoch 1 (Loss giảm 72.85%, grad norm ổn định < 0.40).
+  * Điều chỉnh `learning_rate` xuống `5e-5` (tránh quên kiến thức cũ), dùng `cosine` scheduler và `warmup_ratio=0.03`.
+  * Đổi bộ tối ưu sang `paged_adamw_8bit` chống tràn VRAM.
+  * Cập nhật script `train_epoch2_colab.py` theo cấu hình trên và đồng bộ hóa đường dẫn Drive.
+* **Chi tiết Log:** [LOG-20260802-V7.4-ANALYSIS-OF-TRAINING-TRENDS-AND-EPOCH2-HYPERPARAMETERS.md](file:///D:/AI%20Race/Long_Logs/LOG-20260802-V7.4-ANALYSIS-OF-TRAINING-TRENDS-AND-EPOCH2-HYPERPARAMETERS.md)
+
+---
+
 ### 📌 LOG-20260802-V7.3: Làm sạch Tập tin Nộp bài V3 (Lọc ký tự đặc biệt) & Nâng cấp Suy luận Qwen lên V4.0 (Sliding Window & Repetition Penalty)
 * **Ngày thực hiện:** `2026-08-02 20:45:00 (UTC+7)`
 * **Lý do:** Khắc phục lỗi candidates chứa ký tự đặc biệt `*` / `†` kéo tụt điểm J_candidates của lượt nộp V3 xuống 3.54%, và gộp lặp từ để tránh lặp vô hạn. Nâng cấp code chạy Kaggle lên bản V4.0 hỗ trợ sliding window để tăng Recall trên văn bản dài.

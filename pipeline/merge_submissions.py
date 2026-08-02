@@ -71,6 +71,46 @@ def validate_and_align_positions(entities, original_text):
         
     return valid_entities
 
+def deduplicate_entities(entities):
+    """
+    Loại bỏ các thực thể trùng lặp hoàn toàn (cùng vị trí và nhãn)
+    hoặc trùng vị trí nhưng khác nhãn (chỉ giữ lại nhãn có độ ưu tiên cao hơn).
+    """
+    type_priority = {
+        "CHẨN_ĐOÁN": 5,
+        "THUỐC": 4,
+        "TRIỆU_CHỨNG": 3,
+        "TÊN_XÉT_NGHIỆM": 2,
+        "KẾT_QUẢ_XÉT_NGHIỆM": 1
+    }
+    
+    seen = {}
+    for ent in entities:
+        pos = ent.get("position", [0, 0])
+        key = (pos[0], pos[1])
+        
+        if key not in seen:
+            seen[key] = ent
+        else:
+            existing_ent = seen[key]
+            existing_type = existing_ent.get("type", "")
+            current_type = ent.get("type", "")
+            
+            p_existing = type_priority.get(existing_type, 0)
+            p_current = type_priority.get(current_type, 0)
+            
+            if p_current > p_existing:
+                seen[key] = ent
+            elif p_current == p_existing:
+                existing_cands = existing_ent.get("candidates", [])
+                current_cands = ent.get("candidates", [])
+                if len(current_cands) > len(existing_cands):
+                    seen[key] = ent
+                    
+    deduped_list = list(seen.values())
+    deduped_list.sort(key=lambda x: x.get("position", [0, 0])[0])
+    return deduped_list
+
 def main():
     INPUT_DIR = BASE_DIR / "input_turn2_vong1" / "input"
     QWEN_DIR = BASE_DIR / "finetune_qwen_7b" / "submissionv3"
@@ -117,6 +157,9 @@ def main():
         
         # Merge thực thể (Ensemble Merger)
         merged_ents = merge_entities(valid_qwen, phobert_ents)
+        
+        # Loại bỏ trùng lặp ranh giới và nhãn
+        merged_ents = deduplicate_entities(merged_ents)
         
         # Ánh xạ mã ICD-10 và RxNorm từ CSDL chuẩn hóa
         for ent in merged_ents:

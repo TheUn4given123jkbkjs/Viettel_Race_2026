@@ -1,0 +1,56 @@
+[
+  {
+    "text": "MÀY đay VÔ CĂN",
+    "position": [
+      176,
+      190
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L23.8"
+    ]
+  },
+  {
+    "text": "đay vô căn hộ",
+    "position": [
+      1026,
+      1039
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn ngủ",
+    "position": [
+      1130,
+      1138
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "hệ sau",
+    "position": [
+      1142,
+      1148
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hệ 1",
+    "position": [
+      1152,
+      1156
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

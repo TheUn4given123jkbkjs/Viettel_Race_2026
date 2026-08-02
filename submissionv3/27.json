@@ -1,0 +1,66 @@
+[
+  {
+    "text": "viêm phổi",
+    "position": [
+      20,
+      29
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04"
+    ]
+  },
+  {
+    "text": "áp-xe phổi",
+    "position": [
+      2255,
+      2265
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85"
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1488,
+      1495
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn mờ",
+    "position": [
+      1560,
+      1567
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù gai thị",
+    "position": [
+      1909,
+      1920
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tăng nhãn áp",
+    "position": [
+      2114,
+      2126
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "text": "Phù phổi cấp",
+    "position": [
+      1040,
+      1052
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I26.0"
+    ]
+  },
+  {
+    "text": "Suy tim",
+    "position": [
+      1054,
+      1061
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I50.9"
+    ]
+  },
+  {
+    "text": "Stent mạch vành",
+    "position": [
+      1063,
+      1078
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Y45.10",
+      "Y45.11",
+      "Y45.12"
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "position": [
+      1080,
+      1093
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "HoHL",
+    "position": [
+      110,
+      114
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Lactat",
+    "position": [
+      935,
+      941
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "0.8",
+    "position": [
+      943,
+      946
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

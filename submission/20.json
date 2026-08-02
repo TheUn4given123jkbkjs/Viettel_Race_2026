@@ -1,0 +1,104 @@
+[
+  {
+    "text": "compazine",
+    "position": [
+      1089,
+      1098
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "alevenhưng",
+    "position": [
+      1100,
+      1110
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "morpheinoral",
+    "position": [
+      1137,
+      1149
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lorazepam",
+    "position": [
+      1153,
+      1162
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6468"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      874,
+      882
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn ra thức ăn và dịch dạ dày, không có máu",
+    "position": [
+      884,
+      928
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Huyết áp:130/76 mmHg",
+    "position": [
+      830,
+      850
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mạch: 93 l/p",
+    "position": [
+      852,
+      864
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nhiệt độ : 36.3 độ C",
+    "position": [
+      866,
+      886
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "SPO2: 99 %",
+    "position": [
+      888,
+      898
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

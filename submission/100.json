@@ -1,0 +1,46 @@
+[
+  {
+    "text": "tiền sản giật",
+    "position": [
+      167,
+      180
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "mũi em thường xuyên có cục máu đông",
+    "position": [
+      292,
+      325
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đi tiêu ra máu",
+    "position": [
+      331,
+      345
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [
+      1012,
+      1019
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  }
+]

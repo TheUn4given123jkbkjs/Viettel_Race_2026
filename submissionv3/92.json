@@ -1,0 +1,114 @@
+[
+  {
+    "text": "viêm tủy xương mãn tính",
+    "position": [
+      18,
+      41
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M86.3"
+    ]
+  },
+  {
+    "text": "bàng quang thần kinh",
+    "position": [
+      45,
+      65
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N31.1"
+    ]
+  },
+  {
+    "text": "loét tì đè",
+    "position": [
+      102,
+      112
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N77.8*"
+    ]
+  },
+  {
+    "text": "vancozosyn",
+    "position": [
+      236,
+      246
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "bactrim",
+    "position": [
+      321,
+      328
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt cao",
+    "position": [
+      407,
+      414
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hạ huyết áp",
+    "position": [
+      466,
+      477
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm trùng huyết",
+    "position": [
+      497,
+      514
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.86"
+    ]
+  },
+  {
+    "text": "Cefepim",
+    "position": [
+      1354,
+      1361
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vancomycin",
+    "position": [
+      1365,
+      1375
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "11124"
+    ]
+  }
+]

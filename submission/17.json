@@ -1,0 +1,60 @@
+[
+  {
+    "text": "chảy máu chân răng",
+    "position": [
+      67,
+      85
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hôi miệng",
+    "position": [
+      229,
+      238
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm nha chu",
+    "position": [
+      738,
+      750
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K05.0"
+    ]
+  },
+  {
+    "text": "tiểu đường",
+    "position": [
+      1376,
+      1386
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E11.9"
+    ]
+  },
+  {
+    "text": "kháng histamin H1",
+    "position": [
+      1565,
+      1582
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "270798",
+      "270799",
+      "270800"
+    ]
+  }
+]

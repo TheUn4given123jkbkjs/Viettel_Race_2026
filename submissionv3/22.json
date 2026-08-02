@@ -1,0 +1,70 @@
+[
+  {
+    "text": "acetaminophen",
+    "position": [
+      171,
+      184
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "161"
+    ]
+  },
+  {
+    "text": "đau bụng ngày càng nặng",
+    "position": [
+      376,
+      399
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng men gan",
+    "position": [
+      642,
+      654
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.11"
+    ]
+  },
+  {
+    "text": "bảng xét nghiệm viêm gan virus",
+    "position": [
+      2066,
+      2096
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm bụng có doppler âm tính âm tính",
+    "position": [
+      2243,
+      2282
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "túi mật giãn nở rõ rệt",
+    "position": [
+      2319,
+      2341
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F11.98"
+    ]
+  }
+]

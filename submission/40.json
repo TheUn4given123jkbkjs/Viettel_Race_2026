@@ -1,0 +1,60 @@
+[
+  {
+    "text": "Đi ngoài phân đen",
+    "position": [
+      29,
+      46
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      50,
+      57
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Xuất huyết tiêu hóa theo dõi quá liều kháng vitamin K",
+    "position": [
+      864,
+      918
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K91.0"
+    ]
+  },
+  {
+    "text": "Van động mạch chủ cơ học",
+    "position": [
+      359,
+      383
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I09.0"
+    ]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [
+      1857,
+      1868
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2193"
+    ]
+  }
+]

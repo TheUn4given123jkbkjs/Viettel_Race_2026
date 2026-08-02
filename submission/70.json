@@ -1,0 +1,76 @@
+[
+  {
+    "text": "khó thở",
+    "position": [
+      219,
+      226
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "căng cứng vai trái",
+    "position": [
+      479,
+      498
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù chi dưới",
+    "position": [
+      605,
+      617
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "độ bão hòa oxy",
+    "position": [
+      1034,
+      1048
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "aspirin",
+    "position": [
+      1285,
+      1292
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  },
+  {
+    "text": "albuterolipratropium",
+    "position": [
+      1304,
+      1325
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "methylprednisolone",
+    "position": [
+      1343,
+      1361
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6902"
+    ]
+  }
+]

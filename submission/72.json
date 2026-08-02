@@ -1,0 +1,70 @@
+[
+  {
+    "text": "Rối loạn cảm xúc",
+    "position": [
+      478,
+      494
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F32.9"
+    ]
+  },
+  {
+    "text": "rối loạn lo âu",
+    "position": [
+      506,
+      520
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F41.9"
+    ]
+  },
+  {
+    "text": "suboxone",
+    "position": [
+      704,
+      712
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "69603"
+    ]
+  },
+  {
+    "text": "lạm dụng chất kích thích",
+    "position": [
+      931,
+      954
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ý định tự tử",
+    "position": [
+      803,
+      815
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lo âu",
+    "position": [
+      1002,
+      1007
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

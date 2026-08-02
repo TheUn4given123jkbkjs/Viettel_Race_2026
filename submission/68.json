@@ -1,0 +1,64 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [
+      136,
+      143
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      160,
+      167
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau hai bàn chân",
+    "position": [
+      305,
+      321
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đo sức bền cơ tim bằng đồng vị phóng xạ",
+    "position": [
+      439,
+      478
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "giảm chức năng tâm thu thất trái nghiêm trọng",
+    "position": [
+      519,
+      563
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Augmentin",
+    "position": [
+      939,
+      948
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "18711"
+    ]
+  }
+]

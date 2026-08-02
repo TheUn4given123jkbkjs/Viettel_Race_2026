@@ -1,0 +1,40 @@
+[
+  {
+    "text": "tăng bilirubin máu",
+    "position": [
+      48,
+      66
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "acetaminophen",
+    "position": [
+      204,
+      217
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "161"
+    ]
+  },
+  {
+    "text": "nac",
+    "position": [
+      235,
+      238
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "3355"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "text": "**********",
+    "position": [
+      79,
+      89
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2731982"
+    ]
+  },
+  {
+    "text": "tắc ống dẫn trứng",
+    "position": [
+      795,
+      812
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N80.0"
+    ]
+  },
+  {
+    "text": "ung thư cổ tử cung",
+    "position": [
+      875,
+      893
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D05.0"
+    ]
+  },
+  {
+    "text": "mụn trứng cá",
+    "position": [
+      1164,
+      1176
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1540,
+      1547
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      1845,
+      1854
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      1882,
+      1885
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  }
+]

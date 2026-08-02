@@ -202,13 +202,18 @@ def run_evaluation(model, dataset, tokenizer, collator, device, is_phobert=False
                 word_ids = tokenized_inputs.word_ids(batch_index=idx)
                 label_ids = []
                 previous_word_idx = None
+                curr_label = 0
                 for w_id in word_ids:
                     if w_id is None:
                         label_ids.append(-100)
                     elif w_id != previous_word_idx:
                         label_ids.append(ner_tags[w_id])
+                        curr_label = ner_tags[w_id]
                     else:
-                        label_ids.append(-100)
+                        if curr_label % 2 == 1:
+                            label_ids.append(curr_label + 1)
+                        else:
+                            label_ids.append(curr_label)
                     previous_word_idx = w_id
                 labels_list.append(label_ids)
             tokenized_inputs["labels"] = labels_list

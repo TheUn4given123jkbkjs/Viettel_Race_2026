@@ -290,6 +290,8 @@ def tokenize_and_align_labels(examples):
 
         previous_word_idx = None
 
+        curr_label = 0
+
         label_ids = []
 
         for word_idx in word_ids:
@@ -306,11 +308,19 @@ def tokenize_and_align_labels(examples):
 
                 label_ids.append(label[word_idx])
 
-            # Subsequent subwords get -100
+                curr_label = label[word_idx]
+
+            # Subsequent subwords get corresponding tag to maintain valid transitions
 
             else:
 
-                label_ids.append(-100)
+                if curr_label % 2 == 1:
+
+                    label_ids.append(curr_label + 1)
+
+                else:
+
+                    label_ids.append(curr_label)
 
             previous_word_idx = word_idx
 
@@ -449,9 +459,9 @@ def main():
 
         {"params": deberta_params, "lr": 2e-5},
 
-        {"params": classifier_params, "lr": 1e-3},
+        {"params": classifier_params, "lr": 1e-4},
 
-        {"params": crf_params, "lr": 5e-3},
+        {"params": crf_params, "lr": 2e-4},
 
     ]
 

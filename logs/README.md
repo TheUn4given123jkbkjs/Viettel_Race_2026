@@ -4,6 +4,18 @@
 
 ---
 
+### 📌 LOG-20260802-V7.6: Sửa lỗi Lệch chuẩn Unicode NFD/NFC & Thuật toán Căn chỉnh Thực thể Mờ (Fuzzy Substring Match)
+* **Ngày thực hiện:** `2026-08-02 22:40:00 (UTC+7)`
+* **Lý do:** Giải quyết hiện tượng bỏ qua thực thể (Skipped Entities) do lệch định dạng Unicode (NFC/NFD) trong 20% tệp dữ liệu test gốc và sự sai lệch chính tả/tiền tố từ sinh của LLM.
+* **Cách khắc phục:**
+  * Tích hợp cơ chế chuẩn hóa NFC tự động trong `find_closest_position` và `validate_and_align_positions`.
+  * Áp dụng SequenceMatcher để ánh xạ vị trí ký tự động ngược từ NFC về NFD gốc chính xác.
+  * Xây dựng bộ quét cửa sổ trượt mờ cục bộ ($\pm 80$ ký tự) lấy phân đoạn có tỷ lệ khớp cao nhất ($\ge 70\%$) và tự động sửa thực thể theo văn bản gốc.
+  * Đồng bộ các script được cập nhật vào `D:\AI Race\script\`.
+* **Chi tiết Log:** [LOG-20260802-V7.6-FIXING-UNICODE-ALIGNMENT-AND-FUZZY-SUBSTRING-MATCHING.md](file:///D:/AI%20Race/Long_Logs/LOG-20260802-V7.6-FIXING-UNICODE-ALIGNMENT-AND-FUZZY-SUBSTRING-MATCHING.md)
+
+---
+
 ### 📌 LOG-20260802-V7.5: Khắc phục Lỗi Ghi đè Mã ICD-10/RxNorm & Kích hoạt Tìm kiếm Ngữ nghĩa
 * **Ngày thực hiện:** `2026-08-02 22:35:00 (UTC+7)`
 * **Lý do:** Phân tích nguyên nhân điểm số nộp bài Submission V4 cực thấp (8.4%) và sửa lỗi bỏ qua bộ chuẩn hóa mã `HybridLinker` khi LLM sinh mã ảo giác, đồng thời kích hoạt mặc định Layer 3 (Semantic Search) khi gộp kết quả.

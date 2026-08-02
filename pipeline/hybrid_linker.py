@@ -26,7 +26,7 @@ except ImportError:
     HAS_TRANSFORMERS = False
     print("[INFO] sentence-transformers not installed. Semantic search (Layer 3) disabled.")
 
-BASE_DIR = Path("d:/record_by_me/Viettel_race")
+BASE_DIR = Path(__file__).resolve().parents[1]
 DB_PATH = BASE_DIR / "db" / "medical_codes.db"
 
 

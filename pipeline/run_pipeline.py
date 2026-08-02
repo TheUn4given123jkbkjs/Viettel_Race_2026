@@ -136,44 +136,44 @@ Văn bản lâm sàng:
             })
         return phobert_entities
 
-    def split_text_into_chunks(self, text, max_words=150):
+    def split_text_into_chunks(self, text, max_words=256, overlap_words=60):
         """
-        Cắt văn bản y khoa dài thành các đoạn nhỏ tại các ranh giới câu (., ;, \n)
-        để tránh LLM bị lười biếng trích xuất và tránh bị tràn ngữ cảnh.
+        Cơ chế Cửa sổ trượt gối đầu (Overlap Sliding Window):
+        Cắt văn bản thành các đoạn tối đa 256 từ, nhưng mỗi đoạn sau sẽ lấy gối đầu
+        60 từ của đoạn trước để mang theo ngữ cảnh (phủ định, lịch sử bệnh...).
         """
-        chunks = []
-        pattern = re.compile(r'([^.;\n]*[.;\n]+|[^.;\n]+)')
-        
-        current_chunk = []
-        current_word_count = 0
-        chunk_start_char = 0
-        
-        for m in pattern.finditer(text):
-            sentence = m.group()
-            start_pos = m.start()
-            
-            words = sentence.split()
-            num_words = len(words)
-            
-            if current_word_count + num_words > max_words and current_chunk:
-                actual_start = chunk_start_char
-                actual_end = start_pos
-                chunks.append({
-                    "text": text[actual_start:actual_end],
-                    "start_offset": actual_start
-                })
-                current_chunk = [sentence]
-                current_word_count = num_words
-                chunk_start_char = start_pos
-            else:
-                current_chunk.append(sentence)
-                current_word_count += num_words
-                
-        if current_chunk:
-            chunks.append({
-                "text": text[chunk_start_char:],
-                "start_offset": chunk_start_char
+        words_data = []
+        # Tách từ kèm theo chỉ số ký tự để ánh xạ chính xác
+        for m in re.finditer(r'\S+', text):
+            words_data.append({
+                "word": m.group(),
+                "start": m.start(),
+                "end": m.end()
             })
+            
+        if not words_data:
+            return [{"text": text, "start_offset": 0}]
+            
+        chunks = []
+        total_words = len(words_data)
+        start_idx = 0
+        
+        while start_idx < total_words:
+            end_idx = min(start_idx + max_words, total_words)
+            
+            # Lấy vị trí ký tự bắt đầu và kết thúc của chunk
+            char_start = words_data[start_idx]["start"]
+            char_end = words_data[end_idx - 1]["end"]
+            
+            chunks.append({
+                "text": text[char_start:char_end],
+                "start_offset": char_start
+            })
+            
+            # Dịch chuyển cửa sổ trượt: Tiến lên (max_words - overlap_words) từ
+            if end_idx == total_words:
+                break
+            start_idx = end_idx - overlap_words
             
         return chunks
 
@@ -229,7 +229,7 @@ Văn bản lâm sàng:
 
     def process_document(self, text):
         # Tách tài liệu thành các chunks nhỏ hơn để tối ưu hóa trích xuất
-        chunks = self.split_text_into_chunks(text, max_words=150)
+        chunks = self.split_text_into_chunks(text, max_words=256, overlap_words=60)
         
         all_llm_ents = []
         all_phobert_ents = []

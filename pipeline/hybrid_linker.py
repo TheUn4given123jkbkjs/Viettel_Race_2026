@@ -20,13 +20,14 @@ except ImportError:
     print("[INFO] rapidfuzz not installed. Using difflib fallback for fuzzy matching.")
 
 # Semantic search: optional
-# Catch both ImportError (not installed) and ValueError (Keras 3 / tf-keras conflict)
+# Safe spec check to see if sentence-transformers is installed without executing imports
+HAS_TRANSFORMERS = False
 try:
-    from sentence_transformers import SentenceTransformer
-    HAS_TRANSFORMERS = True
-except (ImportError, ValueError) as e:
-    HAS_TRANSFORMERS = False
-    print(f"[INFO] sentence-transformers unavailable ({type(e).__name__}). Semantic search (Layer 3) disabled.")
+    import importlib.util
+    if importlib.util.find_spec("sentence_transformers") is not None:
+        HAS_TRANSFORMERS = True
+except Exception:
+    pass
 
 # Resolve paths relative to this script's location (pipeline/ -> project root -> db/)
 BASE_DIR = Path(__file__).parent.parent
@@ -89,6 +90,7 @@ class HybridLinker:
         # Build semantic index if enabled
         if self.use_semantic:
             print("[Layer 3] Loading SentenceTransformer model...")
+            from sentence_transformers import SentenceTransformer
             self.model = SentenceTransformer("sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
             self._build_semantic_index()
 

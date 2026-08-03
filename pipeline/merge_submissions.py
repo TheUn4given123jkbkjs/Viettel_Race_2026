@@ -137,7 +137,7 @@ def deduplicate_entities(entities):
 
 def main():
     INPUT_DIR = BASE_DIR / "input_turn2_vong1" / "input"
-    QWEN_DIR = BASE_DIR / "finetune_qwen_7b" / "submissionv3"
+    QWEN_DIR = BASE_DIR / "pipeline" / "submission_list" / "submissionv3"
     PHOBERT_DIR = BASE_DIR / "input_turn2_vong1" / "output"
     MERGED_DIR = BASE_DIR / "input_turn2_vong1" / "output_merged_v1"
     MERGED_DIR.mkdir(parents=True, exist_ok=True)
@@ -149,7 +149,7 @@ def main():
     print(f"Thư mục nguồn PhoBERT:      {PHOBERT_DIR}")
     print(f"Thư mục đích đầu ra:        {MERGED_DIR}")
     
-    linker = HybridLinker(use_semantic=True)
+    linker = HybridLinker(use_semantic=False)
     
     txt_files = sorted(list(INPUT_DIR.glob("*.txt")), key=lambda x: int(x.stem) if x.stem.isdigit() else 9999)
     print(f"\nTìm thấy {len(txt_files)} tệp văn bản. Bắt đầu gộp và đối chiếu...")
@@ -222,4 +222,9 @@ def main():
     print("\n🎉 Gộp và ánh xạ CSDL cho 100 tệp thành công! Kết quả lưu tại: input_turn2_vong1/output_merged_v1")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)

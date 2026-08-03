@@ -1,9 +1,9 @@
 [
   {
-    "text": "đau đầu kéo dài",
+    "text": "bốc hỏa",
     "position": [
-      1047,
-      1062
+      264,
+      271
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -14,6 +14,16 @@
     "position": [
       1047,
       1054
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu kéo dài",
+    "position": [
+      1047,
+      1062
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -44,6 +54,26 @@
     "position": [
       1536,
       1547
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mờ mắt",
+    "position": [
+      1581,
+      1587
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1705,
+      1712
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

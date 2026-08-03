@@ -1,5 +1,25 @@
 [
   {
+    "text": "chóng mặt",
+    "position": [
+      224,
+      233
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      236,
+      243
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "Viêm hang vị sung huyết",
     "position": [
       743,
@@ -12,10 +32,10 @@
     ]
   },
   {
-    "text": "đau bụng cồn cào",
+    "text": "đau bụng",
     "position": [
       884,
-      900
+      892
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -45,6 +65,16 @@
     "text": "buồn nôn",
     "position": [
       944,
+      952
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      949,
       952
     ],
     "type": "TRIỆU_CHỨNG",

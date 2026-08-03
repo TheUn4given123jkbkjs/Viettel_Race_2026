@@ -12,6 +12,18 @@
     ]
   },
   {
+    "text": "mãn tính",
+    "position": [
+      80,
+      88
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D63.8"
+    ]
+  },
+  {
     "text": "tăng cholesterol máu đơn thuần",
     "position": [
       95,
@@ -24,10 +36,50 @@
     ]
   },
   {
+    "text": "thuần\nE",
+    "position": [
+      120,
+      127
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẩn ngứa",
+    "position": [
+      210,
+      218
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      482,
+      485
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "ảo giác",
     "position": [
       541,
       548
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      762,
+      765
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

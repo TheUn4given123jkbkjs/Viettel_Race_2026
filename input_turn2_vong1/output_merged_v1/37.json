@@ -30,6 +30,16 @@
     "candidates": []
   },
   {
+    "text": "ban đỏ",
+    "position": [
+      1087,
+      1093
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "chảy mủ",
     "position": [
       1095,
@@ -49,6 +59,18 @@
     "assertions": [],
     "candidates": [
       "K12.2"
+    ]
+  },
+  {
+    "text": "tế bào",
+    "position": [
+      1264,
+      1270
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G12.2"
     ]
   },
   {

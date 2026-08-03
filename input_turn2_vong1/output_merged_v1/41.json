@@ -52,10 +52,20 @@
     "candidates": []
   },
   {
-    "text": "đau ngực trái cấp tính",
+    "text": "đau ngực trái",
     "position": [
       1115,
-      1137
+      1128
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      1141,
+      1144
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

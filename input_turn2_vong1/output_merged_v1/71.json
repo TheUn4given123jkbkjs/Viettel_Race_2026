@@ -18,5 +18,27 @@
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
+  },
+  {
+    "text": "kháng vancomycin",
+    "position": [
+      392,
+      408
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "U83.0"
+    ]
+  },
+  {
+    "text": "nổi mẩn",
+    "position": [
+      632,
+      639
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   }
 ]

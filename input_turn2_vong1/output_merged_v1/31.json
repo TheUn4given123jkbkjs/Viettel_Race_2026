@@ -12,10 +12,32 @@
     ]
   },
   {
+    "text": "thừng tinh",
+    "position": [
+      597,
+      607
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "C63.10"
+    ]
+  },
+  {
     "text": "đau bụng vùng hạ sườn phải",
     "position": [
       958,
       984
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      958,
+      961
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

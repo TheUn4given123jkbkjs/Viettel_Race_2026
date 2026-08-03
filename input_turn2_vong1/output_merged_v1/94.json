@@ -12,10 +12,10 @@
     ]
   },
   {
-    "text": "đau bụng cồn cào",
+    "text": "đau bụng",
     "position": [
       184,
-      200
+      192
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -45,6 +45,16 @@
     "text": "buồn nôn",
     "position": [
       244,
+      252
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      249,
       252
     ],
     "type": "TRIỆU_CHỨNG",

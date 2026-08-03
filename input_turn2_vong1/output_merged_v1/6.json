@@ -1,9 +1,29 @@
 [
   {
+    "text": "giật",
+    "position": [
+      180,
+      184
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "đau đầu",
     "position": [
       711,
       718
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1001,
+      1008
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -20,6 +40,26 @@
     "candidates": []
   },
   {
+    "text": "mặt phải",
+    "position": [
+      1066,
+      1074
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "táo",
+    "position": [
+      1807,
+      1810
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "Cơn rối loạn ý thức thoáng qua",
     "position": [
       2128,
@@ -30,6 +70,16 @@
     "candidates": [
       "R05"
     ]
+  },
+  {
+    "text": "thích nhẹ",
+    "position": [
+      2447,
+      2456
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "WBC : 14.99 G/L",

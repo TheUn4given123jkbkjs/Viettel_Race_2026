@@ -1,5 +1,35 @@
 [
   {
+    "text": "mệt mỏi, vàng da",
+    "position": [
+      49,
+      65
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "run",
+    "position": [
+      303,
+      306
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi",
+    "position": [
+      448,
+      455
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "Anti HBe",
     "position": [
       584,
@@ -26,6 +56,26 @@
       635
     ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      741,
+      744
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiểu ít",
+    "position": [
+      763,
+      770
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   },
@@ -58,5 +108,17 @@
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
+  },
+  {
+    "text": "Vitamin 3B",
+    "position": [
+      2332,
+      2342
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "11258"
+    ]
   }
 ]

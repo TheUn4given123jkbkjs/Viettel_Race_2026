@@ -1,5 +1,17 @@
 [
   {
+    "text": "mãn tính",
+    "position": [
+      80,
+      88
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D63.8"
+    ]
+  },
+  {
     "text": "tăng lipid máu, không đặc hiệu",
     "position": [
       133,
@@ -10,6 +22,26 @@
     "candidates": [
       "E78.5"
     ]
+  },
+  {
+    "text": "nôn",
+    "position": [
+      873,
+      876
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nôn",
+    "position": [
+      884,
+      887
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "bạch cầu tăng",

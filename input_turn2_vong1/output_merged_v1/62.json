@@ -10,10 +10,20 @@
     "candidates": []
   },
   {
-    "text": "thiếu oxy",
+    "text": "ho, thiếu oxy",
     "position": [
-      248,
+      244,
       257
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [
+      353,
+      355
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -24,6 +34,16 @@
     "position": [
       379,
       415
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      379,
+      386
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -50,10 +70,60 @@
     "candidates": []
   },
   {
+    "text": "sốt",
+    "position": [
+      450,
+      453
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "tiêu chảy các thuốc",
     "position": [
       485,
       504
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [
+      689,
+      691
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      759,
+      762
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      794,
+      803
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hôi đêm",
+    "position": [
+      910,
+      917
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -76,6 +146,16 @@
       1572
     ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dưới phải",
+    "position": [
+      1679,
+      1688
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

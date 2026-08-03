@@ -1,5 +1,25 @@
 [
   {
+    "text": "tiểu ít",
+    "position": [
+      73,
+      80
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phù",
+    "position": [
+      212,
+      215
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "Viêm cầu thận mạn",
     "position": [
       1102,
@@ -10,5 +30,47 @@
     "candidates": [
       "N03"
     ]
+  },
+  {
+    "text": "thận mạn",
+    "position": [
+      1111,
+      1119
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N03"
+    ]
+  },
+  {
+    "text": "niệu 24h",
+    "position": [
+      1289,
+      1297
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù",
+    "position": [
+      1561,
+      1564
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      1908,
+      1911
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   }
 ]

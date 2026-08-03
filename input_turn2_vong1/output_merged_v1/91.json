@@ -34,6 +34,16 @@
     "candidates": []
   },
   {
+    "text": "sốt",
+    "position": [
+      532,
+      535
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "Không ớn lạnh",
     "position": [
       542,
@@ -55,6 +65,16 @@
     "assertions": [
       "isNegated"
     ],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      633,
+      636
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
     "candidates": []
   },
   {

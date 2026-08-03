@@ -31,29 +31,114 @@ BASE_DIR = Path(__file__).parent.parent
 DB_PATH = BASE_DIR / "db" / "medical_codes.db"
 
 # Vietnamese clinical synonym map: common terms -> formal ICD Vietnamese names
-# Key = common/abbreviated term; Value = normalized form closer to ICD DB entries
+# Key = common/abbreviated term (lowercase); Value = normalized form closer to ICD DB entries
 _SYNONYMS = {
-    # Diabetes
-    "tiểu đường":          "đái tháo đường",
-    "tieu duong":          "đái tháo đường",
-    "tiểu đường type 2":   "đái tháo đường không phụ thuộc insuline",
-    "tiểu đường type 1":   "đái tháo đường phụ thuộc insuline",
-    "tiểu đường tuýp 2":   "đái tháo đường không phụ thuộc insuline",
-    "tieu duong type 2":   "đái tháo đường không phụ thuộc insuline",
+    # === Diabetes ===
+    "tiểu đường":            "đái tháo đường",
+    "tieu duong":            "đái tháo đường",
+    "tiểu đường type 2":     "đái tháo đường không phụ thuộc insuline",
+    "tiểu đường típ 2":      "đái tháo đường không phụ thuộc insuline",
+    "tiểu đường tuýp 2":     "đái tháo đường không phụ thuộc insuline",
+    "tiểu đường type 1":     "đái tháo đường phụ thuộc insuline",
+    "tieu duong type 2":     "đái tháo đường không phụ thuộc insuline",
     "đái tháo đường type 2": "đái tháo đường không phụ thuộc insuline",
+    "đái tháo đường típ 2":  "đái tháo đường không phụ thuộc insuline",
     "đái tháo đường tuýp 2": "đái tháo đường không phụ thuộc insuline",
-    # Hypertension
-    "tăng huyết áp":       "tăng huyết áp",   # keep — DB key will be normalized
-    "tăng ha":             "tăng huyết áp",
-    "cao huyết áp":        "tăng huyết áp",
-    # Heart
-    "nhồi máu cơ tim":     "nhồi máu cơ tim cấp",
-    "tai biến":            "tai biến mạch máu não",
-    "đột quỵ":             "tai biến mạch máu não",
-    # Infections
-    "viêm phổi":           "viêm phổi",
-    "nhiễm trùng tiểu":    "nhiễm khuẩn đường tiết niệu",
+    # === Hypertension ===
+    "tăng huyết áp":         "tăng huyết áp",
+    "tăng ha":               "tăng huyết áp",
+    "cao huyết áp":          "tăng huyết áp",
+    # === Heart ===
+    "nhồi máu cơ tim":       "nhồi máu cơ tim cấp",
+    "tai biến":              "tai biến mạch máu não",
+    "đột quỵ":               "tai biến mạch máu não",
+    "rung nhĩ":              "rung và cuồng nhĩ",
+    "rung nhĩ và nhịp nhanh trên thất": "rung và cuồng nhĩ",
+    "suy tim":               "suy tim",
+    "suy tim sung huyết":    "suy tim sung huyết",
+    # === GI (Gastro) ===
+    "viêm bao tử":           "viêm dạ dày",
+    "viêm hang vị sung huyết": "viêm dạ dày",
+    "viêm hang vị":          "viêm dạ dày",
+    "viêm dạ dày":           "viêm dạ dày",
+    "trào ngược dạ dày":     "trào ngược dạ dày-thực quản",
+    "trào ngược":            "trào ngược dạ dày-thực quản",
+    "xơ gan":                "xơ gan",
+    "xơ gan mất bù":         "xơ gan",
+    "viêm gan":              "viêm gan",
+    # === Respiratory ===
+    "viêm phổi":             "viêm phổi",
+    "viêm phổi bệnh viện":   "viêm phổi do vi sinh vật khác",
+    "bệnh phổi kẽ":          "bệnh phổi kẽ khác",
+    "thuyên tắc phổi":       "thuyên tắc phổi",
+    "thuyên tắc phổi hai bên": "thuyên tắc phổi",
+    "tràn dịch màng phổi":   "tràn dịch màng phổi",
+    "tràn dịch màng phổi trái": "tràn dịch màng phổi",
+    "tràn dịch màng phổi phải": "tràn dịch màng phổi",
+    "ngưng thở khi ngủ":     "ngưng thở khi ngủ",
+    "áp-xe phổi":            "áp xe phổi",
+    "áp xe phổi":            "áp xe phổi",
+    # === Infections ===
+    "nhiễm trùng tiểu":      "nhiễm khuẩn đường tiết niệu",
     "nhiễm trùng tiết niệu": "nhiễm khuẩn đường tiết niệu",
+    "nhiễm trùng huyết":     "nhiễm khuẩn huyết",
+    "nhiễm virus herpes simplex": "nhiễm virus herpes",
+    "vi-rút dại":            "bệnh dại",
+    # === Skin ===
+    "mày đay vô căn":        "mày đay",
+    "mày đay mạn tính":      "mày đay",
+    "mày đay":               "mày đay",
+    "nấm bẹn":               "nấm da",
+    # === Musculoskeletal ===
+    "giả gout":              "viêm khớp do lắng đọng tinh thể",
+    # === Renal ===
+    "suy thận":              "suy thận",
+    "bệnh thận mạn":         "suy thận mạn tính",
+    "bàng quang thần kinh":  "rối loạn thần kinh-cơ của bàng quang",
+    # === Psych ===
+    "rối loạn lo âu":        "rối loạn lo âu",
+    "rối loạn cảm xúc":      "rối loạn cảm xúc",
+    # === Blood ===
+    "thiếu men g6pd":        "thiếu máu do rối loạn enzym",
+    # === Neuro ===
+    "cơn rối loạn ý thức thoáng qua": "rối loạn ý thức thoáng qua",
+    "đau nửa đầu":           "đau nửa đầu",
+    "bệnh lý đau nửa đầu":   "đau nửa đầu",
+    "phù gai thị":            "phù gai thị",
+    # === Oncology ===
+    "ung thư vú":            "u ác tuyến vú",
+    "ung thư vú di căn":     "u ác tuyến vú",
+    "ung thư":               "u ác",
+    "u nang tuyến vú":       "u lành tuyến vú",
+    # === Liver / Hepato ===
+    "tăng men gan":          "bệnh gan",
+    "tăng bilirubin máu":    "rối loạn chuyển hóa bilirubin",
+    # === Trauma ===
+    "tụ máu ngoài màng cứng":       "chấn thương nội sọ",
+    "tụ máu ngoài màng cứng phải":  "chấn thương nội sọ",
+    "tụ máu ngoài màng cứng trái":  "chấn thương nội sọ",
+    "loét tì đè":            "loét do tỳ đè",
+    "loét đè ép":             "loét do tỳ đè",
+    # === Gynecology ===
+    "tắc ống dẫn trứng":     "tắc vòi trứng",
+    "teo niêm mạc tử cung":  "viêm tử cung",
+    # === Urology ===
+    "giãn thừng tinh":       "giãn tĩnh mạch thừng tinh",
+    # === Vascular ===
+    "động mạch vành":        "bệnh tim do thiếu máu cục bộ mạn",
+    # === Endocrine ===
+    "bệnh graves":           "nhiễm độc giáp",
+    "graves":                "nhiễm độc giáp",
+    "cường giáp":            "nhiễm độc giáp",
+}
+
+# NER false-positive filter: texts commonly mis-tagged as THUỐC by NER models
+_DRUG_BLACKLIST = {
+    "hệ sau", "hệ 1", "hệ 2", "hệ trước", "bậc thấp", "bậc cao",
+    "tiêm", "tiêm vaccine", "tiêm chủng",
+    "thuốc chống trầm cảm", "thuốc giảm đau opioid",
+    "kháng histamin h1", "corticosteroid bôi tại chỗ",
+    "thuốc",  # generic "thuốc" alone is not a drug name
 }
 
 # Prefix patterns stripped from ICD formal names to normalize DB keys
@@ -153,12 +238,20 @@ class HybridLinker:
         """Normalize entity text before lookup."""
         text = text.lower().strip()
 
-        # Apply synonym expansion first (common clinical Vietnamese -> ICD names)
+        # Normalize Vietnamese type variants: típ/tuýp -> type (for synonym dict)
+        text = re.sub(r'\b(típ|tuýp|loại)\b', 'type', text)
+
+        # Strip parenthetical annotations: "bệnh X (loại Y)" -> "bệnh X"
+        text = re.sub(r'\s*\([^)]*\)\s*', ' ', text).strip()
+
+        # Apply synonym expansion (common clinical Vietnamese -> ICD names)
         text = _SYNONYMS.get(text, text)
 
         if etype == "THUỐC":
-            # Strip dosage info: 500mg, 10ml, 5mg/ml, 0.4 MG/ML etc.
-            text = re.sub(r'[\d.,]+\s*(mg|ml|mcg|g|iu|%)(/\s*(ml|kg|m2))?', '', text, flags=re.IGNORECASE)
+            # Strip dosage info: 500mg, 10ml, 5mg/ml, 2.5g, 0.4 MG/ML etc.
+            text = re.sub(r'[\d.,]+\s*(mg|ml|mcg|g|iu|%|viên|ống|gói)(/\s*(ml|kg|m2))?', '', text, flags=re.IGNORECASE)
+            # Strip stars/asterisks (masked data)
+            text = re.sub(r'\*+', '', text)
             text = re.sub(r'\s+', ' ', text).strip()
         elif etype == "CHẨN_ĐOÁN":
             # Strip common Vietnamese diagnostic prefixes from query
@@ -166,6 +259,8 @@ class HybridLinker:
                 r'^(bệnh nhân bị|bệnh lý|tiền sử bị|mắc bệnh|chẩn đoán|nghi ngờ|bệnh)\s+',
                 '', text
             )
+            # Strip trailing qualifiers: ", không đặc hiệu" etc.
+            text = re.sub(r',\s*(không đặc hiệu|không xác định|chưa xác định)$', '', text)
             text = re.sub(r'\s+', ' ', text).strip()
         return text
 
@@ -179,6 +274,10 @@ class HybridLinker:
 
         cleaned = self._clean_text(text, etype)
         if not cleaned:
+            return []
+
+        # Filter NER false positives for THUỐC
+        if etype == "THUỐC" and cleaned in _DRUG_BLACKLIST:
             return []
 
         ref_dict = self.icd_dict if etype == "CHẨN_ĐOÁN" else self.rx_dict
@@ -202,12 +301,13 @@ class HybridLinker:
 
         return []
 
-    def _fuzzy_match(self, query, ref_names, ref_dict, ref_names_stripped, threshold=80.0):
+    def _fuzzy_match(self, query, ref_names, ref_dict, ref_names_stripped, threshold=88.0):
         """
         Layer 2: Fuzzy string matching.
         Attempt 1: match original accented query against accented ref names.
         Attempt 2: strip diacritics from both query and ref names, then retry.
-        Threshold: 80% — balanced between recall and precision.
+        Threshold: 88% — high precision to avoid false positives (giang mai/lậu matching).
+        Relies on expanded _SYNONYMS dict for recall.
         """
         if HAS_RAPIDFUZZ:
             # Attempt 1: accented match

@@ -1,0 +1,88 @@
+[
+  {
+    "text": "sd",
+    "position": [
+      49,
+      51
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "**********",
+    "position": [
+      58,
+      68
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tắc ống dẫn trứng",
+    "position": [
+      757,
+      774
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.75"
+    ]
+  },
+  {
+    "text": "lạm dụng",
+    "position": [
+      776,
+      784
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1694,
+      1700
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "levafloxacin",
+    "position": [
+      1914,
+      1926
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "82122"
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      2232,
+      2241
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không sốt",
+    "position": [
+      2248,
+      2257
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  }
+]

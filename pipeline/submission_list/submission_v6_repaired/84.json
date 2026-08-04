@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Thuốc",
+    "position": [
+      28,
+      33
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Trichophyton rubrum",
+    "position": [
+      158,
+      177
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhiễm",
+    "position": [
+      564,
+      569
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tái phát",
+    "position": [
+      576,
+      584
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vi nấm",
+    "position": [
+      1128,
+      1134
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Không dùng chung đồ dùng cá nhân",
+    "position": [
+      1145,
+      1177
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "A60.00"
+    ]
+  }
+]

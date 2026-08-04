@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Viêm phổi bệnh viện",
+    "position": [
+      557,
+      576
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.16"
+    ]
+  },
+  {
+    "text": "rung nhĩ và nhịp nhanh trên thất",
+    "position": [
+      580,
+      612
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I47.1"
+    ]
+  },
+  {
+    "text": "phù phù",
+    "position": [
+      1544,
+      1551
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dịch thanh dịch lẫn máu từ vết mổ",
+    "position": [
+      1554,
+      1587
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phân nâu dương tính guaiac",
+    "position": [
+      1590,
+      1616
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết khối 26.3",
+    "position": [
+      1637,
+      1652
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp x-quang ngực",
+    "position": [
+      1747,
+      1764
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

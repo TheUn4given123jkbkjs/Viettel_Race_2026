@@ -1,0 +1,155 @@
+[
+  {
+    "text": "đau bao tử",
+    "position": [
+      113,
+      123
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.03"
+    ]
+  },
+  {
+    "text": "ổ loét trong bao tử",
+    "position": [
+      327,
+      346
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.03"
+    ]
+  },
+  {
+    "text": "tinh bột nghệ",
+    "position": [
+      578,
+      591
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "114477"
+    ]
+  },
+  {
+    "text": "không còn bị đau",
+    "position": [
+      646,
+      662
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "thai",
+    "position": [
+      778,
+      782
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Z30"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      1030,
+      1038
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R10"
+    ]
+  },
+  {
+    "text": "sỏi thận",
+    "position": [
+      1455,
+      1463
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "N20.0"
+    ]
+  },
+  {
+    "text": "viêm bao tử",
+    "position": [
+      1517,
+      1528
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.13"
+    ]
+  },
+  {
+    "text": "đang có thai",
+    "position": [
+      1543,
+      1555
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Simethicon",
+    "position": [
+      2118,
+      2128
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "34345"
+    ]
+  },
+  {
+    "text": "Pimperam: metoclopramide 10mg",
+    "position": [
+      2135,
+      2164
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đại tràng",
+    "position": [
+      2703,
+      2712
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bạch cầu",
+    "position": [
+      2813,
+      2821
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

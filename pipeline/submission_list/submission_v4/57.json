@@ -1,0 +1,114 @@
+[
+  {
+    "text": "Torsemide",
+    "position": [
+      224,
+      233
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "256"
+    ]
+  },
+  {
+    "text": "Insulin glargine",
+    "position": [
+      274,
+      290
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "274783"
+    ]
+  },
+  {
+    "text": "Isosorbide",
+    "position": [
+      349,
+      359
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "6038"
+    ]
+  },
+  {
+    "text": "Rosuvastatin",
+    "position": [
+      405,
+      417
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "301549"
+    ]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [
+      473,
+      483
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "20352"
+    ]
+  },
+  {
+    "text": "Torsemide",
+    "position": [
+      741,
+      750
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "256"
+    ]
+  },
+  {
+    "text": "glucose",
+    "position": [
+      911,
+      918
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "4850"
+    ]
+  },
+  {
+    "text": "kali",
+    "position": [
+      1205,
+      1209
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mẫu không tan máu",
+    "position": [
+      1217,
+      1234
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E89"
+    ]
+  }
+]

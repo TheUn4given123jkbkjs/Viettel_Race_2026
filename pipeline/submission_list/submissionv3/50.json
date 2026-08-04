@@ -1,0 +1,58 @@
+[
+  {
+    "text": "đau đầu",
+    "position": [
+      165,
+      172
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mờ mắt",
+    "position": [
+      728,
+      734
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "não úng thuỷ khác từ thời kỳ sơ sinh",
+    "position": [
+      388,
+      424
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.12"
+    ]
+  },
+  {
+    "text": "phù gai thị",
+    "position": [
+      1192,
+      1203
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "M47.00"
+    ]
+  },
+  {
+    "text": "VPHT",
+    "position": [
+      1405,
+      1409
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  }
+]

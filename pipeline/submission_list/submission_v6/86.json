@@ -1,0 +1,78 @@
+[
+  {
+    "text": "ho",
+    "position": [
+      29,
+      31
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R05"
+    ]
+  },
+  {
+    "text": "nghẹt ngực",
+    "position": [
+      38,
+      48
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở nhẹ-vừa khó thở khi gắng sức",
+    "position": [
+      55,
+      91
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nội soi dạ dày",
+    "position": [
+      608,
+      622
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm sung huyết hang vị dạ dày",
+    "position": [
+      1002,
+      1032
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.15"
+    ]
+  },
+  {
+    "text": "nghệ",
+    "position": [
+      1076,
+      1080
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mật ong",
+    "position": [
+      1082,
+      1089
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7982"
+    ]
+  }
+]

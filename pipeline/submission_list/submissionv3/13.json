@@ -1,0 +1,56 @@
+[
+  {
+    "text": "dính nước dãi",
+    "position": [
+      193,
+      206
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh dại",
+    "position": [
+      310,
+      318
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82"
+    ]
+  },
+  {
+    "text": "vết cắn",
+    "position": [
+      571,
+      578
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vết thương",
+    "position": [
+      766,
+      776
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêm vaccine",
+    "position": [
+      1307,
+      1319
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "705030"
+    ]
+  }
+]

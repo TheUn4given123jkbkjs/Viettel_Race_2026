@@ -1,0 +1,102 @@
+[
+  {
+    "text": "bị thương n",
+    "position": [
+      72,
+      85
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bị chảy máu",
+    "position": [
+      101,
+      116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh dại",
+    "position": [
+      549,
+      557
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "A82"
+    ]
+  },
+  {
+    "text": "Lyssavirus",
+    "position": [
+      865,
+      875
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "compazine",
+    "position": [
+      1287,
+      1296
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "34345"
+    ]
+  },
+  {
+    "text": "alevenhưng",
+    "position": [
+      1300,
+      1310
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dại",
+    "position": [
+      1943,
+      1946
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82"
+    ]
+  },
+  {
+    "text": "vết cắn",
+    "position": [
+      2205,
+      2212
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vi rút dại",
+    "position": [
+      2222,
+      2232
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82"
+    ]
+  }
+]

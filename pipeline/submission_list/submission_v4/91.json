@@ -1,0 +1,90 @@
+[
+  {
+    "text": "hội chứng turner",
+    "position": [
+      48,
+      64
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "Q96"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      412,
+      419
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R06.0"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      568,
+      576
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "R51"
+    ]
+  },
+  {
+    "text": "đánh trống ngực",
+    "position": [
+      702,
+      717
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "R00.2"
+    ]
+  },
+  {
+    "text": "khó nuốt",
+    "position": [
+      945,
+      953
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R13"
+    ]
+  },
+  {
+    "text": "bệnh",
+    "position": [
+      1263,
+      1267
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phẫu thuật",
+    "position": [
+      1291,
+      1301
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K91"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "text": "HA",
+    "position": [
+      83,
+      85
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "rợn người",
+    "position": [
+      215,
+      224
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng HA",
+    "position": [
+      692,
+      699
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "huyết áp",
+    "position": [
+      806,
+      814
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "Z01.3"
+    ]
+  },
+  {
+    "text": "áp",
+    "position": [
+      1013,
+      1015
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "huyết áp",
+    "position": [
+      1111,
+      1119
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  }
+]

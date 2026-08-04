@@ -1,0 +1,128 @@
+[
+  {
+    "text": "Bệnh phổi kẽ",
+    "position": [
+      44,
+      56
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.72"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      170,
+      177
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E66"
+    ]
+  },
+  {
+    "text": "Suy giảm miễn dịch",
+    "position": [
+      478,
+      496
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F02.4"
+    ]
+  },
+  {
+    "text": "cotrimoxazol",
+    "position": [
+      921,
+      933
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2623"
+    ]
+  },
+  {
+    "text": "doxycyclin",
+    "position": [
+      953,
+      963
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "3640"
+    ]
+  },
+  {
+    "text": "dịch vàng",
+    "position": [
+      1178,
+      1187
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đớn",
+    "position": [
+      1407,
+      1414
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vành tai",
+    "position": [
+      1735,
+      1743
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tịt ống tai ngoài",
+    "position": [
+      1747,
+      1764
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.75"
+    ]
+  },
+  {
+    "text": "doxycyclinebactrim",
+    "position": [
+      2507,
+      2525
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "3640"
+    ]
+  },
+  {
+    "text": "Viêm mô tế bào",
+    "position": [
+      2539,
+      2553
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K12.2"
+    ]
+  }
+]

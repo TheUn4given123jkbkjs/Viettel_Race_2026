@@ -1,0 +1,158 @@
+[
+  {
+    "text": "metoprolol",
+    "position": [
+      53,
+      63
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "doxycycline",
+    "position": [
+      82,
+      93
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "3640"
+    ]
+  },
+  {
+    "text": "atenolol",
+    "position": [
+      122,
+      130
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1202"
+    ]
+  },
+  {
+    "text": "đánh trống ngực",
+    "position": [
+      615,
+      630
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R00.2"
+    ]
+  },
+  {
+    "text": "Khó thở nhẹ",
+    "position": [
+      688,
+      699
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thắt chặt ngực",
+    "position": [
+      1226,
+      1240
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      1339,
+      1346
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R06.0"
+    ]
+  },
+  {
+    "text": "giảm dung nạp gắng sức",
+    "position": [
+      1423,
+      1445
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      1461,
+      1469
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "không có cải thiện",
+    "position": [
+      1796,
+      1814
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "atenolol",
+    "position": [
+      1849,
+      1857
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1202"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [
+      2199,
+      2206
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  },
+  {
+    "text": "đánh trống ngực",
+    "position": [
+      2406,
+      2421
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R00.2"
+    ]
+  },
+  {
+    "text": "VS98.3 12987 56 18 99RA",
+    "position": [
+      2482,
+      2505
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

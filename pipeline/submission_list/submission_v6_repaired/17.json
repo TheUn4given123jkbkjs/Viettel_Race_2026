@@ -1,0 +1,86 @@
+[
+  {
+    "text": "đánh răng",
+    "position": [
+      60,
+      69
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hơi thở mùi khó chịu",
+    "position": [
+      105,
+      125
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hơi",
+    "position": [
+      105,
+      108
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm quanh răng",
+    "position": [
+      613,
+      628
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.13"
+    ]
+  },
+  {
+    "text": "Viêm nha chu",
+    "position": [
+      856,
+      868
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K04.4"
+    ]
+  },
+  {
+    "text": "Hôi miệng",
+    "position": [
+      1185,
+      1194
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chảy máu chân răng",
+    "position": [
+      1198,
+      1216
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bào láng gốc răng",
+    "position": [
+      2365,
+      2382
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

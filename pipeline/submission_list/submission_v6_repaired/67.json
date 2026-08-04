@@ -1,0 +1,70 @@
+[
+  {
+    "text": "BiPAP",
+    "position": [
+      151,
+      156
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vậtbiệt hóa kém",
+    "position": [
+      163,
+      224
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "A52.78"
+    ]
+  },
+  {
+    "text": "viêm sung huyết",
+    "position": [
+      726,
+      741
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.13"
+    ]
+  },
+  {
+    "text": "hang vị dạ dày",
+    "position": [
+      742,
+      756
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm sung huyết hang vị dạ dày",
+    "position": [
+      1206,
+      1236
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.15"
+    ]
+  },
+  {
+    "text": "sản phẩm từ thiên nhiên",
+    "position": [
+      1252,
+      1275
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "text": "dính nước dãi",
+    "position": [
+      281,
+      294
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh dại",
+    "position": [
+      470,
+      478
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.03"
+    ]
+  },
+  {
+    "text": "vi-rút dại",
+    "position": [
+      1402,
+      1412
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A82.03"
+    ]
+  },
+  {
+    "text": "phòng bệnh dại",
+    "position": [
+      1470,
+      1484
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Z21.1"
+    ]
+  },
+  {
+    "text": "động vật dại",
+    "position": [
+      566,
+      578
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

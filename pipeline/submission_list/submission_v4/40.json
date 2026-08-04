@@ -1,0 +1,148 @@
+[
+  {
+    "text": "khó thở",
+    "position": [
+      53,
+      60
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R06.0"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      106,
+      114
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R51"
+    ]
+  },
+  {
+    "text": "nôn thức ăn lẫn máu",
+    "position": [
+      126,
+      145
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "XHTH quá liều thuốc kháng vitamin K",
+    "position": [
+      251,
+      286
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Y46"
+    ]
+  },
+  {
+    "text": "Xuất huyết tiêu hóa",
+    "position": [
+      812,
+      831
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K90"
+    ]
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [
+      868,
+      877
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04"
+    ]
+  },
+  {
+    "text": "Prothrombin",
+    "position": [
+      1188,
+      1199
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Fibrinogen",
+    "position": [
+      1258,
+      1268
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose",
+    "position": [
+      1358,
+      1365
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinin",
+    "position": [
+      1372,
+      1381
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP",
+    "position": [
+      1486,
+      1489
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Hình ảnh dày thành một số quai ruột non",
+    "position": [
+      1826,
+      1865
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "K91"
+    ]
+  },
+  {
+    "text": "Ceftriaxone",
+    "position": [
+      1886,
+      1897
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2193"
+    ]
+  }
+]

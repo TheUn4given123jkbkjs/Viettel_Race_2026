@@ -1,0 +1,84 @@
+[
+  {
+    "text": "bệnh động mạch vành",
+    "position": [
+      62,
+      81
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "I25.0"
+    ]
+  },
+  {
+    "text": "run tay",
+    "position": [
+      203,
+      210
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "run tay",
+    "position": [
+      725,
+      732
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Nitramyl",
+    "position": [
+      810,
+      818
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7454"
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1201,
+      1208
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      1210,
+      1219
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Nitramyl",
+    "position": [
+      1508,
+      1516
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7454"
+    ]
+  }
+]

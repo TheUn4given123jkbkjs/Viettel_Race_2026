@@ -1,0 +1,56 @@
+[
+  {
+    "text": "MÀY ĐAY VÔ CĂN",
+    "position": [
+      1067,
+      1081
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L23.9"
+    ]
+  },
+  {
+    "text": "tylenol",
+    "position": [
+      428,
+      435
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "10379"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      581,
+      589
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      569,
+      577
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "táo bón",
+    "position": [
+      579,
+      586
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

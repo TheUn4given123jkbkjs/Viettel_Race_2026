@@ -1,0 +1,114 @@
+[
+  {
+    "text": "NSAID",
+    "position": [
+      59,
+      64
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2951"
+    ]
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      106,
+      116
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7646"
+    ]
+  },
+  {
+    "text": "Giãn thừng tinh",
+    "position": [
+      592,
+      607
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Q79"
+    ]
+  },
+  {
+    "text": "đau bụng vùng hạ sườn phải",
+    "position": [
+      958,
+      984
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chướng bụng",
+    "position": [
+      991,
+      1002
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      1010,
+      1018
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      1575,
+      1585
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7646"
+    ]
+  },
+  {
+    "text": "sỏi đoạn cuối ống mật",
+    "position": [
+      1624,
+      1645
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.75"
+    ]
+  },
+  {
+    "text": "sỏi đoạn cuối ống mật chủ",
+    "position": [
+      1956,
+      1981
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K70"
+    ]
+  },
+  {
+    "text": "Nội soi mật tụy ngược dòng",
+    "position": [
+      2011,
+      2037
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

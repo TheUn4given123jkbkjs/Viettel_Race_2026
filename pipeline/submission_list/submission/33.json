@@ -1,0 +1,80 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [
+      59,
+      67
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I48"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      71,
+      84
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "suy tim, không đặc hiệu",
+    "position": [
+      92,
+      115
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I51.9"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      121,
+      128
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E66.9"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      744,
+      752
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "shortness of breath",
+    "position": [
+      949,
+      968
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "weak",
+    "position": [
+      301,
+      305
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "text": "mệt mỏi",
+    "position": [
+      47,
+      54
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gầy sút cân",
+    "position": [
+      58,
+      69
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose máu",
+    "position": [
+      324,
+      335
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "13,2 mmol/l",
+    "position": [
+      337,
+      348
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Torsemide",
+    "position": [
+      499,
+      508
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "8337"
+    ]
+  },
+  {
+    "text": "Insulin glargine",
+    "position": [
+      592,
+      608
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "274783"
+    ]
+  },
+  {
+    "text": "Rosuvastatin",
+    "position": [
+      679,
+      691
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "301548"
+    ]
+  },
+  {
+    "text": "Carvedilol",
+    "position": [
+      732,
+      742
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "20352"
+    ]
+  }
+]

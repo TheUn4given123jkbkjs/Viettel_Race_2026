@@ -1,0 +1,204 @@
+[
+  {
+    "text": "hội chứng ruột kích thích",
+    "position": [
+      268,
+      293
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K58"
+    ]
+  },
+  {
+    "text": "loét tá tràng",
+    "position": [
+      390,
+      403
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K26"
+    ]
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      625,
+      635
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7646"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      809,
+      817
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      821,
+      830
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tái phát buồn nôn",
+    "position": [
+      1235,
+      1252
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      1256,
+      1265
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "loét tá tràng",
+    "position": [
+      1314,
+      1327
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K26"
+    ]
+  },
+  {
+    "text": "viêm dạ dày ruột do virus",
+    "position": [
+      1406,
+      1431
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.15"
+    ]
+  },
+  {
+    "text": "phát triển đau bụng",
+    "position": [
+      1765,
+      1784
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      1776,
+      1784
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R10"
+    ]
+  },
+  {
+    "text": "nôn ra máu",
+    "position": [
+      1788,
+      1798
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K92.0"
+    ]
+  },
+  {
+    "text": "ung thư tuyến giáp",
+    "position": [
+      2625,
+      2643
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.24"
+    ]
+  },
+  {
+    "text": "levothyroxine",
+    "position": [
+      2704,
+      2717
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "10582"
+    ]
+  },
+  {
+    "text": "levothyroxine",
+    "position": [
+      3091,
+      3104
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "10582"
+    ]
+  },
+  {
+    "text": "viên thuốc",
+    "position": [
+      3460,
+      3470
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm thực quản độ C",
+    "position": [
+      3509,
+      3528
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K20"
+    ]
+  },
+  {
+    "text": "Loét loét thực quản 6 mm có điểm sắc tố",
+    "position": [
+      3552,
+      3591
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

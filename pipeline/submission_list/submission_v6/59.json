@@ -1,0 +1,66 @@
+[
+  {
+    "text": "da",
+    "position": [
+      46,
+      48
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dầu",
+    "position": [
+      59,
+      62
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn",
+    "position": [
+      69,
+      72
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lactate",
+    "position": [
+      737,
+      744
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mụn trứng cá",
+    "position": [
+      1060,
+      1072
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bác sỹ chuyên khoa da liễu",
+    "position": [
+      1161,
+      1187
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "S54.30"
+    ]
+  }
+]

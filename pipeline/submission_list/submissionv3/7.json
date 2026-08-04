@@ -1,0 +1,92 @@
+[
+  {
+    "text": "Aquima",
+    "position": [
+      2032,
+      2038
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Simenic",
+    "position": [
+      2085,
+      2092
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2951"
+    ]
+  },
+  {
+    "text": "Pimperam",
+    "position": [
+      2135,
+      2143
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "746741"
+    ]
+  },
+  {
+    "text": "đau bao tử",
+    "position": [
+      113,
+      123
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm bao tử",
+    "position": [
+      1517,
+      1528
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.13"
+    ]
+  },
+  {
+    "text": "nhôm hydroxid",
+    "position": [
+      2040,
+      2053
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Alverin citrate",
+    "position": [
+      2094,
+      2109
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "17627"
+    ]
+  },
+  {
+    "text": "metoclopramide",
+    "position": [
+      2145,
+      2159
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "6915"
+    ]
+  }
+]

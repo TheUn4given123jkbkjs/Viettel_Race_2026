@@ -1,0 +1,150 @@
+[
+  {
+    "text": "rung nhĩ",
+    "position": [
+      39,
+      47
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I48"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "position": [
+      50,
+      63
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "suy tim, không đặc hiệu",
+    "position": [
+      66,
+      89
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I50.9"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "position": [
+      92,
+      99
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E66"
+    ]
+  },
+  {
+    "text": "mụn",
+    "position": [
+      557,
+      560
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      909,
+      917
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R07.1"
+    ]
+  },
+  {
+    "text": "lan xuống cánh tay trái",
+    "position": [
+      998,
+      1021
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "kèm theo tê bì ở cánh tay trái trên và đau ở cánh tay trái dưới và bàn tay",
+    "position": [
+      1024,
+      1098
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lasix",
+    "position": [
+      1659,
+      1664
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "5690"
+    ]
+  },
+  {
+    "text": "ntg",
+    "position": [
+      1912,
+      1915
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "asa",
+    "position": [
+      1923,
+      1926
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "134748"
+    ]
+  },
+  {
+    "text": "diltiazem",
+    "position": [
+      2032,
+      2041
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "3443"
+    ]
+  },
+  {
+    "text": "ntg khó thở",
+    "position": [
+      2077,
+      2088
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

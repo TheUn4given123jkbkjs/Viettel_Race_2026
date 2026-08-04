@@ -1,0 +1,58 @@
+[
+  {
+    "text": "nổi các dấu mề đay",
+    "position": [
+      73,
+      91
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngứa",
+    "position": [
+      102,
+      106
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L29"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "position": [
+      684,
+      691
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "105694"
+    ]
+  },
+  {
+    "text": "Lú lẫn",
+    "position": [
+      1131,
+      1137
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "corticoid",
+    "position": [
+      2426,
+      2435
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2721"
+    ]
+  }
+]

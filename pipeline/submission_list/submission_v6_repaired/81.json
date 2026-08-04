@@ -1,0 +1,70 @@
+[
+  {
+    "text": "sảy thai",
+    "position": [
+      78,
+      86
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thrombophilia",
+    "position": [
+      208,
+      221
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E75.3"
+    ]
+  },
+  {
+    "text": "Thrombophilia",
+    "position": [
+      784,
+      797
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I88"
+    ]
+  },
+  {
+    "text": "ra máu",
+    "position": [
+      1124,
+      1130
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "tắc mạch",
+    "position": [
+      1420,
+      1428
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.05"
+    ]
+  },
+  {
+    "text": "cục máu đông",
+    "position": [
+      1432,
+      1444
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

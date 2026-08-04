@@ -1,0 +1,164 @@
+[
+  {
+    "text": "Kawasaki",
+    "position": [
+      8,
+      16
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "sốt cấp",
+    "position": [
+      53,
+      60
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phát ban toàn thân",
+    "position": [
+      84,
+      102
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm tim",
+    "position": [
+      555,
+      563
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phình giãn động mạch vành",
+    "position": [
+      565,
+      590
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I25.4"
+    ]
+  },
+  {
+    "text": "Kawasaki",
+    "position": [
+      670,
+      678
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "Sốt",
+    "position": [
+      1458,
+      1461
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm kết mạc",
+    "position": [
+      1544,
+      1556
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "H10"
+    ]
+  },
+  {
+    "text": "Lưỡi đỏ",
+    "position": [
+      1650,
+      1657
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Họng đỏ",
+    "position": [
+      1674,
+      1681
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ECG",
+    "position": [
+      2204,
+      2207
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kawasaki",
+    "position": [
+      2238,
+      2246
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "điều trị",
+    "position": [
+      2771,
+      2779
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "siêu âm tim",
+    "position": [
+      2841,
+      2852
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh nguy hiểm",
+    "position": [
+      3424,
+      3438
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Z40.0"
+    ]
+  }
+]

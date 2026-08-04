@@ -1,0 +1,66 @@
+[
+  {
+    "text": "chảy máu chân răng",
+    "position": [
+      74,
+      92
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "hôi miệng",
+    "position": [
+      475,
+      484
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Viêm nha chu",
+    "position": [
+      712,
+      724
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K05.2"
+    ]
+  },
+  {
+    "text": "Tiểu đường",
+    "position": [
+      1173,
+      1183
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.75"
+    ]
+  },
+  {
+    "text": "Kháng histamin H1",
+    "position": [
+      1590,
+      1607
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc chống trầm cảm",
+    "position": [
+      1609,
+      1629
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

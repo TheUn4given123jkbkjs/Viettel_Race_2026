@@ -1,0 +1,86 @@
+[
+  {
+    "text": "Ăn 6 bữa 1 ngày",
+    "position": [
+      231,
+      246
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đại tiểu tiện bình thường",
+    "position": [
+      291,
+      316
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Glucose",
+    "position": [
+      411,
+      418
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "5,8 mmol/l",
+    "position": [
+      420,
+      430
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Tiền sử",
+    "position": [
+      731,
+      738
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đáp ứng",
+    "position": [
+      862,
+      869
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không tan máu",
+    "position": [
+      1344,
+      1357
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng kali",
+    "position": [
+      1678,
+      1687
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E87.5"
+    ]
+  }
+]

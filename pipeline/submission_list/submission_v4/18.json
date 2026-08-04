@@ -1,0 +1,142 @@
+[
+  {
+    "text": "ST chênh lên / chênh xuống",
+    "position": [
+      35,
+      61
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sóng T đảo",
+    "position": [
+      65,
+      75
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Q bệnh lý",
+    "position": [
+      79,
+      88
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng trên",
+    "position": [
+      895,
+      908
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt nhẹ",
+    "position": [
+      1113,
+      1120
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau hạ sườn phải",
+    "position": [
+      1141,
+      1157
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cấy máu dương tính",
+    "position": [
+      1232,
+      1250
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      1283,
+      1286
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm túi mật",
+    "position": [
+      1911,
+      1923
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K80"
+    ]
+  },
+  {
+    "text": "lipase",
+    "position": [
+      1985,
+      1991
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tăng men gan",
+    "position": [
+      2042,
+      2054
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sỏi mật",
+    "position": [
+      2324,
+      2331
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "K80"
+    ]
+  },
+  {
+    "text": "viêm túi mật",
+    "position": [
+      2347,
+      2359
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "K80"
+    ]
+  }
+]

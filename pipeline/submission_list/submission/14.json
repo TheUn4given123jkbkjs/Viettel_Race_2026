@@ -1,0 +1,68 @@
+[
+  {
+    "text": "ngứa",
+    "position": [
+      87,
+      91
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngã",
+    "position": [
+      1068,
+      1071
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ảo giác",
+    "position": [
+      1080,
+      1087
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đái tháo đường típ 2",
+    "position": [
+      612,
+      632
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E11.9"
+    ]
+  },
+  {
+    "text": "tăng lipid máu, không đặc hiệu",
+    "position": [
+      595,
+      624
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E78.4"
+    ]
+  },
+  {
+    "text": "bệnh thận mạn, không đặc hiệu Giai đoạn 4",
+    "position": [
+      713,
+      754
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "N18.9*"
+    ]
+  }
+]

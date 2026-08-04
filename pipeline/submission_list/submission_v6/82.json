@@ -1,0 +1,72 @@
+[
+  {
+    "text": "NSAID",
+    "position": [
+      59,
+      64
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "2951"
+    ]
+  },
+  {
+    "text": "omeprazole",
+    "position": [
+      106,
+      116
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7646"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      676,
+      684
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      871,
+      879
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R10"
+    ]
+  },
+  {
+    "text": "sỏi đoạn cuối ống mật chủ",
+    "position": [
+      1233,
+      1258
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A52.75"
+    ]
+  },
+  {
+    "text": "Nội soi mật tụy ngược dòng (ERCP)",
+    "position": [
+      1288,
+      1321
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

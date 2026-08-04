@@ -1,0 +1,128 @@
+[
+  {
+    "text": "hạt tophi",
+    "position": [
+      33,
+      42
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "acid uric máu",
+    "position": [
+      81,
+      94
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      652,
+      659
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R06.0"
+    ]
+  },
+  {
+    "text": "ho đặc",
+    "position": [
+      689,
+      695
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      759,
+      762
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tiêu chảy",
+    "position": [
+      794,
+      803
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      852,
+      860
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "R51"
+    ]
+  },
+  {
+    "text": "buồn nôn/nôn",
+    "position": [
+      876,
+      888
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "R11"
+    ]
+  },
+  {
+    "text": "azithromycin",
+    "position": [
+      1153,
+      1165
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "18631"
+    ]
+  },
+  {
+    "text": "tylenol",
+    "position": [
+      1189,
+      1196
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "10324"
+    ]
+  },
+  {
+    "text": "mucinex d",
+    "position": [
+      1200,
+      1209
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "97016"
+    ]
+  }
+]

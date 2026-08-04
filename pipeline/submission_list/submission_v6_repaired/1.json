@@ -1,0 +1,182 @@
+[
+  {
+    "text": "Thiếu men G6PD",
+    "position": [
+      55,
+      69
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "bệnh di truyền lặn",
+    "position": [
+      113,
+      131
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "men G6PD",
+    "position": [
+      659,
+      667
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      1019,
+      1033
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      1137,
+      1151
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Sốt cao",
+    "position": [
+      1632,
+      1639
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vàng da",
+    "position": [
+      1695,
+      1702
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tan huyết",
+    "position": [
+      1771,
+      1780
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "vàng da",
+    "position": [
+      2501,
+      2508
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Bại não",
+    "position": [
+      2581,
+      2588
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G80"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      2864,
+      2878
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "đậu tằm",
+    "position": [
+      2997,
+      3004
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "H92.0"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      3317,
+      3331
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "Nhiễm khuẩn",
+    "position": [
+      3399,
+      3410
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "P36.10"
+    ]
+  },
+  {
+    "text": "thiếu men G6PD",
+    "position": [
+      3880,
+      3894
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D55.0"
+    ]
+  },
+  {
+    "text": "long não",
+    "position": [
+      3917,
+      3925
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  }
+]

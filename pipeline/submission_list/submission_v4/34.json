@@ -1,0 +1,120 @@
+[
+  {
+    "text": "Bệnh lý đau nửa đầu",
+    "position": [
+      336,
+      355
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "G44"
+    ]
+  },
+  {
+    "text": "đau nửa đầu",
+    "position": [
+      344,
+      355
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      619,
+      627
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nửa đầu",
+    "position": [
+      839,
+      850
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "suy giảm trí nhớ",
+    "position": [
+      1123,
+      1139
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đột quỵ",
+    "position": [
+      1177,
+      1184
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I64"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "position": [
+      1389,
+      1396
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "1010000"
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "position": [
+      1438,
+      1449
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "519"
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu",
+    "position": [
+      1714,
+      1741
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "A89"
+    ]
+  },
+  {
+    "text": "đã ngừng",
+    "position": [
+      1787,
+      1795
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

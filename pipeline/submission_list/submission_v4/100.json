@@ -1,0 +1,58 @@
+[
+  {
+    "text": "tiền sản giật",
+    "position": [
+      584,
+      597
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O14"
+    ]
+  },
+  {
+    "text": "tiền sản giật",
+    "position": [
+      664,
+      677
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "O14"
+    ]
+  },
+  {
+    "text": "aspirin",
+    "position": [
+      1114,
+      1121
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  },
+  {
+    "text": "đại tiện ra máu",
+    "position": [
+      1219,
+      1234
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "gián đoạn",
+    "position": [
+      1243,
+      1252
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

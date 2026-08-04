@@ -1,0 +1,59 @@
+[
+  {
+    "text": "MÀY ĐAY VÔ CĂN",
+    "position": [
+      589,
+      603
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L23.0"
+    ]
+  },
+  {
+    "text": "ngứa",
+    "position": [
+      77,
+      81
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "không phải dị ứng do thời tiết hay thức ăn",
+    "position": [
+      362,
+      402
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "đã đi chữa trị và sử dụng rất nhiều thuốc",
+    "position": [
+      157,
+      197
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "corticoid",
+    "position": [
+      1739,
+      1748
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "27212",
+      "27197"
+    ]
+  }
+]

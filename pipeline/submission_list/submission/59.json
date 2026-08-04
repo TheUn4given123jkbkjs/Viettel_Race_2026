@@ -1,0 +1,66 @@
+[
+  {
+    "text": "phổi thông khí đều",
+    "position": [
+      479,
+      497
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sonde tiểu",
+    "position": [
+      501,
+      511
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cấy máu",
+    "position": [
+      717,
+      724
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "lactate",
+    "position": [
+      620,
+      627
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Cấy nước tiểu",
+    "position": [
+      645,
+      658
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Vi khuẩn C. acne",
+    "position": [
+      1034,
+      1050
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A36.03",
+      "A36.04",
+      "A36.1"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "text": "Cơn đau thắt ngực không ổn định-bệnh tăng HA vô căn(nguyên phát)",
+    "position": [
+      1089,
+      1155
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "I20.9"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "position": [
+      47,
+      55
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Troponin Ths",
+    "position": [
+      841,
+      853
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "NT - proBNP",
+    "position": [
+      959,
+      970
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Prothrombin Time",
+    "position": [
+      760,
+      777
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

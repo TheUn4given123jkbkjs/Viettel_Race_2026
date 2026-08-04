@@ -1,0 +1,112 @@
+[
+  {
+    "text": "hoại tử",
+    "position": [
+      30,
+      37
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "viêm phổi",
+    "position": [
+      68,
+      77
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04"
+    ]
+  },
+  {
+    "text": "Viêm phổi",
+    "position": [
+      572,
+      581
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A50.04"
+    ]
+  },
+  {
+    "text": "áp-xe",
+    "position": [
+      660,
+      665
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "áp xe phổi",
+    "position": [
+      1143,
+      1153
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85"
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1488,
+      1495
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "cơn  đau đầu",
+    "position": [
+      1616,
+      1628
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Phù gai thị",
+    "position": [
+      1999,
+      2010
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "M47.00"
+    ]
+  },
+  {
+    "text": "Có nhiều nang chứa khí hay dịch nhỏ (<2cm)",
+    "position": [
+      2201,
+      2243
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "A54.40"
+    ]
+  },
+  {
+    "text": "Trong khi áp-xe phổi kích thước ổ hoại tử trên 2cm, vách dày > 2mm",
+    "position": [
+      2245,
+      2311
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "text": "Rối loạn chuyển hóa tinh bột",
+    "position": [
+      29,
+      57
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E83.1"
+    ]
+  },
+  {
+    "text": "thoái hóa tinh bột",
+    "position": [
+      313,
+      331
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "bệnh thoái hóa tinh bột",
+    "position": [
+      989,
+      1012
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Bệnh amyloidosis chuỗi nhẹ",
+    "position": [
+      1190,
+      1216
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "F31.71"
+    ]
+  },
+  {
+    "text": "đau bụng/khó chịu vùng bụng tăng dần",
+    "position": [
+      1301,
+      1337
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "amyloidosis",
+    "position": [
+      1357,
+      1368
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  }
+]

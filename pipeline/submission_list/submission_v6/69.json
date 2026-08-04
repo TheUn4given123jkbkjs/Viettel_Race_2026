@@ -1,0 +1,77 @@
+[
+  {
+    "text": "trầm cảm",
+    "position": [
+      108,
+      116
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tổn thương chi dưới",
+    "position": [
+      179,
+      198
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "T93"
+    ]
+  },
+  {
+    "text": "không xác nhận có ý định tự tử",
+    "position": [
+      577,
+      607
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "Phẫu thuật cắt cụt chân trái bên trên gối",
+    "position": [
+      678,
+      719
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "E89.41"
+    ]
+  },
+  {
+    "text": "Yên tĩnh",
+    "position": [
+      1271,
+      1279
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isFamily"
+    ],
+    "candidates": [
+      "I83.91"
+    ]
+  },
+  {
+    "text": "không phải dị ứng thời tiết",
+    "position": [
+      1326,
+      1353
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  }
+]

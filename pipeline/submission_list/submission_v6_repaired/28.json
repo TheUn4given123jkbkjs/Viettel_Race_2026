@@ -1,0 +1,86 @@
+[
+  {
+    "text": "nổi các dấu mề đay",
+    "position": [
+      73,
+      91
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngứa",
+    "position": [
+      102,
+      106
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "MÀY ĐAY VÔ CĂN",
+    "position": [
+      733,
+      747
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "L50"
+    ]
+  },
+  {
+    "text": "̣ng xâm nhập của tế bào một nhân kết hợp với lympho T và đại thực bào",
+    "position": [
+      906,
+      987
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ần xem trên kính hiển vi điện tử. Các tế bào mast",
+    "position": [
+      1071,
+      1128
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mast tăng số lượng vùng hạ bì với các mức độ thoát bọng",
+    "position": [
+      1123,
+      1190
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "",
+    "position": [
+      1886,
+      1775
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "corticoid",
+    "position": [
+      1965,
+      1974
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  }
+]

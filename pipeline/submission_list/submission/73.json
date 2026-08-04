@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Viêm loét đại tràng",
+    "position": [
+      79,
+      98
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "K30.6"
+    ]
+  },
+  {
+    "text": "bệnh gan do rượu",
+    "position": [
+      138,
+      154
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K70.0"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      369,
+      377
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau bụng",
+    "position": [
+      392,
+      400
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      523,
+      526
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "run rẩy",
+    "position": [
+      528,
+      535
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "thuốc giảm đau opioid",
+    "position": [
+      248,
+      269
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": []
+  }
+]

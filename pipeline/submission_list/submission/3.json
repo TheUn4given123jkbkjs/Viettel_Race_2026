@@ -1,0 +1,110 @@
+[
+  {
+    "text": "Nitralmyl",
+    "position": [
+      279,
+      288
+    ],
+    "type": "THUỐC",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "7593"
+    ]
+  },
+  {
+    "text": "Vastarel",
+    "position": [
+      439,
+      447
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "103984"
+    ]
+  },
+  {
+    "text": "trimetazidin",
+    "position": [
+      451,
+      463
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "103984"
+    ]
+  },
+  {
+    "text": "phản ứng phụ",
+    "position": [
+      112,
+      125
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "run tay",
+    "position": [
+      100,
+      107
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "yếu sức nửa người bên phải",
+    "position": [
+      693,
+      719
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tình trạng tri giác giảm sút",
+    "position": [
+      721,
+      749
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn song thị",
+    "position": [
+      751,
+      764
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chụp ct sọ não",
+    "position": [
+      1009,
+      1023
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "âm tính",
+    "position": [
+      1025,
+      1032
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

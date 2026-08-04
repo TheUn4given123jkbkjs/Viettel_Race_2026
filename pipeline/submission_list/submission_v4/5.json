@@ -1,0 +1,157 @@
+[
+  {
+    "text": "phẫu thuật cắt bỏ",
+    "position": [
+      75,
+      92
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư biểu mô tế bào mật",
+    "position": [
+      238,
+      264
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "C22"
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "position": [
+      616,
+      623
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "các bất thường về giải phẫu",
+    "position": [
+      634,
+      661
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "Z86.1"
+    ]
+  },
+  {
+    "text": "bệnh",
+    "position": [
+      948,
+      952
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "phủ nhận",
+    "position": [
+      1153,
+      1161
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily",
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "stent thành vách vĩnh viễn",
+    "position": [
+      1730,
+      1756
+    ],
+    "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      1939,
+      1947
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": []
+  },
+  {
+    "text": "buồn nôn",
+    "position": [
+      2366,
+      2374
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      2381,
+      2384
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dịch rò rỉ quanh ống thông",
+    "position": [
+      2400,
+      2426
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ung thư biểu mô tuyến",
+    "position": [
+      2798,
+      2819
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D01"
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn",
+    "position": [
+      3002,
+      3016
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tắc nghẽn kéo dài",
+    "position": [
+      3280,
+      3297
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

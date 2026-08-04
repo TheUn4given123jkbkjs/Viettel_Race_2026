@@ -1,0 +1,76 @@
+[
+  {
+    "text": "Đi ngoài phân đen",
+    "position": [
+      34,
+      51
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "khó thở",
+    "position": [
+      53,
+      60
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Van động mạch chủ cơ học",
+    "position": [
+      370,
+      394
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I35.1"
+    ]
+  },
+  {
+    "text": "Xét nghiệm máuKhí máu",
+    "position": [
+      970,
+      991
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "CRP: 227.0 mg/L",
+    "position": [
+      1647,
+      1662
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Creatinin : 46 µmol/L",
+    "position": [
+      1663,
+      1684
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Kali +: 3.6 mmol/L",
+    "position": [
+      1685,
+      1703
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  }
+]

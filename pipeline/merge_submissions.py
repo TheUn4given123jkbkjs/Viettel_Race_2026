@@ -2,6 +2,7 @@ import os
 import json
 import sys
 import re
+import unicodedata
 from pathlib import Path
 
 # Ensure UTF-8 printing
@@ -25,45 +26,67 @@ def validate_and_align_positions(entities, original_text):
             
         pos = ent.get("position")
         if not pos or not isinstance(pos, list) or len(pos) < 2 or pos[0] is None or pos[1] is None:
-            # Nếu thiếu vị trí hoặc vị trí lỗi, tìm kiếm vị trí xuất hiện trong văn bản gốc
-            match = re.search(re.escape(text), original_text, re.IGNORECASE)
-            if match:
-                pos = [match.start(), match.end()]
-            else:
-                # Không tìm thấy -> Bỏ qua thực thể ảo giác
-                continue
-                
-        start, end = pos[0], pos[1]
-        
-        # 1. Kiểm tra khớp chính xác vị trí
-        sub_text = original_text[start:end].strip()
-        if sub_text.lower() == text.lower():
-            ent["text"] = sub_text
-            ent["position"] = [start, end]
-            valid_entities.append(ent)
-            continue
+            llm_start = 0
+        else:
+            llm_start = pos[0]
             
-        # 2. Tìm khớp hoàn hảo ở vị trí khác trong văn bản
-        matches = [m.start() for m in re.finditer(re.escape(text), original_text, re.IGNORECASE)]
+        # 1. Khớp chính xác (Case Insensitive)
+        pattern = re.escape(text)
+        matches = list(re.finditer(pattern, original_text, re.IGNORECASE))
         if matches:
-            closest_start = min(matches, key=lambda x: abs(x - start))
-            new_end = closest_start + len(text)
-            ent["position"] = [closest_start, new_end]
-            ent["text"] = original_text[closest_start:new_end]
+            best_match = min(matches, key=lambda m: abs(m.start() - llm_start))
+            start_idx, end_idx = best_match.start(), best_match.end()
+            ent["text"] = original_text[start_idx:end_idx]
+            ent["position"] = [start_idx, end_idx]
             valid_entities.append(ent)
             continue
             
-        # 3. Tìm khớp mờ trong cửa sổ trượt hẹp
-        search_start = max(0, start - 30)
-        search_end = min(len(original_text), end + 30)
-        window_text = original_text[search_start:search_end]
+        # 2. Chuẩn hóa NFC (Sửa lỗi lệch NFD/NFC của văn bản gốc)
+        doc_nfc = unicodedata.normalize("NFC", original_text)
+        text_nfc = unicodedata.normalize("NFC", text)
+        matches_nfc = list(re.finditer(re.escape(text_nfc), doc_nfc, re.IGNORECASE))
+        if matches_nfc:
+            best_match_nfc = min(matches_nfc, key=lambda m: abs(m.start() - llm_start))
+            start_nfc, end_nfc = best_match_nfc.start(), best_match_nfc.end()
+            
+            import difflib
+            matcher = difflib.SequenceMatcher(None, doc_nfc, original_text)
+            matching_blocks = matcher.get_matching_blocks()
+            
+            def map_index(idx):
+                for a, b, size in matching_blocks:
+                    if a <= idx <= a + size:
+                        return b + (idx - a)
+                return idx
+                
+            start_idx, end_idx = map_index(start_nfc), map_index(end_nfc)
+            ent["text"] = original_text[start_idx:end_idx]
+            ent["position"] = [start_idx, end_idx]
+            valid_entities.append(ent)
+            continue
+            
+        # 3. Tìm kiếm mờ (Fuzzy Search) để sửa lỗi chính tả/từ đồng nghĩa từ LLM
+        window_start = max(0, llm_start - 80)
+        window_end = min(len(original_text), llm_start + len(text) + 80)
+        window_text = original_text[window_start:window_end]
         
-        match_in_window = re.search(re.escape(text), window_text, re.IGNORECASE)
-        if match_in_window:
-            new_start = search_start + match_in_window.start()
-            new_end = new_start + len(text)
-            ent["position"] = [new_start, new_end]
-            ent["text"] = original_text[new_start:new_end]
+        import difflib
+        best_ratio = 0.0
+        best_pos = None
+        
+        n = len(text)
+        for length in range(max(1, n - 15), min(len(window_text), n + 15) + 1):
+            for start in range(0, len(window_text) - length + 1):
+                sub = window_text[start:start+length]
+                ratio = difflib.SequenceMatcher(None, text.lower(), sub.lower()).ratio()
+                if ratio > best_ratio:
+                    best_ratio = ratio
+                    best_pos = (window_start + start, window_start + start + length)
+                    
+        if best_ratio >= 0.70 and best_pos is not None:
+            start_idx, end_idx = best_pos
+            ent["text"] = original_text[start_idx:end_idx]
+            ent["position"] = [start_idx, end_idx]
             valid_entities.append(ent)
             continue
             
@@ -114,7 +137,7 @@ def deduplicate_entities(entities):
 
 def main():
     INPUT_DIR = BASE_DIR / "input_turn2_vong1" / "input"
-    QWEN_DIR = BASE_DIR / "finetune_qwen_7b" / "submissionv3"
+    QWEN_DIR = BASE_DIR / "pipeline" / "submission_list" / "submissionv3"
     PHOBERT_DIR = BASE_DIR / "input_turn2_vong1" / "output"
     MERGED_DIR = BASE_DIR / "input_turn2_vong1" / "output_merged_v1"
     MERGED_DIR.mkdir(parents=True, exist_ok=True)
@@ -175,6 +198,11 @@ def main():
                 if etype in ["CHẨN_ĐOÁN", "THUỐC"]:
                     text_val = cleaned.get("text")
                     codes = linker.link_entity(text_val, etype)
+                    if not codes:
+                        # Fallback to LLM's own candidate codes (clean '*' and '†')
+                        llm_codes = ent.get("candidates", [])
+                        if llm_codes:
+                            codes = [c.replace('*', '').replace('†', '').strip() for c in llm_codes if c]
                     cleaned["candidates"] = codes
                 else:
                     cleaned["candidates"] = []
@@ -194,4 +222,9 @@ def main():
     print("\n🎉 Gộp và ánh xạ CSDL cho 100 tệp thành công! Kết quả lưu tại: input_turn2_vong1/output_merged_v1")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        sys.exit(1)

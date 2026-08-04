@@ -1,5 +1,25 @@
 [
   {
+    "text": "đau bụng",
+    "position": [
+      386,
+      394
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "trễ kinh",
+    "position": [
+      416,
+      424
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "tắc ống dẫn trứng",
     "position": [
       757,
@@ -7,7 +27,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.75"
+    ]
   },
   {
     "text": "teo niêm mạc tử cung",
@@ -17,7 +39,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.74"
+    ]
   },
   {
     "text": "ung thư cổ tử cung",
@@ -36,6 +60,56 @@
     "position": [
       1227,
       1239
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1494,
+      1500
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      1504,
+      1507
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sưng nề",
+    "position": [
+      1649,
+      1656
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "chóng mặt",
+    "position": [
+      2008,
+      2017
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      2203,
+      2206
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

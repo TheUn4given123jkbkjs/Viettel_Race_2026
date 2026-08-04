@@ -17,6 +17,48 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
+    "candidates": [
+      "A52.11"
+    ]
+  },
+  {
+    "text": "ngứa",
+    "position": [
+      874,
+      878
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      917,
+      920
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      1021,
+      1024
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      1036,
+      1039
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
     "candidates": []
   },
   {
@@ -30,6 +72,16 @@
     "candidates": []
   },
   {
+    "text": "âm tính",
+    "position": [
+      2267,
+      2274
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "túi mật giãn nở rõ rệt",
     "position": [
       2319,
@@ -37,6 +89,8 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F11.98"
+    ]
   }
 ]

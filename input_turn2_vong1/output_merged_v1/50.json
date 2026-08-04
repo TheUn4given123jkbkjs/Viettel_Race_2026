@@ -10,10 +10,30 @@
     "candidates": []
   },
   {
+    "text": "đau đầu",
+    "position": [
+      703,
+      710
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "mờ mắt",
     "position": [
       728,
       734
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nhìn mờ",
+    "position": [
+      772,
+      779
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -29,6 +49,18 @@
     "assertions": [
       "isNegated"
     ],
+    "candidates": [
+      "M47.00"
+    ]
+  },
+  {
+    "text": "CT ngực",
+    "position": [
+      1596,
+      1603
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
     "candidates": []
   }
 ]

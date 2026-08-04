@@ -28,7 +28,7 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "K05.3"
+      "K04.4"
     ]
   },
   {
@@ -39,7 +39,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "E12.9"
+    ]
   },
   {
     "text": "Kháng histamin H1",
@@ -58,6 +60,16 @@
       1629
     ],
     "type": "THUỐC",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      2220,
+      2223
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

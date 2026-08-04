@@ -4,6 +4,77 @@
 
 ---
 
+### 📌 LOG-20260803-V7.8: Phân tích & Khắc phục Điểm thấp (8.81% ➔ 9.73%) của Submission V6 & Giải pháp Ensemble Qwen+PhoBERT
+* **Ngày thực hiện:** `2026-08-03 00:45:00 (UTC+7)`
+* **Lý do:** Điều tra nguyên nhân điểm số nộp bài V6 trên Kaggle chỉ đạt 8.8140% (sau sửa đổi đạt 9.7334%), phân tích sâu các chỉ số (WER 88.13%, J_assertion 13.31%, J_candidates 5.45%) và triển khai bộ suy luận kết hợp (Ensemble).
+* **Cách khắc phục:**
+  * Xóa bỏ hoàn toàn logic đè nhãn `check_type_override` vì nó biến đổi các triệu chứng lâm sàng thuộc Chương R (như *khó thở*, *sốt*, *đau ngực*...) thành `CHẨN_ĐOÁN` do chúng nằm trong danh mục ICD-10 ➔ Gây mất điểm kép.
+  * Nâng cấp Linker bổ sung Tầng 1.5 Khớp chuỗi con (Substring match) và mở rộng từ điển viết tắt G6PD/THA để sửa lỗi bỏ sót các chẩn đoán ngắn dạng chung.
+  * Lập script `repair_submission_v6.py` sửa trực tiếp 78 lỗi đè nhãn triệu chứng và 41 mã ICD-10 trong tệp submission để nộp lại ngay lập tức, nâng điểm lên 9.73%.
+  * Viết script suy luận hợp nhất [run_ensemble_inference.py](file:///D:/AI%20Race/Viettel_Race_2026/pipeline/run_ensemble_inference.py) nạp đồng thời Qwen (suy luận theo từ) và PhoBERT (NER BIO), giải quyết triệt để vấn đề mất Recall của Qwen đơn lẻ.
+* **Chi tiết Log:** [LOG-20260803-V7.8-DIAGNOSED-SUBMISSION-V6-LOW-SCORE-AND-REPAIRED.md](LOG-20260803-V7.8-DIAGNOSED-SUBMISSION-V6-LOW-SCORE-AND-REPAIRED.md)
+
+---
+
+### 📌 LOG-20260802-V7.7: Điều chỉnh Độ dài Phân đoạn (Chunk Size) và Độ gối đầu (Overlap) Cửa sổ Trượt
+* **Ngày thực hiện:** `2026-08-02 22:50:00 (UTC+7)`
+* **Lý do:** Cải tiến độ phủ ngữ cảnh của thuật toán Cửa sổ trượt (Sliding Window) dựa trên số liệu thống kê độ dài câu thực tế nhằm tăng Recall, tránh mất thực thể ở ranh giới phân đoạn.
+* **Cách khắc phục:**
+  * Sửa đổi Qwen chunk size lên `256 từ` và overlap lên `60 từ` (tương đương 3 câu) để cải thiện Recall ngữ cảnh.
+  * Tăng PhoBERT overlap lên `60 từ` (giữ nguyên chunk size `120 từ` để tránh bị cắt xén do giới hạn 256 tokens).
+  * Đồng bộ các script được cập nhật vào `D:\AI Race\script\`.
+* **Chi tiết Log:** [LOG-20260802-V7.7-ADJUSTING-SLIDING-WINDOW-CHUNK-SIZES-AND-OVERLAPS.md](file:///D:/AI%20Race/Long_Logs/LOG-20260802-V7.7-ADJUSTING-SLIDING-WINDOW-CHUNK-SIZES-AND-OVERLAPS.md)
+
+---
+
+### 📌 LOG-20260802-V7.6: Sửa lỗi Lệch chuẩn Unicode NFD/NFC & Thuật toán Căn chỉnh Thực thể Mờ (Fuzzy Substring Match)
+* **Ngày thực hiện:** `2026-08-02 22:40:00 (UTC+7)`
+* **Lý do:** Giải quyết hiện tượng bỏ qua thực thể (Skipped Entities) do lệch định dạng Unicode (NFC/NFD) trong 20% tệp dữ liệu test gốc và sự sai lệch chính tả/tiền tố từ sinh của LLM.
+* **Cách khắc phục:**
+  * Tích hợp cơ chế chuẩn hóa NFC tự động trong `find_closest_position` và `validate_and_align_positions`.
+  * Áp dụng SequenceMatcher để ánh xạ vị trí ký tự động ngược từ NFC về NFD gốc chính xác.
+  * Xây dựng bộ quét cửa sổ trượt mờ cục bộ ($\pm 80$ ký tự) lấy phân đoạn có tỷ lệ khớp cao nhất ($\ge 70\%$) và tự động sửa thực thể theo văn bản gốc.
+  * Đồng bộ các script được cập nhật vào `D:\AI Race\script\`.
+* **Chi tiết Log:** [LOG-20260802-V7.6-FIXING-UNICODE-ALIGNMENT-AND-FUZZY-SUBSTRING-MATCHING.md](LOG-20260802-V7.6-FIXING-UNICODE-ALIGNMENT-AND-FUZZY-SUBSTRING-MATCHING.md)
+
+---
+
+### 📌 LOG-20260802-V7.5: Khắc phục Lỗi Ghi đè Mã ICD-10/RxNorm & Kích hoạt Tìm kiếm Ngữ nghĩa
+* **Ngày thực hiện:** `2026-08-02 22:35:00 (UTC+7)`
+* **Lý do:** Phân tích nguyên nhân điểm số nộp bài Submission V4 cực thấp (8.4%) và sửa lỗi bỏ qua bộ chuẩn hóa mã `HybridLinker` khi LLM sinh mã ảo giác, đồng thời kích hoạt mặc định Layer 3 (Semantic Search) khi gộp kết quả.
+* **Cách khắc phục:**
+  * Sửa lỗi trong `run_qwen_inference.py` để ép buộc `linker.link_entity` ghi đè mã CSDL chuẩn lên trên mã do LLM tự sinh.
+  * Sửa đổi `merge_submissions.py` kích hoạt mặc định `use_semantic=True` để giải quyết các trường hợp viết tắt như "G6PD" thông qua tìm kiếm vector.
+  * Đồng bộ các script được cập nhật vào `D:\AI Race\script\`.
+* **Chi tiết Log:** [LOG-20260802-V7.5-FIXING-CANDIDATES-OVERWRITE-BUG-AND-SEMANTIC-LINKING.md](file:///D:/AI%20Race/Long_Logs/LOG-20260802-V7.5-FIXING-CANDIDATES-OVERWRITE-BUG-AND-SEMANTIC-LINKING.md)
+
+---
+
+### 📌 LOG-20260802-V7.4: Phân tích Xu hướng Hội tụ Epoch 1 & Thiết lập Siêu tham số Tối ưu cho Epoch 2
+* **Ngày thực hiện:** `2026-08-02 22:15:00 (UTC+7)`
+* **Lý do:** Phân tích đặc tính hội tụ Epoch 1 từ `trainer_state.json` để đưa ra các thiết lập và siêu tham số tối ưu (LR, scheduler, warmup, optimizer) cho huấn luyện tiếp nối (Continued Fine-tuning) Epoch 2.
+* **Cách khắc phục:**
+  * Viết script `analyze_trainer_state.py` để phân tích độ hội tụ Epoch 1 (Loss giảm 72.85%, grad norm ổn định < 0.40).
+  * Điều chỉnh `learning_rate` xuống `5e-5` (tránh quên kiến thức cũ), dùng `cosine` scheduler và `warmup_ratio=0.03`.
+  * Đổi bộ tối ưu sang `paged_adamw_8bit` chống tràn VRAM.
+  * Cập nhật script `train_epoch2_colab.py` theo cấu hình trên và đồng bộ hóa đường dẫn Drive.
+* **Chi tiết Log:** [LOG-20260802-V7.4-ANALYSIS-OF-TRAINING-TRENDS-AND-EPOCH2-HYPERPARAMETERS.md](file:///D:/AI%20Race/Long_Logs/LOG-20260802-V7.4-ANALYSIS-OF-TRAINING-TRENDS-AND-EPOCH2-HYPERPARAMETERS.md)
+
+---
+
+### 📌 LOG-20260802-V7.3: Làm sạch Tập tin Nộp bài V3 (Lọc ký tự đặc biệt) & Nâng cấp Suy luận Qwen lên V4.0 (Sliding Window & Repetition Penalty)
+* **Ngày thực hiện:** `2026-08-02 20:45:00 (UTC+7)`
+* **Lý do:** Khắc phục lỗi candidates chứa ký tự đặc biệt `*` / `†` kéo tụt điểm J_candidates của lượt nộp V3 xuống 3.54%, và gộp lặp từ để tránh lặp vô hạn. Nâng cấp code chạy Kaggle lên bản V4.0 hỗ trợ sliding window để tăng Recall trên văn bản dài.
+* **Cách khắc phục:**
+  * Sửa `hybrid_linker.py` để tự động loại bỏ các ký tự đặc biệt `*` và `†` khỏi candidate codes.
+  * Cập nhật `merge_submissions.py` để bổ sung cơ chế fallback giữ lại candidates thô (đã làm sạch) của Qwen khi tra cứu DB thất bại.
+  * Gộp và nén lại file nộp bài `output_merged_v1.zip` sạch sẽ, giải quyết triệt để vòng lặp lặp từ.
+  * Thiết lập và nâng cấp `run_qwen_inference.py` lên V4.0 tích hợp Sliding Window và repetition penalty 1.15.
+  * Sao lưu các scripts quan trọng vào `D:\AI Race\script`.
+* **Chi tiết Log:** [LOG-20260802-V7.3-CLEANED-V3-SUBMISSION-AND-UPGRADED-V4-KAGGLE-INFERENCE.md](file:///D:/AI%20Race/Long_Logs/LOG-20260802-V7.3-CLEANED-V3-SUBMISSION-AND-UPGRADED-V4-KAGGLE-INFERENCE.md)
+
+---
+
 ### 📌 LOG-20260802-V6.7: Giải quyết Lỗi Chuẩn hóa Unicode NFD/NFC, Cân bằng Word Splitter, Khử Nhiễu Âm Tiết Đơn & Tiền xử lý Dính chữ
 * **Ngày thực hiện:** `2026-08-02 19:00:00 (UTC+7)`
 * **Lý do:** Khắc phục lỗi vỡ âm tiết do văn bản gốc dạng NFD, lệch word splitter làm dấu câu dính vào thực thể, tràn bộ đếm token gây lỗi CUDA, lọc nhiễu âm tiết đơn lẻ, và xử lý dính chữ lâm sàng (ví dụ "bịchảy").

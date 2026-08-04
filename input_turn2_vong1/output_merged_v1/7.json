@@ -10,6 +10,16 @@
     "candidates": []
   },
   {
+    "text": "đau",
+    "position": [
+      1491,
+      1494
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "viêm bao tử",
     "position": [
       1517,
@@ -17,7 +27,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.13"
+    ]
   },
   {
     "text": "nhôm hydroxid",
@@ -37,6 +49,8 @@
     ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "17627"
+    ]
   }
 ]

@@ -1,22 +1,8 @@
 [
   {
-    "text": "tăng huyết áp",
+    "text": "ho, thiếu oxy",
     "position": [
-      75,
-      88
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
-  },
-  {
-    "text": "thiếu oxy",
-    "position": [
-      302,
+      298,
       311
     ],
     "type": "TRIỆU_CHỨNG",
@@ -46,6 +32,16 @@
     "candidates": []
   },
   {
+    "text": "sốt",
+    "position": [
+      710,
+      713
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "tiêu chảy các thuốc của ông ấy",
     "position": [
       745,
@@ -68,6 +64,16 @@
     "candidates": []
   },
   {
+    "text": "sốt",
+    "position": [
+      1019,
+      1022
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "vếtvết protein niệu",
     "position": [
       1813,
@@ -84,6 +90,16 @@
       1858
     ],
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "dưới phải",
+    "position": [
+      1939,
+      1948
+    ],
+    "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": []
   }

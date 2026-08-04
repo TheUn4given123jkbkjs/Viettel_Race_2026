@@ -29,7 +29,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F31.64"
+    ]
   },
   {
     "text": "Rối loạn lưỡng cực",
@@ -40,7 +42,7 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "F31.81"
+      "F31.71"
     ]
   },
   {
@@ -51,6 +53,8 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F06.4"
+    ]
   }
 ]

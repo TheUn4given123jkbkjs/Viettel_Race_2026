@@ -7,20 +7,8 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
-  },
-  {
-    "text": "Tăng huyết áp",
-    "position": [
-      184,
-      197
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
     "candidates": [
-      "I10"
+      "A52.72"
     ]
   },
   {
@@ -32,8 +20,28 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "D81"
+      "F02.4"
     ]
+  },
+  {
+    "text": "ban đỏ",
+    "position": [
+      1008,
+      1014
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau nhiều",
+    "position": [
+      1150,
+      1159
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "đau đớn",

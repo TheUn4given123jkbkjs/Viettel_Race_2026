@@ -1,31 +1,25 @@
 [
   {
-    "text": "Tăng huyết áp",
+    "text": "tháo đường",
     "position": [
-      73,
-      86
+      35,
+      45
     ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": [],
     "candidates": [
-      "I10"
+      "E12.9"
     ]
   },
   {
-    "text": "tăng huyết áp",
+    "text": "chóng mặt",
     "position": [
-      88,
-      101
+      325,
+      334
     ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "khó thở",

@@ -12,20 +12,6 @@
     ]
   },
   {
-    "text": "Tăng huyết áp",
-    "position": [
-      87,
-      100
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
-  },
-  {
     "text": "khó thở",
     "position": [
       412,
@@ -45,6 +31,16 @@
     "assertions": [
       "isNegated"
     ],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      532,
+      535
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
     "candidates": []
   },
   {
@@ -72,6 +68,16 @@
     "candidates": []
   },
   {
+    "text": "đau",
+    "position": [
+      633,
+      636
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "Không đánh trống ngực",
     "position": [
       696,
@@ -91,7 +97,9 @@
     ],
     "type": "THUỐC",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "7213"
+    ]
   },
   {
     "text": "Sỏi niệu quản",

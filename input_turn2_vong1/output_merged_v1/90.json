@@ -15,27 +15,9 @@
       102,
       115
     ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
-  },
-  {
-    "text": "tăng huyết áp",
-    "position": [
-      117,
-      130
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "Táo bón mãn tính",
@@ -72,6 +54,36 @@
     "position": [
       240,
       249
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "mệt mỏi, ho",
+    "position": [
+      322,
+      333
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ho",
+    "position": [
+      759,
+      761
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      825,
+      828
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

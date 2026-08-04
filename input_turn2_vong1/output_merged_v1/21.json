@@ -12,6 +12,16 @@
     ]
   },
   {
+    "text": "tinh bột",
+    "position": [
+      49,
+      57
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "Bệnh thoái hóa tinh bột",
     "position": [
       308,
@@ -20,8 +30,28 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "E85"
+      "R05"
     ]
+  },
+  {
+    "text": "tinh bột",
+    "position": [
+      323,
+      331
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tinh bột",
+    "position": [
+      821,
+      829
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "bàng quang",
@@ -38,6 +68,16 @@
     "position": [
       1605,
       1631
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      1605,
+      1608
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

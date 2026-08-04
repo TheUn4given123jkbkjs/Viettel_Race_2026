@@ -1,5 +1,15 @@
 [
   {
+    "text": "ngứa",
+    "position": [
+      102,
+      106
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "MÀY ĐAY VÔ CĂN",
     "position": [
       733,
@@ -7,7 +17,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L50"
+    ]
   },
   {
     "text": "MÀY ĐAY MẠN TÍNH",
@@ -17,6 +29,20 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "L50"
+    ]
+  },
+  {
+    "text": "ệnh học chủ yếu là tình trạ",
+    "position": [
+      873,
+      907
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "R05"
+    ]
   }
 ]

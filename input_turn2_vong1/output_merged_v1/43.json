@@ -12,6 +12,18 @@
     ]
   },
   {
+    "text": "mãn tính",
+    "position": [
+      80,
+      88
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "D63.8"
+    ]
+  },
+  {
     "text": "tăng cholesterol máu đơn thuần",
     "position": [
       95,
@@ -34,6 +46,16 @@
     "candidates": [
       "I10"
     ]
+  },
+  {
+    "text": "đau",
+    "position": [
+      304,
+      307
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "ảo giác",

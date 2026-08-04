@@ -1,9 +1,49 @@
 [
   {
+    "text": "sốt cấp",
+    "position": [
+      53,
+      60
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      1423,
+      1426
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "Sốt cao kéo dài",
     "position": [
       1439,
       1454
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sốt cao",
+    "position": [
+      1439,
+      1446
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Sốt",
+    "position": [
+      1458,
+      1461
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -78,7 +118,27 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "S15.0"
+      "I25.0"
     ]
+  },
+  {
+    "text": "sốt cao",
+    "position": [
+      3550,
+      3557
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đỏ mắt, ban đỏ",
+    "position": [
+      3587,
+      3601
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   }
 ]

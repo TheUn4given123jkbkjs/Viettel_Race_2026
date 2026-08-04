@@ -10,17 +10,15 @@
     "candidates": []
   },
   {
-    "text": "Tăng huyết áp",
+    "text": "mãn tính",
     "position": [
-      698,
-      711
+      665,
+      673
     ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": [],
     "candidates": [
-      "I10"
+      "D63.8"
     ]
   },
   {
@@ -43,7 +41,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A60.09"
+    ]
   },
   {
     "text": "ảo giác",

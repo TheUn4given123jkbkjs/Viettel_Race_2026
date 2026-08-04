@@ -1,5 +1,15 @@
 [
   {
+    "text": "sốt",
+    "position": [
+      147,
+      151
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "Bệnh lý đau nửa đầu",
     "position": [
       336,
@@ -7,13 +17,45 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "B02.22"
+    ]
   },
   {
     "text": "đau nửa đầu",
     "position": [
       376,
       387
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      624,
+      627
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      778,
+      781
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      1503,
+      1506
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

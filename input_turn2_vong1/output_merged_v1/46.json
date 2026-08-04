@@ -1,17 +1,23 @@
 [
   {
-    "text": "tăng huyết áp",
+    "text": "khó thở",
     "position": [
-      82,
-      95
+      35,
+      42
     ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      243,
+      246
     ],
-    "candidates": [
-      "I10"
-    ]
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "phù phổi cấp",
@@ -41,13 +47,29 @@
       347,
       360
     ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "phù",
+    "position": [
+      493,
+      496
     ],
-    "candidates": [
-      "I10"
-    ]
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "sốt",
+    "position": [
+      504,
+      507
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "Siêu âm doper tim",
@@ -70,17 +92,33 @@
     "candidates": []
   },
   {
-    "text": "Tăng huyết áp",
+    "text": "mệt mỏi",
     "position": [
-      1235,
-      1248
+      1444,
+      1451
     ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "ngứa",
+    "position": [
+      1541,
+      1545
     ],
-    "candidates": [
-      "I10"
-    ]
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      1630,
+      1633
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   }
 ]

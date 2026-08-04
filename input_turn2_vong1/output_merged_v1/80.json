@@ -1,5 +1,15 @@
 [
   {
+    "text": "đau",
+    "position": [
+      115,
+      118
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "hạt nhỏ màu trắng",
     "position": [
       166,
@@ -27,7 +37,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.11"
+    ]
   },
   {
     "text": "tăng áp lực tĩnh mạch cửa",
@@ -40,9 +52,9 @@
     "candidates": []
   },
   {
-    "text": "cổ trướng",
+    "text": "trướng",
     "position": [
-      1063,
+      1066,
       1072
     ],
     "type": "TRIỆU_CHỨNG",

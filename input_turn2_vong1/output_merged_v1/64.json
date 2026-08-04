@@ -8,7 +8,7 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "S15.0"
+      "I25.0"
     ]
   },
   {
@@ -50,6 +50,18 @@
       830
     ],
     "type": "THUỐC",
+    "assertions": [],
+    "candidates": [
+      "7454"
+    ]
+  },
+  {
+    "text": "nôn",
+    "position": [
+      1226,
+      1229
+    ],
+    "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "candidates": []
   }

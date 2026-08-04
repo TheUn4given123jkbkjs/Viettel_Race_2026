@@ -1,19 +1,5 @@
 [
   {
-    "text": "Tăng huyết áp",
-    "position": [
-      357,
-      370
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
-  },
-  {
     "text": "tăng lipid máu, không đặc hiệu",
     "position": [
       377,
@@ -33,7 +19,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A60.09"
+    ]
   },
   {
     "text": "hẹp ống sống",
@@ -48,14 +36,16 @@
     ]
   },
   {
-    "text": "Giả gout",
+    "text": "gout",
     "position": [
-      460,
+      464,
       468
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "F68.10"
+    ]
   },
   {
     "text": "tăng sản tuyến tiền liệt",
@@ -68,5 +58,15 @@
     "candidates": [
       "N40"
     ]
+  },
+  {
+    "text": "siêu âm",
+    "position": [
+      1573,
+      1580
+    ],
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "candidates": []
   }
 ]

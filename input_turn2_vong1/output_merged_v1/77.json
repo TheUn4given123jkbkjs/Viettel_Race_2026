@@ -10,10 +10,30 @@
     "candidates": []
   },
   {
+    "text": "đau",
+    "position": [
+      73,
+      76
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "đau đầu gối phải",
     "position": [
       202,
       218
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau",
+    "position": [
+      202,
+      205
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -29,20 +49,6 @@
     "assertions": [],
     "candidates": [
       "I50"
-    ]
-  },
-  {
-    "text": "tăng huyết áp",
-    "position": [
-      1063,
-      1076
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
     ]
   }
 ]

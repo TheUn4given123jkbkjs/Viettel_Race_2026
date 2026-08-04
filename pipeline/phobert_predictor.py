@@ -167,8 +167,12 @@ def clean_and_validate_entity(text_nfd, start_nfd, end_nfd, ent_type):
             ent_type = "TÊN_XÉT_NGHIỆM"
             break
             
-    # Tự động sửa triệu chứng đơn tiết phổ biến nếu nhãn bị gán sai
-    if text_clean in {"đau", "sốt", "ho", "ngứa", "nôn", "mệt", "ớn lạnh", "khó thở", "chóng mặt"}:
+    # Tự động sửa triệu chứng phổ biến nếu nhãn bị gán sai
+    if text_clean in {
+        "đau", "sốt", "ho", "ngứa", "nôn", "mệt", "ớn lạnh", "khó thở", "chóng mặt", 
+        "đau đầu", "đau ngực", "đau bụng", "buồn nôn", "mệt mỏi", "đánh trống ngực", 
+        "bí tiểu", "tiêu chảy", "táo bón", "chướng bụng", "dịch báng"
+    }:
         ent_type = "TRIỆU_CHỨNG"
                 
     # 3. Cắt bỏ hậu tố chỉ liều lượng thừa cho nhãn THUỐC
@@ -252,7 +256,7 @@ class PhobertPredictor:
         else:
             print("[PhoBERT Predictor] ⚠️ Chạy ở chế độ MOCK (Chưa cấu hình model_path).")
 
-    def split_text_into_chunks(self, text_nfc, max_words=120, overlap_words=30):
+    def split_text_into_chunks(self, text_nfc, max_words=120, overlap_words=60):
         """
         Cắt văn bản NFC thành các đoạn tối ưu dưới 240 tokens dựa trên số token thực tế của từ.
         """

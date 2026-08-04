@@ -1,16 +1,14 @@
 [
   {
-    "text": "Tăng huyết áp",
+    "text": "mãn tính",
     "position": [
-      80,
-      93
+      69,
+      77
     ],
     "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": [],
     "candidates": [
-      "I10"
+      "D63.8"
     ]
   },
   {
@@ -22,7 +20,7 @@
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
     "candidates": [
-      "N18.9"
+      "N11.9"
     ]
   },
   {
@@ -56,20 +54,6 @@
     "candidates": []
   },
   {
-    "text": "tăng huyết áp",
-    "position": [
-      715,
-      728
-    ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "I10"
-    ]
-  },
-  {
     "text": "thuyên tắc phổi",
     "position": [
       1226,
@@ -77,7 +61,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "I26.0"
+    ]
   },
   {
     "text": "Siêu âm mạch máu chi trên",

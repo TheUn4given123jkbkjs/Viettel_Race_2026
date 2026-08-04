@@ -7,7 +7,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.75"
+    ]
   },
   {
     "text": "tăng huyết áp",
@@ -56,12 +58,32 @@
     "candidates": []
   },
   {
+    "text": "đau",
+    "position": [
+      307,
+      310
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "không vững khi đứng",
     "position": [
       781,
       800
     ],
     "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đã đặt",
+    "position": [
+      1288,
+      1294
+    ],
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "candidates": []
   }

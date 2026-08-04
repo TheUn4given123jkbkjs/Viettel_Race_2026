@@ -1,5 +1,15 @@
 [
   {
+    "text": "ho",
+    "position": [
+      29,
+      31
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
     "text": "Viêm hang vị sung huyết",
     "position": [
       132,
@@ -7,7 +17,9 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.74"
+    ]
   },
   {
     "text": "đau bụng cồn cào",
@@ -43,6 +55,16 @@
     "text": "buồn nôn",
     "position": [
       333,
+      341
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      338,
       341
     ],
     "type": "TRIỆU_CHỨNG",

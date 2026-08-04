@@ -7,13 +7,37 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A50.04"
+    ]
+  },
+  {
+    "text": "xe phổi",
+    "position": [
+      751,
+      758
+    ],
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "candidates": [
+      "J85"
+    ]
   },
   {
     "text": "đau đầu",
     "position": [
       1488,
       1495
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "đau đầu",
+    "position": [
+      1538,
+      1545
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -57,6 +81,8 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "J85"
+    ]
   }
 ]

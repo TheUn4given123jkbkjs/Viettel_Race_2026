@@ -10,18 +10,24 @@
     "candidates": []
   },
   {
-    "text": "Tăng huyết áp",
+    "text": "đọng lipid",
     "position": [
-      716,
-      729
+      454,
+      464
     ],
-    "type": "CHẨN_ĐOÁN",
-    "assertions": [
-      "isHistorical"
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "tháo đường",
+    "position": [
+      737,
+      747
     ],
-    "candidates": [
-      "I10"
-    ]
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
   },
   {
     "text": "Đau thắt ngực ổn định",
@@ -48,6 +54,26 @@
     "position": [
       1214,
       1222
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "Mệt",
+    "position": [
+      1356,
+      1359
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      1368,
+      1371
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

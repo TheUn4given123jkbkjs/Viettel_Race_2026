@@ -27,13 +27,15 @@
     ],
     "type": "CHẨN_ĐOÁN",
     "assertions": [],
-    "candidates": []
+    "candidates": [
+      "A52.74"
+    ]
   },
   {
-    "text": "đau bụng cồn cào",
+    "text": "đau bụng",
     "position": [
       552,
-      568
+      560
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -54,6 +56,26 @@
     "position": [
       585,
       591
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      617,
+      620
+    ],
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "candidates": []
+  },
+  {
+    "text": "nôn",
+    "position": [
+      626,
+      629
     ],
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
